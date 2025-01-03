@@ -11,8 +11,6 @@ async function fetchTriviaQuestions() {
             }              
           })
           .catch(error => console.error('Error loading JSON:', error));
-        
-        return [];
     } catch (error) {
         reportError(error);
         return [];
