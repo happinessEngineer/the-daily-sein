@@ -1,0 +1,106 @@
+{
+  "gameNumber": 107,
+  "date": "2025-04-20",
+  "questions": [
+    {
+      "quote": "Hey. Hey. Hey. Hey. Hey. Hey. Hey. Wha -- what are you doing?",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to go meet Nina. Want to come up to her lot, check out her paintings?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh, OK, fine, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.",
+      "characters": [
+        "Jerry",
+        "Kevin",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There must be some kind of lab that would do that kind of thing.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Maura",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I threw my back out about 15 years ago. Ever since I have been very careful. I only buy furniture in the ergonomics store.",
+      "characters": [
+        "Hal",
+        "Elaine",
+        "David",
+        "George"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "It was just an innocent comment! I didn't know she had a pony!",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer what am I going to do did you hear that that guy's gonna put a kibosh on me he's crazy he's out of his mind....",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "S, uh, Superman - he, uh, built the fortress of solitude up at the North Pole, to, uh, you know, sort of get away from it all..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Within the confines of his fastidious bachelor *pad*, Seinfeld and Costanza bicker over the cleanliness of a piece of *fruit* like an old married couple--\" *I told you that pear was washed*!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So she's just sitting there, she's having a pleasant conversation... and all of a sudden.",
+      "characters": [
+        "Kramer",
+        "Hallie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

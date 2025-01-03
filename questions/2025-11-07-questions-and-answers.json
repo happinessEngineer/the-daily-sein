@@ -1,0 +1,106 @@
+{
+  "gameNumber": 308,
+  "date": "2025-11-07",
+  "questions": [
+    {
+      "quote": "I know Teddy Padillac. I worked with him on Forty-eighth and Sixth.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Elaine, this dry air is curing me like a Black Forest ham.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Phil"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Thanks for that four a.m. wakeup call last night.  Where the hell is that jacket?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It is too small for someone with such a big mouth . Let me ask you. What will you do if Martine wakes up? Run away like a mouse?",
+      "characters": [
+        "George",
+        "Gina",
+        "Jerry",
+        "Glenn"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": ": I didn,t tell you to park in that lot .. Now someone's gonna have to drive you every time you need your car.? Take the bus!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, I think everything else is okay. Unless of course she's faking.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You shouldn't have said anything. What did you expect him to do?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Why? Why did you get into a fist fight with the cop? You were innocent!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right we got the wine. Aren't we lucky? We got wine. Whoopee Whoa! Imagine if we didn't bring the wine. We'd be shunned by society. Outcasts! WHERE'S YOUR WINE? GET OUT!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Pfft! Hold it right there. If you're suggesting what I think you're suggesting, you're wasting your time. I am not Jerry, under any circumstances, doing any inserting in that area.",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

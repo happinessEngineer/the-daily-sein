@@ -1,0 +1,106 @@
+{
+  "gameNumber": 123,
+  "date": "2025-05-06",
+  "questions": [
+    {
+      "quote": "Oh. You know what?  I'm gonna grab these from you later. You'll take care of 'em, okay? Okay. See you tomorrow.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Silvio",
+        "Lena"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know why Rachel had to drive back with Michael and Carol.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Me? Oh no, but I'd love to have a baby, I mean, I can't wait to have a baby. I'm just dyin' to have a baby.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is what they would do in the movies! It's a beautiful thing! It's like a movie! I'm gonna slip him a mickey!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. A couple of people. I don't get that, though. Where do you start?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I know myself. If I'm out on the street and it's starts to go down, I don't back off until it's finished.",
+      "characters": [
+        "Nana",
+        "Carol",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's called Sendrax. They've got some new kind of technique for televising opera.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. So, what theatre you wanna go to tonight? We got 61st and 3rd or 84th and Broadway.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Russell",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What!? I happen to have a very steady boyfriend. You know, I mean, we broke up a few times and there has been an occasional guy here or... or there, but, wh-why is this your business?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's the funny face that greets you at the beginning of the Super Terrific Happy Hour.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

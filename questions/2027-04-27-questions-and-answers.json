@@ -1,0 +1,106 @@
+{
+  "gameNumber": 844,
+  "date": "2027-04-27",
+  "questions": [
+    {
+      "quote": "No, don't say a word. If she thinks my friends are jerks, then I'm a *jerk*...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know . I have no idea . I was just listening and she came on.",
+      "characters": [
+        "Carol",
+        "Rita",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And instead of a tree, didn't your father put up an aluminum pole?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, he did some dental work for me and he didn't charge me so I thought I'd get him a Christmas present.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Naomi",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know and I didn't want to find out. So where is my jacket?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, of course it could be done! Anything could be done! But it only is done if it's done! Show me the levels! The bet is the levels!",
+      "characters": [
+        "Elaine",
+        "Harold",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Bad dog! Bad dog! You go outside! Outside!! What do you want from me? Tell me! Money, you want money? I'll give you money, how much?!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You were right Kramer, this slicer is absolutely amazing...yeah, yeah...no no no I'll bring it by tonight...ok bye.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I just stomped some pigeons in the park. They - they didn't move.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a 'thank you' card from Kristin because I'm doing the PBS drive. I mean, how long am I supposed to keep it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

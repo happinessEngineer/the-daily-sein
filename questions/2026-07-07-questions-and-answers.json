@@ -1,0 +1,106 @@
+{
+  "gameNumber": 550,
+  "date": "2026-07-07",
+  "questions": [
+    {
+      "quote": "Your name's Benes, your hair, and you kept taking me to those Spanish restaurants.",
+      "characters": [
+        "Darryl",
+        "Rick",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "You see I come up with these things, I know they're gold, but nothing happens. You know why?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That looked like milk to me! Jerry my Rods and Cones are all screwed up! Alright, that's it.  I gotta move in with you Jerry.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You don't think you can buy the ticket yourself...? No, there, there...you sit, and I'll purchase the ticket for you.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I took over his route. And boy, were there a lot of dogs on that route.",
+      "characters": [
+        "Jackie",
+        "Newman",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hi. Sorry I'm late. There's a lotta chairs and balloons in my apartment. How 'bout I make it up to you with dinner?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What if you get involved with a woman? How're you gonna tell her?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, O.K. I'll go get 'em.  What are you doing? Would you just put that down?  I gotta get some new friends.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Ed, let me ask you something. What's with the fatigues and all the psychotic imagery? Huh?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helena",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, black Saab. Looks like that building cut you off! Ha ha ha! See ya around!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Lamar"
+      ],
+      "correctAnswer": "Lamar"
+    }
+  ]
+}

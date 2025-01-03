@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1110,
+  "date": "2028-01-18",
+  "questions": [
+    {
+      "quote": "You know, I don't think I want to be your girlfriend or your maid.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
+        "Cindy"
+      ],
+      "correctAnswer": "Cindy"
+    },
+    {
+      "quote": "Emphysema, birth defects, cancer. But not this. Jerry, my face is my livelihood. Everything I have I owe to this face.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I think, you know, she was, like, crying, and he was consoling her, and then, she, uh, just got into his car, and they just drove away.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So I listened to my katra and now <vreep> I'm dominating the dojo. I'm class champion.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You are a good friend. You know what? Even if you killed somebody I wouldn't turn you in.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "..So anyway, Jerry, Elaine, we have something we want to ask you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Payoffs. Now we're playin' politics. All right, what do we next, Morty, huh? Wiretaps, slush funds?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on, man. You need to lighten up. You know, a feeling like this only happens once a year.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "When I find that guy, this much I vow: those glasses will be returned to their rightful owner.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "C'mon, you can't do anything about it. The cops won't do anything. What, are you going to fight him? Why don't you just forget it?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

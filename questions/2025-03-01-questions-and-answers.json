@@ -1,0 +1,106 @@
+{
+  "gameNumber": 57,
+  "date": "2025-03-01",
+  "questions": [
+    {
+      "quote": "That old one? Didn't I once miss a flight to Cleveland because of that alarm clock?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what? I could probably do this. What's the difference.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, don't listen to him. I mean, we can't afford a detour. Our budget won't hold it.",
+      "characters": [
+        "Newman",
+        "Mickey",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Between you and me I think your country is placing a lot of importance on shoe removal.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah. I picked up this shirt here yesterday. It's completely shrunk. There's absolutely no way I can wear it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if you think she's too good for George, you are dead wrong. Dead wrong. Who is she?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I've considered that.  Look, how do I get in touch with this guy?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, do you think this is funny? ``Why do they call it athlete's foot? You don't have to be an athlete to get it. I mean, my father gets it all the time, and believe me, he's no athlete!''",
+      "characters": [
+        "Buckles",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "Are you even vaguely familiar with the concept of giving?  There's no grace period.",
+      "characters": [
+        "Amy",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've got a tape of 'Fantastic voyage' if you think that would help.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

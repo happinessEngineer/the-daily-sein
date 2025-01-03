@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1106,
+  "date": "2028-01-14",
+  "questions": [
+    {
+      "quote": "Oh, he's nobody. Hey, listen, ... let me top that off for ya.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Front first, that's how you park when you're pulling a bank job.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Michael",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, to tell you the truth, Dr. Feffa, I , I was surprised to hear you use a word like breathtaking to describe a baby, I mean, because you also used it referring to me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you can wear a hat all the time now. Who's stopping you?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "yeah, all right, yeah….  They don't have any. But don't worry I'm going to get you one somewhere.",
+      "characters": [
+        "Tim",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't think so. I've seen you two together. You make each other miserable. It's kismet.",
+      "characters": [
+        "Pop",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it's burning my retina. Susan picked that out for you right?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Babu",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sir, I'm gonna have to ask you to stand out of the way and let us handle this.  Swarm! Swarm!",
+      "characters": [
+        "Guard",
+        "Estelle",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Guard"
+    },
+    {
+      "quote": "No, I can't. She knows I go there. It's not secure.  Hey, I got another call comin' in. I gotta let the machine get it. Bye.",
+      "characters": [
+        "Tim",
+        "Newman",
+        "Danielle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know her either.  She makes me fly all the way from Florida for this, and then she criticizes my jacket.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

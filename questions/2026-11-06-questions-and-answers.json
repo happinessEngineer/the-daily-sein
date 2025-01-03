@@ -1,0 +1,106 @@
+{
+  "gameNumber": 672,
+  "date": "2026-11-06",
+  "questions": [
+    {
+      "quote": "Maybe it was your fault. It wasn't my fault. I can tell you that.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Bania"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I've been trying to leave this group for 10 years. Vaya con dios.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, my shampoo. Yeah, it is Pantene, I got a free sample in with my junk mail.",
+      "characters": [
+        "Pam",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Pam"
+    },
+    {
+      "quote": "Oh, no no no...no more banks. I'm keeping my blood in my freezer with...my money!",
+      "characters": [
+        "Jerry",
+        "Maestro",
+        "Kurt",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ooh, I've got stump troubles. The Sanitation Department won't get rid of them all, I can't get a truck to haul this stuff until next week. Meanwhile, I'm sitting on a mountain of stumps.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No I can't. I can't die with dignity. I have no dignity. I want to be the one person who doesn't die with dignity. I live my whole life in shame. Why should I die with dignity?",
+      "characters": [
+        "Carol",
+        "George",
+        "Jerry",
+        "Dana"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You already have an in. You have the same first name!...  'Jerry'!",
+      "characters": [
+        "George",
+        "Nurse",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Shhhhh. If you want to get in, there's very little time.  Sweetheart..  No, no, no. That ought to cover it.  Just a second. Just a... let me jus-peek...  Come on, come on, come on...",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You want a picture like that on a Christmas card? I can do that for you. ...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let me ask you something. When's the last time you went skiing?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rula",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

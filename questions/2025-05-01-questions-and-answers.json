@@ -1,0 +1,106 @@
+{
+  "gameNumber": 118,
+  "date": "2025-05-01",
+  "questions": [
+    {
+      "quote": "So I'm glad we had a talk and worked this out. Don't you feel this is better?",
+      "characters": [
+        "Peterman",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And she'll still see it, you're not stopping her from seeing it.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There was cleavage in the area. That's a reflex -  - cleavage-poke, cleavage-poke...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Celia",
+        "Ping"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow. That's great! When it comes out, I'll have to get someone to ghost read it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, Tiny. I wanna know where Kramer is and wanna know now!",
+      "characters": [
+        "Morty",
+        "Man",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is a place of business. I told you never to come in here. Serenity now!",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hi, you must be Jerry. Sandy's in the shower. Do you want to come in?",
+      "characters": [
+        "Elaine",
+        "Laura",
+        "Nina",
+        "George"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Well, sometimes we do actually have to get up early, but a man will *always* trade sleep for sex.",
+      "characters": [
+        "Anna",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I had some trouble at my place, so I need a little company at night to sleep.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think that dentists are so different from me and you? They came to this country just like everybody else, in search of a dream.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

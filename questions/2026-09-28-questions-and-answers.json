@@ -1,0 +1,106 @@
+{
+  "gameNumber": 633,
+  "date": "2026-09-28",
+  "questions": [
+    {
+      "quote": "Well I got banned from the store I can't go back in there now.",
+      "characters": [
+        "Ed",
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I want a small, plain vanilla in a cup to go. That's non-fat, right?",
+      "characters": [
+        "Bob",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah well, maybe if he didn't lick his fingers before he reached in the bag we would've eaten some. Serves him right.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I could've called the travel agency, got them on another flight to Paris, I coulda got them out.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "I just wanted you to have the comfort and report you deserve. That's why I had the mattress custom designed for you.",
+      "characters": [
+        "Hal",
+        "Jerry",
+        "Morty",
+        "Peterman"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "We have to put the board in a neutral place where no one will tamper with it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, you know what I'm thinking of doing? I'm getting rid of all my fillings, 'cos that mercury's toxic. Hey, let me see your fillings.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Look at my hands. Look. Filthy from the paper. You know, they should give you a Wet-nap when you buy one, like at those rib joints.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't eat cookies for breakfast! I'll fix you something. How 'bout a feta cheese omelette?",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend.",
+      "characters": [
+        "Robin",
+        "George",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

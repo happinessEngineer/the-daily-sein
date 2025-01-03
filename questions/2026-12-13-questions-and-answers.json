@@ -1,0 +1,106 @@
+{
+  "gameNumber": 709,
+  "date": "2026-12-13",
+  "questions": [
+    {
+      "quote": "You know chicken salad is not the opposite of tuna, salmon is the opposite of tuna, 'cuz salmon swim against the current,  and the tuna swim with it.",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, look at this guy. Look, he's got everything, he's got detergents, sprays, fabric softeners.  This is not his first load.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Lena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I'm under fire here.  I'm under heavy fire here, boy.  Jeez! That was a five-iron!",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if you talked this loud to begin with, I wouldn't be in this costume in the first place!",
+      "characters": [
+        "Jerry",
+        "Katie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, uh, no one, no one.  Here, uh, let me show you a short cut. Come on. Come on.",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "And from disorder, you're a quirk or two away from full-on dementia.",
+      "characters": [
+        "Russell",
+        "Jerry",
+        "Tony",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't believe this. So what are you saying? You didn't like my act, so that's it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's already an ambulance here for Mrs Glickman. There's room for one more.",
+      "characters": [
+        "Morty",
+        "Lena",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Now, if you want to go out and have some good, wholesome fun with a nice girl, I'd be glad to help you out...if you're looking for something more than that, you've got the wrong guy, buddy!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "YEAH!! UGH!!! ARG!!! ... I am afraid we're going to have to stop.",
+      "characters": [
+        "George",
+        "Man",
+        "Ava",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
+    }
+  ]
+}

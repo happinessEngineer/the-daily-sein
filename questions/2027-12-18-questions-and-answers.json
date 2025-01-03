@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1079,
+  "date": "2027-12-18",
+  "questions": [
+    {
+      "quote": "You know, you should call this off, Elaine. It's a barbaric ritual.",
+      "characters": [
+        "Rita",
+        "Man",
+        "Tawni",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not saying go to the library and read the whole history, but it wouldn't kill you to know a little bit about it.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You just said, 'nice to meet you', but actually we've met before.",
+      "characters": [
+        "Bania",
+        "Peterman",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, see? I knew you would lose 'em. That's why I took 'em out of your dresser drawer and put 'em in my strongbox.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "....I'm getting a little tired of hearing how horrible I am and would appreciate it if you would leave me out of your act all together.",
+      "characters": [
+        "Jerry",
+        "Helena",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you comparing yourself to Keith Hernandez. The guys a baseball player Jerry, Baseball!",
+      "characters": [
+        "Jerry",
+        "Landlord",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh Gosh! None of this would never have happened if you wouldn't have said 'God bless you'!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Remember when we were in the bookstore, that woman came up to us?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A limousine has just pulled up it's being surrounded by a huge group of protestors, this has the makings of a very ugly scene.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jodi",
+        "George"
+      ],
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "Well, that's what you get for getting mixed up with a face painter.",
+      "characters": [
+        "George",
+        "Rachel",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

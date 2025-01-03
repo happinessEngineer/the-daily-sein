@@ -1,0 +1,106 @@
+{
+  "gameNumber": 42,
+  "date": "2025-02-14",
+  "questions": [
+    {
+      "quote": "I find it disorienting. Who buys an umbrella anyway? Y..you get 'em for free in the coffee shop in the metal cans.",
+      "characters": [
+        "George",
+        "Stu",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, frankly, outside of a sexual relationship, I don't see the point to it. I'm not thrilled with all the handshaking either, but one step at a time.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sara",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry, you're parking meter's about to expire. Don't get up, I've got change.",
+      "characters": [
+        "Kramer",
+        "Stan",
+        "Poppie",
+        "Ellen"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "I don't know it was weird. Crazy printing. I don't know who it was from.",
+      "characters": [
+        "Noel",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Kramer told us all about your business venture together.",
+      "characters": [
+        "Elaine",
+        "Joyce",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Saw it? I loved it! And thank you for the free tickets. You are so funny.",
+      "characters": [
+        "Jerry",
+        "Sally",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "He only works three hours a day. He makes a fortune. Course he's been doing that for years, right Jerry?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There you are, Elaine. Go forth, and create.  And, by the way, when you get to that chapter about my romantic escapades - feel free to toss yourself in the mix.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Look, I am under direct orders from Mr Wilhelm. So if you have a problem with that, maybe you should just take it up with him.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, the engine clotted. You know who set this whole thing up for me? Frank Merman.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Melissa",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

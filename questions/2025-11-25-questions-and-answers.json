@@ -1,0 +1,106 @@
+{
+  "gameNumber": 326,
+  "date": "2025-11-25",
+  "questions": [
+    {
+      "quote": "So--ah, Kramer. Why'd you ask me out to dinner?  An' why Pomodoro?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, c'mon. Would you just make the call?  Please, make the call.",
+      "characters": [
+        "Leo",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talking about? That marriage ended six months ago. She's already remarried.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can get you a spot right behind him. He has got a great butt.",
+      "characters": [
+        "Tor",
+        "George",
+        "Kramer",
+        "Joyce"
+      ],
+      "correctAnswer": "Joyce"
+    },
+    {
+      "quote": "No, wait a minute, Newman! You can't let this dream die. You moving away is my dream too!",
+      "characters": [
+        "George",
+        "Robin",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's this crazy woman who is convinced that my germs make her sick.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She wants to keep it quiet. She... thinks we have a real future together.",
+      "characters": [
+        "Kramer",
+        "Carol",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ho, ho, ho! He's got a live one. He's just reeling his big fish in!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Worse. We made out at the table like our plane was going down!",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

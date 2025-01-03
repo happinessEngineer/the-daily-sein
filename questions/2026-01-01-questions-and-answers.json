@@ -1,0 +1,106 @@
+{
+  "gameNumber": 363,
+  "date": "2026-01-01",
+  "questions": [
+    {
+      "quote": "So, it's actually gotten to you? You're playing right into his hands!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George doesn't work. He's a bum. That's why he lives at home with us.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Mr. Lippman, when I worked for you at Pendent Publishing, I believed in you, you know as a man of integrity. But, I saw you in that paper hat and that aprin...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Hey, you're not working this weekend, why don't you come down?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What can I do? Break up with him? Tell him, \"I don't think we're right for each other.\" He's a guy! At least with a woman, there's a precendent. You know, the relationship goes sour, you end it.",
+      "characters": [
+        "Jerry",
+        "Sidra",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry wake up to reality. It's a military thing. They're probably creating a whole army of pig warriors.",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ok, now listen, I don't want any scenes in here like the last time.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Farkus"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well how could you just play your message in front of anybody?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, basically George the job here is quite simple. Selling bras.",
+      "characters": [
+        "Farkus",
+        "Kramer",
+        "Beth",
+        "Jerry"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Jerry! I'm *sure* I've seen men on the street early in the morning.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

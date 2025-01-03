@@ -1,0 +1,106 @@
+{
+  "gameNumber": 292,
+  "date": "2025-10-22",
+  "questions": [
+    {
+      "quote": "Isn't that...?  Oh, is this from the snow last night?  Ugh... you know what you should've done? You should've turned it inside out.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is out best model. The Cougar 9000. It's the Rolls Royce of wheelchairs. This is like... you're almost glad to be handicapped.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "You know my last name is Costanza. That's Italian. So you and I are like country men. Pisano's!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Seth",
+        "Attendant"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh I gotta start taking these \"stupid\" warnings more seriously.",
+      "characters": [
+        "Kramer",
+        "Manager",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again.",
+      "characters": [
+        "Kramer",
+        "Roy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Remember that New Year's party he threw a few years ago? He had that very drafty apartment, you know, I think on Ninth Avenue.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have a bonus reality stop today. We will be hauling muffin stumps to the local repository.",
+      "characters": [
+        "Kramer",
+        "Rabbi",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just came from the podiatrist. I have a mole on my foot. I've got a little gangrene, they're probably gonna have to amputate.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Oh god. Oh, Jerry it was so terrible what we just went through on the way home.  You wouldn't believe it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She and Jerry were a big thing, like Abe Lincoln and Mary Todd.",
+      "characters": [
+        "Elaine",
+        "Doorman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

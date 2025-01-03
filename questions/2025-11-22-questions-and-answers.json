@@ -1,0 +1,106 @@
+{
+  "gameNumber": 323,
+  "date": "2025-11-22",
+  "questions": [
+    {
+      "quote": "All right. Kramer, you block off traffic. You to go sweet-talk the pharmacist.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, first let me just say I've never been with a guy who was so committed to commit. I mean it's so rare in men these days an, that's what makes this all the more difficult.",
+      "characters": [
+        "Wilhelm",
+        "Daphne",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "You made a man cry? I've never made a man cry. I even kicked a guy in the groin once and he didn't cry. I got the cab.",
+      "characters": [
+        "Elaine",
+        "Todd",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Him and his little buxom friend Rachel were going at it pretty good in the balcony.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know what you ought to do George? You should work for Greenpeace. You those people they attack the whalers out on the open sea.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Lanette",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, right. You can't run for condo president because you were impeached at the other condo.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uncle Leo? This case is closed pending further evidence. Jerry.",
+      "characters": [
+        "Rachel",
+        "Margaret",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "It's a Wizard electronic organizer for my dad. I'm goin' to Florida for his birthday.",
+      "characters": [
+        "Jerry",
+        "Naomi",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Momma. Just talk to her, George. The doctor seems to think it helps.",
+      "characters": [
+        "Leslie",
+        "Frank",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yeah, I'll talk to Jerry. Yeah, [Hangs up] . . . you know that was Michael and Carol. She's wondering when we're going to come over and see the baby.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 678,
+  "date": "2026-11-12",
+  "questions": [
+    {
+      "quote": "It's a par five. So you know I step up to the tee and I hit a beautiful drive right down the middle of the fairway. I mean you know my hook, right?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I heard what happened to the junior high. They can't bump you like that. That is so unprofessional.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Katie",
+        "Lippman"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Also endowed. George... I know how much Susan meant to you. It can't be easy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "So, then you asked yourselves, \"Isn't there something more to life?\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's what you had to tell me? Your father wears sneakers in the pool?",
+      "characters": [
+        "Carol",
+        "Peterman",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Costanza, you may be my only friend around here. By the way, you got that birthday card?",
+      "characters": [
+        "Jerry",
+        "Morgan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "I didn't take the subway all the way to New York to sit at a table like that!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "'Dear Barry. Consider this letter to be official termination of our relationship effective immediately.'",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I need like a bucket of water! I got a car overheating, I got an alarm that won't go off, I'm pressing 'one', I'm pressing 'two', nothing! What do I do?! Help me! Help me!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, so I don't know if I got a funeral 'hello' or he was mad because he didn't get his day-after 'thank you'.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

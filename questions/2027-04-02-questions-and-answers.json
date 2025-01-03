@@ -1,0 +1,106 @@
+{
+  "gameNumber": 819,
+  "date": "2027-04-02",
+  "questions": [
+    {
+      "quote": "Jerry, I like being with her. Plus, I know where she is all the time. I have relatively no competition. An-and you know how you live in fear of the pop-in?",
+      "characters": [
+        "Rudy",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you stop it? You'll have plenty of time to destroy it after I get it. Hey, George, I'm buyin' this car.",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Little Jerry's going to get his clock cleaned. I gotta get him outta there.",
+      "characters": [
+        "George",
+        "Ned",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "OH, AH! OH! WOW! WHOA! A COMMIE! Wow, gee, man it must be a bummer for you guys what with the fall of the soviet empire and everything .",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, I don't know, what should we do? We called an ambulance, does anyone know first aid?",
+      "characters": [
+        "Detective",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think you absolutely have to say something to this guy. Confront him.",
+      "characters": [
+        "Driver",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I.. ran out onto the court an' threw a hotdog at Reggie Miller. \"Involved.\" An' they threw meee, an' Reggie, an' Spike out o' the game.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I hope you realise what you've done. You've destroyed our whole venture.",
+      "characters": [
+        "Elaine",
+        "Babu",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, well, how 'bout if we give one out to every member on the condo board.",
+      "characters": [
+        "Gary",
+        "Marcy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, yes. Well this certainly looks like a lot of words. In record time. I'm very impressed ... with both of you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

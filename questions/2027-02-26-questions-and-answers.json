@@ -1,0 +1,106 @@
+{
+  "gameNumber": 784,
+  "date": "2027-02-26",
+  "questions": [
+    {
+      "quote": "I put Canadian quarters in the washing machine.  I gotta be out by the end of the month.",
+      "characters": [
+        "Valerie",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, y'know we took the old man's records over to Ron's and he tried to *screw* us so we got in a fight.",
+      "characters": [
+        "Janet",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And weren't there a feats of strength that always ended up with you crying?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See? You know your father. He can't get a write to the penny, but that's why he was such a good president.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jack",
+        "Babu"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "You were completely right. I sleep so much better when I'm alone.  And you scream in your sleep.",
+      "characters": [
+        "Emily",
+        "Toby",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Emily"
+    },
+    {
+      "quote": "No. When I shoo squirrels away, I always say \"get out of here\". I never ever throw things at them and try to injure them like other people.",
+      "characters": [
+        "Jerry",
+        "Janet",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know my parents are coming in and I got some clean up to do , so if you and Potsie are done scheming....",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I would like to know what my name's doin in this creep's organizer to begin with.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Some guy. Some guy? Neil! I have got to find out how he could get a girl like Danielle.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Celia",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I did invite you. Your invitation must've gotten ... lost in the mail.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

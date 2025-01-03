@@ -1,0 +1,106 @@
+{
+  "gameNumber": 692,
+  "date": "2026-11-26",
+  "questions": [
+    {
+      "quote": "I know it's a joke. It's supposed to be a joke! Now I'm going on the Charles Grodin Show with nothing.  Nothing!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, Kramer, look at him.  Look! He's eating all the food!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There are twenty people on the board. Thank God you can get that deal.",
+      "characters": [
+        "Lippman",
+        "Morty",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I've been out with him three times, I should know the mans name.",
+      "characters": [
+        "George",
+        "Betsy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey there Mr. Too big to come to my shows. I just came back from  Whoooooooo.....I'm on my way to an audition still waiting for that big break.",
+      "characters": [
+        "Sally",
+        "George",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Do you have any conceivable reason for even getting up in the morning?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm fighting that one. You know, this is gonna cost me over six hundred bucks.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yada yada yada, just some bad egg salad. I'll be right back.",
+      "characters": [
+        "Marcy",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "A lot of ex-cons become busboys. They seem to gravitate twards 'em.",
+      "characters": [
+        "George",
+        "Voice",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not taking a soak in that human bacteria frat you got goin' there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 204,
+  "date": "2025-07-26",
+  "questions": [
+    {
+      "quote": "Oh, yeah, I'll be lying on an X-Ray table with my wallet in my mouth.",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I told you George, no more pudding. I'm starting a purification program. Keep all that kind of food away from me.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Ruby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh. It's really not that bad, actually. He said he'd even go with me to the Museum of Miniatures. This is something you would never ever do.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, yeah. Give me a ring tomorrow. I'm gonna be at emergency callbox seven-eight-four.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Driver",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She just had a check-up. The doctor said she was fine. Unless...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Hold it, hold it! You're right, I'm not ready for this.  Yeah?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George...but if I ask him now, I will have no chance of going out with him.",
+      "characters": [
+        "Sophie",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You should be! How could you spend two hundred dollars on a tip calculator?!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Okay listen Leo. Your hairless, your scared. When the doctor comes in let me do the talking. Okay.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, that doorman's still milling around outside. He's very peculiar.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

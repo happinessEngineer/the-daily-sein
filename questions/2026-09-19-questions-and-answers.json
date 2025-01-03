@@ -1,0 +1,106 @@
+{
+  "gameNumber": 624,
+  "date": "2026-09-19",
+  "questions": [
+    {
+      "quote": "Too bad you can't do that for a living. You'd be very successful at it. You could sell out Madison Square Garden. Thousands of people could watch you! You could be a big star!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "You might regret that, because the money my wife spends on clothes...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Bob. What's with you? You gotta problem?  You see that look he gave me?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "I'll tell you what, if pig-man shows up, we'll squeeze him in. I'll see you later.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have some *delicious* Chateau Briande, my personal favourite. Or, if you prefer something lighter, a poached Dover sole in a delicate white wine sauce with just a *hint* of saffron.",
+      "characters": [
+        "Attendant",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Ladies and gentlemen, could I direct your attention to the center ring, where the incomparable Misha will balance ten stories above the circus floor on a wire no wider than a human thumb.",
+      "characters": [
+        "Announcer",
+        "Jerry",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "Well, don't they make a counter offer? How can they just cancel the whole deal like that? What kind of a maniac is this guy? I mean he just, he says no, and that's it?",
+      "characters": [
+        "Jodi",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know all those stores canceled out on her? She's finished.  We're  finished.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, sometimes I get the feeling George isn't being completely honest with me.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sophie, it's me. I know about the tractor story and I'm fine with it.",
+      "characters": [
+        "Tawni",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

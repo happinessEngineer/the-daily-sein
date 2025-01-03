@@ -1,0 +1,106 @@
+{
+  "gameNumber": 185,
+  "date": "2025-07-07",
+  "questions": [
+    {
+      "quote": "Jerry, the anger, it just melts right off. Serenity now. Look at this. Serenity now!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Believe it or not, Paul was convinced I was having an affair because somebody kept calling and hanging up whenever he answered! What kind of a sick person calls and hangs up over and over?",
+      "characters": [
+        "George",
+        "Noreen",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "Didn't you tell 'em I got the bill of sale? That proves I paid for it.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Here's one. I borrowed Puddy's car and all the presets on his radio were Christian rock stations.",
+      "characters": [
+        "Jerry",
+        "Farkus",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know this doesn't seem like work to any of you, if you could perhaps conduct your psychopath convention down the hall, I could just get a little personal space.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now look, we're going to stop at the shoe maker right now. You gotta get some lifts for your shoes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's giving away what's left! I gotta go home and get a big pot!",
+      "characters": [
+        "Newman",
+        "Stu",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So he just gets soup. He wants to save the meal. So now I got to do it all over again.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but I can't say anything because Kramer wasn't supposed to tell me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh Jerry.  They're priceless. They've never been played with.",
+      "characters": [
+        "Steve",
+        "Jerry",
+        "Celia",
+        "Elaine"
+      ],
+      "correctAnswer": "Celia"
+    }
+  ]
+}

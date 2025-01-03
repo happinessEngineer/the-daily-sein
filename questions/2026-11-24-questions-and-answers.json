@@ -1,0 +1,106 @@
+{
+  "gameNumber": 690,
+  "date": "2026-11-24",
+  "questions": [
+    {
+      "quote": "This is a big thing for him. Outgoing president of the condo association.",
+      "characters": [
+        "Judge",
+        "Jerry",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I'm taking the car. I gotta run some errands. You want to go?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Regis",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I had a bad experience with a hair when I was younger.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! An' he is a friend, Jerry. He is reliable. He is considerate. He's like your, exact opposite.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Ade"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but nothing happens on the show. You see, it's just like life. You know, you eat, you go shopping, you read.. You eat, you read, You go shopping.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He thinks Gwen broke up with him because she saw him eating the ice cream on TV.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Corinne"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't do that. Well, maybe Kruger wasn't the place for you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Diane",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I just...don't wanna get into a whole thing with you here...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Noreen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, I hope you're watching the clothes, because I can't take my eyes off the passion.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh please, Jerry, please please please, I can't sit with him, he tells these stories, it's gonna be awful.",
+      "characters": [
+        "Aaron",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

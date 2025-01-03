@@ -1,0 +1,106 @@
+{
+  "gameNumber": 230,
+  "date": "2025-08-21",
+  "questions": [
+    {
+      "quote": "You know, old friend, sometimes I ponder this silly gulf between us and I say, \"Why?\" Are we really so different. For what is--",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kevin"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, George, I think you're beginning to get some perspective on things. I think we're making progress.",
+      "characters": [
+        "Dana",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "No, no, no. Don't do it. Don't do it! For my sake! God knows I don't ask you for much!  Now, come on. Please, Jerry. Please! I'm beggin' ya! Please!  Come on! Please!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see how it's collapsing? That's what's causing this huge dent.",
+      "characters": [
+        "David",
+        "Jerry",
+        "Audrey",
+        "Kramer"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "Take it easy, you guys, just spread out! Don't worry about it, if anything was wrong she would have called you already!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gino",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's like going out with someone and you never hear from them again.",
+      "characters": [
+        "Jerry",
+        "Kevin",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want this baby fully loaded.  Well, how soon can you get it there?  Oh, that's terrific.  Okay, thanks, bye.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Wendy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mm?  Oh, hi. Oh, yeah, yeah, yeah. We met uh, skiing that time. You're uh, married to the eye guy.",
+      "characters": [
+        "Man",
+        "Elaine",
+        "George",
+        "Cynthia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I believe the doors on the bathroom stalls, here at the stadium, don't offer much by way of privacy. But I was thinking if we extend the doors all the way to the floors......",
+      "characters": [
+        "Jerry",
+        "Nurse",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Paul, woman here claims there's a restaurant on the West side that's only hiring large-breasted women.",
+      "characters": [
+        "Kramer",
+        "Fred",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Fred"
+    }
+  ]
+}

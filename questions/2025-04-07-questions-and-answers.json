@@ -1,0 +1,106 @@
+{
+  "gameNumber": 94,
+  "date": "2025-04-07",
+  "questions": [
+    {
+      "quote": "Very cool. So, what do you say? Can you do this one little favor, Newmie?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's got a house, a family, they could take away his license. You should have heard him. Three notes, how stupid was that? We never should have got three notes.",
+      "characters": [
+        "Ricky",
+        "Kramer",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I digress. Let me see, now. You were standing at one end of the line and I was right next to you. And I remember we were even for like, the first five yards and then , BOOM,...You were gone.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, my friend Jay Reimenschneider eats horse all the time. He gets it from his butcher.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I didn't do it! It..It just got done. I don't know how it got done, but it did.",
+      "characters": [
+        "Wendy",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, ... now, you come on over. I'll have my cereal and I'll take your picture.",
+      "characters": [
+        "Lippman",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "y'did.........phfwelll. Look.. hum..... Can you take me over there?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Tv",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, nothing much. You know, I went over to Jerry's. Talked to Jerry. Um, could I talk to you for a minute?",
+      "characters": [
+        "Elaine",
+        "Amy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, a member of my congregation has a timeshare in Myrtle Beach. Perhaps, if you're not too busy, we could wing on down after the High Holidays? Elaine? 'Lainie?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Well how do you even know it's hers? Maybe it belonged to Carol. Did you see a name on the tube?",
+      "characters": [
+        "George",
+        "Cindy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

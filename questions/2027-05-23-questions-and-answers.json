@@ -1,0 +1,106 @@
+{
+  "gameNumber": 870,
+  "date": "2027-05-23",
+  "questions": [
+    {
+      "quote": "No. So, tonight she's got tickets for that show she's been working on. The Flying Sandos Brother.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, something just came up for Tuesday at the Dayton Civic Center. That's Ohio, Jerry.",
+      "characters": [
+        "Jerry",
+        "Katie",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Elaine, you are something else.  No one can ever put a label on you, huh?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "No, it's like BO and cologne, they combine forces into some kind of strange mutant funk.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yeah I mean, I mean what is my obligation here, you know we were just dating, it was probably gonna be over in a couple of weeks anyway",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why should she like me? Who am I? Huh, there's a million people to like.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, so, look, the cleaner said you could pick it up tonight at six.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hah, Jerry, I am so sorry. they tell me there is no way they can do it.  Is there anything else I can do for you? Anything at all. I refund your money.",
+      "characters": [
+        "Milos",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Two exact same watches. He tells you a week, and him a day. How could that be? Something's fishy about this.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Nodding off!... Well, I was right. He's an adulterer. And he's cheating on his wife with me!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Carl"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

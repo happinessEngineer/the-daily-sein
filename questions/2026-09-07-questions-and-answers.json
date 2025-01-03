@@ -1,0 +1,106 @@
+{
+  "gameNumber": 612,
+  "date": "2026-09-07",
+  "questions": [
+    {
+      "quote": "I think it was a gun. And then they followed us all the way into the city, and then they just stopped and they turned around and they went home.",
+      "characters": [
+        "Jerry",
+        "Enzo",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'd accuse you of cheating, but I don't know where you'd hide the tiles.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sylvia",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These people never fail. They sit in a room with a big clock all night long, just waitin' to make that call!",
+      "characters": [
+        "John",
+        "Jerry",
+        "Kramer",
+        "Christie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, can you? That's funny, because, as it happens, I don't have call-waiting. Seems to me that the phone company would know that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Brody"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm black.  Oh, you know what? Bring a little cream.  Did you hear that?",
+      "characters": [
+        "Elaine",
+        "Darryl",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Yeah. He went down at the Beackman, he tried to lam, but they cheesed him.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, Mr. Bookman. I--I returned that book. I remember it very specifically.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Duncan wants to get together with her and me for lunch tomorrow. He obviously wants me to admit I got a head start. And I don't think she believes me.",
+      "characters": [
+        "Jerry",
+        "Vandelay",
+        "George",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, Matthew, I-I want to explain something to you. Now, cursing is not something that most comedians do.",
+      "characters": [
+        "Craig",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this sparkle.  Mrs. Enright!  Mrs. Enright! Mrs. Enright!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

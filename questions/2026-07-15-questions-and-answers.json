@@ -1,0 +1,106 @@
+{
+  "gameNumber": 558,
+  "date": "2026-07-15",
+  "questions": [
+    {
+      "quote": "Showmanship, George. When you hit that high note, you say goodnight and walk off.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great. Jerry, I gotta tell you, I had the BEST TIME with that Nina last night. I - I think I'm in love with her already. You are a great friend.  A great, great friend.",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I never though he would be able to recreate the experience of actually knowing him, but this is pretty close.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your Honor. I most strenuously and vigorously object to this witness. She was not present at the time of the incident. Her testimony is irrelevant, irrational, and inconsequential.",
+      "characters": [
+        "Chiles",
+        "Nina",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "Jerry, once you've had real Cubans, there's just nothing else like it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Naomi",
+        "Cheryl"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's right, Choochie. Let's see how Bania does without the cushy timeslot.",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Be with you in a minute.  No, you shoulda come last night, it was fun.",
+      "characters": [
+        "Gladys",
+        "Marlene",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Gladys"
+    },
+    {
+      "quote": "Ya know I hate to brag but, uh, I did win eleven straight golden gloves.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, this business is going to be big. I just wanted- okay.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This is amazing.  Thank you. Thank you very much. . . . I'm going back in! . . . You'll feel better",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

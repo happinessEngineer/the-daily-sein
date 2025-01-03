@@ -1,0 +1,106 @@
+{
+  "gameNumber": 640,
+  "date": "2026-10-05",
+  "questions": [
+    {
+      "quote": "Oh really? 'Cause it looks a little big for you. It looks like something a short, stocky, slow-witted, bald man might wear.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you didn't ask me to do it? I could raise enough money to cure polio.",
+      "characters": [
+        "Kramer",
+        "Nina",
+        "Eva",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm engaged to Mr. Ross' niece. I'm probably gonna be taking over this whole place someday so if I were you I would stay on my good side.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I'll tell you what. Next time I talk to him, maybe I'll bring it up. I'll feel him out.",
+      "characters": [
+        "Newman",
+        "Michael",
+        "Haarwood",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, well anyway, she said something that was kind of intriguing.",
+      "characters": [
+        "George",
+        "Julie",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Hey Elaine, what was it you were about to say to me on the plane when it was going down?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What if he's waiting for me outside? He pointed at me! Did you see him point?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well they just came in, part of my spring-time cruise collection. Two for twenty-five dollars.",
+      "characters": [
+        "Corinne",
+        "Rudy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "I think it's neat. You don't hear that much about god anymore.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Marlene"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She just has to say the complaint was related to a dental problem.",
+      "characters": [
+        "Guy",
+        "Kramer",
+        "Roy",
+        "Helen"
+      ],
+      "correctAnswer": "Roy"
+    }
+  ]
+}

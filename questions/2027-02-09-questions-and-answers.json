@@ -1,0 +1,106 @@
+{
+  "gameNumber": 767,
+  "date": "2027-02-09",
+  "questions": [
+    {
+      "quote": "Well, she seems very happy. She met an old friend who used to live next door to her.",
+      "characters": [
+        "Nurse",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "So, uh, Mom, Dad, I was hoping that you could help me to remember my childhood a little clearly..",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Isn't this great? With those nerds in accounting moved, you and I are the only ones who use this bathroom.",
+      "characters": [
+        "George",
+        "Sidra",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you bought me dishwashing gloves. There's no *fine touch*...",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah you've had like a religious awakening. You're like a bald-again.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what your problem is? You just have no respect for the mentor/mentor relationship.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Abby",
+        "Jerry"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "All right, first of all, I want to apologize for all the phone calls. It's just--It's just--  I don't understand, we went out once...",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Guy",
+        "Elaine"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Hey, guess what?  I'm going to the Super Bowl with Tim Whatley.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't understand, I've never had a problem with these notes before.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Roy"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Uh, say, I wanted a side order of fruit but I didn't see it on the men",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

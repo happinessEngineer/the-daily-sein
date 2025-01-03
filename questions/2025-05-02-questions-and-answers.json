@@ -1,0 +1,106 @@
+{
+  "gameNumber": 119,
+  "date": "2025-05-02",
+  "questions": [
+    {
+      "quote": "C'mon. Wilkinson's got millions invested in this stock. It's gone up three points since I've been watching it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know, but I gotta do this more often.   Ooh, there's my ride, finally.",
+      "characters": [
+        "Steve",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "One of your guys - Kip, or Ned, short name - stole my Twix candy bar!",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"You know, I've never heard anyone talk the way you do. It's very unusual.\"",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well you know there is an unusual number of people in this country having sex with AMPUTEES!  . . . Penthouse forum, newspaper, gum, Clark Bar.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's playing a recital this week at the McBierney School. You wanna hear her play? I got two extra tickets, you and Elaine could go...",
+      "characters": [
+        "George",
+        "Susan",
+        "John",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, listen, I've changed my mind about this whole thing. I don't want cable.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Margaret"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "you know, just by conversing, you can really learn a lot about a person.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, nothing. How could you not give a thank you wave? Hey buddy! Where's my thank you wave?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine! Where's Susie? I want her to head up our new Fingerless Glove Division.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Wendy",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

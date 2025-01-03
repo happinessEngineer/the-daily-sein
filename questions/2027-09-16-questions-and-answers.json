@@ -1,0 +1,106 @@
+{
+  "gameNumber": 986,
+  "date": "2027-09-16",
+  "questions": [
+    {
+      "quote": "Nevertheless, Elaine. The House, of Peterman is in Disorder. First thing tomorrow morning I want to see you, Peggy, and, Susie right here, in my office.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "But it's just a friendly game. Why do you have to be such a stickler?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not stealing it.  They owe me ten dollars.  They stole from me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it doesn't sound like you completely thought this through.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! So you were swimming in the pool, and you wanted some gum.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, uh.. it hurts when he swallows. Expecially when he drinks orange juice.  I mean, uh.. dog food.. juice.  What's worse - he has a nagging cough.  Yeah, that's it. That's it.",
+      "characters": [
+        "Morgan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I am so sick of you comin' in here and eatin' all my food. Now shut that door and get the hell out of here!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. That's one for the ages. But I think they're gonna put Poppie away for a long long time.",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand.. you were wearing the pants you were returning?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh come on. Have some compassion. Okay well I hope it's contagious",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

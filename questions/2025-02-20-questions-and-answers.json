@@ -1,0 +1,106 @@
+{
+  "gameNumber": 48,
+  "date": "2025-02-20",
+  "questions": [
+    {
+      "quote": "Oh. Okay, here it is, I got it. She lost her thumbs in a tractor accident and they grafted her big toes on. They do it every day.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excellent film. In fact Quinn said he never felt so good as when he left a note after smacking into a car.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm freezin'! I just need to get my hot tub running. I'm waiting for my new heat pump.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'd have to think about it. I doubt it, though. I doubt it. I'll let you know.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course you do... It's just, uh, y'know, I-I never *knew*, uh, that, uh...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She reorganizes your closet and shows you how to maximize your closet space. She looked into my closet.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! Pendant's publishing his new book, and I'm working on it! Lippman and I are gonna go to the airport on Thursday and pick him up in a limousine!",
+      "characters": [
+        "Jerry",
+        "Teller",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tell you, Jerry, I'm feeling something. Something I haven't felt in a long time.",
+      "characters": [
+        "Elaine",
+        "Phil",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry? I have to tell you something. This is the dullest moment I've ever experienced.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sid",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, it's very impolite to tell secrets. Are you talking about me?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

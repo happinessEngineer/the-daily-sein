@@ -1,0 +1,106 @@
+{
+  "gameNumber": 192,
+  "date": "2025-07-14",
+  "questions": [
+    {
+      "quote": "You always have to know everything that's going on, don't you?",
+      "characters": [
+        "Vandelay",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. All right. Well, do you still want to see a movie later?",
+      "characters": [
+        "Puddy",
+        "Officer",
+        "Elaine",
+        "Gillian"
+      ],
+      "correctAnswer": "Gillian"
+    },
+    {
+      "quote": "Well that's the grand tour ... Aw but I save the best for last...",
+      "characters": [
+        "George",
+        "Julie",
+        "Ethan",
+        "Jerry"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "You wanna go out with my wife?!  Where do you get the nerve to ask me something like that?!",
+      "characters": [
+        "Frank",
+        "Wyck",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, it's not as if Susan's pregnant. You've already postponed The wedding. Who knows if you'll ever get married.",
+      "characters": [
+        "Jerry",
+        "Carrie",
+        "Elaine",
+        "Harold"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "Kramer tells me that you are interested in an alternative to surgery.",
+      "characters": [
+        "Elaine",
+        "Ethan",
+        "Jerry",
+        "Tor"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "Of course it was a problem for me. . . . You didn't, you didn't tell anyone else about this, did you?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Nurse",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you should have seen it. It was quite a scene over there.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, just make sure he reserves the good chair for me. Wait, what are you gonna tell him about the clanking noise in the car?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kate",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was all primed for the first row; I was gonna put my feet up on the dugout!",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

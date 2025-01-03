@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1004,
+  "date": "2027-10-04",
+  "questions": [
+    {
+      "quote": "Ah, ``Rochelle, Rochelle''... \"A young girl's strange, erotic journey from Milan to Minsk\"...",
+      "characters": [
+        "Clerk",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "There was nothing I could do. He said he had a Federal Express slip with your signature on it.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Ben"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And he's growing it in just for me.  It's mine. It's all mine.",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What was that line again? Something about finding your way in a shadow?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Beth",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You should read the letters he's written. He's funnier than the whole bunch of you!  Oh, here's Jack. We should sit down.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Izzy",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Hah, I didn't know people still get married. It's hard today with men and women.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Well, what kind of a kiss? Was it a peck? Was it a kiss? Was it a long make out thing?",
+      "characters": [
+        "Sid",
+        "Russell",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, what time is it? Eight thirty? I'll tell you what's on. You got Major Dad, Blossom, very funny programme...",
+      "characters": [
+        "Kate",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, alright, That's no good.  Let me try getting them from the bottom.  Just gimme one leg.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ray",
+        "Voice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I was thinking today. I never liked those Seinfelds anyway, he's an idiot all together.  Ah there's Kramer.",
+      "characters": [
+        "Judge",
+        "Estelle",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

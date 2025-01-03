@@ -1,0 +1,106 @@
+{
+  "gameNumber": 426,
+  "date": "2026-03-05",
+  "questions": [
+    {
+      "quote": "Don't you see how wrong that is?! Where's your Christmas spirit? And eye for an eye!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Apparently she doesn't think much of this George fellow either. I recall the word loser peppered throughout her conversation.",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "George",
+        "Tina"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Well, I think by sleeping with her, I may have sent her the wrong message.",
+      "characters": [
+        "George",
+        "Toby",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, yeah...I think my wife and I'll have a little more coffee.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, my vacation just started. I need a day or two to de-compress. Besides, I did plenty today.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, Well, it comes down if Little Jerry Seinfeld wins the cockfight.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No no, no, I want that table. I want that table! Oh, come on, did you see that? What was that? He took the money, he didn't give us a table.",
+      "characters": [
+        "Jerry",
+        "Karen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's right...We just had sex......You know Jerry I've been searching for someone a long time. Well the search is over.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. He talks about him like he split the atom. The kid works for the Parks Department.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's working late that night. We're - were supposed to have dinner with everybody at eight o'clock so I'll set up the ride for seven o'clock.",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Pop"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 401,
+  "date": "2026-02-08",
+  "questions": [
+    {
+      "quote": "Elaine, bald men, with no jobs, and no money, who live with their parents, don't approach strange women.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"...'cause you don't even make the slightest effort to offer happiness still know that I love you!!\"",
+      "characters": [
+        "Morty",
+        "Sally",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, you're in a relationship with a woman you don't like, and you're having an affair with a woman that won't have sex with you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It is a big deal. You're supposed to serve cake after a meal. I'm sorry. It's impolite.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Yeah, and I - I heard you got on their good side. Now, what'd you do?",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Pretty chintzy, huh? Considering the money she makes.. She's a big executive for Federal Express.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, car accident. He was trying to adjust his toupee while he was driving and he lost control of the car.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tom",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, wha -- I, uh -- uh, we were kind of, uh, talking to each other, weren't we?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Connie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Does she care? No. Does anyone ever display the slightest sensitivity over the problems of a fellow individual? No. No. A resounding no!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Alec",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't even know what they think. That's why I'm in therapy.",
+      "characters": [
+        "George",
+        "Woman",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

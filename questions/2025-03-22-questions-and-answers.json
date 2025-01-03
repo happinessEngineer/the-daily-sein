@@ -1,0 +1,106 @@
+{
+  "gameNumber": 78,
+  "date": "2025-03-22",
+  "questions": [
+    {
+      "quote": "I don't understand. Is there a problem?  I'm getting the impression there's a problem.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well its a Bordeaux. Robust, bold, very dry. As opposed to a Beaujolais -- which is richer and fruitier. Ahh, here's one. Twelve dollars.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know you should be a lot more careful crossing the street like that, otherwise you could die.. If that bothers you.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Jeannie",
+        "George"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "Yeah.  I wasn't gonna get it, but this guy Milos, who runs the pro shop, he really recommended it.",
+      "characters": [
+        "Steven",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, he'll be right up. He's just getting some beer. And I'm not expecting ... any change.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now I know what I've been looking for all these years......myself!  I've been waiting for me to come along and now I 've swept myself off my feet.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh hey, if you happen to see the most beautiful girl who walked out on me. Tell her I'm sorry. Tell her I need my baby ... oh won't you tell her ... I love her. Oh hey, ...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, don't even think about it! Don't even dream about it!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got a guarantee on that watch. Give it to me, I'll take it back to where we got it.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "All right, brace yourself, Lubeck. You are about to be launched via pastry back to the wedding of one of the most dashing and romantic Nazi sympathizers of the entire British Royal family.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

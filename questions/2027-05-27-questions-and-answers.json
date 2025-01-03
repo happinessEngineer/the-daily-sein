@@ -1,0 +1,106 @@
+{
+  "gameNumber": 874,
+  "date": "2027-05-27",
+  "questions": [
+    {
+      "quote": "Elaine, what percentage of people would you say are good looking?",
+      "characters": [
+        "Kramer",
+        "Kimbrough",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I can't talk to Jerry anymore. Ever since he moved into that apartment he's too much ... like you.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've always believed in you Cosmo. You know that. So I want you to call that place today and tell then tha you're through.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Babs"
+      ],
+      "correctAnswer": "Babs"
+    },
+    {
+      "quote": "I am not! What you call wasting, I call living! I'm living my life!",
+      "characters": [
+        "Poppie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told you to clean out this garage. I have to put my car in!",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Hal",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Same thing. My god, I'm getting married in December, do you know that?",
+      "characters": [
+        "Deena",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello Joe, listen this is Jerry Seinfeld, I really think there?s been a huge colossal misunderstanding,",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Farkus"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ha.Ha.Ha. ha...You don't have any money. I make more money than you do. ha. ha. ha. Yeah.. give me the papers I'll sign 'em. a pre-nup...",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Beth",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Stupid cigars. You know if I didn't send Nikki over to talk to him they wouldn't be together.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, I think people would talk about it at the coffee machines.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

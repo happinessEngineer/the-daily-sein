@@ -1,0 +1,106 @@
+{
+  "gameNumber": 137,
+  "date": "2025-05-20",
+  "questions": [
+    {
+      "quote": "Well, but, you see, I saved something! See? I can save. I'll see you at the pledge drive, ok?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright. The script. Now, I've read this thing three times...and everytime I read it...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Cheryl",
+        "Russell"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "They were supposed to be here at 7:30. Call the airlines again.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "This is the signal? Thank you, Mr. Signal. Where were you yesterday?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "Gavin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe uh, it needed some air. You know sometimes they need air, they can't breathe in there. It's in human.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There are four different levels. Maybe we're on the wrong level. How long was the escalator ride up?",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think this Father Curtis might be very interested to hear what Whatley has the Pope doing with Raquel Welch.",
+      "characters": [
+        "Clerk",
+        "Elaine",
+        "Phil",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I'm freezin. I'm definitely freezin. I can't stop shaking.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can't call China now its like, what, three 'O clock in the morning there",
+      "characters": [
+        "Aaron",
+        "Kramer",
+        "Jerry",
+        "Enzo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, how about skipping breakfast. I'm guessing you're not a 'half-grapefruit and black coffee' guy.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

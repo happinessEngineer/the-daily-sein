@@ -1,0 +1,106 @@
+{
+  "gameNumber": 445,
+  "date": "2026-03-24",
+  "questions": [
+    {
+      "quote": "Will you calm down. I took all my blood down to Newman's. He let me put it in his meat freezer.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean I lost my job, I can't go to Africa. I was gonna meet the bush-men of the Kalahari.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Manny"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How did she do it? She's like Meryl Streep this woman. And I had to work the equipment. I'm not unskilled, I'm in the union. If she'd at least told me, maybe I could have done something about it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, if I knew I had to give him eight million 'thank you's, I wouldn't have taken the tickets in the first place.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't believe you. If you can put your pants on, you can move those cars.",
+      "characters": [
+        "Sid",
+        "Wilhelm",
+        "Doorman",
+        "Jerry"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "You look like you're in better shape than Neil. Do you work out?",
+      "characters": [
+        "Tia",
+        "Kramer",
+        "Bania",
+        "Danielle"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "Let me ask you something. ahemm..Do you know when the Nicole Millers are coming in from Milan?.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Raymond"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "First Leo breaks up, then he goes back. What the hell's going on?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh, calm down, maroon Golf. He thinks I cut him off. He accelerated.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What did I get the veggie burger for? You got a veggie burger, so I had to get the veggie burger, I'm allover crums...",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

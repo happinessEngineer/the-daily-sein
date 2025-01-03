@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1026,
+  "date": "2027-10-26",
+  "questions": [
+    {
+      "quote": "Oh really?  The doorman. And, pray tell, what did the doorman say?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Plus he probably doesn't even know how to program the buttons.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Willie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I like Christian rock. It's very positive. It's not like those real musicians who think they're so cool and hip.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Stu",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "bowling! what do you say bowling? bowling's insane! bowling is crazy time",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, I really liked the two of you much better when you weren't a couple.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, she gives massages all day. She doesn't wanna to give them on dates.",
+      "characters": [
+        "Clerk",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What the hell are you doing here, aren't you supposed to be at work?!?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well...maybe not as much as this bastard...  I can hold my own!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, twice what you're payin' here, but it's a great building. It's two bedrooms!",
+      "characters": [
+        "Shelly",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, wait a minute. Wait a minute. Don't take the bridge.. Get off here. We can't go back to my place, Elaine's having the shower.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Harold",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 557,
+  "date": "2026-07-14",
+  "questions": [
+    {
+      "quote": "It is the van! Don't you remember, we always talked about how cool it would be to have a van and just drive?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Frankie"
+      ],
+      "correctAnswer": "Frankie"
+    },
+    {
+      "quote": "Well, this is one for the books, huh, Jerry?... Reeeally one for the books!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had a jacket with a crest on it. You came into the audience, you threw it away. Agrabah.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I pressed through the rushes and there, the native dancers whirled before me: limbs flailing, arms akimbo, feet kicking up dust...",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Worker"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "All right, Puddy, listen, and listen good: I need to know the name of that mechanic that walks around here. Big guy, a liar. Short name. Sam? Moe? Sol?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lunch is fine at the beginning then you move on to dinner. you don't move back to lunch. It's like being demoted. I'll never do another crossword puzzle with her again. I know it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Bonnie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're moving to New York? That's fantastic. I can see you all the time now.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Those are them, yeah. Season tickets. Uh, you know, unfortunately I can't go tonight, so they're available if you'd like to use them.",
+      "characters": [
+        "George",
+        "Alec",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "Losing? You know, yesterday I lost control of my car, almost bought the farm.",
+      "characters": [
+        "Sidra",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, do you mind? I have the window!  Now, what are you gonna do about my Twix?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mike",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

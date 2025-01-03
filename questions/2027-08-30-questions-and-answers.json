@@ -1,0 +1,106 @@
+{
+  "gameNumber": 969,
+  "date": "2027-08-30",
+  "questions": [
+    {
+      "quote": "I lost my voice screaming at this thing. I can't sleep. I can't work. I mean, I just moved. I can't move again. What am I gonna do? What? What am I gonna do?",
+      "characters": [
+        "Kramer",
+        "Conrad",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's going on in here?  Are you two still playing?! You've been up here three hours!",
+      "characters": [
+        "Frank",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Actually, I was thinking of donating a large portion of it to charity.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, my neighbor has a cat. When you blew the power, we must've shut off the automatic feeder.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What did you put the Pez dispenser on her leg for in the first place?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I said: \"So, what do you think?\". And he said, \"Gabardine?\". And I said, \"Yeah.\" That was it.",
+      "characters": [
+        "Elaine",
+        "Karen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what George, uh. Why don't you go ahead. I think I'd like to be alone for a while.",
+      "characters": [
+        "George",
+        "Ricky",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "All right there you go. It's a '47 cabin all right. So, we'll see you tomorrow.",
+      "characters": [
+        "Salesman",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer said it's a perfect gift. That's what we're gettin' him.",
+      "characters": [
+        "Kramer",
+        "Christie",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Huh? You know? Spring. Rejuvenation. Rebirth. Everything's blooming. All that crap.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Gary"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

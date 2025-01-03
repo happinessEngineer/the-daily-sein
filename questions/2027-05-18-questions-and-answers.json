@@ -1,0 +1,106 @@
+{
+  "gameNumber": 865,
+  "date": "2027-05-18",
+  "questions": [
+    {
+      "quote": "All you have to do is wear the fur so Silvio thinks it's yours.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Maestro",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well after that Kidney Stone I only want fresh food. It's gotta be fresh. I'm not eating any more stored food. Plus you know I want the space.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That place is about to have the sale of the century. Nothing over ninety-nine cents.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. We're just waiting here for the owner of this car to show up. May not get out alive! Thug! Taking up a handicap spot? He's gonna pay!",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Listen, Jerry, this place is falling apart. You have no hot water, you can't have soft cheese...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How could I have tested positive twice? Once I could understand, that's a mistake. But twice?",
+      "characters": [
+        "Elaine",
+        "Katya",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, the face-painting auto mechanic. So she's dating him again, huh?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. I had to spend two hours at dinner last night with that specimen.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Vivian, hi it's Elaine. Yeah, I'm over at Jerry's, I got your message...What? Yeah, he's right here, hold on...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Salesman",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll talk slower. I'm kidding - I love Cellblock D. My friend George is in Cellblock D. What are you in for,sir?",
+      "characters": [
+        "Manager",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 821,
+  "date": "2027-04-04",
+  "questions": [
+    {
+      "quote": "Jerry, I'm trapped under my desk. Steinbrenner is in the room. You got to help[ me.",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, Jerry and Elaine felt very badly about what happened to you, and they wanted you to have this.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Darren"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, take a look at this photo. This is taken 10 years ago. That mole looks exactly as it does today. So, there's no cause for concern, eh?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Yeah you almost went to the game. You haven't been out of the building in ten years!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, so he says if Little Jerry Seinfeld wins, the check comes down.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "When I asked him if it was cancer, he didn't give me a \"get outta here\". That's what I wanted to hear: \"Cancer? Get outta here?\"",
+      "characters": [
+        "George",
+        "Karen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This court will come to order!  Go ahead Miss Mishke, try it on.",
+      "characters": [
+        "Judge",
+        "Jerry",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "Look at you. I told you. Up all night playing poker. Come on.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Enzo",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He is the new president of NBC. He wants to sit down with us and talk about \"Jerry.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Carol, that's so rude. Please, I'm serious, just for a moment, if you wouldn't mind. And then we'll talk to Jerry.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

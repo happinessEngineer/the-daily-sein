@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1126,
+  "date": "2028-02-03",
+  "questions": [
+    {
+      "quote": "No, no Kramer. I don't want you to do that. You can't do that.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's right. I got 'em all. Cold cucumber, corn and crab chowder, mulligatawny.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, the shut-ins, that's nice. You know, they're a very eccentric group. Because they're shut in. Of course, they're not locked in, they're free to go at anytime.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi. You know, Kramer gave me the armoire and it is so beautiful. I'm mean, I just can't tell you how much I appreciate it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, shut up the both of you! You're making me nervous. Where is he already? He should've been out of work by now.",
+      "characters": [
+        "Regis",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now I know who you are! You're a comedian. I've seen you, it's driving me crazy.",
+      "characters": [
+        "Carol",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I cannot believe Lindsay's still seeing you after that \"Breakfast at Tiffany's\" thing.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Kelly",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry, this is a piece of junk.  How are you gonna be the executor of my living will?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So listen Elaine, when we get up to the door, you , you hold the cake box.",
+      "characters": [
+        "Jerry",
+        "Ethan",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Said I'm not good looking enough for her. Not good looking! Jerry, look at me, look at my face, huh, am I beautiful? George, am I beautiful?",
+      "characters": [
+        "Kramer",
+        "Gennice",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 923,
+  "date": "2027-07-15",
+  "questions": [
+    {
+      "quote": "Alright, I gotta try and talk my mother into taking him off my hands.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Fred",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Rugged? The man's a goblin. He's only been exposed to smoke for four days. By the time this case gets to trial, he'll be nothing more than a shrunken head.",
+      "characters": [
+        "Jackie",
+        "Wilhelm",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Yeah! I got it . It's in the apartment, but we can't go in there it's being fumigated.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, yes. This pirate trend that she's come up with, Jerry, this-this is gonna be the new look for the 90's. You're gonna be the first pirate!",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Steve",
+        "Brett"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, neighbor. That's right. Yeah, why don't we take this boiler out for a shakedown huh?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Oh yeah!. Jimmy's been watching you....you're just Jimmy's type.\"",
+      "characters": [
+        "Jimmy",
+        "Newman",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "You know, that's weird, actually, 'cause I'm sort of the same way. I mean once for like, no reason, I flattened my hair and I had all these strands hanging in my face all the time...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let's say it comes down to me and one other guy. He's got a nice quiet suit, and I'm whooshing all over the place! Who do you think he's gonna hire?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I'm sorry if I ruined your life. That's exactly what I set out to do.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, of course not! People's personal sexual preferences are nobody's business but their own!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

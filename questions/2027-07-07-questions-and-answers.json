@@ -1,0 +1,106 @@
+{
+  "gameNumber": 915,
+  "date": "2027-07-07",
+  "questions": [
+    {
+      "quote": "Robin, listen to me. The most amazing thing has happened. Kramer has opened my eyes. I think I've changed.",
+      "characters": [
+        "Elaine",
+        "Simon",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah buddy. You really came through for me man. You've been so nice.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Oh yeah yeah, don't you know they used pastrami in that movie 9? weeks? Remember the pastrami scene?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I didn't go to the bathroom the entire time we were in India.",
+      "characters": [
+        "Newman",
+        "George",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well uh that doesn't surprise me, ya i bought these at Rudy's. It's a used clothing store. See when people like you die, the widows they bring in their wardrobes, they make a bundle.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was always such a goof-off. I mean did he ever get anywhere?",
+      "characters": [
+        "Diane",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Diane"
+    },
+    {
+      "quote": "Maybe they should get together. [mind] Go ahead. Kiss her. I'm a baseball player dammit.",
+      "characters": [
+        "Keith",
+        "Bania",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "I don't understand. Before you were jealous of me. Now you're jealous of him?",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I just need your signature here, and we'll get you that yellow car ready to go.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Detective",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I showered! Oh, wait a second... Since I showered, I've been in the car!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Mohel"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 176,
+  "date": "2025-06-28",
+  "questions": [
+    {
+      "quote": "Well, I didn't really tell Susan about it, and she doesn't really have anything else to do.",
+      "characters": [
+        "Jerry",
+        "Gillian",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, Jerry, you have to. I need a buffer. You know, I haven't seen my father in a while and... you know...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry, uh, it's not like I'm gonna see something I've never seen before.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So am I. What about my feelings? Don't my feelings count for anything? Oh, only the poor monkey's important. Everything has to be done for the monkey! Look, I'm sorry. I--",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know, I gotta go to, uh, Susan's parent's house for dinner.. and, you know, I want to shower first.. and I want to leave myself plenty of time.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I eat healthy. If I have to take out an eye, that's the breaks.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "40? I'm payin' 60 to my maid. She doesn't do laundry and I'm gettin' nothin'. All right. Once she pinched my ass, but I don't know what that was.",
+      "characters": [
+        "Stan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He never even called Ed Roydlick. They were looking for someone!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Lookit. He knew I was gonna use the machine next, he didn't wipe his sweat off. That's a gesture of intimacy.",
+      "characters": [
+        "Gennice",
+        "Steinbrenner",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah that's it. All right, I'm going to go down to the precinct. I'm going to have lunch with Lou.",
+      "characters": [
+        "Elaine",
+        "David",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

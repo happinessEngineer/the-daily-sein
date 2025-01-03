@@ -1,0 +1,106 @@
+{
+  "gameNumber": 360,
+  "date": "2025-12-29",
+  "questions": [
+    {
+      "quote": "Yeah.  What's goin' on? What? Really? Oh my god....did he give you a reason?...Oh boy. Okay. Alright. Thanks.  Dalrymple just cancelled the pilot.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "South America?!  What kind of snow blower you get us mixed up with?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "Naomi"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh ya, I think they are starting to loosen up a bit.  Oh hi Mrs. Anvino.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Tomorrow I'm going straight down to this Rudy and get my clothes.",
+      "characters": [
+        "Donna",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "One more thing, Benes, regarding sexual activity: Strictly prohibited, but if you absolutely must, do us all a big favour. Do it in the tub.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Diabolical. He thought of everything. He was setting me up from day one!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. A little thing called Step Nine? Instead of an apology, he was beboppin' and scattin' all over me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I feel like a huge weight's been lifted off my shoulders. I... I... I feel happy! Kramer, I don't know how to thank you!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Donna",
+        "Bookman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.",
+      "characters": [
+        "Newman",
+        "George",
+        "Detective",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "We have plenty of time, too. This jury could be out for days.",
+      "characters": [
+        "Chiles",
+        "Newman",
+        "Jerry",
+        "Vandelay"
+      ],
+      "correctAnswer": "Chiles"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 506,
+  "date": "2026-05-24",
+  "questions": [
+    {
+      "quote": "What kinda great friend are you? How do you go from snubbing to kissing?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well, you know, she was lucky I was in a good mood - coulda been a lot worse.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. He blew out my Witchy Woman, and he won't share Desperado. Hey, what d'you think of Oye Como Va?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, it was really wrong of you to back out on that deal.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you like to buy me a fat-free frozen yogurt at the store, Kramer?",
+      "characters": [
+        "Helena",
+        "Jerry",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "Have you seen the chest of drawers that Brett gave to Kramer?",
+      "characters": [
+        "Elaine",
+        "Shelly",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh beautiful. Listen, we've got a little problem here, we've got two extra tickets.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's funny because I haven't seen you working for a while. A long while.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm terribly sorry, Mr. Ross. One never knows how the gastrointestinal workings of the equine are going to function.",
+      "characters": [
+        "Kramer",
+        "Margaret",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So? For a twenty-five dollar cleaning, I can listen to some pointless blather.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

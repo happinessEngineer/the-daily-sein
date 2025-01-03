@@ -1,0 +1,106 @@
+{
+  "gameNumber": 664,
+  "date": "2026-10-29",
+  "questions": [
+    {
+      "quote": "You know why? Because people like to say \"salsa.\" \"Excuse me, do you have salsa?\" \"We need more salsa.\" \"Where is the salsa? No salsa?\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Dan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What could possess anyone to throw a party?  I mean, to have a bunch of strangers treat your house like a hotel room.",
+      "characters": [
+        "Jerry",
+        "Jake",
+        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When I see someone enjoying themselves like that, it reminds me why I got into this business in the first place.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Kramer, how is that important? Honestly, do you really think he's gonna ask you that?",
+      "characters": [
+        "Elaine",
+        "James",
+        "George",
+        "Jeannie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What is this 'saving movies' thing? Something's playing, you go.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is America! I don't have to wear anything I don't want to wear!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've read your book, Professor, and I was quite intrigued by it.",
+      "characters": [
+        "Landlord",
+        "Abby",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "You had sex with the cleaning woman on your desk? Who are you, how did you do that?",
+      "characters": [
+        "Elaine",
+        "Bonnie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, they've got a cure for cancer. See, it's all big business. Oh hey, Jerry just walked in. Hi, George.  Yeah yeah yeah yeah take my number. 555-8643. Okay, here he is.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mel",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got down in my knees and went, \"Go ahead, Mickey. Hit me. I'm begging you, Mickey, please hit me. C'mon, hit me. I love you, Mickey, I love you!\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

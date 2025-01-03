@@ -1,0 +1,106 @@
+{
+  "gameNumber": 432,
+  "date": "2026-03-11",
+  "questions": [
+    {
+      "quote": "Yeah. It's piquing hot. It's fresh out of the dryer. Hey Elaine you have to feel my pants.",
+      "characters": [
+        "Elaine",
+        "Matthew",
+        "Clerk",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Dad, the hinges are all rusted here. That's why the wind keeps blowing the door off.",
+      "characters": [
+        "George",
+        "Sid",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got another project for you. It's a movie called Cry Cry Again. I was gonna give it to one of my other guys, but it's an arty movie and quite frankly, they don't have the sensibility.",
+      "characters": [
+        "Jerry",
+        "Brody",
+        "Doorman",
+        "Peterman"
+      ],
+      "correctAnswer": "Brody"
+    },
+    {
+      "quote": "No, I'll be seeing you.  \"Good morning, good morning..\"  Have you ever gotten up in the morning and felt it's great to be alive? That every breath is a gift of sweet life from above?",
+      "characters": [
+        "Lanette",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "God, it is so great to drive again. I miss it so much!  How about a left turn signal, ya moron?!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, who do you think you're going? Do you think that they have big picnic tables there?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I still don't understand why we had to walk out on that movie.",
+      "characters": [
+        "Manager",
+        "Hal",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "God I hate these mixtures. Why don't they just put pretzels on the table. Even peanuts would be good, but I don't know how eats these cheesy things .",
+      "characters": [
+        "Judge",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "When is it going to be my turn, Jerry? When do I get my 15 minutes? I want my 15 minutes!",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine. You shouldn't be reading that. So tell me about this rash of yours.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    }
+  ]
+}

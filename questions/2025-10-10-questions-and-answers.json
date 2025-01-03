@@ -1,0 +1,106 @@
+{
+  "gameNumber": 280,
+  "date": "2025-10-10",
+  "questions": [
+    {
+      "quote": "Oh with all due respect, I went there too, and I work for a team that just won the World Series.",
+      "characters": [
+        "Simon",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, well if you change your mind, we'll wind up as Isabella's probably around seven.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Yeah. The sneakers. All the Americans with the sneakers. Always running from something. Ya ya, well Sit, stop running, Ehh. two minutes, I give you latest manuscript!",
+      "characters": [
+        "George",
+        "Testikov",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "Oh, that's terrible. They stole a rye? Why would they steal a rye?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Oh, gee, I can't talk right now. Why don't you give me your home number and I'll call you later.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's moving to Seattle. We wanted to say goodbye, I was just getting out of the shower, and yada yada yada--",
+      "characters": [
+        "Marcy",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "You know, I always wanted to drive the big rigs. I used to watch those commercials during the reruns of Gomer Pyle.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Joe"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "…kissed me. We both had tears streaming down our faces. I never saw anyone so beautiful. It was at that moment that I decided to tell her that, I was not a marine biologist.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She likes the pop-in. I've told her how I hate the pop-in.  He likes the pop-in, too.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..You know, cats run away all the time. You know, my aunt, she had a cat. Ran away. Showed up three years later.. you never know. They got things in",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

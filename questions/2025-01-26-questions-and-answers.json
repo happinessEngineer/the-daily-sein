@@ -1,0 +1,106 @@
+{
+  "gameNumber": 23,
+  "date": "2025-01-26",
+  "questions": [
+    {
+      "quote": "But, I - I didn't know what she was talking about. I couldn't hear her!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Donald"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, then, I was gonna wait, to tell ya this, but.. last night, Susie..  she took her own Life..",
+      "characters": [
+        "Steinbrenner",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, great, great.  What's that smell? Smoke?  Hey everybody, I think I smell some smoke back here... FIRE! FIRE! Get out of the way!",
+      "characters": [
+        "Herb",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no no. She changed her hairstyle,  it's terrible. No, we're done.",
+      "characters": [
+        "Morty",
+        "Ned",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I found him. He was sitting on the steps of the library. I sat down next to him. He smelled like the locker room after that game against Erasmus",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, so, now, is there anything else I need to know about this place?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, by the time I got to the end of the story, he was to relieved that we were alive he couldn't care less about the car.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "hello. Oh, hi. What's happening? … what? oh um, sure, … um, yeah, okay, uh. I'll see you then. Yeah, yeah, Bye.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Mrs Hamilton, it's certainly nice that you and Valerie patched things up, so we could all get together like this. Where is Valerie?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And that's not helpin' either. That's why you're havin' trouble with your staff, not because of George.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

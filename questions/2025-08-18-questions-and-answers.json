@@ -1,0 +1,106 @@
+{
+  "gameNumber": 227,
+  "date": "2025-08-18",
+  "questions": [
+    {
+      "quote": "You know what's going on? First, he vomits on me. Then, he burns down my father's cabin. And now, he's taken Mona away from me.",
+      "characters": [
+        "Susan",
+        "Earl",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, don't worry. I'll be there and I'll be packing an artery.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, \"Levine\". And I'm Jerry Cougar Mellencamp. Anyway, I admit it was a fairly ridiculous thing to do, but I mean, I mean, obviously we have a little problem here.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He killed. He only does well when he has me for a lead-in. He's a time slot hit.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Harold",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, let's see? I seem to recall a conversation with Mrs. Winston in 1F.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Yeah, yeah, maybe I can get him to draw a picture of her for you.",
+      "characters": [
+        "Kramer",
+        "Beth",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I come in here to get a pleasant meal and if we're not gonna have one I'll grab a bite to eat at your place.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's not the point. You put me in a position where I had no choice.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're doomed. You're gonna have to have all your sex at women's apartments. It'll be like a permanent road trip. Forget about the home bed advantage.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Milos",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know, I just can't bring myself to do it meanwhile that freezer keeps getting smaller and smaller   oh, don't wanna keep Tony waiting",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 362,
+  "date": "2025-12-31",
+  "questions": [
+    {
+      "quote": "Let me ask you something. If you were going out with somebody and if she did that what would, would you do? Would you continue going out with her?",
+      "characters": [
+        "James",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nonsense!  I have Benes' woderfully imaginative mind to spin my stories. You take back your tales, you vagabond!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, let's just say it wouldn't exist without me.  So you two uh, shop at the same store, ?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I tried to get him one but Man-Hands almost ripped my arm out of the socket!",
+      "characters": [
+        "Waitress",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey, hey.  I hear you've got some lip reader working for you. You gotta let me use her for one day. Just one day.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Don't tell me about business! I sold raincoats for thirty-five years!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "All I could think of was when I was looking at her face was; Newman found this unacceptable.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see . You see. You see what I'm talking about. It's all just slipping away. And you're letting it happen.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Rita"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great.  Oh, by the way, did you get a chance to read the script?",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, look, there's Bobby Eighteen?s father-in-law, Mr Reichman. George and I were just talking about that today, I can?t believe it! That?s the guy who threw George out of the wedding.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

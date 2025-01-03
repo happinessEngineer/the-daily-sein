@@ -1,0 +1,106 @@
+{
+  "gameNumber": 99,
+  "date": "2025-04-12",
+  "questions": [
+    {
+      "quote": "So, because of a few bad apples you're gonna impugn an entire continent?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have to dribble, if I give it to you, you just shoot. You're a chucker.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tragic story, I'm afraid. He could've had any woman in the world.. but none could match the beauty of his own hand.. and that became his one true love..",
+      "characters": [
+        "George",
+        "Man",
+        "Phil",
+        "Jerry"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Oh, okay. Oh, your friend George came by the office the other day, and then yesterday he cancelled on me.",
+      "characters": [
+        "Newman",
+        "Wendy",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "All right, I'll see ya Bill. All right, I got room for two, but the only thing I have is in the non-filter section.  Hey.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You've got to stop it. Your your all hopped up on the caffein.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You go out with a guy one time, you ask him to go upstairs like you're Mae West?  Of course he's gonna try and get you alone for the weekend.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, you know, I didn't drive her home. Plus, I give her a gift in front of Winona, how does that hurt me?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's all in your head. All she knows is she had a good time. I think you should call her.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't sit on this bus anymore. I think I'll go play with that dog.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 379,
+  "date": "2026-01-17",
+  "questions": [
+    {
+      "quote": "Ah, sure. Poor doorman has to work two jobs to put food on the table for mother and baby.  No, I live here. That's okay, isn't it?",
+      "characters": [
+        "Doorman",
+        "Newman",
+        "Kramer",
+        "Tor"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Moths are a discourage to my business, all it takes is one moth to lay eggs. You know what happens to the larvae? They hatch and they're everywhere.",
+      "characters": [
+        "Rudy",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "I got me an appointment with a hardware store. I'm not saying I want to do it for the rest of my life, but, uh, hardware fascinates me. Don't you love to make a key?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The cops? What are you calling the cops for? They?re not going to do anything!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, perhaps one day when the pig-men roam free it will be stopped Kramer. Until then, off with their heads.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It must've seeped up my subconscious, Puddy has Ziggy bed sheets....D'you read the comics today?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Hal",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "tsh  Ah, yeah, we've - we've talked . . . I believe I can speak for the both of us on this.",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do the medical journals mention anything about standing in a pool of someone else's urine?",
+      "characters": [
+        "Jerry",
+        "Jodi",
+        "Babu",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What does it mean anyway? 'God bless you'. It's a stupid 'stuperstition'.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, my father works for the United Volunteers, maybe he can get her one.",
+      "characters": [
+        "Emily",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 563,
+  "date": "2026-07-20",
+  "questions": [
+    {
+      "quote": "CALVIN KLEIN? No, no. That's my idea. They, they stole my idea. Y' see I had the idea of a cologne that makes you smell like you just came from the beach.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you doing?...She had those nuts in her mouth, she just spit them out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've worn one once and I really think it did something for me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Brett",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You really deserve it. I mean, you have experience, seniority...Lippman really respects your opinion...",
+      "characters": [
+        "Jerry",
+        "Kevin",
+        "George",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "I was jumping over a puddle, and for some reason I went like this.  And they called me a Mary. So I chased them, and I tripped and I fell.",
+      "characters": [
+        "Attendant",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh! Oh, the city shuts down Fifth avenue. They never let anyone through. We're never getting home.",
+      "characters": [
+        "Tony",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, Jerry. She never dates, and I know it's because of her hair.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Could there be a native p0roblem in the Caymans? Maybe there's native unrest.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, ha ha, It's not the toilets, it's not the toilets. It's something else. Are you ready for this?",
+      "characters": [
+        "George",
+        "Wyck",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's just paper on a roll, that's it. And that's all it will ever be.",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

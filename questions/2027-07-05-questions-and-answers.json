@@ -1,0 +1,106 @@
+{
+  "gameNumber": 913,
+  "date": "2027-07-05",
+  "questions": [
+    {
+      "quote": "Two hours in front of the entire junior high, grades six through eight. That's six grade, seventh grade--",
+      "characters": [
+        "Katie",
+        "George",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Orchestra, Row G, dead center, primo! You'll think you died and went to heaven.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I believe that I am about to become the target of a systematic process of intimidation and manipulation, the likes of which you have never -",
+      "characters": [
+        "Emily",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, you really think that Pam would want you to be the father of her children?",
+      "characters": [
+        "Elaine",
+        "Dan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I slept in really hot rooms and I wanted to kill myself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, Elaine here was picking up my mail while I was away, because you know that little box can get very full.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Loretta"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, not anymore. He traded it to me for some Hollywood memorabilia.",
+      "characters": [
+        "Kate",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How do you make a decision which one to wear? I'd go crazy if I have to decide which sneakers to wear every day.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Michael",
+        "Kramer"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "So you were talking,  you're having pleasant conversation,  then all of sudden...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, he doesn't handle my money, he handles Jerry's money. He just does my taxes.",
+      "characters": [
+        "Susan",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 269,
+  "date": "2025-09-29",
+  "questions": [
+    {
+      "quote": "Jerry, I can't believe it took you so long to come see the baby. I kept saying to Michael, \"When is Jerry going to see the baby?\"",
+      "characters": [
+        "Carol",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I really don't remember, I was kinda out of it for the 1st couple of days, I was on a lot of medication, it was kinda like haze, it was pretty cool",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "So what's been going on around this dump? How's your fiancee?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ok, So Barney's is having this huge sale. I try this dress on --  -- Stunning. Stunning. I couldn't take my eyes off myself.",
+      "characters": [
+        "Puddy",
+        "Margaret",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, and she's going to find I'm a moron. You know, people think I'm smart, but I'm not smart.",
+      "characters": [
+        "George",
+        "Frank",
+        "Mary",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. How could I possibly have ulcers? Who could have given me ulcers?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because my nephew Larry could do it. He's a brilliant lawyer. He says Jack has no case.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Evelyn"
+      ],
+      "correctAnswer": "Evelyn"
+    },
+    {
+      "quote": "Nah, we need a medical dictionary! If a patient gets difficult, you quone him.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're cut of the loot. Stubs gave me 200 dollars for the autographed birthday card that was inside.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "Dana"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can stop kowtowing to Morgan. Congratulations, you got his job.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Steinbrenner"
+    }
+  ]
+}

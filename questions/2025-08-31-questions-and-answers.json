@@ -1,0 +1,106 @@
+{
+  "gameNumber": 240,
+  "date": "2025-08-31",
+  "questions": [
+    {
+      "quote": "I've been waiting a while for this. You know it's a shame Tony got all banged up, we're not gonna be able to get together on Saturday night",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jane",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh of course. Todd Gack. You did you bet was in Star Wars? Sammy Davis Jr.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey what's going on out here? You two should be ashamed of yourselves, both of ya!",
+      "characters": [
+        "Wilhelm",
+        "Stan",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "How long has your car been sitting in the Yankee parking lot?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Box of raisinettes eating another box of raisinettes? It's perverse.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really?  Maybe this will become like a cool thing, living with your parents.",
+      "characters": [
+        "Enzo",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you know what the interest on that fifty dollars comes to over fifty-three years?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh, I remember seeing those guys picketing out there, but I haven't seen them in a long time.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! I'm a scatter brain. That's why I probably can't hold a job or keep a man!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you, thank you,  Hey, Jerry, did ya see me up there? I was killing, Jerry. Killing. I killed.",
+      "characters": [
+        "Bania",
+        "Ron",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Bania"
+    }
+  ]
+}

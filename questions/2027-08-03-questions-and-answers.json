@@ -1,0 +1,106 @@
+{
+  "gameNumber": 942,
+  "date": "2027-08-03",
+  "questions": [
+    {
+      "quote": "Great, my boyfriend's just parking the car. Actually, Jerry, you",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Cynthia"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "'One bright note in today's market, was the stock of retailer J Peterman, whose founder's surprise return generated a rise of twelve and a half points.'",
+      "characters": [
+        "Eddie",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! I don't have to take it off, why should I take it off? This is ridiculous!!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Russell"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Tell him to come down here and get his own packages. You have nothing better to do then worry about his boxes.",
+      "characters": [
+        "Doris",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Doris"
+    },
+    {
+      "quote": "A big dinner with dessert. But I've got till the end of the month.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Gina"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well you know, these sneakers, they belong to my neighbor, Jerry Seinfeld? The comedian.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh - comfort, schmomfort. Listen, Father, can I ask you a question? In a terrible time like this...who would I get the death certificate from?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because most women when they're asked to sign a pre-nup are so offended they back out of the marriage.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Duncan",
+        "Lisi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So? We've met before. At Katie Ash's party, we talked for like ten minutes.",
+      "characters": [
+        "Driver",
+        "Karen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well if you didn't think I was parking, why did you put it in head first?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

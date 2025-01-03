@@ -1,0 +1,106 @@
+{
+  "gameNumber": 646,
+  "date": "2026-10-11",
+  "questions": [
+    {
+      "quote": "Well, what about sneakers? You know, they'll clean 'em. They do complete detailing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Watch the arm! Tim, listen, we don't want to bother you, we know you're busy here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good for you! What kind of a sick lowlife would do a thing like that? You know those people, you know they're mentally disturbed.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I workshopped that and.. SNOOZERS!!! he he he....but I'll tell you what I'll think... It's all a journey.",
+      "characters": [
+        "Sally",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Meanwhile Mr. Pitt's got this match with Ethyl Kennedy this afternoon.",
+      "characters": [
+        "Kramer",
+        "Evelyn",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You should try our mousse.  It'll change your life expectancy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Naomi"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "So I got home, and he was vacuuming! I mean, he's twelve years old! Who else but my Alan would do something like that?",
+      "characters": [
+        "Woman",
+        "Announcer",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Come on lets go. I got the helmet. Lets get the radar detector.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, the stupidest guy in my fraternity became an architect - after he flunked out of dental school!  Contratulations, young man.",
+      "characters": [
+        "Wyck",
+        "George",
+        "Elaine",
+        "Loretta"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Shoes? Shoes?! Shoes?! Shoes weren't invented till the fourth century! People walked around for thousands of years without them!  I got this. Let's go!",
+      "characters": [
+        "Manager",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

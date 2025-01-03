@@ -1,0 +1,106 @@
+{
+  "gameNumber": 630,
+  "date": "2026-09-25",
+  "questions": [
+    {
+      "quote": "She's not concerned about the security guard. What kind of a person is this? I'm marrying a person who doesn't care that this man has to stand here 8 hours a day when he could easily be sitting.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Bania",
+        "Craig"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah ha, well, I really wouldn't know about that. I don't watch much TV. I like to read. So what do you do, a lot of that \"did you ever notice?\" this kind of stuff.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Roy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's the matter with you? I just wanted to see how tall she was.",
+      "characters": [
+        "Kramer",
+        "Kurt",
+        "George",
+        "Loretta"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I went too far. I over seasoned it. Men were keeling over all around me. I can still hear the retching, the screaming. I sent sixteen of my own men to the latrines that night. They were just boys.",
+      "characters": [
+        "Frank",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ah, you know. I'm supposed to meet, eh, someone -- I'll, I'll wait for them outside.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wyck",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Is it possible they're just having babies to get people to visit them?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ava",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ow! You broke my dental plate!  Doris! He broke my dental plate. You son-of-a-bitch! I'm gonna sue you.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "You're just like George. George'd do the same thing. You're just like him. It's amazing!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, you know, I just told them what kind people you are and, uh, yada yada yada, that is it.",
+      "characters": [
+        "Wilhelm",
+        "Hoyt",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"555-3455.\" Well wait a second, don't you see that's 555-FILK.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

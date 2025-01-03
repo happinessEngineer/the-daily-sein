@@ -1,0 +1,106 @@
+{
+  "gameNumber": 478,
+  "date": "2026-04-26",
+  "questions": [
+    {
+      "quote": "This is my ketchup. I bought this ketchup just so I could have as much as I want.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'My wife's in a coma.' Yeah? Well, the life support machine called and...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Rita"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "These proofs look pretty good. Oh. Can I move this? Yup. I think this will work.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I had a great time at the last one. I was in charge of the music. I turned that mother out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ben",
+        "Levitan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well, I don't know if I'm happy for them, I mean I'm glad they're happy, but, frankly, that doesn't do anything for me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steinbrenner",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, just gimme that. And gimme some of those Sweet & Lows.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "let me go. let me go. Because I haven't talked to my mother in five years. We just don't see eye to eye. I don't even want to get into my childhood. I'm still carrying a lot of pain. A LOT of pain.",
+      "characters": [
+        "Kramer",
+        "Hanke",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's out of our way. Why can't we pick up something at Lord's? It's right over here.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "oh I'm sorry I didn't get most of that.. isn't that Kramer over there?",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you're nuts with these sponges. George is gettin' frustrated!",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

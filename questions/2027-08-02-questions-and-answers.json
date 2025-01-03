@@ -1,0 +1,106 @@
+{
+  "gameNumber": 941,
+  "date": "2027-08-02",
+  "questions": [
+    {
+      "quote": "Yeah Yeah I split a case with Newman..I waited all year for this.. Oooh this is fantastic.. Makes your taste buds come alive....It's like having a circus in your mouth.....Take a taste",
+      "characters": [
+        "Helena",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes! All right, Lamar, back it up a little bit so we can get out now.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "…So that's the bedroom. Here's the bathroom. If you need to, you can familiarize yourself with the kitchen…Yeah, go ahead and look through some of the drawers.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you, the sex... I mean, I was like an animal. I mean it was just completely uninhibited.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gennice",
+        "Donald"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I never assisted in a birth before. It's really quite disgusting.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Like in the middle of our fight last night he did this thing that he always does where he asks questions to himself, aloud. And then answers them.",
+      "characters": [
+        "Jerry",
+        "James",
+        "Dan",
+        "Beth"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Well, this time, this time you're wrong. C'mon. I'll even bet you.",
+      "characters": [
+        "Kramer",
+        "Leo",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, how do you know for sure? Look, why don't you do me a favor. Why don't you go in the back and find out, okay?  Unbelievable.",
+      "characters": [
+        "Daphne",
+        "Kramer",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Right, we'll John Mollika is organizing some kind of intervention for him. We're having it here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

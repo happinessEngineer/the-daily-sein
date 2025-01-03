@@ -1,0 +1,106 @@
+{
+  "gameNumber": 921,
+  "date": "2027-07-13",
+  "questions": [
+    {
+      "quote": "Hey I'll get married if I have to. Al Netchie will think twice before he opens his mouth about me again.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you all made me leave before the end of the game.",
+      "characters": [
+        "Mike",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why is everyone talking about \"The English Patient, it's so romantic\".  God, that movie stunk!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's being scored a triple for Paul O'Neill with a throwing error charged to Martinez.",
+      "characters": [
+        "Tv",
+        "Kramer",
+        "Wilhelm",
+        "Elaine"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Maybe he was going to say \"Of course I have to check with my associates.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a second, wait a second, what coming in, what woman is coming in?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Allison"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I think I saw him on land a couple times. So how's the job situation goin'?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great. Uh, you know what? Why don't you put it in the car so I don't toss it in that dumpster?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Corinne",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, George, because of society. So how did the big meeting turn out?",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, see those two women over there? I almost dated the one on the right. She's in the closet business.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

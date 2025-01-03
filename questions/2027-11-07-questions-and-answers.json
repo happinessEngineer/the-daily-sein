@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1038,
+  "date": "2027-11-07",
+  "questions": [
+    {
+      "quote": "\"Well I'll tell you I'm looking forward to my appointment on Thursday. I might even get there a few minutes early.\"",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, I'm sorry. I'm afraid the worst of it is it's someone you know. Jerry Persheck.",
+      "characters": [
+        "Elaine",
+        "Daphne",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Uncomfortable? How does you think I feel?.. Hey let me ask you something, how much did you pay for that ticket?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I am wearing the ribbon. He is wearing the ribbon. We are all wearing the ribbon! So why aren't you going to wear the ribbon!?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Bob",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Anyway, I called him back... I told him I had to go visit my father in the hospital in Maryland.",
+      "characters": [
+        "Bania",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, everybody would know everybody. It would be like a small town.",
+      "characters": [
+        "Tv",
+        "Keith",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh...yeah...uh you've never met my wife, Meryl? Meryl Seinfeld.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Cindy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What?  Wh... what're you talking about? I'm not the one with the problem.  Lloyd Braun was in the nuthouse, not me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Umph, sorry! But the rules clearly state that you cannot clean the ball unless it's on the green. The rules are very clear about that.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I, uh, I'm not sure how you pronounce it or anything, but I, uh, I believe it's Ménage à Trois?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

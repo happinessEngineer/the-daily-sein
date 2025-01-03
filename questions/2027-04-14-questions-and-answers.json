@@ -1,0 +1,106 @@
+{
+  "gameNumber": 831,
+  "date": "2027-04-14",
+  "questions": [
+    {
+      "quote": "This isn't going to work for me ... so if you could show me something else.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is terrible. What is this, ginger? I hate ginger. I can't understand how anyone can eat ginger.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you don't see. You don't see. Well it happened. Believe me.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Why? Did she say something to you about why she broke up with me?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now you didn't tell me you didn't know how to drive. You should have mentioned that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sid",
+        "Tina"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Well if you and I ever got into, like a really serious fight you know, and the punches started flying -- who do you think would win?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If you want to watch, sit down. You're making me nervous. I tell you this Scissorhands is a hell of a barber.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I see here that you play the harp.. tell me, why do you have to tilt it? Can't you just build it on an angle? It'd save you a lot of trouble.",
+      "characters": [
+        "Elaine",
+        "Abby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, Even Steven. Oh, by the way, when you get back to your apartment try to keep it down because Newman is taking a nap in your bed.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Could be years before I get back to Coney Island. I can't go to rides alone.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Jerry",
+        "Bette"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

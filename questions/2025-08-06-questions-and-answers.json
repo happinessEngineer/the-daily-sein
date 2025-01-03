@@ -1,0 +1,106 @@
+{
+  "gameNumber": 215,
+  "date": "2025-08-06",
+  "questions": [
+    {
+      "quote": "Well, break 'em. You missed the bris, I want you at the game.",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh? So, I took your suggestion and I gave my boss Marion's poems. The ones that affected Kramer so much.",
+      "characters": [
+        "Jerry",
+        "Announcer",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you very much. You just stand over there, I?ll stand over here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, I lost them all in the fire!  Hey, George, maybe you can ask Susan's father for more, huh?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Donna",
+        "Sid"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was locked out of my apartment, I'm just trying to get my keys.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jimmy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What d'you think is the matter? I've been assigned to work on Kramer's coffee table book.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, there's something in the air today. You feel it? There's something in the air.",
+      "characters": [
+        "Owner",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, You can't go in there it's like a gas chamber in there.",
+      "characters": [
+        "Conrad",
+        "Kramer",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...Well, I suppose I could,  but I'd have to shift a few things around, uhm... Hold on for a second, will you? Uh...",
+      "characters": [
+        "George",
+        "Lanette",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A relationship is an organism. You created this thing and then you starved it so it turned against you. Same thing happened in \"The Blob\".",
+      "characters": [
+        "Jerry",
+        "George",
+        "Carol",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

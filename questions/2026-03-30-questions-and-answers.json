@@ -1,0 +1,106 @@
+{
+  "gameNumber": 451,
+  "date": "2026-03-30",
+  "questions": [
+    {
+      "quote": "Yeah, yeah. She's punctual... and uh she's been late, sometimes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because you kissed me. You kissed me, you stupid idiot! Rita called Russell and he fired me over the phone.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Difficult job. You want those keys, we're gonna have to dig this up.",
+      "characters": [
+        "Ralph",
+        "Sid",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Ralph"
+    },
+    {
+      "quote": "rush? you want a rush? drop a ball on your toe my friend, talk about a rush, you'll be throbbing, you'll see visions",
+      "characters": [
+        "George",
+        "Hanke",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I feel terrible, I can't be responsible for breaking up a marriage. Oh no",
+      "characters": [
+        "Steinbrenner",
+        "Lippman",
+        "Rabbi",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? What's it like? Is it nicer than mine? Where does he have the couch?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And Elaine - I wouldn't mind seeing something happening between you two.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "No believe me, I'm always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Sara",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they told me that I got more blood, so I guess I owe you again.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you realize this is the last meal I am going to have for three days?",
+      "characters": [
+        "Jerry",
+        "Eva",
+        "Elaine",
+        "Donna"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

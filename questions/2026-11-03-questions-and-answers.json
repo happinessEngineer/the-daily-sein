@@ -1,0 +1,106 @@
+{
+  "gameNumber": 669,
+  "date": "2026-11-03",
+  "questions": [
+    {
+      "quote": "yeah, Kramer, we're, uh, kind of in the middle of something here. We're trying to do a little work..",
+      "characters": [
+        "Tony",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "According to our latest quarterly thing,Kruger Industrial Smoothing is heading into the red. Or the black, or whatever the bad one is. Any thoughts?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kruger",
+        "Loretta"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Oh, by marriage.  We went to their wedding. You should have heard him talking about Chappaquiddick - trying to blame the whole thing on bad directions.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? I can take an hour off your hands. Give the kids a chance to see a real live Yankee.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Manager",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ya it used to be right in the middle of single Jeopardy and now they do it right after single Jeopardy.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think you're both mentally ill.  And by the way...they're real, and they're spectacular.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Sidra"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "C'mon, you lost your wallet, I figured I'd get you another one.",
+      "characters": [
+        "Diane",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but you know what? I have a friend, he's got a couple of seats. If you don't mind the nose bleed section, they're yours.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Alec"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "No, it's not a problem, I can get rid of the apartment this afternoon.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The doorman. I don't wanna play anymore of his mindgames. What time does he get off?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 415,
+  "date": "2026-02-22",
+  "questions": [
+    {
+      "quote": "But I mean look at him. He's gotta be on his feet like that all day? That's brutal. I think I'm gonna say something to your uncle.",
+      "characters": [
+        "Elaine",
+        "Valerie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, let me ask you a question. Could you, uh, expand the space underneath a desk to give it a little more headroom?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine is having a \"houseguest.\" She's picking him up at the airport tonight.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know why Rifkin was a serial killer? Because he was adopted.  Just like Son of Sam was adopted. So apparently adoption leads to serial killing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Ricky"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right! You're foolin' around with your maid. That is a wise decision.",
+      "characters": [
+        "Tim",
+        "Nina",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't believe this? What happened to him? Where the hell is he?",
+      "characters": [
+        "Brett",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a second. I think I see where that laser guy is. No! Don't look! Don't look. Oh, yeah, that's him. Ok. I'm gonna sneak up on him. Now the hunted becomes the hunter.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, as you may be aware, your mother and I are not moving to Del Boca Vista, Florida.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "The Andrea Doria collided with the Stockholm in dense fog 21 miles off the coast of Nantucket.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's smart. It's a smart line, and a smart crowd will appreciate it.  And, I'm not gonna dumb it down for some bonehead mass audience!",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

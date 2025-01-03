@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1050,
+  "date": "2027-11-19",
+  "questions": [
+    {
+      "quote": "Peru! I paid $300 bucks for these. I could have bought a house in Peru for $300 bucks!",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't even know them. What is she, your second cousin? I mean, I've met them three times in my life.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Gennice",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't need the card. High-end hoagie outfit like that, it's all computerized!  They're cloning sheep now.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, you know what, the keys. I want the keys. You've lost your key privileges.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! what's the deal with decaf; how do they get the caffeine out of there and then where does it go?",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Jeannie",
+        "Mike"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "My name is Maxwell. I'm from Maid To Order. It's a pun. I sent one of my girls over to your place.",
+      "characters": [
+        "Man",
+        "George",
+        "Helen",
+        "Naomi"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "I told Cynthia we'd double with her and Bania Saturday and then catch his act.",
+      "characters": [
+        "Jerry",
+        "Greg",
+        "Abby",
+        "Kramer"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow .",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "An apartment complex, the uh the Eiffel Towers. uumm Like I said uh you'll be getting a postcard uh in a few days and again I'm sorry.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I change it so often, I mean to come all the way down here...",
+      "characters": [
+        "Stan",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

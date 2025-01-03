@@ -1,0 +1,106 @@
+{
+  "gameNumber": 601,
+  "date": "2026-08-27",
+  "questions": [
+    {
+      "quote": "Well I've asked every one at work and nobody gets this cartoon. I mean I don't understand why no one can explain it, but I'm gonna get to the bottom of this.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jane",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A thousand. Okay, a thousand once, a thousand twice, a thousand three times, sold to the lucky lady in the third row. Congratulations, thank you so much.",
+      "characters": [
+        "Doctor",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, they didn't even touch me. I tripped because of these stupid cowboy boots.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah hah. Let me ask you this. Is there any tampax in your house?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I love this couch. You know what the best part about it is? It doesn't fold out, so no one can sleep over.",
+      "characters": [
+        "Bookman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wish I didn't. Brace yourself, madam, for an all-out bidding war. But this time, advantage Varnsen!",
+      "characters": [
+        "Jerry",
+        "Fdr",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You are such an idiot. Well, we gotta get the car cleaned up for my parents.",
+      "characters": [
+        "Elaine",
+        "Beth",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what happened to you yesterday? We were supposed to go to the auto show, I waited for you, you never came.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, God, I bumped into Robin Sandusky today, she asked me to have dinner with her and her husband.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And your crab legs, and a thing of cheese. The Triple-A guy said I was this close to sucking a muffin down the carburetor. What were you thinking?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

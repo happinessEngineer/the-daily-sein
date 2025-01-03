@@ -1,0 +1,106 @@
+{
+  "gameNumber": 736,
+  "date": "2027-01-09",
+  "questions": [
+    {
+      "quote": "Oh, I don't think so. No, he's an entertainer. You know, all over the place. That's where I come in.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I'm sorry about that Mongolian barbecue last night. I'd heard good things.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right. Well if you need an extra set of hands, I know who you can call--",
+      "characters": [
+        "Helen",
+        "Duncan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhm, hold, hold on a second.  I'm, I'm sorry, I didn't hear what you said.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This you are not going to believe. Al Netchie, that pimple. Tells Daphne, not get this 'Not to get involved with me.'",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I'll tell you what, Chubs, if that yogurt has fat in it, I will put myself on an all-yogurt diet for a week.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, that's exactly what I'm worried about. God would never let me be successful. He'd kill me first. He'd never let me be happy.",
+      "characters": [
+        "George",
+        "Anna",
+        "James",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have no use for either one of them. I don't even want them there tonight.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I don't know, I just can't. Nobody in my family can pay for parking, it's a sickness. My father never paid for parking; my mother, my brother, nobody. We can't do it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, motor oil is the lifeblood of a car. Okay, you put in a low-grade oil, you could damage vital engine parts. Okay.  See this gasket?  I have no confidence in that gasket.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Tony"
+      ],
+      "correctAnswer": "Tony"
+    }
+  ]
+}

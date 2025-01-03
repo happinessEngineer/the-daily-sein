@@ -1,0 +1,106 @@
+{
+  "gameNumber": 696,
+  "date": "2026-11-30",
+  "questions": [
+    {
+      "quote": "I was quoting him. Why would I be insulted? I'm never insulted. You could call me baldy, dump soup on my head. Nothing insults me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer! That... Kramer! I'm just about to leave, he calls me up. He begs me to sit in his car for two minutes, so he can pick up these birds...",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He must have caught a glimpse of us when I poured that beer on his head.",
+      "characters": [
+        "Patrice",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "That's right I don't like , I never like her from the get-go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Duncan",
+        "Wyck"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Knopp? Really? Boy. That means there's an opening here for senior editor...has Lippman, uh, hired anyone?",
+      "characters": [
+        "Naomi",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So are you telling me there's not one house to rent in all of Tuscany?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Evelyn",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I went down to the magazine, I pleaded with him to come and see me again, finally he agreed to come down tonight, and he's going to write another article.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Earl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Believe it or not, George, isn't at home, please leave a mes-saaage at the beep. I must be out or I'd pick up the pho-one. Where could I be? Believe it or not, I'm not hooome.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's OK. It's fine. She'll do it. I'm sure she'll still do it.",
+      "characters": [
+        "Manny",
+        "Jerry",
+        "Julianna",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Super bowl! Hey, an original G.I. Joe.  With a full frogman suit.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 120,
+  "date": "2025-05-03",
+  "questions": [
+    {
+      "quote": "Alrighty. Ah ... my last job was in publishing ... I uh got fired for having sex in my office with the cleaning woman.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now Porter, you know your mother and I love you very much, but sometimes people fall out of love. Now give me a big hug.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "George",
+        "Father"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Listen, that registration may have your name on it, Jerry. But this engine's running on my sweat and my blood.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Estelle",
+        "Tony"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Oh, come on. There's a lot of people walking around the city that look like me.",
+      "characters": [
+        "Jerry",
+        "Corinne",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. We got into this whole thing about how podiatrists aren't real doctors.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You wanna know what happened to Kramer? I'll tell you what happened to Kramer. He was ticked off. About the keys. Yeah, that's right - about the keys. Thought he got a bad rap.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Lamar",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Get up boy, get up! We got a problem here! Tough it up. This is for real, you've got to want it...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Ade, I have to tell you, I, I have never met anybody so ... efficient.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Officer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And you're sure with your busy schedule you'd have time to take on a protégé?",
+      "characters": [
+        "Kramer",
+        "Abby",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "So you work all day as a doorman at one building. Then you come home and stand outside your own building?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1113,
+  "date": "2028-01-21",
+  "questions": [
+    {
+      "quote": "Jerry, what am I gonna do? I'm gonna go in there and spy on her in the sauna?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Ruby",
+        "Steve"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I've seen you around the club. My name's Sidra. This is Marcie.",
+      "characters": [
+        "Jack",
+        "Beth",
+        "Jerry",
+        "Sidra"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "Well so what's the problem, you just put some newspaper down.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have to say, as a glasses wearer I take exception to that. That's like me buying a wheelchair to cruise around in.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, you're right. Excuse me, excuse me. Would you mind. I'd like to take the picture back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was just uh going over the Jake Jarmel book and I understand you worked with him very closely on this.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Come up - Ah, there he is, the man himself, George Louis Costanza. Here I am about to go to the electric chair and my oldest friend is dating the governor",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They adjust the foam density and spring tension to your body type. I estimated your height and weight. Five eight, about 110 pounds?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Hal"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "Well he's from the impressionist school, you know like Monet, Manet, Tippi Tippi Dayday.",
+      "characters": [
+        "Abby",
+        "George",
+        "Gillian",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They just don't know what street to take. You remember that time I got us to Yankee Stadium in rush hour in fifteen minutes?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

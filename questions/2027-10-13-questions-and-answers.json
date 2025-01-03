@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1013,
+  "date": "2027-10-13",
+  "questions": [
+    {
+      "quote": "Oh no no no no, don't say anything to Kramer. Susan can't stand him. He vomited all over her.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm feelin' a bit queasy myself. Maybe I'll see you in another five years.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A half hour then diving class started. Well… that got a little messy. I gotta find a new place to swim 'cause that pooll can't hold me, Jerry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Frank, this new holiday of yours is scratching me right where I itch.",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "George",
+        "Morgan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So we got an attractive woman, wearing a bra, no top, walkin' around in broad daylight.  She's flouting society's conventions!",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "I'll make time, because Abby, I was once like you; wide-eyed, naive, I didn't know the first thing about a subject as fundamental as risk management.",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You'll be fine as long as it doesn't hit you right in the pupil, 'Cause then the whole ball will go up like the Death Star. Tchoo! I gotta go find a bathroom.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, Danielle,  we should get going. I got a key made for you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I tried! I almost threw it down the incinerator, but I couldn't do it. The guilt was too overwhelming.  Susan's so attached to this thing.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ya, we've been trying to reunite Joey with his father who lives in Paris. But he's afraid to fly alone, you know he's kinda withdrawn, but he seems to take to you.  So it's a perfect solution.",
+      "characters": [
+        "Corinne",
+        "Alec",
+        "Jimmy",
+        "Elaine"
+      ],
+      "correctAnswer": "Alec"
+    }
+  ]
+}

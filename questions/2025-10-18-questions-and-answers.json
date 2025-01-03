@@ -1,0 +1,106 @@
+{
+  "gameNumber": 288,
+  "date": "2025-10-18",
+  "questions": [
+    {
+      "quote": "Y'know I have some friends who try and base their whole life on that principle.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is a pretty bad deal for Kramer. You know a radar detector is worth much more than that helmet. I think you're cheating him.",
+      "characters": [
+        "Jerry",
+        "Nina",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you a little secret. We're having an unadvertised sale starting Friday, that suit will be half-price.",
+      "characters": [
+        "Saleswoman",
+        "Steinbrenner",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "I don't have a dress to wear.  And you. You don't have anything.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "What about Don Ramsey? You didn't mention anything to him did you?",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just talked to Mr. Kruger, he'll be down in a minute. He wanted me to take a photograph for the record.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Someone's have to unhook the boat before it leaves...the place!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want to see this woman anymore but I haven't got the will power to throw out her number. Please, help me. Help me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes. In Chinatown with the money I earned cleaning people's apartments.",
+      "characters": [
+        "Steve",
+        "Peterman",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "I needed them to help me break my fall! If it hadn't been for them, I could have really injured myself!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Farkus",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

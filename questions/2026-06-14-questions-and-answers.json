@@ -1,0 +1,106 @@
+{
+  "gameNumber": 527,
+  "date": "2026-06-14",
+  "questions": [
+    {
+      "quote": "I'm terribly sorry Mr Kramer but we can't get your car now, the keys seems to have been misplaced.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Well, I figure if it doesn't work out I can always flush them down the toilet.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's not fair, Jerry. It's just not fair. All right, all right. That's it. I'm getting out of this thing.",
+      "characters": [
+        "Jerry",
+        "Greg",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Urgh.. these are so cheap.  And don't forget tommorrow we're going shopping for some rings, so don't make any plans...and this time we're not skimping.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Susan",
+        "Tim"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Come on, just put your clothes on! You'll get dressed in the car!",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll have the porterhouse medium rare, baked potato with sour cream,",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Holly",
+        "Joel"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "You know something really stinks to high h… Holly! What are you doing here?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Alton",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What kind of pills are these, anyways?! \"For Smuckers\"? \"May cause panting and loss of fur\"?  These are dog pills!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Alec",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thanks.  That's no signal, who wouldn't like me in this leotard? I look amazing in this leotard.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, Cynthia and I got into this big argument afterwards and I think it's over.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Abby",
+        "Helen"
+      ],
+      "correctAnswer": "Abby"
+    }
+  ]
+}

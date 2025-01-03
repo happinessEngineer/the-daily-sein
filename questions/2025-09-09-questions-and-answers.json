@@ -1,0 +1,106 @@
+{
+  "gameNumber": 249,
+  "date": "2025-09-09",
+  "questions": [
+    {
+      "quote": "What are you doing here? I thought you were out of town for the weekend.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Glenn"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, do you want a flat edge on this molding or do you want me to bevel it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Conrad"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Hey. Well, bad news, boys. My life is over. My girlfriend's movin' away.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I have mourned for three long months! Summer months, too! Anybody could grieve in January! It's time for George to start being George again.",
+      "characters": [
+        "Donald",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, George, just think about it. You know, you're married, how would you feel if somebody says to you that they just had se...",
+      "characters": [
+        "Kramer",
+        "Harold",
+        "Elaine",
+        "Judge"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A - Ha! Nice try, my friend, but you gotta get up pretty early in the morning..",
+      "characters": [
+        "Doctor",
+        "Puddy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's nothing to read, it's just yesterday's news. You know, the Yankees won, the Mets lost, Ricky Henderson's unhappy...",
+      "characters": [
+        "Doctor",
+        "Tim",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh it's you? You're the one who sold me the moth ridden cabana crap.",
+      "characters": [
+        "Rudy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Listen to me. You don't tell anybody about this. No one. You hear me?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, just remember when you see him tomorrow night to tell him that the waiter liked him.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

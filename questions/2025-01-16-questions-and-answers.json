@@ -1,0 +1,106 @@
+{
+  "gameNumber": 13,
+  "date": "2025-01-16",
+  "questions": [
+    {
+      "quote": "Nah, it's not a good turn. December. December. Don't you think we should have a little more time just to get to know each other a little.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Russell",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. I am like a drug dealer. I got the guy hooked. I am having lunch at his desk everyday this week. He doesn't make a move without me. It's very exciting.",
+      "characters": [
+        "Elaine",
+        "Doorman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! Wait, wait, wait! Whoa! Give it to the girl. I'm an independent contractor. Tax purposes.",
+      "characters": [
+        "Kate",
+        "Jerry",
+        "Kramer",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "I'm only charging $37.50, plus you get a pizza bagel and desert.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Gail"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ohh, damn. I forgot to buy plant food again.. I'll bet I got a coupon for it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Is it flowing? I like flowing, cascading hair. Thick lustrous hair is very important to me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, I will, George. I'll have to stick my chin on top of the seat.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Raymond"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The average person in a situation like this, they walk right by it. Not me.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want you to get on this phone and give him his 'thank you'!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sophie",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's got everything, right?  She's intelligent, she's smart, she's got a great sense of humour.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

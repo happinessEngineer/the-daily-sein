@@ -1,0 +1,106 @@
+{
+  "gameNumber": 996,
+  "date": "2027-09-26",
+  "questions": [
+    {
+      "quote": "Really John Mollika, they guy that used to bartend at the Comedy Club. How's he doing?",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're selling coffee, bran muffins.. you're surrounded by reading material. It's entrapment!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi. Hey I've been going over the list .What about The Drake? Wanna invite him?",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Wow. Kenny Rogers Roasters. Finally open. Hey, look at the size of that neon chicken on the roof.",
+      "characters": [
+        "George",
+        "Jackie",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. And now they want me to bottle it up. It makes me so mad!",
+      "characters": [
+        "Jerry",
+        "Cheryl",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my God!  You know what I just realized?! If they get divorced an' live in two separate places? That's twice as many visits!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Tia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The next morning, I woke up, and it was going like this.  I can control it if I really concentrate. But otherwise,  oh.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No he couldn't, because the other car was already backing in.",
+      "characters": [
+        "Matthew",
+        "Jerry",
+        "George",
+        "Joel"
+      ],
+      "correctAnswer": "Matthew"
+    },
+    {
+      "quote": "Hoh, here he is. This is the man I wanted you to see. Izzy Mandelbaum. He's eighty years old, but strong as an ox.  Watch this.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hi. Ah look, I know I don't have an appointment but it's really important that I talk with Julianna.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

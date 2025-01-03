@@ -1,0 +1,106 @@
+{
+  "gameNumber": 860,
+  "date": "2027-05-13",
+  "questions": [
+    {
+      "quote": "I'm sorry Leo's moving back here. I'm not ready to go back to Florida.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, we've tried to arrange a situation where we'll be able to do this once in a while and still be friends.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, you got that straight!  Hey, Elaine, try the beef - because that's realy au jus sauce, huh.  Real au jus sauce!",
+      "characters": [
+        "George",
+        "Abby",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's become the laughing stock! You know The Times has already stated it could cost him the election.  Name tags!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What, do you break it in with her, then you try it out on me?",
+      "characters": [
+        "George",
+        "Jackie",
+        "Jerry",
+        "Alec"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm so sorry. I got stuck out of town. I missed our whole time together.",
+      "characters": [
+        "George",
+        "Ade",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So listen, I'm going to crab a bite to eat at Sardi's. You wanna go?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know, George is pretty pleased about it. It's like she signed a letter of intent.",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, come on, take a walk with me down to the Laundromat. I gotta pay this guy the money..",
+      "characters": [
+        "Jerry",
+        "Sally",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah. The second button is the key button. It literally makes or breaks the shirt. Look at it, it's too high, it's in no-man's land.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Carl"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

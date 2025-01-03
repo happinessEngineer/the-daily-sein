@@ -1,0 +1,106 @@
+{
+  "gameNumber": 891,
+  "date": "2027-06-13",
+  "questions": [
+    {
+      "quote": "Nothing... Here, ok I'm on the phone alright? I'm on the phone with someone...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I didn't do it with you, I would have done it with someone else.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Newman",
+        "Robin"
+      ],
+      "correctAnswer": "Robin"
+    },
+    {
+      "quote": "Y- B-briefly. Now, I gotta find a good place to hide this key. Because if somebody finds this, they hold the key to all my possessions.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Lately, though, I've been, uh, - I've been buying the generic brand of waxed beans. You know, I rip of the label… I can hardly tell the difference.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What, you're gonna pass up a wonderful opportunity to put that aloe pusher in her place?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Blast! There's no way I can handle 8 in addition to my ususal load of one! I'll never get to Hawaii!  I'll be stuck in this apartment building forever!  The dream is dead.",
+      "characters": [
+        "Helen",
+        "Melissa",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, man, just *rampant*, **mutant** B.O. The \"O\" went from the valet's \"B\", to the car, to me. It clings to everything. Jerry thinks it's an entity. But I showered and I shampoo'ed, so...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, stop worrying about this guy. It wasn't your fault.. Come on, he's not stalking you.",
+      "characters": [
+        "Kurt",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no, you know actually we are friends of a serial killer.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great! Well, take a look around. Pick out something you like.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    }
+  ]
+}

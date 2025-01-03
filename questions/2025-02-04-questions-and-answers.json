@@ -1,0 +1,106 @@
+{
+  "gameNumber": 32,
+  "date": "2025-02-04",
+  "questions": [
+    {
+      "quote": "I'm just gonna heat this up. Make a little hot-tub for Little Jerry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Manny",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Kramer's the only person who could say something like that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Phil",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh...yeah. I got my new plates. But they mixed them up. Somebody got mine and I got their *vanity* plates.",
+      "characters": [
+        "Elaine",
+        "Poppie",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. it's always simulated....except with George that's in my contract.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Trust me, Kramer. Given the legal opportunity, I will kill you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I couldn't help it. We hadn't been alone in a long time, it just got the better of me.",
+      "characters": [
+        "Amy",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not going to 'Skyburger'. Besides, it's in the opposite direction, let's just eat popcorn or something.",
+      "characters": [
+        "Milos",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I think I will. I like the idea of having the law on my side.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Robin",
+        "Connie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, the whole deal going down tomorrow. Morty's gonna miss his plane for it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, not nervous. I'm good, very good.  I can't do this! Can't do this!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 216,
+  "date": "2025-08-07",
+  "questions": [
+    {
+      "quote": "I'm so sorry about that Mr Costanza, but look. Look, I brought you another one.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello? Yeah, this is Jerry Seinfeld. No, no, no, I do not want to stop over in Cincinnati. Well, then you upgrade me. That's right, you should thank me. Goodbye.  Hey, I'm flyin' first class.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what, let me bring some other people in on this...Barbara, Jane, Mike Can I see you please.",
+      "characters": [
+        "Manager",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Oh good. I just didn't want you to freak out... The chance of a crash is very slim. Do you have to go to the bathroom?",
+      "characters": [
+        "Toby",
+        "George",
+        "Elaine",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "But... I don't want to spoil things by sleeping with you too soon.",
+      "characters": [
+        "Bruce",
+        "George",
+        "Loretta",
+        "Jerry"
+      ],
+      "correctAnswer": "Loretta"
+    },
+    {
+      "quote": "Hey, look who's over there. Miss Cool-toes. Check this out, Jack!",
+      "characters": [
+        "Newman",
+        "Gary",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "I'll call Jack Klompus, he's got a key to the garage. He can send them overnight delivery.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "UH, ha ha, ... It's just SO frustrating. It's a brand new jacket.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Katya",
+        "Ellen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She dumped me! She rolled right over me! Said I was a hipster dufus. Am I a hipster dufus?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah, yeah, yeah. That's it. More of that, difficult. I'm a difficult seed.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

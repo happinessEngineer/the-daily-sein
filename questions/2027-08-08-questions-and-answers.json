@@ -1,0 +1,106 @@
+{
+  "gameNumber": 947,
+  "date": "2027-08-08",
+  "questions": [
+    {
+      "quote": "I'd like to say it once to someone that can actually hear it!",
+      "characters": [
+        "George",
+        "Kruger",
+        "Teller",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How, how could you guys have turned this place down, it's such a great location and it's...so close to the park.",
+      "characters": [
+        "Diane",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Diane"
+    },
+    {
+      "quote": "Ah, shut up, Jerry. My parents think they can ignore me. Heh heh. Well, they better think again.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Craig",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't lie. I know it was you. I get a sample of your hair. I match them up.",
+      "characters": [
+        "Enzo",
+        "Tim",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "I'm not going with him. I don't even know the guy.  Look, they did this for me before.",
+      "characters": [
+        "Pop",
+        "Jerry",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, I heard that Lassie #3 is buried around here. I'm gonna go check it out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gavin",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? What?! You were the one who was talking dirty. I was just trying to keep up!",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're looking tremendous. What are you on some kind of regimen?",
+      "characters": [
+        "Salesman",
+        "Mike",
+        "Jerry",
+        "Fred"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "I leave you alone for two seconds, and this is what you do! I trusted you!",
+      "characters": [
+        "Kramer",
+        "Pitt",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't pay five cents, you get five cents back. Here, read the label here.  Vermont, Connecticut, Massachusetts, New York. Refund,  vrrup, five cents.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

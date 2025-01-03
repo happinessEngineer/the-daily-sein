@@ -1,0 +1,106 @@
+{
+  "gameNumber": 981,
+  "date": "2027-09-11",
+  "questions": [
+    {
+      "quote": "I'm afraid so. And that's just the tip of the iceberg. I've been asking around - they didn't even have any kids.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you on all fours, that thing vibratin', kickin' up sawdust, ho ho! She'll get the picture!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, THANKS! This is FUN! Yeah, this turned out to be a GREAT weekend.",
+      "characters": [
+        "Jerry",
+        "Lou",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no no no, I haven't even seen her apartment yet.  Tomorrow night's the first night.",
+      "characters": [
+        "Frank",
+        "George",
+        "Worker",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What?! They're stealing the name?! That's my name, I made it up!",
+      "characters": [
+        "Fred",
+        "Patrice",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am such a Huge whale fan. These marine biologists were showin' how they communicate with each other with these squeaks and squeals, what a fish!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Izzy",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But the whole thing is a mess. He told everyone in the building. I met that cute guy on the fifth floor. I mean he could barely bring himself to nod.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have this... fun little assignment I think you'll enjoy. There's some reps in from the Houston Astros for talks on that interleague play... and I want you to show them a good time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "I told ya. Hey, any of you guys want to come out and help me fix my father's screen door in Queens?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This guy's got quite a racket. I take you to dinner and then drop you off at his apartment...",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

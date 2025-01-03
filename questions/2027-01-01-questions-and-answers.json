@@ -1,0 +1,106 @@
+{
+  "gameNumber": 728,
+  "date": "2027-01-01",
+  "questions": [
+    {
+      "quote": "Giddy-up! Alright! So now, how does that work? Now, what, I get a percentage of every pledge I bring in, right?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uhh, so you want to join me and Susan for lunch at the coffee shop?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sand, I can get rid of the sand.  Look there's still some in here, it won't go away! Look I even got sand in the pockets!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Absolutely. But I feel I must inform you that what happened last night was more than a simple bet.",
+      "characters": [
+        "Abby",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I had to. I had to apologize. I mean, I punched Mickey Mantle, my idol. It was eating me up inside!",
+      "characters": [
+        "Kramer",
+        "Hanke",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hmm-hm. Your home, Mister Costanza. Just make sure he gets his medicine six times a day and keep his tail elevated.",
+      "characters": [
+        "Doctor",
+        "Roy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Can you hear yourself? Can, can, do you know what you're saying?!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, you know, why don't you go first, you just had a long trip.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, what are you doing? George tells me you're gonna throw your set?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What, are you crazy? It's a traumatic thing to be thrown up on.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 752,
+  "date": "2027-01-25",
+  "questions": [
+    {
+      "quote": "So, we go into NBC, we tell them we've got an idea for a show about nothing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, it's ya nothing. Forget it, forget it, I just find it curious.",
+      "characters": [
+        "Donna",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got news for you. Golda Meir could make 'em all run up a tree.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Bania",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see, now I really don't want to get into this, any kind of specifics...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All rightly. Let me just review your history before we begin.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "They stole my wallet. The bum stole my wallet.  MY WALLET'S GONE!  MY WALLET'S GONE! I had my wallet in my back pocket. It's gone.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "How about this, you put your car in the good spot, that'll hold the good spot in front of the good building, and we can get the good car!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And my agent said as a bonus, I can use their private jet, so we'll all go somewhere - the four of us, one big fling before George and I go to California.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive.  Now, let's have a look at you.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a minute! Wait a minute! I need my massages! Can't you see I'm burned out!",
+      "characters": [
+        "Jerry",
+        "Alton",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

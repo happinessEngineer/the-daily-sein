@@ -1,0 +1,106 @@
+{
+  "gameNumber": 35,
+  "date": "2025-02-07",
+  "questions": [
+    {
+      "quote": "How would you find out something like that...wait a minute, what am I thinking? I've got the entire Yankee organization at my disposal.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, he's up on the roof getting some sun with the butter  Oh no!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So. Listen ... You're not doing anything tomorrow, are you? Because I have an extra ticket to the historical clothing exhibit at the Met.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I just got a call. I yell 'Cartwright! Cartwright!', just like that. Nobody came up, I hang up.",
+      "characters": [
+        "Elaine",
+        "Bruce",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Bruce"
+    },
+    {
+      "quote": "Look it's not like you're gonna be spending a lot of time with her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lloyd",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no, no. When they make the new ones, the old ones come out... right here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Glenn",
+        "Jerry"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "And you must....look exactly like Jerry. You don't see this; you're like twins .. WOoooohhhhh!!! this is eerie.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Laura",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy, he didn't know what he was up against.  So, when do you move into the apartment?",
+      "characters": [
+        "Helena",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but this is different. Those fur storage warehouses are huge. You can't, get anything without a number.",
+      "characters": [
+        "Willie",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Willie"
+    },
+    {
+      "quote": "I thinks it's kind of a pompous look. You know my parents used to have a kitchen chair that would have been perfect.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

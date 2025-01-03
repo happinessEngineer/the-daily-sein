@@ -1,0 +1,106 @@
+{
+  "gameNumber": 321,
+  "date": "2025-11-20",
+  "questions": [
+    {
+      "quote": "Okay, thank you. Listen Jake, uh, where did you get those eyeglass frames?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, but I've read articles and I must say it, doesn't sound very pleasant.",
+      "characters": [
+        "Bruce",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What the hell is this? \"George, Elaine and I went to see Chunnel ... with Jerry.\" With Jerry, huh? With Jerry! Great. Great!  Probably went to the 84th St. That's where I always go with Jerry.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, yeah.  Well, you guys just watch the tape and, uh, I'll get you some food.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jackie",
+        "Donna"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well it was worth it.  I'll be  right  back . Where are you going?",
+      "characters": [
+        "Jerry",
+        "Tawni",
+        "Kramer",
+        "Lloyd"
+      ],
+      "correctAnswer": "Tawni"
+    },
+    {
+      "quote": "Today. I'm going today. Just don't do anything until you hear from me.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "K-uger, that sounds like one of those old-time car horns, huh? K-uger! K-uger!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Hey, what are you doing tomorrow? You want to come see me on the Charles Grodin show?",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This photo clearly indicates your involvement in some ill-conceived mail order pornography ring.As does this one found in the same disturbing packet.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh you wanna switch? I'm sleeping on a love seat. I've got my feet up in the air like I'm in a space capsule.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 912,
+  "date": "2027-07-04",
+  "questions": [
+    {
+      "quote": "Yeah, that's normal.  Excuse me, sir. Could I have a look at that business section?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Audrey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me, uh, I don't mean to cause any trouble here, but George, if you take it, can I take your place?",
+      "characters": [
+        "Elaine",
+        "Jake",
+        "Jerry",
+        "Secretary"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what are we supposed to do? I gotta take Kramer to the doctor.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Stu",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "With you two guys at the helm. The last piece of the puzzle is in place.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tony",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't think I can take another season with him, Jerry. He'll just trade away their best young prospects, just like he did with Beuner, McGee, Drabek... McGriff...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jodi",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, yes, uh...you don't know me, my name is George Costanza...did you happen to rent Breakfast At Tiffany's?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Owner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait, George saw the movie? I saw him yesterday, he didn't mention it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "Jake"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? Well, you hardly know the guy…. What a nerve. You see wasn't I right about this guy? Didn't I tell you? Now, you're not going to do it are you?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know. I'm late. Hey now I know two signs,  check, and  late. Hey this is the guy you helped become the first ball man.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Gino"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? He's - He's out there? Oh, my God. I-I gotta go, I gotta go..",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

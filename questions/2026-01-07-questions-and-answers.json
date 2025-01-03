@@ -1,0 +1,106 @@
+{
+  "gameNumber": 369,
+  "date": "2026-01-07",
+  "questions": [
+    {
+      "quote": "Yeah, I put a six hour tape in. That should cover the experiment, the arrest, and most of your trial. Alright, I'll see ya.",
+      "characters": [
+        "Newman",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[To Jerry] Oh, remind me to talk to you about something later.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A backup system? We're designing bathroom doors with our legs exposed in anticipation of the locks not working? That's not a system. That's a complete breakdown of the system.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You sure have a lot of friends. How come I never see any of these people?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well maybe you can stick around after everybody leaves and we can sweep together.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Oh, yes. I already packed up my desk, sir. I can be outta here in an hour.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. I need a guy that can rig a Frogger machine so that I can move it without losing power, 'cause I have the high score. H-hello?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You should've seen her face. It was the exact same look my father gave me when I told him I wanted to be a ventriloquist.",
+      "characters": [
+        "Jerry",
+        "Kimbrough",
+        "Herb",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Forty-nine cents a pound. That's practically half than what you're paying at the supermarket. I don't know why you don't go to Joe's.",
+      "characters": [
+        "Tor",
+        "Kramer",
+        "Elaine",
+        "Billy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, uh, this power. I'm dangerous Jerry, I'm very very dangerous.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

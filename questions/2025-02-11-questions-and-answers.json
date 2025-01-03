@@ -1,0 +1,106 @@
+{
+  "gameNumber": 39,
+  "date": "2025-02-11",
+  "questions": [
+    {
+      "quote": "\"Heatbreaker, Brewbaker, …\" Hey George, I remember that tune. George? George? Um, what's that ticking. Oh oh. Oh, oooh,…wo wo wo wo . [runs out] fire in the hole!",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "You know you buy a big salad for somebody it would be nice if they knew it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is that, Boyfriend? I don't understand that. What, what does she think I asked her out for?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's where I come in. Umm, on splat. Uh, you see, Mrs. Sweedler, or is it hospital administrator Sweedler?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah. Right. Like anybody's ever gonna do this! How did you get me to go along with that? A show about nothing!",
+      "characters": [
+        "Elaine",
+        "Ethan",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Huh, yeah.  Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh I see....Yessss. Little Miss Candy Bar paid a visit, didn't she?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "'Man's best friend'. Jerry, I want something like that on my tombstone.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Thanks. Hey, listen, if you ever get a date, maybe the four of us could go out together sometime.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was moving it across the street, I looked up and I saw Woody Allen and I got all distracted.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

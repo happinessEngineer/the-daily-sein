@@ -1,0 +1,106 @@
+{
+  "gameNumber": 470,
+  "date": "2026-04-18",
+  "questions": [
+    {
+      "quote": "Jack can afford to give away a pen with all his money. Believe me. He gives me a check for 19.45. He didn't have a Coke. Ho, ho, ho!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Sure, the pinky toe is cute! But, I mean, what is it? It's useless! It does nothing. It's got that little nail that is just impossible to cut. What do we need it for?",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "OK, so then I put it on at home. It looks like I'm carrying twins.",
+      "characters": [
+        "George",
+        "Woman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sure, sure, sure, sure.  How about these seats? Are these fantastic, huh? Huh? I feel like Lincoln.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh great, oh, this is great.  How could you let him take the car?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Sid",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya?",
+      "characters": [
+        "Maryedith",
+        "Jerry",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My father gave me four tickets to the Yankee game for Saturday afternoon. Owner's box, first row behind the dugout.",
+      "characters": [
+        "Jerry",
+        "Nina",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Well what happens if I can't play like I was? What about the tour, and all my dreams?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, she wants me to like her, if she likes me. But she doesn't like me!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Oh no, you got to eat before surgery, you need your strength.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 681,
+  "date": "2026-11-15",
+  "questions": [
+    {
+      "quote": "Yeah?  You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway?",
+      "characters": [
+        "George",
+        "Lippman",
+        "Elaine",
+        "Rula"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "I won fifty bucks! Boy, this is great. Too bad Elaine's not here.",
+      "characters": [
+        "Abby",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He does.  In fact we're looking for another girl if you know anyone.",
+      "characters": [
+        "Woman",
+        "Waitress",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Well he really seemed to have his hands full if you know what I mean.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Vanessa"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, yeah, yeah. I was a little off last week, huh Jerry -- Yeah but the doctor says it was just a slight concussion",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Rava",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh come on Jerry, you're wrong. People they want to watch freaks. This is a \"can't miss.\"",
+      "characters": [
+        "Newman",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A rule is a rule. And let's face it. Without rules there's chaos.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.",
+      "characters": [
+        "Eva",
+        "Elaine",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have a private matter to discuss with my fellow tenants.  If you don't mind?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, I mean it's only a six month probation, it's a slap on the wrist.",
+      "characters": [
+        "Elaine",
+        "Sandi",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

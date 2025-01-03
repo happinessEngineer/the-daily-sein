@@ -1,0 +1,106 @@
+{
+  "gameNumber": 800,
+  "date": "2027-03-14",
+  "questions": [
+    {
+      "quote": "Why does everything have to be 'us'? Is there no 'me' left? Why can't there be some things just for me? Is that so selfish?",
+      "characters": [
+        "George",
+        "Duncan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you should have gone to the Costanzas' for dinner. Mmm the Paella was magnificent. Have you ever had really good Paella?",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm a comedian. Oh, let me get that.  You've been so helpful.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Marcelino",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's beautiful. She makes all the plans. I'm not from around here so it's okay if I'm stupid, and she knows I'm only in town visiting so there's no messy breakup",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, he took it. I put four hundred dollars in the new wallet.",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You knew he was an alcoholic. Why'd you put the drink down at all?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why would you take me to a Spanish restaurant because I'm black?",
+      "characters": [
+        "Kramer",
+        "Darryl",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Somebody put a cane on my foot. Just like the one I'm going to put up your...",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "In every situation. No matter how silly I look.  Hm.. tastes a little funky.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't see why's she more self-conscious about that than her toe thumbs.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

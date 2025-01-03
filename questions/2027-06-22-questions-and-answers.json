@@ -1,0 +1,106 @@
+{
+  "gameNumber": 900,
+  "date": "2027-06-22",
+  "questions": [
+    {
+      "quote": "I didn't mean anything by it. I don't even know L. Ron Hubbard! I didn't know you were...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Vvvvup. Right there. I got it. I did this thing on the Ottoman Empire. Like, what was this? A whole empire based on putting your feet up?",
+      "characters": [
+        "Jerry",
+        "Wendy",
+        "George",
+        "Patty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well would you tell this jury exactly what you saw at the corner of 83rd Street and Columbus?",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Rachel",
+        "Elaine"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "His feelings? You can't continue seeing him. You're destroying yourself.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...What makes you think I wasn't reading the Wall Street page? Oh, I know, because I'm the uneducated doorman.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Kramer",
+        "Doorman"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "No, next Wednesday. If it was tonight, I would've said tonight.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lisi",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh--uh--thank you, Jerry, thank you! I won't forget this, I'm gonna fix your trunk good--real good!",
+      "characters": [
+        "Elaine",
+        "Mike",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "M-hm, I'll bet. So, are you going to introduce me to your 'nephew'?",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Maura, I, uh- I want you to know... I-I've given this a lot of thought. I'm sorry, but... we, uh, we have to break up.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Look at this. I'm in the passing lane of the Arthur Berkhardt expressway, going seventy and  Dragged this thing for five exits.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

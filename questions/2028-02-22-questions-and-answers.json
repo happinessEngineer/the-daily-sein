@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1145,
+  "date": "2028-02-22",
+  "questions": [
+    {
+      "quote": "Yeah. He's pretty upset that I broke up with him to go out with you.",
+      "characters": [
+        "Danielle",
+        "Jerry",
+        "Tim",
+        "Celia"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "Hello. No she's not here. Yes I will tell her. No I don't know what time she might be coming back. Look I gotta' go. Goodbye. . . . That, that's a long story.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ha, Yeah right, hang on, I'll ah, I'll get her for you. he, he, he, he. Seriously, what's up?",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Although what if it's one of those hugs where the shoulders are touching, the hips are eight feet apart?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Emily",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, you should get out of there. I sabotaged the bagel machine last night. It's going down.",
+      "characters": [
+        "Ray",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, if she was a criminal and you had to describe her to a police sketch artist...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Drop the case? Well, congratulations, that'll save you some money.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're gonna sell this as a top. Here's the angle: Zelda Fitzgerald, aaaand, somebody in the 20s, wearing this at wild parties, driving all the men crazy … Have it on my desk by the end of the week.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Peterman",
+        "Jack"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I'm very disappointed to here you talk like that. You still don't know what makes me tick.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tom",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Poppy told me to talk to his cousin, he lives down in Little Italy.",
+      "characters": [
+        "Lena",
+        "Frank",
+        "Jerry",
+        "Evelyn"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

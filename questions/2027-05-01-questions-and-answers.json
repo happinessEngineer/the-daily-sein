@@ -1,0 +1,106 @@
+{
+  "gameNumber": 848,
+  "date": "2027-05-01",
+  "questions": [
+    {
+      "quote": "You know I hear Mr. Steinbrenner can be a bit erratic. I would hate to see him when he's hungry.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Y'know what it is? It's \"Clara Nightingale Syndrome.\"  He falls ill; she falls in love.",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's, uh, it's not a little chicken.  Little chicken. It's a gamebird.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I took the liberty of packing your things.  Mom's coming to get you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And then, I was on such a... high, that I went upstairs to the salon on the fifth floor, and got a massage and facial, and skipped out on the bill.",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "I'm sorry I'm sorry, here's the test. Thanks again for doing this - hhe.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Raymond",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yoohoo ,Plenty......Wh..wh..what are doing hum...you're going in?",
+      "characters": [
+        "Kramer",
+        "Harold",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm calling the shots around here so there won't be anymore ACCIDENTS!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The city's probably teeming with people who've been waiting out that marriage.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's all fresh. Fresh fish, fresh foul, fresh fruit. I buy it, I omniga nominga, I eat it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

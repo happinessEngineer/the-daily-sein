@@ -1,0 +1,106 @@
+{
+  "gameNumber": 193,
+  "date": "2025-07-15",
+  "questions": [
+    {
+      "quote": "Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A man like you, limiting yourself to one woman, I don't know. But it's none of my business.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Woman",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, there's no traffic at this time. Now, come on, man...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Roger's can't sell chicken around here, we got chicken places on every block.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, by the way, if anybody wants an inside tour of the zoo, Siena works there as a trainer.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Marcy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had to give him a tissue. In fact, let me call his machine now and I'll just make up some excuse why I can't go to the game either.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now that's a complaint. ...Hello Sally, yeah this is Jerry,I just wanted to leave you a message that I caught your little piece on TV and..",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "Worker"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I think I can do that. I believe I've played that role before to some critical acclaim.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was outrageous. And she's the heir to the O'Henry candy bar fortune.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Quone\"? No, I'm afraid that I'm going to have to challenge that.",
+      "characters": [
+        "Elaine",
+        "Tim",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

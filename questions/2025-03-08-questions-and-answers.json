@@ -1,0 +1,106 @@
+{
+  "gameNumber": 64,
+  "date": "2025-03-08",
+  "questions": [
+    {
+      "quote": "Hello, Jerry.  Tim couldn't make it, he's in love.  Isn't that wonderful?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Susan",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well Bob Sacamano he stayed with me once for a year and a half.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know it's bad enough you have a car phone, you have to use the speaker?",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm tellin' ya' somethin' is goin' on. He never likes anything I recommend. And then that lunch thing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I once talked to the reverend Yung Son Moon. He bought two Jesus statues from me. He's a hell of a nice guy.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Uh, excuse me. I know this is gonna sound crazy but I - I have to have that rye. It's a - it's a long story, but a person's whole future may depend on it.",
+      "characters": [
+        "Izzy",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hum, a cologne that smells like the beach. I can't believe I'm saying this, \"That's not a bad idea.\"",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm really sorry George, I, I, I wasn't jealous of you. It was just the whole marriage thing.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No it was a spur of the moment. Well you know Morty likes to fly by the seat of his vintage pants.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Earl",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I said no more face painting, and as you can see this is not my face.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Simon",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    }
+  ]
+}

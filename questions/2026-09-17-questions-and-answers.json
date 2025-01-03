@@ -1,0 +1,106 @@
+{
+  "gameNumber": 622,
+  "date": "2026-09-17",
+  "questions": [
+    {
+      "quote": "Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?",
+      "characters": [
+        "George",
+        "Matthew",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, now look I gotta run some errands, so look. When Elaine comes by with that bike, you hang onto it for me, alright?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Three hours of sleep again last night.. Three hours of sleep because of that dog.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What do you mean they're not going to do anything, they're the cops, they gotta do something, he just put the kibosh on me, do you know what the kibosh means, its a kibosh!",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Doesn't it give you any joy to see your friend enter into this holiest of unions?",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Billy",
+        "Kruger"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn't do that.",
+      "characters": [
+        "Frank",
+        "George",
+        "Vanessa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that was superheated water, nothing could live in that.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That?s a good question, good question, its very... exerstential! Who are you? Who am I? Yeah, well.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're thinking about it too much. You're putting too much emphasis on it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We've been betting on arrivals and departures.  But I'm down $3200 , so you've gotta get me some cash.",
+      "characters": [
+        "Tim",
+        "Patty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

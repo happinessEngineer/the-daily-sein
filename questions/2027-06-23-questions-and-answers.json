@@ -1,0 +1,106 @@
+{
+  "gameNumber": 901,
+  "date": "2027-06-23",
+  "questions": [
+    {
+      "quote": "I don't think so, Vic. I've done my homework. '89 Volvo, that's the car for me, it's the one I want.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're close, you're on the green. You just have to go for the cup.",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "I love being with him. I mean, I like being with him. It's okay being with him.",
+      "characters": [
+        "Keith",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, Carrie, you and Susan are cousins. So your baby daughter is gonna be Susan's second cousin, right? So what does that make me?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that's too bad, because I'm the only one who cooks around here!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I couldn't. You know, if it's not about sports, I find it very hard to concentrate.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, if you think I'm just going to step aside and do nothing while you defile this woman, you're crazy.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well we should at least tell them what happened. They might be very late if they make it at all.",
+      "characters": [
+        "Doctor",
+        "Susan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Wait, I got another call. That must be him. [clicks over] Hello?",
+      "characters": [
+        "George",
+        "Kate",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, everything. Divorce, patents, immigration and naturalization.",
+      "characters": [
+        "Kramer",
+        "Cheryl",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Cheryl"
+    }
+  ]
+}

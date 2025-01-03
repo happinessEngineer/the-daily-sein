@@ -1,0 +1,106 @@
+{
+  "gameNumber": 899,
+  "date": "2027-06-21",
+  "questions": [
+    {
+      "quote": "He might as well have! I caught him, and his face was covered in chocolate and cookie crumbs.",
+      "characters": [
+        "Clerk",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, what we have is too important. We can work through this.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Maura"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "What's the one with the swirling chocolate in the commercial?",
+      "characters": [
+        "Man",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Well, I mean, as long as you're okay, that, that's the important thing.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If anything, we'll probably get there early. I'll have a chance to go to the Duty Free shop.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And I'm moving out of my parents' house, I'm taking that apartment on 86th street, remember the one we saw?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wow! Zanadu . No wonder you're putting in so many hours.  May I?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lanette",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand. You get job security - you get a pay check every week..",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Laura",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "No, bread is his soul. He's trying to buy back a loaf of his soul.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Tim",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 3,
+  "date": "2025-01-06",
+  "questions": [
+    {
+      "quote": "Well, that's because you don't know how to follow through correctly.",
+      "characters": [
+        "Kramer",
+        "Jane",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "When you sent me the-the bill for the dry-cleaning. I thought the show didn't have a chance.",
+      "characters": [
+        "Ricky",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes he was, and you know why? Because he was betrayed by people he trusted. They \"named names\".",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "No, no. Well, I mean, you know, he's more like an intern, you know, at best.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look George, I'm friends with both of you. But I can't betray her confidence by telling you anything.",
+      "characters": [
+        "Craig",
+        "Kramer",
+        "Todd",
+        "Elaine"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "George, hi. I have Anna here. There's something I wanna say to both of you.",
+      "characters": [
+        "Estelle",
+        "Rick",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Marisa Tomei's sitting home, Elaine! Wh..why didn't you tell me that Katy was friends with Marisa Tomei?!",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Tony",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Did I get him in trouble? Because of what I said?! I just told him what happened.. he didn't do it on purpose..  He pointed at me. Why did he point at me?!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. You know, men can sit through the most boring movie if there's even the slightest possibility that a woman will take her top off.",
+      "characters": [
+        "David",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "SHUT UP!! Shut up Farfel, stop it!  I don't know what to do. I mean what if I take it to the pound then the guy shows up?",
+      "characters": [
+        "Jerry",
+        "David",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

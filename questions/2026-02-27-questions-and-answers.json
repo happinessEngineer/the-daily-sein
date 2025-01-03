@@ -1,0 +1,106 @@
+{
+  "gameNumber": 420,
+  "date": "2026-02-27",
+  "questions": [
+    {
+      "quote": "It's the Mohel! the Mohel is here! Thank God, the Mohel is here.",
+      "characters": [
+        "Elaine",
+        "Cindy",
+        "Kramer",
+        "All"
+      ],
+      "correctAnswer": "All"
+    },
+    {
+      "quote": "Do you want me to paint you something? I'd love to paint you some- thing!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Every time we go out to eat the minute we we're done eating she's runnin to the bathroom.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no, no! That's where it gets interesting! Don't you see? The - the train is bearing down on you, you - you dive into a side tunnel - and you run into a whole band of underground tunnel dwellers!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Alec",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're not getting no Drake's Coffee Cake for fifty cents. Yae, Hey, I'm all set. I got the ticket. I'm going to the Cayman Islands this Friday.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. I'll get pea pods and you can't have any of my pea pods.",
+      "characters": [
+        "Tv",
+        "Russell",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, Silvio's down there. He's shoveling the walk. Now, all you gotta do is put this on, you go down to the corner, you pick up a paper, and you come right back.",
+      "characters": [
+        "George",
+        "Meryl",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ok, thanks. Come on in for a second.  This is my brother, Ricky. He's home from college for the weekend.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Well, it's no big deal, you know, it's just that he can sound like a woman, you know?",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Too spicy. He wants another one. You got that pasta primavera?",
+      "characters": [
+        "George",
+        "Waiter",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Waiter"
+    }
+  ]
+}

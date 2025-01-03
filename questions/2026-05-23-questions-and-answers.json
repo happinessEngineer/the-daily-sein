@@ -1,0 +1,106 @@
+{
+  "gameNumber": 505,
+  "date": "2026-05-23",
+  "questions": [
+    {
+      "quote": "Oh, wow, these are nice. Do they have any cultural significance?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What if he left you a used Kleenex, what's that, a valentine? Now you go up to him and you tell him that if he's thinking of turning me in, that I got the goods on him!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tell him that if his friend can come up with the same money then she can have the apartment.",
+      "characters": [
+        "Manny",
+        "George",
+        "Gary",
+        "Kramer"
+      ],
+      "correctAnswer": "Manny"
+    },
+    {
+      "quote": "I tell you this. If the real Phil Rizzuto was down there, this wouldn't be happening!",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, you know what? My friend Judy recommended me for a job at Viking Press.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "To do what?! Work in a post office? Is that what you want me to do?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, this will really free up my time so I can focus on more important things, like my bladder system.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? M-Maura, what are you doin' here? I ended this relationship... twice!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, all right, calm down, calm down. Whatever happened in the past is past.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's like some pod landed from another planet and took your body. Don't fall asleep Elaine.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Rava"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

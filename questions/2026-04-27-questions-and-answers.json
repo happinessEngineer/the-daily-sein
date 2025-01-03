@@ -1,0 +1,106 @@
+{
+  "gameNumber": 479,
+  "date": "2026-04-27",
+  "questions": [
+    {
+      "quote": "Look, you wanna have sex right now? Do want to have sex with me right now? Let's go! C'mon, let's go baby! C'mon!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kurt",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No way, Kramer. You've brought nothing but a mountain of misfortune and humiliation. Now get out.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Janet"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Hey, what are you doing tomorrow? I was thinking that we could go down...",
+      "characters": [
+        "Melissa",
+        "Ray",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "It might be time to just let her go, Frank. She's worked hard for ya.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But that's what podiatrists do. They deal in fungus. They're knee- deep in fungus. This guy knows fungus.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Officer",
+        "Corinne"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A drafty apartment? A... sweaterless friend? A ball-game giveaway Metlife windbreaker?",
+      "characters": [
+        "Phil",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, you came right upstairs, without talking to the doorman.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, George. I'm still worried about this car thing.",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Well, you know if Paul thought it was some guy... hangin' up because he was having an affair with Noreen?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry if I caused any trouble. I was just being friendly.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Michael",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

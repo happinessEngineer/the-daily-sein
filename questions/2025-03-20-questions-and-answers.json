@@ -1,0 +1,106 @@
+{
+  "gameNumber": 76,
+  "date": "2025-03-20",
+  "questions": [
+    {
+      "quote": "Nope, we got a whole new format. Edgy, youthful, plus ... we got Jim Fowler!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, uh, he's got my Calamine lotion and uh, I told him not to return it. If he needs it he should keep it. He's got uh, he's got a thing on his ankle.",
+      "characters": [
+        "Jack",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Papers? Oh, Jerry, You're the Jerome with the tax problem. You know after that day with George I got so cuckoo I threw out all your papers. So I'd love to help you but I'll need the copies.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Patrice"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Dad, you know what it takes to compete with Microsoft and IBM?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is there ever a good time to have your parents stay with you?",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know, I know Jerry.. but it's The Plazaaa... I've never stayed there .It'll be like a little vacation",
+      "characters": [
+        "Keith",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, George, I am on the other line. I promise you, I'll get you her number.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm just saying there's a chance she may not have been enamored with your thoughts and feelings on manure.",
+      "characters": [
+        "John",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know Elaine, It is not my way to intrude on the personal lives of close fiends....",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, are you aware that adult diapers are a six hundred million dollar a year industry?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

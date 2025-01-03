@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1003,
+  "date": "2027-10-03",
+  "questions": [
+    {
+      "quote": "That's right. It's a special gourmet sauce. \"The Pride of Memphis!\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Yeah. You know, I think Elaine is a wonderful woman. You two are gonna make a wonderful couple.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't do it.  Look what they did to my boy, They massacred my boy.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This stuff on top is my friends. Could I get it done in a separate machine?",
+      "characters": [
+        "Peterman",
+        "Mickey",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen. I want you guys to send along those agreements the minute you land. Our boys can't wait to kick your butts!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh oh I don't think we think we can make it tonight,  we have plans.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a sign. Let's just do it.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Dwayne",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, for the first quarter mile they thought that I was just doggin' it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Abby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what you're doing, don't you? You're killing Independent Jerry! I gotta go see my Uncle Leo. I think he may have made a big mistake.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Heh.  You seem like you really enjoyed your Risotto.  You have a very contented air over there.  You look very contented, very satisfied.  Are you satisfied?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

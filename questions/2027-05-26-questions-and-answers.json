@@ -1,0 +1,106 @@
+{
+  "gameNumber": 873,
+  "date": "2027-05-26",
+  "questions": [
+    {
+      "quote": "Oh yeah, yeah, it's me and him. I might have a whole new career on my hands, huh?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Farkus",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, come on you gotta go! He's harmless. He's got a little crush on you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry, I don't see the big deal about being a matador. The bull charges, you move the cape, what's so hard?",
+      "characters": [
+        "George",
+        "Joel",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If you're a spirit, and you can travel to other dimensions and galaxies, and find out the mysteries of the universe, you think she's gonna wanna hang around Drexler's funeral home on Ocean Parkway?",
+      "characters": [
+        "Jerry",
+        "Captain",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I'm reading manuscripts for Pendant Publishing. I told you ten times.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Buckles",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's very nice of you to do this. I've asked several people and they wouldn't even answer me.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We all know that this relationship isn't working. So Allison an' I think that the best thing to do is just.. make a, clean break.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Attendant"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, Celia has listed you as a character reference. Whatever you can tell us would certainly be helpful in, her getting paroled.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Betsy"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Yeah, yeah, so she sees me and she goes,  \"Oh, hi! Kramer!\" You know? Like nothing happened! Like she never you know went three dates with you and refused to kiss you goodnight.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The alternative media, Jerry. That's where you hear the truth.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

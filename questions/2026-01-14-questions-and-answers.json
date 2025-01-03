@@ -1,0 +1,106 @@
+{
+  "gameNumber": 376,
+  "date": "2026-01-14",
+  "questions": [
+    {
+      "quote": "I said you know what I do  when I want to relax? The Jumble. Hey uh do you make a book of Jumbles?",
+      "characters": [
+        "Katya",
+        "Elaine",
+        "Driver",
+        "Newman"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "Nicole Millers, We're not expecting any Nicole Millers, in fact we have too many as it is.",
+      "characters": [
+        "Bob",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Wait. Elaine will settle this. What's the\"M\"stand for in Richard M. Nixon?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Helen",
+        "Nikki"
+      ],
+      "correctAnswer": "Nikki"
+    },
+    {
+      "quote": "So tell me. What's the problem with your little flaky friend? She doesn't return calls?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's another loop hole. That's two dates without asking you out.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know, just because you two are homosexuals, so what? I mean you should just come out of the closet and be openly gay already.",
+      "characters": [
+        "Elaine",
+        "Ellen",
+        "Kramer",
+        "Judge"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no no no no - we have to be in California next week. We're starting a TV show.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, I don't want it back.  Are you gonna watch the Knick game tonight?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I'm sorry. I'm just a little curious. I mean why did you stop seeing him.",
+      "characters": [
+        "Todd",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Obviously I'd rather sit than stand, if that's what your asking.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Guard",
+        "Newman"
+      ],
+      "correctAnswer": "Guard"
+    }
+  ]
+}

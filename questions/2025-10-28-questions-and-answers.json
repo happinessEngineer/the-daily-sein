@@ -1,0 +1,106 @@
+{
+  "gameNumber": 298,
+  "date": "2025-10-28",
+  "questions": [
+    {
+      "quote": "You call me fatso one more time; you're going to be walking back.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. Oh, uh, yeah. Uh, here are your pliers back....Weak hinge.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, listen, so we'll meet you and Susan at the movie tonight?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, not fan talk, not gushing, you know? Actual conversation, I was incredibly articulate!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tan pants. Why do I buy tan pants, Donna? I don't feel comfortable in them.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Dirt? That's alright,  because there's nothing wrong with dirt.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gentlemen, gentlemen. I am so happy to see you both. There is just some inconsistencies I'd like to straighten out.",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Newman",
+        "Hoyt"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Mr. Peterman, I don't know what's going on here. I am not addicted to anything.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, but these were the only really cool ones like this! Don't you see how everybody likes 'em and how everybody talks about 'em?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who are you to play God!? Every man's time comes! If his number is up, who are you to interfere!?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

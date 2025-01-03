@@ -1,0 +1,106 @@
+{
+  "gameNumber": 862,
+  "date": "2027-05-15",
+  "questions": [
+    {
+      "quote": "Well, what am I supposed to tell him? How much there is for him to live for? Why should I lie to him?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, that's Sergeant Tierney. Nice officer. You want to meet her?",
+      "characters": [
+        "Kramer",
+        "Lou",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "Let me just say this. It is inhumane to make a man stand on his feet, in one spot for eight hours a day. Why shouldn't he have a chair?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Noreen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bania can I talk to you for a second? How's everything going?",
+      "characters": [
+        "Jerry",
+        "Pitt",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! But it never works. You know we're supposed to be there by two o'clock. We should take a cab.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Elaine.  I'm telling you Jerry, having a secretary is incredible.  I don't know why I didn't have one before.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Oh, here, wait wait  Ah, maybe you could ah, use this  Ah, here, it's a electronic organizer...",
+      "characters": [
+        "Elaine",
+        "Jake",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello.  Oh, hi Nana.  What? Oh. Oh, alright, okay. Don't worry about it.  Okay, I'll see you later. Alright, bye.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well why don't you get a hold of it and change what you don't like.",
+      "characters": [
+        "Babu",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No!  Hey! Hey! I see you! That is my Twix!  Oh, ha, ha! Ho, ho!",
+      "characters": [
+        "George",
+        "Glenn",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

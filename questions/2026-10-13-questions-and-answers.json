@@ -1,0 +1,106 @@
+{
+  "gameNumber": 648,
+  "date": "2026-10-13",
+  "questions": [
+    {
+      "quote": "Jerry, what the difference? You know, you're the ones obsessed with this stuff, not us. I'm sure it wouldn't matter to Jane.",
+      "characters": [
+        "Doctor",
+        "Rachel",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Well, I like to remain friends with people I was friends with!",
+      "characters": [
+        "Nina",
+        "Bonnie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I love the mirror in that bathroom! I don't know what in the hell it is. I look terrific in that mirror.  I don't know if it's the tile or the lighting... I feel like Robert Wagner.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But the reservation keeps the car here. That's why you have the reservation.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's he going to do? That's exactly the point. Nobody knows what this guy is capable of! He fires people like it is a bodily function.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...you'll see, things will be different now - if you just give me one more chance.",
+      "characters": [
+        "Alton",
+        "Jerry",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just remembered, th-th-there's this Chinese restaurant out near Yankee Stadium, that puts flyers on all the cars.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They thought I was George. I'm not that bald. And I have too little time left to take that kind of crap, so I, slugged him.",
+      "characters": [
+        "Helen",
+        "Attendant",
+        "Elaine",
+        "Kurt"
+      ],
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "Oh, this is unbelievable. I'm stuck. Every time I think I'm out, they pull me back in.",
+      "characters": [
+        "Kramer",
+        "Worker",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know how to do it. Pair of pants, a stupid story, a huge markup. I can do that.",
+      "characters": [
+        "Jerry",
+        "Doris",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

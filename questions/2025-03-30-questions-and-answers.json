@@ -1,0 +1,106 @@
+{
+  "gameNumber": 86,
+  "date": "2025-03-30",
+  "questions": [
+    {
+      "quote": "Right. Yeah. [fearing the answer] Could I have a small popcorn?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, what about a nice frame? With a picture of another guy in it. Frame says I care for you, but if you wanna get serious, perhaps you'd be interested in someone like this.",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm very good with sick people. They love me. When my friend Len Nicodemo had the gout, I moved into his hospital room for three days, the doctors were amazed at his recovery.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Rava",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh that's funny? Is that funny? Well tell me if you think this is funny: These fish are dying! They're gasping for oxygen right now! They'll be floating in an hour. Is that funny too?",
+      "characters": [
+        "Elaine",
+        "Brett",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The recipe was for four to six people; I had to multiply for a hundred and eighty-three people. I guess I got confused.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Noreen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let's face it, you get a bunion, where are you going? You're not going to the ear guy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no, no.  This is evolutionary. I been reading this book, on Leonardo de Vinci. See, that means 'from Vinci', d'you know that?",
+      "characters": [
+        "Julianna",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Comming up on the right, if you glance up you can just make out my bedroom window. It's the one that's covered in chicken wire.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "James"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Not a peep. They just cleaned the carpets and left. Call themselves a cult!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look it, gentlemen. The fact remains you still have no proof. This is all speculation and hearsay.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Landlord"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

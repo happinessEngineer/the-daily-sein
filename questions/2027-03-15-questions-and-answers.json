@@ -1,0 +1,106 @@
+{
+  "gameNumber": 801,
+  "date": "2027-03-15",
+  "questions": [
+    {
+      "quote": "You unwittingly made a major commitment.  That's a lot of pressure.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Nurse",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, it's hard to believe - with all that biting experience - a person could still make a mistake like that.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "People with guns don't understand. That's why they get guns. Too many misunderstandings.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's okay…it's just a hot dog,  everything is going to be okay.",
+      "characters": [
+        "Morgan",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, there's this rabbi in my building. You've met him. Very nice man.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If you could see her personality it would be like one of the Elephant Man exhibits, you know where they pull off the sheet and everyone gasps.",
+      "characters": [
+        "Receptionist",
+        "Elaine",
+        "Dan",
+        "Waiter"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I found a rough spot on the kitchen floor, I thought I'd polish it up with this belt sander I have here.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is he doing? Is he getting coffee? I think he's getting coffee.!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh.. Hi, Peggy. Um.. Look, I should have said this yesterday, but--",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Chamberlind, you could hold his head in nthe toilet, he'd still give you half of Europe.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

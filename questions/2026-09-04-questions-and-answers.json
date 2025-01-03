@@ -1,0 +1,106 @@
+{
+  "gameNumber": 609,
+  "date": "2026-09-04",
+  "questions": [
+    {
+      "quote": "Because he think I live here. Remember when we shared a cab, and he dropped me off out in front? He's picking me up.",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're fresh  You're very fresh. You seem very fresh to me. You're very vital. I couldn't take you any fresher.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've seen MOST of it. I guess my favorite would have to be, uh... Chapter 2. Have you ever seen that?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, now you kids don't go out and try that. You stay in school!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what? it's better than Elaine's, too. I gotta give her a call.",
+      "characters": [
+        "Driver",
+        "Mike",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I don't know, but the key problem is solved. I hid it at Phil's...",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean how can I be with someone that doesn't laugh. It's like ... well it's like something!",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah!! I found a quarter. Anybody want there clothes heated up?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who ever thought the first thing somebody wants on a plane is a peanut?",
+      "characters": [
+        "Phil",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, senator, I'd just like to know, what you knew and when you knew it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

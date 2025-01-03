@@ -1,0 +1,106 @@
+{
+  "gameNumber": 439,
+  "date": "2026-03-18",
+  "questions": [
+    {
+      "quote": "Well, I have a feeling that what you are about to go through is punishment enough. Dismissed.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Detective",
+        "Elaine"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "What happened to Babs. She never showed up last night. The whole thing blew up in my face.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bob",
+        "Peggy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, for me it's a step up. It's like moving from Iceland to Finland.",
+      "characters": [
+        "Elaine",
+        "Jake",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. There ya go. That's Beef-A-Reeno.  I'm so keen-o On Beef-A-Reeno What a delicious cuisine-o Fit for a king and queen-o! Yeah. Eat up. I got thirty four more cans.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Vermont!  With any luck, they said we could stay an extra couple of days if we want to!  Four days at a beautiful bed-and-breakfast! I can't wait.. buy-bye.  What?  What is this?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Captain"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The *bank*? This is *found* money. I want to *parlay* it. I wanna make a big score!",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is that important, really? What is this, a police investigation? The woman's been through enough. She has to relive the experience now?!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, I tell ya', knowing you is like going out in the jungle. I never know what I'm going to find next, and I'm real scared.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I've uh, I've changed my mind. I think I'm going to build a rollercoaster instead.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

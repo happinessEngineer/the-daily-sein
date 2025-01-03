@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1048,
+  "date": "2027-11-17",
+  "questions": [
+    {
+      "quote": "Bette is recuperating right now and I'm not going to allow anything to disturb her.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Then you are entitled to a hundred dollars. That's our policy.",
+      "characters": [
+        "Manager",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "All right. Look, I'll tell ya what, I'll give you $50. Now, be reasonable you cannot turn down $50 for a $6 rye.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Jerry, he doesn't have anything.    Well, but I might have something.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Valerie",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know! I'm gonna go and visit him later.  It would be nice if you got him something.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Buckles"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I've come to realize? I'm not just bored. I genuinely dislike her.",
+      "characters": [
+        "George",
+        "Steve",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, when the season starts. Right now, I sit around pretending that I'm busy.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi, how are you guys? Listen, does either one of you have like a mint or piece of gum or...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He used to be in the pajama business. I used to be able to get pajamas for free. I used to come over and get pajamas all the time!",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "because she puts up such a big stink every time I have a piece of meat.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

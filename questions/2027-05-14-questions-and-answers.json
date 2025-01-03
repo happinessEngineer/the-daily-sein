@@ -1,0 +1,106 @@
+{
+  "gameNumber": 861,
+  "date": "2027-05-14",
+  "questions": [
+    {
+      "quote": "look come on, let me use it, 5 minutes, I'll pay you back huh?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, to tell you the truth Elaine. I don't know if I can be with someone who doesn't like The English Patient.",
+      "characters": [
+        "Blaine",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Blaine"
+    },
+    {
+      "quote": "And it's a waste of my talent. It's just a little burning. Mickey, he got bacterial meningitis.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's what I came to talk to you about. Great job George.  You really nailed it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Wilhelm",
+        "Newman"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Har-harwood, Jerry. He was the assistant wardrobe man on Spartacus. Some fascinating insights into the production.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're late again, Costanza, so listen up. Starting tonight, we're having a little sales contest. The loser gets fired, the winner gets a Waterpik.",
+      "characters": [
+        "Marla",
+        "Frank",
+        "Elaine",
+        "Steve"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, maybe I'll get goin' then. I just remembered I got an appointment to get my, um, tonsils out.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Go ahead. Seems like a reasonable question, is all I'm saying. I would've asked her.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Steve",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She knows the whole stupid thing. Vanessa and the elevator...",
+      "characters": [
+        "Michael",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes. From endorsing checks for the Super Terrific Happy Hour.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 559,
+  "date": "2026-07-16",
+  "questions": [
+    {
+      "quote": "Well, I better get going. I don't want to be late for the play.",
+      "characters": [
+        "George",
+        "Woman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "The whole time that I was growing up, all I ever heard from my mother was 'Why can't you be more like that Lloyd Braun?'",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Jeannie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, get this: Mister Peterman is finally letting me do some real writing. He's got this book deal, for his autobiography. He's gonna let me ghost write it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "On the other hand, does that mean she should never be allowed to date again? You scratch one car and you're forbidden to have social contact for the rest of your life?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I said I was coming down with the flu or something and I had to go home.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, OK. Let's stop fooling around. Let's just slip him some money.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, if you must know, shhhe, was my fiancée, Susan. May she rest in peace.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Moving cars from one side of the street to the other don't take no more sense than putting on a pair of pants. My question to you is who's putting your pants on?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I don't see how I could perform sexually in a situation after something like that. I was completely emasculated. Anyway, it's not the only reason.",
+      "characters": [
+        "Elaine",
+        "Hal",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe he doesn't. Maybe he and I are exactly the same, except for one minor, yet crucial, detail. You never know.",
+      "characters": [
+        "Carol",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

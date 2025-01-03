@@ -1,0 +1,106 @@
+{
+  "gameNumber": 560,
+  "date": "2026-07-17",
+  "questions": [
+    {
+      "quote": "Yeah, I'm gonna keep these here too, huh? They'll be alright.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, let's see, I've got a ten kroner, a five kroner, a twenty kroner? No wait, that's another ten kroner. A fimty kroner? How much is that?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I just can't be with someone who's life is in complete disarray.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Feel much better here at my home base, Jean-Paul. It's a controlled environment.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman!  Hahaha!",
+      "characters": [
+        "Sophie",
+        "Elaine",
+        "Holly",
+        "Milos"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "The whole thing is so stupid. Like he wouldn't do the same thing if Elaine walked by in a low-cut dress.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, Jerry. New Year's Eve nineteen ninety-nine. The millennium. I told you about that.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I was having this party and I didn't invite him and then Jerry, tipped him off.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, flowers. You didn't have to do that. I mean, the dinner, and the play, and the hansom cab ride.",
+      "characters": [
+        "Donna",
+        "Valerie",
+        "Rula",
+        "George"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "Oh, hey! Hey, Jer, I want you to meet my new friends, here.  This is, uh, Louis, Jorge, and Umberto.",
+      "characters": [
+        "Bonnie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

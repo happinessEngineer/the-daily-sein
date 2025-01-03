@@ -1,0 +1,106 @@
+{
+  "gameNumber": 43,
+  "date": "2025-02-15",
+  "questions": [
+    {
+      "quote": "Because somebody offered Manny five thousand dollars for the apartment. I don't want to do it. Manny wants to do it.",
+      "characters": [
+        "Harold",
+        "Wilhelm",
+        "Steve",
+        "George"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "This good be so sweet, Jerry. Saving lives? She's one step away working at the clinique counter!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Beth",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? After what you just went through, I thought you said you'd never say it again.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Farkus"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello... Oh hi dad... You saw him?... Really with the ice cream?... All right I'll talk to you later, bye.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He didn't come within two feet of the thing. He's wavin at it... So, I told him if he picks us up at the airport, he wouldn't have to pay me anything.",
+      "characters": [
+        "Newman",
+        "Todd",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You, you really have no idea what it's like until you actually do it. And I'm on this emotional roller coaster.",
+      "characters": [
+        "Jerry",
+        "Laura",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "He was a wrestler. He would grab hold of someone's stomach and just squeeze it until they gave.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sophie",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay? So, she's taking about her panties, so, uh.. So, I said, \"You mean the panties your mother laid out for you?\"",
+      "characters": [
+        "Hal",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, her boss told me that she can't hear very well out of her left ear. What, you didn't know that?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Milos"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, hey. Take it easy. I'm not gonna be pressured. I'll walk away right now. Is this thing bent? I'm not paying for that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Pitt",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

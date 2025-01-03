@@ -1,0 +1,106 @@
+{
+  "gameNumber": 682,
+  "date": "2026-11-16",
+  "questions": [
+    {
+      "quote": "Look, Kramer, I have to take this test ok, I don't have a lot of time.",
+      "characters": [
+        "Jerry",
+        "Ruby",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And even when she did like something, she doesn't laugh. She says, \"That's funny.\" ... That's funny!",
+      "characters": [
+        "Betsy",
+        "Jerry",
+        "Roy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh ...oh ...oh ... Here, I want to show you something. Hand me that pillow.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Ade"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "Yeah, they should've taken care of Castro when they had the chance. Like we did in Guatamala in 'fifty-three.",
+      "characters": [
+        "Alton",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "I really should get going. Y'know, I..I wanna be home in case Neil calls.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cash advance... yes  … no  balance inquiry... no  receipt.... no  processing... processing...  I won!",
+      "characters": [
+        "Stu",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because your parents are going down there. My buffer zone just went from twelve hundred miles down to two feet! You gotta do something.",
+      "characters": [
+        "George",
+        "Farkus",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Mr Lippman.  That is so exciting. I mean, you have no idea how sick I am of running around town looking for socks.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who so belongs only to his age, references only popenjays and mumbo jumbos",
+      "characters": [
+        "Patrice",
+        "George",
+        "Elaine",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "This is the letter she wrote to me, she stole it right from the movie!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

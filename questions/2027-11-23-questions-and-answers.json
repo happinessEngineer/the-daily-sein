@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1054,
+  "date": "2027-11-23",
+  "questions": [
+    {
+      "quote": "Me Too! And he's Dying Jerry! If Relationship George walks through this door, he will Kill Independent George! A George, divided against itself, Cannot Stand!",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I saw her last week, she looked healthy and peaceful, but...she knew...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi, is George back from the cockfight yet? You know, I gotta thank him, he changed my life.",
+      "characters": [
+        "Glenn",
+        "Jerry",
+        "Newman",
+        "Kurt"
+      ],
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "Why doesn't *he* pick you up after the operation. He's got the car with the bench seats that you like.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're right. Why must there always be a problem? You'd think just once I could get a break. God knows I earned it with that score!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't worry.  Kramer! Kramer!... It's Jerry!... Jerry!... From next door!... Never mind where I am!... Yes, Jerry Seinfeld!...",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright I'll uh, I'll call her at home.  Go ahead, it's all yours.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Lou",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You might have the job, but you'll never know it. What kind of company is it?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "Rudy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, if you saw me naked, I wouldn't want to ride back in the same car with you either.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I really appreciate your coming, but if you wouldn't mind - try not to say too much.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

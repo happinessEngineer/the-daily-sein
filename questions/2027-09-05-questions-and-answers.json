@@ -1,0 +1,106 @@
+{
+  "gameNumber": 975,
+  "date": "2027-09-05",
+  "questions": [
+    {
+      "quote": "I don't know, but they don't seem to like it. By the way how am I doing?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?",
+      "characters": [
+        "Alec",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My father used to take me to the circus. When the elephants came by, he would scream curses at them, blaming them for all the ills of society.",
+      "characters": [
+        "Katya",
+        "George",
+        "Ellen",
+        "Lloyd"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "Oh, Okay  I'm sorry, I didn't know what to bring, nobody told me.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, as a backup system, in case the lock is broken, you can see if it's taken.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, I spend that much on after shave. Yes, I buy and sell men like myself every day. Now, I assume that there's a waterfall grotto?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think we're gonna need more than a hand. They have to see a human face.",
+      "characters": [
+        "Daphne",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now you know who to thank for that!.. Alright, I've got to go.",
+      "characters": [
+        "George",
+        "Beth",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was in the shop. I thought you told me he wasn't going to be there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, well, if the other people in the office saw that I called an exterminator, they would just panic. Besides, this is sort of a friendly visit. Carl, right?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

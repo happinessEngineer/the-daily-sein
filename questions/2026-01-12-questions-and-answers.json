@@ -1,0 +1,106 @@
+{
+  "gameNumber": 374,
+  "date": "2026-01-12",
+  "questions": [
+    {
+      "quote": "What do think I tell Jerry everything? It's not like he's my wife.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, you're like Rosa Parks. You opened the door for all of us. I can't wait till the next time someone heckles me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ronnie",
+        "Kramer"
+      ],
+      "correctAnswer": "Ronnie"
+    },
+    {
+      "quote": "What am I doing here? You're in the women's dressing room. I need that ticket stub back so I can get my mother's fur coat out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Matthew, Luke, Paul\", what you're cheating on your conversion chest?",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, yeah, yeah. But they also rolled for his brother...  ...Dennis.",
+      "characters": [
+        "James",
+        "Kramer",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yes, by no means, the mood. Let me know if there's anything I can do to lend support to the mood.",
+      "characters": [
+        "Ken",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, first of all, for some reason, they started the game an hour Late. And uh, I was sittin' next to Spike Lee an' he an' Reggie were jawin' at each other, so I guess I got involved.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tony",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, don't be ridiculous! Is that what you wanted to talk to me about? [Gives him the $35] Here.",
+      "characters": [
+        "Susan",
+        "George",
+        "Elaine",
+        "Alton"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Doing quite well, thank you. Yesterday I had a soft boiled egg and a quickie. You know what? If I could add TV to the equation, that would really be the ultimate.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What am I talking about? Come on.  You don't think I bought all that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Greg",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

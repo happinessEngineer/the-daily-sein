@@ -1,0 +1,106 @@
+{
+  "gameNumber": 695,
+  "date": "2026-11-29",
+  "questions": [
+    {
+      "quote": "Yeah that's a tough one. What are you going to do about that?",
+      "characters": [
+        "Doctor",
+        "Karen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Since when do you know how to write? I never saw you write anything.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "We waited fifteen minutes for this. Tst - YOU SELL ME A CAKE WITH A HAIR ON IT. Then you want me to wait? . . . What are you doing  you're gonna wait now?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Time like what? I'm hungry. My stomach doesn't know that Kramer's wanted.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Cynthia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Talk? Did I talk? It - you're darn right I talk to her! We talked up a storm - and I concluded from the basis of these talks that this isn't anybody you should be talking to.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See? See the way they are?! We're - we're still best friends, right?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Nurse",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Kramer. Okay uh, why don't we start the bidding. Do I hear, um, five bucks?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay. Come on. Give the guy his money. What -- what are you doing?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was made of wood and in the rain he would swell up and then split.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Audrey",
+        "Mohel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if you don't bring a guest they save a catering. You should be able to buy a cheaper gift.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

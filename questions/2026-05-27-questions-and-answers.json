@@ -1,0 +1,106 @@
+{
+  "gameNumber": 509,
+  "date": "2026-05-27",
+  "questions": [
+    {
+      "quote": "Well first we're going to a matinée, I'm taking the afternoon off, we're gonna go see \"My Fair Lady\" and they we are gonna go to dinner. He knows all these fantastic places.",
+      "characters": [
+        "Elaine",
+        "Milos",
+        "Jerry",
+        "Ade"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tried brushing my teeth by holding the brush and moving my head from side to side. It didn't work.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. She should be commending me for treating everyone like equals.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you think Newman would tell Martin if he wakes up? What kind of sicko would do that? He could kill me.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So did you come up with a little stupid story for the Himalayan walking shoe yet?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Enzo",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Napoleon? Who's he to have a cake? He was a ruthless war monger. Might as well get Mengele.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you have anything that's been...you know, laying around for a while? Something prewar would be just great.",
+      "characters": [
+        "Jerry",
+        "Lanette",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you.  Oh ya, heh, I'll call you back. Ooh, Myra had the baby! Oh, my God that's wonderful! Who called?",
+      "characters": [
+        "George",
+        "Gary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, yeah, yeah, sure, why don't you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin' anything?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's my nipple. My nipple's exposed. I sent this card to hundreds of people! My parents. My boss. Uh, Nana and Papa.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 656,
+  "date": "2026-10-21",
+  "questions": [
+    {
+      "quote": "Oh ho right. Well very nice seeing you folks and a by the way you didn't hear this from me. Tata",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Ray"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, things were going so good for me, you know, I got the job promotion, we were talking about moving in together -",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ooh! I asked Mr. Dinkins if he knew any good orthopedists, and he said he had the best.  So, I made an appointment for you. Dr. Dekter.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Lloyd",
+        "Elaine"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Hi mom. So, what's happening with uncle Leo? Is he paying you?",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yeah yeah, you know I'm definitely down for some rock-climbing",
+      "characters": [
+        "Tony",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Well I don't care, I don't want to go anyway. I don't want to fight that traffic on Friday night.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "David"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm depressed. I got this new shirt, the button fell off. Once the button falls off, that's it. I'll never fix it.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "Lemme see.  I can't believe you got these for free.   Row F?!",
+      "characters": [
+        "Peterman",
+        "George",
+        "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, hey, hey, hey, that guy can't even go to the bathroom in South America!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe what I just did. I didn't know kramer didn't invite him. I better call Kramer, ...",
+      "characters": [
+        "Elaine",
+        "Teller",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 50,
+  "date": "2025-02-22",
+  "questions": [
+    {
+      "quote": "I know, you've been saying that for twenty years because you know you can't beat me. You couldn't beat me then and you can't beat me now.",
+      "characters": [
+        "Duncan",
+        "Elaine",
+        "George",
+        "Greg"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "A man's voice, but he speaks in German so I have to get a translator.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Karen",
+        "Marcelino"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, go ahead. Look at this place. I can't wait to get it cleaned.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, let's make it the plan! Let's just… go for it! Like Thelma and Louise.",
+      "characters": [
+        "Elaine",
+        "Rick",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "I can't see Joe DiMaggio sitting at the counter in little tiny filthy smelly Dinky Donuts.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know you want me to keep my big mouth shut and that's exactly what I'm going to do. I'm never gonna talk again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you gonna do? Badger a pregnant woman at her own baby shower?! What are you, gonna take it off and make her rinse it in club soda?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell ya where I got it. I got it from the guy you so callously refer to as the Soup Nazi.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Woah, wait, wait, wait. If you make a birthday wish out loud, it doesn't come true.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Voice"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I'm a great quitter. It's one of the few things I do well. I come form a long line of quitters. My father was a quitter, my grandfather was a quitter... I was raised to give up.",
+      "characters": [
+        "Connie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

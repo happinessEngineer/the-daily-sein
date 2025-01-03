@@ -1,0 +1,106 @@
+{
+  "gameNumber": 72,
+  "date": "2025-03-16",
+  "questions": [
+    {
+      "quote": "I can't believe you're moving out.  Kramer, is this true? Is it really happening? It's ... it's like a dream.",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I once saw this thing on T.V. with people who are terminally ill. And they all believed the secret of life is just to live every moment.",
+      "characters": [
+        "Morty",
+        "Carol",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is this it? Is this how it ends? It can't- it can't end like this.",
+      "characters": [
+        "Maestro",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Just give it to the Portuguese guy, and he... puts it in the incinerator.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Huh? Ha. 200. You know, I've always wanted one of these things.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Two? Sure kid, yeah. But then you gotta promise you'll do something for me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh. Ah, if you don't mind my asking, could you tell me where you got your glasses?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I think Poppie's got some problems. There's a whole other thing going on with Poppie. So how did you leave it?",
+      "characters": [
+        "Jerry",
+        "Hanke",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A free truck? Oh boy, that completely changes our cost structure. Our G and A goes down fifty percent.",
+      "characters": [
+        "Jackie",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just wish I could figure out if this guy is trying to keep me out of Tuscany.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

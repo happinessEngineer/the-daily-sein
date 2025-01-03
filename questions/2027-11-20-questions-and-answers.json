@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1051,
+  "date": "2027-11-20",
+  "questions": [
+    {
+      "quote": "\"So George. Have you heard anything about the missing equipment?\"",
+      "characters": [
+        "Elaine",
+        "Jeannie",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Yeah but there's a problem. I found a tube of a fungicide in her medicine cabinet.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright break it up, break it up. Come on, just cut it out now",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She put them in her pocket book. She probably took them out there with her.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I don't care for the name, either. In fact, that's one of the things that we argue about.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really? Ah, I didn't think any cool guys lived in this neighborhood.",
+      "characters": [
+        "Sylvia",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Sylvia"
+    },
+    {
+      "quote": "Is it all right if I watch it in your bedroom, cause your bed is really nice?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right! Hey, Elaine, Feldman was able to get us all tickets to the Bolshoi!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kevin",
+        "George"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Oh, yeah, yeah. Well, he--uh--visits the guy across the hall from me like every ten minutes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jane",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right. Oh, hey, I think you're gonna like my first my third choice.",
+      "characters": [
+        "Joel",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Joel"
+    }
+  ]
+}

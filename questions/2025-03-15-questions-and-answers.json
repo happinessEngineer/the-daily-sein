@@ -1,0 +1,106 @@
+{
+  "gameNumber": 71,
+  "date": "2025-03-15",
+  "questions": [
+    {
+      "quote": "Bell's Palsy. The entire side of my, of, of my face was paralyzed. Farfel! I couldn't, I couldn't, I couldn't even feed myself, I was completely incapacitated. Quiet Farfel!",
+      "characters": [
+        "Gavin",
+        "Elaine",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "That would be an interesting sociological experiment. You know, Kramer has his father's band. He'd loan it to you.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you doing? All right, all right. What's the matter with that? What about that one?",
+      "characters": [
+        "Kramer",
+        "Maestro",
+        "Jerry",
+        "Lamar"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, where, where are you going? You gonna take a trip? The map... what...",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, you wouldn't believe what it's like down there. Taxicab drivers are insane. You know, everybody is in a hurry.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Manager",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, breaking up is like knocking over a coke machine. You can't do it in one push, you got to rock it back and forth a few times, and then it goes over.",
+      "characters": [
+        "Farkus",
+        "Man",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It doesn't matter. If anything happens to her, I'm on deck! Scissors mishap, air show disaster, chinese organ thieves...it's a dangerous world.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Joyce",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "One more thing Mister Costanza, we just need to know what time you'll be picking him up tomorrow.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I can see the can if you're in the army, but fresh fruit it's available, it's there, it's 2 aisles over.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no........I'm sneaking in with Stan the Caddy, we've been going through the caddies entrance.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

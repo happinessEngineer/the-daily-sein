@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1002,
+  "date": "2027-10-02",
+  "questions": [
+    {
+      "quote": "Yeah, that's right. Well, what's going on over there with you and, uh, Vegetable Lasagna?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Betsy",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I bet this is from that kick from that crazy Joe Davola. You better see a doctor and get some X-rays.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at the big baby!  Hehaha.  Hey, big baby, are you wetting yourself? Maybe it is time for you to be changed.  Hahah.",
+      "characters": [
+        "Susan",
+        "Kelly",
+        "Milos",
+        "Jerry"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Well I I ..put a lot of thought into this and I think I would like you to sign a prenuptual agreement.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morgan",
+        "Frankie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your head. I can't see out the back.  Little more..  ..Little more.  Thank you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Driver"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "They're not getting a baby so you're taking them out to lunch?",
+      "characters": [
+        "Tony",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're just talking. Is this not the greatest marketing ploy ever? If you feel good, you're supposed to take one!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, it's really been a pleasure taking care of your dog for a week, but if you don't mind...",
+      "characters": [
+        "Rabbi",
+        "Tim",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'Just listen to the music of the traffic, in the city. Linger on the sidewalk, where the neon lights are pretty.' Where the neon lights are pretty. The Broadway area?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ron",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ya, that's the.. last thing you want to see. Well, next to last.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

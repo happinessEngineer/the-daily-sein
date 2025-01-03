@@ -1,0 +1,106 @@
+{
+  "gameNumber": 452,
+  "date": "2026-03-31",
+  "questions": [
+    {
+      "quote": "You know, you have to know how to do that. You can't have people shoving their arms into a six-hundred degree oven!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ron",
+        "Sophie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If it was six I could have let you go, but seven, I'm afraid, is over the limit. Unless, of course, there was no sex.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why didn't you want me to bring my equipment or wear my uniform?",
+      "characters": [
+        "Carl",
+        "Elaine",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Carl"
+    },
+    {
+      "quote": "The board, Jerry.  We've been playing at Newman's for six hours but he's gotta go.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because, Vanessa probably told Pamela, and Pamela probably told Elaine.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Kramer",
+        "Dana"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm starving. You got any of those free donuts you use to soften people up?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, right now I'm reading manuscripts for Pendant Publishing.",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, you did him a favor. He probably wants to come up and thank you.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, Mr. Seinfeld, please come this way. We need some X-rays.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Nurse"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Then each of us would only have be like a half man. That sounds about right!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

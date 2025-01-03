@@ -1,0 +1,106 @@
+{
+  "gameNumber": 456,
+  "date": "2026-04-04",
+  "questions": [
+    {
+      "quote": "What, was that not politically correct? It's a legitimate question.",
+      "characters": [
+        "Ben",
+        "Leo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know what you thought. They don't have homes, they don't have jobs, what do they need the top of a muffin for? They're lucky to get the stumps.",
+      "characters": [
+        "Rebecca",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "Strange. For new pants, there's noticable wear on the buttocks of those chinos. Wait those are the clothes from the bag!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Scott!  Remember what we talked about the other day?  George is into it.",
+      "characters": [
+        "Bonnie",
+        "Morty",
+        "George",
+        "Stu"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "Who do I know who would have even been in a limousine yesterday anyway. Uhh-O h-owow!",
+      "characters": [
+        "Joel",
+        "Ben",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's a tough decision. I have to wear these every day. I'm deciding on a new face.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mohel",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You got it. Hey Jerry, do me a favor. The next time you see that lineswoman ask her how those ball boys get those jobs. I would love to be able to do that.",
+      "characters": [
+        "Monica",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, Just a custom. Uh, THAT'S MY FRIEND GEORGE. YOU LOOK GOOD.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And a guy will appear from out of nowhere. I say \"Get out of here! What do you want? You don't belong here!\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The cable? No, no, no. I'm having a party here. You can't do this now!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Bruce"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

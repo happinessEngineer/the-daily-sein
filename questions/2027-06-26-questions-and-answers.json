@@ -1,0 +1,106 @@
+{
+  "gameNumber": 904,
+  "date": "2027-06-26",
+  "questions": [
+    {
+      "quote": "The last thing this guy's qualified to give a tour of is reality.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Noel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not crazy. Jerry does wear glasses. He just forgot 'em, that's all.  Not crazy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, Mr. Kramer, looks like you're in the hole $3200... Will that be cash or check?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Earl",
+        "Newman"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Aah!  The nerve of that guy! Taking back that pen. Well that's it for them.",
+      "characters": [
+        "Morty",
+        "Russell",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well--Noreen listened to you like George's mother listened to the Chinese.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "All right, remember: no rust-proofing. Commit to nothing. If you have to speak - mumble.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I start off with curls. That's good for the bicep.  I do 10 reps, 2 sets.",
+      "characters": [
+        "Peterman",
+        "Bania",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "We'll move his teeth, it happened to my uncle, the sugar revived him.",
+      "characters": [
+        "Tia",
+        "George",
+        "Laura",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes. Well, be that as it may, if you could just find it in yourself to give it up.",
+      "characters": [
+        "George",
+        "Mary",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

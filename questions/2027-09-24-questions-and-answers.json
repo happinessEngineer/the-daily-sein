@@ -1,0 +1,106 @@
+{
+  "gameNumber": 994,
+  "date": "2027-09-24",
+  "questions": [
+    {
+      "quote": "You're taking that much to literally. Now sir , do you have any business to transact.",
+      "characters": [
+        "Bob",
+        "Announcer",
+        "George",
+        "Teller"
+      ],
+      "correctAnswer": "Teller"
+    },
+    {
+      "quote": "Yeah, yeah. Forget about all that. First thing is first. Warranty information. Name, we know that. Uh, hobbies. Skiing, racquetball...",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! I'm lefty, can't go right. What about women? Do they go left or right?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So go ahead pigeons. hu hu hu. Laugh it up. I'm getting in my car now and the last I heard ... we have NO DEAL!",
+      "characters": [
+        "Detective",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You sure he didn't just mention it because you happened to be going downtown?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Alec",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why're you doing this, Jerry? Is it your career? Things will pick up.",
+      "characters": [
+        "Joe",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, uh, I'd watch the third base coach if I were you 'cause I don't think he's waving you in. You know I hate to say this but I think we're really hitting it off. Get it? Get it?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aaaah! Enough lying! The lying is through! C'mon, Jerry, the masquerade is over. You're thin, late thirties, single...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Tell them when you took my son's pen back. Tell them about that!",
+      "characters": [
+        "Morty",
+        "Announcer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

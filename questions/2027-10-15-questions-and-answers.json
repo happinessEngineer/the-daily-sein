@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1015,
+  "date": "2027-10-15",
+  "questions": [
+    {
+      "quote": "When are they gonna learn that any news about China is an instant page-turner?  What's that?",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I know what I'm talking about. I gotta be honest with you, I gotta tell ya... Ever since I saw you holding hands with that woman, I can't get you out of my mind.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well actually we talked about you. Yeah. He had some pretty interesting things to say.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Clean? Hardly. This looks like a man that isn't happy with his stereo performance.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Newman",
+        "Helen"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Cause if you don't get that return, that's a pretty big matzoh ball hanging out there.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Carl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you could've just given me Neil's number. You..you didn't have to take me out to dinner.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my God! You won't believe what I just saw! A car just bashed into a parked car, and sped off, right on my block!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Silvio"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "well it's a dog leg left, so I play the hook right? .. hold on there's another call.",
+      "characters": [
+        "Mohel",
+        "Hoyt",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, you understand how my Peterman stock options are gonna work?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What, do I have to spell it out for ya? He was moving on her like the storm-troopers into Poland.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

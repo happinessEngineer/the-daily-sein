@@ -1,0 +1,106 @@
+{
+  "gameNumber": 61,
+  "date": "2025-03-05",
+  "questions": [
+    {
+      "quote": "Listen, I need to come over and pick up the clubs for Peterman.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "hey you know it's weird because that voice sounded a little familiar to me",
+      "characters": [
+        "Jerry",
+        "Katie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well you know, we had a fight over the peach and uh well Joe doesn't want my business.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, you like sending out catalogs!? How do you like gettin' 'em back!?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Levitan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll get a ticket! Besides, what if somebody wants to get out of here?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what, I urge you to take it up with him. Go ahead, give him a call, he'll tell you what I'm doing here.  Then you can tell me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Patty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer's Andre, he's fooling around with these 976 numbers  hey I told you, I don't want you doing that on my phone",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When you cough, there are thousands of unseen muscles that suddenly spring into action. It's like watching that fat guy catch a cannonball in his stomach in slow motion.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm interviewing all these annoying little overachievers.. finally, this kid walks in - Steven Koren - a regular guy.. likes sports.. watches T.V..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Driver",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. And, and to cover my nervousness I started eating an apple, because I think if they hear you chewing on the other end of the phone, it makes you sound casual.",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

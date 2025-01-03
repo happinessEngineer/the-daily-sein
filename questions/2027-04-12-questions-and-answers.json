@@ -1,0 +1,106 @@
+{
+  "gameNumber": 829,
+  "date": "2027-04-12",
+  "questions": [
+    {
+      "quote": "I said yes, but I don't feel right about it. I mean I hardly know the guy. That's a big step oin a relationship. The biggest. That's like going all the way.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They just don't like me. It's a long story. I can tell you one day but I can't tell you right now.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What you have to do is introduce him, and then he'll just come out with it.",
+      "characters": [
+        "Betsy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, to me, the Hakuna Matata is not nearly as embarrassing as the cup of soup...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Georgie! I'm doing some research down at the coffee shop. Your story's the one.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no please Mr. Peterman, she's crazy!  Crazy for feelings...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, here we go. The supervisor. You know what she's saying over there?",
+      "characters": [
+        "Cop",
+        "Simon",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know this whole thing never would have happened if you hadn't bailed out on me at the restaurant.",
+      "characters": [
+        "Elaine",
+        "Ricky",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about your old car? They couldn't get Kramer's blood out of it?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Communism, You didn't realize Communism was a sensitive issue? What do you think has been going on in the world for the past 60 years? Wake up and smell the coffee.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Mickey"
+    }
+  ]
+}

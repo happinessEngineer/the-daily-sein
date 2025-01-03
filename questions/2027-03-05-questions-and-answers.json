@@ -1,0 +1,106 @@
+{
+  "gameNumber": 791,
+  "date": "2027-03-05",
+  "questions": [
+    {
+      "quote": "My father left us when I was 9 so I guess that is why i have such a fear of abandonment.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She does a full hour about how you're the devil .I got to go see this thing.",
+      "characters": [
+        "Elaine",
+        "Saleswoman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh my God, an affair. That's so adult. It's like with stockings and martinis, and William Holden. On the other hand it probably wouldn't cost me any money.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr. Pitt! The board of directors is on the phone. They've called an emergency meeting. They want you to be there to discuss the merger!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love it!  This is fantastic!  Look at this couch, is this velvet?!",
+      "characters": [
+        "George",
+        "Gary",
+        "Estelle",
+        "Naomi"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, the main thing is I don't want Elaine to know about any of this. I mean, especially the panty remark. I mean, it's embarrassing. And she's never let me hear the end of it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Audrey",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't say? You know I have boxes of those sitting in my garage in Florida?",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I used to have a problem.  Well, what d'you mean, he's not registered? Wha..S, E, I, N, V...",
+      "characters": [
+        "Kruger",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi there. Um, uh -- [drumming on countertop] Oh! Oh! Oh! One mulligatawny and, um.... what is that right there? Is that lima bean?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right. You wanna know what one of her favorite expressions is? Happy, Pappy?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 101,
+  "date": "2025-04-14",
+  "questions": [
+    {
+      "quote": "If I wanna get my hair cut I've gotta go now. Call me when you get home. I wont be there, but leave a message so I know you called.",
+      "characters": [
+        "Kramer",
+        "Lanette",
+        "Tim",
+        "Doctor"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "Yeah. I'm a little worried. When there's no work, and the people get restless, who do you think they come after?  El Presidente!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I heard something.  Elaine, Elaine! It's Kramer! Kramer's on \"Murphy Brown\"!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh no no no, this is no joke. O'Brien's coming in from Chicago, Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!",
+      "characters": [
+        "Cynthia",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really? But, it's a little bit slow out there it rained last night.",
+      "characters": [
+        "Wilhelm",
+        "Frank",
+        "Kramer",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "He's got my vacuum cleaner. You know I loaned it to him. He never returned it. The carpets are filthy. What am I going to do?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Craig",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. Well, I just saw Madeline off. Yeah. She's in a cab and--nguh nguh nguh--on her way. I miss her already.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Tv"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "well I don't know if there's gonna be any place to eat up there",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, please. Do you know what you're talking about? Because I don't think you know what you're talking about. Take a look at that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "You don't have to say \"Wow.\" I know it's \"Wow.\"  And there's that smile again. Well, what is that?  It's George.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

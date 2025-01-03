@@ -1,0 +1,106 @@
+{
+  "gameNumber": 794,
+  "date": "2027-03-08",
+  "questions": [
+    {
+      "quote": "Alright, look. Jerry, you know the whole story, you should settle this.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "yeah.. I I just forgot to check so if you could just spare me some.",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I'm tellin ya the pig-man is alive. The government has been experimenting with pig-men since the fifties.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, I don't get it. If there's no Human Fund, those donation cards were fake. You better have a damn good reason why you gave me a fake Christmas gift.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Just a movie?! You don't understand. This isn't 'Plans 1 through 8 from Outer Space', this is 'Plan 9', this is the one that worked. The worst movie ever made!",
+      "characters": [
+        "Elaine",
+        "Milos",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're going to the movies, we're gonna see Prognosis Negative.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it's, I really wanted to see Prognosis Negative with Jerry, uh, you wanna see Ponce de Leon?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. I met this lawyer, we went out to dinner, I had the lobster bisk, we went back to my place, yada yada yada, I never heard from him again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Julianna",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Actually she doesn't even know about the toys. I gave her the wrong kind of medicine and I, guess she passed out!",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I often wonder what you'll be like when you're senile.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

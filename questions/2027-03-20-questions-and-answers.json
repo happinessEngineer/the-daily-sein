@@ -1,0 +1,106 @@
+{
+  "gameNumber": 806,
+  "date": "2027-03-20",
+  "questions": [
+    {
+      "quote": "On-the-street cell-phone call is the lowest phone call you can make.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, he's in the hospital, he's having surgery and I feel like should go visit him.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who walks into a woman's bedroom without knocking. I want to know!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why don't you get someone else from the office to go get Pisano's for you?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm a man. Jerry, I'm a man. And do you know why? It's because of that talk we had. You were my inspiration. Do you believe it? You. That lunch was the defining moment of my life.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I can't go to a bad movie by myself. Who am I gonna make sarcastic remarks to, strangers? Eh, I guess I'll just go to my uncle's.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I would just love to take you down to the shop where I got it.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Because of me? You must be joking! Who wouldn't want to live because of me? I'm nothing!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[To Rep] I dunno what happened, we were just trying to take him to the dentist.",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know how you feel. For I, too, have a woman for whom I pine.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

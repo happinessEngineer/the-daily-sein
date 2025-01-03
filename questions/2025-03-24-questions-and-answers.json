@@ -1,0 +1,106 @@
+{
+  "gameNumber": 80,
+  "date": "2025-03-24",
+  "questions": [
+    {
+      "quote": "I don't know about you, but I'm getting a hankering for some doublemint gum. Alright, I'm dropping you off at work, right?",
+      "characters": [
+        "Judge",
+        "Levitan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There is no other way in New York. Everybody goes every way all the time.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Bah bah baaah, Boo doo bah bah bah, boo doo waaaah, waah, waaaah...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I could tell you what I did, but you wouldn't believe it. It's not believable.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Bob",
+        "Rebecca"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, I'll just take the fire escape to get in and out of the building.",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Jerry",
+        "Bruce"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got it. You wanna get her something nice? How 'bout a music box?",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm completely changing the configuration of the apartment. You're not gonna believe it when you see it. A whole new lifestyle.",
+      "characters": [
+        "Bob",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...and uh, I'm afraid we have a bit of a problem. Well, the point is, doctor uh, I'm very much in love with Elaine...",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She made a big breakfast every Sunday. I don't know what she put in those eggs.",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told Elaine about an apartment opening up in my building. She's going to move in.",
+      "characters": [
+        "Gina",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

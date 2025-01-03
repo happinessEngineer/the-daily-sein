@@ -1,0 +1,106 @@
+{
+  "gameNumber": 438,
+  "date": "2026-03-17",
+  "questions": [
+    {
+      "quote": "You should have lived in the twenties and thirties, you know men wore hats all the time then.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, listen, Jerry. One of your friends came by and he was very upset that I had your wheels.",
+      "characters": [
+        "Stu",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Are you kidding? They were merciless! What do you expect when your name rhymes with a part of the female anatomy?",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Hello? Yes. Uh-huh. Ya. Oh, really? Okay, thank you very much. Bye-bye.  Well, the yogurt verdict is in.  Fat!",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Fleas? Bwa ha ha ha ha .That's preposterous. How can I , give you fleas. Now if you don't mind...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Meryl",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Bonnie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. Now you listen, and you listen good. I know who you are. You're the scofflaw.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I've been in the slash many times. This is nothing. You'll get used to it. Just,  put it out of your mind.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, someone's been cashing the checks and you're overdrawn.",
+      "characters": [
+        "Voice",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Voice"
+    },
+    {
+      "quote": "You know, if Richie Brandes did this, I'd be suspicious, you know. He's always got some ulterior motive.",
+      "characters": [
+        "Ade",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

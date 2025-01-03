@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1064,
+  "date": "2027-12-03",
+  "questions": [
+    {
+      "quote": "Alright, alright. I'll make the necessary adjustments, alright.",
+      "characters": [
+        "Teller",
+        "Jerry",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, I have my system. First I look for the dream spot right in front of the door, then I slowly expand out in concentric circles.",
+      "characters": [
+        "Rudy",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, here, you call him right now. See if he's sniffing right now.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What, your sad little horsies, the house with the little curl of smoke, the sunflower with the smiley face. the transparent cube...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we would like to be in business. Let's do business. We'll have some business. Let's have business.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Joyce"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's only one caveat -- the guy who runs the place is a little temperamental, especially about the ordering procedure. He's secretly referred to as the Soup Nazi.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You talk about your day. How was your day today? Did you have a good day today or a bad day today? Well, what kind of day was it? Well, I don't know. How about you? How was your day?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Doorman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was down at the other end. So he yells out, \"Ready, On your mark, Get set, \" and I was so keyed up I just took off. By the time he said go I was ten yards ahead of everybody.",
+      "characters": [
+        "Kramer",
+        "Ellen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was yelling at the litterbug. I mean this is my town. You don't throw trash on the streets of my town.",
+      "characters": [
+        "Maestro",
+        "Kramer",
+        "George",
+        "Clerk"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's a lot of money. But, if that's the way it's gotta be, that's the way it's gotta be.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Steven",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

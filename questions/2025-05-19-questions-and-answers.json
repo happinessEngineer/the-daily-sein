@@ -1,0 +1,106 @@
+{
+  "gameNumber": 136,
+  "date": "2025-05-19",
+  "questions": [
+    {
+      "quote": "Yeah, excuse me, uh... You didn't by any chance recently get the wrong license plates?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, relax, tough guy. I got to go out to my father's garage, help him sell some computers.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you know. You've never worked in an office.  See, George, you've worked in an office. Jerry thinks I'm over reacting but you understand, ... LUNCH!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right. As long as you're okay. Because I can't stop thinking about her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I did a number on him, it was a thing of beauty, you really had to have been there to appreciate it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Owner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Show this card at any participating Orlando-area Exxon station...to get your free 'Save the Tiger' poster.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mary",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Doc, check this out. [does an around-the-world with the Yo-Yo]",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "Ray",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell me, is it your contention that Shakespeare was an imposter?",
+      "characters": [
+        "Landlord",
+        "George",
+        "Pitt",
+        "Kramer"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "So, your car caught fire because of my father and the woman on the horse?",
+      "characters": [
+        "Deena",
+        "Landis",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "Deena"
+    }
+  ]
+}

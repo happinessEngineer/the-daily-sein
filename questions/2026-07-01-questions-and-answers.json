@@ -1,0 +1,106 @@
+{
+  "gameNumber": 544,
+  "date": "2026-07-01",
+  "questions": [
+    {
+      "quote": "Ah, I'm going to kill myself on that thiing. You can't even see it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rachel",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a second... My jacket! I wore that in the car! The Beast!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mr. Pensky. I was just working on your file. I was transferring the contents of the file into this flexible accordion-style folder.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Rudy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was thinking, I mean, I'm not really doing that much this weekend, and I thought, well, huh, what the hell, maybe I'll come down there and hang out a little.",
+      "characters": [
+        "Brett",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "I remember when you wouldn't date that girl who lived in Queens because you didn't want to go over the bridge!",
+      "characters": [
+        "Kramer",
+        "Mary",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, Jerry! Tonight you in for a real treat. I'm personnaly going to prepare the dinner for you and my Audrey.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Susan",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Look, I'll drive out here tomorrow and I'll show the I.D. I got nothing to do all day.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no… I'm not kidding Elaine it's true, his mistress didn't like the title and insisted that he change it to \"War and Peace\"!",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes well unfortunately you'll never get the chance to find out.",
+      "characters": [
+        "Tawni",
+        "Jerry",
+        "George",
+        "Margaret"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

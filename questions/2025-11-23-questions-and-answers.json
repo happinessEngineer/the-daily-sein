@@ -1,0 +1,106 @@
+{
+  "gameNumber": 324,
+  "date": "2025-11-23",
+  "questions": [
+    {
+      "quote": "They really should mention that in the breakdown: height, weight, goiter.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer you're never gonna be able to completely stop talking.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, Cuban cigars are illegal in this country. That's why I got these guys.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Regulation table, the hi-fi, maybe even a bar.. Give it real authenticity..",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "It's pretty hot under these lights huh Seinfeld. Pretty....... Hot .",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well I'm feeling a little disoriented. It's just weird for me not to have an advisor.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Oh.  Oh yeah, I'd be happy to. Uhm, how much d'you want this thing?  I mean, you know, how high are you willing to go?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Brody",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "4:02?  Aaa-aaahhh! Eight forty seven Jean-Paul! Wake up! Wake uuuuup!",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your background is impressive George, but how does it apply to what we do here, at Kruger Industrial Smoothing?",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Kruger"
+    }
+  ]
+}

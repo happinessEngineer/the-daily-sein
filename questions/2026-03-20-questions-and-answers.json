@@ -1,0 +1,106 @@
+{
+  "gameNumber": 441,
+  "date": "2026-03-20",
+  "questions": [
+    {
+      "quote": "Uncle Leo! I just met an old acquaintance of yours.  You remember Buddy. He just told me quite a story about you and Grandpa at the track.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I meet this women, Sheila. She works down at the one hour photo pace. She's got this incredible smile. Like she's got extra teeth or something",
+      "characters": [
+        "Kramer",
+        "George",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They look like keys, George. They look exactly like keys.  \"What do they look like.\"",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go.  Three dollars, no change. You want one?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, fine. Fine. Go ahead.  Cut the stupid thing in half.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why don't you sit down, Poppie? You're still recuperating.  What, are you tired, Poppie?",
+      "characters": [
+        "Elaine",
+        "Michael",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because before you know it he'll be having lunch with him. You know how these interoffice politics work.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, this one is about 8 years old. Not a scratch on it, it was owned by some lady who only used it to go from the bathroom to the kitchen and to feed her cat.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Salesman",
+        "Levitan"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "No, no, no, I sensed something. I did sense something. I perceived a possibility Jerry.",
+      "characters": [
+        "George",
+        "Cop",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah, that's right. Those new kitchen cabinets. How is that coming?",
+      "characters": [
+        "Kramer",
+        "Julie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

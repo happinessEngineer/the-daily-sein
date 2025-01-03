@@ -1,0 +1,106 @@
+{
+  "gameNumber": 877,
+  "date": "2027-05-30",
+  "questions": [
+    {
+      "quote": "What? Two animal acts on the same show?  What is this, amateur hour? Look, George, I'm sorry, maybe another time, all right?",
+      "characters": [
+        "Izzy",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think maybe you're flattering yourself. That mannquein is wearing a twelve hundred dollar Gaultier dress.",
+      "characters": [
+        "Toby",
+        "George",
+        "Saleswoman",
+        "Kramer"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "A man who respects a good comma. If it was one of those in and out comas, maybe. But when a guy's got a coma going like this … you don't want to mess with it.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah!, a doodle of me...look at the size of the nose , the ears, all my features are distorted.",
+      "characters": [
+        "Frank",
+        "George",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's my stomach. I think there must have been something in the pasta primavera I had for lunch.",
+      "characters": [
+        "Driver",
+        "George",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Kramer, I've driven to east Hampton many times, I know the exit.",
+      "characters": [
+        "George",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know of this is the house. I don't see Jerry's car anywhere.",
+      "characters": [
+        "Bookman",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no, I found the place, I set the whole thing up, I'm doing all the leg work.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're wearing the same clothes as yesterday!!!  You saw Puddy!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George...I think you may be taking work a little too seriously.",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    }
+  ]
+}

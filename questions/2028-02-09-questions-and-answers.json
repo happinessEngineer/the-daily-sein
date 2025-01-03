@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1132,
+  "date": "2028-02-09",
+  "questions": [
+    {
+      "quote": "Look. It's a skill, just like juggling. She probably enjoys showing it off.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And, you know, I do a lotta business with Japanese TV. They broadcast a lot of American baseball. They got an office here in New York!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait, where are you going? Don't take your dolly and go home.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't think I want to date a protégé whose mentor is a Costanza.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well we went out one time. Don't you think that's coming on a little too strong?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gone.  The tenant association made me give it to this guy because he was an Andrea Doria survivor..",
+      "characters": [
+        "Attendant",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We started to talk, and I told him that I jog, and then he put his hand on my heart.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Mr. Lippman you forgot your handkerchief. Mr. Lippman, you forgot your handkerchief. It's on my desk.",
+      "characters": [
+        "Elaine",
+        "Tim",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Y'know what? This would be a really funny gift for Pamela's birthday.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer, these people work and wait their whole lives to move down here, sit in the heat, pretend it's not hot, and enforce these rules.",
+      "characters": [
+        "Steve",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

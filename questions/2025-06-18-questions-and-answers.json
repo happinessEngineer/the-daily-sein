@@ -1,0 +1,106 @@
+{
+  "gameNumber": 166,
+  "date": "2025-06-18",
+  "questions": [
+    {
+      "quote": "Jerry, it's like the feeling is palpable. You think it could have something to do with the party?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The doctors thought he had cancer, but the surgery revealed he never actually had it.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...But, barring any unforeseen developments, gentlemen, I think we're sitting on a winner.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "And then, the evil ogre took back the magical keys from the handsome young prince.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Melissa"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I wanted to talk about how we have nothing to talk about.",
+      "characters": [
+        "Dan",
+        "George",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love the chop sticks. I, I personally prefer a fork but they look very nice.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I don't wanna get into the whole physics of carbonation with you here, but you know the sound a can makes when you open it?",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "George",
+        "Gennice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He moves them from one side of the street to the other so you don't get a ticket.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I really didn't pay much attention, I'd just come from buying a speedboat.",
+      "characters": [
+        "George",
+        "Man",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm taking this lace out. It came undone and touched the floor of a men's room. That's the end of that.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

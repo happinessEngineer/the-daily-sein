@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1058,
+  "date": "2027-11-27",
+  "questions": [
+    {
+      "quote": "Suppose I told you I had fifty in mint condition, would you be interested?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Vandelay"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know he once went from West 81st Street to Kennedy Airport in 25 minutes.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Noel",
+        "Nikki"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it just didn't seem to be the right project for us right now.  So, what were you saying?",
+      "characters": [
+        "George",
+        "Doctor",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Oh, Leslie, I am so sorry about everything that went on here tonight. You know, I had no idea..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't give something and then take it back. I mean, what are you...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't believe this!  Excuse me, I wonder if you could do me a favor? My uncle's having a little problem with shoplifting..",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's right. Now it looks like it was broken during shipping and I insured it for $400.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you deaf? I said sit down!  Hey, for the last time, sit down.",
+      "characters": [
+        "George",
+        "Officer",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Officer"
+    },
+    {
+      "quote": "So what, they don?t have another plane? She couldn't take a bus?",
+      "characters": [
+        "George",
+        "Laura",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes.  Oh, your father bought a exercise device off the television. He does it every morning at four.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 54,
+  "date": "2025-02-26",
+  "questions": [
+    {
+      "quote": "I know. Somebody around here has been giving Wilhelm the impression that I have been slacking off.",
+      "characters": [
+        "Morgan",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "Wait a second! I never baited a hook with a rye before. Your hook is too small. This is for, like, a muffin. All right. Take it away.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute? He's picking up the van tonight? This is perfect. I'll drive Rhisa to someplace romantic. Then when my father slides the door open, I'm in the van kissing his brother's daughter.",
+      "characters": [
+        "John",
+        "Guy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, it was sad for a Three Stooges, what with the dead baby and the Stooges being executed and all.",
+      "characters": [
+        "Jerry",
+        "Kevin",
+        "Helena",
+        "Ralph"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "What's the difference, you're a woman. They're supposed to be touching you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I guess this would be all right. Jimmy, you remember Elaine? She's gonna watch you tonight.",
+      "characters": [
+        "Elaine",
+        "Vivian",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "It's one think to not give me the extension But to tease and to torture me like this. There's no call for that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it doesn't even have to be the general manager. Maybe I could be like, an announcer. Like a color man. You know how I always make those interesting comments during the game.",
+      "characters": [
+        "Sylvia",
+        "Elaine",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it was very funny. There was one great scene with the chef - what was his name?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.. like a pirate..  Anyway, ah, you know, we're hoping to, um, raise enough money.. with this.. uh..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

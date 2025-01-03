@@ -1,0 +1,106 @@
+{
+  "gameNumber": 808,
+  "date": "2027-03-22",
+  "questions": [
+    {
+      "quote": "Yes, that's right, he was good kid - a lovely boy. Shared his calzone with me - that was a heck of a sandwich, wasn't it, Georgie?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "What? You're kidding, I just got this invitation today. Oh, I was so excited. It's really a beautiful invitation.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Woo! Some day out there - You ever see weather like that? Woo! It's crisp - it's crispy crisp.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you're not getting any money back.  Jerry, come back in here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't come out. They're standing right by the door. Throw it up!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, let's turn off the lights, get some real 'movie atmosphere.'",
+      "characters": [
+        "George",
+        "Jack",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, not in so many words but I believe we had an understanding.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Willie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, sometimes when I think you're the shallowest man I've ever met, you somehow manage to drain a little more out of the pool.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no no no. He's deeply in love, and I was just about to break up with her when she told me.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We cold play \"Sorry!\" We cold play \"Steal the Old Man's Bundle.\"  Maybe I can get an extension cord and hang myself.  What kind of perfume is that you're wearing?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 932,
+  "date": "2027-07-24",
+  "questions": [
+    {
+      "quote": "Na no, I'm not good in these situations. I can't hide my pity. I..I make em feel worse.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Coccoon II: The Return\". I guess they didn't like it up there.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's why we're always hiding in that coffee shop! He's afraid of getting caught.",
+      "characters": [
+        "Gwen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Gwen"
+    },
+    {
+      "quote": "No, . . . about how you wish it was YOU who was getting married instead of him? Feelings of resentment, hostility?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Poppie",
+        "Detective"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I can't stay under my own name. I was registered under Slappy White.",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Just keep the lights down and your eyes closed. I'll be back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Raymond",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "oh, . . .because she handed you the bag. I could have handed you the bag. She happened to pick it up at the restaurant even though, . . .",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's no tragedy! How many people do you lose on a normal cruse? 30? 40?! Kramer, can I take a look at that book?",
+      "characters": [
+        "Salesman",
+        "George",
+        "Dwayne",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was nice seeing you again. I just remembered something. I've got to go.  It was GEORGE!",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My intern from NYU. Well, you remember my corporation, Kramerica Industries.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Clerk"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 431,
+  "date": "2026-03-10",
+  "questions": [
+    {
+      "quote": "Death Blow: When someone tries to blow you up, not because of who you are, but for different reasons altogether.  Jerry, do you think you can get an extra ticket for my friend Brody?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh sure, it just doesn't have any of the thrills of the Cougar.",
+      "characters": [
+        "Stationer",
+        "Salesman",
+        "Ken",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Elaine, listen, I was talking to a friend about this dog business. Do you realize this is gonna be on our permanent records? Are you aware of this?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright,  here it is. This is what we'll tell 'em. You came to pick me up...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen uh, David, I, I, I want to apologize about that comment",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it's incredible. Although, I might replace her tortoise clip with one of those velvet scrunchies. I love those.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Clare",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Great, great. So anytime you want you can just visualize her naked.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at this. It's a book. Employer's address. Whydo they need this? You know I never had a back problem until that night I slept on the convertible sofa.  My back was fine.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I don't understand what the big deal is. They let you try on pants.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Rula"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I should really clean those bearings. Hold this. Look at all that gunk.",
+      "characters": [
+        "Melissa",
+        "George",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Melissa"
+    }
+  ]
+}

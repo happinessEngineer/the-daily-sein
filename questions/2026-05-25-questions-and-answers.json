@@ -1,0 +1,106 @@
+{
+  "gameNumber": 507,
+  "date": "2026-05-25",
+  "questions": [
+    {
+      "quote": "I know I don't want it! I don't need you to tell me what I don't want, you stupid hipster dufus!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Jimmy why don't you wait outside, you know, play with something.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you're just hiring new people now? That's your job, to hire people?",
+      "characters": [
+        "Kruger",
+        "Izzy",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Mr Peterman, that can't have been the only time that you faced mortal danger.",
+      "characters": [
+        "Elaine",
+        "Alec",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm tucking! Hello? Hello? They hung up on me. They don't know where Kramer is anyway.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peggy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's my cabana shirt, you stole my shirt you son of a bitch!  George you let your friends go up in my attic and steal my clothes?  Gimme that back",
+      "characters": [
+        "Nikki",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "It just didn't work out. What can I do? I wanted to love her. I tried to love her. I couldn't.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know Keith, what I've always wondered, with all these ball clubs flying around all season don't you think there would be a plane crash? ...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Awright, lemme just say this. Ten thousand dollars, alright, and now I'm going below what you wanted to pay. You have your dinner, have your veal, or whatever it is. Enjoy...",
+      "characters": [
+        "George",
+        "Karen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well anyway, the, uh... the stone is up, I paid my respects, guess that's it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

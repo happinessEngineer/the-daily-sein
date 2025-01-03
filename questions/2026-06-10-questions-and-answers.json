@@ -1,0 +1,106 @@
+{
+  "gameNumber": 523,
+  "date": "2026-06-10",
+  "questions": [
+    {
+      "quote": "Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys.",
+      "characters": [
+        "Father",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They were mailboxes, you idiot. I didn't have the heart to tell you.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Heather"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, to tell you the truth, I was thinking of buying my father a new car.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So he gets out of the car, I say, \"Hey buddy! I saw you hit that car!\" So he says to me, \"What are ya gonna do about it?\"",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So now you want an apology for the apology, plus the original apology?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's good, then I get the apartment for at least one night. You know I'm paying for this whole Paris trip it's their anniversary present.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, I don't think I'm special. My mother always said I'm not special.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh man. What is with this bar? It's right in my back. It's killing me.",
+      "characters": [
+        "Kramer",
+        "Gavin",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I listened to your arguments, and they were rambling and flimsy. I'm not convinced. Come on, get dressed and let's get some dinner.",
+      "characters": [
+        "Maura",
+        "Evelyn",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "Okay, I'll talk to him. But you're putting me in a very difficult position.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

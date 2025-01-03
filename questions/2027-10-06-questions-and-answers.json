@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1006,
+  "date": "2027-10-06",
+  "questions": [
+    {
+      "quote": "I know. That's the point. If it's gonna get sexual, it should get sexual with you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Cynthia",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Didn't the theater manager give you the message before you went in?",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Rabbi",
+        "Jake"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Not any more. Come on, get your ball, we're leaving. Let's go, let's go.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Testikov",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You should have been born in August. Your parents would have been well-advised to wait.",
+      "characters": [
+        "Tor",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "Oh oh oh, all right, fine, Jerry, you win. Take it, just take it!",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a good idea. Susan liked it. Now, if he hadn't vomitted all over her, we'd be writing it right now.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He wants to install Kramer in a puppet regime and then wield power from behind the scenes. Preferably from the sauna in the clubhouse.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This thing can't hurt me, can it? I mean, it is a laser. What if it hits my eye?",
+      "characters": [
+        "Kramer",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey George, I am *really* proud of you. I really do admire what you've done.",
+      "characters": [
+        "Beth",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now that was an interesting greeting, did you notice that, George?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

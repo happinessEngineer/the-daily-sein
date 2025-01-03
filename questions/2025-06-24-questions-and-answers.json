@@ -1,0 +1,106 @@
+{
+  "gameNumber": 172,
+  "date": "2025-06-24",
+  "questions": [
+    {
+      "quote": "Not the point. The wedding is in one week. I got this  today.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I see how it works now.  He knocks me outta commission, so  you can strut around in your fancy number one shirt.  Well, I'll show you who's number one.",
+      "characters": [
+        "Marlene",
+        "Kramer",
+        "George",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "It's very familiar. I can't put my finger on it. It's very familiar.",
+      "characters": [
+        "Daphne",
+        "Waitress",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, yes, uh, I--I wanted to, uh, stop by and make sure that my shark tank fits-- uh, hello.",
+      "characters": [
+        "Kramer",
+        "Karen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Would you grow up, George?! What is the difference? Nina slept with him , he slept with me, I slept with Pinter. Nobody cares! It's all ancient history.",
+      "characters": [
+        "Jane",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ladies and gentlemen of the jury, have you reached a verdict?",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Jerry",
+        "Vandelay"
+      ],
+      "correctAnswer": "Vandelay"
+    },
+    {
+      "quote": "Hey, Kramer, what was it you were having faxed to my house every 30 seconds?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. I gotta be honest with you Kramer. You might be more than just a coupla tweaks away from a healthy relationship.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright. Listen, I gotta get some reading done. You mind if I do this here? I can't concentrate in my apartment.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "An apartment-warming gift? We got to give presents to people for moving? Birthdays, Christmas, it's enough gifts. I would like one month off.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

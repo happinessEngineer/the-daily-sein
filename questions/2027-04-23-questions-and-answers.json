@@ -1,0 +1,106 @@
+{
+  "gameNumber": 840,
+  "date": "2027-04-23",
+  "questions": [
+    {
+      "quote": "I bet they're probably doing summersaults about us over there. You think they get butler stories like that everyday?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He probably doesn't want to get chocolate on his fingers. That's the way these society types eat their candy bars.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry, Elaine. I always knew that after I became a doctor, I would dump whoever I was with and find someone better. That's the dream of becoming a doctor.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Ben"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Until I remembered the videotape surveillance system that I installed to catch other-Walter using my latrine. But it also caught this.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Newman",
+        "Frank"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I see that Ziggy's back at the complaint department.. \"The New Yorker is stealing my ideas.\" ha ha ha See that's funny.....'cause it's real.",
+      "characters": [
+        "Tim",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She, uh, went shopping for some shoes for the wedding and, yada yada yada, I'll see her in six to eight months.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, hey, listen, by the way, have you seen a tall... lanky... doofus, with a, with a bird-face and hair like the Bride of Frankenstein?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Geez, Hey you know something, you should try my friend's wake up service. She swears by this thing.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we were engaged to be married, uh, we bought the wedding invitations, and, uh, yada yada yada, I'm still single.",
+      "characters": [
+        "Elaine",
+        "Joel",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ipecac? Kramer, I really think you guys are going too far with this.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

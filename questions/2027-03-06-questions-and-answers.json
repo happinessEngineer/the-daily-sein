@@ -1,0 +1,106 @@
+{
+  "gameNumber": 792,
+  "date": "2027-03-06",
+  "questions": [
+    {
+      "quote": "It's all the way in the back. Can't get it out for a couple of days.",
+      "characters": [
+        "Jerry",
+        "Vanessa",
+        "Attendant",
+        "Leo"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Huh, well, I don't think I want to date a mentor whose protégé is a hack.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Oh, come on, you can come up with something better than that.",
+      "characters": [
+        "George",
+        "Steve",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Did you know he was so worried about losing more hair if he had to get chemo treatment, I bought him an unlimited gift certificate at the Hair Team For Men, just to put his mind at ease?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Salesman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, yes, that's true, but then I was taken to the Bell's Palsy Center in, in, in, in Rockford. Absolutely first, first rate facility, top notch physicians.",
+      "characters": [
+        "Gavin",
+        "Jack",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "My friend Kramer and I were discussing that same thing the other day. He was with Brant-Leland for a while.",
+      "characters": [
+        "Izzy",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's going on? Hey, Timmy, Clara. That was some kind of workout we had tonight, huh?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Matthew",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, man. You know what... they got the fudge on the bottom-- y'see? That enables you to control your fudge distribution as you're eatin' your ice cream.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you're getting it , it comes with your breakfast special.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Waitress",
+        "Levitan"
+      ],
+      "correctAnswer": "Waitress"
+    }
+  ]
+}

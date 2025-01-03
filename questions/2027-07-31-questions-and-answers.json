@@ -1,0 +1,106 @@
+{
+  "gameNumber": 939,
+  "date": "2027-07-31",
+  "questions": [
+    {
+      "quote": "You leave me no choice! You're the media now as far as I'm concerned!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you're basically a doctor. Right? I mean, people do call you doctor.",
+      "characters": [
+        "Susan",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ask your mother,  you live with her now, don't you? Anyway, so then this guy comes up to me and starts feeling my jacket through his thumb and his forefinger like this.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anything you wish. I'll tell you a little secret about zip codes: They're meaningless!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Rick"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Assumed? Never assume anything. I don't want that nut in my house. You know he's on medication.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Well, there's nothin' more sophisticated than diddlin' the maid and then chewin' some gum.",
+      "characters": [
+        "Jerry",
+        "Bruce",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, he-- he had his hands, you know, and uh, he was, huh, ...",
+      "characters": [
+        "Michael",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Ah, don't worry about a thing. In twenty minutes that place'll be swarming with mailmen. We'll be back on the street by lunch.",
+      "characters": [
+        "Peterman",
+        "Hoyt",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yes, you know. Deal with it .We have to deal with the doubt, Susan The DOUBT!! Must be dealt with.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A radar detector, as I understand it, DETECTS RADAR! WITH A SERIES OF BEEPS AND FLASHING LIGHTS. But oddly, for some reason I didn't hear a thing except for the sound of a police siren.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Ed"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

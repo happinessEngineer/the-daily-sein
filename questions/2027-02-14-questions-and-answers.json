@@ -1,0 +1,106 @@
+{
+  "gameNumber": 772,
+  "date": "2027-02-14",
+  "questions": [
+    {
+      "quote": "Y'know you try to do some good. You want to be a good person but this is too much to ask.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Cynthia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on, come on kitty... ooh...how about that; it worked! Wow, can I borrow that thing for a while?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We didn't bet on if you wanted to. We bet on if it would be done.",
+      "characters": [
+        "Celia",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not out there! You can't be, because *I* am out there. And if I see *you* out there, there's not enough voltage in this world to electroshock me back into coherence!",
+      "characters": [
+        "Kramer",
+        "Julianna",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not the Croat, the lineswoman. That is the most beautiful lineswoman I've ever seen.",
+      "characters": [
+        "Jerry",
+        "Gavin",
+        "Jake",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's with the touring company of Joseph and the Amazing Technicolor Dreamcoat. He's the guy in charge of the wigs.",
+      "characters": [
+        "Holly",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, you should care. Cantaloupe like this should be taken out of circulation.",
+      "characters": [
+        "Audrey",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well No! No, don't go out there, Kramer, they'll hurt you, they'll destroy you. You'll never make it in this town, you're too sensitive like me,",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Helena"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "No, that's a fair question. It is, uhm...  Jerry, yeah.  Jerry's a friend of mine.  He uh, he gave it to me. Unbelievable how many addresses of people this guy has.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, you almost ready? Cause Jerry and Kramer are gonna be here any second.",
+      "characters": [
+        "Kramer",
+        "Cop",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

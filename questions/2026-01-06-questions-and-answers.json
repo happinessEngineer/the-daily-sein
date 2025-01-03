@@ -1,0 +1,106 @@
+{
+  "gameNumber": 368,
+  "date": "2026-01-06",
+  "questions": [
+    {
+      "quote": "Yeah, yeah, I know.  Listen, Jerry, I can't let you come to my New Year's party.",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, um, before I forget, . . . Cuban cigars. It's a present from my father.",
+      "characters": [
+        "Peterman",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, The Muted Heart. Glen Close. Sally Field. Well, that should be good.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, let's go. We don't have much time before the meeting.",
+      "characters": [
+        "Ethan",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes! This guy ripped me off! He stole that statue right out of my house!",
+      "characters": [
+        "Kate",
+        "George",
+        "Jerry",
+        "Waitress"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You start flirting with him and I'll come by and, while you're keeping him busy, I'll slip it in his drink.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a Twix! They're all Twix! It was a setup! A setup, I tell ya! And you've robbed it! You've all screwed me again! Now, gimme one! Gimme a Twix!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, pudgy, lets stop playing games. What happened with margaret?",
+      "characters": [
+        "Mohel",
+        "George",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you got into a car accident, I can guarantee you I wouldn't stop for Jujyfruit!",
+      "characters": [
+        "Estelle",
+        "Morty",
+        "Jake",
+        "Elaine"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Pennsylvania Dutch country? Oh, that's the serious relationship weekend place.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

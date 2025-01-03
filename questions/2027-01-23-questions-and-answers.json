@@ -1,0 +1,106 @@
+{
+  "gameNumber": 750,
+  "date": "2027-01-23",
+  "questions": [
+    {
+      "quote": "I went to podiatry school because I like feet. I chose to work with feet.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I'll tell you what I'm gonna do - I'm gonna do a hard-target search. Of every drug store, general store, health store and grocery store in a 25-block radius.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, it offends me as a comedian. And it'll interest you that he's also telling Catholic jokes.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Valerie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I've got to go down to the unemployment office. Wanna take a walk?",
+      "characters": [
+        "George",
+        "Newman",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, would you take this picture away from me. Take it away and get it outta here. Let me just sign this and go.",
+      "characters": [
+        "Gennice",
+        "Mickey",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, I'm not doin' this anymore. I don't know what I was thinking. It's illegal, it's dangerous...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I saw the look on your face last week when I took the scotch tape!",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Ah, \"with what?\" You know what. With the waitresses. How they're all... alike.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Cindy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was built by Mark Fargman. He build a lot of these homes here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ben",
+        "Jerry"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "I use Planet. It's bio-degradable and doesn't pollute the oceans.",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "Susan",
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    }
+  ]
+}

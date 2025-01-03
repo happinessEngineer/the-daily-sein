@@ -1,0 +1,106 @@
+{
+  "gameNumber": 769,
+  "date": "2027-02-11",
+  "questions": [
+    {
+      "quote": "I've gotta go to court, I'll get in trouble. What's the matter with you?",
+      "characters": [
+        "Vivian",
+        "Woman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And then, somehow, we started talking about, what if we had sex.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Attendant",
+        "Maestro"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry. I thought it was a legitimate charity. I didn't know you'd get audited",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's crazy. His phone wasn't even hooked up. He just liked ringing that bell.",
+      "characters": [
+        "Noreen",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, if she's available now, I'm not gonna let her slip through my fingers this time. Nooope.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Simon"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is wrong with my hair? Nobody takes better care of their hair than me. You can serve dinner on my head.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because, I was worried that there might be a situation in which one of us come home with somebody, it could get a little uncomfortable. But, as long as you're okay with it, it's fine with me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "His name was Carlo Costanza. We played together everyday until I was four. If I could just look through your photographs, maybe I could recognize him.",
+      "characters": [
+        "Doorman",
+        "Peterman",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "\"Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah!\"",
+      "characters": [
+        "George",
+        "Frank",
+        "Jack",
+        "Shelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just found a guy who's willing to pay ten thousand dollars for the apartment.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

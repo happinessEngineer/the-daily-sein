@@ -1,0 +1,106 @@
+{
+  "gameNumber": 599,
+  "date": "2026-08-25",
+  "questions": [
+    {
+      "quote": "It's this itch. I was watching TV without my shirt on, and one my couch cushions didn't have any fabric on it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jake",
+        "Brett"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, you overload your inventory and you blow your margins on gasoline. Trust me, it doesn't work.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Earl",
+        "Waitress"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I didn't know that it was a manuscript that I had to read...",
+      "characters": [
+        "George",
+        "Sharon",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, maybe they thought you looked too smart to be brainwashed?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Ruby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I don't come down to where you work, and knock the license plate out of your hand.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, pretty much. Although I still get the vibe every once in a while.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Captain"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, if we're gonna be friends, we gotta be able to talk about other people.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you're really being very selfish. It would be nice if you would think of someone other than yourself every now and then!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Beth",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have sentimentality, really, I'm sentimental. Here, look. Here's some cards I've saved, these are birthday cards from my grandmother, see, I'm not a bad guy.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When I started out as a comedian, I sold umbrellas. It was my idea to twirl it, to attract customers.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 378,
+  "date": "2026-01-16",
+  "questions": [
+    {
+      "quote": "No I can't I've got some stuff to do then I've got to meet Keith at my apartment at three. I'm helping him move.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gail",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now my sense of it is that you're probably wasting time working piecemeal, first cleaning one area, then another.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rick",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, he like you though. Said you reminded him of somebody he knew in Korea.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, sometimes people won't go in a place, if they don't see anyone else in there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hmm, that job sounds like it might be worth a year's free haircuts. And a comb.",
+      "characters": [
+        "Newman",
+        "George",
+        "Officer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "\"It's a long journey from Milan to Minsk…\"  wait wait. Hold it stop,  I'm sorry, I have to start it over, my shoelace.  I can't do it like this. Please let me start over.  Please.  Please. . . .",
+      "characters": [
+        "Gennice",
+        "George",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "Ehh.  Remember that summer at Dairy Queen where I cooled my feet in the soft-serve machine?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, come on boys, come on in here. George, this is Herb and Dan.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "What is it about sex that just disrupts everything? Is it the touching? Is it the nudity?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm meeting him for lunch at Chadway's around the corner, do I have to break up with him face to face or can I just wait and do it over the phone?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

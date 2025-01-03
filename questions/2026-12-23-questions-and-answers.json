@@ -1,0 +1,106 @@
+{
+  "gameNumber": 719,
+  "date": "2026-12-23",
+  "questions": [
+    {
+      "quote": "Well, if they make squeeze mustard, doesn't it stand to reason that they make squeeze ketchup?",
+      "characters": [
+        "Doctor",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, Okay. Who do you think you're talking to? What are ya'… you trying to make a joke, because it's not funny. I can tell you that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey hey Kurt, slow down! I can't just marry you, whim-bam-boom! I mean, I need some \"fiance-time,\" I need some \"make-my-girlfriends-jealous\" time...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Donna"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You wanna live here? You respect the rules of our house.  You're grounded!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Very good. My name is Babu Bhatt, I will be your waiter. A steaming hot folded face cloth for your pleasure.",
+      "characters": [
+        "Babu",
+        "Silvio",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Remember me? I said I 'd come back with someone and I did. Surprised?.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Karen",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Three days. Well, maybe you caught her on the cusp of a new wash cycle. You know, she did laundry the day after she met you, everything got clean and she started all over again.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What am I supposed to do? I don't want to do it. I like dogs. I'm not sure this is a dog.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "*Fusilli* Jerry! It's made from Fusilli pasta. See the microphone?",
+      "characters": [
+        "Jerry",
+        "Guard",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So she breaks up with him. Somehow picks up the pieces of her life. Miraculously meets... A New Guy! Ya bust that up! An' then, just as they're reconciling, you announce to the world: He's Boring.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

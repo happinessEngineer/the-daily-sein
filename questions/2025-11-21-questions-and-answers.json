@@ -1,0 +1,106 @@
+{
+  "gameNumber": 322,
+  "date": "2025-11-21",
+  "questions": [
+    {
+      "quote": "They look good. I liked the other one too. I've liked about five of them.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why would anyone eat canned fruit? I mean can anybody answer that?",
+      "characters": [
+        "Kramer",
+        "Diane",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, she's fascinated with Greenland. She enjoys teasing animals, banlon, and seeing people running for their lives. She loves throwing garbage out the window, yet she's extremely dainty.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Abby",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh yes, yes. Yes Jerry they were all over me. It was like Rocky 1, Hm. Diane came up to me, threw her arms around me…",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Judge"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are, are you sure this is decaf? Where's the orange indicator?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, maybe you should try again. You know what happens the first time: people are a little shy, a little reticent.",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you get him some tickets or something, how about that friend of yours that works at the ticket agency.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I insist. I was the one who encouraged you to fire her - the whole thing was all my-",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, look at this. There's no place to park around here. I don't even know why they sell cars in Manhattan.",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So get this. I get down there, and right away, I see the drain is clogged. I mean it's obvious. Can you believe it?",
+      "characters": [
+        "Ramon",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Ramon"
+    }
+  ]
+}

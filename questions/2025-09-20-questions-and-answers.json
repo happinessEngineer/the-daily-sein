@@ -1,0 +1,106 @@
+{
+  "gameNumber": 260,
+  "date": "2025-09-20",
+  "questions": [
+    {
+      "quote": "It's a one-time fee. A hundred and fifty bucks. Why live like this?!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It was very traumatic. The last thing I remember is you flinching. Then, everything went black.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know... the friend meeting the new woman. I feel like I'm getting fixed up for a friendship.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah hah. Well, listen. You would be wise to keep your distance from him.",
+      "characters": [
+        "Peterman",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He knows how to read. And he also knows finishing an entire book doesn't prove anything. And get this: he's into architecture.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now I don't believe this. That guy owes me big time. I got him off sugar! Look, I'm gonna go down there with you right now.",
+      "characters": [
+        "Rick",
+        "George",
+        "Rudy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, you know I'm supposed to go on this special tour today with George's girlfriend.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm no genius but, according to my calculations he should be here in a few seconds.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. So why do we need two people in the show that can't act?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Woman",
+        "Landlord"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, trust me, that one was doing more harm than good. Don't forget to use the Plax too.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

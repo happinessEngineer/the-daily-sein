@@ -1,0 +1,106 @@
+{
+  "gameNumber": 868,
+  "date": "2027-05-21",
+  "questions": [
+    {
+      "quote": "Hey, let's get the check, she's taking the bandages off at four o'clock.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Hal"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, that's where England used to send their convicts.",
+      "characters": [
+        "Jimmy",
+        "Nina",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What the hell were you thinking leaving my clubs in that car?!",
+      "characters": [
+        "Jerry",
+        "Noel",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What happened? The guy was like 67 years old, it was freezing out, he caught a cold, got pneumonia, and a month later he was dead.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm having a little problem with the heat. Um, I got some cardboard out here.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "George",
+        "Glenn"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "It's just that I was the one who actually paid for the big salad. She just happened to hand it to you. But it's no big deal.",
+      "characters": [
+        "Peterman",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I don't like to carry my wallet. My Osteopath says that it's bad for my spine. It throws my hips off kilter.",
+      "characters": [
+        "Allison",
+        "Kramer",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Suzie. I want you to go down to Java World. Get me a cafe latte with a top.  We're gonna run some test on that top. Have you been to the doctor?",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Alec",
+        "Kramer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Oh yeah. Yeah, in fact, if George and I weren't so busy here working on the script, I'd do it myself.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Get those clothes off. You're going to spend the night and we're going to cuddle.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

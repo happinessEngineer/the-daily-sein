@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1130,
+  "date": "2028-02-07",
+  "questions": [
+    {
+      "quote": "Take his *records*? Do you realize how valuable that record collection is?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "It is amazing after years of training how one can contort one's body. Of course, it is only useful in gymnastics.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Naomi",
+        "Katya"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "Ok, oh, you see this socket it's probably connected to her apartment. So what we'll do, we'll take this paper clip and bend it so it'll short out the entire circuit. Here you go...",
+      "characters": [
+        "Kramer",
+        "Testikov",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, Buhner was a good prospect, no question about it. But my baseball people love Ken Phelps' bat.  They kept saying 'Ken Phelps, Ken Phelps'.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Oh, yes, yes I'll tell him. Yes, thank you. Um, um hold on.  Mr. Pitt!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Puddy thinks I should go for the CD player. What do you think?",
+      "characters": [
+        "Jerry",
+        "Cheryl",
+        "Leo",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really? You should be ashamed of yourself. I want you out of here!  How ya' doing?",
+      "characters": [
+        "Hoyt",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, woman have no problem getting the hand off. How do they do that?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, down to business.  I have had this vision of a diaphanous rum-runner scarf.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I thought it was a pretty good idea. It's about coffee tables, it's on a coffee table.",
+      "characters": [
+        "Worker",
+        "Sid",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

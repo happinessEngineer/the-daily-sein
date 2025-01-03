@@ -1,0 +1,106 @@
+{
+  "gameNumber": 634,
+  "date": "2026-09-29",
+  "questions": [
+    {
+      "quote": "Baah! There it is! You just said it! That's what I want! Now say it again, and tell it to me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh I don't know. Not always. No I uh I had to work at it. When I was a kid all the kids would be out playing, I would be up in my room practicing my kissing.",
+      "characters": [
+        "George",
+        "Naomi",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe she decided to celebrate her birthday on the Monday after the weekend.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You think I should come clean? What d'you think, you think I Should confess?",
+      "characters": [
+        "Sally",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! Jon Voight! Jon Voight!  Hey, listen, can I ask you something? Listen, listen...",
+      "characters": [
+        "George",
+        "Helen",
+        "Owner",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now see? Just saying beg doesn't make it a real beg. You gotta put some beg into it.",
+      "characters": [
+        "Silvio",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, you're gonna leave these chairs here for two and a half years?!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You have to stand tough sir. That's why I had to hang up the phone.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Three days and he hasn't called me, and you know why? Because he thinks I'm too fat.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, she thinks she's in love with him. But she's just remembering this old commercial.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

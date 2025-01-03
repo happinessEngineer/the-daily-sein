@@ -1,0 +1,106 @@
+{
+  "gameNumber": 26,
+  "date": "2025-01-29",
+  "questions": [
+    {
+      "quote": "Jerry, are you blind? He's a writer. He said his name was Sal Bass. Bass, Jerry! Instead of salmon, he went with bass! He just substituted one fish for another!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see, they had to move the cars so the truck could get through, right? But these guys don't trust each other so they got these two nonpartisan drivers to move them.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Christie",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If only she could get fired. Is there any way that could happen? I mean I know how to get myself fired.",
+      "characters": [
+        "Helen",
+        "Carl",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell ya, I think birth control should be discussed in an open forum.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, I gotta tell ya...I been thinkin' about it, I just don't feel right about letting you into Elaine's apartment.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I can't believe it. Let me see that.  That's four and a half points in three days! That's almost half my money!",
+      "characters": [
+        "Morgan",
+        "Jerry",
+        "Elaine",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they were in from out of town, I thought they would enjoy it.",
+      "characters": [
+        "Newman",
+        "Jackie",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "It says very clearly, 'for your protection, do not give your secret code to anyone.'",
+      "characters": [
+        "Kramer",
+        "Joe",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Newman uses his mail truck to run fish for China Panda on the weekends.",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 425,
+  "date": "2026-03-04",
+  "questions": [
+    {
+      "quote": "Oh! Ping! Hi! Listen, thank you so much for dropping that lawsuit against me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I been, uh, thinking about the family. Tell me, uh, about Aunt Baby.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, why would you call someone up and ask them for two addresses if you're not invited to the party?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah I gotta get Testikov on tape. If this woman ends up in the \"New England Journal Of Medicine\" I'm not gonna pay for it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Marla"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So then, I got a call this morning. You know, I was, uh, chosen to go on the space shuttle. We're goin' to Mars.",
+      "characters": [
+        "Elaine",
+        "Anna",
+        "Doctor",
+        "Seth"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because if he catches us, we'll never be able to get soup again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He purposely mispronounced my name. Instead of saying, \"Costanza\" He'd say, \"Can't stand ja\". \"Can't stand ja\" ... He made me smell my own gym socks once.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aha. Aha. Could it be because you don't want him to know that you have a friend who pees in the shower, is that it?!",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Saleswoman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright. Can we go to a later show, so he's off his shift when I come by?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She talked me into one more day. Talk amongst yourselves, I'm gonna go to the bathroom.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

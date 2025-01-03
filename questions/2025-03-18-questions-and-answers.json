@@ -1,0 +1,106 @@
+{
+  "gameNumber": 74,
+  "date": "2025-03-18",
+  "questions": [
+    {
+      "quote": "\"You know.. You really shouldn't brush 24 hours before seeing the dentist.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I am never saying 'I love you' again unless they say it first.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it didn't quite work out, and now I've got nothing for them to do.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No Jerry, it is out of the question. You know what sex does to a friendship, it kills it.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, fine. I'll drive the 3 hours each way, 6 hours all together, and take 'em off myself!!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, it was overheating. You should take better care of that thing.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've been to a few of em. If you uh start to get woozy later, which is quite common, stay close to me. I'll get you through it.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have to make the flight, we're with a charter group. If we don't the trip is off.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I see you're still sticking with the denim.  Do you have that card that I gave you?",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't you see what's going on here? He set us up. He's playing all these mindgames.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 573,
+  "date": "2026-07-30",
+  "questions": [
+    {
+      "quote": "Train was so crowded. I had to sit in the seat facing the wrong way.",
+      "characters": [
+        "Mel",
+        "George",
+        "Kramer",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "I don't have a spare set. All my keys say 'do not duplicate'.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "People don't say \" God bless you \" as much as they used to. Have you noticed that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Y'know there are tribes in Indonesia where if you keep your coat on in somebody's house, the families go to war!",
+      "characters": [
+        "George",
+        "Nina",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't try to. You do it! Fifty-one percent of all turns are right turns. You know that? 'Try to.'",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Tony"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Well, it's the damnedest thing. The cat dies. So she comes back into town, she finds the cat lying on the carpet stiff as a board.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no no no, Cynthia's just a successful businesswoman who's taken me under her wing.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Dad, that other car cut us off! They had swastikas all over it... They were hurling racial epiphates at us... I could have been killed!",
+      "characters": [
+        "Roy",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good. 'Cause Dad can make some people a little uncomfortable.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "Kurt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't have \"a little grace.\" You either have grace, or you...don't.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Landis"
+      ],
+      "correctAnswer": "Landis"
+    }
+  ]
+}

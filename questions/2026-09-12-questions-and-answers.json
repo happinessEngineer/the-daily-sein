@@ -1,0 +1,106 @@
+{
+  "gameNumber": 617,
+  "date": "2026-09-12",
+  "questions": [
+    {
+      "quote": "Excuse me. I couldn't help overhearing. I notice you're eating a poppy seed muffin.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Kramer, Kramer's not here...I knew it. I knew it! I knew this would happen.  Kramer! Kramer!",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Man",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Get yourself some vitamin C with rose hips and bioflavenoids.",
+      "characters": [
+        "Conrad",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They put real blue berries in this. And there's real blue berries. What kind did you get?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, let's see, let's see. What else. What else. Oh yeah, what does she do?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Salesman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe philanthropy is not your field.  Hello. Oh, Hi, Ellen. Yeah, I called the hotel.. we're all set for the weekend.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "John",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley.",
+      "characters": [
+        "Jerry",
+        "Wyck",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, that's his problem, alright? Now you don't like it, too bad.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kate",
+        "Ron"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "Ah, see, Mister.. I didn't write that report. That, that's not mine.",
+      "characters": [
+        "Jerry",
+        "Dana",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't see any tissues back her..  Wait a minute!..  This isn't the way to the park!  Where are we going?.. I recognize this block!  You're taking me to the doctor!",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

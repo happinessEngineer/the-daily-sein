@@ -1,0 +1,106 @@
+{
+  "gameNumber": 21,
+  "date": "2025-01-24",
+  "questions": [
+    {
+      "quote": "You've got insurance. You tell them that the car was stolen, and then you get another one free.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nothing, I'm gonna finish watching The Other Side Of Darkness.",
+      "characters": [
+        "Kramer",
+        "Lamar",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got three kitchens going. I got brisket going at Newman's, I got kugel working at Mrs. Zamfino's, this is kreplach. Here, try some of this.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hi! I'm Pam. You must be Kramer.  Jerry's told me a lot about you.  Well, I'm supposed to meet Jerry, it's my day off. I work in a bookstore.",
+      "characters": [
+        "Pam",
+        "George",
+        "Jerry",
+        "Connie"
+      ],
+      "correctAnswer": "Pam"
+    },
+    {
+      "quote": "Yeah, so we thought if you had any of those big, y'know, old-fashioned useless records, y'know, just... lyin' around--",
+      "characters": [
+        "Lippman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...And it gets worse. The team working on the statue in Lafayette Square kind of over-smoothed it. They ground the head down to about the size of a softball, and that spells trouble.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Miss Wilkie, your tobacco company has turned this beautiful specimen, into a horrible twisted freak.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "No, I'm staying here for the weekend. I'm getting a break from my roommate.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Julie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on, we'll go and talk to him, and we'll straighten this thing out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I change I change. Two weeks ago I tried a soft boiled egg. Never liked it before. Now I'm dunkin a piece of toast in there and I'm loving it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

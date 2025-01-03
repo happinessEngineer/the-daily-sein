@@ -1,0 +1,106 @@
+{
+  "gameNumber": 528,
+  "date": "2026-06-15",
+  "questions": [
+    {
+      "quote": "I'm okay. I'm fine. I'm wonderful. I never felt better in my whole life.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I think of you as part of my family. You've come to be like a daughter to me and I want to make sure you're taken care of after I'm gone.",
+      "characters": [
+        "Pitt",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "I must've had at least eight in my mouth. I couldn't talk. I couldn't talk!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What a sale, huh? And how about that store, delivering it tonight? We're gonna be swimming in 'thank you's...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Cynthia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh hey, by the way. Do you want a box 'a, Cuban cigars? I smoked one last night. I got nauseous.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So chasing little kids huh? You're in a lot of trouble mister.",
+      "characters": [
+        "Bania",
+        "Deena",
+        "Kramer",
+        "Officer"
+      ],
+      "correctAnswer": "Officer"
+    },
+    {
+      "quote": "Oh, sure. Of course, you're entitled. Who doesn't want this, that, and the other?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry I don't have a square to spare, now if you don't mind",
+      "characters": [
+        "George",
+        "Bob",
+        "Frank",
+        "Jane"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "'Cause I'm on a special diet, and the doctor said I can't have any fat.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Maryedith",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So anyway, he sings, he dances. And do you know what he's gotten into now? He is cooking! He does a crepe...",
+      "characters": [
+        "George",
+        "Mickey",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    }
+  ]
+}

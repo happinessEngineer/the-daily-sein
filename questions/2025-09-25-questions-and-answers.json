@@ -1,0 +1,106 @@
+{
+  "gameNumber": 265,
+  "date": "2025-09-25",
+  "questions": [
+    {
+      "quote": "Reprogram all the buttons, see if he changes them back. You know? The old switcheroo.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright look, I'm gonna tell you, but I made a pact with Cynthia, we swore we were not going to tell you and Elaine.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I haven't been myself lately. I've been snapping at everybody.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, All right. Lets get down here. You really want to get out of this thing ?",
+      "characters": [
+        "Kramer",
+        "Nina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's no house! It's a lie! There's no solarium. There's no Prickly Pete. There's no other solarium.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Naomi",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Exactly!  You know how they get animals to reproduce in captivity? They just put them in the same cage.",
+      "characters": [
+        "Carol",
+        "George",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you think people are going to pay $80 a bottle to smell like dead fish and sea weed? That's why people take showers when the come home from the beach. It's an objectionable offensive odour.",
+      "characters": [
+        "Steve",
+        "Jerry",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "Oh, anyway, let me show you Memphis. I am taking you  out to dinner.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "All right, All right, all, right!! How you gonna find out who this is?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, again? Kramer, if you keep getting these attacks, you should see the doctor and have it checked out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

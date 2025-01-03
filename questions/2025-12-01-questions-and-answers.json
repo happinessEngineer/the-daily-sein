@@ -1,0 +1,106 @@
+{
+  "gameNumber": 332,
+  "date": "2025-12-01",
+  "questions": [
+    {
+      "quote": "I think I understand this. Jay Peterman is real. His biography is not. Now, you Kramer are real.",
+      "characters": [
+        "George",
+        "Jack",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...and then when I saw the photo I remembered where I'd seen him; the boom box incident.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Sally",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your friend and I are going to make a lot of money. Of course, I already have a lot of money. Poppie does very well...very well.",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Elaine",
+        "Melissa"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "This is George Costanza, I'm calling for my test results. Negative? Oh, my God. WHY! WHY! WHY? What? What? Negative is good? Oh, yes of course! How stupid of me. Thank you. Thank you very much.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "you better be careful on those rocks tomorrow buddy. And you're not getting any sandwiches either",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because the woman who got hit in the head with it found my name, called me up, and we met!",
+      "characters": [
+        "Father",
+        "Kramer",
+        "Gennice",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How about our little Elaine huh? Attended the finest finishing schools on the Eastern seaboard. Equestrian competitions. Debutante balls. Look at her now. Interviewing Mohels.",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you're going along, you think everything's all right and all of a sudden you get that tap. . You know it's like pfffff , all right that's enough, you're through.",
+      "characters": [
+        "Jack",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Dwayne, my friend and I would like to exchange frames. Could you put his lenses in my frames and mine in his?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was kind of, hehehe, short on material and I, um, I put them in the book anyway.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

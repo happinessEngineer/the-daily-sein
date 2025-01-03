@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1066,
+  "date": "2027-12-05",
+  "questions": [
+    {
+      "quote": "The show! Forget about the show! We should take the idea to a different network",
+      "characters": [
+        "Leslie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nothing, I got up, run some errands, I went down to Sara's office and apologized...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello, Oh hi Lois, you want to get together, what for? I don't know about that, I'll have to think about it. I'll let you know. Okay, bye.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just wanted to stop by -- see if you had any questions about tomorrow's operation.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Look, sweetheart, you know you've got it all. But let's face it...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I assumed she called to apologize, that's why she called me.",
+      "characters": [
+        "George",
+        "Rava",
+        "Marla",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, see, uh, when we met, I was over there and, uh, you were over here, so the image, uh, the image was reversed, like, uh, like in the mirror.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Jerry. You know who the grand marshal is of this thing? None other than Miss Chita Rivera.",
+      "characters": [
+        "Tawni",
+        "Kramer",
+        "Elaine",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, but I know I've seen cake just like that. Oh--Entenmann's. Yeah.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy, you're on quite a streak. Job promotion, plus you're back with Jake Jarmal.",
+      "characters": [
+        "Elaine",
+        "Ellen",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

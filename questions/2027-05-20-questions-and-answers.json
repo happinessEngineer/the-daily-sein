@@ -1,0 +1,106 @@
+{
+  "gameNumber": 867,
+  "date": "2027-05-20",
+  "questions": [
+    {
+      "quote": "You know I went out once with a nude model. Never let me see her naked. Hundreds of people see her naked every week, except me. Needless to say it was quite vexing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We couldn't carry on a conversation. I kept trying to picture her naked, she kept trying to not picture me naked.",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I couldn't help it! Elaine moved the mirror, I got discombobulated.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But I can't find any vacation clothes. They were in the attic.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, t's a joke.. a joke... a joke... you think this is funny?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can't break up with her now. Her life is shattered. You got her fired. You gotta be there for her.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Susan has the doll collection.. one of the dolls looks exactly like my mother.. she likes to sleep with it.",
+      "characters": [
+        "Debby",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah! He's too weird he'd fall or something. He'd ruin the whole ceremony.",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "Susan",
+        "Morty"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Well , we've discussed this, here's the feeling. You got a greeting starts with an H how's twenty bucks sound.",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "We went out for coffee last night and he offered me a ticket.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Enzo"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

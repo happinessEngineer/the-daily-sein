@@ -1,0 +1,106 @@
+{
+  "gameNumber": 63,
+  "date": "2025-03-07",
+  "questions": [
+    {
+      "quote": "The ending is the whole thing. Without the ending, it's nothing. You had *nothing*.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you're probably right. She's probably one of those neurotic clean freaks.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you. Now, I'd like to play something th -- well, actually, it's my latest so it's nice and fresh. It's called \" Hot And Heavy.\"",
+      "characters": [
+        "Kramer",
+        "John",
+        "George",
+        "Marcy"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "You know, uh, she has no female friends! You know that, don't cha? Something strange about a woman who's friends are all men.",
+      "characters": [
+        "George",
+        "Laura",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You need some professional advice. Why don't you go see Elaine's friend? She's a therapist.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I think so, and I can prove it. You see, I was doodling on the bill and uh, so if you have a twenty in there with big lips on it... well,  that's mine. Would you mind opening up the register?",
+      "characters": [
+        "Jerry",
+        "Cindy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Awfully sorry to make you come up here, but I really wasn't feeling well enough to go back to the office, and well, it's the only chance I have to meet with you this week.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Why did I think there was a Rubber Man? There's Elastic Man... Plastic Man...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morgan",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh look at that.  Look at what she's wearing. You see what she's wearing?",
+      "characters": [
+        "George",
+        "Owner",
+        "Elaine",
+        "Anna"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know!  But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.",
+      "characters": [
+        "Shelly",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

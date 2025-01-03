@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1069,
+  "date": "2027-12-08",
+  "questions": [
+    {
+      "quote": "I have to. But I'm gonna need to storyboard this whole thing. Where are my magic markers?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, well, his false teeth got mangled up in the garbage disposal--",
+      "characters": [
+        "Jack",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me, I'm sorry to bother you, I noticed that you have a textbook on tape. May I ask where you got that?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Shelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They run it all the time, and now I'm starting to get all these royalty checks.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, wow look, that one is gorgeous. I would just kill for that one.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "A joke. Do you have any idea how it feels like to save someone's life?",
+      "characters": [
+        "Brett",
+        "Sara",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Sara"
+    },
+    {
+      "quote": "I know. It's Mickey Mantle's number. So not only is it an all around beautiful name, it is also a living tribute.",
+      "characters": [
+        "Ade",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's probably why we're staying here, because you lost money on the stock.",
+      "characters": [
+        "Vanessa",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Vanessa"
+    },
+    {
+      "quote": "Uh... Excuse me. I couldn't help but notice you offered her a piece of your pie.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just stopped by to thank you. That risk management stuff you wrote for me? It's killer!",
+      "characters": [
+        "Receptionist",
+        "Susan",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    }
+  ]
+}

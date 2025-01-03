@@ -1,0 +1,106 @@
+{
+  "gameNumber": 235,
+  "date": "2025-08-26",
+  "questions": [
+    {
+      "quote": "Hmm, that's surprising. All right, what else? You got the cups in the front, two loops in the back. All right, a guess that's about it.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "We had a funny guy with us in Korea. Tailgunner. They blew his brains out all over the Pacific. There's nothing funny about that.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "Well, she's 10 times better than that awful Amber girl that you were with.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Great streak of luck I'm having.  First, Kramer almost beat me at Risk but I narrowly escaped, and then Tim Whatley gives me his Super Bowl ticket.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bania",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh yeah, she's a great laugher, Jerry.  Really, really great!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "O-kay ... well then your teeth are green for a different reason. You just gotta stop carrying these, okay? Just ... just mouth wash.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Maryedith"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, pardon me for trying to set you up with a beautiful, intelligent woman.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Are you kidding? He can do every move I've ever done! Do you know what a good mechanic is worth? You can't compare that to sex.",
+      "characters": [
+        "George",
+        "Poppie",
+        "Jerry",
+        "Connie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thank you very much, that's great- >click< Oh! Hold on a sec, I got a call on the other line. >click click< Hello?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "George",
+        "Kelly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Eight years have I had this car. Not a scratch on it! Eight years!",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

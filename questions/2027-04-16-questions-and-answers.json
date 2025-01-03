@@ -1,0 +1,106 @@
+{
+  "gameNumber": 833,
+  "date": "2027-04-16",
+  "questions": [
+    {
+      "quote": "Is there any work being done?  Is there any rubbing, touching, finger manipulation on the other person, and if so, who's making the request?",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jack",
+        "Farkus"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lot of good ones. I don't even want to mention anyone because I'm afraid I'm going to leave somebody out.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "From Elaine. She got tied up. She'll be here in thirty minutes.",
+      "characters": [
+        "Elaine",
+        "Alton",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "No, that's not enough BTUs for my living room...That was a complete waste of time.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was telling Carrie about our argument, and when I told them the name, they just loved it.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I didn't think I had to. Look with a piece of Tupperware you just assume.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I've been going with him for 12 years. I can't switch. I'd hurt his feelings.",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The carpet sweeper is the biggest scam perpetrated on the American public since One Hour Martinizing.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Good, as a matter of fact. I almost had my own show in Japan.",
+      "characters": [
+        "Jerry",
+        "Hoyt",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. She did some outdoor version of Hair in Danbury, Connecticut.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

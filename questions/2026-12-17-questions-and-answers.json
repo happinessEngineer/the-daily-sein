@@ -1,0 +1,106 @@
+{
+  "gameNumber": 713,
+  "date": "2026-12-17",
+  "questions": [
+    {
+      "quote": "Well, we gave him a few bucks, and... now he goes in the alley across the street.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't relax. I don't know what line! I don't know any of 'em!",
+      "characters": [
+        "Mike",
+        "Kramer",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "And then the game-winning field goal went over the net and into the crowd and I dove over three rows! My back, it's killing me!  It's killing me Jerry!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Gavin",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, the other thing is, if you don't like anything, he takes it right back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I cancelled. Hal sent a mattress to my apartment. The nerve of that guy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Can't you do anything about this? I mean this woman is a psycho!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. Hey, how come people don't have dip for dinner? Why is it only a snack, why can't it be a meal, you know? I don't understand stuff like that.",
+      "characters": [
+        "Ping",
+        "Helen",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Look, freedom with no clothes is a lot better than no freedom with clothes.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hold it. Broccoli? Newman, you wouldn't eat broccoli if it was deep fried in chocolate sauce.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "O.K. You take normal sips. Nothing wrong with that. Then what happened?",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    }
+  ]
+}

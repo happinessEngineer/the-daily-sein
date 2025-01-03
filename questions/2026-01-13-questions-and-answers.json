@@ -1,0 +1,106 @@
+{
+  "gameNumber": 375,
+  "date": "2026-01-13",
+  "questions": [
+    {
+      "quote": "I gust met Uma Therman. She's giving me her telephone number. Uma Jerry, Uma.",
+      "characters": [
+        "Kramer",
+        "Leo",
+        "Jerry",
+        "Eddie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Betsy",
+        "Pam"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, but don't you think there should be two beds?  There's two of us.",
+      "characters": [
+        "Chiles",
+        "Elaine",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't Frank me! I know what you did. How dare you stop short with my wife!",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yes, yes, you know I was in detention and she came up behind me while I was erasing the blackboard . . .",
+      "characters": [
+        "George",
+        "Mike",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I love full lips. Something you can really put the lipstick on.",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, we don't allow any outside syrups, jams or condiments in the restaurant.  And if I catch you in here with that again...I will confiscate it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Owner"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "All right. Let's go down to the yogurt store, and we'll get a specimen.",
+      "characters": [
+        "George",
+        "Marty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A cane. I knew it.  So, we meet at last. I admire your skills, Mr Peanut.",
+      "characters": [
+        "Ray",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

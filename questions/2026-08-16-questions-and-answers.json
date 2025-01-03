@@ -1,0 +1,106 @@
+{
+  "gameNumber": 590,
+  "date": "2026-08-16",
+  "questions": [
+    {
+      "quote": "I got engaged. I'm getting married. I asked Susan to marry me. We're getting married this Christmas.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That Gendason, what a jerk. I'm never playing golf with him again.",
+      "characters": [
+        "Elaine",
+        "Fred",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Blonde hair, remember? Glasses?  Have you totally blocked out the entire time we were a couple?",
+      "characters": [
+        "Billy",
+        "Bookman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The table, the stereo, the VCR, the velvet couch, where's the velvet?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Hey, eh, there's a spot right in front of the liquor store. You see",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think I can sum up the show for you with one word: NOTHING.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, listen, this is important. Tell him to meet me at the TV studio with a picture of his mother and that doll that looks like her.",
+      "characters": [
+        "Vivian",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": ". All right , just give me my car and let me get the hell out of here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jackie",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'll tell you, she would have to be really vibrant. So vibrant, she'd be spinning.",
+      "characters": [
+        "Jerry",
+        "Ron",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why did I buy it, because in the mirror, at Barney's, I looked fabulous. This woman was just walking by said I looked like Demi  Moore in Indecent Proposal.",
+      "characters": [
+        "Ellen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

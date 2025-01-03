@@ -1,0 +1,106 @@
+{
+  "gameNumber": 955,
+  "date": "2027-08-16",
+  "questions": [
+    {
+      "quote": "Morty, doesn't that watch look like the one that we gave Jerry.",
+      "characters": [
+        "Driver",
+        "Newman",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft.",
+      "characters": [
+        "Manny",
+        "Rudy",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It can't be the nudity. I never got into these terrible fights and misunderstandings when I was changing before gym class.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I used to share that same outlook. But now, I have so many things to occupy my mind. For instance, the atom.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That book has been on a wild ride. George took it into the bathroom with him and-",
+      "characters": [
+        "Jerry",
+        "Tony",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What for? This man was nice enough to see you. He did me a personal favor.",
+      "characters": [
+        "Leo",
+        "Kramer",
+        "Helen",
+        "Morty"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "That is a Schwinn Stingray! And it's the girl's model! Oh, I always wanted one of these when I was little.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Steve",
+        "Carl"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's the Commando 450, I don't sell that one. What about thi-",
+      "characters": [
+        "Salesman",
+        "Jerry",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "I don't know. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds of celery, chopped parsley...\"",
+      "characters": [
+        "Rick",
+        "Brett",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, Newman. What do I have to do to get you to stop pulling the strings for Kramer?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

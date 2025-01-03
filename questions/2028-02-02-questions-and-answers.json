@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1125,
+  "date": "2028-02-02",
+  "questions": [
+    {
+      "quote": "Not much!  I, uh, would have invited you up, but I don't have any furniture.",
+      "characters": [
+        "Newman",
+        "Carl",
+        "Kramer",
+        "Man"
+      ],
+      "correctAnswer": "Carl"
+    },
+    {
+      "quote": "\"You're a terrible liar George. Look at you, you're a wreck!. you're sweating bullets.\"",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Frank",
+        "Newman"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Oh, Okay... well thanks a lot... sorry again about you and the Drake...",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I'm thinking of joining. Pat Cooper said he would put me up for membership.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Steve",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh--George, uh--uh--it's five o'clock in the morning, what's the matter with you..",
+      "characters": [
+        "Elaine",
+        "Duncan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, I don't like people talking about my shoes behind my back, okay? My shoes are my business. The two of you shouldn't have been looking at some fifteen year-old's cleavage anyway!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it's the style.  Jerry give me the keys.  Well, I guess we're gonna go for a drive now. She really loves that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Salesman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's not doing well, the doctors don't know what it is. They're baffled.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "Milos"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's funny!  and it wouldn't kill you to not be so funny either.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry! I need you to get another picture of man-hands. I'm beggin' you!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

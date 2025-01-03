@@ -1,0 +1,106 @@
+{
+  "gameNumber": 339,
+  "date": "2025-12-08",
+  "questions": [
+    {
+      "quote": "H... G... F.  Seat four.  One, two, three... f-- Hello Newman.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's like when tenant dies in a rent controlled building - you gotta take immediate action.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey you know a friend of mine from work said that she saw George at the tennis match on TV yesterday.",
+      "characters": [
+        "Elaine",
+        "Lloyd",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, hang onto that thought - I'm rinsing a sweater, I left the water running.  Hey, Jerry, can you get me a towel out of my bedroom closet?",
+      "characters": [
+        "George",
+        "Leo",
+        "Elaine",
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "I mean they found a tee and he played golf that day. Nobody walks into a dry cleaner's with a tee. The circumstantial evidence is overwhelming.",
+      "characters": [
+        "Margaret",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "25 kids for his birthday party?  Don't put your tongue on the floor! He's putting his tongue on the floor! Here, here, have some more sugar packets.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah. These are fantastic, fantastic.  You know, I'd love to get a jump on the next batch, where do you come out?   She's been ignoring this section all night. Quesadilla?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Marcy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Frolf, frisbee golf Jerry. Golf with a frisbee. This is gonna be my time. Time to taste the fruits and let the juices drip down my chin. I proclaim this: The Summer of George!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": ". He's good. He's *very* good. He worked on this kid from Guatemala with no nose. Turned him into Ricardo Montalban.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Guard",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just wanted to drop off this Chinese balm for your burns. It's supposed to be great stuff. It's all herbal.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    }
+  ]
+}

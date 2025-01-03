@@ -1,0 +1,106 @@
+{
+  "gameNumber": 250,
+  "date": "2025-09-10",
+  "questions": [
+    {
+      "quote": "Because, if you ever see her and it comes up, we have to be in sync. Hmm?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I ruined this autographed picture of him that belonged to the Maestro. You think I can go and get his autograph?",
+      "characters": [
+        "Elaine",
+        "Father",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's nothing I can even impart to you, that's the sad thing. It's so inborn, I can't pass it on.  Look at this guy. Are you crazy, what are you doing?! Hey! Hey, you're stealing my space!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, tootle loo. And nice seeing you again Margaret, goodbye Jerry. Have fun. Hehe",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Driver"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Anything, everything, something, nothing - Who the hell cares? Put me down. I'm down!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lean your head back. Open your mouth!  Open your mouth! Open it! Open it!",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Marcy",
+        "Maura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The nickname. George. What is that? It's nothing. It's got no snap, no zip. I need a nickname that makes people light up.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Keith"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay. So, I'm dating Art Vandelay. What is the problem we're discussing?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, I'm really sorry but I'm just on my way out to meet a friend.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ressurected! And look what I pried off of his bumper, a Jesus fish!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 825,
+  "date": "2027-04-08",
+  "questions": [
+    {
+      "quote": "What is this. It's like you're selling movie tickets back here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey pal, you're not getting that space. I mean, I'll sleep in my car if I have to.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Father",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Yeah, who got the final Death Blow, 'cause I thought that Hawaiian guy, he had it comin' to him!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Dan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Just checking it out. Look at how this thing is made. Can I tell you something? That's a hell of a piece of equipment.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, oh, O.K.  You can turn down the air conditioning if you want.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jack is emceeing tomorrow. He's in charge of the whole thing.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Susan",
+        "Doctor"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh God, you're that girl in the coffee shop that was eavesdropping on us. I *knew* you looked familiar!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me see this. [gasps] You know what this is? This is a recipe for soup, and look at this. There are like thirty different recipes. These are his recipes!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, what kind of stuff are you listening to? You *embarrassed* me at that store.",
+      "characters": [
+        "Russell",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I sure did. Raincoats were my business. The Executive was a classic, these haven't been made in twenty years.",
+      "characters": [
+        "Margaret",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

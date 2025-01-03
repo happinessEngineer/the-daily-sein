@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1011,
+  "date": "2027-10-11",
+  "questions": [
+    {
+      "quote": "The little extra moan you threw in there. Laying it on a bit thick, don't you think?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talking about, that's seventy-five bucks! I'm not working, I can't afford that.",
+      "characters": [
+        "Holly",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's my day off, but I take care of you anyway because you're my favorite customer. You've been with me for so long. You're so loyal.",
+      "characters": [
+        "Enzo",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "uh.. mañana? huh mañana might.. huh mañana might be a problem, I'm supposed to have huh a boil lanced mañana. Huh you know I think they charge me if I cancel with only one mañana's notice",
+      "characters": [
+        "Salesman",
+        "Alton",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, he's almost fully recovered. He told me he was just using me for sex.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Pam",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I guess you're right. It's just walking around putting it into boxes..",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "A-and don't settle for 145, you can do better, you're a genius. Heheheh",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Gary"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis here at PBS. Our lines are open, so please call the number you see on your screen.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All the comedians were happy. He was one of these club owners nobodu liked anyway. But Richie was never the same.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Anna",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I kinda like this opera crowd, I feel tough... Anybody else got a problem?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

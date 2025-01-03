@@ -1,0 +1,106 @@
+{
+  "gameNumber": 422,
+  "date": "2026-03-01",
+  "questions": [
+    {
+      "quote": "I'm baby-sitting! Vivian asked me to raise him if she doesn't make it.",
+      "characters": [
+        "Milos",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm afraid the problem with Zach is more serious. He's back on the horse, Elaine. Smack. White palace. The Chinaman's nightcap.",
+      "characters": [
+        "Steinbrenner",
+        "Herb",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "You gotta give us odds. At least two to one - you gotta put up two-hundred dollars.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you? Satan? I'm close to a job here. It's my second interview with them.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You wanna sell computers? I will show *you* how to sell computers! Hello, Mr. Farneman. You wanna buy a computer? No? Why not? All right, I see! Good answer! Thank you!  Serenity now!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, do you realize that Rava has asked me to edit her book?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Nurse",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Could we get a little more?  Aghh... You know ever since this new owner took over, the service here is *really* slow.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why was he in charge of closing the door?  'Cause you came in after him!",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gonorrhea? Excuse me, I think there's been a mistake, see, I had gonorrhea last week.",
+      "characters": [
+        "Morty",
+        "Sid",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These are not \"scraps.\" These are historic remains of a once Great Society of Hair.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

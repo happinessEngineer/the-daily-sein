@@ -1,0 +1,106 @@
+{
+  "gameNumber": 783,
+  "date": "2027-02-25",
+  "questions": [
+    {
+      "quote": "oh.. uh.. you know your breath is a little garlicky you better take some gum.",
+      "characters": [
+        "Ethan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a second. Wait a second. You're right. I had both of them.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Four hours in this chop and I'm a full inch taller. . . . Giddyup.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Phil"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But if you wait, they won't let you back in! Visiting hours are almost over!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I couldn't help it. We hadn't been alone together in a long time and we just kinda started up a little during the coming attractions and the next thing we knew, the war was over.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me, um, did you see a piece of paper on the nightstand here earlier today crumpled up like a napkin?",
+      "characters": [
+        "Captain",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thank you, Sid, but that's all in the past. I'm ready to move on.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "There's a woman over there that looks really familiar. Dark hair, striped shirt?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, I'll see you after school. I.m late for Hayman's hygiene.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Chapter one. In order to manage risk we must first understand risk. How do you spot risk? How do you avoid risk and what makes it so risky?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Voice",
+        "Kramer"
+      ],
+      "correctAnswer": "Voice"
+    }
+  ]
+}

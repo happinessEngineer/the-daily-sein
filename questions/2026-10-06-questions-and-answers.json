@@ -1,0 +1,106 @@
+{
+  "gameNumber": 641,
+  "date": "2026-10-06",
+  "questions": [
+    {
+      "quote": "Hey! Kramer come on in. You've got to watch this, now she's got nothing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, set it up. You know what, we could have dinner at the Friars Club.",
+      "characters": [
+        "George",
+        "Stu",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, let me. Heh. Let me just eh.. check an', make sure I have the right man--ha! Heh, heh, heh! Seems--oh! I, oh!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Silvio"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello. Oh! Hi George.......What! ..really! All right I'll call Elaine , we'll meet you down there.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uromycitisis! I wonder if they're having any trouble controlling themselves during this trial? Perhaps these two hooligans would like to have a pee party right here in the courtroom!",
+      "characters": [
+        "Diane",
+        "Hoyt",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Well Susan isn't going and Elaine just left me a message her friend isn't going either.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't want hope. Hope is killing me. My dream is to become hopeless. When you're hopeless, you don't care, and when you don't care, that indifference makes you attractive.",
+      "characters": [
+        "George",
+        "Sidra",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. No. Listen, George, I am quite certain I'm walking out of there with a bowl of soup.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Ben"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, he wants me to run the catalog! It's crazy! I can't be in charge!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No you can't.  Now let's cut the ball, sister! You think I don't know about you swapping spit with somebody yesterday on Columbus Avenue?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

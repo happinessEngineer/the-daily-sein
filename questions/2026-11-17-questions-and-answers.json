@@ -1,0 +1,106 @@
+{
+  "gameNumber": 683,
+  "date": "2026-11-17",
+  "questions": [
+    {
+      "quote": "Well, why don't *you* go, and I could save the seats. You said you didn't like saving anyway.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because this world is your sanctuary and if that world comes into contact with --",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe I missed Kramer. You know he asked me to go with him to California.",
+      "characters": [
+        "Sandi",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are we supposed to do? What do you do on a situation like this? Should we call a lawyer, should we call the police?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nobody hit anything off. She just gave me the box.  What the hell are you doing?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Kevin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, right, let's go. Jerry, let's go, it's time to eat. We're going to dinner.",
+      "characters": [
+        "Helen",
+        "Katya",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Oh yes, of course. TV Guide, magazines, everything. You know, I would have picked up your mail, your box is right next to mine.",
+      "characters": [
+        "Babu",
+        "George",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Make way! I've got-I've got a runner here! Get outta the way! Make way! Make way! Make way, it's a contender!",
+      "characters": [
+        "Rita",
+        "Vivian",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the one. A big Hollywood so-and-so optioned it for a movie.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"....Maybe you were still under the gas.Maybe you were hallucinating you're coming out of the gas but you were still under the gas.\"",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "George",
+        "Jane"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1041,
+  "date": "2027-11-10",
+  "questions": [
+    {
+      "quote": "George, if you're going to be in a creative field, you're going to have to learn how to deal with criticism.",
+      "characters": [
+        "Dana",
+        "George",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "yeah without a doubt, I'm down  oh hey how're you doing? Jane this is my neighbor Kramer",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Pitt",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, no, see, my friend already bought me a ticket. I'm late, and she's inside.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...then, when I was seventeen, I ran away from home and hopped a steamship to Sweden.  This steak is excellent, by the way.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Evelyn"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look it's no secret what's going on between us.  She doesn't like me. Now Jerry if you don't mind.",
+      "characters": [
+        "Jerry",
+        "Todd",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why wouldn't they like us?  Again with the pepper? What do you gotta use all the pepper for?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Ray",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Wouldn't you like to pass the ketchup to someone like me? Please?",
+      "characters": [
+        "Jerry",
+        "Alton",
+        "Elaine",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, dammit, you know I just remembered I gotta go, I left something on, the gas, the lights, the water in the tub. Something is on somewhere so I?m just gonna get the uh..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Deena"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, gosh, I wanted to thank you so much for convincing Ping to drop the case.",
+      "characters": [
+        "Elaine",
+        "Patty",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well,  what part of your life  do you want to start with? Foreign intrigue? Exotic romances?",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

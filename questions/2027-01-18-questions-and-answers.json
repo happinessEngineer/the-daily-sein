@@ -1,0 +1,106 @@
+{
+  "gameNumber": 745,
+  "date": "2027-01-18",
+  "questions": [
+    {
+      "quote": "...Well, obviously... You know...  Ap..ap, Chu... Why would you think I was having an affair with George?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ping",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyone can get into podiatry school. George got into podiatry school.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Babu",
+        "David"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh yeah. A wise man once taught me the Healing power of the body's natural pressure points.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Rudy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, and I prefer \"Conrad\". So I heard what happened to the desk.",
+      "characters": [
+        "Kramer",
+        "Donald",
+        "Conrad",
+        "Newman"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Oh, I need some water. Ice it up nice and hard ... and when you throw it - Pop! Oh look,  there's my friend, FDR. I'm gonna nail him in the back of the head. It's gonna be great!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right lets go. We'll meet you back down here in ten minutes, hopefully with the money.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But it--eh.. It was here, I'm tellin' you, an' w--w--it was really here! The, there was, a, bar, and a, an' a dance floor..",
+      "characters": [
+        "George",
+        "Poppie",
+        "Kramer",
+        "Ken"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I think he could've asked me. Supposed to be a friend of mine.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?",
+      "characters": [
+        "Emily",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "- Nnnhhahahahahahahahahahahahahaha . Oh, you know what? I think Naked Gun is on. Oh I've seen it. I laughed through that whole thing. You wanna watch?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Naomi",
+        "Kramer"
+      ],
+      "correctAnswer": "Naomi"
+    }
+  ]
+}

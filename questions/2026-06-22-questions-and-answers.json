@@ -1,0 +1,106 @@
+{
+  "gameNumber": 535,
+  "date": "2026-06-22",
+  "questions": [
+    {
+      "quote": "Hello, oh hi Duncan, 4:00 o'clock tomorrow? That is not going to work. . . . Why? I'll tell you why. Because I chose not to run!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it's not aluminum siding, it's volunteer work. All the money goes to the station.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Eh, what's the difference. It takes 10 minutes. Jerry, today I'm going to do something special for you.",
+      "characters": [
+        "George",
+        "Enzo",
+        "Noel",
+        "Elaine"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "See, she was clever. You know she put her picture on a card. I should do that. I never do anything like that.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Deeply in love. If you can't say anything bad about a relationship, you shouldn't say anything at all.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ramon",
+        "Clerk"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, in a second, in a second.  What do you mean you can't tell me?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I know the guy. I take my stuff in there all the time. Yeah, I bet I can get your watch back by tomorrow morning.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, whattya got here, y'know, you got \"Don Ho: Live At Honolulu\", you got \"Jerry Vale Sings Italian Love Songs\" you got Sergio Mendes, now come on...",
+      "characters": [
+        "Ron",
+        "Susan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "All right, so what're you saying? That we're wrong? Oh, everybody's wrong but you!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Loretta"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's the new area code. They've run out of 242s, so all the new numbers are 646.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

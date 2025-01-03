@@ -1,0 +1,106 @@
+{
+  "gameNumber": 421,
+  "date": "2026-02-28",
+  "questions": [
+    {
+      "quote": "Kramer, I need those cufflinks, but now they're in the box, and the key is in the bird... What are we gonna do?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What d'you mean it doesn't work? You get enough bottles together...",
+      "characters": [
+        "Kramer",
+        "Brett",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh no, no,. no. I had to fish around in the evidence room for it. You know, they're all preoccupied, trying to hunt down this new psycho-serial killer, the Lopper. All right, I'll see ya.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Man, Ughhhh, wwwheh.… I just came from Roy's. I threw up from the gas.",
+      "characters": [
+        "Kramer",
+        "Leo",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello Margery, George Costanza. How are you sweet heart? Listen, can you give Mr. Thomassoulo a message for me? …Yes. If he needs me, tell him  I'M IN MY OFFICE! Thanks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.  Sit down there.  Hello, Jerry.  I believe you know Nina.",
+      "characters": [
+        "Dan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We just got the Citibank account. In fact today was our first big meeting with them.",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "George",
+        "Seth"
+      ],
+      "correctAnswer": "Seth"
+    },
+    {
+      "quote": "Anyway, I think the guy in the shower opposite saw me. He gave me a dirty look.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah I did. He was very talented. He was, ah just, I don't know a little too...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You've selected ... Agent Zero? If that's correct, press one.",
+      "characters": [
+        "Kramer",
+        "Cynthia",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

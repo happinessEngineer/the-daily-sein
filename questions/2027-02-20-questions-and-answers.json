@@ -1,0 +1,106 @@
+{
+  "gameNumber": 778,
+  "date": "2027-02-20",
+  "questions": [
+    {
+      "quote": "Hmm. Looks like a minor concussion. Let me see what I can do to relieve the swelling.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "he's not a mimbo, he's an exciting, charismatic man he just happened to have a perfect face",
+      "characters": [
+        "Clerk",
+        "Harold",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no. I'm not happy, I'm not lucky, and I don't go. If anything I'm sad stop unlucky.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Then who the hell said you couldn't have any? I mean what the hell do I care whether you have sponge cake?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Because men think if women are grabbing and clawing at each other there's a chance they might somehow kiss.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now look here, see it's right here: Gloria Vanderbilt Collection.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no Elaine, stay. Lubeck here is the world's foremost appraiser of vintage pastry.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I don't know. I couldn't see. I couldn't look down because of my neck.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's like I didn't even know him. He's like a totally different person.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe you should call the airline, they might know where he is.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Rudy"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

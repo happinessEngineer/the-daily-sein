@@ -1,0 +1,106 @@
+{
+  "gameNumber": 320,
+  "date": "2025-11-19",
+  "questions": [
+    {
+      "quote": "Oh, thank you!  Mmm, Oh, thank you, Mr Lippman, I can't tell you how much I appreciate this. I mean, of course I deserve it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait `til I get my hands on that George. I am gonna *pull* that big hood over his little head... tie the strings, and suffocate. You remember that Panama hat? That was nothing.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's the big deal if we don't make it? I'll just go tomarrow or the next day.",
+      "characters": [
+        "Ed",
+        "Salesman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Could you ask her, just ask her. If she says no, case closed.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You smothered! He couldn't get any air! He couldn't breathe! He was suffocating!",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Jill, hi, it's Elaine. Well, I'm calling from my home. Indoors. Well, I was just calling to see how your fa.. I'm sorry, I'm getting another call. Hang on just a second. Hello?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Landlord",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She'd driven me a hundred and twenty miles and, all of a sudden, three blocks from my door, she decides this trip is over. Isn't that strange?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You remember that photo of me and Gerald Ford and I took it in. Got that Ford right out of there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think if one's going to kill oneself, the least you could do is leave a note. It's common courtesy. I don't know. That's just the way I was brought up.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I see. So you can go, \"Hey, you know who I saw wilding today? Herb!\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Eva",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

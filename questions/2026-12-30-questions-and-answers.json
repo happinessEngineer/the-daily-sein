@@ -1,0 +1,106 @@
+{
+  "gameNumber": 726,
+  "date": "2026-12-30",
+  "questions": [
+    {
+      "quote": "Alright, let me take down your number.  Is that Jerry Seinfeld?",
+      "characters": [
+        "Tim",
+        "Bruce",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "But the thing you don't realize is that there's good naked and bad naked. Naked hair brushing, good; naked crouching, bad. Hey, there's Hanke.",
+      "characters": [
+        "Stan",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aah, yeah, yeah. Won't you head on in, we'll be in in a second. Be right with you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm a friend. Who do you think told him to pour the Gatorade over Marty Benson's head?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I feel that it would be best that you didn't talk to Noreen for a while...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I know Jerry will tell you that The Wrath of Khan is the better picture, but for me, I always...",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well maybe in hardball with all the signals and everything but I'm just lobbing it in. We don't have any conferences. He doesn't come out to the mound and encourage me.",
+      "characters": [
+        "David",
+        "Tim",
+        "Christie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you see that? The guy's walking away. What is wrong with you? That was a three hundred dollar profit.",
+      "characters": [
+        "Abby",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If you guys wouldn't mind, I would like to ward off dementia.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no, no, no-no--I don't want any pay. I'm doin' this just for me.",
+      "characters": [
+        "George",
+        "Fdr",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

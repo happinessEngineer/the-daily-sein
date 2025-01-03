@@ -1,0 +1,106 @@
+{
+  "gameNumber": 649,
+  "date": "2026-10-14",
+  "questions": [
+    {
+      "quote": "Well, I got this new poster. 3-D art? Computers generate 'em.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you really want to know what happened? I'll tell you what Happened. She wasn't my type.",
+      "characters": [
+        "Gina",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh fine, I don't like to be around people who are just so irresponsible.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Lisi, Lisi. Let me in! We can work this out. I was wrong, you were right. I'll do anything!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Melissa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The only thing that bothers me is that I'm just coming up with this now.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. Out of the question. I don't want any women ushers at my wedding and while we're on the subject, Kramer is not an usher either.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "If only you could put your mind to something worthwhile. You're like Lex Luthor.",
+      "characters": [
+        "Babu",
+        "Elaine",
+        "Steven",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No depravity! I mean, I look at her, I can't imagine she even has sex.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me tell you something Babu. You go back in that kitchen -- tell your chef I want the works.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's lying. They're in the trunk  Now you get to sign another one.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

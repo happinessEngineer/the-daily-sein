@@ -1,0 +1,106 @@
+{
+  "gameNumber": 125,
+  "date": "2025-05-08",
+  "questions": [
+    {
+      "quote": "You know uh, Valerie, I uh, couldn't help but notice that I'm on your speed-dial.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What're you talking about?! She's very concerned! She said she was gonna get it back.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes I am, a guy on my mail route just got a couple of tickets and he offered one to me.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, you better go down there and tell this guy. He's very excited.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lloyd",
+        "Holly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not so fast, Elaine! Only the bike's true owner would rather give it away than see it come to harm. Kramer, the bike is yours!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Secretary",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "This is fantastic. Man, what a weekend. Swimming, lobster for dinner...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr. Thomassoulo during times of great stress, people are capable of super human strength. Have you ever seen the Incredible Hulk, sir?",
+      "characters": [
+        "Kramer",
+        "Rudy",
+        "George",
+        "Landlord"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And, um, it was quite good. In fact, you even incorporated me into the show. I'm not actually a performer. Although, my parents felt I had talent..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Driver",
+        "Kevin"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I forgot to tell you! I got tickets to the Rangers-Devils playoff game tonight!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't sell yourself short saying 'God bless you' to every Tom, Dick and Harry in great personal risk.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

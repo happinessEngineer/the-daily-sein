@@ -1,0 +1,106 @@
+{
+  "gameNumber": 959,
+  "date": "2027-08-20",
+  "questions": [
+    {
+      "quote": "Elaine, see this T-shirt, six years I've had this T-shirt. It's my best one, I call him… Golden Boy.",
+      "characters": [
+        "Kramer",
+        "Testikov",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Still killing me from having to get that bike off the wall.  By myself.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. I'm getting rid of all, all my furniture. All of it! I'm building... levels... with steps... completely carpeted...  with pillows.  Like Ancient Egypt.",
+      "characters": [
+        "Kramer",
+        "Tom",
+        "Jerry",
+        "Gary"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "Hey, hey, hey, hey. You know what would make a great coffee table book? A coffee table book about coffee tables! Get it?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Pre-prediction. You'll be calling me to ask if you can come and visit him before the month is out.",
+      "characters": [
+        "George",
+        "Gavin",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "He, uh, had to go to LA. There's a problem on the set of Blossom.",
+      "characters": [
+        "George",
+        "Carol",
+        "Rita",
+        "Elaine"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "How do people fast? Did Ghandi get this crazy? I'm gonna walk around, see what dishes look good.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, no pop-in, no \"in the neighborhood,\" no \"I saw your light was on.\" And the best part is, if things go really well...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anaheim Hotel.  You may want to reconsider. I believe they only have room service until 10 P.M. and then it's only finger foods.",
+      "characters": [
+        "Ade",
+        "Sharon",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "I get the feeling when lesbians are looking at me, they're thinking: \"That's why I'm not heterosexual\".",
+      "characters": [
+        "Kramer",
+        "Chiles",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

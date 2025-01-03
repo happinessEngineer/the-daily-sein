@@ -1,0 +1,106 @@
+{
+  "gameNumber": 290,
+  "date": "2025-10-20",
+  "questions": [
+    {
+      "quote": "I had the directions on the seat right next to me, they flew out the window.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you think? The brought it over in pieces and screwed it together like a coffee table?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, twenty-five percent bran flakes. The forty percent was too much so I found a store to mix it up special for me, they take it down another fifteen percent.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You didn't realize? How could you not realize? You're stupid! You're a stupid, stupid man!",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "You know it's interesting, because I called the hospital and they said you were released on Monday.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I should have quitted at double or nothin'. Travelers checks acceptable?",
+      "characters": [
+        "Earl",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Hey, can I use your place? I got a bunch of friends coming over this weekend.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well it's been quite a night I could sure use a cup of coffee.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They wanna have another meeting? They wanna buy it?! They wanna but it?! Oh! I tell you! We're gonna be rich!! What are we gonna get for this? Fifty, sixty thousand?",
+      "characters": [
+        "George",
+        "Doorman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why shouldn't we be able to do that once in a while if we want to?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

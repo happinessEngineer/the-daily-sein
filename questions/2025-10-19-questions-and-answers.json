@@ -1,0 +1,106 @@
+{
+  "gameNumber": 289,
+  "date": "2025-10-19",
+  "questions": [
+    {
+      "quote": "You know what my feelings are about this. I don't even pay taxes.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, l'll just keep swimming. Hey, hey. I'm not done. I know what you're up to Ramon. Because I'm a member here, this is my place to swim.",
+      "characters": [
+        "Pitt",
+        "Elaine",
+        "Stan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm having a planned C-section. My therapist told me if I go through labor, I might get psychotic.",
+      "characters": [
+        "Leslie",
+        "Morty",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "A beautiful woman like you should. You're quite breathtaking.",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Oh you better believe it buddy. Hey George, we could double sometime.",
+      "characters": [
+        "Kramer",
+        "Gino",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, you're right. That's a lot of pupkitz. Hey Frank, you know anybody who can help me cook?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I do that too. I feel guilty about getting the pleasure. I feel like I don't deserve it so I talk. It stops me from enjoying it. There's nothing to eat in here.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mister Kramer, you heard the testimony so far. Would you please tell the court in your own words what happened on the afternoon of September 10th?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Nina"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I am not a restaurateur by any means, but it occurred to me that perhaps you might serve some dishes from your native Pakistan? As opposed to say t-the franks and beans for example.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just talked to Becky Gelke outside, she told me how you hit and ran.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

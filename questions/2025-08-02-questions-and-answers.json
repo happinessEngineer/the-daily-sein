@@ -1,0 +1,106 @@
+{
+  "gameNumber": 211,
+  "date": "2025-08-02",
+  "questions": [
+    {
+      "quote": "I can't believe you're really going out with a woman named Lois.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We'll start out with one, and they when it catches on, we're gonna have a whole fleet!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jackie",
+        "Driver"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, why would the guy make up something like that? Of all the names he could pick, why settle on Jon Voight?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it's a lovely song.  \"How do you solve a problem like Maria?...\"",
+      "characters": [
+        "Kramer",
+        "Worker",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's even more amazing is his formal training is in pediatrics.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nevermind. Disgraceful. Leaves you sitting there on the kitchen floor like some kind of roach trap. Wham, bam, thank you ma'am. Sir, whatever. She's not going to get away with this.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's he doing? Is he out of his mind? Do you see him? I don't even think I see him anymore. Where is he?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, you idiot! Just calm down! I know Jerry, he's not a nazi.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you wanna talk about hotels, or do you wanna win some ball games?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hoh, that Milos.  Well uh, what shall we do, uhm, care for a cup of coffee?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

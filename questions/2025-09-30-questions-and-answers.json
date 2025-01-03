@@ -1,0 +1,106 @@
+{
+  "gameNumber": 270,
+  "date": "2025-09-30",
+  "questions": [
+    {
+      "quote": "Okay, so we're going to get the wine and we'll pick you up here in ten minutes.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I will. Besides, she's got a boyfriend, Jerry, you know him. Dan. Remember, we went to that party at his house?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Elaine? Put me down for some of that art. 1,900 dollars worth.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Should I get it? I hate these moments. I'm hearing the dual voices now, you know, \"What about the money?\" \"What's money?\"",
+      "characters": [
+        "Elaine",
+        "Seth",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, yeah. I found it on the street. It's gotta be worth something.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sandi",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my God, it's 7:01. What have I done? My whole plan is depending on Kramer? Have I learned nothing? How could I make such a stupid mistake? He'll never show up!",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Phil"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I happened to be eating at Poppie's when I told him the \"old\" idea, and his eyes - waaaaaah! - just lit up. You know, he wants to back it.",
+      "characters": [
+        "George",
+        "Cindy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah.  You know, it's a... it's a funny thing about that bird dying. I hid the key in Fredo's food dish. Whoo! That's a weeeird coincidence.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Jerry. I don't know how you could do this. I'm so nervous for you.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "THIS is your daughter? My God! My God! I I hope you don't mind my saying. She is breathtaking.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

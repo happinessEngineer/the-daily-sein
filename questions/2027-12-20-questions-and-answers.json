@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1081,
+  "date": "2027-12-20",
+  "questions": [
+    {
+      "quote": "Me? No, no, I don't, I don't. Doing very well, very well, yep.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Gino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes. With a little guidance, Steven Koren is going to be everything I claim to be, only for real. That's my dream, Jerry.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kevin",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "…Then, the last person to leave is Wilhelm.  He sees my car, he figures I'm burning the midnight oil.  Between the two of them, they think I'm working an 18 hour day!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, indeed.  The calendar says winter, but he gods of spring are out.",
+      "characters": [
+        "Kramer",
+        "Craig",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes they did. I was covering. Elaine has been deported back to Scotland.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, they're all the same. Here. [gives him Dust Buster] Now if you'll excuse us, ..",
+      "characters": [
+        "George",
+        "Vivian",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A woman with a sexy voice like yours its hard to believe your waking up alone.",
+      "characters": [
+        "Bonnie",
+        "George",
+        "Jerry",
+        "James"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Yeah, uh, Ok, uh, tomorrow uh, where da ya - where do you live, uh, up town? Upper west side?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Danielle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you were in the mafia, would you tell her every time you killed someone?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm gonna go to the cigar stores. I'm gonna see if I can sell that Indian.",
+      "characters": [
+        "Cop",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

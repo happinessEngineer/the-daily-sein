@@ -1,0 +1,106 @@
+{
+  "gameNumber": 364,
+  "date": "2026-01-02",
+  "questions": [
+    {
+      "quote": "Well, the man's an individualist – he worked for Harry Flemming. He knows what he's doing.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The doc called and said the lab's backed up and now I'm not gonna get the results for another two days.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Did that cigarette warning label mention anything about damage to your appearance?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Uh, hi. Uhm, remember me? I..I'm the guy who looks like Neil?",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The shirt you got on under your sweather. It sits for three weeks in your drawer, waiting to come out. and when it finally does . It sticks up only half an inch out of your collar.",
+      "characters": [
+        "Jeannie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "No, had no face, no personality. It was like a martian. But hey, you know that's me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aah! the minute I saw this girl, we just clicked. She's got such a nice face. hummmm her eyes, her mouth, nose",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Dwayne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Patty won't call me back. I don't know if I can live without her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Corinne"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, the very fact that you oppose this makes me think I'm onto something.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And then last night, he put on my high heels. Oh, he put on such a show for us! He was dancing around, lip-sync'ing to ``A Chorus Line'', I mean you can see he's got talent.",
+      "characters": [
+        "Woman",
+        "Anna",
+        "Elaine",
+        "Karen"
+      ],
+      "correctAnswer": "Woman"
+    }
+  ]
+}

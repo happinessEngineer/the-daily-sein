@@ -1,0 +1,106 @@
+{
+  "gameNumber": 346,
+  "date": "2025-12-15",
+  "questions": [
+    {
+      "quote": "Hey, believe me, you were better off not knowing. It's not easy to deal with someone in a situation like this. I was so nice to him I almost made myself sick.",
+      "characters": [
+        "Jerry",
+        "John",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! So what's the deal with brunch, I mean that if it's a combination of breakfast and lunch. How comes there's no lupper or no linner.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "Oh no, not more checks. They're coming faster than I can sign 'em.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Tor",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, listen ah, I don't mean to bother you but ah, silly me, I- I think I may have left my hat in your apartment. So ah, I thought I'd just come by later and pick it up.",
+      "characters": [
+        "Kramer",
+        "Donna",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'm sorry, Jerry, we all don't have checks rolling in like you do.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, actually, Jerry, we wanted to talk to you about something.",
+      "characters": [
+        "Elaine",
+        "Joyce",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I dunno, some designer. Anyway, Brett is so generous, and sensitive. Last night he was moved just listening to a song.",
+      "characters": [
+        "Holly",
+        "Jackie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't understand, someone's after us, a crazy clown is trying to kill us.",
+      "characters": [
+        "Julianna",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's my money. What should I do? Throw it out the window? I know a guy who took his vacation on his change.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Vivian",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just got the most bizarre message from you father, Steinbrenner is at you house, they think you're dead!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Izzy",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

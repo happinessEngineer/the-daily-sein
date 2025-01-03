@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1032,
+  "date": "2027-11-01",
+  "questions": [
+    {
+      "quote": "Twice! And Dembrow doesn't even know you. His son happens to live on your floor.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Brett",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "George, Bye!  Hello? You are not going to believe the date I just had.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Heather"
+      ],
+      "correctAnswer": "Heather"
+    },
+    {
+      "quote": "I know Jerry. He has this phobia about public toilets. I think we really should go upstairs.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There may have been some incidental penetration. But from her angle she was in no position to make the call.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I like Anna Quindlen's column and Safire. Don't you like Safire?",
+      "characters": [
+        "George",
+        "Julie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "Listen, George! Listen! He knew what he was doing, this was a signal.",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Kramer",
+        "Marla"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why should we let petty, personal differences get in the way of business? I, uh, I want you to come back.  You can use my bathroom anytime you want.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Levitan"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "As you will see, the candy bar is paid for, and yet, remains dangling in the machine.  Hey, it's gone. Where is my Twix?  What?! That guy's eatin' it!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Celia",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You tell that son of a bitch no Yankee is ever comin' to Houston. Not as long as you bastards are running things.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Milos"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Obviously we're gonna call the police and tell that he's not the guy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

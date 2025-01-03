@@ -1,0 +1,106 @@
+{
+  "gameNumber": 707,
+  "date": "2026-12-11",
+  "questions": [
+    {
+      "quote": "Elaine. I think I've been working you a little too hard, lately.",
+      "characters": [
+        "Peterman",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "You've got some nerve. I almost break my neck in that death-trap of yours, and now you ask me for a favour!",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Yes I did. Yes I did. ... Maureen this water is still too cold.",
+      "characters": [
+        "Marcy",
+        "George",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Tell you what. You're obviously concerned about your friend's welfare. A few of my students will be observing tomorrow's operation from the viewing gallery. How would you like to watch it with them?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "...and uh, she's very much in love with me, and uh, well uh, we would uh, appreciate it if you would cease and desist, and allow us to pursue our courtship unfettered.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, people never give a good 'hello' at a funeral. I mean, they go like this  That's the biggest.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your palace shall sparkle like the stars in heaven upon your save arrival, Sire.",
+      "characters": [
+        "Ray",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yeah, and you know what she told me? She said her first order of business is to put my coffee table book into the bookstores as soon as possible.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And who's responsible for making hate mongering and fascism popular again?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. I'm completely blocked! In fact, I'm gonna work on it tonight. Oh. Oh no! Oh, I can't! I got that marathon runner coming in tonight.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

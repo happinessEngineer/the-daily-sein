@@ -1,0 +1,106 @@
+{
+  "gameNumber": 188,
+  "date": "2025-07-10",
+  "questions": [
+    {
+      "quote": "I try to take a vacation, I come back, the whole operation's a shambles.  Hello.",
+      "characters": [
+        "George",
+        "Jake",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He knows I'm waiting. He sees me. He just doesn't wanna look.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm still big. It's the bootlegs that got small. So how are things at the office? Back to normal?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, this is not a crush. This is a complete fixation. he makes me very uncomfortable.",
+      "characters": [
+        "Frank",
+        "Doctor",
+        "Elaine",
+        "Mike"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's the deal with lampshades? I mean if it's a lamp, why do you want shade?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My God! I can't believe the other guy's going to be on the show!",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You better zip up.  I couldn't get the top on the convertible up.",
+      "characters": [
+        "Peterman",
+        "Milos",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And I'm her protégé. You must have someone like that. You know, who guides you in your career path.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "All my life I've dreamed of sitting front row, behind the dugout!",
+      "characters": [
+        "George",
+        "Jackie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Silvio, just out for a little stroll in my favorite fur coat.",
+      "characters": [
+        "Jerry",
+        "Ned",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

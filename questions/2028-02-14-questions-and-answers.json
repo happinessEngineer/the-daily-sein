@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1137,
+  "date": "2028-02-14",
+  "questions": [
+    {
+      "quote": "Hi. JERRY: You might not know it to look at me, but I can run really, really fast.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "No. You are not a man. It takes a *long* time to become a man. I mean, half my friends aren't even there yet.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She told me. She said she's never had a man stir up all of these feelings inside of her. She's questioning her faith. She's thinking of leaving the church.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, then what did you loan her the five thousand for? Oh, look, maybe she won't take it. I mean, she did say that she was gonna think about it.",
+      "characters": [
+        "Saleswoman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, this is good. This Kruger guy is clueless. I can't wait to work for him.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I heard a little ping in the car last time. What was that ping?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Chiles",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh! but I do. There's probably fleas crawling all over your little snack bar.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the nerve. You know, some people have asked me if you've uh, done that.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My friends, a toast. As the wolly-haired Melanasians of Papua, New Guinea once said,  All right! Who's dancing?  No one? Alright, I'll just have to get things started.",
+      "characters": [
+        "Doris",
+        "Peterman",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I calculated my odds of ever getting together with a Portuguese waitress. Mathematically, I had to do it, Jerry.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Carrie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 412,
+  "date": "2026-02-19",
+  "questions": [
+    {
+      "quote": "You said goin up the steps of her apartment was like being taken to a cell.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your clothes smell just like Pisano's. There's another Italian place on Jerome. Maybe I can fool him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The guy who had the Hawaii transfer got busted for hoarding Victoria Secret catalogues. I gotta deliver that mail!",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Excellent.  So, did you buy that electric toothbrush I was telling you about?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I can't call a woman with other people in the room. Come on, let's go.",
+      "characters": [
+        "George",
+        "Enzo",
+        "Jerry",
+        "Mohel"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mickey, Mickey he hooked me up. He's a member of the academy.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really!...Well actually yeah I did see this ......'mazing little black dress...it was sleeveless....",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see Elaine, Billy was a simple country boy. You might say a cockeyed optimist, who got himself mixed up in the high stakes game of world diplomacy and international intrigue.",
+      "characters": [
+        "Kramer",
+        "Leo",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah.  And by the way, can you get this thing outta my house?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it didn't. And you know why? Seeing the pilot in the audience really freaked me out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Harold",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

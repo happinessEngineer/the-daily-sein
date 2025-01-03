@@ -1,0 +1,106 @@
+{
+  "gameNumber": 33,
+  "date": "2025-02-05",
+  "questions": [
+    {
+      "quote": "Yeah well, that's easy. Just let me finish this mile high and I'll be right with you. Oh, and Jerry, we are gonna need a case of Kaiser rolls.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Hoyt",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mrs. Landis, there's something wrong with this copying machine, it's all coming out slanted. Now, I don't know if this is your department or not.",
+      "characters": [
+        "George",
+        "Pitt",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "No, no, the old switcheroo is you poison your drink then you switch it with the other person's.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Sid",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No keys. And I been calling the city all day. Course there's not really a number to call if you wanna make a pothole.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm fine. Just as long as you don't ever do that voice again.",
+      "characters": [
+        "Clare",
+        "Kramer",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Clare"
+    },
+    {
+      "quote": "The extent of the damage would have been far less severe had paramedics been able to reach him sooner.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. You three all know each other. There's no point in me getting involved at this stage of the game.",
+      "characters": [
+        "Hal",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait.. Oh my god...Oh yeah....Elaine , I can't believe that that is you.",
+      "characters": [
+        "Joel",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, you cannot imagine how much I hate this guy.. and he hasn't even done anything! It's the situation. He's a wonderful guy, but I hate his guts!",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Bania",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let me speak with the head librarian. ... Because it's absurd. An overdue book from 1971? ... This is a joke right? What are you? From a radio station?",
+      "characters": [
+        "Morty",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

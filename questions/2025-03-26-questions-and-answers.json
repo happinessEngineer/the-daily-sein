@@ -1,0 +1,106 @@
+{
+  "gameNumber": 82,
+  "date": "2025-03-26",
+  "questions": [
+    {
+      "quote": "Mmm. This food is fantastic, PEGGY: And what a pretty radish rose, huh?",
+      "characters": [
+        "Sylvia",
+        "Man",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You want me to roll six thousand of these?! What, should I quit my job?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just want the both of you to know how much you mean to me, and I love you both very, very much.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know Jack, do me a favor will you? Take the pen and the scotch tape, and get the hell out of here!",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "John",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm not pulling a shopping cart. What, am I suppose to wear a kerchief? Put stockings on and roll 'em down below my knee?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Kelly",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you see the homeless guy on the library steps screaming obsenities and doing some calesthetics routine",
+      "characters": [
+        "Julie",
+        "Margaret",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I just need them to deliver it here and I have to be kinda inside is all.",
+      "characters": [
+        "Bonnie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait. Is this the group that goes around mutilating squirrels?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Owner",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So let's say in her mind she witnessed a pick. Okay, so then what?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Puddy's just gonna give you the car, huh?  You'll see. First they stick you with the undercoating, rust-proofing, dealer prep. Suddenly, you're on your back like a turtle.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Receptionist",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

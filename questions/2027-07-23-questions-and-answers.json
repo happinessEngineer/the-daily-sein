@@ -1,0 +1,106 @@
+{
+  "gameNumber": 931,
+  "date": "2027-07-23",
+  "questions": [
+    {
+      "quote": "I know you're very busy, but I just wanted to come by and give you this.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Announcer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, the surprise blindfold greeting. That wasn't in the manual, I don't know.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Meryl",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What am I going to do now? I can't live without Susan. I gotta get her back. How? How, am I gonna get her back?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think it's so bad. People should wear name tags. Everyone would be a lot friendlier. \"Hello, Sam.\" \"How are you doing, Joe?\"  Hey, your arm. It moved again. I thought you said it went away.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah. Oh, yes, yes, he was very helpful.  Uhm, because, you know, Art and I were getting into this whole thing about his business. Uhm, you know he's an importer-exporter.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Get up, get up, it's her! Oh, the hell with this, I'm scared to death, just walk away, it's off, cancel everything, go!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't stand doing laundry. That's why I have forty pairs of underwear.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Donald",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello. Oh, hi. Yeah I guess we could do that. At what time? All right. I'll see you there. O.K., bye.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Unfortunately, I am also disgusted. This is incoherent drivel! This is a total redo. And I'm assuming I need it right away.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I'll tell you something. It'll be years before they find places to hide more cheese on a pizza. Kramer!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Gwen"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

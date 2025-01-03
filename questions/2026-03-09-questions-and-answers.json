@@ -1,0 +1,106 @@
+{
+  "gameNumber": 430,
+  "date": "2026-03-09",
+  "questions": [
+    {
+      "quote": "Anyway, you were lucky that I was there. You lost a lot of blood.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So anyway, you're his favorite comedian. He laughed so hard the other night we had to give him an extra shot of hemoglobin.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Mel"
+      ],
+      "correctAnswer": "Mel"
+    },
+    {
+      "quote": "You know, it's a miracle you're not married.  Hey, I'm not obligated to buy anything, am I?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's finished! I'm going to sew his ass to his face! I'm going to twist his neck so hard his lips will be his eyebrows! I'm going to break his joints, and reattach them!",
+      "characters": [
+        "Michael",
+        "Elaine",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Elaine, I once told a woman that I coined the phrase, \"Pardon my French.\"",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes I am. We had a verbal contract. If we can't take each other at our word, all is lost.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This is gonna be the easiest money I've ever made in my life.  So, my fried, Joyce, is teaching an aerobics class. I'm gonna go tonight.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "David",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They're not mocked and humiliated when they get to the other side.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tony",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have to do it. It's part of our lifestyle. It's like, uh.. shaving.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You left them in the car? How could you leave them in the car?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sid",
+        "Alton"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

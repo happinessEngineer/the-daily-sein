@@ -1,0 +1,106 @@
+{
+  "gameNumber": 927,
+  "date": "2027-07-19",
+  "questions": [
+    {
+      "quote": "I had a great time tonight Carrie. And I am going to call you as soon as I get home.",
+      "characters": [
+        "Poppie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. What are we looking at here? Is this guy like a real loser?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Oh, yeah. You know why? Because it's dinner time. And you know what you do at dinner?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not worried about their best pitching. They got pitching. ...They got no hitting.",
+      "characters": [
+        "George",
+        "Attendant",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh.  Mr Kramer, you had a ten-thirty appointment. It's two o'clock. Mr Shellbach had a tennis lesson. He's gone for the day.",
+      "characters": [
+        "Secretary",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Secretary"
+    },
+    {
+      "quote": "Well, You might wanna think about...maybe, eh...moving your arms a little when you walk.",
+      "characters": [
+        "Jerry",
+        "Melissa",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. So, anyway, the engine's been idling a little rough. I thought it might be time for a check up...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm afraid it's your urine, Elaine. You tested positive for opium.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh! Come on, you told them you're from out-of-town just so you could stay in a hotel room.",
+      "characters": [
+        "George",
+        "Donald",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She will tell her. She's going back to work. I talked her into it - how stupid was that?  Hey, so, Susan's father took that news pretty hard, huh?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

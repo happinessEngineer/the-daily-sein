@@ -1,0 +1,106 @@
+{
+  "gameNumber": 754,
+  "date": "2027-01-27",
+  "questions": [
+    {
+      "quote": "Yeah.. yeah. I know. Um.. how about if, instead of.. diving from the train, you.. uh, you, I don't know, you slip and, and fall in some mud, and.. ruin your pants?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, hey, wait a minute! Let me ask you something. Kramer, the last time you hit your head, was Mary Hart on TV?",
+      "characters": [
+        "Jerry",
+        "Brett",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on up. . . . I never heard of this. You've got to fast for three days to take an ulcer test. How you gonna do that?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget it? I already called my parents. I told them to expect the surprise of a lifetime. My mother's making her roasted potatoes!",
+      "characters": [
+        "George",
+        "Clerk",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's right. Squeezed an extra twenty-five dollars out of me.",
+      "characters": [
+        "Jerry",
+        "Rudy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me…ge ge ge",
+      "characters": [
+        "Darren",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah! Jerry I've been around long enough to know when I'm being worked.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kevin",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh ah, again with the Edward Scissorhand. How can you have hand like a scissor, huh? Show me one person who's got hand like a scissor.",
+      "characters": [
+        "Enzo",
+        "Kramer",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "That condom killed me. Why do they have to make the wrappers on those things so hard to open?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Sidra"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. He's disgusting! Besides, I'll take any chance I can to talk to her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Greg"
+      ],
+      "correctAnswer": "Greg"
+    }
+  ]
+}

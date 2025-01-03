@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1115,
+  "date": "2028-01-23",
+  "questions": [
+    {
+      "quote": "Jerry, look! You gotta help me! I can't have 'em near me! If I have one pair in my house, I'm gonna wear them!",
+      "characters": [
+        "Farkus",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now, if you'll excuse me, I'm going to make love to your mother.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Lanette"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You know, it is so sad, all your knowledge of high culture comes from bugs bunny cartoons.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So basically, it's every man, woman, child, and invalid for themselves.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'cos the other night , you know, I was sleeping with Marion I rolled over and I cut her ankle with my big toe.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I stink! I can't play! The ball is just sitting there, Jerry, and I can't hit it! I only hit one really good ball that went way out there!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That was two years ago, remember? 'Jeh-Ree, you gotta see the Bay-Bee! You gotta see the Bay-Bee!'",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Vandelay"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, my arm feels a lot better. That Wendy really knows her stuff.",
+      "characters": [
+        "Jane",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My uh uncle is having an operation. I just wanted to see how he was.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Lippman",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know. This was like a record. My previous record was when Joni Hirsch asked me not to tell anybody that we slept together. Kept a lid on that for about 28 seconds.",
+      "characters": [
+        "George",
+        "Karen",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

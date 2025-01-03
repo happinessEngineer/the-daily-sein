@@ -1,0 +1,106 @@
+{
+  "gameNumber": 194,
+  "date": "2025-07-16",
+  "questions": [
+    {
+      "quote": "All right, all right. All right, that's enough! Let's get back to my deal. That undercoating, that's a rip-off, isn't it, David?",
+      "characters": [
+        "Deena",
+        "Kramer",
+        "Vivian",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll pay you for your time....I just ..I just need some information . How much do you want? ten....fifteen? You have change for twenty?",
+      "characters": [
+        "Enzo",
+        "Patrice",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, means that a man has come from very far away to compete in a very difficult race, he's put his faith in you, and frankly, I'm a little concerned!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That is what Mr. Steinbrenner wants. He wants, everyone, ta, twirl around.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Nina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? We sell this thing at Peterman that would be perfect for you.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Phil",
+        "Enzo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do we have a chance? You get me one coffee drinker on that jury, you gonna walk outta there a rich man.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Ah! Health's not good enough. I want more than health. Health's not doing it for me anymore. I'm sick of health.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe I'm having trouble getting rid of Super Bowl tickets.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Salesman",
+        "Izzy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, let's just examine the situation for a second.  Who, in this situation, would be more likely to make a mistake?  Me, who had access to my wallet, knew exactly what was in there?  Or you--",
+      "characters": [
+        "Newman",
+        "George",
+        "Joel",
+        "Emily"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If it attached itself to you, then... Oh, my God! That's why Carl said he had to get up early! Because I stink! Jerry, he thinks I have B.O.! Me!",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

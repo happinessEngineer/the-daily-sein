@@ -1,0 +1,106 @@
+{
+  "gameNumber": 110,
+  "date": "2025-04-23",
+  "questions": [
+    {
+      "quote": "They've opened up a whole new market. Medication for the well.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Wyck"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told you I don't like these sponges, they're too small! I want a big sponge!",
+      "characters": [
+        "George",
+        "Corinne",
+        "Harold",
+        "David"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Okay, I'm done. I'll be back in the morning, when he's close to finish with his story.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What are you doing? Don't tell a woman she looks like a man and George doesn't want to hear his girlfriend looks like me and frankly neither do I",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you're angry that this bizarre carpet cabal made no attempt to abduct you?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Guy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Cheap fabric, and dim lighting. That's how you move merchandise.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hello? Yeah, the defroster's the one on the bottom, just slide it all the way over. You're welcome.",
+      "characters": [
+        "Nina",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry - I have to say, I'm a little disappointed, I thought it would be a lot nicer.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, we're screening that tonight at the Alex. Do you think that I could wear that to promote the theatre?",
+      "characters": [
+        "Bruce",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's nice. Listen, Kramer, you know, if you ever want to have kids you shouldn't wear briefs. Boxers are much better for your sperm count.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

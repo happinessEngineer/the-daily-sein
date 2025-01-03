@@ -1,0 +1,106 @@
+{
+  "gameNumber": 398,
+  "date": "2026-02-05",
+  "questions": [
+    {
+      "quote": "I'm not through here, Jerry.  I'm gonna keep on investigating. This thing is like an onion. The more layers you peel, the more it stinks.",
+      "characters": [
+        "George",
+        "Helen",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why is nice bad? What kind a of sick society we are living in, when nice is bad?",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, bully for you. Hey, Jerry! You know your friend here's a real piece of work!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "We come up with all these stupid reasons to break up with these women.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have a vague recollection of doing something with someone, but it was a long, long time ago.",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Although one wonders if \"War and Peace\" would has been as highly acclaimed as it was, had it was published under it's original title \"War---What Is It Good For?\"",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Elaine",
+        "Nina"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's tough keeping your feet dry when you're kicking in a skull.",
+      "characters": [
+        "Kramer",
+        "Kruger",
+        "Eddie",
+        "Elaine"
+      ],
+      "correctAnswer": "Eddie"
+    },
+    {
+      "quote": "Only twenty-five minutes a day, and you can attach it to any doorknob.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Aah, Jerry I'm not gonna let you bring me down from this high. I've been partying all night. I saw the sunrise at Liza's!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well Dad's been planning this for such a long time, he bought a new blanket, and he got tha...that game with foam paddles and the velcro ball.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Greg",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

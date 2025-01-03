@@ -1,0 +1,106 @@
+{
+  "gameNumber": 579,
+  "date": "2026-08-05",
+  "questions": [
+    {
+      "quote": "Well, also, Jerry, we read an article in the Sun Sentinel.  It says standup comedy is not what it used to be, what with def jam and all.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Hey!! Buddy. I thought of a great invention for driving. A periscope in a car, so you can see the traffic.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what's wrong, a grown woman with a male roommate!  It's unnatural, it's an abomination!",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, I need the keys to your apartment, I gotta take a shower.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Babu",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How can I do this? How can I move back in with those people? Please, tell me. They're insane. You know that.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Please give it to me. I love to help people. This is what I do. Come on. I'm going this way.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh!!.....Joseph Aboud .. and look at this hand ticking around the crest.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Elaine, has nothing but Good things to say about Susie.",
+      "characters": [
+        "Jerry",
+        "Margaret",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "But it takes forty-five minutes to get there. That'll only leave me five minutes to get to the plane.",
+      "characters": [
+        "Ed",
+        "Frank",
+        "Tony",
+        "George"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "George and Elaine went to a flea market in Westchester, okay?!",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

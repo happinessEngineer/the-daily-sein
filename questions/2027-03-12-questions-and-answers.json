@@ -1,0 +1,106 @@
+{
+  "gameNumber": 798,
+  "date": "2027-03-12",
+  "questions": [
+    {
+      "quote": "Right, can we go? 'Cause I'm double-parked, I'm gonna get a ticket.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you know, all you guys ever do is sit around the coffee shop talking, sit around Jerry's apartment talking. Frankly, I don't know how you can stand it. I'll see you.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "Ping"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "What do I gotta call him for? I thanked him five times when he gave them to me, how many time I gotta thank him?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Evelyn",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey hey hey! I don't want to hear another word out of either one of you!",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I think the blind would probably be a little messier around the house. And lets face it they're not going to get all the crumbs. I'd possibly be walking around with a sponge.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget it. Okay Newman's postal route is around here somewhere.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Ramon",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right. What if I tell Paul O'Neill to hit a home run tomorrow, just for you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Betsy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's not how it happened. It's when he fell on him with his knee.",
+      "characters": [
+        "Margaret",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I contributed money to a charity that turned out to be fraudulent. It's very boring.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's a bad day. Uh, you got everyone in your house, you're thinkin', \"These are my friends?!\"",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

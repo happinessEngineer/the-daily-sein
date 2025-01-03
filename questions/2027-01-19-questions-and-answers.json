@@ -1,0 +1,106 @@
+{
+  "gameNumber": 746,
+  "date": "2027-01-19",
+  "questions": [
+    {
+      "quote": "Hey buddy. I'm on no sleep, no sleep!. You don't know what it's like in there, all night long things are creaking and cracking. And that red light is burning my brain!",
+      "characters": [
+        "Elaine",
+        "Wendy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Done. But, I get to drive it tomorrow, because Doris wants to go to Naples.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Oh, what? What? That? Are you kidding? I didn't quit. What? You took that seriously?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, will you stop it. Just because a hospital studying DNA research doesn't mean they're creating a race of mutant pig-men!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand. They're supposed to be casting this week. Something's wrong. Maybe they're not doing it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on. Good? What was good about it?  Those sex scenes! I mean, please! Gimme something I can use!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Hoyt",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I called him all the way up to my office, so I had to tell him something important. So I promoted him.",
+      "characters": [
+        "Kramer",
+        "Earl",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Anthony Quinn, fine actor. But from what I understand, not a very good driver. Hits everything on the road. But always leaves a note.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you starting with me for? You know this is my crazy time o' year?!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up.",
+      "characters": [
+        "Newman",
+        "Tim",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Tim"
+    }
+  ]
+}

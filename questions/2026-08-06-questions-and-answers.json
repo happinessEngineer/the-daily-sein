@@ -1,0 +1,106 @@
+{
+  "gameNumber": 580,
+  "date": "2026-08-06",
+  "questions": [
+    {
+      "quote": "You shut up!  I demand a recess so I can take him outside and help him regain hius composure.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hi, I haven't eaten in three days. I was wondering how much longer it would be until I get my X-ray.",
+      "characters": [
+        "Newman",
+        "Man",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ovaltine. Have you ever had this stuff? Why is it called Ovaltine?",
+      "characters": [
+        "Tim",
+        "Jack",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Before we get started, I am happy to tell you that Eddie Sherman is no longer writing for this catalog.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, this is my friend, Jerry Seinfeld. I just bumped into him around the corner. Isn't that a coincidence? The funny thing is, I see him all the time.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you cracked it! I warned the Queen you were gettin' close an', now it looks like we're gonna have to move the whole damn forbidden city.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Clerk",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Where's your bathroom scale?  Oh my god, I've gained seven pounds.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah. I've been a professional waitress for the last 10 years. I've worked all over the city. These, uh, are my references. I'm sure you'll find that I'm more than qualified.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm doing a report on minorities in the media, and I wanted to use that interview with Al Roker.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Winona"
+      ],
+      "correctAnswer": "Winona"
+    },
+    {
+      "quote": "All right, forget that idea, it's not for you....Okay, okay, I got it. You run an antique store.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Marcelino",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

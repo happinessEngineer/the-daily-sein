@@ -1,0 +1,106 @@
+{
+  "gameNumber": 232,
+  "date": "2025-08-23",
+  "questions": [
+    {
+      "quote": "Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Father"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My doves! They're dead! I trained those birds for eight years! How am I supposed to do my magic act now?",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Oh, well that's where the rally is. The Paramount, right next door.",
+      "characters": [
+        "Dan",
+        "Jerry",
+        "Carol",
+        "Bonnie"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "Now, if this mechanic guy, was, in fact, eating a 5th Avenue bar, as he claims, wouldn't you agree he would have no problem picking one out from a candy line-up?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! [throws her purse back at her] No, I mean, no thank you, nah...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tom",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you know? Look-look at your face! You only shaved the right side of your face! What is this? A joke?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Stan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You disappoint me, my friend. Sandy wants nothing to do with you. She tells Laura, \"If you want to waste your time with that pervert, that's your problem.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I gotta stop off at the bookstore to pick up my parents one of those French-English dictionaries.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Frankly I am shocked that you would ask such a question  of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look.  We don't have to name names, or, point fingers, or..  name names!  Me and her, have had our problems. She and I have had our problems! You and I, and she and you--",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 796,
+  "date": "2027-03-10",
+  "questions": [
+    {
+      "quote": "I WANT MY HELMET BACK! GIVE ME BACK MY HELMET AND YOU'RE GOING TO PAY FOR THAT TICKET.",
+      "characters": [
+        "Newman",
+        "George",
+        "Gwen",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What difference does it make? Who cares if she doesn't like you? Does everybody in the world have to like you?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Enzo",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Well, I have a general idea what it was. I could take a guess.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Morty",
+        "Gina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, nothing doing. Let's, you and me, play a game of straight pool.. hmm?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine that was a legitimate bet and I lost so I bought you dinner.",
+      "characters": [
+        "Kramer",
+        "Todd",
+        "Jerry",
+        "Nurse"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Well this is not like a park bench where you just come in and sit down. It's a business.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe it's some small thing I could change. Like a moustache. Or wearing a top hat, or a monocle, or a..or a cane.",
+      "characters": [
+        "George",
+        "Celia",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you, that There for you crap was a stroke of genius.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, finding a Mohel is a piece of cake. Any idiot can find a Mohel. I have to hold the baby while they do it. That's a tough job. How would you like that?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

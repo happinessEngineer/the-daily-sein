@@ -1,0 +1,106 @@
+{
+  "gameNumber": 481,
+  "date": "2026-04-29",
+  "questions": [
+    {
+      "quote": "Okay. I'm gonna check my machine first.  Picking someone up at the airport, jury duty, waiting for cable guy...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, the cameras was, vrooom, there. The announcers, they made a couple of cracks about you.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Sid",
+        "Peggy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's okay.  We'll make this next right, and swing around to get back to the dealership.",
+      "characters": [
+        "Elaine",
+        "Rick",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "So, yeah, that's funny. Hey, you wanna hear something weird? Mr. Pitt eats his Snickers bars with a knife and fork.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You should be the one criticizing me. I, I'm lucky to even know someone like you.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Jerry",
+        "Fdr"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course Zach and I have been dating. What'd you think, I was the office skank?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What ever happened to \"Why, that's a lovely dress you have on. May I have this dance?\"!!",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Why do I always pay? What am I made of money? You bunch of deadbeats.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. No it's not. You don't know this guy. It woulda been so sweet.",
+      "characters": [
+        "George",
+        "Bonnie",
+        "Ned",
+        "Cindy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Stop it, George! Get out! Get out! I never want to see you again!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Betsy"
+      ],
+      "correctAnswer": "Betsy"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 788,
+  "date": "2027-03-02",
+  "questions": [
+    {
+      "quote": "but..why, it wasn't my fault, I .. you asked me a sandwich, I .. I make such delicious sandwiches Elaine",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's our store and our mannequin, we can do whatever we want with it.",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "Well you know ahh, they don't allow outside drinks in the movie theater. So I had to put it in my shirt and sneak it in.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ok. Good. And Kramer, you're in charge of taping off the loading zone.",
+      "characters": [
+        "Jake",
+        "George",
+        "Jerry",
+        "Lanette"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a spanish dish. It's a moulage of fish, an meat with rice. Very tasty.",
+      "characters": [
+        "George",
+        "Simon",
+        "Mary",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes...Ye..Yes..That's right...You see ,Billy Mumphrey was a simple country boy. Some might say a cockeyed optimist, who got caught up in the dirty game of world diplomacy and International intrigue.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Actually, the only place she always looked good was in that back booth over there.",
+      "characters": [
+        "Rabbi",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So the spit could have only come from the front and to the right.",
+      "characters": [
+        "George",
+        "Saleswoman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What do you mean, I got? You didn't give him his Visa application.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Nana",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So get this. Peterman has his henchmen forcefully eject me from the book signing like I'm some kind of a maniac.",
+      "characters": [
+        "Kramer",
+        "Craig",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 504,
+  "date": "2026-05-22",
+  "questions": [
+    {
+      "quote": "I know, I hated those kids. In fact, I hate anyone that ever had a pony when they were growing up.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Carl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "On the other hand, you take a guy like George Washington Carver.  The man devoted his whole life to the peanut.  Imagine having so much passion for something.",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "Guy",
+        "George"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Yes, all you have to do is pay the full fare now, then return to any one of our counters with a copy of the death certificate, and we'll refund half your fare.",
+      "characters": [
+        "Newman",
+        "Clerk",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Elaine, up until a moment ago, I was convinced that I was on the receiving end of one of the oldest baker's grift in the books--The Entenmann's shim-sham.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Or is it because I've built a stronghold around Greenland?  I've driven you out of Western Europe and I've left you teetering on the brink of complete annihilation.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ok, everybody, uh...I have an announcement to make. From now on, I will be known as-",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I'll tell you, but your begging needs a lot of work.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know you've given this comedy thing your best shot. Yeah, you had some good observations, but it's over. Now, this Bloomingdale thing, that could be the next wave.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My censor quit two years ago. He checked into a clinic. Emotionally exhausted.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Marla"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look! You were right, I was wrong! You don't have to humiliate me about it, alright!",
+      "characters": [
+        "Clerk",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Clerk"
+    }
+  ]
+}

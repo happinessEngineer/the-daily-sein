@@ -1,0 +1,106 @@
+{
+  "gameNumber": 343,
+  "date": "2025-12-12",
+  "questions": [
+    {
+      "quote": "Well, sir, I - I gave out the fake card, because, um, I don't really celebrate Christmas. I, um, I celebrate Festivus.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How are you doing, Lloyd? I hear you're a big advisor for Dinkins now.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Listen, you should get your cousin Jeffrey to write some material for you.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "That's an incredible story. You have a remarkable passion for brassieres.",
+      "characters": [
+        "Farkus",
+        "Jerry",
+        "Kramer",
+        "Gavin"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "You know, in the 48 years we've been here, I don't think we've ever called an electrician.",
+      "characters": [
+        "Pop",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Pop"
+    },
+    {
+      "quote": "Well, we'll go see something else tonight. We'll see, uh, Ponce De Leon.",
+      "characters": [
+        "Todd",
+        "Raymond",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's just that my boss is very demanding and he needed the pencil right away.",
+      "characters": [
+        "George",
+        "Rudy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Man, 2.9 percent financing on a Toyota Onedun . That was my idea too!",
+      "characters": [
+        "Man",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, Marcelino wants us to sell him Little Jerry Seinfeld.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's all worked out. Nina and I will have dinner Thursday at the restaurant where Babs works.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

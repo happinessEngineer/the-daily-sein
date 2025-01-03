@@ -1,0 +1,106 @@
+{
+  "gameNumber": 993,
+  "date": "2027-09-23",
+  "questions": [
+    {
+      "quote": "What? you're breaking up with me? But I sacrificed and supported you while you struggled. What about my dream of dating a doctor?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what you should do? You should tell this guy you're seeing  somebody else. That's the easiest way to get out of these things.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's confiding in him about our dates.  You always like the person you talk to about the date more than the date!  It's just a matter of time till they realize, 'Hey, we could have sex.'",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Told me you had a great time! Said you'd call me the next day.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Lloyd",
+        "Mary"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "George, those are prescription goggles? What is there to see in a health club pool?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Maestro",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who, who, who do you think would win in a fight between me and ah, gorgeous George here.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh.  Well, I must have been in the incinerator room when you left. Here you go, Marty.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Patrice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, I'm excited. I just don't happen to like exclamation points.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jake"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Can you believe someone would lie about chemotherapy to get a wig? Would you do that?",
+      "characters": [
+        "Elaine",
+        "Darryl",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, listen, don't get worked up, 'cause you're gonna know the whole story the minute she steps off the plane.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 823,
+  "date": "2027-04-06",
+  "questions": [
+    {
+      "quote": ". Well So fine then ..then I don't want it and then that's why I'm returning it",
+      "characters": [
+        "Kramer",
+        "Rabbi",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, that's it. The fight's already started. I'm going upstairs, who's coming? Elaine?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want the one that I earned.  I'll get it. I'll get it!  H&H, and Elaine.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Eddie",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kosher meal? I don't want a kosher meal. I don't even know what a kosher meal is.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...when you're done George, and bring it directly to me. Mr Steinbrenner is very interested in this.",
+      "characters": [
+        "Wilhelm",
+        "Newman",
+        "Mary",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "No! It's not a good thing! It's a bad thing! Do you know what this is like? To have no control over a relationship? And - and you feel sick to your stomach all the time? Do you know what that's like?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Mike"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't want Morgan's job. He's got a lot of work to do. Hey, Elaine, your friend never woke up Mr. Morgan.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Valerie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you drag me into this! This is between you and her, and her.",
+      "characters": [
+        "Janet",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "My mom's down in Florida. She's got uh one of those condos. Hot down there in the summer. You ever been down there?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tomarrow?! Are you crazy? No, now, now! Let's go!  You get dressed! Get dressed!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

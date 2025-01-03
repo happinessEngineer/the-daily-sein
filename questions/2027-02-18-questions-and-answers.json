@@ -1,0 +1,106 @@
+{
+  "gameNumber": 776,
+  "date": "2027-02-18",
+  "questions": [
+    {
+      "quote": "I know. He got the hit in game SIX. So, so then what happened?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Abby",
+        "Kate"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I thought you said people dress up when they go to the opera!",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "George",
+        "Marty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, my question is, How could Elaine be under the impression that you bought the big salad, when I was the one who handed it to her?",
+      "characters": [
+        "Julie",
+        "Jerry",
+        "Aaron",
+        "Elaine"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "So you don't cry when your grandmother dies? But a hotdog makes you lose control?",
+      "characters": [
+        "Maura",
+        "George",
+        "Jerry",
+        "Cheryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's a good idea. I'll tell you what chuckles, I give you permission to sublet my room right now.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay. Let's take a look. Well that doesn't look to serious. You'll be fine.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Rebecca",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Ay ay ay! The next one of you that opens up your mouth, says something, you're gonna have to deal with me. You know, I bet I know what this is about. It's about a woman, isn't it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"...tootsie, good-bye. Too-too, tootsie...\"  You call this coffee?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If we could just harness this power and use it for our own personal gain, there'd be no stopping us.",
+      "characters": [
+        "George",
+        "Carol",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No sports jacket? I don't need a sports jacket? Writers wear sports jackets.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

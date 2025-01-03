@@ -1,0 +1,106 @@
+{
+  "gameNumber": 675,
+  "date": "2026-11-09",
+  "questions": [
+    {
+      "quote": "Okay, uh, eighteen dollars, and there it is. There you go. So maybe we could get together this weekend.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lois",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you eating my peanut butter out of the jar with your disgusting index fingers? This is a sickening display.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Roy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, what do you think? Your old man can look pretty good when he wants to, huh?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "He just walked away! And once again I'm standing here like a little man. Well not this time!  You! Dog man!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yep, she's not gonna be back for a month, but I got six hours.",
+      "characters": [
+        "Kramer",
+        "Guy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, Bradley. I guess this is the last place you expected to find yourself.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "I-I'm sure if you weren't satisfied you would probably say something wouldn't you?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's Allison. I dated her right after you. She's obsessed with me.",
+      "characters": [
+        "George",
+        "Newman",
+        "Sheila",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? And Debby told me that she fell in love with him because he has all this perspective!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "--but, you see, let me just talk to you for a second, see, what I did is inadvertently sent an insurance--",
+      "characters": [
+        "George",
+        "Laura",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 471,
+  "date": "2026-04-19",
+  "questions": [
+    {
+      "quote": "Awright, let's see. How about Mug?  Mug Costanza, that's original.  Or uh, Ketchup? Pretty name for a girl.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Vanessa",
+        "Greg"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I'm very excited about this. I've always wanted to see how those sketch artists do it.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah but we reversed positions so there was no funny business.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you'll never guess who I bumped into. This guy Clyde. He's in your friend John Germaine's band there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"The panties your mother laid out for you\"?  What does that mean?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe we're doing this. This is the kind of thing they do in the movies.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Brett",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because, I was thinking... are you at all concerned that living in the same building will, y'know... cramp our styles?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, you know it's a shame his parents didn't get divorced thirty years ago. He could have been normal.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, this is a million dollars we're talkin' about, Jerry, now this is the big league, the big time, now I need you on my team, Jerry!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Vandelay",
+        "Keith"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's it, that's it! I warned you kids. I told you not to play in front of my house. This time, I'm keepin' it. And you're not getting back your rock either!",
+      "characters": [
+        "Gennice",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

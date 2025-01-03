@@ -1,0 +1,106 @@
+{
+  "gameNumber": 708,
+  "date": "2026-12-12",
+  "questions": [
+    {
+      "quote": "No of course not. People ask me medical questions all the time.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "At least come and say hello, have a cup of coffee, then you'll leave.",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I mean, if he thinks that that baby's breathtaking, then who's not breathtaking?",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Kramer",
+        "Pitt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I wouldn't get too excited about this stuff, you know, things have a way of evening out.",
+      "characters": [
+        "Tim",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on: 'Oh George, oh Geeeooorge!' Come on! Not that I don't appreciate the effort that was put into it.",
+      "characters": [
+        "Kurt",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah,  there you are. My date stood me up. Listen, will you guys go to the operation with me?",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's a hell of an organization they're running up there.  I can't understand why they haven't won a pennant in 15 years.",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Here is latest draft. I see you next week. Same time, same day.  On time please.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Testikov"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "Because Kramer has been swimming laps between the Queensborough bridge and the Brooklyn bridge.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Katya"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Well\"? We've been dating for three months. Between you and me, and.. anyone else you want to tell.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

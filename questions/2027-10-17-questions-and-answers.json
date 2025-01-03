@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1017,
+  "date": "2027-10-17",
+  "questions": [
+    {
+      "quote": "God. Man, this is killing me. Right now, I would give that bike to the first person who could make this pain go away.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, don't get too down. Everything'll even out, see, I have two friends, you were up,  he was down. Now he's up,  you're down. You see how it all evens out for me?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is far more important. You must exercise the gaskets, George.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nothing really, you know...just eh, stroll around the cell blocks, maybe eh, take in a shower fight.  Hey eh, you know you got a bounced check hanging up in the little market over on Columbus?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That knife, it nicked your jugular. You know Jerry, when somebody yells 'heads up', you're not supposed to actually look up.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Of course, they're giving a testimonial for your father. You could do your comic routines.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "No, occasionally I'll forget to let the machine pick up. Anyway, they made this large donation, to a women's prison, and I get to go down there and check it out.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Specific, Ah, lets see. I've walked in and out of so many buildings they all .. blend in together, I uh, ..",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just remembered, I gotta be someplace. Yuh-hu-hur, that's enough. Pop. Pop, put down the wrench, Pop.",
+      "characters": [
+        "Kramer",
+        "Pitt",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well what's the difference -- Come on  -- were like Cain and Able.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

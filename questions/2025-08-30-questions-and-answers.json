@@ -1,0 +1,106 @@
+{
+  "gameNumber": 239,
+  "date": "2025-08-30",
+  "questions": [
+    {
+      "quote": "Hey, stop kidding me. He's a doctor. He's a very good doctor.",
+      "characters": [
+        "Elaine",
+        "Noreen",
+        "George",
+        "Tor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Tuesday has no feel. Monday has a feel, Friday has a feel, Sunday has a feel....",
+      "characters": [
+        "George",
+        "Man",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well she got up to the line of scrimmage, didn't like the looks of the defense and changed the play.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I talked to my sponsor, and, uh, I've thought it over, and, you know, my apology at the coffee shop was sarcastic, and rude, and you deserve much better.",
+      "characters": [
+        "Hanke",
+        "Kramer",
+        "Stu",
+        "Newman"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "That's what Willie Loman told Biff before his interview, in 'Death of a salesman'.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, how are we gettin' to Scott Drake's party on Saturday night?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, I had what you might call a little encounter this morning.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't believe you called me a chucker. No way I'm a chucker, I do not chuck, never chucked, never have chucked, never will chuck, no chuck!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That was in the past, Jerry. As it happens, New York Magazine just judged his kitchen to be one of the cleanest in the city. They got a duck there, you think you died and went to heaven.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Carrie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And a slice of pepperoni pizza and a large soda and three times a week I will require a canolie.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

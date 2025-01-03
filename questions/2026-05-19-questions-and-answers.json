@@ -1,0 +1,106 @@
+{
+  "gameNumber": 501,
+  "date": "2026-05-19",
+  "questions": [
+    {
+      "quote": "So she kept insisting I take off my coat. I refused, and then she forcibly tried to get me to remove it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, didn't bother Susan either. That's why I'm different. I can sense the slightest human suffering.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sotheby's is having an auction of JFK's memorabilia. One item in particular has caught my eye. The presidential golf clubs. To me, they capture that indefinable romance that was Camelot.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Dana",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh, come on, Jerry! Come on, this is stupid! It's six o'clock! It's all over, just pick up the phone and thank him!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Assistant to the travelling secretary.  I'm uh, working on the project.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now Jerry please, do not do this to your father.  Over my dead body Jerry.  I'll tell you right now, you're not going to do it.",
+      "characters": [
+        "George",
+        "Dana",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "If you had gotten into the backseat of the car we could've figured this whole thing out.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mickey",
+        "Mike"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Every night I sleep in a really hot room, I don't want to kill myself.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Is that little Georgie C? How's the folks? You still got that nice little car?",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Pop",
+        "George"
+      ],
+      "correctAnswer": "Pop"
+    },
+    {
+      "quote": "It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes. It will go by like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 285,
+  "date": "2025-10-15",
+  "questions": [
+    {
+      "quote": "So we're just asking our friends what they may have said to the adoption agent.",
+      "characters": [
+        "Kimbrough",
+        "Kramer",
+        "Beth",
+        "Jerry"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Look, I'm doing you a favor. They're having an unadvertised sale. This suit is gonna be half-priced starting ... Monday.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is it?!  Ohhh, well if only you'd known, you could have saved some time and given it directly to me!  Ha ha ha.",
+      "characters": [
+        "Jerry",
+        "Officer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, yeah. The pinch. *I've* done the pinch. That's not new. Besides which, I don't know how you could trust any of his moves now. His whole *repertoire* could be lifted.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Lou",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Special occassions? It wasn't special when my family visited?",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Elaine's gonna do the same thing to Puddy's radio that the radio did to her.",
+      "characters": [
+        "Jerry",
+        "Shelly",
+        "Elaine",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you read the agreement you signed the deposit is not refundable.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "You wanna buy it back? Why, you go drugs hidden in the trunk?",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Well, they recognised Jerry from the Super Terrific Happy Hour. See now, you should be doing your own show in Japan. Now, they get you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, let's see: speeding, running a red light, no license, no registration, no plates, no brake lights, no rear view mirror...yeah.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

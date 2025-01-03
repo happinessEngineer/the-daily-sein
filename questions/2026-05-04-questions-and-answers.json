@@ -1,0 +1,106 @@
+{
+  "gameNumber": 486,
+  "date": "2026-05-04",
+  "questions": [
+    {
+      "quote": "I've never seen him in Manhattan before; it's weird. So out of context.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Chiles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, I'll tell you what I'd like you to do. I, I'd like you to drop everything.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "And, to be perfectly frank, I've always felt I could use some support. I know, when I'm wearing Banlon, there appears to be some jiggling.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Well, it was very nice meeting you Shelly and Jerry be careful, there's a lot of nuts out there.  All right you have everything?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. You get a couch. I get rid of my father. It couldn't be more perfect!",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello? Oh, hi honey.  Yes, I told him. I'll get it.  Whenever. Okay, I'm sorry...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So Mr. Costanza parked in a handicapped spot, and as a result you got in an accident, and your wheelchair was destroyed?",
+      "characters": [
+        "Jerry",
+        "Hoyt",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "See, look at this.  Rachel, my T-shirt shrunk. It used to be much bigger, and now it shrunk. You see, that's what water does. It shrinks things.",
+      "characters": [
+        "Susan",
+        "Helena",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well this situation is driving me crazy. He's all I think about. I can't get him out of my mind.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Dan",
+        "Rebecca"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "So you think you're not gonna get the job because your pants make a noise?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

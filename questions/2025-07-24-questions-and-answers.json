@@ -1,0 +1,106 @@
+{
+  "gameNumber": 202,
+  "date": "2025-07-24",
+  "questions": [
+    {
+      "quote": "In fact she said that looks aren't even that important to her...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Nina",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here, check out this view.  If you lean out this window, you can see the river.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Bonnie"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "I'm sorry I can't do this. I can't do it. I can't. It, it's too soon. I don't know you. I can't help you move. I'm sorry. I can't. I just can't.",
+      "characters": [
+        "Harold",
+        "Jerry",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What do you mean? The engagement is off, we get the TV back. That's business.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Owner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Listen you're just imagining things. He doesn't know a thing. Now come on. Pull yourself together.",
+      "characters": [
+        "Kramer",
+        "Nina",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. You know what I think? I think you made that whole thing up.",
+      "characters": [
+        "Kramer",
+        "Driver",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "Dad, it's me. Hey, listen, I was at Fortunoff's the other day, and, you know what, you were right.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nothing. I'm sure \"Jon\" probably mispelled his own name. I know sometimes I spell Jerry with a G...and an I!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

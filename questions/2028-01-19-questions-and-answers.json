@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1111,
+  "date": "2028-01-19",
+  "questions": [
+    {
+      "quote": "Look, there was an awkward moment in the conversation. It never happened before.",
+      "characters": [
+        "George",
+        "Tim",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Our neighbor that you... turned against.  Anyway, I told him it'd be fine with us if he wanted to let it stretch its wings out in the hallway.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, what's the problem? Now come on George. I told the big man you were moving on this. Now, don't let him down!",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Wilhelm",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "I mean he's a good fighter and a nice guy but I don't like him.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Sylvia",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If there's anything you can do to get us a table we'd really appreciate it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You knew I was having a millennium party, but you just had to throw yours on the same day!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Ed"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's to see? A woman from Norway, a guy from Kenya, and twenty thousand losers.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Roy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But you don't have to do this! This guy is waiting in my house.",
+      "characters": [
+        "Captain",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I always talk about your hands - how they're so soft and milky white..",
+      "characters": [
+        "Estelle",
+        "Rabbi",
+        "Kramer",
+        "Detective"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Yeah, you said it.  Uh, excuse me, Mr Wilhelm. Uh, do you really think... Well, is this downtown trip really necessary, you know, for the project?",
+      "characters": [
+        "Kurt",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

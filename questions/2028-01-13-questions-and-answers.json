@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1105,
+  "date": "2028-01-13",
+  "questions": [
+    {
+      "quote": "Yeah, you know we need a fourth for the back nine. You want in?",
+      "characters": [
+        "Guy",
+        "Jack",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Yeah, well, I got held up, you know. What happened to your hand?",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The back? They never find anything in the back. If they had anything good in the back, they'd put it out in the front.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listening to you. I listen to this for fifteen minutes and I'm on top of the world. Your misery is my pleasure.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you thought she was good looking and figured this would be a good way to meet her.",
+      "characters": [
+        "Elaine",
+        "Chiles",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It pains me to say this, but I may be getting to mature for details.",
+      "characters": [
+        "Announcer",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, because she's throwing off my whole sleep. She's got the jimmy legs.",
+      "characters": [
+        "Kramer",
+        "Dana",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Oh, oh, phew. You know, for a minute there I thought it was like that urban legend about the guy with the hook who's hanging on the fender...",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I thought it's about time we put aside all this silliness. I know now you didn't put anything in my toilet bowl.  Did you?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What did we ever do to them?  I want to know what we did them!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

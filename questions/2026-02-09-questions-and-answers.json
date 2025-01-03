@@ -1,0 +1,106 @@
+{
+  "gameNumber": 402,
+  "date": "2026-02-09",
+  "questions": [
+    {
+      "quote": "I'm sorry to make you go through this, but we need to make sure.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Detective"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "Yeah, looks like you're getting a little spare tire there, tiger.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Attendant",
+        "Newman"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "One more peep out of you and I'll slice you up like a smoked sturgeon.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Mohel"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Yes, I'd like to report a problem with one of your mechanics.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You should be thanking me for liberating you from your world of loneliness and isolation. Now, you're part of a family.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So anyway, it's caused a lot of problems. Dan thinks I'm interested in Jerry, he won't let up.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Noreen"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "Alright George, I'll be honest. The first time we went out, I found you very irritating. But after seeing you a couple of times, you sorta got stuck in my head,  Ca-stan-za!",
+      "characters": [
+        "Kramer",
+        "Heather",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Heather"
+    },
+    {
+      "quote": "I don't really know why I'm here. Kramer talked me into coming up here. But, obviously, I could never really do anything.",
+      "characters": [
+        "Attendant",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nah, did you hear the end? I couldn't remember what I was trying to say, that whole thing about the, uh...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, maybe we'll just stand and watch the tv. [knock knock]. I gotta go someone's at my door. Yeah!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

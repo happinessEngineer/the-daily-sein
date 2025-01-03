@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1086,
+  "date": "2027-12-25",
+  "questions": [
+    {
+      "quote": "No, you don't understand - it's not what you think! It was an accident!",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "Kramer",
+        "Bruce"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, y'know what? If I gotta go, and spend time with this girl, then you're coming with me, Dr. Cyclops!",
+      "characters": [
+        "Steve",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm not. I would like to be, but I'm not. What am I gonna do? The book club meets in a few days.",
+      "characters": [
+        "Izzy",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at me! I'm all covered in oregano and Parmesan, and it's sticking to me because of the butter! Look at me!",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I would think, with the law enforcement and the cross dressing. Seems like an interesting guy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, listen, do you want me to stay here until George gets up?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Woman",
+        "Jane"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yeah, Reilly?  Well, the jerk store called. They're running outta you",
+      "characters": [
+        "Elaine",
+        "Shelly",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, I could've stayed home and ordered a pizza from Paccino's.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Anna",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aaawh...This is GREAT!!.....Now I'm gonna be stuck at the singles table with all the losers.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, that's what I thought but apparently it's just a big piece of plastic dividing the room.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

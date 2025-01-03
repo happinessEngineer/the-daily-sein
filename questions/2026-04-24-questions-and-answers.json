@@ -1,0 +1,106 @@
+{
+  "gameNumber": 476,
+  "date": "2026-04-24",
+  "questions": [
+    {
+      "quote": "It looks like my accountant's office but there's no pets working there.",
+      "characters": [
+        "Jake",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see the beauty of my book is, if you don't have a coffee table, it turns into a coffee table.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, keep it.  Hey what happened to you? You buzzed five minutes ago.",
+      "characters": [
+        "George",
+        "John",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ten minutes? That's kooky talk. Hey Elaine, how long do you spend in the shower?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, we've had it with you. Understand? We love you like a son, but even parents have limits.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You're going to that again? Why? Just to do that stupid line?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I, uh, I borrowed it last night and it got a little dirty.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Ralph",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The prophet Isaah tells us without friends our lives are empty and meaningless.",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "Gary",
+        "Kramer"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "...and, and 'maybe' she'll see me when she gets there, does this woman intend to spend time with me?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I put that Chinese balm on that the Maestro gave me. And look, it healed it.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

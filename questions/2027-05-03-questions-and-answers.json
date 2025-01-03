@@ -1,0 +1,106 @@
+{
+  "gameNumber": 850,
+  "date": "2027-05-03",
+  "questions": [
+    {
+      "quote": "I'll tell you what's up. My stepmother is violently ill, so I hit the button for poison control and I get you!",
+      "characters": [
+        "Jerry",
+        "Receptionist",
+        "Waitress",
+        "Valerie"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "Oh you may stray, but you'll always return to your dark master, the cocoa bean.",
+      "characters": [
+        "Kramer",
+        "Harold",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's probably so the woman has one last chance to change her mind.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if you were blind, what do you think the worst part of it would be?",
+      "characters": [
+        "Jerry",
+        "Nurse",
+        "Deena",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think I'd really like to be a city planner.  Why limit myself to just one building, when I can design a whole city?",
+      "characters": [
+        "Rachel",
+        "Steinbrenner",
+        "Steven",
+        "George"
+      ],
+      "correctAnswer": "Steven"
+    },
+    {
+      "quote": "Never mind, never mind. I need you to do me a favour. Uhm, remember what we were talking about at the coffee shop earlier?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...shell. And fondled his muscled heart. He embibed her glistening spell...just before the other shoe...fell.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Receptionist",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What about the woman who's been drugged and taken advantage of?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because she's not returning it until she gets the money back for the hospital bill.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well we're sitting here together. Why wouldn't you think that.",
+      "characters": [
+        "Gavin",
+        "Elaine",
+        "Nikki",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 749,
+  "date": "2027-01-22",
+  "questions": [
+    {
+      "quote": "Oh, well, I'm sure you can reach her...she's a poet. What does a poet need an unlisted number for?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh, I have tremendous respect for people who work with feet. I mean, to dedicate yourself to the foot - you're toiling in virtual anonymity. I mean..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And so, uh I felt very uncomfortable with him and you know I just blurted out something about your party.",
+      "characters": [
+        "George",
+        "Evelyn",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you should always consider podiatry.  There's nothing wrong with the feet.",
+      "characters": [
+        "George",
+        "Russell",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't work in the rain? Your a mailman.\"Neither rain nor sleet nor snow.....\"It's the first one.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know when you break up, how you say things you don't mean? Well, he says the mean things you don't mean, but he means them.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you make this thing lower! I can hear it on the street!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's for me.  Kramerica Industries. Oh, hi, Mark. No no no. Forget that. I got a better idea. A pizza place where you make your own pie...",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, he's okay. In fact him and Elaine are getting ah, pretty chummy. Now Elaine wants me to buy some of his art.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah, very funny. And it wouldn't be impolite to laugh at his antics.",
+      "characters": [
+        "Tim",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

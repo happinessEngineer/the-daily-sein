@@ -1,0 +1,106 @@
+{
+  "gameNumber": 582,
+  "date": "2026-08-08",
+  "questions": [
+    {
+      "quote": "The Rogue's Wallet. That's where he kept his card, his dirty little secret. Short, devious, balding. his name was Costanza. He killed my mother.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Lanette"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "By the way, lunch is on me. I just cashed my Nana's birthday checks.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How can I go on a cruise with out my cabana wear? I love those, those clothes.  AH!  A mouse! I saw a mouse!",
+      "characters": [
+        "Kramer",
+        "Dana",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "A turkey sandwich. A side of slaw, … you want whit e meat or dark?",
+      "characters": [
+        "Hoyt",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, she mentioned she had a boyfriend and then it hit me. What do I need more closet space for?  Hi, Marla.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just got a brand new Armani suit -- doesn't fit me anymore. You want it?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "No, no, no. You gotta spend New Year's nineteen ninety-nine with me and Jerry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Danielle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No. Fortunately, the special tiny instruments arrived just in time. Would you like to visit him?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Elaine, you cannot judge a person on a situation like that. I mean it's like asking for someone's canteen in the desert",
+      "characters": [
+        "Detective",
+        "Elaine",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it always has to be explained to me, and then I have to have someone explain the explanation.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

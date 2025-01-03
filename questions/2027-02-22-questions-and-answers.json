@@ -1,0 +1,106 @@
+{
+  "gameNumber": 780,
+  "date": "2027-02-22",
+  "questions": [
+    {
+      "quote": "She went on in some detail about certain activities, illegal in some states, for consenting adults. Things you would know very little about.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you see, that's the genius of it. If he had said Liam Neeson, you'd know he's making it up.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, you did. There's nobody there now at the Magic Pan to roll the crepes. We gotta close it up.",
+      "characters": [
+        "Elaine",
+        "Ray",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "I mean, all those quick shots of the pants. Just pants, pants, pants, pants, pants, pants, pants. What is that supposed to be?",
+      "characters": [
+        "Guy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, the corkscrew pasta. It was a Fusilli Jerry. It got stuck in me. Had to go to the proctologist.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh him! Well this morning I found myself in the elevator with him…",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Elaine",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Yeah, but yesterday, he told Joyce, the aerobics teacher, that he wants to meet me outside here at nine o' clock tonight.",
+      "characters": [
+        "Abby",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Did you see the size of that document? It's like the Declaration of Independence, who's gonna read that?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But you're going to have to go get em. I'm not carryin' them all.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kruger",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry ... Where are you? I know you like to sit back here. Elaine! Susan!",
+      "characters": [
+        "Doctor",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

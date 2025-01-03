@@ -1,0 +1,106 @@
+{
+  "gameNumber": 303,
+  "date": "2025-11-02",
+  "questions": [
+    {
+      "quote": "Well I thought it was so your parents wouldn't walk in while you're with a girl.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Patty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait till you hear this!  Whoa, ah, I'm sorry, I didn't, I had no idea.",
+      "characters": [
+        "Babu",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, maybe it was Ghostbusters? Where ever it was, it worked!",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. I tell her you not here, she said curse word, I hang up.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Bruce"
+      ],
+      "correctAnswer": "Bruce"
+    },
+    {
+      "quote": "I never feel comfortable in the women's department. I feel like I'm just a *little* too close to trying on a dress.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself.",
+      "characters": [
+        "Poppie",
+        "George",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you think, would you go out with a sixty-six year old woman?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He also told me to tell you that he'll be in your neighborhood tomorrow around nine o' clock - so he's gonna stop in front of your building if you want to come down and say hello.",
+      "characters": [
+        "Joyce",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Joyce"
+    },
+    {
+      "quote": "What about stone washing? You ever witness one of those? That must be something. What? Do they just pummel the jeans with rocks?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am very excited about this date! We're goin' to Hunan Balcony!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Rachel"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

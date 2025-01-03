@@ -1,0 +1,106 @@
+{
+  "gameNumber": 296,
+  "date": "2025-10-26",
+  "questions": [
+    {
+      "quote": "Ah, great. All right, with the wine I'm in over twenty dollars now.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Hospital receives grant to conduct DNA research\"..\" Government funds genetic research at area hospital\" ... Yeah, so?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why you had to rent a car. We would have picked you up.",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Don't be ridiculous. Now, if you'll excuse me, I have to go to fill my freezer with my own blood.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And they're old jokes. I mean, the Pope and Raquel Welch in a lifeboat.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, because I love the foot. I'm a big fan of the foot.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "42, That's what I am now. I've been working out, I'm huge. How'd you like to sell it?",
+      "characters": [
+        "Bania",
+        "George",
+        "Kramer",
+        "Wyck"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Jerry, Newman and I are engaged in a epic struggle for world domination.  It's winner take all.  People cannot be trusted.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's a mechanism. You just pull it, and throw your body weight.",
+      "characters": [
+        "George",
+        "Brett",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "There's nothing more pathetic, than a grown man, who's afraid of a woman .",
+      "characters": [
+        "Kramer",
+        "George",
+        "Sid",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

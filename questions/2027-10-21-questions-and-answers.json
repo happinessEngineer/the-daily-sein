@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1021,
+  "date": "2027-10-21",
+  "questions": [
+    {
+      "quote": "I'd love to be a Civil War buff. ... What do you have to do to be a buff",
+      "characters": [
+        "George",
+        "Woman",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I, I couldn't help but notice that uh you don't have a chair.",
+      "characters": [
+        "Sid",
+        "Peterman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right in here. Just keep your eyes unfocused.  Waahh! Oh, mama!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm telling you the guy's a drunk, he's probably on a bender.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, you've got Danielle. Forget about Neil. You've out-Neiled him.",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Lloyd",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, here I guess, an' uh, uh I went out and picked up a paper.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I still won't be able to forgive myself - but at least it won't be about this.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Dandruff, kasha, mothballs, cheap carpeting. It's pot pourri, really.",
+      "characters": [
+        "Kramer",
+        "Manager",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I don't think so. I saw Newman as I was leaving but see me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, we're going down to Mt. Sinai Hospital, See they hire actors to help the students practice diagnosing.",
+      "characters": [
+        "George",
+        "Fdr",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

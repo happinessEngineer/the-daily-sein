@@ -1,0 +1,106 @@
+{
+  "gameNumber": 587,
+  "date": "2026-08-13",
+  "questions": [
+    {
+      "quote": "You know, that's around the same time I broke up with Lloyd. Y... you don't think that I had anything to do with his breakdown, do you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Valerie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uptight? Let's all just have a big pee party. Hey everybody, grab a bucket. We're going up to Jerry's. It's a pee party.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "hu_uh,  You know, everybody listens to the Chinese. I mean, look at the fortune cookie. You couldn't get away with that in any other restaurant.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I have an idea. Keep the van, and get a bumper sticker that says, 'If this vans a-rockin', don't come a-knockin'.'",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Landlord"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So concerned was he, that word of his poor tennis skills might leak out, he chose to offer you his wife as some sort of mediaeval sexual payola?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, I'm aware that my own physical dimensions are perhaps a little short of perfection.",
+      "characters": [
+        "George",
+        "Sandi",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I would see no trouble in spending up to, say, ten thousand dollars. Have my secretary give you a signed cheque.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "No, I'm tellin' you, people, they really want to make their own pizza pie.",
+      "characters": [
+        "Kramer",
+        "Silvio",
+        "Jerry",
+        "Manager"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Didn't go out of the house? Didn't take a walk... on Columbus Avenue?",
+      "characters": [
+        "All",
+        "Danielle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He said she's mentally ill. He's one of those guys who is obsessed with neatness and order? Everything has gotta be just so. He would have made a great Nazi.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Sidra"
+      ],
+      "correctAnswer": "Sidra"
+    }
+  ]
+}

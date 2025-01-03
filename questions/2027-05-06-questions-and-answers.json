@@ -1,0 +1,106 @@
+{
+  "gameNumber": 853,
+  "date": "2027-05-06",
+  "questions": [
+    {
+      "quote": "No, no, no no, listen to me. I work in fashion. Together, we can drive Putumayo outta business and make Cinqo de Mayo numero uno... de Mayo.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The way I feel when I go places with you?  Hey, so'd you find my sneakers yet?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How could she leave us alone with this lunatic? Ten more minutes, and that's it! I'm leaving. I have to tell you, this guy scares me.",
+      "characters": [
+        "Steve",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Poor Georgie, was it our fault this happened to him? Did we do something wrong? Maybe it was our fault.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I guess. She must've rolled over on a tick during the love-in.",
+      "characters": [
+        "Jerry",
+        "Morgan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's giving me a ride You know there had to have been a second spitter. But who was it? Who had the motive?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on, lets not stand here too long, we might run in to her.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tom",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[mockingly] \"Please hurry\". Look at you. Look at what you've become.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me see those.  Oh! I know the chunky that left these Chunkies......NEWMAN!!! I've got him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ned",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you happen to notice that Julie handed the big salad to Elaine?",
+      "characters": [
+        "George",
+        "Susan",
+        "Doctor",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

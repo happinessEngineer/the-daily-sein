@@ -1,0 +1,106 @@
+{
+  "gameNumber": 385,
+  "date": "2026-01-23",
+  "questions": [
+    {
+      "quote": "I'm out! Fantastic apartment right across from mine, huh. I can't wait for you to see it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Waiter"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. Anyway, uh...we're going into business together. Remember that idea I had a few years ago about the pizza place where you make your own pizza?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well if there was some problem with the garment. If it were unsatisfactory in some way, then we could do it for you, but I'm afraid spite doesn't fit into any of our conditions for a refund",
+      "characters": [
+        "Teller",
+        "Steinbrenner",
+        "Kramer",
+        "Gino"
+      ],
+      "correctAnswer": "Teller"
+    },
+    {
+      "quote": "Boys, this is Elaine. . . . Sorry, they're usually very friendly. Hey!",
+      "characters": [
+        "James",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Gee, I don't know. What if we're out somewhere and you see the Maytag repairman.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Could you do me a favor? Um, when my friends call, could you not talk to them for too long?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's funny. As it happens, I saw the same shooting star and double-wished you, to drop dead.  Here's your change.",
+      "characters": [
+        "Fdr",
+        "Julie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Fdr"
+    },
+    {
+      "quote": "Wow! Heh.  You don't, huh, have a replacement lined up for me, do ya? heh he he he he he...",
+      "characters": [
+        "George",
+        "Jake",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about \"Sonia Live\"? Now you're not cancelling \"Sonia Live\"?",
+      "characters": [
+        "Sid",
+        "George",
+        "Kramer",
+        "Sidra"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How can I figure out if there's any places to rent in Tuscany? Wait a minute. Poppy's from Tuscany. I'm gonna go call him.",
+      "characters": [
+        "Carol",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

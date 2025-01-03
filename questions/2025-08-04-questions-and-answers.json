@@ -1,0 +1,106 @@
+{
+  "gameNumber": 213,
+  "date": "2025-08-04",
+  "questions": [
+    {
+      "quote": "You better finish your little café latte there. They won't let you in with it.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whew! Anybody see that poster in there? That is weird, wild stuff, huh? Whew!",
+      "characters": [
+        "Jerry",
+        "Buckles",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not his girlfriend. Well, actually, we used to date, but not anymore.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Jerry, they're Japanese. I mean, that TV you watch, that sushi you eat, I mean, even that kimono you wear. Where to you think all that money goes, hmm?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "NOTHING LEFT! That's why I'm trying to get that vacuum cleaner. Because somebody's going to grab it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No he's not going to take it off. If he was going to go over there bald, I never would have introduced him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, that's a deal. That's a terrible deal. I don't want to go out to dinner with him. I'd rather make my own suit.",
+      "characters": [
+        "George",
+        "Harold",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The Duty Free Shop? Duty Free is the biggest sucker deal in retail. Do you know how much duty is?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Dan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I doubt it. You know what he's doing now? He's putting a pool table in my old bedroom.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well George, your vision is quite impaired. If you'll just sign this insurance form, here's a pen.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    }
+  ]
+}

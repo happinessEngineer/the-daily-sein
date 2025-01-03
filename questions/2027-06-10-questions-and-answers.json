@@ -1,0 +1,106 @@
+{
+  "gameNumber": 888,
+  "date": "2027-06-10",
+  "questions": [
+    {
+      "quote": "So, can I convince anybody to come down to Coney Island with me? I got to pick up my car at the pound. George?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know.. I made it up.  I'm never gonna get this thing.",
+      "characters": [
+        "Steven",
+        "George",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Steven"
+    },
+    {
+      "quote": "Cancel!  Think again, longshanks! I started planning this in nineteen seventy-eight. I put a deposit down on that revolving restaurant that overlooks Times Square, and I booked Christopher Cross.",
+      "characters": [
+        "Newman",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Grinders, sanders, wet stones. They are the ones who botched the Statue of Liberty job.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's ridiculous. Why do do you want to go back there if you don't want the coat?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who am I going to tell? My mother? Like I've got nothing better to talk about.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where the cartoon candy's dancing and the Milk Dud's playing the banjo?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're passing already? But the show just ended two minutes ago!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I love her Jerry, she's so authentic. I really believe everything is actually happening to her. There's no acting there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've looked through that window and screamed at him to shut the blinds.",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

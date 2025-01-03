@@ -1,0 +1,106 @@
+{
+  "gameNumber": 406,
+  "date": "2026-02-13",
+  "questions": [
+    {
+      "quote": "No, they can't find the problem. It's really getting ridicurous.",
+      "characters": [
+        "Donna",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "This MacKenzie, he's a bit of a nut. Someone told me he fired the last guy because his nose whistled when he breathed.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is a real piece of junk. I don't even feel safe on this thing. I have a good mind to write a letter toMr. Kimbrough.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A dealer? Are you insane? No, take out an ad. Sell it privately.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Salesman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No no it's ok.  So we'll go see Schindler's List later right?",
+      "characters": [
+        "George",
+        "Evelyn",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well Stubs has already sold it to some guy who's kid's in the hospital .",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's hell. It's the financial equivalent of a complete rectal examination. I would have killed this man. Torn him limb from limb, ripped the flesh right off his bones ...",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Never! It is a part of me. I will just return the chair, and it will be easy, because the receipt is in my good friend.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, perhaps we should inquire. Poppie! Oh, Poppie. Could I have a word?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kevin",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're through Soup Nazi. Pack it up. No more soup for you. Next!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gwen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

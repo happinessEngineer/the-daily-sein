@@ -1,0 +1,106 @@
+{
+  "gameNumber": 565,
+  "date": "2026-07-22",
+  "questions": [
+    {
+      "quote": "Jerry, I'll tell ya. The first thing I'm gonna do when I get back to Florida is take a shower.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No one is touching my feet. Between you and me, Elaine, I think I've got a foot odour problem.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, here's what I propose. Go down to the stables, snoop around. See if any high-flying cashier's been throwing twenty dollar bills around with big lips.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mohel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I mean the question isn't even for me it's for a friend.",
+      "characters": [
+        "Father",
+        "George",
+        "Rudy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"You know those shoes that Jimmy had? I cut a deal with him. We're gonna import a case of them together.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steve",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Apparently Peggy--down in Design?--got into a liiiittle bit of a Tiff yesterday with somebody named, \"Susie\"?",
+      "characters": [
+        "George",
+        "Bette",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Poor little bubble boy. He's sitting there waiting for you in his bubble, or igloo thing, whatever.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't think that someone having a baby warrants an exclamation point.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah? Well, you bombed! That story stunk worse than these chairs!",
+      "characters": [
+        "Noel",
+        "Elaine",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh leave Jack alone. Jack's got enough problems. I'll just take the small office.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

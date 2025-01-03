@@ -1,0 +1,106 @@
+{
+  "gameNumber": 244,
+  "date": "2025-09-04",
+  "questions": [
+    {
+      "quote": "Look. Kevin. I really like you, heh, heh, uh. But, um, maybe we'd be, better off just being.. friends.",
+      "characters": [
+        "Jerry",
+        "Jake",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't need a personal trainer.  all right I've got to go, we'll talk about this later.",
+      "characters": [
+        "Kramer",
+        "Morgan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, here's the deal. He wants you to acknowledge that you cut him off with an \"I am sorry\" wave.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, do you realize what's going on here? Do you know why you're here?",
+      "characters": [
+        "Sheila",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Santa is not a Commie. He just forgot how his good friend stuck his neck out for him to get him a good job like this. Didn't he Santa!",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "You need some new material. I've heard you do that dog routine three times already.",
+      "characters": [
+        "Leo",
+        "Kruger",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Wait a minute, that is my apartment. I earned it with 34 years of misery!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": ". Hi this is Bob from the Andover Shop. I'm trying to reach Craig Stewart. He left this number.",
+      "characters": [
+        "Bob",
+        "Eva",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "No, no, this wasn't moving on. I got the hook. I wish I could get a lesson in that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, of course I'm concerned. I'm payin' for those meals. It's like throwing money down the toilet.",
+      "characters": [
+        "Lippman",
+        "Monica",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

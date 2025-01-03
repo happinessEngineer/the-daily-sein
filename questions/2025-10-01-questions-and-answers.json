@@ -1,0 +1,106 @@
+{
+  "gameNumber": 271,
+  "date": "2025-10-01",
+  "questions": [
+    {
+      "quote": "Wait, you can't make a call like that on your way out. You can't rush that conversation.",
+      "characters": [
+        "Steinbrenner",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it's not the money. It's my hand. It's crippled from writing and writing.",
+      "characters": [
+        "George",
+        "Leslie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I used to love to sleep with my dolls when I was a little girl..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "It's.. .. you! It's really you! Oh, I'm such a huge fan of yours. Would you mind signing this poster for me?",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "Kramer",
+        "Doorman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No I haven't spoken to her all day-uh, yeah right, um, as a matter of fact, um, she was here, and she uh, left a note, but I wasn't here, but I have the note, uh, right here.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway there's at least four of them, and they're all huge. And one is bigger than the next. It's like a Russ Meyer movie.",
+      "characters": [
+        "Kramer",
+        "Hallie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I was just curious why you didn't use an exclamation point?",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm sure things'll pick up for you soon. Elaine, maybe we should get going.",
+      "characters": [
+        "Kramer",
+        "Brett",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "You know what you could do? I haven't eaten lunch or dinner. I can't eat this hospital food. Maybe you could run down to the deli and get me a sandwich..",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "Driver"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "That's it. Now, gimme your wallet. Got it in here, huh, fat boy!",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

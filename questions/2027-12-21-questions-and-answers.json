@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1082,
+  "date": "2027-12-21",
+  "questions": [
+    {
+      "quote": "Well, I ah.. been havin' trouble at home and uh.. I mean, ah, you know, I'll work harder, nights, weekends, whatever it takes..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There was this beautiful woman walking down the street wearing *just* a bra.  I can't get that image out of my mind.",
+      "characters": [
+        "Jerry",
+        "Ade",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, where are those invitations you were supposed to get? If they don't go out today they're useless.",
+      "characters": [
+        "Lanette",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "Oh. We were going to see that but it was sold out. So were going to see\"Blame it on the Rain\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah baby. spit, spit. What are these?\"Perducto de Peru\"Jerry, if you think these are Cubans you have another thing coming.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "Farkus"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I may not say this enough but you two are about the best friends a guy could have.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kevin",
+        "Kramer"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Oh damn. They changed the cable stations again.. just when I finally memorized them.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey, George. Here's the model number on that chair, by the way.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Eddie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. You can't get her anything better than me. Whatever I spend, you have to spend half.",
+      "characters": [
+        "George",
+        "Woman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yep, and the photo was all fixed and back on his desk, no thanks to you.",
+      "characters": [
+        "George",
+        "Leo",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

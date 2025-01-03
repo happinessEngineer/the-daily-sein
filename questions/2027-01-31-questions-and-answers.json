@@ -1,0 +1,106 @@
+{
+  "gameNumber": 758,
+  "date": "2027-01-31",
+  "questions": [
+    {
+      "quote": "What about the whole Christmas spirit thing? Any flexability there?",
+      "characters": [
+        "Jack",
+        "Announcer",
+        "Jodi",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh No, wait a second... Wait a second... I-I don't know the name of this woman in the bathroom, so when she comes out, you introduce yourself and then she'll be forced to say her name.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am talking about you and Jodi. You're completely obsessed with her!",
+      "characters": [
+        "Karen",
+        "Celia",
+        "Father",
+        "Elaine"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Hey, if you two are meant to be together...I'm sure the cops'll pick her up on something.",
+      "characters": [
+        "Mickey",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, so get this. I get a call this morning from one of the Mets front office guys. They wanna take me out to lunch.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You wanna see?!  There! There it is!  Alright, here! You wanna try on the hat?! Here! Try on the hat!",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had a bout of that myself one time -- knocked me right on my ass.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "...but is there any way that I could possibly have Neil's phone number?",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "-programs like Ken Burns' Baseball. And if Danny Tartabull were here, I'm sure he'd say, 'That's correct, Jerry.'",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you really understand my point about building a rocket and double-parking.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

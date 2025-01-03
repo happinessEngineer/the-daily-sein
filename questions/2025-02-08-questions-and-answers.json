@@ -1,0 +1,106 @@
+{
+  "gameNumber": 36,
+  "date": "2025-02-08",
+  "questions": [
+    {
+      "quote": "Hey listen... umm, instead of the movie... uh, maybe we'll go back and uh you know...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, it was something we did. Probably about, what? Twenty-five times?",
+      "characters": [
+        "Newman",
+        "George",
+        "Rebecca",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what, maybe we should all chip in for the gift.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So? I'm innocent! I mean you guys believe that I'm innocent, don't you? Jerry? George?",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Not because he think you stole the money, but mainly because you never thanked him for giving you his aisle seat at Freddy Roman's show.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Evelyn"
+      ],
+      "correctAnswer": "Evelyn"
+    },
+    {
+      "quote": "Oh, this baby loves the slob, loves it, eats it up. Eats the slob. Born in the slob. His father was a mudda'.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well what are we going to do now. If we can't get the babka the whole thing's useless.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello, Jerry. Say, this yogurt is really something, huh? And it's non-fat! I've been waiting for something like this my whole life! And it's finally here!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Brett",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Like you this donation for 50 bucks and I'd start tearing my clothes off?",
+      "characters": [
+        "Pam",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Looking at cleavage is like looking at the sun, you don't stare at it. It's too risky. You get a sense of it and then you look away.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

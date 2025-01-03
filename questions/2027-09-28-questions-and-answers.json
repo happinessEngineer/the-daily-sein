@@ -1,0 +1,106 @@
+{
+  "gameNumber": 998,
+  "date": "2027-09-28",
+  "questions": [
+    {
+      "quote": "Oh, hi. I-I'm Jerry Seinfeld. I'm movin' in. I saw your name on the buzzer - You must be Kessler.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, Mrs Allister.  Yeah, uh, just coming Mrs Allister.  Okay, I've gotta get out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Corinne"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I don't think we should tell George we saw Jane topless.",
+      "characters": [
+        "Enzo",
+        "Aaron",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello. George, come in. Come in I've heard an awful lot about you. Please sit down.",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "That's not the test. Contact is the test, if it moves, as a result of contact.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bob",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think yes, yes. You like the idea of telling people you're driving Jon Voight's car.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Hey, by the way, did you ever call that guy from the health club.?\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.",
+      "characters": [
+        "Stan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think you'll find out soon enough.  Aren't you going to get that?",
+      "characters": [
+        "Kramer",
+        "Bob",
+        "Sidra",
+        "Elaine"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "Alright, are we ready? Come on, let's get this show on the road.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Keith",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

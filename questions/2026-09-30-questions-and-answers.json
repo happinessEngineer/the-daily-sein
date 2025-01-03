@@ -1,0 +1,106 @@
+{
+  "gameNumber": 635,
+  "date": "2026-09-30",
+  "questions": [
+    {
+      "quote": "I don't get this Scissorhands. What, is he supposed to be like a super hero, like Green Lantern or somebody? What's with this guy?  Just asking.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Regis",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Blow out the candles! Blow out the candles, I said! Blow out the damn candles!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Susan",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Nah, I got it from a guy on the street. It was, like, fifty bucks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Deena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Busy. Don't give me busy. Who's not busy? I'm busy, we're all busy, everybody's busy. All right, tell me, what's kept you so busy?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You follow your katra, and you can do anything.  Now get out of here.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh huh. Well uh, I'll give you a call, and thanks for the fish. By the way, you know why fish are so thin?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well, send them in. Send the little tykes in. … little people .. pony express … wow,",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "George, you've been wearing those boots since I met you. You're not gonna wear them to the wedding, are you?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lippman",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "So, he made an appointment for me to see Dinkins' doctor. He's just trying to humiliate me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Eva"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that was a really stupid thing! You know what's going to happen now?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

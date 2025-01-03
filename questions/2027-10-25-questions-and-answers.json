@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1025,
+  "date": "2027-10-25",
+  "questions": [
+    {
+      "quote": "horning on my rock climbing trip. It's just supposed to be me and Tony",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Matthew"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I bent over backwards for that woman! Is it that thing I said about her sister?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How would you like it if I just pulled your heart out of your chest right now, and shoved it down your throat?",
+      "characters": [
+        "Tom",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "I didn't tell you to have a hot dog. Who told you to have a hot dog?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah but what if I am? I'm the last... male Kramer! We're facing extinction!",
+      "characters": [
+        "Jerry",
+        "Vanessa",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, well...a little rough finding something good in your price-range.  But you, my friend, may be in luck.",
+      "characters": [
+        "George",
+        "Jackie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, people - they're not interested in things like this. They don't want to hear about it. They really don't.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Raymond"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No argument. Unless, she's one of these multiple sneezers, and he's holding his 'God bless you' in abeyance, until she completes the series.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jerry",
+        "Officer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, even though you're not really going out with this guy, he's cheating on you?",
+      "characters": [
+        "Jackie",
+        "Conrad",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I turned my house upside-down looking for this! It's all I have left of her.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Marty",
+        "Elaine"
+      ],
+      "correctAnswer": "Marty"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 231,
+  "date": "2025-08-22",
+  "questions": [
+    {
+      "quote": "Nananeena, Ladadeeda, laadadeeda, saadina.... Laadadeeda sa saadina",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Babu",
+        "Elaine"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Oh yeah, that's right. Go. Put us all in the hospital. And you've ruined our business with all your macho head games.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Oh, well you know it's funny George. Sometimes you don't know how you're really feeling about something until a person like you comes along and articulates it so perfectly.",
+      "characters": [
+        "George",
+        "Beth",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "I only went in front first 'cause I could make it in front first and if you pull out I'll show you!",
+      "characters": [
+        "Mike",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "So I start to walk, and I trip, and the grocery bag goes flying, and Woody, Woody starts laughing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Those are my friends I was telling you about. We're gonna talk to them, pull over.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think so. I'm gonna try to get them to fly right back tonight.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, kid, quiet. Were did a nice little boy like you learn such a bad word like that? Huh?",
+      "characters": [
+        "Elaine",
+        "Landis",
+        "Gennice",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "What I haven't told you, or anyone else for that matter, is that my father's been in a Red Chinese prison for the past fourteen years.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on Sitarides, cop to it. What brand of perverted science do you practice?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1027,
+  "date": "2027-10-27",
+  "questions": [
+    {
+      "quote": "All right, listen. There is something I haven't told you, all right?",
+      "characters": [
+        "George",
+        "Gary",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Hey, you know I'm on the phone with the police! Some guy just gave me a wise answer. Ask that woman.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's that's correct, I-I felt that the character doesn't like to be ch-ch-chilly...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Prediction. I never see you or him again for the rest of my life.",
+      "characters": [
+        "Audrey",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if you are, you shouldn't. There's nothing available in that development.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ah, here we go... apple pie! Best apple pie in the city.  Mmm, delicious. I'm not waiting for you. Take some.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, listen to me. I have a very important job for you. I want you to come by twice a day and flush the toilet so the gaskets don't dry out and leak.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, when I'm skiing, Kramer, I'm trying not to kill myself, you're writing books!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Regis",
+        "Peterman"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "Oh, you know what you're like? You're like a pathetic gambler. You're one of those losers in Las Vegas who keeps thinking he's gonna come up with a way to win at blackjack.",
+      "characters": [
+        "Mike",
+        "Wyck",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I, I couldn't come. I, I had to drive my mother to, to the chiropodist.",
+      "characters": [
+        "George",
+        "Nina",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 815,
+  "date": "2027-03-29",
+  "questions": [
+    {
+      "quote": "Lady, I'm not his wife, I'm his welfare caseworker. Is he home?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "'Cause believe me, I would only say this to you and maybe a psychiatrist, maybe. Well, her nose is a little big.",
+      "characters": [
+        "Judge",
+        "Katya",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw, well, you know, it's your anniversary. It's - it's the least I can do. I - I just want you guys to go out and have a good time. Ha ha. So, you think we should, uh, we should get downstairs?",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, if we bring Elaine in, it's going to be so many people to keep track of. It's gonna be too hard, I'll forget where everybody's standing, you, me, Kramer, the butler, it's too much.",
+      "characters": [
+        "Sally",
+        "Jackie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Six months ago you were eating four of those for breakfast and chasing it with a ring ding. And two butter fingers on the train. Sounds familiar?",
+      "characters": [
+        "Vandelay",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mister Peterman, thanks for having me over. Your place isn't quite what I imagined..",
+      "characters": [
+        "Morgan",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A free trip to India. And by the way, you can take off those boots. Everyone knows you're five' six.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Well, last night she told me that she liked you. Not you, the disturbed you, so I had to tell her the truth.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, Cupid's Rifle -- 8:30, Sony Lincoln Square. Yeah, no, no, no, no problem, yeah.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, your, uh, folks said it was for rent, so I jumped on it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

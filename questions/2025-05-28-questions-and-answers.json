@@ -1,0 +1,106 @@
+{
+  "gameNumber": 145,
+  "date": "2025-05-28",
+  "questions": [
+    {
+      "quote": "I can't believe you still do that. You know those things are bad for ya.",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "Brett",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I get it. Why waste time making small talk with the doorman? I should just shut up and do my job, opening the door for you.",
+      "characters": [
+        "Doorman",
+        "Landlord",
+        "Jerry",
+        "Rava"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Well, ELAINE:, There's any number of things I could do. But, I can promise you this, though, this vicious beast will never bother you again. So, what's it going to be?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Excuse me, fine, you don't want me to tuck, put me down for a no-tuck.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jeannie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Brett, I'm, I'm really sorry. I didn't mean to hit you in the head with.. an axe.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Babs"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Two seconds. [To Skycap] Excuse me, my friend and I here, we were having a discussion and we were wondering what you usually get for a tip.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "on the left--exquisite marble! High ceilings. An' a flush, like a jet engine!  Ha ha!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I see. So your time is more valuable than mine. Is that it? You're a delicate genius!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you can confine them, you can punish them, you can cram them into the corner, but they're not going away, Jerry.",
+      "characters": [
+        "Eva",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He, uh, he must've been dictating first thing in the morning. \"I want a cup of coffee and a muffin!\"",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

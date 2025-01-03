@@ -1,0 +1,106 @@
+{
+  "gameNumber": 795,
+  "date": "2027-03-09",
+  "questions": [
+    {
+      "quote": "I don't know how you can unwind with that clock ticking. It makes me anxious.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, why do they make that bed so tight? You gotta sleep with your feet like that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I'll tell you this, you can forget about me going to that bachelor auction.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh, we've heard a lot about you!  It is so sweet of you to take her out.",
+      "characters": [
+        "Melissa",
+        "Kramer",
+        "Ade",
+        "Jerry"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "Oh! my god. What the hell is this? ..... Don't tell me.......Velvet!!!",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why do you have to be so suspicious of every one. This is a great man Zeng Zau, he wants to help bald people.",
+      "characters": [
+        "Daphne",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But you know as soon as she gets in the apartment she's going right for that machine.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Guy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey.  He doesn't even know where you live.. Who told you to give him your business card?..  That's Elaine.  Kramer..  George wants to know when you want to look for the cat again.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The guy slept with Marilyn Monroe, he's in Dinky Donuts. What about this doctor's note? Let's go see your friend Roy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Helping people... Of course. Of course! It makes perfect sense! How could I *not* be doing this!? I am gonna help somebody, Dammit!",
+      "characters": [
+        "All",
+        "Woman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

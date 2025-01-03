@@ -1,0 +1,106 @@
+{
+  "gameNumber": 484,
+  "date": "2026-05-02",
+  "questions": [
+    {
+      "quote": "Well, I'm the boyfriend. Otherwise, what's the point of being the boyfriend? This is where you have to be when you're the boyfriend.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"These pretzels are making me thirsty\"? That was one line! You got fired!",
+      "characters": [
+        "Elaine",
+        "Marcy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When you're dead, you're dead. That's it. You're not goin' anywhere...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "She works for PBS, I met her when I agreed to do that pledge drive.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I didn't really think about what I was gonna do with all..",
+      "characters": [
+        "Laura",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So.ehmmmm. so, do you have any ideas when the Nicole Millers are coming in?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's a cube. Anyway, he got married six months ago. He told me ever since he's been wearing a wedding band, women have been coming on to him everywhere he goes.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, that's right, well, you fell asleep one day on the sofa and I took them off your stinkin' feet. They looked so good to me, I just had to have them!",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Kramer",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I will get you for this. This is my business, this is my life. No one ruins this for me. No one!  Here's my card.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Mohel"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Santa speaks the language of all children. A notchie watchie dotchie do.",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "Toby",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

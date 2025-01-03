@@ -1,0 +1,106 @@
+{
+  "gameNumber": 916,
+  "date": "2027-07-08",
+  "questions": [
+    {
+      "quote": "Excuse me. Hey, how you doing. Uhm, my, uh, friend here says that he invented that little twirl you're doing.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know... You better make sure and never tell this woman to jump off the Brooklyn Bridge...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not stopping you from eating. Go ahead and eat. Get anything you want.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, you're a nice guy, it's just that... we don't have anything in common.",
+      "characters": [
+        "Kramer",
+        "Ben",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if you want to make a person feel better after they sneeze, you shouldn't say 'God bless you', you should say, 'You're soo good lookin''.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What would you say if I told you I never impregnated a woman?",
+      "characters": [
+        "Kramer",
+        "Gina",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Looks like what you really need is a decent desk for writing your skits.",
+      "characters": [
+        "Steinbrenner",
+        "Milos",
+        "Peterman",
+        "Brett"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "You would think that, but either you're born with a sense of humor, or you're not. It's not going to change even if you go from the red sun of Krypton all the way to the yellow sun of the Earth.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, well, if you repeat the name of the gift, you can't possibly like it.",
+      "characters": [
+        "Greg",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

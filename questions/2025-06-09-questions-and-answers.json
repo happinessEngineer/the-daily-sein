@@ -1,0 +1,106 @@
+{
+  "gameNumber": 157,
+  "date": "2025-06-09",
+  "questions": [
+    {
+      "quote": "No one's ever written me a letter like this. Maybe I was wrong about her!",
+      "characters": [
+        "Newman",
+        "George",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what? I think this Ruthie Cohen gave me the wrong change. Didn't I pay with a twenty? I'm sure I paid with a twenty.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Fine. Fine.  Excuse me.  Think I'm gonna forget about this? I haven't forgotten about this. I don't forget that easily!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well obviously that was a mistake. You need to forget about Arnie. The important thing is you're moving on.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the way, you know you're falling way behind on the 'I love you's.'",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ned",
+        "Meryl"
+      ],
+      "correctAnswer": "Meryl"
+    },
+    {
+      "quote": "I could have given you some pointers. I know how to press those buttons buddy.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Holy cow it's a scorcher. Boy I bet you that guy can cover a lot of court.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Announcer",
+        "Elaine"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "Hey, you know what I think it is? I think it's that East River. I think it might be polluted.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, why don't you take her to that place in Vermont I was telling you about? You know, that really charming place with the separate faucets for the hot and cold. She'll love it.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Different pipes go to different places! You're gonna mix 'em up!",
+      "characters": [
+        "Jerry",
+        "Naomi",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

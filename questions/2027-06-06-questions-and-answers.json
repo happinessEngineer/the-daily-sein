@@ -1,0 +1,106 @@
+{
+  "gameNumber": 884,
+  "date": "2027-06-06",
+  "questions": [
+    {
+      "quote": "Hey oo, I just remembered uh my parents really wanna have you guys over for dinner before you leave town. What about tonight?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can get a good one today. It's Enzo's day off. Gino's there all by himself.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Man",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, I gotta tell you something, but you cannot tell Susan.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, dating a convicted felon. I don't know how you missed it.",
+      "characters": [
+        "Haarwood",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well its, uh, well its too hard to keep up, you know, they were tired.",
+      "characters": [
+        "Elaine",
+        "Marcy",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "As long as you've got your checkbook out, how about forking a little over to PBS? You watch the station, don't you? You don't want to be a freeloader.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, baby. I set the trends. Who do you think started this whole Café Latte?",
+      "characters": [
+        "Maestro",
+        "Tim",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe you can strike one up with the prince of darkness as you burn for all eternity.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Duncan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is very exciting! You're on the Tonight Show, NBC, who else is on the show?",
+      "characters": [
+        "Vanessa",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you crazy? Don't you understand what I'm saying to you? This is not just an odour-- you need a *priest* to get rid of this thing!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

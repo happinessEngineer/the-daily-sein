@@ -1,0 +1,106 @@
+{
+  "gameNumber": 820,
+  "date": "2027-04-03",
+  "questions": [
+    {
+      "quote": "You know, George, just because your life is destroyed, don't destroy someone else's.",
+      "characters": [
+        "Maryedith",
+        "Jerry",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Is there anything wrong with getting a receipt at a toll booth?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, we've got to do something.  I'm calling Giuliani's headquarters.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The other day after work some girlfriends and I went to a bar for some drinks and there was this crazy mishap and I wound up meeting someone as a result. George...",
+      "characters": [
+        "Daphne",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "George what the hell are you doing over there? I told you to mind your own business now stay out of my affairs!",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I eat the whole apple. The core, stem, seeds, everything.",
+      "characters": [
+        "Gary",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'd stayed up all night I'd fixed myself up a little before I'd go out.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know who - isn't here. He was in the early class today.  But I think you made quite an impression on him yesterday.",
+      "characters": [
+        "Jerry",
+        "Joyce",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Joyce"
+    },
+    {
+      "quote": "Well, don't press the panic button. I'm sure that we can still salvage some sauce..",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ok, fine. It's going to be very interesting, very interesting if they don't show up tonight. You know my mother made all this Paella.",
+      "characters": [
+        "Jake",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

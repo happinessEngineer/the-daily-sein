@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1074,
+  "date": "2027-12-13",
+  "questions": [
+    {
+      "quote": "Oh, 'kay, see. On this particular Tuesday  you could've watched six hours of Lucy. There's I Love Lucy, The Lucy Show, Here's Lucy.",
+      "characters": [
+        "Tony",
+        "Ricky",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Ricky"
+    },
+    {
+      "quote": "He's like a virus. He attaches himself to a healthy host company, and the next thing you know, the entire staff's infected.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I bet I can get in once I mention I'm from ...The New Yorker.",
+      "characters": [
+        "Elaine",
+        "Joel",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hard feelings? What do you know about hard feelings? Y'ever have a man die in your arms? Y'ever kill somebody?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bookman",
+        "George"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "And then when I come out of the pool, my towel's always gone.",
+      "characters": [
+        "Elaine",
+        "Dana",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they say all it is is that you go over to their apartment and, I dunno, you take them for a walk and you get a cup of coffee and it's supposed to make them feel good.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "For me? Go...Yeah, what tonight? Yeah, I'll be there...Yeah later.  Well, somebody's baby-sitting.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I hate rental cars. Nothin' ever works: the window doesn't work, the radio doesn't work... and it smells like a cheap hooker... [pause] Or is that you?",
+      "characters": [
+        "Kimbrough",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, believe me it's not good. I'll mail you a new one with something really funny written on it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, I mean, sometimes it's good to get there and make sure you get your seats and then go to the bathroom.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

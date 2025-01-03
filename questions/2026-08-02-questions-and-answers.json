@@ -1,0 +1,106 @@
+{
+  "gameNumber": 576,
+  "date": "2026-08-02",
+  "questions": [
+    {
+      "quote": "Jerry you're a minor celebrity. If you go on this thing, it could create a minor stir. Bring that girlfriend of your and I'll only charge to 60 bucks.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, funny. Yeah, I never heard that before.  So, you goin' to the funeral?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh I suppose it's O.K. for Leonard Burnstein to be called Maestro because he conducted the New York Philharmonic. So he gets to be called Maestro and I don't.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "That?s-that?s-Harry Fong, he's a very good friend of mine and he's a big opera buff. Enjoy the show there harry!... You know what.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Dana"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So we're in the room and she's trying to get me to kiss her right in front of him.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, I'll take your picture. I'll take care of everything.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what, there's 50 bucks in it for you if you do it.",
+      "characters": [
+        "George",
+        "Lamar",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You saw him. He was fiddling with the engine. God knows what he did there.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're my neighbor. There's got to be a character based on you.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, did I tell you I called one of those girls from the personal ads in The Daily Worker?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 518,
+  "date": "2026-06-05",
+  "questions": [
+    {
+      "quote": "Jerry, I can't. It's like saying to Pavorotti, \"Teach me to sing like you.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Whooooa! here's the director Jerry Seinfeld . Jerry , you discovered Elaine Benes?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Doorman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. I'm flying them in to meet Ellen. I don't know where to turn! I gotta see what they think of her.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nice. French doors'd really open this place up. Oh, but you have a slop-bucket.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Gwen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, at least we know the prosthetic squirrel hips work ... sorry 'bout the set.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, I did have to talk with him. I definitely had to talk with him. Having a problem with my boyfriend.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "… I mean it's no big deal. You're still drivin'. You should have been watching the road.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, we're.. uhh, drinkin' and talkin', and uhh, so, she starts rubbing my leg.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's all taken care of. I filed a report. An investigation is underway.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Interference! You can't count that! Come on, are you crazy?! The coin cannot touch anything, it affects it.",
+      "characters": [
+        "Jerry",
+        "Gary",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

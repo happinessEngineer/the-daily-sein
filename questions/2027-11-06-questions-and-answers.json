@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1037,
+  "date": "2027-11-06",
+  "questions": [
+    {
+      "quote": "That's all I needed to know. So you actually swim in this thing?",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "Jerry",
+        "Hal"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "Hey What are you doing in my car? Hey!Hey!Hey! Where you going.",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "Jerry",
+        "Corinne"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I-I gotta call the Hospital. I gotta tell 'em what happened.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sophie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My name is George. I'm unemployed and I live with my parents.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, anyone sweaty comes into your house has to be offered a drink?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, George. How ya feeling? Is anybody getting your apartment?",
+      "characters": [
+        "Pitt",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Let's just say that I don't have to worry about working for a while. A long while.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...Yu uh, yes, yes uh, uh, Doctor Reston. Uhm well, hello there. Ahh yeah, well, I'm a good friend of Elaine's...",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

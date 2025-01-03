@@ -1,0 +1,106 @@
+{
+  "gameNumber": 347,
+  "date": "2025-12-16",
+  "questions": [
+    {
+      "quote": "All right, all right, one more time, one more time! What was the exact phrasing of the request?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that.",
+      "characters": [
+        "Detective",
+        "Elaine",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "Peggy, we've got to talk. What is it about me that you find so offensive?",
+      "characters": [
+        "Steinbrenner",
+        "Puddy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Jerry! Guess what! The Kramer name might live on! Noreen's late! She's laaate!!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They talk back. They go, \"Hey George, how's it going?\" I say, \"Get the hell out of here!\"",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Eddie. Yes, um, I am so sorry but I'm afraid we're gonna have to... promote you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Stu",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, nothing here, let's go.  Oh, I forgot to tell you. After I talked to you today my neighbour called me and played my messages to me over the phone.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Well, so, he can live without his Valium for a couple of days.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, she didn't think it was funny. What is she, Rowan & Martin? We're supposed to meet with NBC tomorrow! She completely shattered my confidence. And I'm paying for this, she's my employee!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tia",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, let's get going. C'mon, c'mon now.  C'mon, let's get it together..  Yeah?",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

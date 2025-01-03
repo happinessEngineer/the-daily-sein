@@ -1,0 +1,106 @@
+{
+  "gameNumber": 55,
+  "date": "2025-02-27",
+  "questions": [
+    {
+      "quote": "Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Fdr"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, uh, I'll see you boys later.  So uh, what's a guy got to do around here to get a library card?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is she the only girl in the whole world? Why can't you get find your own girl?",
+      "characters": [
+        "Kramer",
+        "Alec",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's no need to deny it, Elaine. I heard every word you said.",
+      "characters": [
+        "Kruger",
+        "George",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "It's right down here to the left. I will uh meet you right back here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I understand, I like good breakfast. Long as you don't wind up trapped in a room with bib overalls and pigtails, been counseled by Dick Gregory.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. I can't believe they're making me take this test.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, my liver! Why did I drink all those years? Why did I look for love in a bottle?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "You know Ron's Records down on Bleeker? They pay big cash for used records!",
+      "characters": [
+        "Celia",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, I am just a T-bone kinda guy. Love that T-bone. In fact, you might as well call me--",
+      "characters": [
+        "Kramer",
+        "George",
+        "Keith",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

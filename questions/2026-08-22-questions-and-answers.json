@@ -1,0 +1,106 @@
+{
+  "gameNumber": 596,
+  "date": "2026-08-22",
+  "questions": [
+    {
+      "quote": "It's all George's fault. All that talk about impotence. It got to me. And that orgasm stuff: orgasm this and orgasm that. It's a lot of pressure!",
+      "characters": [
+        "Kevin",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I gotta see a dentist, this is killin' me. Well, I'll take a chance. We'll go together.",
+      "characters": [
+        "Jane",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They've got everything there, Jerry. I underlined the best parts.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where are you living? Are you here? Are you on this planet? It's impossible. It can't be done.",
+      "characters": [
+        "Woman",
+        "Kevin",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, you can really talk some trash.  I guess that's better than eating it.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Federal Express? Of course. That's the oldest trick in the book. You know it might not be a burglar it could be a murderer.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I'm going to be playing golf at the Westchester country club. Mmh.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I bought a bottle of BBQ sauce in Memphis. I think the stewardess broke it when she tried to jam it into the overhead compartment because of this",
+      "characters": [
+        "Katya",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I would like to propose a toast....Wait a second.. George! George Costanza come in here.",
+      "characters": [
+        "Jane",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, which one is Julie?  Hey, you ladies look lovely tonight.",
+      "characters": [
+        "Hanke",
+        "Kramer",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

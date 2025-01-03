@@ -1,0 +1,106 @@
+{
+  "gameNumber": 731,
+  "date": "2027-01-04",
+  "questions": [
+    {
+      "quote": "Peterman's book is big business. People want to know the stories behind the stories.",
+      "characters": [
+        "Susan",
+        "Jodi",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Heh, haa. And that's no good. I've tried it straight, Jerry. We've all seen the results. For me, sick is the only way to go.",
+      "characters": [
+        "Izzy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, ah, I'll tell you, uh Regis... actually, this is a true story. I umm I was skiing at the time.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mel",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, he was waitin' inside his apartment for him with a sock full of pennies.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Mr Seinfeld, I..I'm not sure I understand why you want a job here.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, he came by to pick up his check for the banquet hall. You know I got a hundred and eighty-three responses? Oh, it's gonna be a rager.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I didn't do it! I just had to pay her to cover for somebody else!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, you know how in planes they got first class? More leg room, better ride? Well, I'm bringing that concept to mile one-fourteen.",
+      "characters": [
+        "Allison",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yeah.  There you go, keep the change. Bye now. I'll see you.",
+      "characters": [
+        "George",
+        "Sylvia",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't understand. This organ, it's very... schizophrenic.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

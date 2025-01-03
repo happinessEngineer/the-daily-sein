@@ -1,0 +1,106 @@
+{
+  "gameNumber": 604,
+  "date": "2026-08-30",
+  "questions": [
+    {
+      "quote": "No, no. C'mon, put something else on. It's early, let's go out.",
+      "characters": [
+        "Mohel",
+        "Kramer",
+        "Darryl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look Jerry, the show isn't about the circus, it's about watching freaks.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know it's a big problem.. she puts like four pieces in her mouth, it's ridiculous, I don't think we're gonna be able to get together on Saturday night",
+      "characters": [
+        "George",
+        "Jerry",
+        "Detective",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah. Where the people eat the plant life. The edible foliage tour.",
+      "characters": [
+        "Jerry",
+        "Mickey",
+        "Estelle",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I parked in front of that restaurant . As soon as this race is over I got to go to the airport.",
+      "characters": [
+        "Elaine",
+        "Landlord",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's an easy move: go from screwin' you behind your back to screwin' you right to your face.",
+      "characters": [
+        "Kramer",
+        "Hal",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, look. Here's the work order with everything that broke. Just kind of bring it up at the right time and find out.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it?s very flattering. How did you get these tickets, I heard they're impossible to get.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "His phone's been disconnected, but I was able to obtain an address - 1324 Amsterdam Avenue, apartment 4D.  Now, I did my job.  May I have the car keys, please?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got fifty right here in the cupboard. How about Bisquik? Pimento. Gherkin. Sauce. Maxwell House.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

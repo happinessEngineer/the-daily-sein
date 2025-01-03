@@ -1,0 +1,106 @@
+{
+  "gameNumber": 310,
+  "date": "2025-11-09",
+  "questions": [
+    {
+      "quote": "So you keep it a secret your whole life, then at your funeral the mortician comes out  'Here, Mrs Costanza, I thought you might want this'.  Aahh!",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh, what are you gonna do? You gonna put on phony beards and dress-up like Arab sheiks and sit around in some hotel room. I mean come on...",
+      "characters": [
+        "Frank",
+        "Valerie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's a writer from Entertainment Weekly . I would like to have a good show.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Babs",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, are you, nuts? You're gonna spend more on the ticket than you're gonna get back from Grossbard.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, but I still don't feel right about letting you into Kramer's apartment without his permission.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And now as Festivus rolls on, we come to the feats of strength.",
+      "characters": [
+        "George",
+        "Woman",
+        "Frank",
+        "Russell"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hey, George. How about that tour, huh? These guys are ready to run the bases.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. You forgot about my piece of pie. Hello?  You know, sex in a tub. That doesn't work!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got a feeling I'm gonna be much smarter than you pretty soon.",
+      "characters": [
+        "Jerry",
+        "Officer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, then just get rid of it. You won't have any problem.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Shelly"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

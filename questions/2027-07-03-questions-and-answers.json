@@ -1,0 +1,106 @@
+{
+  "gameNumber": 911,
+  "date": "2027-07-03",
+  "questions": [
+    {
+      "quote": "You single-handedly brought Costanza and Son to the brink of bankruptcy.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Lanette",
+        "George"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh yeah, people really seem to be enjoying themselves. You know, they come in once, it's like they're addicted.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're double dating tonight, and if we wear the same shirt we'll look like idiots.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mickey",
+        "Estelle"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "And I always take care of my Pisano's. So here is a little something.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're worse! They're much worse than us, they talk about everything! Couldn't you at least tell her about the shrinkage factor?",
+      "characters": [
+        "Harold",
+        "Ade",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you gotta be kiddin'! You see those two ladies I got showin'? Do they look scared?!",
+      "characters": [
+        "Ben",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "[stopping someone from sitting in the seat next to her] No, *TAKEN*, Taken, taken. [to George] [shrugs] I'm getting the hang of it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, that restaurant on top of the Chrysler building? Yeah, that's a good idea.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm very nervous about this. I've never spoken to a mental patient before.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, I happen to know how much that watch cost. It's a sixty dollar watch, you paid forty to get it fixed. That's a hundred dollars. I'm offering you two hundred!",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

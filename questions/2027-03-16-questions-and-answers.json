@@ -1,0 +1,106 @@
+{
+  "gameNumber": 802,
+  "date": "2027-03-16",
+  "questions": [
+    {
+      "quote": "Oh, come on! Hey, Newman didn't even give her that! No, that's not even a woman's coat. It's a man's!",
+      "characters": [
+        "Kramer",
+        "Keith",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I started out working in mortgage bonds, but I just found that so limiting.",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Well, it would take a hell of a lot. Because a friend is something you earn.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Woman",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "It's got a few more miles on it, but the previous owner was John Voight.",
+      "characters": [
+        "Salesman",
+        "Joel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "We should probably get one for Elaine, too, right George?  George?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This guy's a writer, he's a total nut. I think he goes to the same shrink as Elaine.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Babu? Babu...[waves Babu to come to table] Babu...you know, I got to tell you, I never do this, but the shrimp, it's just, it's a little stringy. You have any chicken?",
+      "characters": [
+        "Regis",
+        "George",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Please, if he's found guilty, please be kind to him. He's a good boy.",
+      "characters": [
+        "Steinbrenner",
+        "Mary",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, I don't know. I mean, I talked to him and, blah blah blah, he asked about you guys and, da da da da da, more questions, bleh bleh bleh....",
+      "characters": [
+        "Patrice",
+        "Elaine",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, you go over to the ticket counter, I'm going to go stop in the gift shop and pick up a copy of Time magazine. There's supposed to ba blurb about Jerry in it and I think he mentioned my name!",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

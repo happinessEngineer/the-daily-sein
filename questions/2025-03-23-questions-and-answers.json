@@ -1,0 +1,106 @@
+{
+  "gameNumber": 79,
+  "date": "2025-03-23",
+  "questions": [
+    {
+      "quote": "You know, this is liek that Twilight Zone where the guy wakes up, and he's the same - but everyone else is different!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I gave. I gave everything I could Mrs. Sokol. but nothing was good enough for her.",
+      "characters": [
+        "George",
+        "Dana",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Eight hours of jingle belling and ho ho hoing. Boy, I am ho'd out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, I don't want you causing any trouble down at that soup stand. I happen to love that soup.",
+      "characters": [
+        "Jerry",
+        "Valerie",
+        "Bruce",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't stop her, Jerry! Oh, I've seen 'em come and go, but this kid has got something!",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, like tomorrow for example, I have to uh...I have to buy him some socks.",
+      "characters": [
+        "Babu",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What, there's something wrong with Loni Anderson?  Hey listen, thanks again for running over here. I appreciate it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bania",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That doesn't punish me. It punishes Elaine! And cruelly, I might add.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you feel that tension? We use to have banter -  - there's no more banter.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Babs"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My name is George Steinbrenner, I'm afraid I have some very sad new about your son.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "Poppie"
+      ],
+      "correctAnswer": "Steinbrenner"
+    }
+  ]
+}

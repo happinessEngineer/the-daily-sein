@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1127,
+  "date": "2028-02-04",
+  "questions": [
+    {
+      "quote": "Ah, see.  I got the whole night ahead of me.  Boy, that's a nice jacket, huh?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, your spirit, your, uh, being. The part of you that says, \"Yes, I can!\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hey, listen, I'd better circulate..  Happy Chanukah, Tiffany!",
+      "characters": [
+        "Tim",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "What kind of plastic do you think it is? What do you think like that dry cleaning plastic?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Raymond"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's pregnant? Leslie is pregnant?! Oh, see, there is no justice.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, of course I'm taking Allison. This woman is genetically engineered to go to a ball. Tall, blonde, lithe--",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jeannie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I've never seen him but I feel like we have this weirdly intimate relationship. I mean, I'm lying in bed, I'm wearing my nightie,",
+      "characters": [
+        "George",
+        "Elaine",
+        "Noel",
+        "Alton"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what you ought to do? Go see my friend Dwayne at J & T Optical on Columbus Avenue. He'll give you thirty percent off.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

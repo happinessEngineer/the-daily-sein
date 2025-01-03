@@ -1,0 +1,106 @@
+{
+  "gameNumber": 183,
+  "date": "2025-07-05",
+  "questions": [
+    {
+      "quote": "What's so hard about that? How am I supposed to get it in there? I can't just walk in with it. I have to get the Rosses out of the apartment!",
+      "characters": [
+        "Jerry",
+        "Pop",
+        "George",
+        "Ethan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, they gave me the heave ho. You know, I don't think that Kenny Rogers has any idea what's going on down there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well, what am I gonna do for a date.?...Oh! do you know that ..hemmm! blond guy who's always at the exercycle at the health club?\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Sally",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, why don't you just try your blow-off number and see if he's called it?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I made a map of my shortcuts. I'm gonna rock their world!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think I don't know, Assman?!! To think I almost split the profits on the Manssierre with you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, your mother found it. Son, this is the most wonderful and thoughtful thing you've ever done for me.",
+      "characters": [
+        "Elaine",
+        "Lanette",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "From Maryland. The one who brought you the chocolate covered cherries you didn't like.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "He is? Listen. When he's finished, send him over to my house.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tom",
+        "Kramer"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "Well, we could fly some fabric in from our silk factories, for about a thousand dollars a bolt.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

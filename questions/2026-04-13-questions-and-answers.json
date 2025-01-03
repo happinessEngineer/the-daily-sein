@@ -1,0 +1,106 @@
+{
+  "gameNumber": 465,
+  "date": "2026-04-13",
+  "questions": [
+    {
+      "quote": "Because, he doesn't pay any attention to me, and uh he ignores me.",
+      "characters": [
+        "Hoyt",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, Jerry has one of those every time he bombs on stage.",
+      "characters": [
+        "Kramer",
+        "Donna",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm on the phone with Bob, and I realize right then and there that I need to return this pair of pants. So, I'm off to the store.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Tony"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, the lift. Like the lure of the siren's song. Never what it seems to be, yet who among us can resist?",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I dunno about you two, but I'm quitting. I hate my guy. He's a mean, mean guy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Rita"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, honey. What do you want to get? [in babying voice] I want you to get anything you want...'cause I love you so much. I want you to be happy. Okay, sweetie?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lopper. You know, Lisi, maybe we should give this a little more time. See how it looks in the light of day.",
+      "characters": [
+        "Margaret",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Damn you Seinfeld. You useless pustule. Um, somebody's got something on the griddle. maybe it's Kramer.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Anyway, so he gave me his spare keys, now he wants to have my keys, so I need mine back from you.",
+      "characters": [
+        "Fdr",
+        "Steve",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If I see her, what do I say that I'm doing here in the building?",
+      "characters": [
+        "Jackie",
+        "Clerk",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

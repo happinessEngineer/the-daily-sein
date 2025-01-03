@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1070,
+  "date": "2027-12-09",
+  "questions": [
+    {
+      "quote": "What's the difference?! That's the one! He ripped me off! This guy ripped me off!",
+      "characters": [
+        "Melissa",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, I admire the hell out of her. You can't have sex with someone you admire.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Father"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I meant the bald cure. We were talking about the bald cure.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tony",
+        "Doorman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Never mind Uma, I need that ticket to get my mother's fur coat back. Why don't you just give him the money for the suit?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rick",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I was excited because Jerry was putting on the puffy shirt.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you know Marisa Tomei won an Oscar for that? Boy, she's beautiful, don't you think? I wish I looked like that.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I mean they're your parents and you don't do anything. So why is this stranger doing it?",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No see, he's not smart. People think he's smart, but he's not.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I took her home one night – we kinda started up a little bit in the car.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "… yeah …ha ha. Well you made a long journey from Milan to Minsk.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bette",
+        "Pop"
+      ],
+      "correctAnswer": "Bette"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 414,
+  "date": "2026-02-21",
+  "questions": [
+    {
+      "quote": "Elaine...let me just explain something to you. See, this is not just a weekend routine...I'm on the verge of make-up sex here. You know about make-up sex?",
+      "characters": [
+        "George",
+        "Carol",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Gimme the jacket, furface, this is not Seinfeld you're dealing with! When I get through with you, you'll be begging to go to the pound!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ya, he said you could never make a commitment to any one and you'd just wind up  hurting me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "No, I ate the whole plate. I didn't know those little things were garlic. I thought they were peanuts.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sophie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's my parents. My father came up to see a back specialist.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, not really. I'm just saying this to you because I like to hear myself talk. Yes, really!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "People can drop change down here, Jerry. And they're too lazy to pick it up.",
+      "characters": [
+        "Rabbi",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Dammit! I got another call. Uh, hang on, don't hang up Jerry.",
+      "characters": [
+        "Jeannie",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We can't have 2 Cocos. So I guess you're back to being George.",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You know, I saw someone on the street eating M&Ms with a spoon.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

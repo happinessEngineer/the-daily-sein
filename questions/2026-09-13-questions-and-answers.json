@@ -1,0 +1,106 @@
+{
+  "gameNumber": 618,
+  "date": "2026-09-13",
+  "questions": [
+    {
+      "quote": "Well you're lucky he was able to get you this appointment. You know what the waiting list is for this guy?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "If there's any doubt, I do a leave-behind. Keys, gloves, scarf -- I go back to her place to pick it up... date number two.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know with all do respect I would think it's right up your alley.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, boy I was up to four in the morning watching the Omen trilogy.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well thanks to you and your little comment there to David and Beth. Jerry and I are in prime pouncing position to scoop these two up  before they know what hit em.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So what could I do? I couldn't go through with it. She threatened to kill herself.",
+      "characters": [
+        "Brett",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I gotta get to Fowler. I know that he would take this squirrel off my hands. It's practically bionic!",
+      "characters": [
+        "Alec",
+        "George",
+        "Jerry",
+        "Katya"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "OooH!!! You. you ate these? You sucked on these and put them on the plate?",
+      "characters": [
+        "Kramer",
+        "Jake",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I understand. This could be a tough thing to deal with. The important thing is that you have a partner who's supportive.",
+      "characters": [
+        "Sophie",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "What about you, George? Have you written anything we might know?",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "George",
+        "Farkus"
+      ],
+      "correctAnswer": "Russell"
+    }
+  ]
+}

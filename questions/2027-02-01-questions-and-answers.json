@@ -1,0 +1,106 @@
+{
+  "gameNumber": 759,
+  "date": "2027-02-01",
+  "questions": [
+    {
+      "quote": "I'm going out with one of the Miss America contestants, you wanna go?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You what I'll do next time? I'll hide it so nobody can find it.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You know what? It sounds like the friend of Elaine's that was hitting on me in the book store.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh Elaine, that's so good to hear. I've been having a few health problems lately.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Vivian"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Guys, hitting is not about muscle. It's simple physics. Calculate the velocity, v, in relation to the trajectory, t, in which g, gravity, of course remains a constant.  It's not complicated.",
+      "characters": [
+        "Kramer",
+        "Darryl",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "As Miss America, I would try and bring an end to world hunger. If every person sacrificed one meal a week, there would be enough to feed the whole world!",
+      "characters": [
+        "Karen",
+        "George",
+        "Elaine",
+        "James"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Yes, I will do the opposite. I used to sit here and do nothing, and regret it for the rest of the day, so now I will do the opposite, and I will do something!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bookman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So? We've always just kind've pecked. This one had a totally different dynamic.",
+      "characters": [
+        "Elaine",
+        "Izzy",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The only way I could talk him out of it was that I agreed to go and visit the Tunisian desert.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because it's really a pretty good little story. Don't you think?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

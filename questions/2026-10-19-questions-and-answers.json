@@ -1,0 +1,106 @@
+{
+  "gameNumber": 654,
+  "date": "2026-10-19",
+  "questions": [
+    {
+      "quote": "She won't talk to anyone, huh? Oh no, she won't say a word to anybody. Well, she's talking a blue streak now, Jack!",
+      "characters": [
+        "Gary",
+        "Marcelino",
+        "Jerry",
+        "Sylvia"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Yeah, much better. All right, so what's the move, because I need *something*. This woman I'm dating, it's like she's doing her nails during love-making.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sample?  Newman. Uh, I was there but I was just dropping off a book.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute! You're--now you're getting a divorce because she's from Long Island?!?!",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, just tell him you had sex with his wife. That'll kill him.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? I can't hear a word you're saying. I was stuck at the Dixieland Deli all day. My head is still ringing. Where's Tim?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Well um, I was just curious if I were interested in availing myself of your services, um, what exactly would you do?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well let me ask you this. What exactly did you say when you asked her out?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, yeah...see, men don't care what's on TV, men only care what else is on TV.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

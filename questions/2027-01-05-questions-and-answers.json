@@ -1,0 +1,106 @@
+{
+  "gameNumber": 732,
+  "date": "2027-01-05",
+  "questions": [
+    {
+      "quote": "I could go bumper to bumper with any one else on this planet!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, it's working out. And I got a date with that waitress who works at Reggie's.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, is this disruptive? You find it hard to work with someone...interrupting?",
+      "characters": [
+        "Poppie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you gotta take a ride with me later. I borrowed my father's car. '68 GTO.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Went up to the Cape. Took the kids sailing.  Lisa was a little scared at first, but that kids' gonna be a good sailor someday.",
+      "characters": [
+        "Dan",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "It's been a rough couple of weeks, ya know I really needed to get away.",
+      "characters": [
+        "George",
+        "Captain",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let me show you to your table.  Your duck is cooking as we speak. It is so succulent...so succulent!",
+      "characters": [
+        "Russell",
+        "George",
+        "Rava",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Oh, I was uh, I was waiting downstairs for the jackhammer, thought I'd drop by.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know Bobby, it's very very hard to hit two home runs in one game. Even for Paul O'Neill.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It all right if I keep these here for a while? I'm having a New Year's Eve party.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

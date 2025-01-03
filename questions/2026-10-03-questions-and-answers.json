@@ -1,0 +1,106 @@
+{
+  "gameNumber": 638,
+  "date": "2026-10-03",
+  "questions": [
+    {
+      "quote": "You sure you don't want me to take my clothes off?  I'll do it!",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Sometimes I've given my number out to guys and it takes them a month to call.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is amazing, I haven't seen one person go in to that restaurant since it opened. Poor guy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. It's just the last coupla days my mind has been, not good.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I said something about dentists and it got blown all out of proportion.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She said there's some tractor story that she hasn't told me about.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. This was the only woman I never lied to. Well that's not entirely true.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The meal is the act of sitting down with him. It doesn't matter what you get, as long as he's sitting in that restaurant, its a meal.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Ruby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, she's starting to slip a little. Sometimes she has Difficulty distinguishing between the past and the present.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, you stand in the lobby, by the elevator, and wait for her to come down for lunch.",
+      "characters": [
+        "Morgan",
+        "Morty",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 200,
+  "date": "2025-07-22",
+  "questions": [
+    {
+      "quote": "\"Hey you know , I felt we had like a synergy out there,you know, like we were really helping each other.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Trying to meet him. He's never at the video store. They said he sets his own hours.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, I just have to go over to the Ross' apartment and drop off Susan's sunglasses. You'll come with me?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Here I personally made you a cold chicken sandwich. It's not even on the menu.",
+      "characters": [
+        "Jerry",
+        "Waitress",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Well, I don't know how official any of these rankings really are.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Never been a big fan. [coughing] Um..you know what? Has anyone ever told you you look exactly like Al Pacino? You know, \" Scent Of A Woman.\" Who-ah! Who-ah!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, come on, man! Well, I'll tell you what, if you do this, I'll give you that walkman you're always asking about.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Nina",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, he's getting credit for work that I did! He's gonna sidle me right out of a job.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway there are these three big boxes, you can't miss them. I want you to ship them here to New York for me.",
+      "characters": [
+        "George",
+        "Helen",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Some people like to have the radio alarm a little louder than the radio.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

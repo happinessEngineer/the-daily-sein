@@ -1,0 +1,106 @@
+{
+  "gameNumber": 978,
+  "date": "2027-09-08",
+  "questions": [
+    {
+      "quote": "So what? Somebody dropped an egg on my head as I went into my building last night.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jane",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, please! I took you back. You know it, I know it, Vegetable Lasagna here knows it.",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I was speaking earlier with Kramer and he mentioned something about a private jet to Paris?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Elaine, I feel a cold coming on. Could you get me a cold pill from the medicine cabinet?",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Pitt",
+        "George"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "Eh...Varnsen. Kel Varnsen. Actually, this room intrigues me. Why is it called the TV room?",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He bothers me. I don't even answer the phone anymore because of him. He's turned me into a screener. Now I gotta go see him on Wednesday.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I need someone to go with me to Mr. Lippman's son's Bar Mitzvah.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Holly",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, has the summer of George already started or are you still de-composing?",
+      "characters": [
+        "Jerry",
+        "Shelly",
+        "George",
+        "Craig"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why don't they open up an entire store for the back? Call it, \"Just Back.\" All back; No front. You walk in the front, you're immediately in the back.  Look, Elaine, tie carwash.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Levitan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's Martine. I think he's dying. He tried to kill himself with pills.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

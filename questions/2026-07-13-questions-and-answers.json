@@ -1,0 +1,106 @@
+{
+  "gameNumber": 556,
+  "date": "2026-07-13",
+  "questions": [
+    {
+      "quote": "Kramer, I just want to thank you again for last night, you really saved me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Hey look, I just chalked down the message. I didn't know I was required to capture the mood of each caller.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Jake",
+        "Kramer"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "That's good stuff, and you can never have too much ice. Alright, I'll tell you what I'll do. You can co-host the party with me, under one condition. No Jerry. Jerry is not invited.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Ohhh, maaan!! It's over! The Kramer name is finished! I'm never goin' to procreate--",
+      "characters": [
+        "Jerry",
+        "Laura",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It failed here! Because, here, every time you turn on a TV, all you see is four morons sitting round an apartment, whining about their dates!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm going to call Gino, you're going to see him, and we're going to get that haircut fixed up.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But I'm keeping it. As much as I hate the idea of being a van guy, it's much better than hanging out here with the nocturnal dirt people.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've been thinking about her, I just cashed some of her checks.",
+      "characters": [
+        "Jerry",
+        "Mickey",
+        "Jack",
+        "Emily"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've tried. We don't have it. But maybe the two of us, working together at full capacity, could do the job of one normal man.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I, uh, just think it's a little unusual. Two people to sit on one side...and leave the other side empty.",
+      "characters": [
+        "George",
+        "Jack",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

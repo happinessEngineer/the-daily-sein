@@ -1,0 +1,106 @@
+{
+  "gameNumber": 83,
+  "date": "2025-03-27",
+  "questions": [
+    {
+      "quote": "Look sweetheart I don't know who you are. I don't know what you're doing here. But...",
+      "characters": [
+        "George",
+        "Worker",
+        "Kramer",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Uh well um, I felt that the writing lacked certain emotion and intensity.",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's gotta be more to life than this. What gives you pleasure?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Waiter",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But wouldn't that be the ultimate comedian's revenge? I've always had a fantasy about doing that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. You know what I just realized? Suddenly, George has become much more normal than you.",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You ditched me. That's twice. Now I demand to know what's going on!",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No don't do this.  You're not doing this. I will fight you. No you don't... No.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Marty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I mean, he was in the apartment, and then it's gone and it's in your apartment.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because to pull rickshaws means more than just strong legs. You're also going to need a well-toned upper body.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, George, look at me. Okay, forget about the zipper. ... What's your girlfriend's name?",
+      "characters": [
+        "Peterman",
+        "Mickey",
+        "Kramer",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
+    }
+  ]
+}

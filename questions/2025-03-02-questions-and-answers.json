@@ -1,0 +1,106 @@
+{
+  "gameNumber": 58,
+  "date": "2025-03-02",
+  "questions": [
+    {
+      "quote": "It's morning. Thanks for seeing me through the night. I'll make us a pot of coffee, George. Watch her, won't you?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "With Jon Voight's teeth marks.  Owner's manual...you know what? This car was owned by Jon Voight.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Diane",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell that to Bobby Colby. All that kid wanted to do was go home. Well he went home alright, with a crater in his colon the size of a cutlet. Had to sit him on a cork the eighteen-hour flight home!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.",
+      "characters": [
+        "Sophie",
+        "Jerry",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "Wait a minute. I thought that Art wanted to give up the exporting.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "Darryl"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I am lying down. I am trapped under a funky mattress. I gotta go get a doctor or at least come over and roll this thing off of me.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, alright, but no funny business, same deal as last night.",
+      "characters": [
+        "Kramer",
+        "Celia",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Atlantic City?  Yes! Yes! I will go to Atlantic City. I'm in. I'm down.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Forget the shower! The shower's out. Move it! Put your clothes on! Put your clothes on!  Where are you going?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but...  you don't want to go to... that... no.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

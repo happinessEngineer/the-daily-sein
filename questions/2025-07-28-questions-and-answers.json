@@ -1,0 +1,106 @@
+{
+  "gameNumber": 206,
+  "date": "2025-07-28",
+  "questions": [
+    {
+      "quote": "I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My neck is killing me. Right in this spot. Very tender over here.",
+      "characters": [
+        "George",
+        "Farkus",
+        "Helena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I started riding these trains in the forties. Those days a man would give up their seat for a woman. Now we're liberated and we have to stand.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "What, you don't think I can attract beautiful, intelligent women?",
+      "characters": [
+        "George",
+        "Susan",
+        "Maestro",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Take it easy, I've been through a million of these negotiations.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Kramer, I don't wanna stop and talk with everyone, every time I go in the building. I just wanna nod and be on my way.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Naomi",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You had a date? You went out with my butler? Who said you could go out with my butler?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Eh, listen Mr. Kruger, I got a message from Dr. Van Nostrand and he says it might be wise to you to see another doctor about that mole.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "OK fine.  I did like that little Calvin Klein number right by the elevator. You know the little ...",
+      "characters": [
+        "Elaine",
+        "Attendant",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I think I will go upstairs. I can check my machine.",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "Carol"
+    }
+  ]
+}

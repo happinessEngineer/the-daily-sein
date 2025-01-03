@@ -1,0 +1,106 @@
+{
+  "gameNumber": 155,
+  "date": "2025-06-07",
+  "questions": [
+    {
+      "quote": "Oh, damn, this place is incredible, look at all this great light!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Joe"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I may move out there.  I mean it, I'll do it! OK, I'll see ya later. Keep it real!",
+      "characters": [
+        "Kramer",
+        "George",
+        "John",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't consider age in the face of cleavage. This occurs on a molecular level, you can't control it! We're like some kind of weird fish where the eyes operate independently of the head.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah that's a good deal -- you win the Pennant with that trade, hair for phlegm.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, a friend of mine almost got beat up at that place by the Van Buren Boys?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Vanessa",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, are you listening?! I didn't even get there!  All right, next story..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Eva",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, it&Mac226s, it's supposed to be really bad, *really* bad. I mean it's long, there's no story, it's so unbelievably boring, I heard. i...",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what about this? I'm in a car accident. The motorist is uninsured, you with me?",
+      "characters": [
+        "Phil",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just wanted you guys know that Friday's my last day. Bloomingdales ordered a bunch of my clips, thank God, I don't have to do this any more.",
+      "characters": [
+        "Elaine",
+        "Carrie",
+        "Jerry",
+        "Kelly"
+      ],
+      "correctAnswer": "Kelly"
+    },
+    {
+      "quote": "Ah, this is the kind of day that almost makes you feel good to be alive.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Mohel",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 345,
+  "date": "2025-12-14",
+  "questions": [
+    {
+      "quote": "All right. As you walk in the place move immediately to your right.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Diane"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah, yeah, great.  And get some of those blue corn chips.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Announcer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, this guy Jean-Paul, Jean-Paul... I met him when I was working at Pendant, editing a book on running...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Clare",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I knew this was going to happen. I just made a delicious casserole, but now it won't keep because I have no Tupperware.",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "Jimmy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, it's me, George, don't worry, I'll return it tomorrow, no problem.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Nana",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Spit it out? I had dogs chasing me for that mutton. I was almost mauled because of that mutton.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, sure. I was showing a condo on 48th street. Besides, you think I wanna miss this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Katie",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, I'm surprised.  I would think Kramer would have a knack for moving pieces of a person's spine around.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. And since you go buy there everyday. I was hoping that we could help each other out.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, well, maybe I'll mention it to Russell tomorrow night.",
+      "characters": [
+        "Elaine",
+        "David",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

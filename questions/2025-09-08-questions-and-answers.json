@@ -1,0 +1,106 @@
+{
+  "gameNumber": 248,
+  "date": "2025-09-08",
+  "questions": [
+    {
+      "quote": "Hey, watch were you're going. You almost knocked my head off!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Without the writing, you have nothing. You're the ones that make them look good.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well you got that big comfortable bed and that nice warm quilt.",
+      "characters": [
+        "Kramer",
+        "Wendy",
+        "Lois",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, it's like hitting a car and driving away without leaving a note.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aahh! You're great,It's great, It's so great to see a show that's  about something.",
+      "characters": [
+        "Newman",
+        "Ruby",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Anyway, I'm a new man, and I'm looking towards the future. Clean, dirty, whatever.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Hey listen, let me give you my card. It's got my home number on it. I want to buy the first pair when the next shipment comes in.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bette",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey!  ha ha ha ha. Nice sidle, huh? Speaking, of which I think I've got that problem, solved.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Huh haha!  You're meat, Reilly! You just screwed yourself!  Ha ha!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Steve"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lifts?! Look Kramer you don't understand, this kind of thing is just not done.",
+      "characters": [
+        "Kramer",
+        "Marla",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    }
+  ]
+}

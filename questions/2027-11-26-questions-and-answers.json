@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1057,
+  "date": "2027-11-26",
+  "questions": [
+    {
+      "quote": "Surprisingly, no. I'm freee, I'm unfettered...  Feel like a naked innocent boy rrroamin' the countryside!!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah she asked for your number, I think she's gonna get in touch with you.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Okay...So you were violated by two people while you were under the gas. So What? You're single.\"",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I met someone at this party, and I know where she works, but I don't know her name.",
+      "characters": [
+        "All",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I sold raincoats in the garment centre for thirty-eight years. In nineteen forty-nine...",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight.  He's been stabbed.",
+      "characters": [
+        "Waiter",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "She stole twenty dollars from me.  Yeah, I might've gotten it back, but Lloyd Braun interfered!",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bookman? The library investigator's name is actually, Bookman?",
+      "characters": [
+        "Kramer",
+        "Jake",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, why don't you do everybody a favour, and just get out of this building?  Nobody wants you here. Nobody!",
+      "characters": [
+        "Mary",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "Did you see that? That-that pigeon didn't move! I had to swerve to get out of the way! I saved that pigeons life!",
+      "characters": [
+        "George",
+        "Brett",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

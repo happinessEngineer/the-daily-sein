@@ -1,0 +1,106 @@
+{
+  "gameNumber": 623,
+  "date": "2026-09-18",
+  "questions": [
+    {
+      "quote": "Oh. Let me ask you, when someone is lying, is it true that their pants are actually on fire?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no no it's not about postponing. I just think the first day of Spring is the perfect day to get married. You know, Spring! Rejuvenation! Rebirth! Everything is blooming all the …",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you this. If you stick your hand in the hair is it easy to get it out?",
+      "characters": [
+        "Peterman",
+        "Earl",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you're getting to be an annoying little chore yourself.",
+      "characters": [
+        "Levitan",
+        "Morgan",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, funerals always make me think about my own mortality and how I'm actually gonna die someday. Me, dead. Imagine that.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Can I have one? I need one of those old-looking phones. So you wanna grab a bite?",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Kramer",
+        "Ned"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You have some kind of problem here? What is it you not understanding? We taking the armoire and that's all there is to it. Okay?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Okay, well that's all the time we have for today. Why don't we pick up with this next week?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, hi. Mister Costanza, we were trying to get in touch with you. Wendy can't make her appointment.",
+      "characters": [
+        "Jerry",
+        "Sophie",
+        "Woman",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Aah, top of the fridge. Hey George, I'm taking that waitress to the Tony's.",
+      "characters": [
+        "Stu",
+        "Woman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

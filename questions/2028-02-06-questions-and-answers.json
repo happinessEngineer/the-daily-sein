@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1129,
+  "date": "2028-02-06",
+  "questions": [
+    {
+      "quote": "Hey, I don't care. I'm just telling you to  get rid of that stock, now!",
+      "characters": [
+        "Fdr",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no, no. It's not a new number. It's--it's--it's just a changed number. See? It's not different. It's the same, just...changed.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's seventy-five bucks?! What, am I seeing Sinatra in there?! Am I being entertained? I don't understand this. I'm only paying half.",
+      "characters": [
+        "Wilhelm",
+        "Aaron",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's amazing how many beautiful women live in New York. I actually find it kind of intimidating.",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "George",
+        "Audrey"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "5000, even better. Okay, Chrissie. Give me a schtickle of flouride.",
+      "characters": [
+        "Tim",
+        "Jack",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Each according to his ability, to each according to his needs.",
+      "characters": [
+        "Steve",
+        "Peterman",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, my fingerprints are all over this. That doorman knows you're a friend of mine. He'll tell that co-op lady, she'll tell Mr. Pitt... Jerry, I'm in this too deep.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Alton",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've learned that the new shipment's coming in by boat... which does tend to take a little longer with, you know ,what with the waves and all .. So you'll just have to be a little bit patient .",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "I gotta go back to the library and talk to him. I gotta find out if I&Mac226m the guy who ruined his life.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No he didn't. They were in business together… it was dry wall, or somethin'.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

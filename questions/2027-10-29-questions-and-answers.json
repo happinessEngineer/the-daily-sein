@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1029,
+  "date": "2027-10-29",
+  "questions": [
+    {
+      "quote": "No, I'm sorry, if Joe DiMaggio wants a donut, he goes to a fancy restaurant or a hotel. He's not sitting in Dinky Donuts.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Coffee's coffee in the morning. It's not coffee at twelve o'clock at night.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my god. I, I know you. I-I'm, I'm Elaine Benes. Do you remember we met at Linda van Grak's baby shower.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kimbrough",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, every time he tries to make a move, something screws up. Like on their last date, they were on the couch, but she was sitting on his wrong side.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Gavin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Rid? Nah, c'mon, the word is 'care'. Care. I care about your comfort, be it here in Queens or twelve-hundred miles away.",
+      "characters": [
+        "George",
+        "Donald",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Got you? I don't even know what the hell you're talking about.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Winona",
+        "Sally"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yeah, we share the same affliction, so I'm gonna have a vet check us out.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright listen to me, I got a great idea. Now, you're a heavy sleeper, right? Why don't we just switch apartments?",
+      "characters": [
+        "George",
+        "Bania",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So d'you think they got shrunk down, or is it just a giant sack?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Peterman",
+        "Conrad"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm sure you did. Who wouldn't love a pony? Who wouldn't love a person that had a pony?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

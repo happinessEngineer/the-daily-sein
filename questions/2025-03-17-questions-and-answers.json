@@ -1,0 +1,106 @@
+{
+  "gameNumber": 73,
+  "date": "2025-03-17",
+  "questions": [
+    {
+      "quote": "Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Celia broke out of prison. I'm sitting in my home, she shows up at the door!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on up.  Well, now we gotta get a posse together. I love a good posse.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about ponies? What kind of abnormal animal is that? And those kids who had their own ponies...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't understand, why is this woman talking about my shoes? Why are my shoes a topic of conversation?",
+      "characters": [
+        "Morty",
+        "Usher",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a minute Jerry, there's a bigger issue here. If you go through that wall and become one of those guys I'll be left here on this side. Take me with you.",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, what am I gonna do? I got over two hundred folding chairs, and quite a bit of ice.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Patrice",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got news for you: handicapped people, they don't even want to park there! They wanna be treated just like anybody else! That's why, those spaces are always empty.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I didn't really get a good 'hello', but see, I was at a funeral.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's a test drive, right? I never drive around here. If I'm gonna recommend this car, I need to see that it'll handle my daily routine.",
+      "characters": [
+        "Kramer",
+        "Jeannie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 632,
+  "date": "2026-09-27",
+  "questions": [
+    {
+      "quote": "I-I don't get these birds! They're breaking the deal. It-it's like the pigeons decided to ignore me!",
+      "characters": [
+        "John",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He was a communist. Thick as they come. Like a big juicy steak.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Suzie. Call Dr. Bison. Set up an appointment for Mr. Kramer here. Tell him it's from me.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "What move? *My* move. The one I told you about. You used it on Elaine.",
+      "characters": [
+        "Fdr",
+        "Roy",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you're right, you're right.  Alright, maybe he's not interested, but you still know him - can't you just ask him?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's more you than you've ever been. Hey, what is with the pink lining?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just hope that whole pony incident didn't put a damper on the trip.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Oh! What? He is! Oh! that's fantastic! I'm so excited! Yes I'm excited, OK, OK I'll be in soon! yeah, yeah, I'm coming, I'm coming! OK bye.  Yuri Testikov, the Russian writer!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would it kill him to check up on us? No - drops off the meals and that's it. I realize we're prisoners, but we're still entitled to catsup.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. So why I'm the one who gets 'reer'. You know I mean they were being as catty as I was. It's a double standard.",
+      "characters": [
+        "Elaine",
+        "Betsy",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

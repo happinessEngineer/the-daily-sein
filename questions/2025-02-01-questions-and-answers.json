@@ -1,0 +1,106 @@
+{
+  "gameNumber": 29,
+  "date": "2025-02-01",
+  "questions": [
+    {
+      "quote": "I gotta go to the Dixieland Deli to pick up Mr. Pitt's security pass for the parade.",
+      "characters": [
+        "Daphne",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How did you get the goop out of the top of the dishwashing liquid? It was like a brand-new nozzle!",
+      "characters": [
+        "Tom",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think the chair is a fantastic gift idea. But I never heard of this Joe Mayo. And frankly, it sounds made up.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This could be in a museum some day! It's not safe with me! It should really be in a doormanned building.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's the difference? I agreed to wear it. It's - it's a puffy shirt. I feel ridiculous in it, and I think it's the stupidest shirt I've ever seen, to be perfectly honest with you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You just had to go lookin' for it, didn't you? See, you hate it that I have a little secret. Anything I do -- oooh, oooh! -- you gotta know all about it. You're so OBSESSED with me.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mike",
+        "Owner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I-I'm already here. I'm here. I'm here. Uh, you know what? If you want a computer, call me. I-I gotta go.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not a phony an' I don't want anything to do with this guy.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at that guy.  I'll bet you he's gettin' hair transplants. Any time you see a guy that age wearing a baseball cap, ten to one - plugs.",
+      "characters": [
+        "Morty",
+        "Steinbrenner",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

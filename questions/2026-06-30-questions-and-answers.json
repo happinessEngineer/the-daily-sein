@@ -1,0 +1,106 @@
+{
+  "gameNumber": 543,
+  "date": "2026-06-30",
+  "questions": [
+    {
+      "quote": "Why? Why would that one area of his mind not be affected by the yellow sun of Earth?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Fifteenth , Yes last day for the Macanaws. I can still make it. Wait.. Newman...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There is now. Kramer, you should really get that cough checked out by a doctor.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Raincoats?  You think you're gonna sell those old crappy raincoats? That's garbage.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Keith",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Hello. Yeah, hi, this is Jerry Seinfeld calling for James Kimbrough. Hello? Hi? Uh huh, really, uh, no problem, definitely, ok, buhbye. That was James Kimbrough.",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look...humm..I'm on with Beijing with the hair restauration clinic. Could you talk to them for me and tell them I'd like to place an order.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Glenn"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Friend of mine in Chinatown gave it to me. If you want I can ask him where he got it.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Steinbrenner",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Alright, I'll tell you the truth. I'm not gay. My name's Buck Naked, I'm a porno actor.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You smell like the beach. What's the name of that perfume? you're wearing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rebecca",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1104,
+  "date": "2028-01-12",
+  "questions": [
+    {
+      "quote": "Well, you know, the police, they've been having some internal dissension about the name.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So Donald, would you please tell the court about the incident that occurred in your house, October 7th, 1992.",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "That is the single greatest packing performance I have ever seen.",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "In my spare time. . You know, I'm working on one of you, George. I'm using ravioli. See, the hard part is to find a pasta that captures the individual.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't forget, we're eating dinner at the Feinerman's tomorrow night.",
+      "characters": [
+        "Emily",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Emily"
+    },
+    {
+      "quote": "Jerry, you gotta give him some credit.  You're just being totally ridiculous.  I'll see you later buddy.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And so, I made an explosive out of chick peas, and I stopped that great rhino right in his tracks.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well don't get too comfortable. As soon as Seth gets a real job you two are gong back in that chicken supernova.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Gwen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't worry, it's not gonna happen again. Not if I have anything to say about it.",
+      "characters": [
+        "Jerry",
+        "Joyce",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm working at the Andover shop actually....You should come by. I'll get you a great discount.",
+      "characters": [
+        "Craig",
+        "Bruce",
+        "Jerry",
+        "Loretta"
+      ],
+      "correctAnswer": "Craig"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 454,
+  "date": "2026-04-02",
+  "questions": [
+    {
+      "quote": "This is an astronaut pen. It writes upside down. They use this in space.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Kramer",
+        "Leo"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Okay, question #8. What if I told you my fiancee left me for another man? Does that make me more likable, less likable, as likable? Let's start over here this time.",
+      "characters": [
+        "Katya",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because. There was a lot of cake lying around the house. Just sitting there going with all the excess milk from all the experiments [grins]",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lloyd",
+        "Kimbrough"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, here's your *albums* [Journey \"Escape\" is on top, BTW...]",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, that's what mail is. Without bills, magazines and junk mail, there is no mail.",
+      "characters": [
+        "Jerry",
+        "Gary",
+        "George",
+        "Ade"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I thing Kramer might have been responsible for getting Richie involved with drugs in the first place.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"If anybody here knows anything about it I recommend strongly that...you come forward.\"",
+      "characters": [
+        "Newman",
+        "Wilhelm",
+        "Secretary",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Kramer, you can't live down here. This is where people come to die.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Monica"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, you're not in show business. You don't know what these people are like.",
+      "characters": [
+        "George",
+        "Patrice",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What the hell do I know about cooking a shirt? What the hell is this? Your paying in pennies?",
+      "characters": [
+        "Worker",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Worker"
+    }
+  ]
+}

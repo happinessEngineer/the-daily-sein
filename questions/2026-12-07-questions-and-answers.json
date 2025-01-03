@@ -1,0 +1,106 @@
+{
+  "gameNumber": 703,
+  "date": "2026-12-07",
+  "questions": [
+    {
+      "quote": "What about the dolphins? You could swim with the dolphins down there.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeeah, but David and Beth are going to need their grieving time.",
+      "characters": [
+        "Waiter",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Could you do me a favor? If you see a guy that's five foot eleven, he's got uh a big head and flared nostrils, tell him his friend's going to be right back, okay?",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right. I am happy, and I'll tell ya why -- because the two of you were making me and every one of your friends sick! Right, Elaine?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm just pretending I'm married to get a discount on dry-cleaning.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, actually, I met him in Switzerland, and he was fighting uh, is that the word they use? Fighting? Because they don't really fight the bull, they avoid fighting the bull.",
+      "characters": [
+        "George",
+        "Silvio",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm not surprised. I really let him have it, Jerry. He has no business being in your audience if you didn't want him there.",
+      "characters": [
+        "Kate",
+        "Russell",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "You're a rabid anti-dentite! Oh, it starts with a few jokes and some slurs. \"Hey, denty!\" Next thing you know you're saying they should have their own schools.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I knew I had hit my high note so I thanked the crowd and I was gone.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cause you only get one call. The prison call is like the king of calls.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

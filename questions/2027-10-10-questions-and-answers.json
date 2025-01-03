@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1010,
+  "date": "2027-10-10",
+  "questions": [
+    {
+      "quote": "All right. Elaine, David, I believe we have a deal here in principle: Arby's no more than once a month. And in exchange, Elaine comes to your softball game, and doesn't read a book.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your father gave me strict orders not to turn the jacket over to anyone, but I suppose I can make an exception in your case. The closet's this way.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Landlord"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "Elaine, please, it was a long time ago. The man doesn't want a history lesson.",
+      "characters": [
+        "Morty",
+        "George",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You were full. So you gave a reason. You didn't just shake your head.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, come on, Newman. Now you gotta help me! What am I gonna do about FDR?",
+      "characters": [
+        "Jerry",
+        "Beth",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, Kramer was right. My friend Kim told me the sponge is off the market.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Hanke",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what does he do? Is he an artisan, a craftsman, a labourer of some sort?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, we, uh, we had to leave early. There was a, uh, slight monetary discrepancy regarding the bill.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Kramer",
+        "Waitress"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I've never met your sister but obviously these are not hard-and-fast rules.  Darling, the tea is getting a little cold sweetheart.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, let's just get to work.  NBC Pilot, Seinfeld project. Act I, Scene A.",
+      "characters": [
+        "Conrad",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

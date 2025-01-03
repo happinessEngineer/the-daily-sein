@@ -1,0 +1,106 @@
+{
+  "gameNumber": 403,
+  "date": "2026-02-10",
+  "questions": [
+    {
+      "quote": "Doesn't matter. What's the young man's name? I would like to meet him.",
+      "characters": [
+        "Pitt",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I could care less. I hope it is on our record. I'm just sorry they didn't lock me up.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, guess what! Little Jerry ran from here to Newman's in under thirty seconds!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"All right then say you were. I mean .. what do you think could have happened.?\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No buts, Elaine. Or I will strip you of your 'associate' status.  Uh, P.S., the first twenty-four hours are the worst. Better bring a poncho.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "rock climbing? hehe.. where do you come off going rock climbing.. rock climbing? you need a boost to climb into your bed",
+      "characters": [
+        "Vivian",
+        "Jerry",
+        "Carl",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, listen to this. Remember that guy I was telling you about at the health club?",
+      "characters": [
+        "Jerry",
+        "Alec",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I will. But now, I'm accountable. Alright, I take what I want.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. Super's in my bathroom changing my shower head. Have they changed your shower head?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

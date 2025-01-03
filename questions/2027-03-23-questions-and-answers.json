@@ -1,0 +1,106 @@
+{
+  "gameNumber": 809,
+  "date": "2027-03-23",
+  "questions": [
+    {
+      "quote": "That's my candy line-up! Where are all my cards?! They're - they're all on the floor!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Roy",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, they turned brown!!  Brown!!  So let me ask you something, you know any women we could call?",
+      "characters": [
+        "Kramer",
+        "Hoyt",
+        "Steve",
+        "Elaine"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "You know, my friend Bob Saccamano made a fortune off of those. See he came up with the idea for the rubber band. Before that, people would just hit the ball, and it would fly away.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright - um, excuse me, hi, could you tell me what kind of law this is.",
+      "characters": [
+        "Evelyn",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, all right. You sound a little freaked out yourself.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't taste 'em . Why waste 'em . Why not give them all to me.",
+      "characters": [
+        "Newman",
+        "George",
+        "Keith",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "With your looks and my words, we'll have built the perfect beast.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, I couldn't, his cab pulled away. But he did, however, make an impression on me.  Look.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, have you heard the one about the guy in hell with the coffee and the doughtnuts and--",
+      "characters": [
+        "Detective",
+        "Enzo",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait. Whoa! That's the Rabbi from Elaine's building. I just met this guy the other day.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1071,
+  "date": "2027-12-10",
+  "questions": [
+    {
+      "quote": "Oh my gosh, I just had a great idea. She could come to the party tomorrow and read Gwen's lips for me.",
+      "characters": [
+        "Jane",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "September 21st, first day of Autumn. Leaves changing colours.. Beautiful colors.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm percolating, Jerry. I'm telling you, I have never felt so fertile. I'm mossy, Jerry. My brain is mossy. Listen to this idea.  A restaurant that serves only peanut butter and jelly.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Gavin",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe we can get an army transport flight. They got a base in Sarasota, I think.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Doris",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Then this Pennsylvania Dutch thing comes out of nowhere. I mean, how am I supposed to respond to that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't fool me. Don't insult me, George because I know when you're happy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See I was saying \"six\" but she thought I was saying \"sex\". We straightened the whole thing out though.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I want a decent sock that's comfortable, that will stay on my foot!!",
+      "characters": [
+        "Pitt",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "The worst part is getting from the subway station to the house. There's no transportation...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "Well, I heard that you have a very uh, special birthday card .with all the Yankee autographs on it.",
+      "characters": [
+        "George",
+        "Carol",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

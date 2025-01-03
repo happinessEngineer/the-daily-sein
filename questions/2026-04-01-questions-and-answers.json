@@ -1,0 +1,106 @@
+{
+  "gameNumber": 453,
+  "date": "2026-04-01",
+  "questions": [
+    {
+      "quote": "Oh the baby's fine. They just took him to the hospital as a precautionary measure. But look at me. I'm the one who's hurt.",
+      "characters": [
+        "Carl",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, right!  Right! Hey, hey.. I love the floors in here. It's like a gymnasium in here! Try and guard me! (Dribbles an imaginary ball",
+      "characters": [
+        "George",
+        "Elaine",
+        "Stu",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You are gonna love this car. Even if you don't like Jon Voight.",
+      "characters": [
+        "Frank",
+        "Steve",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I've never actually done it but if I really wanted to I could probably get one from my friend Roy, the dentist.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I don't think so Jerry. You see they gave me my job back.",
+      "characters": [
+        "Ramon",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Ramon"
+    },
+    {
+      "quote": "Yes, in fact she told me that she wishes she was the one getting married.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "All right. Okay, tell me what you think about this idea: Extend the doors on the toilet stalls at Yankee Stadium all the way to the floor.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is what you used to build me up? This is where you got all that stupid katra stuff?",
+      "characters": [
+        "Brett",
+        "Levitan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, just get yourself together... I dunno if I can be friends with you anymore after this display.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He said, \"We've got five hundred shows to choose from. Why should we give two guys, who have no idea, and no experience, more money?\"",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

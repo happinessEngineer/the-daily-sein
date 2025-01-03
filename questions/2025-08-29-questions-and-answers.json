@@ -1,0 +1,106 @@
+{
+  "gameNumber": 238,
+  "date": "2025-08-29",
+  "questions": [
+    {
+      "quote": "Each crepe has to be hand-rolled by a Mandelbaum. That's what puts the magic in Magic Pan!",
+      "characters": [
+        "Elaine",
+        "Karen",
+        "Newman",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "No that's what he said. \"That's interesting. I love carrots, but I hate carrot soup. And I hate peas, but I love pea soup.\" So do I.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But wouldn't you get any satisfaction out of helping someone out?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh,..we'll go to 3rd Avenue. So, can you come with us for lunch to the soup place?",
+      "characters": [
+        "Nina",
+        "George",
+        "Hoyt",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I remember saying to myself, \"Why is Jerry so far off the base?\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Cop",
+        "Vandelay"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Behind the dugout, that's where we were sitting the other day.",
+      "characters": [
+        "George",
+        "Julie",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wh..what kinda show is that Sandos Brothers? They take your jacket, then they just throw it? I never heard of that!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm trying to get a little squirrel to come over to me here. I don't wanna make any big, sudden movements. I'll frighten him away.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Really? I give out my number to just about every customer who comes in here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Naomi"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "All right, but then we gotta get some work done. Let me just call Kramer, see if want anything.  Hey, we ordering Chinese food. If you want anything--  let me know what it is and I'll order for you.",
+      "characters": [
+        "George",
+        "Salesman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

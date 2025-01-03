@@ -1,0 +1,106 @@
+{
+  "gameNumber": 475,
+  "date": "2026-04-23",
+  "questions": [
+    {
+      "quote": "So, I found out who supplies the mannequins and I called 'em up.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it's like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Pitt",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I had to cut the gum out and I had a little trouble getting it even. So why don't you get undressed George.",
+      "characters": [
+        "Janet",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Janet"
+    },
+    {
+      "quote": "Here's the book. Don't let anybody see it. Don't let anything happen to it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, oh, you know what that is? I um, went claming the other day and I forgot to hose off my boots.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know what, I think I ran into that girl from the antique store. What's her name, Christie?",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because, if I'm looking straight ahead, and something enters my field of vision, that's merely a happenstance.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Ethan",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yep, Alec Berg. He's got a good 'John Houseman' name. Alec Beeerg. Mr. Beeerg.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Na....no ... This relationship he..he..has got to be about something and fast or I'm in very serious and weird trouble....hum What else happened?",
+      "characters": [
+        "George",
+        "Marty",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, you're better off sitting around here, reading comic books, and eating spaghetti at two in the morning..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ethan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

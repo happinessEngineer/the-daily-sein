@@ -1,0 +1,106 @@
+{
+  "gameNumber": 546,
+  "date": "2026-07-03",
+  "questions": [
+    {
+      "quote": "Listen. Let me ask you something. If you and Mona were ever to... dance, how do you decide who leads? I mean... do you take turns? Do you discuss it beforehand? How does that work?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, you said the one in the second courtyard. He was in the second courtyard.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well my friend,  it may be time to consider the dreaded apparatus.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aw, c'mon, you love that car. What about the Northstar system?",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because great couples always have a great story about how they met. That's why I've never been in a long term relationship. I've never had a good meeting story.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, alright, fine. You take the monkey's side, alright, go ahead.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Michael"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really , like a... like a.... Jerry, I want to slide my tongue around you like a snake.....Ooooooooooha ,oooooohaaaa.....",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke \"the covenant of the keys.\"",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, the woman I grew up with in Maryland, she moved here last year...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just wanted to talk to him for a minute, but I'll come back.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

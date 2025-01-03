@@ -1,0 +1,106 @@
+{
+  "gameNumber": 277,
+  "date": "2025-10-07",
+  "questions": [
+    {
+      "quote": "Well well, if it isn't the first lady of the American Theatre.  What brings you here?",
+      "characters": [
+        "Pitt",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nougat? Please. I think I've reached the point in my life where I can tell the difference between nougat and cookie. So let's not just say things that we both know are obvious fabrications.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry? Jerry, tell them that funny story you were telling me--",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no, but why are you using a knife and a fork? Did you just",
+      "characters": [
+        "Salesman",
+        "Elaine",
+        "Attendant",
+        "Sylvia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello... Oh hi Patty, thanks for calling me back. I-I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Ya, Okay, bye.",
+      "characters": [
+        "Kate",
+        "Elaine",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're for protection, Jerry. Can you tell where I'm lookin'?",
+      "characters": [
+        "Abby",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because it's a stupid idea. No one's gonna go for it. Don't you understand It's stupid ,stupid...",
+      "characters": [
+        "George",
+        "Rebecca",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Fredo was weak and stupid! He shouldn't have eaten that key!",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Kramer",
+        "Ben"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I dunno, Jerry somethin's missing. There's a void, Jerry, there's a void...",
+      "characters": [
+        "Michael",
+        "Roy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No-one's gonna have a better gift than this big screen TV! Good for them, love the Drake!",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

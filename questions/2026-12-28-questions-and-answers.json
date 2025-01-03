@@ -1,0 +1,106 @@
+{
+  "gameNumber": 724,
+  "date": "2026-12-28",
+  "questions": [
+    {
+      "quote": "Thank you. If we were in my apartment and we were watching a movie on the couch, would we sit right next to each other?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Got her machine. I'm dead, I'm a dead man. That's it. I'm dead, I'm a dead man. Dead man.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, instead, I'm like a detective. I gotta pick up clues, the whole thing is a murder investigation.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Conrad",
+        "Hal"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. O.K.  What about last year when I took him to the hospital every day? Did he ever say thank you?",
+      "characters": [
+        "Phil",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Kramer, are you out of your mind? You got the AIDS walk in like, three hours! You're never gonna make it!",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yeah I got some sandwiches.. I got tuna.. and salmon salad Tony because I know you don't like peanut butter",
+      "characters": [
+        "Jerry",
+        "Steven",
+        "George",
+        "Vivian"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, listen. If you're going there,  maybe you can get him to tell you where he got those glasses.  Elaine!",
+      "characters": [
+        "George",
+        "Jodi",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Vommiting is not a deal breaker. If Hitler had vommited on Chamberlin, Chamberlind still would have given him Chekoslovakia.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you're fired because you don't move your arms when you tap dance, you're like a gorilla out there I've gotta go...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell you, I really don't think so-called relationship humor is what this show is all about.",
+      "characters": [
+        "Jerry",
+        "Ken",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

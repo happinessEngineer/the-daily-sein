@@ -1,0 +1,106 @@
+{
+  "gameNumber": 566,
+  "date": "2026-07-23",
+  "questions": [
+    {
+      "quote": "He asked about me? John Kennedy asked about me?!  What did he say?",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shhh… What is wrong with you? You never tell 'em you like the car.  You're not sure what you want. You don't even know why you're here.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, I'll get ya a Mounds bar. Keep the engine running.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Captain",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, Vanessa, of course the market fluctuates. Everybody knows that. I just got fluctuated out of four thousand dollars!",
+      "characters": [
+        "Jerry",
+        "Marlene",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no no no, these are good. Listen, listen: You ran out of underwear, you can't leave the house.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll book a hotel, do you want a standard room or mini suite?]",
+      "characters": [
+        "Kramer",
+        "Kate",
+        "Silvio",
+        "Jerry"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Well, we're collectors. We, uh, see objects of great beauty and, uh, we must have them.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "George",
+        "Levitan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, George. [To Kramer] So, did you ask him about the records?",
+      "characters": [
+        "Driver",
+        "George",
+        "Woman",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, well, if you're getting him anything for his birthday, I'm alarge.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if Jerry finds out that I'm hooked on Roger's chicken I'm back there with the red menace.",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

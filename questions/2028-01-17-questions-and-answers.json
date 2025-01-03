@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1109,
+  "date": "2028-01-17",
+  "questions": [
+    {
+      "quote": "Seems like you're better at fake relationships than real ones.",
+      "characters": [
+        "George",
+        "Manager",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why? No, that'll make great dinner party conversation. We'll read the letters at the dinner table.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Lanette",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No! Pick it up more in the front! It's got to be higher! Higher! Make a wall! A wall!",
+      "characters": [
+        "Kramer",
+        "Sandi",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "Sandi"
+    },
+    {
+      "quote": "You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, Elaine was telling me about this piece of whitefish she had the other day...",
+      "characters": [
+        "Morgan",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I think you're making too much of this. IQ tests don't mean anything.",
+      "characters": [
+        "Monica",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "I'm gonna go meet Danielle.  There's a new Neil in town!  Hahaha!",
+      "characters": [
+        "Ben",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, why would I assume. I never assume. Leads to assumptions.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry, it was my aunt's birthday and she makes such a big deal about it.",
+      "characters": [
+        "Cheryl",
+        "Gary",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Cheryl"
+    },
+    {
+      "quote": "Ha ha. Everything's timed out to perfection, Jerry. Slippery Pete's got the Frogger running on battery power, the truck will be there any minute, and Kramer's taped out the loading zone.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

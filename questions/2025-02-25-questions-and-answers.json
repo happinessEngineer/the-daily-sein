@@ -1,0 +1,106 @@
+{
+  "gameNumber": 53,
+  "date": "2025-02-25",
+  "questions": [
+    {
+      "quote": "Well I just got it. Spector gave it to me , he's giving everything away...becoming a minimalist.",
+      "characters": [
+        "Brett",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi, we're from the United Volunteers, we've come to pick up the TV.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "As much as I'd like to see the two of you living it up in a warm, tropical, setting, I, I would just miss you too much.  So, I've decided, I want you to stay.",
+      "characters": [
+        "George",
+        "Woman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"I don't know but I was spitting out and rinsing like there was no tomorrow.\"",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not a very religious person but I do feel as if I'm in need of some guidance here.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm wearin' a little hat, I'm jumpin' through fire.. They're puttin' their little alien heads in my mouth..",
+      "characters": [
+        "Audrey",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. No. No. No. No. I don't really have a phone. In fact, I - I really don't have an apartment. I kinda sleep around.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you can't cast aspersions on someone just because they're wearin' a cape... Superman wore a cape... An' I'll be damned if I'm gonna stand here an' let you say something bad about him.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, It's a very private matter, but it's extremely urgent.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, that's just Jane driving home to New York in the middle of the night.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Officer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

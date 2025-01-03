@@ -1,0 +1,106 @@
+{
+  "gameNumber": 90,
+  "date": "2025-04-03",
+  "questions": [
+    {
+      "quote": "Think, a second. You know, your friend was talking about me and, you know...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Gary"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well... We're trying... But he just went insane there for a while...",
+      "characters": [
+        "Noreen",
+        "Jerry",
+        "Kramer",
+        "Ricky"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "Hey, these are very comfortable pants. You know what I paid for these Jerry?",
+      "characters": [
+        "Morty",
+        "Greg",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm not going to see that nut doctor she went to Europe with.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Steve",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "…does not imply transfer of ownership. Moe, Sol, or… Lem is not gonna get away with this!",
+      "characters": [
+        "Aaron",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You got that straight. Now I want four new ideas from each of you by 6:00. No, make that six ideas by 4:00. All right, let's move, move, move, move, move!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, is it all right if we move in with you for a little while? Sounds of breaking glass, Jerry dropped his bottle.",
+      "characters": [
+        "Elaine",
+        "Clerk",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "…and they put me in this thing, that feels like a coffin, for forty-five minutes. Have you ever been in one of those things? You could go berserk in there!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Corinne"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "Anyway, Mr. Costanza, what I want you to do is to come to the shop with me and tell me what they are saying. You do speak Korean?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well,you told me how familiar I looked and that you must have seen me somewhere before.",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Jerry",
+        "Janet"
+      ],
+      "correctAnswer": "Janet"
+    }
+  ]
+}

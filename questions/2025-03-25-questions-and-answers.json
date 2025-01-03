@@ -1,0 +1,106 @@
+{
+  "gameNumber": 81,
+  "date": "2025-03-25",
+  "questions": [
+    {
+      "quote": "You know, one of these days, something terrible is gonna happen to you. It has to!",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, well, well, I'm not treating you to lunch ANYMORE! You had to tell Julie that I made a special point of telling you that I bought you the big salad. Didn't ya'.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Marla"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I did a show for a car dealership and they're getting me a new SAAB.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Izzy",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow! That's the astronaut pen. I heard about that. Where did you get it?",
+      "characters": [
+        "Jerry",
+        "Gavin",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They guy's in my house right now.  What a mistake that party was, I never should have gone.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "John",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No body said you're fat. He's a loving character, like the Kool-ade guy.",
+      "characters": [
+        "Noel",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. I was looking at my chart and it said I was difficult. Why would they write that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because they're Jujyfruit. I like them. I didn't know it would start a chain reaction that would lead to the end of Pendant Publishing.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So we're still going to the health club to play racquetball right?",
+      "characters": [
+        "Woman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, uh, I was wondering if you got a chance to look at that , um, biography of Columbus, I gave you?",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

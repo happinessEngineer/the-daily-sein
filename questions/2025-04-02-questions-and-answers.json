@@ -1,0 +1,106 @@
+{
+  "gameNumber": 89,
+  "date": "2025-04-02",
+  "questions": [
+    {
+      "quote": "Hey, Tim. Quick question. Is it normal for your teeth to make noises, like a hissing or a chirping?",
+      "characters": [
+        "Jack",
+        "George",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's a Costanza in Tuscany?  Did he look like me? Did you talk to him?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So, listen, when this guy calls, if you could just give him my real number..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yea they're taking one, the travel agent is trying to set something else up for them.",
+      "characters": [
+        "Jerry",
+        "Joyce",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, if I could say a word here about Jewish people. That man in no way represents our ability to take in a nice piece of juicy gossip and keep it to ourselves.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See her tonight. See her tomorrow. Go. Knock yourself out. She's too crazy for me.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, we don't want some jerk sitting in front of us, it'll be like, 'Hey, big head, can you move out of the way? I didn't pay a cover charge to stare at your bald spot.'",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if they don't let you be my editor on this book, I'll go to another publisher. It's that simple.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Rava"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "I've been saving it for the plane. I never miss the Sunday sports section.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Lippman"
+    }
+  ]
+}

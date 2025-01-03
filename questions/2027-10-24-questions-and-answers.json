@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1024,
+  "date": "2027-10-24",
+  "questions": [
+    {
+      "quote": "I'm glad you called, Elaine. I really needed to talk to someone.",
+      "characters": [
+        "Celia",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "How does it look on your side? [Pause while George just stares at him] We'll get there...",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, it's awful! They're upset because we're an interracial couple. That is racism!",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't do that, you can't just sneak in from the back like that.",
+      "characters": [
+        "George",
+        "Tor",
+        "Jerry",
+        "Glenn"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You tell that son of a bitch no Yankee is ever comin' to Houston! Not as long as you bastards are running things!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Julie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no-no, it's okay. *comment from transcriber: yeah, she doesn't want to be paid, didn't she send the bill?*",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, see that's not fair. We-We were here ahead of all these people.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Holly",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know it's like you never see a really attractive woman getting a traffic ticket.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Rachel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's been flagged. I know. I used to work in a Brentano's. Mister, we're trying to help the homeless heare - it's bad enough that we have some nut out there trying to strap 'em to a rickshaw!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Rebecca"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "I don't know what I'm gonna do. She asked me to give her a baby shower.",
+      "characters": [
+        "Farkus",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

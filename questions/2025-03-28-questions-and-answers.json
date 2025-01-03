@@ -1,0 +1,106 @@
+{
+  "gameNumber": 84,
+  "date": "2025-03-28",
+  "questions": [
+    {
+      "quote": "No, I haven't worn this jacket since I got it back from the dry-cleaner. Maybe we should ask him.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Every wake-up call I make is important. You're no more important than any of our guests.",
+      "characters": [
+        "Man",
+        "Hanke",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "We did a crossword puzzle together, *in bed*. It was the most fun I ever had in my entire life. Did you hear me? in my *life*! Y'know?",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He was not the summer you. Besides, you had a summer me. Whitey Fisk, the guy who snuck you into Last Tango in Paris.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lloyd",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! That's good judgment. That's a pile of judgment there. Sure.",
+      "characters": [
+        "Dan",
+        "Elaine",
+        "Glenn",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, don't you see? This world here, this is George's sanctuary. If Susan comes into contact with this world, his world's collide. You know what happens then?",
+      "characters": [
+        "Kurt",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "David, I'm going to hell! The worst place in the world! With devils and those caves and the ragged clothing! And the heat! My god, the heat! I mean, what do you think about all that?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, come on. He's just a lonely old man. All old people steal.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "wouldn't it be invisible? I mean, what, are you going to just sense it's in front of the couch?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

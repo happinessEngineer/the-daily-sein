@@ -1,0 +1,106 @@
+{
+  "gameNumber": 699,
+  "date": "2026-12-03",
+  "questions": [
+    {
+      "quote": "Ah, you don't know anything. You see, \"I don't know anything\", means there's something to know. If you really didn't know anything you would have said \"You're crazy.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Noh noh noh! I want you guys to shake hands. Come on, there are plenty of women out there for all of us, let's go.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can make all the laws you want, he's still gonna bother people.",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Hoyt",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey check this out. I go to pick up my pictures and she says \" I hope you got that mustard stain out of your shirt.\"",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I used to be able to have a huge meal and go right to sleep. But I can't anymore.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.",
+      "characters": [
+        "Tor",
+        "Kramer",
+        "Jerry",
+        "Sophie"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "\"A donation has been made in your name to the Human Fund.\" - What is that?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Steve",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wouldn't have said anything if I knew you were going to stop seeing her!",
+      "characters": [
+        "Elaine",
+        "Alton",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I don't know, don't ask me any more questions about jokes, Jerry, it just puts too much pressure on me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't give me cliches. I have a right to know. What did I do wrong?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Patrice"
+      ],
+      "correctAnswer": "Patrice"
+    }
+  ]
+}

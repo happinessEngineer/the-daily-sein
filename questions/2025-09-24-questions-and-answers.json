@@ -1,0 +1,106 @@
+{
+  "gameNumber": 264,
+  "date": "2025-09-24",
+  "questions": [
+    {
+      "quote": "Hey! What are you doing? It's after six o'clock! You can't give me a ticket! Hey, you're not gonna get away with this. I'll fight this. I got witnesses.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'm just waiting for a lift back to the island, he won't be ready until eleven, so I figured I'd give you a break.  I thought I'd see what it was like to hang out with someone in show business.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Steve",
+        "Chiles"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "What keeps the water in there? I mean, why doesn't it disappear?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Doorman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open...\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay listen to me. I talked to Gino, he's going to fix the haircut.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "HaAhhh! The Velcro. I can't stand Velcro. It's that t-e-a-r-I-n-g sound. I used to be in raincoats. I refused to put that in any of my lines.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You know, after I have sex with Emily, uh, I don't want her in the bed any more.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I really don't think we're supposed to be talkin' about this.",
+      "characters": [
+        "George",
+        "Christie",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's back. And I knew he would be someday.  Man that's some tart cider!",
+      "characters": [
+        "Frank",
+        "Steinbrenner",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, I can't have this hanging over my head. It's bad mojo.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

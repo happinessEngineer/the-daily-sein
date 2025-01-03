@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1016,
+  "date": "2027-10-16",
+  "questions": [
+    {
+      "quote": "Is this a waste of time? What should we be doing? Can't you have coffee with people?",
+      "characters": [
+        "Kramer",
+        "Lois",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! You don't understand. I'm living with Ethel Merman without the talent.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Carol",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag?  This is the signal, Jerry, this is the signal!",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're a crazy religious cult. The carpet cleaning is just a means for them to get into your apartment.",
+      "characters": [
+        "Helena",
+        "Jerry",
+        "Lisi",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No no no no no, this has to be carefully orchestrated. You go to a fancy dinner, flowers...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Our policy is, we're comfortable with our bodies. You know, if someone wants to help themselves to an eyefull, well, we say, 'Enjoy the show.'",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Last time I had lunch with you here. You were going *on* and *on* and *on* about how you wanted to meet somebody who didn't speak English.",
+      "characters": [
+        "Judge",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you're not talking that Michigan deposit bottle scam again, are you?",
+      "characters": [
+        "Jimmy",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the time the race was over I had won. I was shocked nobody had noticed the head start.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The whole city is talking about this monster Joel Rifkin, and I am dating a Joel Rifkin.",
+      "characters": [
+        "Elaine",
+        "Marcelino",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

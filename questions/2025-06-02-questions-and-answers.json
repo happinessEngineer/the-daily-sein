@@ -1,0 +1,106 @@
+{
+  "gameNumber": 150,
+  "date": "2025-06-02",
+  "questions": [
+    {
+      "quote": "You know, I don't have to be up in the morning, and I know a great breakfast place, right around the corner.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Danielle"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "Hello, yeah, hi. Uh, is Miss. Landis there please. Wa? Oh, Gosh, ah ok, she'll be in later? OK, thank you. Uh.  This guy said she hurt her arm playing tennis. ... Pretty bad.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Jane"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, by the way, I checked at the soup kitchen - they do have cream soups.",
+      "characters": [
+        "Lena",
+        "Elaine",
+        "George",
+        "Connie"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "All right, Dad, we're five blocks from the house. Sit sideways.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's not a word.....You have no idea what this means do you?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"You find you need to use a lot of obscenities at the dentist.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I've got to get going. I'm meeting a guy with grey sweatpants.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe she could like me? Is it that far fetched? Maybe she sees something? Is it possible?",
+      "characters": [
+        "Gina",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, she's beautiful, right? She's just my type. The dark hair, the full lips.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't get it. Why would a woman do that and then leave no way to get in touch with her.",
+      "characters": [
+        "Harold",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

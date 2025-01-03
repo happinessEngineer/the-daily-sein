@@ -1,0 +1,106 @@
+{
+  "gameNumber": 997,
+  "date": "2027-09-27",
+  "questions": [
+    {
+      "quote": "Oh, you're getting together with some of your jackass friends, and you want me to take notes?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, why a cape? Who wears a cape? Where do you even get a cape?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, I'll tell you what. How about on Friday I take you out for a *big* meal because *you* are getting *too* thin...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was weird because George and I get along so great in so many situations but this is the first time we ever really went one-on-one.",
+      "characters": [
+        "George",
+        "Attendant",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe Al Netchie was right, maybe I shouldn't have gotten involved with you.",
+      "characters": [
+        "Rula",
+        "Daphne",
+        "Jerry",
+        "Stan"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "You wanna hang out here, at phase two of the Pines of Mar Gables?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe we should stomp you like you stomp the flag! What do you think of that?",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Jimmy",
+        "Lloyd"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Really.........I have to say...You were really good doing that porno thing....you're talented.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Manager"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! Monkeys! Knock it off. My best friend is trying to get married up here!",
+      "characters": [
+        "George",
+        "Man",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My God this is fantastic! Tell me, were you guys just blown away or what?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

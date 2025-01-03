@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1103,
+  "date": "2028-01-11",
+  "questions": [
+    {
+      "quote": "Oh now, don't tell me you're still mad at him for calling you a phony. Jerry, that was five years ago!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Shelly"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I was a fantastic beard. I held hands, I called him honey.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We are with the American Medical Association. Can you confirm the correct spelling of your last name? Is it B-e-n-e-s.",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "I still have trouble looking at those disgusting old bedroom slippers she slogs around in.",
+      "characters": [
+        "Celia",
+        "George",
+        "Newman",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Oh, no no no no I'll take it. Why don't you come over. Let's see if it will fit in my bedroom.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Bruce"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hey, listen, by the way - I'm hosting a little get-together tonight in honor of my little financial upturn..",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, so people are just dialing it by mistake and getting you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this. Look at how this idiot packed it. He didn't tape it, he just flipped the flaps.  Kramer you missed a couple.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Gavin",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, guess what, FDR? I made a wish on a shooting star last night, and I wished, against your wish.",
+      "characters": [
+        "Morty",
+        "Carol",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is that? It's ridiculous! You don't even know what hotel she's staying at, you can't call her. That's a signal, Jerry, that's a signal!  Signal!",
+      "characters": [
+        "Heather",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

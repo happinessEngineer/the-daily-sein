@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1142,
+  "date": "2028-02-19",
+  "questions": [
+    {
+      "quote": "We have to go up there now and clean the apartment. It's a good thing her rent was overdue. She'd be rotting up there for a month.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Harold",
+        "Maura"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "What happened to the rules? Remember? Sleeping over was optional.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it's our sense of humor that sustained us as a people for 3000 years.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Listen, I got news for ya, its nice to be involved with somebody who?s interested in something other than nick at night. Now he?s got a grip on reality, he's happy, he's well adjusted.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ya, or if you're ever on Fifth Avenue here in New York City, you could get some there.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Owner",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, it's strange, because he's such an honest mechanic.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'd give him 24 hours to get out of it. They can't get out of it in 24 hours, it's a land rush.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, maybe Kramer is right, some people should just give up . I have.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, yes I am. The icing on the cake would be getting that landmark status from the City. We're hoping Lloyd Braun can pull a few strings.",
+      "characters": [
+        "Barry",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh! I tell you what. How about if I come back here first and I clean everything up and I open up the windows and if you're still not satisfied we can switch apartments for the night.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ned",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

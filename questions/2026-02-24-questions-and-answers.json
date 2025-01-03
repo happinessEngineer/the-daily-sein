@@ -1,0 +1,106 @@
+{
+  "gameNumber": 417,
+  "date": "2026-02-24",
+  "questions": [
+    {
+      "quote": "Well if you want to move the cars, move the cars. Just don't forget to take the keys out, that's all.",
+      "characters": [
+        "Sid",
+        "Marcy",
+        "Jerry",
+        "Eva"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "You just checked your watch. Are you thinking of bailing on him?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah. My friend Elaine and him are goin' out. They're pretty hot and heavy.",
+      "characters": [
+        "Manager",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This hat just bottles in the heat, I -I don't even need a coat! It's unbelievable!",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's perfect.  Hey, how would you guys like to watch Super Terrific Happy star Jerry Seinfeld?",
+      "characters": [
+        "Kramer",
+        "Diane",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's from all that smoke. You've experienced a lifetime of smoking in 72 hours. What did you expect?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Rachel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, I have to call her, tell her where we are. I'm very lucky she's even considering seeing me at all.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Gotta get some of that stuffed crust pizza. cheese crust pizza.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Salesman",
+        "Earl"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you can do everything with it. You can get e-mail, fax, there's a calculator.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't listen to anymore of this, the guy's losing a lung in there.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

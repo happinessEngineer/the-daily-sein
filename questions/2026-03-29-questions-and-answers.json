@@ -1,0 +1,106 @@
+{
+  "gameNumber": 450,
+  "date": "2026-03-29",
+  "questions": [
+    {
+      "quote": "Oh, yeah. I mean, of all the men that I know, you're the only one who's held down a steady job for several years.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Wendy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Coffee shop? I think we can do a little better than that. You look like you could use a solid meal at a real restaurant.",
+      "characters": [
+        "Jerry",
+        "Marla",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "It's a movie stub from the 9:30 show. George, I think Willie the dry-cleaner has been wearing my clothes.",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I'll come by after work. Hey, I got a rubber pencil thing happenin' here..  Uh, I gotta go. I gotta go.  Sandra! Sandra? Hi, can you come here for a second?",
+      "characters": [
+        "Woman",
+        "David",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, well, uh, you know I can't right now, you know, uh, I got a very big meeting, I got these people interested in my movie treatment. So, uh, I guess we'll have to make it another time, alright?",
+      "characters": [
+        "Bruce",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"I want you to have this job, of course the Board of Directors is under indictment and will be serving time.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "OK, now I projected some of those figures for you regarding the switch to Canola oil for the stadium popcorn and surprisingly it will only come to 1/2 a cent more per bag, so it is definitely doable.",
+      "characters": [
+        "Frank",
+        "Ade",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "It doesn't matter. You'll fix it later. Tell me about your girlfriend.",
+      "characters": [
+        "Dana",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "So, somehow the Bronzo  is reacting to the poison she's giving you.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Barry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I am. Couldn't you try to go through some of that stuff I put in your shoebox?",
+      "characters": [
+        "George",
+        "Tia",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

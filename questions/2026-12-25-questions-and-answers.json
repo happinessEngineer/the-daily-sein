@@ -1,0 +1,106 @@
+{
+  "gameNumber": 721,
+  "date": "2026-12-25",
+  "questions": [
+    {
+      "quote": "What? Devola? See I told you this guy is crazy. I can't believe this. What happened?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now, because of that stupid rye bread, I gotta keep them all separated for the rest of my life.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George? Are you there?  I hate that stupid message.  I know you're avoiding me, I'm at the office, please call me, I've gotta talk to you.",
+      "characters": [
+        "Allison",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Allison"
+    },
+    {
+      "quote": "I don't even know her sister but believe me, if she's getting traffic tickets, she's not that good-looking! Woah",
+      "characters": [
+        "George",
+        "Kramer",
+        "Driver",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So? So, his secret's out. Don't you see? I could give these to every restaurant in town. I could have 'em published! I could - I could drop fliers from a plane above the city.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, hello. Here you are as promised. You see, I'm a man of my word.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Simon",
+        "Pitt"
+      ],
+      "correctAnswer": "Simon"
+    },
+    {
+      "quote": "Hey Elaine listen. If you smell anything decaying in the trunk of his car...",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "They're the ones who should be ashamed. They signed me to a one-year contract. As long as I show up for work every day, they have to pay me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Milos, I can assure you, I had no intention of telling anyone about your unbelievably bad tennis playing.",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Izzy",
+        "Judge"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and they come back with things taped to they're large intestine.",
+      "characters": [
+        "George",
+        "Morty",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

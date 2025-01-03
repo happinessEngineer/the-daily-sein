@@ -1,0 +1,106 @@
+{
+  "gameNumber": 447,
+  "date": "2026-03-26",
+  "questions": [
+    {
+      "quote": "You know what they do in there? Did you see CooCoo's Nest? They put those electrodes in your head.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had to carry my skis, and my boots and my poles. I think I pinched a nerve in my shoulder.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I wiped them for two minutes on the mat. I don't know why your father had to make a federal case out of it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, he's very fancy! Want me, love me! Shower me with kisses!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Silvio",
+        "Elaine"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "She's got rabies, just like my friend Bob Sacamano. She's delirious.  She's foaming at the mouth!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, she was just showing me pictures of places I can visit when I go to Puerto Rico...you know, when you two went down there?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "When we were little girls Grandma Memma would take us to a matinee and then dinner here.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Severance package...The Yankees are giving me three months full pay for doing nothing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The man in the cape--I bet you he is mixed up in this! I don't trust men in capes.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The former still applies. I don't know what it is, but I just can't see you with a mechanic.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

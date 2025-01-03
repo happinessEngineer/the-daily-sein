@@ -1,0 +1,106 @@
+{
+  "gameNumber": 925,
+  "date": "2027-07-17",
+  "questions": [
+    {
+      "quote": "Hey, how you doing Stu? Eddie, my man. You again? Boy, you're a slippery one. You'd better straighten up and fly right buddy boy.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I haven't talked to him in, like, three weeks... I THINK it might be over...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Ruby",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My father was a lobsterman. He got up every morning at four and came home every night stinking of brine! He sent me through law school with the lobsters he caught!",
+      "characters": [
+        "Wendy",
+        "Morty",
+        "Kramer",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Jerry, what time do we have to be at the the Tonight Show on Thursday.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, you know I went to the hospital today, and I saw the woman, you know, and the wheelchair is totalled, we gotta get her another one!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Guard"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell you what, you give me the twenty, and I will buy *you* a popcorn and soda, and I'll throw in a bon-bons.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Elaine",
+        "Detective"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "Oh, right. I hope you have a good oral surgeon because that can be very serious.  Hey, look at naked people.",
+      "characters": [
+        "Christie",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, well, he's in perfect health. He works out, he's vibrant. You'd really like him.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I've got to hose the puke off the floor of the bus.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

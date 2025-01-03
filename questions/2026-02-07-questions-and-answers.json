@@ -1,0 +1,106 @@
+{
+  "gameNumber": 400,
+  "date": "2026-02-07",
+  "questions": [
+    {
+      "quote": "Hey, wait a second. Wait a second. ! Celebrate! How about some champagne?",
+      "characters": [
+        "Kramer",
+        "Abby",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me - I can't seem to find my car - do you think you could drive me...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "U-oh come on up.  It's Elaine you don't have a problem with her do you?",
+      "characters": [
+        "Elaine",
+        "Waitress",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, so important. So what are you doing uh Thursday night? You wanna have dinner?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, what was that last thing you gave me? That was pretty good.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Actually, yeah.  Wait a second! Is that the fork that fell on the floor?!  Are you using the fork that fell on the floor?!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was engaged to Mickey Rooney! He left me at the altar. Kramer! Kramer!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Helena"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "This is excellent huh? Don't worry I didn't use too much milk, cause I know we gotta make it last.",
+      "characters": [
+        "Dana",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, the meeting with Lippman is all set. He's the editor-in-chief! I think because of your request-",
+      "characters": [
+        "Elaine",
+        "Manager",
+        "Jerry",
+        "Tawni"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "'The Other Side Of Darkness'. Huh, I never heard of that one.",
+      "characters": [
+        "Jerry",
+        "Rick",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

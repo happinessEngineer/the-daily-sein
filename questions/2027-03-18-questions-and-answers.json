@@ -1,0 +1,106 @@
+{
+  "gameNumber": 804,
+  "date": "2027-03-18",
+  "questions": [
+    {
+      "quote": "Those brave Krakatoans East of Java. who sacrifice so much for so long.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Knick game. Horneck took me. We were sitting two rows behind the bench. We're getting hit by sweat!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mr. Steinbrenner's birthday card. Wilhem said you had it for me to sign.",
+      "characters": [
+        "Kramer",
+        "Morgan",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "No no, he'll come in. Well, this is gonna be my first opportunity to not kiss her hello.",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You want to get outta here? Here's what we do. We leave the car here, we take the plates off, we scratch the serial number off the engine block, and we walk away.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine. I don't understand why you can't meet someone else's parents without classifying it as a date.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Todd"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Yeah well, Newman's not happy, he booted me out of his freezer. Look, I've got to take my blood back to the bank, can I borrow your car?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Joel",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah - see the sense of humor? C'mere, I'm so nuts about you... I tell ya, it was fun being single, but when you meet a woman like this, you don't walk to get married - you run!",
+      "characters": [
+        "Joyce",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey that sounds great, I'd love to do some TV commercials, that should really be fun.",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I just want you to know I'm there for you. Course now I'm here for you, but when i'm not here for you, i'm there for you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

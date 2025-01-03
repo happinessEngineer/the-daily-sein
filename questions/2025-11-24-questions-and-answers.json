@@ -1,0 +1,106 @@
+{
+  "gameNumber": 325,
+  "date": "2025-11-24",
+  "questions": [
+    {
+      "quote": "Excuse me, we can't seem to find our car. I was wondering if it would be possible if you're not in a hurry, to drive us around the garage for five minutes so we can look.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it wouldn't hurt to go in the and be able to discuss it intelligently. Maybe you should take a look at a few bras?  Where is you bra? Give him a bra to look.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So anyway his boss has a box at the Met and he invited us to see Swan Lake, which is fine, but he's afraid that his boss can't handle his orientation, so I'm going along as his date.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jumping up and down? What are you talking about? C'mon. Cough it up.",
+      "characters": [
+        "Brody",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't. Susan wants to have it out when Sally comes tomorrow.",
+      "characters": [
+        "George",
+        "Bania",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Latham, Massachusetts. Why don't you take a cab into town, get yourself something to eat. I got your beeper number - I'll beep you as soon as we're ready.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Captain",
+        "Kramer"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "Oh, it was on the windshield of the car when we came out of that rest stop.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Well, I found this rope and I kept tugging on it, and all these lobsters came up.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He said that?  What a nerve. How dare he say something like that.",
+      "characters": [
+        "Lena",
+        "George",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, you know, we haven't brought the Elaine character into the show yet. Umm, We should try and get her into this scene.",
+      "characters": [
+        "Elaine",
+        "Karen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

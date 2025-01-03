@@ -1,0 +1,106 @@
+{
+  "gameNumber": 22,
+  "date": "2025-01-25",
+  "questions": [
+    {
+      "quote": "Kramer, you make me get a ticket for this friend of yours and then the guy forces me to bootleg the movie at gun point!",
+      "characters": [
+        "George",
+        "Lois",
+        "Jerry",
+        "Officer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Alright, I think that's enough for today.  Little Jerry is lean, mean, peckin' machine!  What are you doing with that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Imagine walking by someone on the floor, and you say \"Hey, Carl!\" and he says \"Hey, Jerry!\" You see, that's the kind of society I wanna live in.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, suddenly I'm in the mood for pasta primavera myself.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. It's very important not to embellish on your order. No extraneous comments. No questions. No compliments.",
+      "characters": [
+        "Tony",
+        "Rava",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is this? You got stains all over it! What the hell'd you do?",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm sorry. I can't live knowing Ted Danson makes that much more than me. Who is he?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Lena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I said, \"How come no one's killed her?\" Probably shouldn't have said anything,",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We got a soccer game in Chile. Anyway, the plane crashes. Who are you gonna eat to survive?",
+      "characters": [
+        "Captain",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "These old guys, they're up at 4 a.m., by two thirty they're wiped.  How did we get back onto you?!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

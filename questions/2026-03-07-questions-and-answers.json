@@ -1,0 +1,106 @@
+{
+  "gameNumber": 428,
+  "date": "2026-03-07",
+  "questions": [
+    {
+      "quote": "I tell you George, I don't think we want to walk in there and put a big plastic jug of Pepsi in the middle of the table.",
+      "characters": [
+        "George",
+        "Melissa",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The add said that the bank's gonna pay a hundred dollars if you are not greeted with a hello",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Julie",
+        "Gino"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No! He's riding my coattails again. He's getting everything off me, first laughs now ladies.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's, that's incredible. My Cousin Vinnie, I love her, she was fantastic!",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, really. Are you the boyfriend? I know she's got a boyfriend. Are you going to *kill* me? I'm an old man for crying out loud, you gonna kill an old man, you coward?!? [Jerry gets out card]",
+      "characters": [
+        "George",
+        "Sid",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I don't know what Elaine is so upset about. I mean, without dessicates, those clothes'll be noticeably musty in five years.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you know the last time I wore this thing? Six years ago, when I made that toast at Bobby Leighton's wedding.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do I smell something? What am I, hard of smelling? Of *course* I smell something.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, Kramer that's it..... Hello . English. Does anyone speak English",
+      "characters": [
+        "Vivian",
+        "Sid",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, you got a lot of stuff here. . . . Dad, what are you doing?",
+      "characters": [
+        "Elaine",
+        "Marcy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

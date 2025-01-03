@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1009,
+  "date": "2027-10-09",
+  "questions": [
+    {
+      "quote": "Well, we'd better get started, my daughter's going to be here soon.",
+      "characters": [
+        "Jerry",
+        "Vivian",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Such a long story, Cynthia, seriously, I mean he just had some problems at work.",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I'll go downtown to Chinatown with him, but that is it!",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think people will still be using napkins in the year two-thousand? Or is this mouth-vacuum thing for real?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What I mean who ever heard of this anyway? Suing a company because there coffee is too hot? Coffee is supposed to be hot.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Usher",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well Jerry, it might take a while for me to pay you back. Maybe a few years. How do you feel about that?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, that, that thing about her being too good for him. I mean, I was just bein' folksy. They could tell I was just being folksy..?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "and I feel if we can just talk about this we can straighten the whole thing out, so listen, so call me back. Bye.",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, small world. So little people can have not little people children?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure, well uh, you know I'll check in with you next week uh, I gotta run now because I got a full plate this afternoon. All right, really go to uh,.",
+      "characters": [
+        "Mike",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 485,
+  "date": "2026-05-03",
+  "questions": [
+    {
+      "quote": "Hey, hey, let's not get so defensive here. This is a give and take process.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Conrad"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, now she thinks that I'm one of these guys that love her. Nobody wants to be with somebody that loves them.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, uh, hi. I'm Wanda Pepper, I'm Albert Pepper's daughter. My father asked me to come here and pick up his jacket for him.",
+      "characters": [
+        "Attendant",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How do you like working there at the .... hum...Andover shop? I mean it's a pretty swanky upscale clientele.",
+      "characters": [
+        "Elaine",
+        "Father",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "ARe you kidding? Lincoln Center. Alice Tully Hall, the Met. Magnificent facilities.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Check it out, from the new issue of the New Yorker...huh!...Funny isn't it?  Look at it, the pig wants to be taller and what's this guy gonna say?.. he he...Nothin'..he he.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What about Harrison Ford? He had one in, uh, Blade Runner. That was a cool one.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Kimbrough",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you cancelled on Tuesday, and our policy is \"twenty-four hours notice, for all cancellations\".",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Oh..  I got denim vest checking me out.  Fake phone number's coming out tonight.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Karen",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All this? This whole thing? It's going to take me forty-five minutes.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Gina",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

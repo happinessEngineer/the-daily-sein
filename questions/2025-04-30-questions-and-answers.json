@@ -1,0 +1,106 @@
+{
+  "gameNumber": 117,
+  "date": "2025-04-30",
+  "questions": [
+    {
+      "quote": "It was all an act, Jerry. They conned us, and they scored, big time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who's going to bomb you. An airline for all the stupid little peanut jokes.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just don't think it's such a great idea for you to sit here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Michael"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My fault? Your Nana is missing because she's been passing those bum checks all over town and she finally pissed off the wrong people.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's the way I express myself. How are you gonna make it in this business if you can't take it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Oh, right! Hey, it was great seeing you again. I love your outfit.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what I'm going to do? I'm going to run around the stadium and close all the windows. That's where I'm going, pal. And I'll tell you something else. I'm very nervous.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Dan",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I was hoping you know, that you might be interested in... changing teams?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, if you have any idea for like a TV show for yourself, well, we'd just love to talk about it.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Stu"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "The ocean called. Running outta shrimp. Outta shrimp!  Oh! Yes! That's what I shoulda said!  Dammit!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Kevin"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

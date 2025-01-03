@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1088,
+  "date": "2027-12-27",
+  "questions": [
+    {
+      "quote": "Wait a minute. Wait a minute. As long as you're going to lie to the guy, why don't you tell him that you lost both of the tickets, then we can go?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How does sitting next to a person in a movie theater increase the level of enjoyment? You can't talk during a movie. You know, this is stupid, c'mon, let's just go.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sally, you can't quit the business. This is all because of me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that didn't work. Hey, how about this…ketchup and mustard in the same bottle?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "O'Henry?  That's one of our top-selling candy bars.  It's got chocolate, peanuts, nougat, it's delicious, scrumptious, outstanding!  Have you been to a doctor?",
+      "characters": [
+        "Kevin",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Oh, you got the Civil War book.  I saw some of that show, it was wonderful.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but I saw the look on his face when he put his arm around me. And then we went to his apartment, and I sat on one of his chairs and it broke. And he says, \"Boy, you're a lot of woman!\"",
+      "characters": [
+        "Vandelay",
+        "Jerry",
+        "Sheila",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It does itch. Maybe I will go down at Kruger and talk to her.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey how about that ball man injuring Monica Seles. Wasn't that something.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Driver"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "All right. That's enough for today. You're tired. Get some sleep. I'll see you first thing in the morning.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

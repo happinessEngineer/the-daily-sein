@@ -1,0 +1,106 @@
+{
+  "gameNumber": 44,
+  "date": "2025-02-16",
+  "questions": [
+    {
+      "quote": "Are you crazy? You take your life in your hands with those nuts.",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The better looking they are, the faster they go! I mean, I see they out there on the street, they're zooming around, like a blur. Like they have a motor on their ass.",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tomorrow is his birthday and it would mean so much to him if you could find it in your heart ta' pay him a visit and, just say hello.",
+      "characters": [
+        "Mel",
+        "Elaine",
+        "Julianna",
+        "Stu"
+      ],
+      "correctAnswer": "Mel"
+    },
+    {
+      "quote": "All right, all right. What. What. You tell me; I'll do anything. Come on, Doc, tell me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what my greatest moment was, don't you? Nineteen-forty-six. I went to work for Harry Flemming and I came up with the idea for the beltless trenchcoat.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You know, I'm a little bit worried about him. I don't understand. We had one date two months ago. Am I that charming and beautiful?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Attendant",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah I'm sure he loves to hear from fans in the locker room.",
+      "characters": [
+        "Donald",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, he just got me thirty percent off on an air conditioner.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'VE FOUND A HAIR!!! Yes  Hey, come here, come here ,take a look at this.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Buckles",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, I paid two hundred dollars for this racquet, because he said it's the only one he plays with. He could've played just as well with a log.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

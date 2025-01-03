@@ -1,0 +1,106 @@
+{
+  "gameNumber": 710,
+  "date": "2026-12-14",
+  "questions": [
+    {
+      "quote": "That's exactly what I said, except I used the word \"momentum\".",
+      "characters": [
+        "George",
+        "Laura",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Kevin...you can go on and on about how you don't want kids...and it sounds, it sounds really nice, but...the truth is, I don't know if you mean it or not.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Russell",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm just gonna...wash.  WHY DID I PUT UP TWO? WHY DID I PUT UP TWO?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Gary",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe what's happening here.  She hasn't taken her hands off me all night.  She was always friendly around the office, but that was it.",
+      "characters": [
+        "Jerry",
+        "Wyck",
+        "Sheila",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah well, the budget changed, you know. I mean, it might be a good investment.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you what happened. I bet he got the AM/PM mixed-up.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, Gordon Lightfoot was the singer. Edmund Fitzgerald was the ship.",
+      "characters": [
+        "Enzo",
+        "Lippman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute, wait a minute, do you think I?m comfortable here. I can't change, I?ve got no clothes here! You've got to go like that, I can?t go like this alone!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But I didn't know, Tom. I g -- can't you just make an exception? Please. I've got a nice face.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I have thought about you many times. Have you thought about me?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Gina"
+      ],
+      "correctAnswer": "Gina"
+    }
+  ]
+}

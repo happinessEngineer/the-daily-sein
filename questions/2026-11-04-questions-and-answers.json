@@ -1,0 +1,106 @@
+{
+  "gameNumber": 670,
+  "date": "2026-11-04",
+  "questions": [
+    {
+      "quote": "Come on, We're two intelligent people here. We can figure this out. Now we got a dog and a cat in an office.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah? This woman was selling them at this crazy party I was at last night. You'll appreciate this. Snapple?",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Todd. Let me ask you a question. Um. Was this whole date thing just a way of asking me out?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll never forget that laugh for the rest of my life. [exits]",
+      "characters": [
+        "Noel",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Noel"
+    },
+    {
+      "quote": "Hey, hey. Wha... wait... what, you're gonna leave it there? That's like half a pound of turkey!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, let me get a coat. I think I'll uh try a sport jacket and scarf thing, you know, like an unemployed actor.  Ahh, haven't worn this one in a long time.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Landis"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if there's any doubt at all I...I feel we should cultivate it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm a great clicker!  Great instincts. How dare you impune my clicking.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, yeah, I did, but she's a tough nut. How d'ya like the tuxedo. It's a rental but I've had it for fifteen years. All right, eh.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Yeah! They isolate the muscles. The muscle has to grow....or die.\"",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

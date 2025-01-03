@@ -1,0 +1,106 @@
+{
+  "gameNumber": 594,
+  "date": "2026-08-20",
+  "questions": [
+    {
+      "quote": "I once told a woman that I really enjoy spending time with my family.",
+      "characters": [
+        "Kramer",
+        "Detective",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, about how you're very jealous of George. How you wished it was you who were getting married instead of him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Steven"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, well, look at you. It?s a little skimpy there isn't it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, just take off those pants now, and I'll work the hamstring.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Raymond",
+        "Jackie"
+      ],
+      "correctAnswer": "Raymond"
+    },
+    {
+      "quote": "I don't know. I just worry about trips like this. It's a lot of pressure.",
+      "characters": [
+        "Vanessa",
+        "Tim",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Vanessa"
+    },
+    {
+      "quote": "Uh, heading out. Jerry really hates to miss the coming attractions.",
+      "characters": [
+        "Lippman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I said I had a good time and I'd call, but who takes that literally?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well. Sounds like things are progressing. Do I hear, wedding bells?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe I'll stick around and see what she's wearing today. Or not wearing, if you know what I mean.",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Pop",
+        "Audrey"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Uh, well, you know, a coffee grinder is nice. Or a coffee maker. Everyone likes coffee. Anything to do with coffee. Maybe you should go get some coffee.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Steinbrenner",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

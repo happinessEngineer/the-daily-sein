@@ -1,0 +1,106 @@
+{
+  "gameNumber": 351,
+  "date": "2025-12-20",
+  "questions": [
+    {
+      "quote": "Rava was standing right next to me. I never told her where I got the statue.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "You better give me back that bike!  Look at this! Look! Ow. I couldn't even crawl out of bed this morning.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well because I meet a lot of women in this jacket, you know they're attracted to it. I mean why do you think my mother went out with him?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Would you excuse me a minute? I'm gonna go to the bathroom. I'll be right back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He thought he could buy back that Cadillac for us? He's not getting away with that.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey.  I'm going to tell you what I think. I know you don't care what I think, but I'm going to tell you. I think that you are terrific.",
+      "characters": [
+        "Ray",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So it's more of a relationship problem than the final destination of your soul.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sex... to save the friendship.  Well, if we have to  we have to.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Tom"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you remember yesterday? Beautiful day... good day to be... out.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thanks a lot, two weeks late. Now that costs me thirty-five dollars to see Havana.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Lou",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

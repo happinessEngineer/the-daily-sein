@@ -1,0 +1,106 @@
+{
+  "gameNumber": 69,
+  "date": "2025-03-13",
+  "questions": [
+    {
+      "quote": "Look I, I uh, I had nothing to do with this. It wasn't my decision. It was Jerry! Jerry told me no. I'm the creative guy. He handles the business end.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, no more lies. Elaine is been chosen to represent the Upper West Side in the next Biosphere project.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, maybe it is, but listen, I gotta get ready - Sidra's coming over in a few minutes, so if you don't mind...",
+      "characters": [
+        "Evelyn",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Cars can go on empty, but not us humans, huh, fella? I'll get us a couple of Twix bars.",
+      "characters": [
+        "Kramer",
+        "Rula",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's a very good question. You know she and I go out for dinner, she doesn't even reach for the check. That?s all I?m asking for is a reach. Is that so much to ask for?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't go anywhere, I have to wait here for Tatiana's call. Let me just check.",
+      "characters": [
+        "Jerry",
+        "Loretta",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I hit the wall yesterday with Lady Godiva. She did a full body flex on a pickle jar.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey, hey. I'm getting a vibe here. What, are you unhappy with our arrangement?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, tomorrow's Sunday. We could sleep late, and get the paper and half breakfast and spend the morning together, go for a long walk, maybe do a little shopping, have lunch...",
+      "characters": [
+        "Daphne",
+        "George",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Well this way I figure you can go out and get yourself whatever you want. No good?",
+      "characters": [
+        "George",
+        "Peggy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

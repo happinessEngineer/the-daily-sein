@@ -1,0 +1,106 @@
+{
+  "gameNumber": 27,
+  "date": "2025-01-30",
+  "questions": [
+    {
+      "quote": "Oh well there's a bathroom in the coffee shop just next door.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "Elaine",
+        "Silvio"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "All right, I think we've covered my act. Now you get out there and stink it up with everybody else.",
+      "characters": [
+        "Alton",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am not O'Brien! I am not O'Brien! I'm not O'Brien! Ask anyone! Jerry?! Jerry?!!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, all right, all right! I'll give him the discount, just put that thing away! This squares us.",
+      "characters": [
+        "Dwayne",
+        "Janet",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Dwayne"
+    },
+    {
+      "quote": "So you've got him standing by the elevator like a dope! What happens when he sees her?",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Oh those places have the stupidest names. Like, uh, \"Back in \", or \"Good Vertibrations\".",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lamar",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, you know she's got that laugh. What did you say? It's like Elmer Fudd sitting on a juicer?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my God. I just remembered where I left my retainer in second grade. I'll see ya.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, you really got it all, I'm sure Helen \"Girlie\" Brown would be very proud of you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Doorman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You, I guess, you don't remember me.. but we actually, kind of um.. went out.. a couple of years ago.. once.. remember?",
+      "characters": [
+        "Jimmy",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

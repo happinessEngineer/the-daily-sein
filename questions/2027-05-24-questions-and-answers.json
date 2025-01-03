@@ -1,0 +1,106 @@
+{
+  "gameNumber": 871,
+  "date": "2027-05-24",
+  "questions": [
+    {
+      "quote": "But that's a one-way street coming this way. Besides, how am I gonna get all the way over there?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Once again, Antonio, I can't even begin to say how deeply, deeply sorry I am about everything. The job, the cat..  the lamp.",
+      "characters": [
+        "Tv",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. So, you hold out your money, speak your soup in a loud, clear voice, step to the left and receive.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no no. That skips a generation. The baldness gene comes from your grandfather.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Maryedith",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What could I do? She said there might be something for me at Doubleday. Oh wouldn't that be great I wouldn't have to work for Mr. Pitt anymore.",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm learning a lot about you tonight George. I've never seen you like this.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Babu",
+        "Morty"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "I don't get you. Who goes on vacation without a job? What do you need a break from getting up at eleven?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's the matter with you? I'm talking! So, Jerry, you know anyone who needs an apartment?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Harold"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Going backstage is the worst. Especially when they stink. You know that's a real problem.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kimbrough"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know what it means, but what does being a shiksa have to do with it?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

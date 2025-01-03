@@ -1,0 +1,106 @@
+{
+  "gameNumber": 173,
+  "date": "2025-06-25",
+  "questions": [
+    {
+      "quote": "Oh, I was gonna surprise Joey with them, you got an extra one right?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Think where man's glory most begins and ends and say my glory was I had such a friend.",
+      "characters": [
+        "Gary",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey by the way my parents really want to have your parents over dinner before they leave town.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not. It's all been endowed to the foundation, even this townhouse.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Four hundred dollars? What are you nuts? Someone will pay more.",
+      "characters": [
+        "George",
+        "Nikki",
+        "Elaine",
+        "Manny"
+      ],
+      "correctAnswer": "Manny"
+    },
+    {
+      "quote": "Well my swimming pool problems are solved. I just found myself miles and miles of open lanes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Darryl"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, nothing really, just a homicide. [She finds the right spot on his back] Oh that's terrific... Mulva.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So Peterman bought it? I can't believe you got away with that!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You want me to find a poem about Susan? May she rest in peace?!",
+      "characters": [
+        "Kramer",
+        "Rebecca",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because he does it quiet. He does it quiet. Lookit, Just like this, watch.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

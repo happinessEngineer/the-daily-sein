@@ -1,0 +1,106 @@
+{
+  "gameNumber": 561,
+  "date": "2026-07-18",
+  "questions": [
+    {
+      "quote": "Boy, look at that. Se that's that fire I was listening to yesterday.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Rita"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes they *eat* them. They don't put them next to vital organs in their abdominal cavity!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. \"Suze!\" I mean, \"Suzie!\" \"Suzanne!\" \"Suzanna.\" Fine! But there is no, way, I'm gonna be a Suze.",
+      "characters": [
+        "Emily",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, you don't seem yourself today. You seem, if I may say, troubled.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rabbi",
+        "Elaine"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Take a look at this card. Tell me if you notice anything unusual about it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, Sandra. I'm sorry, I'm sorry! I really am! Listen, listen, Jerry's under a lot of pressure right now. It's very hard being a stand-up comedian! Sometimes they don't laugh!",
+      "characters": [
+        "Elaine",
+        "Maryedith",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you believe when I was 18, I had a ssssilver dollar collection?",
+      "characters": [
+        "George",
+        "Farkus",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He was at a carnival with his mother. She goes to get a hot dog, next thing you know she turns around, boom, he's gone.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, like what, Ovaltine? Why do dogs drink out of the toilet? Shopping carts with one bad wheel?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Danielle"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

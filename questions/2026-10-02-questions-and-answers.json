@@ -1,0 +1,106 @@
+{
+  "gameNumber": 637,
+  "date": "2026-10-02",
+  "questions": [
+    {
+      "quote": "Jerry, come on, you're doin' okay now. You should at least take a look at this place. You shouldn't have to live like this.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw, I've just got to say it once, everybody else gets to say it, why can't I say it?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ricky",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...and I have to tell you, it's exactly what this organisation needed.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "And who were you tryin' to set up, anyway? The mechanic or the manager?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "John Germaine? That is amazing. I was just talking about him upstairs with Elaine.",
+      "characters": [
+        "Elaine",
+        "Katya",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're -- They're killing independent George! And they're, they're all in on it! World's are colliding!",
+      "characters": [
+        "Susan",
+        "Milos",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know it happens to everybody. It happened to Houdini. And he could get out of a trunk under water with his hands in chains! But he had a problem with that. The miracle is that it ever happens.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wouldn't it be great if you could ask a woman what she's thinking?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the last thing she said to me. She wanted to go there also, but I wasn't in the mood.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, as I was lying in the puddle, I-I think I may have found a way for us to get Bonds and Griffey, and we wouldn't have to give up that much.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 761,
+  "date": "2027-02-03",
+  "questions": [
+    {
+      "quote": "I think so. I mean, he's acting really weird lately...he's different.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well be-because you know that, because this is your first show it's a pretty standard deal.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Do you know what's going on here? Can't you see what's happened? I've become George.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm telling you, something's going on. I can feel it, sense it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know, she said she had to pick up a friend of hers at the airport. It cost me a hundred dollars this ticket.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a cold winter's night in Timbuktu...  Oh! This stinks!  Oh, come on... come on...!...God!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mom, I didn't rat out Uncle Leo. I just wanted the guard to scare him straight.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Gennice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Jerry, you want this, cause I'm going to give it to a homeless person.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We missed you at the get well party. Poor old Walt has a polyp in the duodenum. It's benign, but--ooh--still a bastard. Oh, Elaine, can you keep a secret?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Did I have a great time with David Lickner last night? I sure did.  Do I think there is a future here? I don't see why not.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Darryl",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

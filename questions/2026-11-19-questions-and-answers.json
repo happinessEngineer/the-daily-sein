@@ -1,0 +1,106 @@
+{
+  "gameNumber": 685,
+  "date": "2026-11-19",
+  "questions": [
+    {
+      "quote": "What's the matter with you? I just talked to you fifteen minutes ago.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'm very nervous. I'm auditioning to be in the Actor's Studio tonight.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "George I've just reading this thing in the paper, it's unbelievable!",
+      "characters": [
+        "Jerry",
+        "Greg",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's an incredible deal. I don't know why you don't come with me.",
+      "characters": [
+        "Announcer",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi, Jerry it's Naomi.  Ah, listen, if its not too late I, changed my mind, I'd like to go to the cabin.",
+      "characters": [
+        "Naomi",
+        "George",
+        "Jerry",
+        "Maura"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "Oh he'll be home, it's Friday night. That's the big night on the Nature Channel.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just thought of a great name for myself, if I ever become a porno actor.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, and I got about ten feet down and I felt this tremendous pressure on my mask. Like my eyeballs were being sucked out of their sockets.",
+      "characters": [
+        "Marty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what? I don't think so. I'm going to need it from time to time.",
+      "characters": [
+        "Woman",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Yeah, this is room 419, I'd like a wake-up call for 6:50 AM tomorrow morning.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

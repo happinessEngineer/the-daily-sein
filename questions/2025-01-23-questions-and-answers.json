@@ -1,0 +1,106 @@
+{
+  "gameNumber": 20,
+  "date": "2025-01-23",
+  "questions": [
+    {
+      "quote": "I think my last time was in Rochester. My hair was a lot shorter.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Believe me, I wouldn't bother you if the army hadn't closed that base in Sarasota. Here, scribble a little something here.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm on a winning ball club, Jerry. They probably wanna pick my brains.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well when you don't actually do the steps, you can go through them pretty quick. You can get through six a day.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The wall had just come down, and you told me you wanted to be part of the celebration.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Newman",
+        "Marla"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Jerry, a throat-clear is a non-verbal implication of doubt - he thinks I killed Susan!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had to ask Kevin, to leave his office an' come an' pick me up!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Hal",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I never should've gotten involved in this. I'm a nervous wreck. I'm not cut out for investing.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, about how when you break it down, it's really a very positive thing. you know, you have a \"nure,\" with a \"ma\" in front of it. MA-NURE. I'z not bad.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I don't like it. I don't like it one bit! And, I'm supposed to see him tomorrow.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

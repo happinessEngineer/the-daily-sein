@@ -1,0 +1,106 @@
+{
+  "gameNumber": 190,
+  "date": "2025-07-12",
+  "questions": [
+    {
+      "quote": "\" I'll always be a winner and you'll always be a loser.\" This is what he said to me.",
+      "characters": [
+        "Morty",
+        "Donna",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Inside that small college boy minifridge is my latest acquisition. A slice of cake from the wedding of King Edward VIII to Wallis Simpson, circa 1937, price--$29,000.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "So you go around telling your friends I'm not hip because I like that commercial.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Elaine",
+        "Lena"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "Hey, we're kind of in the middle of something here. Would you mind coming back later?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Patty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, why don't we wait? Because, I'm going out of town tomarrow.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, hey! Elaine, I just heard that Noreen and Paul are breaking up. I want you to put in a good word for me.  I've always had a thing for Noreen.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Or we don't even send the check and then when they call, we pretend we're the cleaning service. Heh heh. \"Hello? I sorry, no here Kruger.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no. Sure. It matters. Wow. I've broken through, huh. I'm part of popular culture now. Listen I've got to thank Mr. Peterman.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Can I make it up to you? I'll give you fifty bucks for the jug.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm tired. I hardly slept last night with all this scratching. Bonkers was going crazy.",
+      "characters": [
+        "George",
+        "Tawni",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "Tawni"
+    }
+  ]
+}

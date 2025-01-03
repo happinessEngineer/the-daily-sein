@@ -1,0 +1,106 @@
+{
+  "gameNumber": 650,
+  "date": "2026-10-15",
+  "questions": [
+    {
+      "quote": "So you're a victim. Now your face is shallow, unattractive, disgusting.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You're gonna first start shipping boxes? We're leaving for Paris in three days.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "No, I read an article in Bon Appetit magazine.  I'll see you later.",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahoy! Mr. Eldridge. I understand you were on the Andrea Doria.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right! All right. I'll tell you what. How about this? Got the date; March 21st, the first day of spring.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sure you'll have another fight, George.   Hold that thought!",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm going with him. I'd like to... I've never done a 'solid' before.",
+      "characters": [
+        "Donald",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tell you what, I'll make a deal with you. I'll sell it to you right now for ten bucks.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kate"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You signed your name and you addressed the envelope, it's not like you painted the picture and wrote the poem.",
+      "characters": [
+        "Steven",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're men with jobs, Jerry! They wear suits and ties. They're married, they have secretaries.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Steve"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

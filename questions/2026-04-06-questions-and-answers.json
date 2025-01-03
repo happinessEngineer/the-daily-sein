@@ -1,0 +1,106 @@
+{
+  "gameNumber": 458,
+  "date": "2026-04-06",
+  "questions": [
+    {
+      "quote": "No, no, no! It *can't* be! I shampoo'ed! I rinsed! I repeated!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh didn't work. He caught me hearing. Alright it's terrible, but I'm not a terrible person.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Harold"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe Manya missed the funeral because she was off visiting another galaxy that day.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Glenn"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So that was your girlfriend that blocked you in. That's real good.",
+      "characters": [
+        "Lamar",
+        "Elaine",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Lamar"
+    },
+    {
+      "quote": "You know what drove me crazy about him? Did you ever notice that he stood too close to you when he talked?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you broke the news to Mr. Costanza? Could you tell the court, please, what his reaction was?",
+      "characters": [
+        "Celia",
+        "George",
+        "Kramer",
+        "Hoyt"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Hello. So, George, uh, you're the one who works for the Yankees, right?",
+      "characters": [
+        "David",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Shouldn't he say \"Bad bye\"? Isn't that the, opposite of \"Good bye\"?",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because even if you have  to go a little you'd better go now because you won't get another chance until way after take off.",
+      "characters": [
+        "Kate",
+        "George",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Oh no. No. I don't want to sit in the back. I'll be left out of the conversation.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

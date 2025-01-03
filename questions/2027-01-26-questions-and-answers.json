@@ -1,0 +1,106 @@
+{
+  "gameNumber": 753,
+  "date": "2027-01-26",
+  "questions": [
+    {
+      "quote": "Come on. Dustin Hoffman in Star Wars. He made a bet he knew he was going to lose just to take you to dinner",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Marcy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now listen Porter, you know your mother and I love you very much. But sometimes people fall out of love. Now give me a big hug.",
+      "characters": [
+        "Kramer",
+        "Jane",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well you know, if you were sitting right next to her you'd have to console her no matter what.",
+      "characters": [
+        "Abby",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We were expecting about two hundred people...Well...Thank you , thank you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Well...He's singing at a benefit and I'm gonna be sitting at his table.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, come on, that's a huge feature. When they approach a new recruit, I'm sure that's one of the big selling points.",
+      "characters": [
+        "Simon",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, a gift not enjoyed is like a flower that doesn't blossom.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "this is great! He fired her! This is incredible, he fired her. I'm out, baby! I'm out!",
+      "characters": [
+        "Harold",
+        "George",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Being president of the condo is not easy. It requires hard work, dedication, and commitment, and unfortunately he possesses none of these qualities.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jack",
+        "Gary"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "I gotta go help her tape up all his boxes and get them ready for shipping.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

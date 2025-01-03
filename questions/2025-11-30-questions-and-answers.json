@@ -1,0 +1,106 @@
+{
+  "gameNumber": 331,
+  "date": "2025-11-30",
+  "questions": [
+    {
+      "quote": "If she doesn't show up, we can't possibly have dinner with him alone.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We've been trying to get it out of him for ten years. What is it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Five seconds. And Marcelino says he's taking your check down today.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, there, all right I said it there.. Ya' satisfied? Anything else you want to know?",
+      "characters": [
+        "Kramer",
+        "Tawni",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If you ask me, they have no business living amongst us. Vile, USELESS BEASTS . . .",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Donna"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, no. We're campaigning, Jerry. To rule the people, one... must walk among them.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nah, with crutches it's a funny story, with a cane it's a sad story. You through with those?",
+      "characters": [
+        "George",
+        "Bania",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ok, why? Why do guys do this? What is so appealing to men about a cat fight?",
+      "characters": [
+        "Jerry",
+        "Babu",
+        "Naomi",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't come up with your own stuff , so you *steal* other peoples? You're nothing but a hack.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, they forgot to deliver your paper today. Why don't you just grab that one.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Puddy"
+    }
+  ]
+}

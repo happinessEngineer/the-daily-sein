@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1049,
+  "date": "2027-11-18",
+  "questions": [
+    {
+      "quote": "Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.",
+      "characters": [
+        "Mike",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Did you here that? I can't believe this he's eating his sandwich.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The government is very touchy about us being in the air. Let us run around on the ground as much as we want. Anything in the air is a big production.",
+      "characters": [
+        "Ned",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I will never understand the bathrooms in this country. Why is it that the doors on the stalls do not come all the way down to the floor?",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, a coffee table book about coffee tables!  How did you come up with this idea?",
+      "characters": [
+        "Kramer",
+        "Toby",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "See, right here you wrote \"Myra had the baby\", but you didn't use an exclamation point.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mohel",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who's off the street? I'm in the raincoat business for thirty-five years.",
+      "characters": [
+        "Morty",
+        "Mohel",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh yeah, that's right.  Go ahead, go ahead, maybe you can run over a squirrel!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I, as your president, have to find the best price, and right now, I for one, do not think it's cost-feasible.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "We had an arguement about me going to Hawaii, and he locked onto my ankle like it was a soup bone. I'm hubbled! I don't think I can do my route - and they're awarding the transfer in two days!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

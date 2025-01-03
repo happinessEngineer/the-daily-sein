@@ -1,0 +1,106 @@
+{
+  "gameNumber": 545,
+  "date": "2026-07-02",
+  "questions": [
+    {
+      "quote": "Look at this. There's no spaces here.  Excuse me, are you gettin' out?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know, I don't know what to do.  Oh god.... so how was the movie?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Robin",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I don't see how I'm gonna make December. I mean, I need a little more time. I mean, look at me I'm a nervous wreck. My stomach aches. My neck is killing me. I can't turn. Look. Look.",
+      "characters": [
+        "George",
+        "Jack",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I don't sit on park benches. They're very bad for the back.",
+      "characters": [
+        "Hal",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "Toasting makes me uncomfortable. But toast, I love. Never start the day without a good piece of toast. In fact, let's toast to toast.",
+      "characters": [
+        "Farkus",
+        "Lloyd",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "ha ha ha Well you know sometimes it just has a way of finding you. Cigarette?",
+      "characters": [
+        "Mike",
+        "Shelly",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Elaine, let me ask you something. When I told you my breakup was mutual, did you believe me?",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "George",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm... I'm concerned. George? George, are you listening to me?",
+      "characters": [
+        "Deena",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "So you asked Mr. Seinfeld if he would wear your puffy shirt on the Today Show?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Hoyt",
+        "Jerry"
+      ],
+      "correctAnswer": "Hoyt"
+    }
+  ]
+}

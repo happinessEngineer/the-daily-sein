@@ -1,0 +1,106 @@
+{
+  "gameNumber": 849,
+  "date": "2027-05-02",
+  "questions": [
+    {
+      "quote": "Yeah. Thanks. So, I'm gonna get tested again later, hopefully I'll get my job back and I will be on my way to Africa.",
+      "characters": [
+        "George",
+        "Woman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what the temperature in Florida is today? Eh? Seventy-nine. That's almost eighty. Yeah, I read someplace the life expectancy in Florida is eighty-one and in Queens, seventy-three.",
+      "characters": [
+        "David",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, these movies are great, but they're just so emotionally exhausting.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Every time I turn on the TV, sirens are gonna go off. They're gonna track me down like a dog, I know it..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe we'll get together.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That is so lame. Jerry, people are going to be reading that for the next twenty years and laughing at you.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what's going on. Morty Seinfeld has been stealing funds from the treasury.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "You know, Jerry, I think this changes the relationship. I mean, I feel it. Do you feel it?",
+      "characters": [
+        "George",
+        "Mickey",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that pear shaped loser was me! And I was in that photo, until I broke in here, stole the photograph and airbrushed myself out of there!",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

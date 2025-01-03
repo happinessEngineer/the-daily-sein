@@ -1,0 +1,106 @@
+{
+  "gameNumber": 411,
+  "date": "2026-02-18",
+  "questions": [
+    {
+      "quote": "Jerry, it's Sophie. I can't believe you don't recognize my voice.",
+      "characters": [
+        "Sophie",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "That's where they filmed the movie. It's supposed to inspire me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Margaret"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "yes.. alright buddy, take it easy Kramer you down to it George? what's wrong?",
+      "characters": [
+        "Tony",
+        "Elaine",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "...and I, of course, will return to mine. Kudos, Elaine, on a job... done.",
+      "characters": [
+        "George",
+        "Toby",
+        "Brett",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That reminds me, I'm not getting you guys any more fruit. That guy was eyeballing me the whole time. He gave me the creeps. All right, you owe me twenty-eight sixty.",
+      "characters": [
+        "Helena",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You told David Putty your move and you didn't tell *me*? I *need* a move. You know I have no moves, Jerry.  Gimme a bite.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Poppie",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me. I believe you just ate my Twix bar. It was dangling. And when you purchased your Twix bar, you got a little freebie, and you never bothered to ask why, or seek out its rightful owner.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, yeah.  Hey uncle Leo, I hope I wasn't uh, rude to you that day I bumped into you on the street. Uh, I really did have to get to a meeting.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you can have mine. I'll ship it out to you.  But what about that big apartment on West End Avenue?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, is that what this is all about?! I bounce a cheque and you sold a Cadillac?!",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "Stationer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

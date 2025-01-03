@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1098,
+  "date": "2028-01-06",
+  "questions": [
+    {
+      "quote": "No, no. I have to be very careful here. I don't want to send the wrong message. Especially after the other night.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, this is the kind of lasting impression I make on people.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steve",
+        "Peterman"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "I can see not caring what happens to us, we're human. But what about the fish? The fish?",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Jerry",
+        "Craig"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a minute. Wait a minute, hold on! We're just patsies. We're just a couple of users.. We never sold the stuff. What about the Russian guy? The Russian guy is the guy you want.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, a month in Europe with Elaine.  That guy's coming home in a body bag.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "When all the while, the real secret to happiness has been right in front of us!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These showers are horrible. There's no pressure, I can't get the shampoo out of my hair.",
+      "characters": [
+        "Leo",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes. Yes I am.  Master of my domain. But I will tell you this: I am going over to  her apartment, and I'm tellin' her to put those shades down!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She does stink and she should quit. But I don't want it to be because of me. It should be the traditional route; years of rejections and failures till she's spit out the bottom of the porn industry.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Babs",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now you're going to see what kind of liar you're mixed up with.",
+      "characters": [
+        "Duncan",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Duncan"
+    }
+  ]
+}

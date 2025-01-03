@@ -1,0 +1,106 @@
+{
+  "gameNumber": 142,
+  "date": "2025-05-25",
+  "questions": [
+    {
+      "quote": "Which audition, the music video, the horror movie, the exercise tape or the infomercial?",
+      "characters": [
+        "Steinbrenner",
+        "Receptionist",
+        "Kramer",
+        "Helena"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "If my parents had a mantel, I might be a completely different person.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. Those are handsome. Look at that set. Yeah, think I might bid on those.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't mean to be funny there. Why don't you check the TV guide. I think uh, Holocaust is on.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you want the leg room, say you want the leg room! Don't blame the mechanism!",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, no, no. We're not getting on there. Come on, let's go get something to eat in Sticksville.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Steven"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nothing. Please. I'll tell you the truth - the whole thing sounds pretty stupid to me.",
+      "characters": [
+        "Estelle",
+        "Morty",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Hey, where's your new jacket?  What?  Ohhh. What did you do to it?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's that temper on your side. They're yelling and yelling, and then one day, they're all gone.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "What's the difference? Look at it! Do you see the size of this shirt?!",
+      "characters": [
+        "Patrice",
+        "Mohel",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

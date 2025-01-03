@@ -1,0 +1,106 @@
+{
+  "gameNumber": 68,
+  "date": "2025-03-12",
+  "questions": [
+    {
+      "quote": "So George. Remember when I told you Nikki gets whatever she wants. We are at the movies last night. It's sold out. Nikki goes and talks to the manager. Right in.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's why we joined a program. We walk once around the block three times a week.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "No appointments at all? Because my neck is still tight. What about Thursday? And Friday? Oh boy. Okay, thanks anyway.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, of course she did. That's all I ever heard growing up is 'Why can't you be more like Lloyd Braun?' Did you know he was in a mental institution?",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've called everyone. You know how hard it is to get a dermatologist in this town?  A real dermatologist.",
+      "characters": [
+        "Jerry",
+        "Fdr",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. And here's to David Puddy for helping me install a much needed and much appreciated garbage disposal in my bathtub.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Then, after a period of being \"there for you\", we slowly remove the two words \"for you\", and we're just  \"there\".",
+      "characters": [
+        "Newman",
+        "George",
+        "Darren",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I meant this Wednesday, I would have said this Wednesday. It's the week after this Wednesday.",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Hey! Wait! Wait! Wait a second! Where you goin'? I-I hardly ever see you anymore.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jackie",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I caught him urinating in the shower. I'm thinking about turning him in, too.",
+      "characters": [
+        "Jerry",
+        "Tia",
+        "Greg",
+        "Kramer"
+      ],
+      "correctAnswer": "Greg"
+    }
+  ]
+}

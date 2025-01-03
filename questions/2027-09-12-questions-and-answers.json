@@ -1,0 +1,106 @@
+{
+  "gameNumber": 982,
+  "date": "2027-09-12",
+  "questions": [
+    {
+      "quote": "My friend Bob Sacamano had shock treatments. But his synapses were so large, it had no effect.",
+      "characters": [
+        "Kramer",
+        "Celia",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh-m, uh I'm so sorry Roy, but actually, we are going to the, Poconos on Friday, right honey?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Manny",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know, I know. But some how she explained it to me and I couldn't say no.",
+      "characters": [
+        "Elaine",
+        "Mike",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But if you think about it...26 teams, 162 games a season, you'd think eventually an entire team would get wiped out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see? You see? Smart people think this is funny and you want to know why? 'Cause I wrote it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it's about time. We thought you were gonna wind up on the street.  What is it you're doing, exactly?",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Shelly"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "Suze? I actually had a little thing with her for a while.  Her too.",
+      "characters": [
+        "Jerry",
+        "Announcer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well, he was probably just getting anxious to start his vacation.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I would love to. Nothing would please me more. But, unfortunately, the guy retired and moved to Singapore.",
+      "characters": [
+        "Jerry",
+        "Beth",
+        "George",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Or I could sleep in the park? You could knock these walls down, make it an eight room luxury suite.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

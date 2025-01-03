@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1078,
+  "date": "2027-12-17",
+  "questions": [
+    {
+      "quote": "Well, to teach something you really have to know a lot about it. I think you need a degree.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yup. It's really just a question of what kind. Thinking about a bar stool.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that's the way I park. Anyway, you didn't start backing in until I pulled in.",
+      "characters": [
+        "George",
+        "Leslie",
+        "Marcy",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "He gave my son a pen, and then he takes it back. Tell them about that!",
+      "characters": [
+        "Leo",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well yeah, yeah. He could build the rocket, but-but he's still stupid for double-parking and blocking somebody in.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey Kramer, you know what? There, there isn't a light there, in the ladies' room.",
+      "characters": [
+        "Kramer",
+        "Izzy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I don't like what's goin' on around here. I want all you bums outta here.",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Lupe. That's very nice, very nice. Listen, are you going to be making up the bed in the morning?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "you know I hate to tell you this, but it's time to defrost that freezer",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just spoke to Duncan. He said if you don't race, he's going to fire me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Lois"
+      ],
+      "correctAnswer": "Lois"
+    }
+  ]
+}

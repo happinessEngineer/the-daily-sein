@@ -1,0 +1,106 @@
+{
+  "gameNumber": 284,
+  "date": "2025-10-14",
+  "questions": [
+    {
+      "quote": "Don't even question my instincts, because my instincts are honed.  Look at that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And people come in the store and you get involved in their lives.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, last night, I found a whole Weeble Village right behind the EZ Bake oven.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Lamar"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. Forget it. I don't want it. Let's just get rid of it.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, we watching the movie, or are we still talking?  Okay, c'mon. Let's go.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Vandelay"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y'know I remember when I was a kid growin up, kids would make fun of my name like you wouldn't believe-- \"Jerry Jerry Dingleberry\", and-hu \"Seinsmelled\"...",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So how'd it go with Kevin? Did you, steel-toe his ass back to Kentucky?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The plane's been re-routed *back* to Kennedy. We've got 45 minutes.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a trick I just learned from Kramer. It keeps a crease in the pants.",
+      "characters": [
+        "Alton",
+        "Jerry",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Calm down Brett, okay. You could have a concussion. Calm down.  'Desperado, mmm-mm-mmm. You better...'",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

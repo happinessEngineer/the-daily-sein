@@ -1,0 +1,106 @@
+{
+  "gameNumber": 554,
+  "date": "2026-07-11",
+  "questions": [
+    {
+      "quote": "I mean it's hard enough to meet a woman you dislike, much less like.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Chicken, how could she look up to a person who voluntarily spends time with Bania?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now.. This is the tape that we made earlier and I think, that I see. a couple of buds right here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is all the racket back there? You know, you're trying to relax on the plane and this is what you have to put up with. [To attendant] What is going on?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, let's get him in the studio today. We can send these out immediately.",
+      "characters": [
+        "Woman",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Too good. Peterman was so pleased, now he wants to take me out to dinner tomorrow. Maybe you wanna come with me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, it's George. Hey, hey are you all set for the weekend. This is going to be great. You're going to have a great time with Naomi.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, we got out to dinner a lot. Usually Chinese, well sometimes Thai. And we go to the movies, Arnie's a real film buff.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table.\"",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ahahaha. Well that's the positive thing about getting sick, you get to lose weight.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

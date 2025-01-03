@@ -1,0 +1,106 @@
+{
+  "gameNumber": 755,
+  "date": "2027-01-28",
+  "questions": [
+    {
+      "quote": "No. I like a good comedy. You know, like a Neil Simon? You like Neil Simon?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well that's how my five-year old eats. He's a very picky eater.",
+      "characters": [
+        "Poppie",
+        "Elaine",
+        "Jackie",
+        "Julianna"
+      ],
+      "correctAnswer": "Julianna"
+    },
+    {
+      "quote": "You know you're not supposed to drink while you're keeping a secret!  Is there anything else?",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well one day somebody's going to sleep on that thing and we'll get sued.  I hope this doctor knows what he's doing.",
+      "characters": [
+        "Vanessa",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ya' ever dream in 3-D? It's like the boogeyman is comin' right at you.",
+      "characters": [
+        "Nana",
+        "Elaine",
+        "Loretta",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well ahh. I was trying to get to my seat and I had to step over someone and I kind of got pushed and it spilled on me.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I'm not riffing. I'm ignoring! Do you understand the difference?",
+      "characters": [
+        "Susan",
+        "Vanessa",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, you know why I didn't ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I told him he'd never make it. He was up all night! Oh my god...Kramer?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

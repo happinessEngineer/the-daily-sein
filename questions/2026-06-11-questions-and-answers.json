@@ -1,0 +1,106 @@
+{
+  "gameNumber": 524,
+  "date": "2026-06-11",
+  "questions": [
+    {
+      "quote": "I am totally loving it. Uh, you know … we should um … get going.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Teller",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's over buddy. Done. Finished. So long. Good bye. Adios. Sayanara.",
+      "characters": [
+        "Carrie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "\" That guy was amazing, he could dunk and he was my height...What was his name again?\"",
+      "characters": [
+        "Gina",
+        "Susan",
+        "Worker",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You didn't think I was really going to give you a suit, did you?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tia",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Well you're not even a fan. I was at game six - you didn't even watch it.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why would I spend seven dollars to see a movie that I could watch on TV?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because he told a man he'd give him a discount too... a man Jerry.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, there was some problem with the plane, they landed in Philadelphia.",
+      "characters": [
+        "Audrey",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No, I can't trust him, he gets insane. I won't enjoy myself. That's right, Farfel, I'm talking about you!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. I'm really running out of excuses with this guy. I need some kind of excuse rolodex.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 384,
+  "date": "2026-01-22",
+  "questions": [
+    {
+      "quote": "Of course. But I really wanna leave my mark this time, you know, uh. I wanna walk away from the Yankees with people saying 'Wow! Now that guy got canned!'",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Usher"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh huh. Well how do I know what they look like on the inside? What do they look like on the outside?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute. You mean you get five cents here, and ten cents there. You could round up bottles here and run 'em out to Michigan for the difference.",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I got something against yours. How about a couple of deep knee bends, maybe a squat thrust?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Babu",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I'm thinking, as she's saying this, I'm thinking: great, the relationship's over. But the egg salad's on the way. So now I have a decision: Do I walk or do I eat?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well your views on race relations are just, fascinating. You really should do an Op-Ed piece for the Times.",
+      "characters": [
+        "Sylvia",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, no. They're not really in the supermarket. Yeah, they got their own case at the end of the aisle.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Believe me, it is Milos great shame. But Jerry, I could lose my business if anybody find out. How would you like extra year membership of the club? Free. No charge.",
+      "characters": [
+        "Milos",
+        "Waitress",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Well, why didn't you say so in the first place? You're fired.",
+      "characters": [
+        "George",
+        "Voice",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Elaine, you know, I was watching you tonight, and I realized something. You're just like you were in college.",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Leslie"
+      ],
+      "correctAnswer": "Leslie"
+    }
+  ]
+}

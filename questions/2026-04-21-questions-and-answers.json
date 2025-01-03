@@ -1,0 +1,106 @@
+{
+  "gameNumber": 473,
+  "date": "2026-04-21",
+  "questions": [
+    {
+      "quote": "Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Because Elaine, that's the one that goes 'wee-wee-wee all the home.'",
+      "characters": [
+        "Babu",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Every woman on the face of the earth has complete control of my life. And yet, I want them all.. is that irony?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, did you say turbo? Saab turbo nine-thousand? Is it...  midnight blue?",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "And get this - I'm working in Atlantic City this weekend, and she's going to be down there for the pageant.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Vodka, cigarettes, fireworks.  What kind of a sick woman brings this to a fifteen year old?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Jerry, it's getting late. You've cleaned up the car. You've made all your phone calls. Why are you still here?",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "So lemme ask you this: how long would you say I have to put in now because of, you know, last night.",
+      "characters": [
+        "Jerry",
+        "George",
+        "James",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay. you sit here. Now I need the baby. Bring me the baby. I need the baby!",
+      "characters": [
+        "Jerry",
+        "Mohel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "It is the forced socializing. I mean, just because we work in the same office, why do we have to act like we're friends?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

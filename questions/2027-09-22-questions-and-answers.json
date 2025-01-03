@@ -1,0 +1,106 @@
+{
+  "gameNumber": 992,
+  "date": "2027-09-22",
+  "questions": [
+    {
+      "quote": "You know, maybe if you hadn't been sitting there pontificating about what a great parker you were, you might have got the space.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, what happened, Frank? What is it that you can't get over?",
+      "characters": [
+        "Rabbi",
+        "Bonnie",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He didn't do anything, Jerry. It's a scam! Who told you to do that?",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh Jerry, that is so sweet of you but actually i already ate.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, figure this out. I'm in the coffee shop, and this beautiful girl I could never even talk to, mistakes me for her boyfriend.",
+      "characters": [
+        "Nikki",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, speaking of tomato sauce, you want to come with me and George to Mario's Pizza?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rebecca",
+        "Rudy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, a little too much chlorine in that gene pool.  And, you know, the thing is, they're never gonna know, no one's ever gonna tell them.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, don't you? Joke boy? You really think you can manipulate that beautiful young woman like the half-soused nightclub rabble that lap up your inane \"observations\"?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Actually I was kind of thinking that maybe we shouldn't see each other for a while.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "What are you doing? We're going out for dinner in ten minutes.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

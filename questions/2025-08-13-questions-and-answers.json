@@ -1,0 +1,106 @@
+{
+  "gameNumber": 222,
+  "date": "2025-08-13",
+  "questions": [
+    {
+      "quote": "That's where the Seinfeld's are moving. They got a great deal. Yep. You know what they got in Florida? Jai-Alai! You bet on the games, you clean up.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "no problem, ... no problem. [Hangs up] ... How did YOU know who that was?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well you came in the other day with all that whale stuff, the squeaking and the squealing and…",
+      "characters": [
+        "Kramer",
+        "George",
+        "Cynthia",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Have you ever seen a handicapped person pull into a space and park?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Manny",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Does this mean they're gonna be publishing Kramer's coffee table book?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, if anything happened, and we couldn't be friends the way we are now, that would be really bad.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.",
+      "characters": [
+        "Monica",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "This is not a Metallica concert, it?s an opera alright, a little dignity, a little class, just give me my ticket, I will stand over here and sell it.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open palm/Tells a saucy talk/Loves to make a stir/Everyone appreciates a...\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You got gonorrhea from a tractor?? And you call *that* your tractor story??",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

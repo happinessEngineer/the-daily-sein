@@ -1,0 +1,106 @@
+{
+  "gameNumber": 377,
+  "date": "2026-01-15",
+  "questions": [
+    {
+      "quote": "So this ah, woman you plan on hiring, is she going to be in the \"Spokes model\" category?",
+      "characters": [
+        "Kramer",
+        "Waitress",
+        "Alec",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, this is a lovely apartment. Lovely! My kids are gonna go crazy. I, uh, I wonder if I could see the bathrooms. Preferably one with some paint thinner and, uh, some rags?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Donald",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't worry, Tim.  I didn't come by to yell at you, I didn't come by for that at all.  I just came by to pick up my label maker.  I gave you a label maker and now I would like to have it back.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry! There is no confusing *that* move with any other move.",
+      "characters": [
+        "Jerry",
+        "Toby",
+        "Elaine",
+        "Nina"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what, let's put a few cookies in a blender and he could drink it.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Klick! Long fly ball into deep left field over Bell's head . . . O'Neill's rounding second O'Neill going for third, O'Neill rounding . . .",
+      "characters": [
+        "Jerry",
+        "Tv",
+        "Brett",
+        "Puddy"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "No! I don't want to save seats. Don't put me through that! I once had the fleece just ripped out of my winter coat in a seat-saving incident!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nothing It's not you. It's me. I have a fear of commitment. I don't know how to love.",
+      "characters": [
+        "George",
+        "Sophie",
+        "Jerry",
+        "Gennice"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can you believe somebody threw this out? You know I'm going to make a coffee table out of this and surprise Tina.",
+      "characters": [
+        "Kramer",
+        "Mohel",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, what do you, you wanna, you wanna see the place or not?",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

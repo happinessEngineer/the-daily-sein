@@ -1,0 +1,106 @@
+{
+  "gameNumber": 159,
+  "date": "2025-06-11",
+  "questions": [
+    {
+      "quote": "Oh, she's got the hue. So, what's going on with you and Melanie? I mean, I know you're not getting married, but uh, things are happening?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're always walkin' around the city. Why not just strap something to them?!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on, you've got the gift. You're the only one that can help me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Roy",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hehee. W..we could be like the Gatsbys. Didn't they always like, you know, a bunch of people around, and they were all best friends?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, get the hell off of there. You're not trained to operate this equipment!",
+      "characters": [
+        "Captain",
+        "George",
+        "Jake",
+        "Elaine"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "Well, h ha ha- if you're happy with her, that's all that matters.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "The pilot's back on. In fact, Elaine's going out with him tomorrow night.  Listen, Elaine, you know if Russell mentions anything about the pilot, you'll of course tell him how much you liked it...?",
+      "characters": [
+        "Farkus",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry. But love is spice with many tastes. A dizzying array of textures...and moments.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Are you saying that I could be dating this hair? I mean wi..with you under it?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Willie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no. No no no no no. I'd have to advise against that. What, do you know this woman a month? Let's see, you're going to be with her seventy-two hours. That's a dating decathlon.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

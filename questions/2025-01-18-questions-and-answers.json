@@ -1,0 +1,106 @@
+{
+  "gameNumber": 15,
+  "date": "2025-01-18",
+  "questions": [
+    {
+      "quote": "Wait a minute, I think he's done.  Oh no, he's taking out the woods!",
+      "characters": [
+        "Rick",
+        "Kramer",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now, each of you is here because you're the best at what you do.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bu George, you don't know what you're saying. You're under their control.",
+      "characters": [
+        "Estelle",
+        "Chiles",
+        "Jerry",
+        "Joe"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "These are the balloons? Big deal, all I see is Woody Woodpecker.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not because you're dirty, not because you're clean – just because you kissed the girl behind the magazine...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Joe"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no, I don't have time right now. I'll catch you tonight, we'll do sort of an all over kind of thing, all right?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Worker",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, Tolstoy use to write in the village square. The faces inspired him.",
+      "characters": [
+        "Lippman",
+        "Jack",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "That's the second time you said \"personal favor\". Why do you keep saying that?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I have an idea.  We can make the nine-thirty at Cinema Three.",
+      "characters": [
+        "Manager",
+        "Alec",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And you're still dating him? I tell you who sounds a little desperado.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

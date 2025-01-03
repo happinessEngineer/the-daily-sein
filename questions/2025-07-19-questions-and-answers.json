@@ -1,0 +1,106 @@
+{
+  "gameNumber": 197,
+  "date": "2025-07-19",
+  "questions": [
+    {
+      "quote": "I wish I could believe you. Hey, Elaine, do you have some free time tomorrow afternoon?",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't. I'm meeting Uncle Leo. I saw him shoplifting at the bookstore.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, uh, before you go, did you talk to Newman about getting that mail outta there?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "ho ho ho ho. You know I only got two weeks left of unemployment. I got to prove I've been looking for a job to get an extension",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no, in and out, I made sure of that. And you'll be happy to know I perused the script and it's met with my approval.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We gotta catch the early-bird. It's only between four-thirty and six.",
+      "characters": [
+        "Jerry",
+        "Raymond",
+        "Kimbrough",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Yeah, yeah. But what about money? Are you strapped? Do you need a little?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": ". . . naw, it's just you thanked HER, and and oh, . . . what's the difference?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So , you have fleas. Maybe you keep your house in a state of disrepair. Maybe you live in squalor.",
+      "characters": [
+        "Newman",
+        "George",
+        "Donald",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Ya know it was somebody told me they thought they saw that thing come out of a limousine.",
+      "characters": [
+        "Kramer",
+        "Corinne",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Corinne"
+    }
+  ]
+}

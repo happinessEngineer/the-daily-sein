@@ -1,0 +1,106 @@
+{
+  "gameNumber": 440,
+  "date": "2026-03-19",
+  "questions": [
+    {
+      "quote": "Well, it couldn't be too expensive. Thirteen, fourteen bucks a cat?",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what I'm going to leave the car running and the heat 'll be on.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, did you, or did you not, see the defendant, wearing the bra?",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "It was a Three Stooges short, \"Sappy Pappy.\" I played Mr. Sugarman's secretary, remember?",
+      "characters": [
+        "Elaine",
+        "David",
+        "Steinbrenner",
+        "Helena"
+      ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "But he still needs all of our support. Now, when he gets here treat him like he's one of the gang, huh.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Worker"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, thanks. I can't drink coffee late at night, it keeps me up.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no buts. We made up our minds.  We want Kramer. He showed us how much he cares about Steven.",
+      "characters": [
+        "Stan",
+        "Kramer",
+        "Jerry",
+        "Michael"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Oh yeah! Well that's nice. I'm sure that's right up her alley.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Abby",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. I mean, his upper lip landed flush on my upper lip. But his lower lip landed well below my rim.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, when I'm driving, I let people in ahead of me all the time. I'm always waving everybody in. \"Go ahead, go ahead, go ahead.\" ...All right. All right. I'll have a chicken salad.",
+      "characters": [
+        "George",
+        "Kimbrough",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

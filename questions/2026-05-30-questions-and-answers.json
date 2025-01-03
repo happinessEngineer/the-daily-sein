@@ -1,0 +1,106 @@
+{
+  "gameNumber": 512,
+  "date": "2026-05-30",
+  "questions": [
+    {
+      "quote": "Uhuh, um you didn't feel uncomfortable spending the whole day at the museum with two complete strangers who were more than twice your age?",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They'll be here at two o'clock. Oh, Elaine called. She said she'd be here at two-thirty. And she says \"Hope your meeting went well with 'Art Vandelay'?\"",
+      "characters": [
+        "Helen",
+        "George",
+        "Mohel",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I banged it on the desk in the doctor's office. An  aaaa . . .",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No.  So now you're going to his apartment? I really think this is nuts.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Pam",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I tell you what. How about if you and George go to the movies, and I stay here and watch the dog tonight.",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Wyck",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, yes - before they went off the market. I mean, now I've got to re-evaluate my whole screening process. I can't afford to waste any of 'em.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Sid",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Boy! What a story! I'm speechless. Speechless. I have no speech.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Rick"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know, what were you doing opening her medicine cabinet?",
+      "characters": [
+        "Kramer",
+        "Mike",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no. Just lately, I've been thinking a lot clearer. Like this afternoon,  what is chicken Kiev,  I really enjoyed watching a documentary with Louise.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no. It's not that I don't think you can. I know that you can't, and I'm positive that you won't.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

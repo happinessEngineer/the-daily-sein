@@ -1,0 +1,106 @@
+{
+  "gameNumber": 62,
+  "date": "2025-03-06",
+  "questions": [
+    {
+      "quote": "Na, you're way way way off.. Well, yeah that's the right number but this is an apartment",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh huh. Uh huh! I think you spoke to your little friend Rachel, that's what I think.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Bania",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was throwing up all night. It was like my own personal Crying Game.",
+      "characters": [
+        "Donald",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! But maybe you wish it was you who was getting married, not him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I thought that my suggestion was good. And, I think you could've been a little more tactful.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you know they're making that Woody Allen movie in the block, and all those people and trucks everywhere, when I saw him I must have got a little distracted.",
+      "characters": [
+        "Lena",
+        "Bruce",
+        "Sid",
+        "George"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Myra and I would like you and Elaine to be the Godparents of Steven.",
+      "characters": [
+        "Stan",
+        "Puddy",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Wait a second. Maybe there is someway we can tempt him and find out...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya gotta put on a show, ya always gotta give them a big show. You always have to be 'on' otherwise why would they like me? They'd just go for a better looking guy with more money.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My service rates went up? You banks are all the same with your hidden fees and your service charges. Well, maybe I'll just take my blood elsewhere, yeah.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

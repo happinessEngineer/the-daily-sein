@@ -1,0 +1,106 @@
+{
+  "gameNumber": 516,
+  "date": "2026-06-03",
+  "questions": [
+    {
+      "quote": "Right. So I call her up, I tell her it's me, she gives me an enthusiastic 'Hi!'",
+      "characters": [
+        "Morty",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OK, fine. 'What do I have to do to put you in this van today?'",
+      "characters": [
+        "Elaine",
+        "George",
+        "James",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The adoption agent seems to feel that Arnie has a violent temper.",
+      "characters": [
+        "Beth",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "I suppose I could just pull this out and walk around like this and you wouldn't care?",
+      "characters": [
+        "Susan",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, so, ah, flower shows and, shopping for pretty bows, and then back to her place, strip down to bra and panties for a tickle fight?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Look at where we are!  He's not stopping! He just keeps going and going and going!  We're not in the first row?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When my mother was abducted by the Communists, she was with child...",
+      "characters": [
+        "Detective",
+        "Kramer",
+        "Poppie",
+        "Daphne"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "I'm not interested in the X-Rays. I want my money back. Somebody stole my wallet. I had $225 in there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

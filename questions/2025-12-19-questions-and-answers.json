@@ -1,0 +1,106 @@
+{
+  "gameNumber": 350,
+  "date": "2025-12-19",
+  "questions": [
+    {
+      "quote": "It's my apartment, Eldridge! The Stalkholm may not have sunk ya, but I will! Ha, ha, ha!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Tawni"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's totally inappropriate. It's lewd, lascivious, salacious, outrageous!",
+      "characters": [
+        "Woman",
+        "Leslie",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Alright, you know what we should do? We should go to the movies. Get away from this script for a while..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Marcelino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nobody wants to go on a three hour bus tour of a totally unknown person's life.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Her scalp was clean. She had a nice skull. There just wasn't a lot of hair on it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what happened? I thought Cheryl was gonna help Babu get his Visa.",
+      "characters": [
+        "Peggy",
+        "Jerry",
+        "Guy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, my closet is packed to the gills, I'm afraid to open the door. Just for a few months. It'll make all the difference in the world.",
+      "characters": [
+        "Buckles",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "C'mon Morty, it's been broken for six months already. What the hell are you doing?",
+      "characters": [
+        "Herb",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Herb"
+    },
+    {
+      "quote": "Um, listen, you're a mechanic. Could you help me install a garbage disposal?",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I should have let her have it! I held back because of Kramer.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

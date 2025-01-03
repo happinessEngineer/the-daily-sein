@@ -1,0 +1,106 @@
+{
+  "gameNumber": 943,
+  "date": "2027-08-04",
+  "questions": [
+    {
+      "quote": "Yeah, you knew he had a cold. How'd you expect him to blow his nose? YEA!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Lippman",
+        "Tom"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, yes. The quality, the texture, the intoxicating aroma. These guys don't have it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jane",
+        "Seth"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uhm, look, I know this'll sound odd, but can I buy them from you?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just came by to tell you - I'm really, really happy about this relationship. Really happy.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, too bad. If I was up there, you'd never hear a peep out of me. I'm as quiet as a mouse.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ohh! You know, and sometimes she'll go,  \"Hello, Jerry?\" And I'll go, \"Oh, hi Marlene.\" And then it's \"Jerry...\"",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Ellen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, after you scarfed up my mutton I had the irresistible urge to make pork chops for you. I said hello to Franco for you.",
+      "characters": [
+        "Holly",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "But, when you have a faucet instead of a tongue, you want to use gravity.",
+      "characters": [
+        "Jerry",
+        "Waitress",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now what does the little man inside you say? See you gotta listen to the little man.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, it was just Kramer...apparently I killed Miss Rhode Island's doves with a bucket of water last night.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Carol",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

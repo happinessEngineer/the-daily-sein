@@ -1,0 +1,106 @@
+{
+  "gameNumber": 972,
+  "date": "2027-09-02",
+  "questions": [
+    {
+      "quote": "You heard her. She coveted them. I bet she took them just to spite me. She's probably having a good laugh about it right now.",
+      "characters": [
+        "Jerry",
+        "Holly",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Hello, this is Chemical Bank. Just wanted you to know that your checking account is overdrawn.",
+      "characters": [
+        "Voice",
+        "Jerry",
+        "George",
+        "Ruby"
+      ],
+      "correctAnswer": "Voice"
+    },
+    {
+      "quote": "So you went from the mailroom to the director of corporate development in two days?",
+      "characters": [
+        "Elaine",
+        "Woman",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Hey, George, do me a favour. If they make you an offer, whatever it is.  Just take it!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't understand. I'm in a very delicate position. Whatever I give her, she's going to be bringing in experts from all over the country to interpret the meaning behind it.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Lois",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what? Maybe he's a diabetic, he might just need a cookie or something.",
+      "characters": [
+        "Manager",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's different. I didn't have feelings for those people. But you, you'll backslide",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So we could put the bottles in a U-haul. You know, go lean and mean?",
+      "characters": [
+        "George",
+        "Morgan",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Whew! I got whooped. You should have seen the rage in their little eyes. And those tiny little fists of fury. Oh.  What is that?",
+      "characters": [
+        "Elaine",
+        "Joe",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's all departures. I see nothing but departures.  Do you know where the arrivals are?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

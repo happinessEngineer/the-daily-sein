@@ -1,0 +1,106 @@
+{
+  "gameNumber": 869,
+  "date": "2027-05-22",
+  "questions": [
+    {
+      "quote": "Of course it's a good idea, it's my idea. I conceived this whole project two years ago.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I've been trying to jam stuff in the box, like you told me, but sometimes it says, like, \"Photographs - Do not bend\".",
+      "characters": [
+        "George",
+        "Jerry",
+        "Conrad",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jake, Jake. Take a look.  Aaw, see, you're not the only one who has 'em. I have them too.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, when I first met you, Kramer, you used to wear jeans all the time.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're good around the house -- and they're good for outside.",
+      "characters": [
+        "Morty",
+        "Nina",
+        "George",
+        "Tina"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh great, put it all on the Peterman account with the other stuff.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no. No. We're good. Let's get goin'. Alright.  Watch it, funny man.",
+      "characters": [
+        "Conrad",
+        "George",
+        "Newman",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You'd really like him, you know, I can't wait to get on that boat.",
+      "characters": [
+        "Marlene",
+        "Jerry",
+        "Kramer",
+        "Laura"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Your father won a thousand dollars at the track last week, and he gave you a hundred, and you were supposed to give fifty dollars to your sister.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "Nana"
+      ],
+      "correctAnswer": "Nana"
+    },
+    {
+      "quote": "You could read the paper through the whole thing if you want.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

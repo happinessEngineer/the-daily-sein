@@ -1,0 +1,106 @@
+{
+  "gameNumber": 255,
+  "date": "2025-09-15",
+  "questions": [
+    {
+      "quote": "Kramer, listen, I want you to ask Gail to do me a favor. The next time Russell Dalrymple comes in the restaurant, ask her if she would call me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ya know, its not fair people are seated First Come First Served, It should be based on who's hungriest. I feel like just going over there and taking some food off somebody's plate.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've heard of Ohio, Katie. But Tuesday's no good. I'm doin' career day at my old junior high.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that's a dangerous fruit. It's like a weapon that thing, got spikes on the end. You can get killed from one of those things.",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've seen that man in Tuscany. Eccentric fellow. Reputation of being kind of a village idiot.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Maestro",
+        "Elaine"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "This is all too much. So what are you feeling? What's going on? Are you like a couple again now?",
+      "characters": [
+        "George",
+        "Margaret",
+        "Wyck",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The only thing between him and us is a thin layer of gabardine... Kramer, say it isn't so.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, you tryin' to hurt me? Are you tryin' to hurt - you're tryin' to injure me, right? You're trying to hurt me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I have some friends who would really like to have these.",
+      "characters": [
+        "George",
+        "Ade",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Button fly! Why do they put buttons on a fly? It takes ten minutes to get these things open!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Guy",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

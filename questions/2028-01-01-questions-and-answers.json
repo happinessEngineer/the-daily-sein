@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1093,
+  "date": "2028-01-01",
+  "questions": [
+    {
+      "quote": "Check it out. Rain and sleet may not stop them, but let's see them get by... these bricks.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, well I've got to go take this test. I can't believe I'm doing this.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Parking in a handicap spot. Right in the middle of his United Volunteers meeting. When he got back, he chased after me with a baseball bat.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I think I bought too much at that price club. I don't have any room for it all.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Anyway it's kind of a fluke thing but uh I'll be leaving for Paris in two days. I will send you a postcard when I get there.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "you would not believe what just happened to me in the bathroom",
+      "characters": [
+        "Jane",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Oh yeah, right.  Swim around in a bowl for two weeks and get flushed down the toilet, that's a good life.    Let's go.",
+      "characters": [
+        "Ava",
+        "George",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Ava"
+    },
+    {
+      "quote": "He says \"I don't want to sleep alone.\" She says, oh boy, \"love to.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, well, you wouldn't want that because you always have to remain friends!",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "Frank",
+        "Newman"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Oh, don't worry. We'll get you home to your husband real soon.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Debby"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

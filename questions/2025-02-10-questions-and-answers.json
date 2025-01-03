@@ -1,0 +1,106 @@
+{
+  "gameNumber": 38,
+  "date": "2025-02-10",
+  "questions": [
+    {
+      "quote": "I've been doing a lot of thinking about the wedding and all. and uh  I've decided to go with the chicken.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Uh-huh. Okay, well, we're coming down. All right.  Okay. I got a place that can analyze it. It's in Brooklyn. We have to drive there.",
+      "characters": [
+        "Elaine",
+        "Pitt",
+        "Katya",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I'm sorry.  I just.. have to ask that doctor one more question.",
+      "characters": [
+        "Buckles",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think if you go down the hall, it's on the right at the very end.",
+      "characters": [
+        "Captain",
+        "Stu",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "What? In his drink? Are you outta your mind? What are you Peter Lorre?",
+      "characters": [
+        "Jerry",
+        "Katie",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "As I said, it'll be different once we design something specifically for you. But I don't think your friend here is being very helpful.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Salesman",
+        "Kramer"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "No. We made love on the floor like two animals. Ray is insatiable.",
+      "characters": [
+        "Rava",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "Russell, you are the president of NBC. You can have any woman you want.",
+      "characters": [
+        "Morgan",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a minute, Just wait a minute...Elaine, Elaine! Now you're smart, is it statue or statute of limitations?",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't understand. How can you have a cigar store, without an Indian? It's unseemly.",
+      "characters": [
+        "George",
+        "Gavin",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

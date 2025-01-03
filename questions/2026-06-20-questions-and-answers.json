@@ -1,0 +1,106 @@
+{
+  "gameNumber": 533,
+  "date": "2026-06-20",
+  "questions": [
+    {
+      "quote": "Well, if I hear you correctly--and I think that I do--my advice to you is to finish your meal, pay your check, leave here, and never mention this to anyone again.",
+      "characters": [
+        "Sid",
+        "Bruce",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nose.  What's the worst that can happen to a nose? What does it get? Stuffed?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jeannie",
+        "Pop"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. The police have no leads  and I just found out today my insurance doesn't cover it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine it's her cat. Her cat had the fungus. So I need the tube back.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I'm sure it's all here.  You know I was just admiring your coffee table, out there in the hall.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah I really had some guts back then. Why don't we do it again?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I wonder if, ah, Susan ...  No. I better just go.  heh. All right! See ya.",
+      "characters": [
+        "Glenn",
+        "George",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, you know, when you live alone, you're dogs are all you have. Do you like dogs?",
+      "characters": [
+        "James",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "How could he not be? Living in that cramped little apartment. And outdated furniture, so terribly... un-Karl Farbman-like.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Brett"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "Look, I can't say anything. You know, the guy told me the stuff in confidence, I'd be betraying a friend.",
+      "characters": [
+        "Noel",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

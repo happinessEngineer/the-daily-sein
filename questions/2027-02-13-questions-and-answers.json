@@ -1,0 +1,106 @@
+{
+  "gameNumber": 771,
+  "date": "2027-02-13",
+  "questions": [
+    {
+      "quote": "Hey Jerry. Look at all the towels they gave me! I really hit the jackpot!  Ha, ha, ha.",
+      "characters": [
+        "Newman",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, that's right, I didn't. I take full responsibility for the card not being here. I, uh, . . .",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Speaking of ex's, my old boyfriend came over late last night, and, yada yada yada, anyway. I'm really tired today.",
+      "characters": [
+        "Woman",
+        "Doctor",
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "So someone comes in to buy an old lamp and all of a sudden I'm getting them out of a jam? I could see if I was a pharmacist because a pharmacist knows what's wrong with everybody that comes in.",
+      "characters": [
+        "Kramer",
+        "Michael",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, he'll be looking at us like he's backstage at a puppet show.",
+      "characters": [
+        "Jack",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh! Nuts! Excellent! You know what I love? How there's two nuts named after people. Hazel...and filbert.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Name tags! Name tags! What kind of an idiot thinks anybody would be interested in an idea like that.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, so you're chewing your apple, you got your enthusiastic hi... Go ahead.",
+      "characters": [
+        "Elaine",
+        "Diane",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She thinks I'm a nice guy. Women always think I'm nice, but women don't nice.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A bomb in the building, oh, m'god. Quick, everyone under the desk.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    }
+  ]
+}

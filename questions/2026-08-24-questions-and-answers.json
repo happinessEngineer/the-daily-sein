@@ -1,0 +1,106 @@
+{
+  "gameNumber": 598,
+  "date": "2026-08-24",
+  "questions": [
+    {
+      "quote": "You're not a doctor. You shouldn't even have books like this.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, you can be young and bitter, just maybe not as bitter as I'm gonna be ten years from now, but I'm bitter. Anyway, don't tell anyone.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jack",
+        "Cynthia"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "Not impolite...it's stupid, that's what it is. You gotta be stupid to do something like that!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, I'll tell you what I'll do, you know. If you wanna do it out of town...okay. But not in the city.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I like that! Hey look, will you do me a favor? Will you take my quilt into the cleaners for me, so I can get the discount too?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It'll have to be a night job anyway. You don't normally work after dinner, do you?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, do you think they just crack their knuckles and come out?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Diane"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Just chitchat, movies, current events, regular stuff. You know Sandi--",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bruce",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There is no coma etiquette. You see that's the beauty of the coma, man. It doesn't matter what you do around it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Betsy",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, uh equivalency. A high school equivalency program graduate.  He's uh, self-employed. He's... I don't know, six foot three, 190 pounds, he likes, uh... fruit, and he just got uh, a haircut.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

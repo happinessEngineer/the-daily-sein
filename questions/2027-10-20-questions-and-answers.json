@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1020,
+  "date": "2027-10-20",
+  "questions": [
+    {
+      "quote": "I didn't know there was a fireplace. A fireplace, that's incredible.",
+      "characters": [
+        "Attendant",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, thanks.  Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh?  Yo! Where did this come from?",
+      "characters": [
+        "George",
+        "Donna",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, hi. Okay, fine, yeah, hold on just a second. Lemme just...  Yeah, I've got it...  Oh! Oh! Yeah, yeah, he'll be there.  Mr. Pitt, you have GOT to stop staring at that poster!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey believe me, baldness will catch on. When the aliens come, who do you think they're gonna relate to? Who do you think is going to be the first ones getting a tour of the ship?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't believe this. I am not looking up if you're going to do that voice.",
+      "characters": [
+        "Clare",
+        "Jerry",
+        "Kramer",
+        "Jane"
+      ],
+      "correctAnswer": "Clare"
+    },
+    {
+      "quote": "Expecting Newman? That's funny because I just happened upon him down at the Kenny Roger's Roasters.",
+      "characters": [
+        "Kurt",
+        "Jerry",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay listen up people. There are plenty of you here, but we've only got two spots to fill. Good luck.",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "So you could call a woman for a date, ask her if she's free for Dinner and a flamenco?",
+      "characters": [
+        "Elaine",
+        "Lanette",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's coughing, Jerry. It expells the diseased germs out of the body, into the air.",
+      "characters": [
+        "Betsy",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you ever ask an ex-girlfriend to move into your building?",
+      "characters": [
+        "George",
+        "Sally",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

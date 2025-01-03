@@ -1,0 +1,106 @@
+{
+  "gameNumber": 999,
+  "date": "2027-09-29",
+  "questions": [
+    {
+      "quote": "Thanks. You know this could sound crazy but, what do you think about adding a drawer for - like a blanket?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, my blood is not enough. Would you like a kidney too, because I'll give it to you? I'll rip it out right here and stack it on the table!",
+      "characters": [
+        "Elaine",
+        "Roy",
+        "Bookman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? What happened to your face? It looks like an old catcher's mitt.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'll tell her I met some guy who knew her and he gave it to me.",
+      "characters": [
+        "Tor",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's Frank and Estelle's reaction of hearing George's man love towards she-Jerry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let's not forget the radiator. The steam has been on here for ten years. No human can turn this off.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Sheila",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe how much we did this afternoon. I have friends who this would've be their whole life.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't fill up on the bread. I'm making you a very special dinner. Very special.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Poppie",
+        "Elaine"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "George, if you could master this, you'll never be alone again.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh you know I don't know. I saw him in the hall this morning, I said hello to him. He walked right past me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Stu"
+      ],
+      "correctAnswer": "Stu"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 98,
+  "date": "2025-04-11",
+  "questions": [
+    {
+      "quote": "Well, that's not offensive.  It's abnormal, but it's not offensive.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Winona"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You want me to moon him? Ooh, let's moon him. Roll up your window. Let's do a pressed ham under glass.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She knows that I have her clock. I know that she has my hat. I think she's getting ready to make an exchange.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah...uhh...well, the streets are all blocked. I think every Puerto Rican in the world is out here.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Attendant",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So Klompus has the key, but the jerk couldn't open it up. All you gotta do it jiggle it  jus get it in there  jigg jigg jiggle reiggle",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh hey, Helen uh, Could I uh, use some more of your hand lotion?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It certainly should be. It's nobody's damn business! But they really would like to know.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Saleswoman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you know when you think about it it's really quite an amusing case of mistaken identity. That's all it is.",
+      "characters": [
+        "Kramer",
+        "Lou",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where's the luck? There's no luck. 1,900 dollars down the drain.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. Exactly. So I imagine at some point somebody's going to offer me some cantaloupe?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

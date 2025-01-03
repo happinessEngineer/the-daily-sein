@@ -1,0 +1,106 @@
+{
+  "gameNumber": 933,
+  "date": "2027-07-25",
+  "questions": [
+    {
+      "quote": "That damn Mohel - he circumcised my finger! The Mohel circumcised my finger!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was squinting! Remember that drive from Wortsborough?  I was spotting those raccoons.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, listen. I decided I can't kiss hello anymore. I'm sorry. It's nothing personal....",
+      "characters": [
+        "Officer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We have no need to speak. We communicate with deep soulful looks.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on, Go in, go in!  [watching Dream Cafe with binoculars again]",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You must have done *something* wrong. You probably screwed up the order. Did you close with the swirl?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Got any asprin?  Hello. Now, lookit, you guarantee this car will get me to the airport tomarrow? No problems?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, listen. Have you seen my addre--  --ah! There it is. Okay. I got it. I'll see you later.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well by now, you think people would be a little more open minded.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I'm still holding the garlic shaker.. Yeah.. like this  I'm only showing eight fingers.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

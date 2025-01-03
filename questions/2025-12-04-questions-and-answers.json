@@ -1,0 +1,106 @@
+{
+  "gameNumber": 335,
+  "date": "2025-12-04",
+  "questions": [
+    {
+      "quote": "Why don't you just get some Ring Dings from the liquor store?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, I'm gonna move my car, my meter's up. Can't park in this city.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I get all jazzed up about something and I go way to far with it.",
+      "characters": [
+        "Kevin",
+        "George",
+        "Elaine",
+        "Rava"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "I'm with people, I'll be with you in a moment.  So, you want a protein shake, or something?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I'm kind of in the middle of something. Would you get these signs out of here, please?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bania",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hmm-hmm, not by a long shot. I'm calling up the Rosses and inviting them up to my non-existent place in the Hamptons. Then we'll see who blinks first.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Pitt",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The doctor said that they need to build the lateral wall of the septum. Over here...",
+      "characters": [
+        "Audrey",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "Yes, because the water was cold... and the chewing warms me up.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Valerie",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh! He swears like he thinks I don't believe him. I believe you. I believe you! Oh, he's so funny!",
+      "characters": [
+        "Toby",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "If I was flattering myself, I think I'd come up with someone a little less annoying than Noreen.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

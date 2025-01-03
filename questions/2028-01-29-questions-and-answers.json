@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1121,
+  "date": "2028-01-29",
+  "questions": [
+    {
+      "quote": "George, wait, you don't know who this guy is, people kill for a parking space in this city.",
+      "characters": [
+        "Elaine",
+        "Kruger",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Pretty good? Well uh! This is a gem . Kramer look it.........What? It's funny.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Which market, the, eh, big one, the big market, the big board. Bull market, bear market, you name the market, I'm there.",
+      "characters": [
+        "George",
+        "Salesman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, I sell the restaurant, uh? I just take it easy. See, if I get excited, 'ats aggravated my condition. The last time I got aggravated, was in the restaurant. With your friend.",
+      "characters": [
+        "Mike",
+        "Poppie",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "And they made it their sign, because, Van Buren, our 8th President, was the man they most admired.",
+      "characters": [
+        "Kramer",
+        "Tom",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on. What's the big deal? Just gonna put a little concrete in the washing machine.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I saw you the other night stepping out with my Hounds-Tooth jacket.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I saw Jerry wearing his. He looked like a bit of a dandy. Check it out! 8-Ball! You got a question, you ask the 8-Ball.",
+      "characters": [
+        "Puddy",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I had to say something.  I had to say something. Everything was going so well. I had to say something.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "HEY MA WHAT THE HELL DO I GOT TO DO TO GET SOME FOOD AROUND HERE? I'M STARVIN'. AND IF IT'S PEANUT BUTTER, I'M GONNA SHOVE IT IN YOUR FACE.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Donald"
+      ],
+      "correctAnswer": "Donald"
+    }
+  ]
+}

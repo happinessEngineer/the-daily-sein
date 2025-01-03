@@ -1,0 +1,106 @@
+{
+  "gameNumber": 781,
+  "date": "2027-02-23",
+  "questions": [
+    {
+      "quote": "Look, I don't want anything to go wrong. If this woman votes to impeach me, I'll be a laughing stock.",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Whatever it takes, for as long as it takes me, where ever it takes me as long as it takes you away from me!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Roy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh good, good, come in. Come in, welcome. I'm George. And this is Jerry, over there, on the phone, that's Jerry. And you are, um?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I asked because you were the mailman, you would know the neighbourhood.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you are the couch tonight, young lady. You were all over my side.",
+      "characters": [
+        "Connie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everyone, I wanna propose a toast to ten great years at Rick Barr Properties.",
+      "characters": [
+        "Levitan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "Sorry, George, our Chinese food just came. Talk to you later.",
+      "characters": [
+        "Sylvia",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I am in your hands.  Well! Oh, good night, Jerry.  Kenneth will take you home.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Hey, Seinfeld. I'd appreciate it if you'd stop using obscenities around my son, huh?",
+      "characters": [
+        "Owner",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "Eh, I can't. I gotta go down to the foundation. I'm interviewing high schoolers for the Susan Ross.. scholarship.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

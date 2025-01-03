@@ -1,0 +1,106 @@
+{
+  "gameNumber": 435,
+  "date": "2026-03-14",
+  "questions": [
+    {
+      "quote": "Except for one small problem. Hah, I left some books in her apartment.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're a fine person. You're a humanitarian. She's very sexy.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer there is no way you're giving this tape to Brody and telling him I shot it.",
+      "characters": [
+        "Detective",
+        "Morty",
+        "Nikki",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they're three kind of funny looking guys and they hit each other a lot.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Elaine",
+        "Ed"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, I called you, you idiot! Because you were going to... You were going to... Remember?",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "But you have a gift. Jerry, this is not your little comedy act. We're talkin' feature films.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That is a sad story. Hey, you should have been here tonight. Some guy from NBC saw my set, he wants me to do a showcase. I might have another shot at a pilot.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Its killing me, I can't eat, I can't sleep. All I can see is that giant red sun in the shape of a chicken.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, I'll tell you what... why don't you go into the store and I'll wait in the car?",
+      "characters": [
+        "Helen",
+        "Frank",
+        "Hal",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course I'll do it. I'd be happy to. So, all I gotta do is be there at seven?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 944,
+  "date": "2027-08-05",
+  "questions": [
+    {
+      "quote": "What, we talking hirachis? I know a great store for hirachis.",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, stop it. You know that friend of yours, Tim the dentist? I got an invitation to his Thanksgiving Eve party.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Joel",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, go around, you bunch of crazies. You maniacs are gonna get us all killed.",
+      "characters": [
+        "Dan",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You could pet them. They come right out of the water onto the sidewalks.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Julie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about the Coast Guard? Seems like a lot of pride there, a lot of tradition.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ladies and gentlemen, may I have your attention, please? Would Joel Rifkin report to the stadium office. Joel Rifkin...telephone.",
+      "characters": [
+        "George",
+        "Announcer",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "I'm calling my lawyer. It might not be too late to get out of this.",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah, yeah. Well, I guess I started losing it when I was about twenty-eight right around the time I made my first million. You know what they say. The first million is the hardest one.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's amazing. We, we both have dates on the same night. I can't remember the last time that happened.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Brett said you ran away from him, as if he were the boogetyman.",
+      "characters": [
+        "Bookman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 572,
+  "date": "2026-07-29",
+  "questions": [
+    {
+      "quote": "It'll be twenty minutes. I told ya, Puddy's getting me an insider deal.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no.  I explained the whole thing to him, he was fine with it.",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, uh, I'll tell you what. I could go as high as uh...  I don't know, maybe...twenty dollars?",
+      "characters": [
+        "Marcy",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think they want to make it up to us cause they let this thing sit on their shelf for five years.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Lois"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' em.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, I've got ice cream all over my face. There were no napkins there. Whoever it was that's responsible for stocking that concession stand cost me a relationship.",
+      "characters": [
+        "Darren",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've been wanting to get one of these things! Are you sure that...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Please! Get help! There's a crazy big-headed woman beating up some guy! Tell the police \"The Old Mill Restaurant\". Hurry!",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Don't you see what's happening here? It's attached itself to me! It's alive!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Father",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You are kidding. That is amazing.  I just took a car service from work and to get the driver to not talk to me, I pretended I was going deaf.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

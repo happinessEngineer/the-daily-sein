@@ -1,0 +1,106 @@
+{
+  "gameNumber": 704,
+  "date": "2026-12-08",
+  "questions": [
+    {
+      "quote": "Oh! yeah. The Nicole Millers ...hemm.. Well the funniest thing.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Kramer",
+        "Craig"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Marla",
+        "Ade"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[in a panic] Me!? But that's three seats! I can't save three seats! I told you about that guy who tore up my winter coat!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All day tomorrow? We had a month and a half to come up with something and we didn't do anything.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're supposed to buy me dinner in a nice restaurant, like Mendy's.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Actually, you know I think I did. The first time I couldn't really cons...[Monica closes the window]...entrate.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, the Hizballah has invited me to perform.  You know, it's their annual terrorist luncheon.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that one. She's been a member of the board longer than anybody. She's very tough to deal with.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street.",
+      "characters": [
+        "Kramer",
+        "Owner",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "Well, then you're free tonight. You know what, I heard about this great place called La Caridad.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Mohel"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 171,
+  "date": "2025-06-23",
+  "questions": [
+    {
+      "quote": "Well, there's a vending machine. I could show you where it is.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I, I think I made my point. I'm sorry if I was a little harsh.",
+      "characters": [
+        "Kramer",
+        "Maestro",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, tell you what I'm gonna do. I'm gonna take down your check anyway.",
+      "characters": [
+        "Regis",
+        "Jerry",
+        "Elaine",
+        "Marcelino"
+      ],
+      "correctAnswer": "Marcelino"
+    },
+    {
+      "quote": "Hey, wait a second. You know, we could share a cab. They're playing at the same Cineplex.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I have known this guy since college. He doesn't do drugs.",
+      "characters": [
+        "Babu",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Melanie, you can shush me at every opportunity. 5? 3? Oh, it was just an expression. All right, well, that's very sweet of you. Okay, I'll call you later. All right, bye. Hey!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Carrie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean.. a person needs a certain amount of toilet paper to be covered.. I simply could not spare it this woman just didn't get it, she kept harassing me",
+      "characters": [
+        "Jane",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the  pirate look!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Here, stand by the fire. Take off those wet clothes, you'll catch cold.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Leo",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "C'mon George relax . Just because they look alike doesn't mean you're secretly in love with Jerry.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

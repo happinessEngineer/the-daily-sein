@@ -1,0 +1,106 @@
+{
+  "gameNumber": 304,
+  "date": "2025-11-03",
+  "questions": [
+    {
+      "quote": "Hey, somebody better move these cars, you're making a commotion.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I didn't talk to anyone - I was just walking by, and I saw the sign, and I thought George might get a kick out of it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! Oh look at this, these mangos are beautiful! Oh these are beautiful,  you did good George.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "D-d-d-d. I gotta switch shaving creams. I'm getting no protection.",
+      "characters": [
+        "Sid",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu \"Ther - There is nothing finer than being in your diner.\"?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't aaaaah! I'm supposed to do something with her later? I don't even think I wanna see her.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I feel terrible about your friend Jerry. He's upset that I gave Kramer that chest of drawers, isn't he?",
+      "characters": [
+        "Brett",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "No! I'm not gonna do that! That's one step away from personal ads! And prostitutes! No! No, I am not going down that road! What does she look like?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Willie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I'm doin' Letterman Monday. You know, I gotta work out the material!",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What I don't get is, just because the battery is dead, you think she'd be able to roll up the hill with her hands!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

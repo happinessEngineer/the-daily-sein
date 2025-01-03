@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1072,
+  "date": "2027-12-11",
+  "questions": [
+    {
+      "quote": "You know it must be impossible for a Spanish person to order seltzer and not get salsa.  \"I wanted seltzer, not salsa.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you see? George is in the bloodstream! You stay away from him, too!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Darren? What are you doing here? The college canceled the internship.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes I am. I defy you to come up with a better name than Seven.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, I have to honest; I could go either way with you...but what the hell, we need someone, huh.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Oh, have a great show. Hey, we'll make sure it's a great show!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tor",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "The box of raisinettes runs up to the concession stand, buys another box of raisinettes.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Maestro",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ahh, Steinbrenner gave 'em to us, in honour of Phil Rizzuto being inducted into the Hall of Fame.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. I did some shopping. Some new clothes shopping.  Can I borrow your menu?",
+      "characters": [
+        "Morty",
+        "Gino",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And everything else has changed. But toilet paper is exactly the same, and will be so until we're dead.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

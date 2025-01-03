@@ -1,0 +1,106 @@
+{
+  "gameNumber": 480,
+  "date": "2026-04-28",
+  "questions": [
+    {
+      "quote": "Of course, Jackie O. was a great lady. Those are going to be some tough shoes to fill. Everyone loved her. She had such...grace.",
+      "characters": [
+        "Landis",
+        "Kramer",
+        "Emily",
+        "Elaine"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "You know I-I'm having a lot of trouble, um, hearing you back here. So...",
+      "characters": [
+        "Susan",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No. Huh? You know who I saw at the health club? Salman Rushdie.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's usually the kind of mood I'm in when I haven't showered.",
+      "characters": [
+        "Patrice",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, George, did you talk to that guy about getting me some more cigars?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay. Now, I know this is an important decision. Why don't we all just sit down and talk about it? Come on, come on.  Now, look, you both find each other attractive, right?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. OK. Maybe we could grab some lunch sometime. D-do you work around here or-?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "At the time, I was employed as a security guard in the parking lot at the Garden Valley Shopping Mall.",
+      "characters": [
+        "Emily",
+        "Jeannie",
+        "Jerry",
+        "Guard"
+      ],
+      "correctAnswer": "Guard"
+    },
+    {
+      "quote": "I mean, the main thing is that this is just between us, and that'll be the end of it.",
+      "characters": [
+        "Diane",
+        "Sally",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh I beg to differ. My father took great pride in his appearance, he was a very handsome man, a casanova really.",
+      "characters": [
+        "Ramon",
+        "Jerry",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 614,
+  "date": "2026-09-09",
+  "questions": [
+    {
+      "quote": "Yes, it was purple, I liked it, I don't actually recall considering the buttons.",
+      "characters": [
+        "George",
+        "Deena",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah. We'll get back to you.  Let's get this baby home.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Twenty-five percent, you say? No way! It's like 4 to 6 percent. It's a twenty to one shot.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"To the victor goes the spoils.\" What are you going to do tonight?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well so what. I mean you played first base. I mean they always put the worst player on first base. That's were they put me and I stunk.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm not leaving the premises without tote bags. I was promised tote bags and tote bags I shall have.",
+      "characters": [
+        "Kramer",
+        "Alec",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, you should just go back to the optical store and ask Dwayne if he knows the name of the owner of the dog.",
+      "characters": [
+        "Jerry",
+        "Donald",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The Rosses have started up a foundation, Jerry, and I have to sit on the board of directors.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it doesn't seem to be coming in so good over here. Or here.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. Oh. Yeah, sure. Here. Uh, sit down. Uh, uh, cheese, there?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1122,
+  "date": "2028-01-30",
+  "questions": [
+    {
+      "quote": "Jerry, you have tendencies. They're always annoying, but they were just tendencies. But now, if you can't kiss this girl, I'm afraid we're talking disorder.",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I can't walk anywhere now. I'm just gonna be wishing there were walkways.  What are you doing?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know what this is. You saw that show on PBS last night, Coronary Country.  I saw it in the TV Guide. I called him and told him to make sure and not watch it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute, Rinitze? Don't they have somme really cool suits in there?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You remember that next door neighbor of mine, the apartment that always smells like potatoes?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Doctor"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait, wait… hold on now, wait, wait… *bang*  *bang*  *yip*  *yip* *yip* See? I told you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Everything. The shirts, pants, sport jackets, pajamas. We could get eighty hooks on here.",
+      "characters": [
+        "Marla",
+        "Elaine",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Ah, come-on, Jerry--I don't wanna lose this feeling. Hey--let's go down to the O.T.B. We'll put some money on the ponies.",
+      "characters": [
+        "Alton",
+        "Jerry",
+        "Man",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait, there is one way to find out. We set up a sting. You know like Abscam. Like Abscam Jerry.",
+      "characters": [
+        "Jerry",
+        "Rula",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I dunno. It's like, if one of 'em dies, the other one wants to bench press the casket.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

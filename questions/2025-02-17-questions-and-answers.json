@@ -1,0 +1,106 @@
+{
+  "gameNumber": 45,
+  "date": "2025-02-17",
+  "questions": [
+    {
+      "quote": "Alright, listen, I'll give you your spare keys, but I don't have them with me. Can I please have mine to give to back to Kramer?",
+      "characters": [
+        "George",
+        "Poppie",
+        "Kevin",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "His administration did excel in one department: the hiring of incompetents.",
+      "characters": [
+        "Jack",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "It's only five fifteen. So, later on that same day, I developed a great hankering for some wild honey...",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Ben",
+        "Sally"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "The membranes get dried and it just starts bleeding. Since I was a kid so I have to stick tissue up there",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sandi",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Oh, well you have fun... oh no clowns...hate clowns...the clowns.",
+      "characters": [
+        "Kramer",
+        "Robin",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know the whole idea of taking the car service was so I wouldn't have to fight the traffic on Friday night.",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Earl",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the way, you never said anything to George about Jerry and me, did ya?",
+      "characters": [
+        "Bania",
+        "Sophie",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Hi, this is Darren from Kramer's office. Mr. Kramer would like to schedule a lunch with you at Monk's coffee shop.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Russell",
+        "Darren"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Would you excuse us for a minute Tim boy, we're kind of in the middle of something.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well?  I was just - I'm curious, that's all. We, uh. We'd like you to, do everything possible.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

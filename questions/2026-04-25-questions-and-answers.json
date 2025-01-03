@@ -1,0 +1,106 @@
+{
+  "gameNumber": 477,
+  "date": "2026-04-25",
+  "questions": [
+    {
+      "quote": "Yes, yes. Very smooth, super smooth. No, but I really wanna attack this thing, you know. Sink my teeth into it. So I was just wondering... what do you think would be the very best way to get started?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Marcy",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! Yeah. Hey--hey you, you know.. Maybe I'll call you sometime.",
+      "characters": [
+        "Wendy",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So that night I cut off the loops and the Executive was born.",
+      "characters": [
+        "Wyck",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, nothin's sexier than a woman behind the wheel of a semi.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There you go, okay? That's my *other* friend's ticket. You happy now? You got two tickets.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's right! She an' I have had a very long talk. An' I was appalled to learn of the destructive influence you've had over her life, lo these many years...",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ohh, my pants.  It's an old conductor's trick I learned from Leonard Bernstein.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Unh, something with his spleen.  Anyway it'll just take five minutes, O.K., and then, the hospital is right on the way.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Barefoot in the clubhouse? Don't you realize this is against the rules.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Bed? You should be sleeping on a wooden board for at least a week.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tawni",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

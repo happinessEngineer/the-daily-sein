@@ -1,0 +1,106 @@
+{
+  "gameNumber": 449,
+  "date": "2026-03-28",
+  "questions": [
+    {
+      "quote": "You know, she'd be better off making a sandwich at home and bringing it in.  Hello, ah, George will you excuse me.",
+      "characters": [
+        "Rebecca",
+        "Elaine",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I... I think I'm... I'm having trouble swallowing. I can't... I can't swallow.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're right; it is strange. In fact, let's cross to the other side of the street. Cover me.",
+      "characters": [
+        "George",
+        "Clerk",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So listen, I gotta go down to Atlantic City. I'm performing at Bally's.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"I want you to have this job, of course sodomy is a prerequisite.\"",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And so, for all these reasons, we are officially broken up.  Thank you,  and good night.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have never seen one episode of I Love Lucy in my life, ever.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Rava"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the great conversation girl.  The one you think can replace me?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm not paying for this. If you were going out with her, it'd be a different story.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My family used to live there, but, uh, we got out years ago, for obvious reasons. You know how it is.",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Darryl"
+    }
+  ]
+}

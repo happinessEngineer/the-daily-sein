@@ -1,0 +1,106 @@
+{
+  "gameNumber": 37,
+  "date": "2025-02-09",
+  "questions": [
+    {
+      "quote": "Now, you see, I don't get that. We had a relaxed stimulating, great conversation, she doesn't mention it? Why doesn't she mention it?",
+      "characters": [
+        "Morty",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, he gave me the morning off, I was doing a little... shopping. How did this happen?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Eva"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So I told Bobby and Lisa that we'd try the new Chinese Spanish",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Jerry",
+        "Patty"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "I thought we might reminisce a little more. You know Duncan and I were just taking about the big race.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morgan",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, that's better than 'God bless you'. Anyway, she left a message on my machine, she wants you to call her.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know 'm just curious, How did you know she wasn't my girlfriend?",
+      "characters": [
+        "Buckles",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. It's right here in the city. It's the same as 212. They just multiplied it by 3, and then they added one to the middle number. It's the same.",
+      "characters": [
+        "Vivian",
+        "Jerry",
+        "Bonnie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "[forcibly removing G. from the apt] Would you get the Hell out of here!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. I don't know how it happened. We were practically in Monticello. I mean, how could that thing have found its way back? There's no way.",
+      "characters": [
+        "Roy",
+        "Beth",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh well, they're both chubby weathermen. I get Dom Deluise and Paul Prudhoe mixed up too. Could I have this?",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

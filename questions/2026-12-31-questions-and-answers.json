@@ -1,0 +1,106 @@
+{
+  "gameNumber": 727,
+  "date": "2026-12-31",
+  "questions": [
+    {
+      "quote": "Hey listen, I was wondering if either one of you guys would be interested in doing some work for the Big Brother program? I'm kinda running the local chapter. What do you say George?",
+      "characters": [
+        "Alec",
+        "Noreen",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "Whoa! Walking around naked? Ahh... that is not a good look for a man.",
+      "characters": [
+        "Carrie",
+        "Elaine",
+        "Detective",
+        "Dana"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, coming down here to say that you didn't say hi is more of a gesture than if you did say hi.",
+      "characters": [
+        "Jake",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "I want to get to know her from the inside. What is she like? Tell me about her.",
+      "characters": [
+        "George",
+        "Peggy",
+        "Jerry",
+        "Sandi"
+      ],
+      "correctAnswer": "Sandi"
+    },
+    {
+      "quote": "Hey, uh, Milos, I don't mind rolling over here, but could you lighten up on the 'not a man' stuff?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Estelle",
+        "Herb"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! And the best part is, I still get to look for work in publishing.",
+      "characters": [
+        "Julianna",
+        "Cynthia",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry I am at doctor Zimmerman. I am at the end of the alphabet.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Golden Boy's always the first shirt I wear out of the laundry. Here... touch Golden Boy!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No? Listen Morty you wanna settle up for last night?  All right. I owe you 19.45$ .",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "A second later, something happened that changed us in a deep and profound way front that day forward.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

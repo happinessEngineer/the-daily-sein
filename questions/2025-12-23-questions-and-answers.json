@@ -1,0 +1,106 @@
+{
+  "gameNumber": 354,
+  "date": "2025-12-23",
+  "questions": [
+    {
+      "quote": "I don't know how you're going to write all those shows. And where are you get all the ideas?",
+      "characters": [
+        "Kramer",
+        "Lanette",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, I have to admit, I've always thought David was kind of sponge-worthy.",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Elaine",
+        "Rachel"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thank you I am not very hungry. Anyway, um, this friend of mine, George, got engaged .",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, come on. This is an apartment, this is a home! This is a place to live. Oooh, a fireplace, are you kidding me! Does this work?",
+      "characters": [
+        "Elaine",
+        "Maura",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...My uncle to my cousin, my cousin to my sister, my sister to me.",
+      "characters": [
+        "Kramer",
+        "Maestro",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're in big trouble mister. And I mean trouble with a capital 'T'.",
+      "characters": [
+        "Elaine",
+        "Babu",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah.  Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And, it is already in the school paper. They cancelled Rick James.",
+      "characters": [
+        "Steve",
+        "Kramer",
+        "Katie",
+        "Jerry"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Hey, listen while we're here why don't we do a little shirt shopping?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I remember when we parted company, I was babbling incoherently for months.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 114,
+  "date": "2025-04-27",
+  "questions": [
+    {
+      "quote": "Well, I'll tell you this, though - I am never doing.. that , again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, all right. Newman, let's go grab some mail sacks and haul these beauties out of here.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Thank you. I actually was thinking it might be time for a change.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Wendy"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "No, I never got the car. We were having such a good time, by the time I got to the police garage, it was closed.",
+      "characters": [
+        "Jack",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi! Hey, look at this - I just got a citation in the mail for my work with shut-ins.",
+      "characters": [
+        "Elaine",
+        "Stationer",
+        "Jerry",
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "If you really want, maybe I can contact the guy in Singapore and have him make a photostat of the receipt and send it over.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "If we put our three heads together we should come up with something.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I love the black and white. Two races of flavor living side by side in harmony. It's a wonderful thing isn't it?",
+      "characters": [
+        "Rebecca",
+        "Puddy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Got to invite The Drake. Listen hem...there's something that's been on my mind and we haven't really talked about it..I t's kind of important to me.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, it's Sharon from NYU. I'm just calling to tell you that I'm not going to play up that angle we talked about and I'm sorry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steve",
+        "Sharon"
+      ],
+      "correctAnswer": "Sharon"
+    }
+  ]
+}

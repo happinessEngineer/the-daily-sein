@@ -1,0 +1,106 @@
+{
+  "gameNumber": 739,
+  "date": "2027-01-12",
+  "questions": [
+    {
+      "quote": "What're you kidding me? We were all getting along so well. Where is all this coming from?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Helen",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He is a fine dresser and I'm sure I don't have to tell you he's quite popular with the ladies.",
+      "characters": [
+        "Landlord",
+        "George",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "Well, I guess she's batted around and she's back at the top of the order.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's what I want-- triangles. Alright, I'm outta here. Have fun with what's-her-name.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great news! I showed the pilot to Kramer's Japanese friends. They loved it!",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi Beth  Um anyway Jerry told me that uh.. it might have been my comment in the Coffee Shop that broke you up.",
+      "characters": [
+        "George",
+        "Officer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Jerry's car gets hit and the other driver doesn't have any insurance, so the judge",
+      "characters": [
+        "Izzy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, a friend of mine thought she got Legonare's disease in the hot tub.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Oh, I'll take a vet over an M.D. any day. They gotta be able to cure a  lizard, a chicken, a pig, a frog  - all on the same day.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, then get the Hell out of my store, alright? You bring me something decent, I'll give you some money.",
+      "characters": [
+        "Ron",
+        "Jerry",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Ron"
+    }
+  ]
+}

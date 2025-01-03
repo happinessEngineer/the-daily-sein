@@ -1,0 +1,106 @@
+{
+  "gameNumber": 97,
+  "date": "2025-04-10",
+  "questions": [
+    {
+      "quote": "Alright. I've never been to Mars but I imagine it's quite lovely.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why? It gets hot at night, you can't sleep. You ever tried to sleep in a really hot room?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mr. Seinfeld, I might remind you that you are under oath.  Now I ask you again, did you or did you not, see this woman wearing a bra?!?",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well it's a little strange. You going to start to talk like Elaine from now on?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I hear things. Hey, so Sophie gave me the \"It's me\" on the phone today.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, yes, I definitely waited. But let me say this: Once he passes on that option, that 'God bless you' is up for grabs.",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But now I have my own market research. Actual Japanese viewers, that love the show! I'm gonna talk to Kramer.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, it isn't!  it's not true. You're a wonderful, wonderful boy. Everybody likes you. It's impossible not to like you. Impossible. Morty?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Wha! You know, it's a pain to change that. You gotta lift up that plastic thing with a pen.",
+      "characters": [
+        "George",
+        "Milos",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh.. ah,  Oh, nothing - nothing.. No, I certainly don't have any stories, if that's what you're implying.",
+      "characters": [
+        "Elaine",
+        "Stationer",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

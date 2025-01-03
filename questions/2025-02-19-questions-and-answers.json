@@ -1,0 +1,106 @@
+{
+  "gameNumber": 47,
+  "date": "2025-02-19",
+  "questions": [
+    {
+      "quote": "OK Look, the gum isn't cutting it for me. We need to be about something else...anything..please.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I just saw a pig man! A pig man! Ya know he was sleeping and then he woke up and he looked up at me an-and he made this horrible sound, this .",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...pianist. A *classical* pianist. She *plays* the piano. She's a *brilliant* woman. I-I-I sat in her living room... She played the *Waldstein Sonata*! The *Waldstein*!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Donna",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! Then after the ambulance left, I found the toe! So I put it in a Cracker Jack box, filled it with ice, and took off for the hospital.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"That's the guy who took the bread out of Jimmy's mouth. Jimmy's out of work because of you..",
+      "characters": [
+        "Jimmy",
+        "Brett",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "You can't keep this up. Don't you know what's going to happen? Everytime you shave it, it's going to come in thicker and fuller and darker.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't stand these guys. You give your number to them and then they don't call. Why do they do that?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "An hour and a half!!! I was reading a manuscript, I just couldn't put it down.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You sure you want to do this? I'm going to be on the road for three weeks!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, I was thinking - if things don't exactly work out..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

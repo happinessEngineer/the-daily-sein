@@ -1,0 +1,106 @@
+{
+  "gameNumber": 487,
+  "date": "2026-05-05",
+  "questions": [
+    {
+      "quote": "But you never became a banker, did you Mister Kramer? Why? Why did you fail?",
+      "characters": [
+        "Farkus",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "It's in the bottom draw' of are dressa'. Hurry up! … He's such an idiot.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "look guys, don't worry about it, I uh, Well I guess I better get going.",
+      "characters": [
+        "George",
+        "Sid",
+        "Nina",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "I'm not going to give him $300 now for a suit with moisturizer cream all over it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Leslie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I guess I have all the more reason to get back with her.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"There's a lot of money in this.. He's got a proven sales method\"",
+      "characters": [
+        "Jerry",
+        "Danielle",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, maybe if you called more often, I wouldn't have to. Listen, is it all right if I watch a tape in here?",
+      "characters": [
+        "Mickey",
+        "George",
+        "Nina",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, gentlemen, I scouted it out. I think we can get out over there.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no. It was a fearless cat burglar.  Now listen, you gotta let me sleep here, huh? Y'know, I'll stay here on my side, and I'll stuff a sock in my mouth.  'Cos I don't wanna sleep alone.",
+      "characters": [
+        "Elaine",
+        "Michael",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry? Yes, I suppose he is white. You know, I never really thought about it. I don't see people in terms of color. You know, there's someone I'd like you to meet. Hand on...  Is Mr. Morgan in?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

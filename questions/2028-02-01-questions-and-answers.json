@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1124,
+  "date": "2028-02-01",
+  "questions": [
+    {
+      "quote": "No, no. No, Elaine, the car can wait. What's important is you two getting back together. Eh, then we'll talk about the car.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? They just gotta be worked in a little bit, that's all.  Alright, see you later.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, you can't keep avoiding her like this, you're gonna have to say something.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got rejected by a bald woman. A bald woman rejected me. Heh, you like that one? A woman with no prospects and no *hair*, told me that I wasn't her type. Apparently *baldy* likes a slimmer guy.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You wanna get the other end, 'cause I wanna get it in the hall.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I hope prune juice is alright. It's the only thing I had that was chilled.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Se, now that?s terrible, that is not a nice thing to do at all, I don?t know how this Paliachi thing turns out but you know I would assume that there is big big trouble for that clown",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I wonder where Elaine is sitting? I really wanted you to meet her she's supposed to be here tonight with her new boyfriend Tony",
+      "characters": [
+        "Levitan",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well perhaps, not to the extent that you are. But I know the basic plot. Yeah.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Aaron"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, c'mon. She'll pay you back. What's five grand between friends?",
+      "characters": [
+        "Raymond",
+        "Steinbrenner",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

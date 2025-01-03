@@ -1,0 +1,106 @@
+{
+  "gameNumber": 553,
+  "date": "2026-07-10",
+  "questions": [
+    {
+      "quote": "Oh, w-what are you saying? So we're not going to go in there anymore?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, Lou.  You've got a lot going for you. You're um ... you're spontaneous. You're, symmetrical. You're, uh, ...  Ehh - you're very quick, aren't ya. Um, It's just that your...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Nikki"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I feel like I got a B12 shot. This is like a taste explosion!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, tell me about it. These things have ruined me for Braille.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "We just bought an apartment on Riverside Drive. Bernard Goetz's mother used to live there.",
+      "characters": [
+        "George",
+        "Leslie",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "Well, Lloyd's a very industrious fellow. I'm sure he can accomplish anything he sets his mind to.",
+      "characters": [
+        "Detective",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't do this! I can't do it. I have tried. I'm here. It's impossible.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't eat Oreos?  The way you break them open? You're  ~ practically having sex with them.",
+      "characters": [
+        "Kramer",
+        "Ramon",
+        "Tony",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I thought Jerry didn't want that couch, because of the stain?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you're having sex and then all of a sudden, you just blurt out \"I'm giving you a raise.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

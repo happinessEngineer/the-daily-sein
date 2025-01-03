@@ -1,0 +1,106 @@
+{
+  "gameNumber": 770,
+  "date": "2027-02-12",
+  "questions": [
+    {
+      "quote": "Kramer, these balloons aren't gonna stay filled till New Year's!",
+      "characters": [
+        "Susan",
+        "Stationer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you saying? . . . Salad! What was I thinking? Women don't respect salad eaters.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And you met her in an antique store! I don't know how you do it!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Cheryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's nothing. I got it. So, how are your levels coming along?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I don't believe that for a minute. Well, Elaine, it was good of you to stop by.",
+      "characters": [
+        "Jerry",
+        "Alec",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey! Hey, everyone. This way. I think we can get out through here.",
+      "characters": [
+        "Helen",
+        "Man",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It looks like your breaking into it like an otter breaking into a clad.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Farkus"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I don't know. Anyway I thought we'd all go to a movie on Friday.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I'm not the one who said eleven o'clock. He makes up his own rules.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Harold"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "It's Latin. I read it in some book. I don't know, I just wanted to say it out loud.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

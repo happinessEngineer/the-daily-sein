@@ -1,0 +1,106 @@
+{
+  "gameNumber": 526,
+  "date": "2026-06-13",
+  "questions": [
+    {
+      "quote": "Listen, maybe we shouldn't start writing today. I got a lot on my mind.",
+      "characters": [
+        "Elaine",
+        "Ken",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, boys and girls. I need you both to sponsor me in the AIDS walk.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy, it's a lucky thing I put the jacket on. But how did it get in the pocket?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "John",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry? I have an announcement. Your grandmother is on the line.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, George, instead of talking about this, we could be... you know...",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "THANKS FOR SHOWING UP. YOU KNOW YOUR FRIEND HERE TRIED TO KILL ME.",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Elaine",
+        "Donald"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "Ho ho ho Well come on little Princess, tell Santa what you want. Don't be shy.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Beth",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you mean you don't like it? How could you not like it?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe it. You know better than to get involved with Kramer.",
+      "characters": [
+        "Wyck",
+        "Shelly",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No games? What is the point of dating without games? How do you know if you're winning or losing?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

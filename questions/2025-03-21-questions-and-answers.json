@@ -1,0 +1,106 @@
+{
+  "gameNumber": 77,
+  "date": "2025-03-21",
+  "questions": [
+    {
+      "quote": "Elaine, it was very nice of you to bring the man you're currently sleeping with over to talk to me, but I assure you, I don't have any problem with germs.",
+      "characters": [
+        "Kramer",
+        "Peggy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Peggy"
+    },
+    {
+      "quote": "I don't care. It was good. I was enjoying it. Had to interfere. Couldn't leave well enough alone. Well, I will get even with you for this. You can count on it.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey, I brought you some cigarettes. You buy yourself something nice.",
+      "characters": [
+        "George",
+        "Conrad",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well what did you want her to do, you left it on the night table.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But there's no way you could have beaten me by that much. I already beaten you in Junior High School three times.",
+      "characters": [
+        "Duncan",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "I always look annoyed. Yeah, when you look annoyed all the time, people think that you're busy. Think about it... .",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is the big deal about putting your lips on somebody's face?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What about the oil tanker bladder system? We were going to put an end to maritime oil spills.",
+      "characters": [
+        "Darren",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "For I am in love with Svetlana, and I don't care if the whole world knows, except for Silvio, who would throw me out of the apartment, where I would be dancing on the sidewalk--",
+      "characters": [
+        "Newman",
+        "Morgan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Alright, alright, hold on!  Time out! Woah, woah!  What did she say?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

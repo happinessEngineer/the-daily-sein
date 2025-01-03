@@ -1,0 +1,106 @@
+{
+  "gameNumber": 730,
+  "date": "2027-01-03",
+  "questions": [
+    {
+      "quote": "Okay! Well, you know, have a nice trip, and uh... alrighty!  I'll just hold down the, uh, fort!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what, I'll give you my number and uh, just give me a call, tell me whenever you want to go.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's not promised to anybody? 'Cause she'd take it in a second.",
+      "characters": [
+        "Elaine",
+        "Glenn",
+        "Gwen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, fifteen minutes. I guarantee you fifteen minutes, I can make it happen!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Margaret",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Bottom of the eighth, score tied at one apiece. Two and one to Paul O'Neill.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Meryl",
+        "Tv"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Why must you always be the focal point of attention? Why can't you just be?  Why can't you live?",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes. Yes  I ran into her today.  This woman has never, not once, ever, as long as I have known her, worn a bra.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Doctor",
+        "Eva"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Lookit, Kramer, you are not getting this bike. I don't even know why you ant it.  I mean, it's a girl's bike.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He has this power over me, okay. I mean he has this way of manipulating every little word that I say. He's like a Svenjolly.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My cousin Douglas was in a place like this one time . He came over to my house for dinner. There was no soda and he went bezerk. He was screamin' \"where's the Pepsi, where's the Pepsi?\"",
+      "characters": [
+        "Elaine",
+        "Ricky",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 10,
+  "date": "2025-01-13",
+  "questions": [
+    {
+      "quote": "I don't understand, I made a reservation, do you have my reservation?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Gwen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Listen, could you mail those to me? Or bring them by my building, it's 129 West 81st St.",
+      "characters": [
+        "Kramer",
+        "Christie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, come on. Don't get upset about it. There's always next spring. Now will you excuse me for a moment. Serenity nooooooooww!",
+      "characters": [
+        "George",
+        "Jake",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, I think I'm on the outs with Brett. I got shushed during Desperado.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, you know what, uhm... I just wanna take my car, and I'm gonna bring it someplace else.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's over there in the overcoat. If you could just kind of put a scare into him.. You know, set him straight..",
+      "characters": [
+        "Owner",
+        "Kramer",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If every instinct you have is wrong, then the opposite would have to be right.",
+      "characters": [
+        "Elaine",
+        "Betsy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've had bedroom naked, I've had walk-to-the-bathroom naked... I have never had living-room naked.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, Honey, one last look, then you have to let Fredo rest in peace.",
+      "characters": [
+        "Phil",
+        "Kramer",
+        "Frank",
+        "Rebecca"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "ha ha well I know something about getting to first base. And I know you'll never be there.",
+      "characters": [
+        "Gwen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 595,
+  "date": "2026-08-21",
+  "questions": [
+    {
+      "quote": "Look at this Jerry, dropping paper on the ground. That's littering.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nice shirt..  What is this? Is this what you wore on the show?",
+      "characters": [
+        "Elaine",
+        "Dana",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No one's stealing a tractor, it's a five-mile-an-hour getaway. We're dancing around the obvious, it's gotta be disfigurement.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How come he's gettin' so smart? I stopped having sex with Ben three days ago and I don't know no Portuguese?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a minute. This looks familiar. This reminds me of something. I can do this.",
+      "characters": [
+        "Testikov",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you told Kramer it's okay to put the cable in during the shower! Jerry, look,, look! They've eaten everything.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Marcy",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Y'know if the guy dies, the art could really be worth something...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Man",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The last couple a days he's been acting very strange. I think he's avoiding me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Tim",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did I tell you I ran into her last week? Ho-ho, she looked great.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide.",
+      "characters": [
+        "Melissa",
+        "George",
+        "Jerry",
+        "Ricky"
+      ],
+      "correctAnswer": "Ricky"
+    }
+  ]
+}

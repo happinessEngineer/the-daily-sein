@@ -1,0 +1,106 @@
+{
+  "gameNumber": 863,
+  "date": "2027-05-16",
+  "questions": [
+    {
+      "quote": "Elaine, do you know how booked up this guy is? Now, if I send him away now, it's gonna take Jerry months to get him back.. He won't like that.",
+      "characters": [
+        "Buckles",
+        "Estelle",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I tried. they don't know anything.  You gotta put the syrup in first.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What do I do? Well actually, I'm a writer. In fact, I'm writing a comedy pilot for NBC right now.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, you know you're not any help at all here. I don't know what even the point is of talking to you anymore.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Peggy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I guess. But the really cool thing is the daily planner.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Daphne"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah? What if you got ten car lengths? You have to pull all the way up to the front car?",
+      "characters": [
+        "Mike",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Well, there's one way to check. Where there's Chinese food, there's leftovers.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Steven",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, as you can see the comforter I expensed is actually the Aristotle goose down tunic.  What do you think?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, let me ask you this: when she comes over, you're cleaning up a lot?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No Babu! No Babu! You bad man! You very bad man! You very lazy bad man!",
+      "characters": [
+        "Babu",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Babu"
+    }
+  ]
+}

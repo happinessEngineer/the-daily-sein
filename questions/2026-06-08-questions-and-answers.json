@@ -1,0 +1,106 @@
+{
+  "gameNumber": 521,
+  "date": "2026-06-08",
+  "questions": [
+    {
+      "quote": "So, guess where Mr 'Ocean phoned' turned up? He's working for Firestone, in Akron, Ohio.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's exquisite. Listen, uh, if it's not too much trouble, could you pass me that paper over there?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, he's this guy who made these terrible movies in the 70's with these kinds of women. He's obsessed. He's obsessed with breasts. That's hard to say.",
+      "characters": [
+        "Kramer",
+        "Regis",
+        "Maestro",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, David, you know what? Can you come help me fix the copy machine? Come.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't have an affair with a married woman, that's despicable!",
+      "characters": [
+        "Babu",
+        "Daphne",
+        "George",
+        "Russell"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, they like to call it a set-up now. I guess the blind people don't like being associated with all those losers.",
+      "characters": [
+        "Elaine",
+        "Darryl",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You told her? How could you tell her? I told you not to say anything.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess your mother was right. You never could compete with Lloyd Braun!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "How's her handshake? A little firm, isn't it? Maybe a little too firm?",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Daphne",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Six. But then the night doorman comes on. He's much scarier.  Whugh!  Ha-ha.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

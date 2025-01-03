@@ -1,0 +1,106 @@
+{
+  "gameNumber": 474,
+  "date": "2026-04-22",
+  "questions": [
+    {
+      "quote": "You know you should keep in touch. Something may be opening up in a few weeks. Is that a Bruline?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Landis",
+        "Elaine"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "Oh, look at this one! It's saying, 'I'm a coffee table, put some coffee on me! Oh, the hotter the better, that's what I'm here for!'",
+      "characters": [
+        "Toby",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Oh, Elaine. George, when momma said 'Bosco' she must have been trying to communicate something, a legacy, a dying wish perhaps.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Man",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Alright, that's it for me. You've been great. Goodnight everybody.",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Java World.  Hey listen I'm gonna get out here. I'm gonna get myself a free cafe latte.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Come on. I mean, think about it. He's engaged to be married. Your top priority is soup.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You might want to try it...makes the movie more enjoyable, that's all.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh right, right! The blue sweatpants! Gees, it's too bad you can't say anything because of Angela.",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Babaloo, you better get home. You know this guy Bookman from the library he's waiting for ya.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Michael"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no. Vincent, I... Don't shut me out.  I just, I know you feel what I feel.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Manager",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

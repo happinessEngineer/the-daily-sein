@@ -1,0 +1,106 @@
+{
+  "gameNumber": 667,
+  "date": "2026-11-01",
+  "questions": [
+    {
+      "quote": "Talk - call him from your house.  He's calling you now.. okay.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Costanza? Where's Costanza? . . . Excusé mois? Have you seen Costanza?",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "No, no, no. You go on ahead. I'm not finished taking this in. Oh, Jerry look ... Merv Griffin's cigar.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Poppie",
+        "Toby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay.. well, I guess I'm just going to have to take matters into my own hands, huh?  Alright, I'll see you guys.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No noo no, we just bought this. . . . Um, you sold us a cake with a  hair on it.",
+      "characters": [
+        "Elaine",
+        "Vivian",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So... uh you feel okay about that whole thing... what we do in there... you're generally okay with everything in there?",
+      "characters": [
+        "Kramer",
+        "Driver",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bernie is dead, you moron!  Just because he's wearing sunglasses he looks alive?!  Ugh, how long is this weekend, anyway?  Ugh!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I suppose if I had suggested Liam Neeson Day, you'd all be patting me on the back.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, man! It's my father's wallet! The one he thought they stole at the doctor's office that time.",
+      "characters": [
+        "Jerry",
+        "Conrad",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's no big deal Jerry. We'll just meet him at the bubble boy's house.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

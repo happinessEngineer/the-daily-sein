@@ -1,0 +1,106 @@
+{
+  "gameNumber": 404,
+  "date": "2026-02-11",
+  "questions": [
+    {
+      "quote": "Yeah, your widower story's tested through the roof.  When are you getting out of there?",
+      "characters": [
+        "Jodi",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, at the latest. Oh hang on a second, I gotta another call.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "[to himself] Argh! [to Susan] Susan! Hi! Oh, boy! What are you doing here?!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, I made up the part about the car, but the rest is true. And he hated me anyway!",
+      "characters": [
+        "Kramer",
+        "Attendant",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Eh, anti-fur. I mean, who has the energy anymore? This is more about hanging off the arm of an idiot.",
+      "characters": [
+        "Kelly",
+        "Elaine",
+        "Izzy",
+        "Marcelino"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't go. Kramer! Come back. I got great news. Well, I did it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, well, I'll tell you what. Um, I'll give you a check, and then this person can pay me back.",
+      "characters": [
+        "Clerk",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. Well, I'll tell you, a nice greeting card can really lift a person's spirits.",
+      "characters": [
+        "Amy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I got to warn him that I told Joe Devola about his party.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Hoyt",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look. This plane is *full*. I got a lot of people to serve. Now please... You're just gonna have to wait.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Attendant",
+        "Elaine"
+      ],
+      "correctAnswer": "Attendant"
+    }
+  ]
+}

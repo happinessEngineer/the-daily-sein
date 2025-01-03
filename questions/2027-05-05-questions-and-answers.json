@@ -1,0 +1,106 @@
+{
+  "gameNumber": 852,
+  "date": "2027-05-05",
+  "questions": [
+    {
+      "quote": "Yeah.( reaches for the purse and finds a piece of paper . he looks annoyed.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kevin",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The same, he sent it as a thank you for my Super Bowl tickets.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "HEY DOUBLE-PARKER!  SHOW YOURSELF.  COME ON OUT, I'M FREEZING!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There was a dog in front of the building and it spooked me. I couldn't come in until he left.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you thought as long as they're mailing postcards, it wouldn't be too much to ask my parents to drag a child who they've never seen, through the streets of Paris?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, it's an autographed picture for my dry cleaner. I never know what to write on these things. I hate doin' this.",
+      "characters": [
+        "Newman",
+        "Kurt",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "O.K., Danny, take a swing.  N-No! No! No! You're opening up your shoulder.",
+      "characters": [
+        "Alton",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I would think, under the circumstances, it would have sent you running out the building. Apparently, it didn't have any effect on you.",
+      "characters": [
+        "Jake",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Couchgrass and crampbark? You know, I think that's what killed Curly.",
+      "characters": [
+        "Ronnie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why'd I think it was timbre? Yeah, she could do voiceover commercials, why didn't you tell me about her voice?",
+      "characters": [
+        "George",
+        "Lippman",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

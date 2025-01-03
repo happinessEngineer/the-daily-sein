@@ -1,0 +1,106 @@
+{
+  "gameNumber": 883,
+  "date": "2027-06-05",
+  "questions": [
+    {
+      "quote": "Yes, George. I'm kind of wondering myself. What is it what you want?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[in babying voice] Because you love your little kiki don't you?",
+      "characters": [
+        "Bruce",
+        "Susan",
+        "Margaret",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I've gotta see this game. If it wasn't for this guy, we could get out of here.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I used to think that the universe is a random, chaotic sequence of meaningless events, but I see now that there is reason and purpose to all things.",
+      "characters": [
+        "Kramer",
+        "Laura",
+        "Jerry",
+        "Julie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The Hamptons? George Costanza? I, uh... I don't think so. Have a good one.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love these pastries. You know, in Scandinavian mythology, the pastries were the food of the gods.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Why do people always say that? I hate everyone, why would I like him?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Eddie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen carefully. My mother has never laughed. Ever. Not a giggle, not a chuckle, not a tee-hee.. never went 'Ha!'",
+      "characters": [
+        "George",
+        "Kramer",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't understand. You're breaking up with me. Didn't we have fun doing the crossword puzzles?",
+      "characters": [
+        "Noel",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Noel"
+    },
+    {
+      "quote": "Maybe the baby would like to see my spot. A positive, uplifting message to start his life out with. Huh, You can still get a great space in this city - if you apply yourself.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

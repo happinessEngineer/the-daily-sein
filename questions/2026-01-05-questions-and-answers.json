@@ -1,0 +1,106 @@
+{
+  "gameNumber": 367,
+  "date": "2026-01-05",
+  "questions": [
+    {
+      "quote": "Yeah. A friend of mine, he's a magician. He's going away on vacation. He asked me to take care of his doves.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think that statement alone reflects your burgeoning intelligence.  Hey, what about this one?",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I'm telling you, this phone sex thing is hilarious, like this woman Erika, here look . You gotta call her, the voice she uses..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I don't, never have, anything I read was already open.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "And uh, anyway I was just reading your final edit and um, there seems to be an inordinate number of exclamation points.",
+      "characters": [
+        "Lippman",
+        "Helena",
+        "Kramer",
+        "Enzo"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Well, that's the most important thing.  Hey how ya doing Fulton! Octane, Butane, Nitrane!  How's he doing?",
+      "characters": [
+        "Phil",
+        "Kramer",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "What about drugs? You doing some of that crack cocaine? You on the pipe?",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nah, he was tired. He had some feet in his face. My cousin Holly is completely insane. She keeps calling and accusing me of stealing her napkins.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no no no. You don't wanna do that. No no. Nobody wears it like that.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

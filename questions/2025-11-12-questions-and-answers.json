@@ -1,0 +1,106 @@
+{
+  "gameNumber": 313,
+  "date": "2025-11-12",
+  "questions": [
+    {
+      "quote": "Hey you know, my arm really hurts.  I wonder if its gonna affect my golf swing.",
+      "characters": [
+        "Tor",
+        "Teller",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up.",
+      "characters": [
+        "Jerry",
+        "Rabbi",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Oh! That feels good. Hey! This guy charges a hundred bucks an hour but I'm telling ya he's worth every penny OOOOHH!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Morty",
+        "Bob"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ya' got me I fell for it. Alright, OK I can be down there in like a half hour. Bye.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No! Not part of the show! Booing and hissing are not part of the show! You boo puppets! You hiss villains in silent movies!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Vanessa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I think they might have sutured that thing to your brain.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, sure, we met at Jerry Seinfeld's apartment. When you fumigated for fleas over there.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Hal"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's despicable. How does he know how all coffee drinkers will vote? I'm a coffee drinker. If I was on that jury I wouldn't give you a nickel Kramer.",
+      "characters": [
+        "Heather",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it kind a motivates me to work on the road. So uh, make yourself at home.  So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bonnie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

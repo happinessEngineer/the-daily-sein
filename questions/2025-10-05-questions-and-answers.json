@@ -1,0 +1,106 @@
+{
+  "gameNumber": 275,
+  "date": "2025-10-05",
+  "questions": [
+    {
+      "quote": "You know, you know what's great about our relationship?...It's not about looks.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I know when I'm a little strapped, I sometimes drop off my rent check having forgotten to sign it. That could buy us some time.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Ring Dings are better than anything you're gonna get at a bakery.",
+      "characters": [
+        "Susan",
+        "George",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "YES! YOU'RE DAMN RIGHT YOU SHOULD!  Fight for her, Jerry, she's sure as hell fighting for you!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's right, go. Go home to your dumbbells. Work on your pecs. I'm really impressed.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We've just been through this! You don't remember? We just had this exact same conversation a minute ago!",
+      "characters": [
+        "Nurse",
+        "Officer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The blond with the blue sweatpants! Yeah, I think I've seen her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Gennice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I saw the doll you were talking about - not funny! This doll's much funnier. Look, it has a little bowtie, and a cute little hat.. I think it's a riot!",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "I went in with a pretty woman? You know, kinda short, big wall o' hair, face like a frying pan?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, sometimes you can't help these people 'til they hit rock bottom.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

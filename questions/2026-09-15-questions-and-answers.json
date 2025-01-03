@@ -1,0 +1,106 @@
+{
+  "gameNumber": 620,
+  "date": "2026-09-15",
+  "questions": [
+    {
+      "quote": "You mean it's...  No this. No that. No this or that. Oh, boy. Hmmm. What do you want?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Salesman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we'll get to know each other. We never get to spend any time together. Oh sure we have our little group here, but ...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, do you want the quarter, take the quarter, but don't try and tell me it's yours.",
+      "characters": [
+        "Elaine",
+        "Marcy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I got the Alumni magazine. What ever happened to your friend George? I notice I never see his name in there.",
+      "characters": [
+        "Diane",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Diane"
+    },
+    {
+      "quote": "No, I don't know too many monkeys who could take apart a fuel injector.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Rabbi, is there anything I can do to combat this Shiks-appeal?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's right. Poppie's on 77th. Ok we'll see you at 8:00. Bye-bye.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Audrey",
+        "Frank"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "Well, I'm going down to that garage and telling him to stop doing it.",
+      "characters": [
+        "Kevin",
+        "Connie",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hellooo Jerry. What a rare treat. What brings you down to the east wing?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, nothin' much, . . . talkin'. . . . Oh, oh, oh, did I have an unbelievable idea today!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Pam",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

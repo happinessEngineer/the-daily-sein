@@ -1,0 +1,106 @@
+{
+  "gameNumber": 457,
+  "date": "2026-04-05",
+  "questions": [
+    {
+      "quote": "So what? I'll start talking to him, you know, casual, and I'll work my way around to it.",
+      "characters": [
+        "Jerry",
+        "Leo",
+        "Marcy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Um, it was, uh...\"Next Stop Pottersville.\"  Uh, do you know when they're giving out the passes?",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Laura",
+        "Rudy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Mayor Dinkins set this up for you. You know what kind of a doctor this must be if Dinkins knows him?",
+      "characters": [
+        "Wyck",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Alright alright, goodbye.  I don't think we are gonna make that flight.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey, if you got any juice left, you might wanna roll by the big showcase tonight.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, ok, fine! It's changed, it's not really the point. Anyway, I'm thinking of making a big move.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me tell you who did, uh, buy it...um we pitched this story to Russell Dalrymple, the president of NBC, and he ate it up with a spoon.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Gary"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, y'know, guys like you, with no conscience, don't know what it's like for guys like me. I'm in the unfortunate position of having to consider people's feelings.",
+      "characters": [
+        "Celia",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes yes George. Can you talk to me for a second? Of course you can -- I'm a very accessible man. I just wanted to say you're doing great work on that Canola oil stuff.",
+      "characters": [
+        "Steinbrenner",
+        "Father",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "At the funeral, give or take. You know, deep down, I always kinda felt that they blamed me for Susan's death.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

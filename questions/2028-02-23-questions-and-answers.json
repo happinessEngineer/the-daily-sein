@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1146,
+  "date": "2028-02-23",
+  "questions": [
+    {
+      "quote": "First of all, you're not even supposed to have Elaine's keys. You're supposed to give 'em back to her, so she can give 'em back to me, because she has mine. So technically, those are my keys.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not as good. That's when you realize all the money you're losing.",
+      "characters": [
+        "George",
+        "Gina",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My parents don't read! They're gonna wonder what a book is doing on the table!",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "As a matter of fact, if it wasn't for you, I wouldn't have even had an excuse to talk to her.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen to the comeback.  'Oh yeah? Well the jerk store called. They're running outta you.'",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "About what? How to calculate five percent of a restaurant check?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Lena",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wanna bite into a big hunk of cheese, just bite into it like it's an apple.",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's the romance of the Handsome Cab without the guilt or dander of the equine.",
+      "characters": [
+        "Hallie",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh I'll tell you how it's looking. My lawyer Jackie says if there is one coffee drinker on that jury,  I'm gonna be a rich man.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, why don't you just take a good, hard look at what your life will be like if I'm not around?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

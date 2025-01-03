@@ -1,0 +1,106 @@
+{
+  "gameNumber": 256,
+  "date": "2025-09-16",
+  "questions": [
+    {
+      "quote": "I don't care. Look, Lloyd doesn't know what he's up against. This is nothing to me.  My whole life is a lie.",
+      "characters": [
+        "George",
+        "Daphne",
+        "Jack",
+        "Lou"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you see what's goin' on here???... No boxers, no Jockeys...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Is that it? Got the cue tips, got the mini-umbrella, something boring to read on the plane.  That's it. Done!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. He's pretending he's got gonorrhea so med students can diagnose it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But you said he was just coming out of a very serious relationship. Maybe he's, you know, still....kind of...he...not gonna happen.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I am sorry.  I'm supposed to meet my boyfriend here. He looks just like you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jack",
+        "Danielle"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "They'll get dehydrated on the plane! Get the Seinfelds some water. Please! Please!",
+      "characters": [
+        "Aaron",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "I don't like this waiter.  Look at him.. He sees us.. he doesn't want to come over.",
+      "characters": [
+        "Lloyd",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "That?s fantastic! We'll scalp the tickets, we'll make maybe five hundred a ticket.",
+      "characters": [
+        "Elaine",
+        "Ray",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You! This is all your fault! You told me I could run the company!",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 950,
+  "date": "2027-08-11",
+  "questions": [
+    {
+      "quote": "Let me ask you ; Had she been exposed to any kind of inexpensive glue?",
+      "characters": [
+        "Doctor",
+        "Wilhelm",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "This guy from my old neighborhood. Lloyd Braun. He's a big advisor to Mayor Dinkins. He thinks he's so cool.",
+      "characters": [
+        "George",
+        "Russell",
+        "Vivian",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, he did. You know, after that, he had a nervous breakdown? Had to spend a few months in an institution.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "One of those fabric wholesalers. This guy Todd Gack. I won a bet from him.",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Pitt",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah I better get to a doctor, bye.  That was close! What drives me to take chances like that?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Mustn't keep the princess waiting. Princess in a big hurry.\" \"No change for bus\" \"Poor princess.\"",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Ruby"
+      ],
+      "correctAnswer": "Ruby"
+    },
+    {
+      "quote": "Okay, next item. Susan's doll collection. Estimated value: $2.6 million. What do you say we go through this doll by doll?",
+      "characters": [
+        "Wyck",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "What person who runs an antique store gets involved in people's lives?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Jerry, if you're gonna be snacking on these, you can't expect me to pay for the whole box.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, there's much you don't understand about the Jewish religion. For example, did you know that rabbis are allowed to date?",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "Rabbi",
+        "Kramer"
+      ],
+      "correctAnswer": "Rabbi"
+    }
+  ]
+}

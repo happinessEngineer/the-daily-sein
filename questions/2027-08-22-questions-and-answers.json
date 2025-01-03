@@ -1,0 +1,106 @@
+{
+  "gameNumber": 961,
+  "date": "2027-08-22",
+  "questions": [
+    {
+      "quote": "You should've just had dinner with your uncle tonight and gotten in over with. It's just a movie.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you're not gonna cop a girl's phone number off an AIDS charity list!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't understand it. You were having such a great time, the sex, the shopping.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've got to start seeing someone else. Get out of this relationship.",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Ricky"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, my face feels so good, I'm gonna use it all over my body.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, then I'm not going to the game either. Okay? I'll give him both tickets.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And now, there's this intense animosity whenever we pass. I mean, it's like we really hate each other. It's based on nothing.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Holly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "[pause] Would I like to come up? I would love to come up. I, I'm fighting not to. Fighting! Unfortunately I uh have to get an early start tomorrow. Gotta' get up and hit that pavement",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know what this is about Father. I didn't do anything. I just spoke to her innocently for just a few minutes. It's just that, that I have this power.",
+      "characters": [
+        "Rick",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I went through all those bottles and all those cans, for what? What a waste. And I'm really gonna catch hell for those missing mailbags.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

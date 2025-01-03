@@ -1,0 +1,106 @@
+{
+  "gameNumber": 851,
+  "date": "2027-05-04",
+  "questions": [
+    {
+      "quote": "Oh, hi Elaine. You know I lost all of my 6:30 clients because of you. . . . Yeah, well why did you have to stick your feet in my face? . . . Yes, I have the jacket. Hold on. . . .  Fellas!",
+      "characters": [
+        "Greg",
+        "George",
+        "Kramer",
+        "James"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Unfortunately, I didn't have a partner. I got gonorrhea from a tractor.",
+      "characters": [
+        "Ethan",
+        "Sophie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Driver",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Imagine if I had to see them both on the same day?  Haha! It's like runnin' a double marathon!",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you think the Nazis were doin'?  That was the heil-five.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you should. I certainly remember you. Let me refresh your memory.",
+      "characters": [
+        "Tom",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm trying to buy some of the clothes back.  Hey you wanna come over for dinner tonight? My mother made all this extra Paella.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tom",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not a chance. I'm afraid I'll just have to find someone else to accompany me on my journey. The dark continent is no place for an addict, Elaine.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "You know last time you had me throwin' a rye bread up three floors to you, now you want me to go up to the Bronx, take flyers off your car, where does it end?!?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, let me ask you something: When do you start to worry about ear hair?",
+      "characters": [
+        "Buckles",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

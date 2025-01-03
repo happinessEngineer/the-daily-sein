@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1147,
+  "date": "2028-02-24",
+  "questions": [
+    {
+      "quote": "I bin thinkin about it. You got no job. You got no prospects. You're like Biff Loman.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Carrie",
+        "Jerry"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "It's like a magic trick. Sometimes I think it would be easier to bend a spoon mentally than to make that transformation.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "His apartment was being fumigated, so we thought we'd give it another shot.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright! So, she said, that she could've fixed me up with her.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Corinne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Awe there making faces at me cause I've had a couple of cafe lattes. But I'm entitled to them. I can have as many cafe lattes as I want, that was the settlement.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah... Hum..Jim , a man here says came in the other day , you didn't say hello?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Manager"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Did you enjoy the duck?  Oh, Elaine! I was just asking how dinner went last night.",
+      "characters": [
+        "Izzy",
+        "Maestro",
+        "Kramer",
+        "Manager"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, sure.  Then my father will have no place to sleep.  He's gotta move out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bob",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I'm sorry to bother you, but you always said you'd be there for me.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "Beth"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "So, what are you gonna do now? Are you gonna look for something else in real estate?",
+      "characters": [
+        "Craig",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

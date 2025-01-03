@@ -1,0 +1,106 @@
+{
+  "gameNumber": 357,
+  "date": "2025-12-26",
+  "questions": [
+    {
+      "quote": "No, no. Mister Peterman, why don't we keep them - as a, as a reference?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Father"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You won't believe this but, as I'm leaving, she calls me \"Susie.\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right all right forget it. You don't have to mention any of this to Miss. Landis do you?",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, alright listen. Forget about The Gap because we are through!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Tia",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you something else, you're looking a little chunky yourself, buddy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, Jerry, Jean-Paul's missing! He's alone in the city! Call me back.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, you're right. I really should keep more of your favourites on hand.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jack",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See now that bothers me even more than dying bothers me, cause it's people like you who live to be a hundred and twenty because you're not bothered by it. How could it not bother you?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Detective"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hum, he's such a great guy. You should meet him. You know he's the one who got that hit …",
+      "characters": [
+        "George",
+        "Diane",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, we just got the final budget numbers. We went over budget on some of the items, but I don't think there's gonna be a problem.  I'll let you get back to work, George.",
+      "characters": [
+        "Wilhelm",
+        "Celia",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1091,
+  "date": "2027-12-30",
+  "questions": [
+    {
+      "quote": "Well, I'm not saying that! You know, things are going pretty well for me here. I met a girl...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Jane",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Behold! The Games of the '84 Olympiad! Katya's silver medal performance!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why, so he'll go to the interview and he wouldn't know what he's talking about!?!",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So, how come nothing ever happened between you and Nina?  Is there a problem with her? Is she a man?",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's great Kramer... So-So, anyway, tell us what's involved in being a Godparent.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, good to see you, too. And Good luck with, uh... with the whole thing, there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's a very good friend of mine, he's kind've like an older brother to me...when things don't go right, he kinda takes it personally.",
+      "characters": [
+        "Jerry",
+        "Milos",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you're fine... you're fine.  So you think this guy playing Kramer took the raisins?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jodi",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bite-size Three Musketeers. Just like the real Peterman eats.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Valerie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh! Mr. Ross. Mrs. Ross. My name is Cosmo and I'll be your driver for this evening. We have blankets for your comfort. I also have hot chocolate if the mood should strike you.",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

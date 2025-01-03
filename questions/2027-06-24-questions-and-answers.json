@@ -1,0 +1,106 @@
+{
+  "gameNumber": 902,
+  "date": "2027-06-24",
+  "questions": [
+    {
+      "quote": "Hey, where's the waiter. Dad, what say we have some red meat tonight. Let's live a little. .",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well...hum.....we'll just have to do something about that. Won't we.",
+      "characters": [
+        "Leo",
+        "Joel",
+        "Kramer",
+        "Craig"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "It won't for a while. At least not until after the cast comes off.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "As you can see my references are impeccable. I think I'd be a real asset here. My only concern is, I do take care of my mother. So will there be any late nights?",
+      "characters": [
+        "Ade",
+        "Poppie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "Ah, but he called me up and he asked for yours and Elaine's addresses, I'm sure that means I'm invited.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Todd",
+        "Marty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So yesterday, after they took you away, I looked in my mail and I noticed that the mailman accidentally put your Visa renewal in my mail box.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, he's this guy who used to live in the building and they keep calling us to see the baby.",
+      "characters": [
+        "Newman",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I should probably get going too. If I don't feed Pequita by seven, she goes all over everything.. take it easy.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, it's been two years. I mean isn't there like statue of limitations on that?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I say we leave now, we go to 'Skyburger' and we scarf 'em down.",
+      "characters": [
+        "Landlord",
+        "Russell",
+        "Marcy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

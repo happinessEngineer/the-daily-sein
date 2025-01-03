@@ -1,0 +1,106 @@
+{
+  "gameNumber": 952,
+  "date": "2027-08-13",
+  "questions": [
+    {
+      "quote": "\"Don't you see what's happened, he couldn't talk , he's wearing these shoes, he's drooling.\"",
+      "characters": [
+        "Detective",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I still don't know what I'm supposed to do. I don't even know what my assignment is.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean, it's killing me! Newman's got the jump on the invites, and will crush me if I try to go it alone!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, right. C'mon, don't you think they seem a bit too perfect?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "David",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You got less than sixty seconds. That's like dismantling a time bomb. What got into you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, well, like I said I was on 3rd Avenue, and I stopped by a large department store.",
+      "characters": [
+        "Danielle",
+        "Marcy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "I'm ten minutes slow again! That's it for this piece of junk! I've had it.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Rachel",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, I don't get that. First they come out with the regular, then a year later they come out with the cherry. They know that we like the cherry, start with cherry! Then come out with the regular!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what's another million, give or take. I get off where and when I wanna get off.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. That's just the thing. Anna told me that Elaine said I was one of the worst seeds she'd ever seen.",
+      "characters": [
+        "Donald",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1100,
+  "date": "2028-01-08",
+  "questions": [
+    {
+      "quote": "Um, well, he's got a lot of character in his face. Um, he's short. Um, he's stocky.",
+      "characters": [
+        "Kramer",
+        "Donna",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait wait, hold it, hold it. Look who's over there. Don't look, don't look! It's Fred Savage.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what. Why don't we just get a couple of dishes and we'll just share 'em.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, I don't want people coming into my kitchen. I think she might have sneezed all over someone's pasta primavera. Someone might have gotten sick because of her.",
+      "characters": [
+        "Gail",
+        "Kramer",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Gail"
+    },
+    {
+      "quote": "Let me ask you something. Could you tell if teeth marks on someone's arm matched teeth marks on a pencil?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He split.  Let me ask you something.  Is there anything to drink in here or is that, like, a stupid question?",
+      "characters": [
+        "Steve",
+        "Jerry",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "He's got like a chemical imbalance. He needs to be on medication.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Cheryl",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you wanna live in a butcher shop, I'm gonna treat you like a piece of meat.",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "It's too late. We bought a condo at Del Boca Vista. We're leaving tonight.",
+      "characters": [
+        "Alec",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "\"Well this afternoon I shared a cab with this...a hum..DEENSFREI:.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

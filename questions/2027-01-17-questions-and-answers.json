@@ -1,0 +1,106 @@
+{
+  "gameNumber": 744,
+  "date": "2027-01-17",
+  "questions": [
+    {
+      "quote": "Yeah. a-hu. What about you? Did people make fun of your name?",
+      "characters": [
+        "George",
+        "Earl",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, batteries have gone dead before, aren't they prepared for that?",
+      "characters": [
+        "George",
+        "Eva",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh you don't want to think about that no sir. Otherwise I'd have no choice but to put that banner back up and eh, he-he-hwow, run that Roger's right out of town.",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi, Kramer. Guess what - I just saw Bryant Gumbel, he said he might help out at the benefit!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Gary"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, it's 808 right down there. Meanwhile, I'll get you the Pensky file, you can start working on that.",
+      "characters": [
+        "George",
+        "Woman",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Where you going? I-I thought I could count on you for a little compassion.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you getting the eyes? 'Cause they're brown.  Or, really, they're dark brown, like rich, Columbian coffee.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Can't do it. I'm on an unbelievable birthday-wish hot streak! My last five birthday wishes came true.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "See, that stinks. You can't eat that. You should take that back.",
+      "characters": [
+        "Patty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, well, what you need is some summertime adolescent high jinx.",
+      "characters": [
+        "Kramer",
+        "Marla",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

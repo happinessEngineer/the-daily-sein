@@ -1,0 +1,106 @@
+{
+  "gameNumber": 787,
+  "date": "2027-03-01",
+  "questions": [
+    {
+      "quote": "So you'll just explain to him you're not a Communist. You just called the woman for a date.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "For that rent, she'd take a bath in the toilet tank if she had to.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right here, come on, I'll show you..  Take hold of your stick.. alright, bring it back slowly..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...give, given it to the person that they originally gave it to.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Jerry, I never saw you flirt with anyone before. It was quite the spectacle.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The CIA! Maybe they placed him in there to infiltrate the organization from within.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, that's what he has and I have to give him a call. Now we gotta came clean.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Dwayne"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You won't regret this, Miss Benes. What time should I be in? I get up at four, I could be here as early as four twenty-five.",
+      "characters": [
+        "Abby",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Clare won her lawsuit against Play Now. Gee, Play Now is filing for bankruptcy. I guess you're not going in anymore.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

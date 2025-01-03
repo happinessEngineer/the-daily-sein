@@ -1,0 +1,106 @@
+{
+  "gameNumber": 387,
+  "date": "2026-01-25",
+  "questions": [
+    {
+      "quote": "Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Everybody knows. y'know George told me he thinks you're totally cute and everything.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Are you kidding? People love it. There's something about the clip clop, clip clop. They're nuts for it.",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's either that or we stay here, near you, and just sit on the money. What do you think we should do, Georgie?",
+      "characters": [
+        "Estelle",
+        "George",
+        "Salesman",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I'm sure she would apologize if she could. Probably somebody is holding her back against every fibre in her being.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you talking about, I don't know Jeffrey. Oh so this is why you brought me up here?",
+      "characters": [
+        "Amy",
+        "Kramer",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "Amy"
+    },
+    {
+      "quote": "What's a young man like you want to move cars for? You don't work?",
+      "characters": [
+        "Tim",
+        "George",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Now, George, you don't have to cover for him any more. He's going to be gone soon and I'm going to recommend you for his job.",
+      "characters": [
+        "Wilhelm",
+        "Patty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "I can't believe it! You were *huge*! Like blubber! I couldn't even get my arms around you...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Two hundred seats on a plane, I gotta wind up next to Yukon Jack and his dog Cujo. Shut up! One more day and you are pound bound!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wilhelm",
+        "Matthew"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

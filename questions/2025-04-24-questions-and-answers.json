@@ -1,0 +1,106 @@
+{
+  "gameNumber": 111,
+  "date": "2025-04-24",
+  "questions": [
+    {
+      "quote": "Don't despair, my friend.  I won't allow your love to go unrequited. Not like mine.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So if the coma victim wakes up in a month, he's thrilled, he got out of the coma. He goes home, there's nothing left?",
+      "characters": [
+        "Morty",
+        "Levitan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is that creaking, its like I'm in the hold of a ship. Gotta relax.",
+      "characters": [
+        "Jerry",
+        "Shelly",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, man. You gotta shoot this movie for me. Brody, he's a reasonable man, but he's insane!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I went out on a couple of dates with this woman, I thought she really liked me, and then things kind of cooled off.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Eddie"
+      ],
+      "correctAnswer": "Eddie"
+    },
+    {
+      "quote": "Well, what we have here, doctor, is uhm, an extraordinary situation.",
+      "characters": [
+        "Kramer",
+        "Wendy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at this. Boy, one minute Elliot Gould is sitting on you and the next thing - you're yesterday's trash.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Corinne"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. This I need. Hello!! Hello. i..i..is this the hair restoration clinic? ...Does anyone speak English?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, what's so great about a Mom and Pop store? Let me tell you something. If my Mom and Pop ran a store, I wouldn't shop there.",
+      "characters": [
+        "Nina",
+        "Brett",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You need a little pioneer spirit. You know, you don't have any of that Lewis and Clark in you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

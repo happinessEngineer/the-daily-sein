@@ -1,0 +1,106 @@
+{
+  "gameNumber": 91,
+  "date": "2025-04-04",
+  "questions": [
+    {
+      "quote": "So listen, what should I do? I mean if I break up with him now it'll look like I'm abandoning him because of his condition, I'll be ostracized from the community.",
+      "characters": [
+        "Stu",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I had some milk, I made a sandwich. I got to get out of the building.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Rebecca"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't need to know. I just think it would be nice if I knew.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You might've if I'd stayed. So you know what? I got served with papers today. Ping is suing me. I need your virgin as a witness. You better be nice to her.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Valerie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Silvio, look at Jerry here, prancing around in his coat with his purse. Yup, he's a dandy. He's a real fancy boy.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, those mail bags, they get mighty heavy. I uh, I Nautilus, of course.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well you know in college they used to call me the little bulldog.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mohel",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta meet me at the police station. They're arresting me for attempted murder.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Worker",
+        "Connie"
+      ],
+      "correctAnswer": "Connie"
+    },
+    {
+      "quote": "She wants my shoes? What kind of person is this? Alright! She is not getting 'em!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got it - it's out! How about that, huh? Oh, boy, what a relief.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 228,
+  "date": "2025-08-19",
+  "questions": [
+    {
+      "quote": "You know, when I was a kid, I once found a dollar and fifty cents in change on the bottom of the pool.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Objection, Your Honor! This is completely inappropriate! My clients' medical condition is not on trial here! I refer you to the Disability Act of 1990.",
+      "characters": [
+        "Chiles",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "I'll tell you what that is - that's a violation of club rules. Now I got him! And you're my witness!",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Haven't seen him. There was a short guy with glasses... Looked like Humpty-Dumpty with a melon hat. But he left.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Move it, move it! Get those knees up! Come on, kick it, kick it!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Ah! You're fine. There's nothing wrong with you. I'm the one who's dying.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You are not gonna believe this! I told him that I just wanted to be friends. He's fine with it. He really wants to be friends.",
+      "characters": [
+        "Gary",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We just want to talk to her. We want to apologize and tell her the whole thing was an accident.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's not good, okay. It's not good. You look  stupid.  I'm sorry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I've given this a lot of thought, and I've gotta say...",
+      "characters": [
+        "Russell",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1108,
+  "date": "2028-01-16",
+  "questions": [
+    {
+      "quote": "Yes, your secretary faxed me the copy. Would you like to look it over?",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "We would love to be in business. We'll do business. We're in business. It's... it's business. This is business.",
+      "characters": [
+        "Joel",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what's the deal? What was goin' on there? I invite you down here, I have an important show, and she heckles me?!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...And then, right after the All-Star Break, we, we just swept the Orioles. Four games. In Baltimore.  So... yeah.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Hanke"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, the four of them, they picked me up by my pants and they threw me outside, right into a horse.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All because of this creepy new guy at work. He just - he just comes out of nowhere and he's right next to you!",
+      "characters": [
+        "Guy",
+        "Elaine",
+        "Steinbrenner",
+        "Alton"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey! What are you doing here? I thought I was supposed to call you when I got home.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Carol",
+        "Elaine"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I was supposed to pick up Newman at the zoo twelve hours ago.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I mean, does it ever erupt into a drunken orgy of violence?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

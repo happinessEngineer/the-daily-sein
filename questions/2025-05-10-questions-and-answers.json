@@ -1,0 +1,106 @@
+{
+  "gameNumber": 127,
+  "date": "2025-05-10",
+  "questions": [
+    {
+      "quote": "Hold on! Hol--on! Susie didn't commit suicide!  She was Murdered, by Jerry, Sein-feld!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Yeah, we give you the dough, you smash it, you pound it, you fling it in the air. And then you get to put your sauce and you get to sprinkle your cheese, and then- you slide it into the oven.",
+      "characters": [
+        "Kramer",
+        "Bob",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry! I'm gonna find your stuff. I'm gonna solve it, I'm on the case, buddy, I'm on the case.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm unbelievable at spelling last names. Give me a last name.",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a goose that's had the old switcheroo pulled on it. Hi Sophie, it's me.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Shut up! Keep 'em spread! Just make love to that wall, pervert!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, the way you were wolfing down that popcorn, maybe you ate it.",
+      "characters": [
+        "Jerry",
+        "Noreen",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who wants to responsible? When ever anything goes wrong, the first thing they ask is: who's responsible for this?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your whole business is based on other drivers. It's a rented car. That's who's driving it, other drivers. Doesn't my credit card cover me or something?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Owner"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

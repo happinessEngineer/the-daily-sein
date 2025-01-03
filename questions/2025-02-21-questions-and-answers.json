@@ -1,0 +1,106 @@
+{
+  "gameNumber": 49,
+  "date": "2025-02-21",
+  "questions": [
+    {
+      "quote": "Over here. I thought that was you. You're Jerry's friend, right?",
+      "characters": [
+        "Jerry",
+        "Christie",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "Oh, it's a great place, it's uh two-bedroom uh, west 83rd 'bout half block from the park.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is with this guy? I've been waiting three and a half hours. Should I go? No way Jack! ??? at the registrar again, I'll tell you that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I think I'd be good at that. I talk to people all the time. Someone even told me once they thought I'd be a good talk show host.",
+      "characters": [
+        "Joel",
+        "Steinbrenner",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, if Susan and I had... I mean, if the envelopes hadn't, uh... then we--",
+      "characters": [
+        "Rula",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, this is the way society functions. Aren't you a part of society? Because if you don't want to be a part of society, Jerry, why don't you just get in your car and move to the East Side!",
+      "characters": [
+        "Elaine",
+        "Laura",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They should call it round tine. You know what I'm talking about.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rabbi",
+        "Keith"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She knew I didn't have a job, she knew I lived at home. Didn't seem to bother her. I think I could have married this woman.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sir, I just got a call from the terrorist. I told him to call back here.",
+      "characters": [
+        "Donna",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Peterman here. What? Oh no. Alright, I'll be right there.  It's my mother; she's at death's door. I just pray to God we can make it there in time.",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    }
+  ]
+}

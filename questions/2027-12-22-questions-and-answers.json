@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1083,
+  "date": "2027-12-22",
+  "questions": [
+    {
+      "quote": "You know that coat was Gore-Tex. It's worth a hell of a lot more than that, cheap Chardonnay.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jane"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. No. No. No. No. Don't worry. It's perfectly safe. I researched it. He'll get a little woozy. He might keel over.",
+      "characters": [
+        "Julie",
+        "George",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "MOOPS? LET ME SEE THAT. THAT'S NOT MOOPS YOU JERK, IT'S MOORS. IT'S A MISPRINT.",
+      "characters": [
+        "Rabbi",
+        "Donald",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "Your damn right you screwed up. Where the hell did you get that damm balm anyway?",
+      "characters": [
+        "Jackie",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "How do you figure?  'Cause you're the one who left the door open.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh, what a sweet gesture. And autographed poster of my favorite tenor, with.. those two other guys. Oh, Elaine, this is magnifico!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Well, they're more than an underwear to me Mr. Farkus. Two cups in the front, two loops in the back. How do they do it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, when you mail me a new one I'll send you back this one.",
+      "characters": [
+        "Jerry",
+        "Waitress",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "You know I don't get you Seinfeld. You want something one day. The next day you don't like it. Come on man, make a decision.",
+      "characters": [
+        "Conrad",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Honesty, hard-work, these are the values that I was raised on. The most important thing Joey, is to be able to look yourself in the mirror before you go to sleep at night.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Kate"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 957,
+  "date": "2027-08-18",
+  "questions": [
+    {
+      "quote": "Jocylin Landis from Doubleday. I interviewed you for a position a couple of months ago.",
+      "characters": [
+        "Estelle",
+        "Bob",
+        "Landis",
+        "George"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "How you gonna drive when looking through a periscope? Besides it's not a submarine and there's no room for a periscope in a car.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Worker"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm goin' baby. I'm goin.'  It's Jerry's fault. He took out all my good lines. He's such a control freak!",
+      "characters": [
+        "Father",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was just going to wander the streets. Don't wanna tag along with you or anything.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, FDR. This wish is for all the marbles. You win, you get your wish - I drop dead. I win, I don't drop dead, and I get one-hundred percent anti-drop-dead protection -- Forever.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steven",
+        "Kevin"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, look at George. He's givin' it to T-bone. He's jumpin' up and down like some kind of monkey. Hey, what was the name of that monkey that could read sign language?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kruger",
+        "Morty"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "So, listen to this. But don't tell anyone - Jerry Seinfeld? He got a woman's number off an AIDS walk list.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Maybe cheapness is a sense. You know it is better without this big wallet. It's more comfortable.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wa, uh, thank you sir, you know I am not quite sure I'm right for it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's the *loser*. She's the victor. To the victor belong the spoils.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

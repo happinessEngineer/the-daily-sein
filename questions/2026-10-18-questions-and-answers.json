@@ -1,0 +1,106 @@
+{
+  "gameNumber": 653,
+  "date": "2026-10-18",
+  "questions": [
+    {
+      "quote": "I don't know what it is, I can't put my finger on it, but lately you have just seemed 'on'. And you always leave me wanting more.",
+      "characters": [
+        "Kruger",
+        "Jerry",
+        "David",
+        "Russell"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Let me ask you a question. This new move. Is there a knuckle involved in any way?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, I want to thank you for the invite up state. I'm sorry I can't make it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jackie",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was almost Mr. Coffee. They felt I was a little too relaxed.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Carrie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He was buying quite a load of chicken, almost for two people ...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, I'm Jerry Seinfeld. Pat Cooper made a reservation for me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. A lot of attitude, like he's better than me, or something.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm sure they'll be able to fix it. You can't stop modern science. Can't stop it, you can't stop it. Can't stop science. Can't be stopped, no way, no how, science just marches--",
+      "characters": [
+        "George",
+        "Ned",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That strange Portuguese guy that lives next-door to the incinerator?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but I can tell she's going to. I can sense it. We had this terrible phone conversation. I was so nervous before I called I made up this whole list of things to talk about.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

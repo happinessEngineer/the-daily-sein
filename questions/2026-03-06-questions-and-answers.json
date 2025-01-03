@@ -1,0 +1,106 @@
+{
+  "gameNumber": 427,
+  "date": "2026-03-06",
+  "questions": [
+    {
+      "quote": "You know what, let's go to that mall in Liberal before we go to the party. We'll have to take your car, it's got the most room.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I saw \"Titanic\". So that old woman, she's just a liar, right?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Detective",
+        "Waitress"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey! This is the kind of room Sinatra stays in. Hey! look , Macadamian nuts.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You're not gonna see 'em. I got a case of party poppers I'm gonna keep in front of 'em.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What kind of person is this? There's only one other person who might be able to do something like this, and that's you.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You got bit by a strange dog and you didn't get a rabies shot?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you?  Lemme ask you something.  Where do you get your material?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "There really building a Utopian society up there huh.And you tribute all this to the calzone.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where's the heat in this car? Come on Elaine warm me up, oh! I'm cold. Just give me a little squeeze.",
+      "characters": [
+        "Elaine",
+        "Alec",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, Poppie's over at my place. Tonight's the big night. I'm gonna make the first test pizza at the restaurant.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

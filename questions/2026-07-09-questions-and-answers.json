@@ -1,0 +1,106 @@
+{
+  "gameNumber": 552,
+  "date": "2026-07-09",
+  "questions": [
+    {
+      "quote": "Ya know, why don't ya, open those pants, it's gonna be a lot easier that way.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Raymond"
+      ],
+      "correctAnswer": "Raymond"
+    },
+    {
+      "quote": "This is a person I like, it's not \"How to score on spring break\".",
+      "characters": [
+        "Bonnie",
+        "Jerry",
+        "Ruby",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's fantastic. We were out in front of the post office today, and not one person went in.",
+      "characters": [
+        "Jerry",
+        "Mickey",
+        "Kramer",
+        "Morgan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see what's going on here? You're attracted to him because he can't remember anything about you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah. That- that's, uh, okay, So, uh, I'd like to buy a couple of boxes of those from you, yeah?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right Bubble Boy. Let's just play... Who invaded Spain in the 8th century?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy.. imagine.. liking wigs to the point it becomes a career choice.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh man, if I don't get that black paint off the City's gonna go ape. I don't wanna lose my baby!",
+      "characters": [
+        "Frank",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I couldn't help but notice that you have quite a library in there.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Cook? No, I don't know any cooks. I don't know anything about cooking!",
+      "characters": [
+        "Evelyn",
+        "Gary",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

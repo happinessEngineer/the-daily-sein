@@ -1,0 +1,106 @@
+{
+  "gameNumber": 980,
+  "date": "2027-09-10",
+  "questions": [
+    {
+      "quote": "\"He..he... When they pull that needle out I let the expletives fly.\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No matter what I do, I cannot weasel out of raising this kid.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no. Give it to her. I'd rather it belonged to another than see it destroyed. Newman, give it to her, I beg you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ramon",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you're driving in the car, you're with your friend, minding your own business?",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "She's right in my building! Right above me! Every time I come in the building, I'm gonna have to sneak around like a cat burglar.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Susan",
+        "Lena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "so I ask this woman in the stall next to me for some and she refuses! ha ha",
+      "characters": [
+        "Nurse",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think so I know so, Kramer, come here I got to talk to you",
+      "characters": [
+        "Carl",
+        "George",
+        "Kelly",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He thinks that if you're too funny, he might not look so funny.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "Jerry",
+        "Poppie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because he hasn't called me since we got back.. I spilled wine on his 8 by 10 photo of one of his favorite Italian opera stars.",
+      "characters": [
+        "Frank",
+        "Rebecca",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well they don't. If they could drive, they wouldn't be handicapped.",
+      "characters": [
+        "Barry",
+        "Patrice",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

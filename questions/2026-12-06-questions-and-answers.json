@@ -1,0 +1,106 @@
+{
+  "gameNumber": 702,
+  "date": "2026-12-06",
+  "questions": [
+    {
+      "quote": "They're all off the project. They were boring. George, you are my main man.",
+      "characters": [
+        "Elaine",
+        "Gary",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You do realize, of course, these are illegal in your country.",
+      "characters": [
+        "Man",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "I got to get downtown and buy that suit. The store opens in twenty minutes.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No I can't. I gotta pick up Elaine. I'm taking her to this Kennedy auction.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Leo",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, once I didn't have dinner until, like 9:00 o'clock, that was pretty rough.  Hey, do me a favour will ya'? Throw out my garbage for me.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't need to do it. It's not like a habit or anything.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Puddy",
+        "Newman"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "So it's like going to Idhao and eating carrots. I like carrots, but I'm in Idhao, I want a potato.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I really don't wear the kind of shoes that have to be cobbled.",
+      "characters": [
+        "Elaine",
+        "Naomi",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was on CNN  This Chinese doctor Zeng Zau. has discovered a cure for baldness.",
+      "characters": [
+        "Steinbrenner",
+        "Newman",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was chewing gum with Lloyd Braun, and he was bragging about the peepshow you gave him at the Alex.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

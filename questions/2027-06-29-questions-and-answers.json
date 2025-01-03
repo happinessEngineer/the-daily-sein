@@ -1,0 +1,106 @@
+{
+  "gameNumber": 907,
+  "date": "2027-06-29",
+  "questions": [
+    {
+      "quote": "Slippery Pete, Kramer tells me you are one hell of a rogue electrician. And shlomo, you're the best truck driver.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. One second sweetheart. Jerry, I really think it'd be easier if you didn't tuck.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Have you noticed anything else that's different since the new management?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Owen March, prominent author and essayist suffered a stroke yesterday in the upper West Side apartment of a friend.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you insane? Jerk store, woulda smoked that guy! Smoked him, I say.",
+      "characters": [
+        "George",
+        "Abby",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Newww tuxedo. For the Pinstripe Ball. Steinbrenner is throwing a huge party at Tavern on the Green, heh!",
+      "characters": [
+        "Daphne",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Look, see. I still have my business card.  Yeah, we've been on strike for 12 years.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "…OK, I'm tellin' you right now - if your kiddin' around I'm not gonna be able to be your friend anymore. I'm serious about that. You got that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't pick up anything with these! There's no absorption!",
+      "characters": [
+        "George",
+        "Harold",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Kramer says it's up to the cat now.  It'll be on your conscience.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Matthew",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

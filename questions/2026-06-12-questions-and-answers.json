@@ -1,0 +1,106 @@
+{
+  "gameNumber": 525,
+  "date": "2026-06-12",
+  "questions": [
+    {
+      "quote": "Because I like this one!  C'mon, let's go. Let's go!  Oh, hi..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh it's a thing where they auction off dates with bachelors for charity.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Ping",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, you oughta go down there and help him out. He's a widower.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're really helping me out with this, buddy. Kids are gonna be so thrilled.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, come on. If my mother keeps shrinking, this is exactly what she's gonna look like in ten years!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey who's your barber, eh? You tell the joke, I cut the hair.",
+      "characters": [
+        "Elaine",
+        "Enzo",
+        "Kramer",
+        "Morgan"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "All right, don't panic. Let's just decide now. Which one do you want?",
+      "characters": [
+        "Mickey",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "I don't know how we did it, but there's some kind of chemistry between us, we turned out one hell of a catalog.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Alton"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, she was on his right side. He can't make a move with his left hand. Can't go left.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Dana",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm sorry. I gave you gonorrhea because I thought you'd have fun with it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

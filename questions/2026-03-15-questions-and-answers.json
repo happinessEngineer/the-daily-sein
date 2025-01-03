@@ -1,0 +1,106 @@
+{
+  "gameNumber": 436,
+  "date": "2026-03-15",
+  "questions": [
+    {
+      "quote": "It's been known to happen....... telling you right now Elaine, this guy 's gonna dangle that dress in front of you like a dirt farmer dangles a carrot in front of a mule.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Got lucky. Come on, Elaine, let's take a ride, I was about to pop in some Verdi.",
+      "characters": [
+        "Doris",
+        "Wilhelm",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "No! No! You had wooden teeth! You had wooden teeth! I didn't have wooden teeth, you did!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wow, … god! You see this is all I think about. Sleeping with a giant. It's my life's ambition.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Want, want? What could I possibly want? Uh, I just came because I, I heard so many nice things about you from George.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's been locked up for two years. She's gonna want to make up for lost time. Dinners. Movies.  Talking...",
+      "characters": [
+        "Heather",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, it's all right. I had a friend who had rabies once.  May I have one of those, madam?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Lois"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The guy who pitched him the show with the stories about nothing.  Jerry Seinfeld. Jerry Seinfeld's friend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Do not bend\".  Just crease, crumple, cram.. you'll do fine.  Hello?.. This is he. I don't understand.. very well.",
+      "characters": [
+        "Wilhelm",
+        "Audrey",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "There, you see. She's already in a bad mood. She just got fired.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Regis"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 741,
+  "date": "2027-01-14",
+  "questions": [
+    {
+      "quote": "And now I think she might really be interested in you. And Dan is",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Hey, you know, I gotta go get these tomatoes. You wanna go for a ride?",
+      "characters": [
+        "Bob",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What I do? You are one of my favorite ball players of all time",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We did! We pulled it off! I can't believe it! Where's the needle?",
+      "characters": [
+        "Jerry",
+        "Mel",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "No, too relationshippy. She opens it up, she hears that Laura's theme, I'm dead.",
+      "characters": [
+        "Toby",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, he uh, he wants to uh, quit the exporting and uh, focus just on the importing. And it's a problem, because she thinks the exporting is as important as the importing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Was that the ... opposite ... of what you were going to say, or was that just your natural instinct?",
+      "characters": [
+        "Elaine",
+        "Sylvia",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now when you took a sip, did you notice it was hot? Were you able to sip it in your normal fashion?",
+      "characters": [
+        "Gary",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You gotta get back together with Puddy so I can make this deal.",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you looking at?  Oh, that! We had to leave that outside, last night, because the water was making the room too cold.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

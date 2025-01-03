@@ -1,0 +1,106 @@
+{
+  "gameNumber": 65,
+  "date": "2025-03-09",
+  "questions": [
+    {
+      "quote": "So she wanted you to come up, but you left because you thought some guy might be calling you?!",
+      "characters": [
+        "George",
+        "Leslie",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wha...? Oh, man! Geez! Look at that! I'm all lathery. Jerry, you got to show me what I'm doing wrong.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Betsy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Well, would you look at that.  I guess I forgot to lock it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mmm, gorgeous, exquisite town. So, what's happening with your apartment?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So I guess it's fair to say you've set different goals for yourself than say, Thomas Edison, Magellan, these types of people.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "WHAT ARE YOU LOOKIN' AT? NEVER SEEN A KID IN A BUBBLE BEFORE?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Donald"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "All right. If you refuse to grow up and scam your insurance company, you'll have to work this out with maroon Golf.",
+      "characters": [
+        "Mike",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So there you are. You've got a nice girl and a clean apartment.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's amazing how shopping makes me have to go. All I have to do is walk into a department store and it's like some kind of horse laxative just kicked in.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm going out with her tomorrow, she said she had some errands to run.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

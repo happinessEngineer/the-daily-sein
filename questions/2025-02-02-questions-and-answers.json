@@ -1,0 +1,106 @@
+{
+  "gameNumber": 30,
+  "date": "2025-02-02",
+  "questions": [
+    {
+      "quote": "Uh, excuse me.  Excuse me.  This--This is not right. May I?  You see, you're going: \"They fooled *me* Jerry!\"  You wanna hit 'fooled' more: \"They *fooled* me Jerry!\". You see the difference?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you understand? It's not about him. To have a line as perfect as 'jerk store' and to never use it. I, I couldn't live with myself.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I felt bad about the spying, so you know, ,I got them tickets to the show.",
+      "characters": [
+        "Hanke",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's uh, KL5-8383. Are you calling them soon because, they keep very strange hours.",
+      "characters": [
+        "Russell",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...and then the ball hits him in the head and he falls right over the railing!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You have to realise this has not been custom-fitted to his scalp.",
+      "characters": [
+        "Salesman",
+        "Steinbrenner",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Well, it's my business now. Look, I stuck up for you. Man, if he catches you, we're both out.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know. The only way to fix it now, is to get a whole new photo of Kruger.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Rudy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They made me buy it.. A hundred bucks this thing cost me.  How dare they?! I got news for you, if it wasn't for the toilet, there would be no books.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe I should just go anytime I get the urge like you...wherever I am. There's too much urinary freedom in this society. I'm proud to hold it in. It builds character.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Manny"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

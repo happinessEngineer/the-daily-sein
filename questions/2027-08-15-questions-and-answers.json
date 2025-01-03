@@ -1,0 +1,106 @@
+{
+  "gameNumber": 954,
+  "date": "2027-08-15",
+  "questions": [
+    {
+      "quote": "Five seconds. Jerry, I was five seconds away from breaking up with him. Five seconds. The next words out of my mouth were, 'Owen, it's over.'",
+      "characters": [
+        "Hal",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, he's always been jealous of me. I always get to stand in for the bigger stars; The Cosby Kids, Ricky Schroder, Macaulay Culkin.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mickey",
+        "Poppie"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Again with the checked out. I'm not going to the doctor. If I don't to the doctor, then nothing will happen to me. If I go he might find something.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talkin' about? It's fine, I love having you here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's a lot of pressure.  Make love to me.  What am I, in the circus? What if I can't deliver?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, how come we played at this crummy place instead of your club?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You? What about me? I got the Tonight Show tonight. I'm gonna have to shower in the dressing room.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe if I didn't have so many people in my apartment all the time I'd be able to get some work done.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ade",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know.  Just, things seem a little more exciting when you're around. That's all.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, yes. Uh uh, Doctor uh, Reston, is he in? Well, this is Kramer and uh, he's expecting my call.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

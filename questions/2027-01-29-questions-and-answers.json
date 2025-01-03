@@ -1,0 +1,106 @@
+{
+  "gameNumber": 756,
+  "date": "2027-01-29",
+  "questions": [
+    {
+      "quote": "But of course you know I would. I would do anything for you. Anything.",
+      "characters": [
+        "Newman",
+        "Jimmy",
+        "George",
+        "Eva"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "It's great! It speeds up the intimacy level. It's like putting the relationship in a time compressor. Where we would be six months from now we accomplish  three days.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mr Wilhelm, uh, this is Lafarge in payroll. Uh, there's a Costanza here, says he's working on some project?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Oh well. Let me perfectly blunt. I don't care for you Costanza. You hang out at the west side of the building with Seinfeld all day and just it up wasting your lives.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "That?s the way it was, you know. You listen to the language, its got that sing songy quality. It?s the language Jerry, the language",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can't just walk into a building and say \" I wanna be a talk show host.\"",
+      "characters": [
+        "Jerry",
+        "Rita",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Vote for Kramer.  Cosmo Kramer. I'm running for condo president. I'd like your vote. Thanks.  Remember, ma'am, a vote for me, is a vote for Kramer.",
+      "characters": [
+        "George",
+        "Lena",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh conductor. He conducts the Policeman's Benevolent Association Orchestra.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well Kramer, I have to return this test. I've got to get out of here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He could have said: \"Thank you, I like it too\" and put it back in his pocket.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

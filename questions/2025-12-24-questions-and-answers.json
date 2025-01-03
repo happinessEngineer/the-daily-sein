@@ -1,0 +1,106 @@
+{
+  "gameNumber": 355,
+  "date": "2025-12-24",
+  "questions": [
+    {
+      "quote": "Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I'll zip in, \"How do you do?\", zip out. She'll love me.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I've been thinking, why is Kramer getting twenty-five percent?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Look, let me just state for the record, I think you're both better than me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, Yeah. Well, now that we understand each other -- I'll be taking my business elsewhere. And I want my mother's fur coat back too.",
+      "characters": [
+        "Raymond",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't win. You can't beat me. That's why I'm here and you're there. Because I'm a winner. I'll always be a winner and you'll always be a loser.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Marla",
+        "Levitan"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "Have you given any more thought to what we talked about? You know, moving in?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Howbout this, come one down to Leapin' Parry's if you can beat our prices, we'll give you the store.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, just great. I found out that Vivian has some kind of medical problem and if the worst happens she wants me to take care of Jimmy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Fred",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The mother of all mail days. And guess who signed up for the truck.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

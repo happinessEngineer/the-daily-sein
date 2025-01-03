@@ -1,0 +1,106 @@
+{
+  "gameNumber": 468,
+  "date": "2026-04-16",
+  "questions": [
+    {
+      "quote": "I wish that was all needed. Life can be so confusing. I..I'm searching for answers, anywhere.",
+      "characters": [
+        "George",
+        "Hal",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. Jerry, You know what just hit me? I was thinking -- What size suit are you?",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Long Island?!?! I thought I was gettin' advice from a Chinese woman!!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Estelle",
+        "Conrad"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Then we ended up going out to lunch and he had some great gossip about James Thurber.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excuse me... we've been waiting here. Now, I KNOW we were ahead of that guy, he just came in.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Ray",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Every time I leave my house now I have to call everybody I know and ask them if they want to do what I'm doing?",
+      "characters": [
+        "Wendy",
+        "Kramer",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why do they call it Ovaltine? The mug is round. The jar is round. They should call it round tine. That's gold, Jerry! Gold!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Good.  Oh--and Elaine. You know the Baltimore cap you got in your office? Wear it. I'm gonna have a little fun with him.",
+      "characters": [
+        "Lippman",
+        "Owner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh hey, you know I invited Mike Moffit. You don't mind, do you?",
+      "characters": [
+        "Kramer",
+        "Ray",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Can't it? Or is your entire world just crashing down all around you?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

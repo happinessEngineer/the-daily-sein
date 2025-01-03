@@ -1,0 +1,106 @@
+{
+  "gameNumber": 278,
+  "date": "2025-10-08",
+  "questions": [
+    {
+      "quote": "Okay.  Hello.  Listen, thanks again for coming last night. Dad said he had a great time.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Donna",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean really, what's the point of saving it? I could see if I had a mantel.",
+      "characters": [
+        "Frank",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry, can you hold on a sec? I just want to check my messages..  Oh, Melissa! Kim!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Ellen"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "All right, I?ll tell you what I?ll do. Cause you look like a nice guy, a thousand dollars for the duce.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's a, it's a stony mineral concretion, formed abnormally in the kidney. And this jagged shard of calcium pushes its way through the ureter into the bladder. It's forced out through the urine!",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about you, what are you in for?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, this is very advanced. We've designed at set of rules that we can maintain the friendship by avoiding all of the relationship pitfalls.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ping",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What kind of a therapist are you? I'm telling I'm scared that something terrible is gonna happen to me, right away you start looking for tumors?",
+      "characters": [
+        "George",
+        "Dana",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is an emergency, what's taking so long?  Wait a second, maybe that's them.  Hello?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, there were too many people in the room, we couldn't keep track of everybody. George, and the butler, and...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

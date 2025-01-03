@@ -1,0 +1,106 @@
+{
+  "gameNumber": 919,
+  "date": "2027-07-11",
+  "questions": [
+    {
+      "quote": "Hey, get out of here...hey officer, he's fooling around back here.",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, like it's just part of the conversation. \"Oh my boyfriend really likes watches. He's a real watch freak.\" We-e-ell that's fabulous.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Michael",
+        "Worker"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh God. I lost a button, so my blouse was wide open. I musta left it at the theatre.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Dublin. Originally. Parents came over here when I was eighteen. Cereal famine. Couldn't get a bowl anywhere. Bad. 'Tis a beautiful country though; lush rolling hills, and the peat, ah the peat.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, there's not really much to tell, you know, he's just a guy, Really.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What the *Hell* is going on here? How do you *lose* a human being?!",
+      "characters": [
+        "Tim",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Well, after ordering, Mr. Seinfeld and Mr. Costanza debated on whether or not iron man wore some sort under garment between his skin and his iron suit…",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Darren"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Absolutely not. I mean, what are you thinking about, JERRY:? Marriage? Family?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She calls me this morning and tells me she's upset I didn't console her. I mean it was \"Beaches\" for god's sake. What, what do you do in a situation like that?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget about Elaine. Let's just focus on us. Come on, big hug.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

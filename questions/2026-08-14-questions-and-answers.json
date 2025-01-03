@@ -1,0 +1,106 @@
+{
+  "gameNumber": 588,
+  "date": "2026-08-14",
+  "questions": [
+    {
+      "quote": "Anna. I don't recall seeing you around the office. Do you work in the mail room?",
+      "characters": [
+        "Jerry",
+        "Lisi",
+        "Anna",
+        "George"
+      ],
+      "correctAnswer": "Anna"
+    },
+    {
+      "quote": "Hello, yes, I called for an ambulance like thirty-five minutes ago.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry if you have something to do we could just sit right here and read.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Oh yeah the nipple. But besides that. How did you feel about Kramer's work?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, I'm alright. Oh, by the way, the car hit a pothole and now it's making a clanking noise.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Shelly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's Kramer isn't it? I knew it!  The greasy door knob the constant licking of the fingers, he's hooked to the chicken isn't he?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I couldn't have dinner with him. 'Plan 9 from Outer Space', one night only, the big screen. My hands are tied!",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That poor priest. He was just visiting from El Salvador. Now he's gone completely loco.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So I'm sitting there with Woody and I say, I turn to him and I go, \"Boy, these pretzels are making me thirsty.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He doesn't have to say anything, he just has to sit there. I'm playing a detective.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "Mickey"
+    }
+  ]
+}

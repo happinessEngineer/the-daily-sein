@@ -1,0 +1,106 @@
+{
+  "gameNumber": 51,
+  "date": "2025-02-23",
+  "questions": [
+    {
+      "quote": "Turn it off. You're making me jealous. I'm gonna think you like her more than you like me.",
+      "characters": [
+        "Susan",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No, no, no, it's... \"She's not really dead if we find a way to remember her.\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "All",
+        "Abby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. That's more like it. Thank you very much.  By the way, my uncle was an alcoholic, so...",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They were, but they're being absorbed by Matsushimi, that big Japanese conglomerate.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, maybe I need somebody who has nothing, somebody who just has to appreciate being with me because he's so desperate.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Cynthia"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "...uh, Jerry, I think he broke my toe.  W-Where're you going?",
+      "characters": [
+        "Voice",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Not only that but at the hotel they opened up this area on the beach for nude bathing and all of the Sports Illustrated models went down there.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now, the ending is kind of an option. I use the swirl. I like the swirl. I'm comfortable with the swirl. *I* feel the swirl is a great capper. He uses the pinch, which I find a little presumptuous.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He'll be in with the X-Rays in a few minutes. You can get dressed.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Nurse"
+      ],
+      "correctAnswer": "Nurse"
+    },
+    {
+      "quote": "Ah, just a couple of gals out on the town, shopping and gabbing.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 299,
+  "date": "2025-10-29",
+  "questions": [
+    {
+      "quote": "Look, who are you kidding? You come up to my apartment with your table and your little oils, and I'm not supposed to expect anything? You're a massage teaser.",
+      "characters": [
+        "Elaine",
+        "Melissa",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And what about yooou?!?  Tryin' to bilk an innocent bystander out of a family fortune, built on sweat and toil, manufacturing quality O'Henry candy bars, for honest, hard-working Americans!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Jerry, I'm sorry, I'm uh- you have insurance, right buddy?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jane",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Todd",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care..",
+      "characters": [
+        "Kramer",
+        "Cindy",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, now I know. Should I keep going or turn around, do you have a preference?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "What about Thursday night? I mean they're playing the Sonics.",
+      "characters": [
+        "Elaine",
+        "Joel",
+        "Salesman",
+        "Jerry"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Mr. Peterman, you have my deepest sympathies. Unfortunately, I've gotta get going.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ugh. You wouldn't believe it. My boyfriend dumped me. My friends, who I don't even like, they won't talk to me.  All because I don't like that stupid English Patient movie.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello Jerry. Well, I may have a solution to our little problem. Elaine, would you excuse us?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

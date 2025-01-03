@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1063,
+  "date": "2027-12-02",
+  "questions": [
+    {
+      "quote": "The type that doesn't return phone calls. I knew we shouldn't have done this, it was a bad idea in the first place, I told you!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's like watchin' a couple of hyenas goin' through the garbage.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Sure, Beth, these things happen.  So, have you told many.. people yet?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I'm helping my parents move into their new condo. I'm gonna be busy.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, let's uh, change the subject, ah.  Now, uh you and uh, Jerry dated for a while. Tell us ah ... what was that like?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's all there is to it. By Christmas day I will be Brother Costanza.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was just trying to be supportive, you know. I knew you were upset.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boxers! How do you wear these things!! Look at that--they're baggin' up, they're rising in! An' there's nothing holding me in place! I'm flippin'! I'm floppin'!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well ,what happens when you show up . He'll see that you're not.?\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Donna"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe it just wanted to change positions? You know, shift to the other side.",
+      "characters": [
+        "Jerry",
+        "Waiter",
+        "Elaine",
+        "Ned"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

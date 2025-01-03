@@ -1,0 +1,106 @@
+{
+  "gameNumber": 857,
+  "date": "2027-05-10",
+  "questions": [
+    {
+      "quote": "Erika is gonna meet me here, now we're gonna find out the truth",
+      "characters": [
+        "Kramer",
+        "Captain",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "An' wait'll you see the dress that she's got. It's backless! Uh?! I'm finally gonna make a Great Entrance!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now, I should tell you… that, at this point, she's under the impression that you're - a - ah…",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh it be.  You got any other friends you want to set me up with?",
+      "characters": [
+        "Kramer",
+        "Gina",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey! George, Janet looks very nice and she's quite a handsome woman.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Tony"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no... Just a *tiny* bit... It's not even *frontal* nudity. It's... *sidal* nudity...",
+      "characters": [
+        "George",
+        "Enzo",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright if you think it's too much they don't have to mail the postcards.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you, my friend, have crossed the line that divides Man and Bum. You are now a Bum.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who cares about eyebrows? Is she sweet? I like sweet. But not too sweet, you could throw up from that.",
+      "characters": [
+        "Earl",
+        "George",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's her mistake. Because she is going to miss the party of a lifetime.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Joyce"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

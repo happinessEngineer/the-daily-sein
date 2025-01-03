@@ -1,0 +1,106 @@
+{
+  "gameNumber": 7,
+  "date": "2025-01-10",
+  "questions": [
+    {
+      "quote": "My parents. It's their anniversary. I'm taking them out to dinner and a show tonight. You think we'll hit traffic?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it's a cake party. It's the third one today. I didn't realize how hooked I got on that 4:00 sugar rush.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Joe"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So it was a good party, huh? Oh... you're welcome, you're welcome...  They loved the TV, *loved* it!",
+      "characters": [
+        "Jane",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because, it's part of our relationship, it's an indication of trust. We're not supposed to keep secrets from one another.",
+      "characters": [
+        "Susan",
+        "Ramon",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Okay, well, he had this idea of a pizza place where you make your own pie!",
+      "characters": [
+        "Kramer",
+        "Ray",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on.. Come on. Yes!  There's one!  I wish I don't drop dead!!",
+      "characters": [
+        "George",
+        "Man",
+        "Brody",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, we don't have any in stock right now but I would be happy to order it for you. Just give me your phone number and when it comes in I'll give you a call. You're name is?",
+      "characters": [
+        "Stationer",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Stationer"
+    },
+    {
+      "quote": "Well, it's these people-- they go swimmin' in the winter. They're terrific, I just took my first swim today. Brrrrrrr! It's invigorating....",
+      "characters": [
+        "Kramer",
+        "Steve",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I know, but I can't drive anybody anywhere until I go down to the motor vehicle bureau and get my new plates.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that woman had it coming to her. Look at my neck, it looks like I had a beard of bees!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 909,
+  "date": "2027-07-01",
+  "questions": [
+    {
+      "quote": "Yeah, me too. Well, you can't expect to just forget the past completely.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Ruby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The second time I sent the noodles back, I tought she made a face...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "These dogs were chasing me. And no cab would stop and I had to get off the street. Then I remembered that you lived here.",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, I'm waiting. I-I want to see the pig-man. Show me the pig- man.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is the only time this year we'll be asking for donations. You've been enjoying Ken Burns' Baseball-",
+      "characters": [
+        "George",
+        "Elaine",
+        "Maestro",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, God - my nephew.  Hi, Gail!.. Yu.. yu... Yes, Gail, I know how old he is.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Gladys",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I understand, no hard feelings. George and I will miss your company. Fong? It will just be two this evening. George, we dine.",
+      "characters": [
+        "Waiter",
+        "Peterman",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yeah. Th-That's why I where these sneakers, in case of any trouble -- Zip, I'm gone.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, take it! Take it!.. An' stop calling me \"Nip\"!  It was an accident! Well.. well.. it's gotta be somewhere. Look under his mattress.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright the administrator's on the third floor. I'll meet you guys back at the car.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Guy",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

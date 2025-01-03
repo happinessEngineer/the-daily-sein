@@ -1,0 +1,106 @@
+{
+  "gameNumber": 764,
+  "date": "2027-02-06",
+  "questions": [
+    {
+      "quote": "Don't you find it odd that as soon as he leaves, the couch gets stolen? Maybe he's setting me up!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah. Like last summer. I'm watchin' TV and I saw one of those jet-skis. $4000 later and it's sitting in my garage.",
+      "characters": [
+        "Kevin",
+        "Kramer",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "All right, it is cavity time. Ah, here we go. Which reminds me, did you here the one about the rabbi and the farmer's daughter? Huh?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Tim",
+        "Kramer"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "But we can't both get pancakes, it's embarrassing. It's like one step from the couples who dress alike.",
+      "characters": [
+        "Michael",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's my neighbor. They blast that stuff twenty four hours a day. I hate it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Darryl"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Aw right. I know I've been shooting off at the mouth lately; First with that girl whose life you destroyed and.. emm...about George dating a lady Jerry",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know, It's interesting, you know, under that pressure, what you're capable of.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Landlord"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Number one. Take her leg.... Oh, my god! Crib notes? You've got crib notes?!!",
+      "characters": [
+        "George",
+        "Pitt",
+        "Nancy",
+        "Jerry"
+      ],
+      "correctAnswer": "Nancy"
+    },
+    {
+      "quote": "I'll get him to see a real doctor. You just stay away from this.",
+      "characters": [
+        "Jerry",
+        "Man",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I don't know how much longer I can keep this up. They're starting to give Susie assignments now!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

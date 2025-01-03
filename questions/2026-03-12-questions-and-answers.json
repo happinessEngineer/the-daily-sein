@@ -1,0 +1,106 @@
+{
+  "gameNumber": 433,
+  "date": "2026-03-12",
+  "questions": [
+    {
+      "quote": "No it's true. This woman saved my life. I was crossing the street .I was almost hit by a car...and then we talked and.......the whole thing just seemed like a dream.",
+      "characters": [
+        "Waitress",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, uh, I'm looking for a Rollamech 1000 mechanical pencil.",
+      "characters": [
+        "Stu",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So you're gonna show up at that party with a chewed-up pencil and Kramer's gnarled arm.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thanks, buddy. Oh... yes! Hey, you got any A1, 'cause I'm cooking a steak.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Ron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe I put it out on your face!  It's just like Ray said. You and Jerry are jealous of our love. You're trying to destroy us.",
+      "characters": [
+        "George",
+        "Milos",
+        "Rava",
+        "Toby"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "Well, George, I just want you to hear me say to Anna that you're a good and decent person.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, she left. Listen, you can't mention any of this to Elaine. Cynthia will kill me, we made a deal.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So what?! She is talking about my shoes! She is discussing my shoes! It is nobody's business where I buy my shoes!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is what I like, see? You come home and your parents are in your bed!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah!..tha..that's right. that That's what led to... Billy Mumphrey's downfall.",
+      "characters": [
+        "Elaine",
+        "Gladys",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

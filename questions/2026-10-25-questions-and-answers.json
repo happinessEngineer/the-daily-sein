@@ -1,0 +1,106 @@
+{
+  "gameNumber": 660,
+  "date": "2026-10-25",
+  "questions": [
+    {
+      "quote": "Right there, guys. That's perfect. Ah? Whatta ya think, Lainie?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What do you have to go underwater for? What's down there that's so special?",
+      "characters": [
+        "Helen",
+        "Glenn",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "It's Risk, Jerry.  The game of world conquest.   Alright, that's perfect.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean I can't shake this woman. You know, now I have to go to Jimmy's birthday party.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why does he want to hold a rope underneath Woody Woodpecker in the Thanksgiving Day Parade?",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "HE's not gonna eat them. He's buying 'em for his Pepsi girlfriend.",
+      "characters": [
+        "Elaine",
+        "Seth",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh ho! Class, huh? At Columbia? Let me tell you something, pal. I called the registrar's office. I checked you out. They have no record of a Ray Thomas at that school! You liar!",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This show looks interesting. Isn't he that Seinfeld fellow you went out with?",
+      "characters": [
+        "George",
+        "John",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "Don't be so sure. Look at George - he's on his ninth date with Betsy, he still hasn't gotten anywhere with her.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure, it's like robbing a bank. You don't loiter around in front of the teller holding that big bag of money. You come in, you hit and get out.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 513,
+  "date": "2026-05-31",
+  "questions": [
+    {
+      "quote": "Maybe you could have sex with her again and then take it back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not that it was that nice of a jacket. I mean it didn't fit him that well. To me there's just something about a monster in a blazer. It shows at least he's making an effort.",
+      "characters": [
+        "Evelyn",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nah, I don't go for these non-refundable deals. I can't commit to a woman. I'm not going to commit to an airline.",
+      "characters": [
+        "Jerry",
+        "Katya",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These Kramer stories are unusable!  I mean, some of them aren't even stories!  Look, this is a list of things in his apartment!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't return fruit. Fruit is a gamble. I know that going in.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you think it's effeminate for a man to put clothes in a gentle cycle?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pamela?! Awright, I tell you what. You look like nice people, I'm gonna help you out. You want a beautiful name? Soda.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I always tell everybody about you. Tell everybody to  GO SEE HIS SHOW!  I mean, I'm your biggest fan!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Valerie",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Hey you know when Superman saves someone no one asks if he's trying to hit on her!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But, but I'm disturbed! I'm depressed! I'm inadequate! I got it all!!",
+      "characters": [
+        "Amy",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

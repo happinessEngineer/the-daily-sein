@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1141,
+  "date": "2028-02-18",
+  "questions": [
+    {
+      "quote": "Kramer! It's Silvio! Open up, I need to talk to you! I can see you through the reverse peephole.",
+      "characters": [
+        "George",
+        "Silvio",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "Kramer is actually sleeping one off, so I thought that I'd help out... what's that, some raccoon or something...",
+      "characters": [
+        "George",
+        "Carol",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, would you two stop with the Kennedys? Why does everybody make such a big deal about he Kennedys? What is this fascination?! Who cares?! It's all so boring..",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer, I'm tellin' you, Elaine doesn't know whatta hell she's doin'! I gotta take over this whole operation!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know exactly how he feels. Pleasure doing business with you. Do come again. Ha, ha, ha, ha.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Testikov",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Jerry...Jerry listen I got too much stuff this afternoon, I can't come over, forget it.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Cause I know what happened, Jerry.  Did you call Alec Berg and thank him for the hockey tickets?",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you realize in the entire history of western civilization no one has successfully accomplished the Roommate Switch? In the Middle Ages you could get locked up for even suggesting it!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, revulsion has now become a valid form of attraction.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Seth",
+        "Katie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love France,  I was just there last year. In fact, you know I still have an envelope full of French Franks, I'll give 'em to ya.",
+      "characters": [
+        "Aaron",
+        "Captain",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Aaron"
+    }
+  ]
+}

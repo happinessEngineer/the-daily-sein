@@ -1,0 +1,106 @@
+{
+  "gameNumber": 307,
+  "date": "2025-11-06",
+  "questions": [
+    {
+      "quote": "You know Jack, you've got a hell of a nerve taking that kid's pen.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Salsa, seltzer. Hey, excuse me, you got any salsa? No, not selzer, salsa.  What's the matter?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They wish. I hate the big broker-houses. Hate them with a passion. Big broker-houses killed my father.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that report was about *one* very specific type of retractor and I can assure you we do not use that retractor in your friend's procedure.",
+      "characters": [
+        "Doctor",
+        "Peterman",
+        "James",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I suck'em down like Coca-Cola. Well here's to feeling good all the time.  Looks like you've got yourself a little cold there, eh fella?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mon...? No, no, I can't wait til Monday, that's impossible, I gotta talk to him now. Where does he live?",
+      "characters": [
+        "Silvio",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Carlo! It's me, Frank!  I'm your cousin, Frank! Aren't you Carlo?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I mean, it's like the biggest event of your life! You'd think you'd have, like, 6 alarm clocks, payin'-off little kids in the village to come banging on your door...",
+      "characters": [
+        "Doctor",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I don't know...I just like sitting to the left of people, makes me feel like I'm driving.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

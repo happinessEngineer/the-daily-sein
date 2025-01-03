@@ -1,0 +1,106 @@
+{
+  "gameNumber": 245,
+  "date": "2025-09-05",
+  "questions": [
+    {
+      "quote": "Well, you know Jake, you should learn to use them. Like the way I'm talking right now, I would put an exclamation points at the end of all these sentences! On this one! And on that one!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Gina"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine? Guess what. I've decided to Form a Charitable Foundation, in Susie's honor. And as Susie's best friend, I want you to be involved.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "No!!! The reason he's the iron man is because he goes out there and plays every game. Wash!!! Spin!!! Rinse!!! Spin!!! You take that away from him, you break his spirit!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look Ramon, you're, you're a nice guy. But I, I actually only have three friends. I really can't handle any more.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Leo",
+        "Fred"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He went crazy from one note. He couldn't get it out of his head. I think it was an A. He kept repeating it over and over again. He had to be institutionalized.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I tell you. If you were hitch-hiking, you'd never get into a car with someone with a hairdo like that.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, alright, fine.  You sit there and you watch while Newman takes over the world.  But he'd be a horrible leader.  And you know who's gonna suffer?  The little people; you and George.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "Father"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ohh boy. Well, I gotta meet Elaine and run some errands. So..",
+      "characters": [
+        "Hanke",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it's nice to meet you. Well, I'm outta here, see you guys.",
+      "characters": [
+        "Fred",
+        "George",
+        "Kramer",
+        "Babu"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "Excuse me.  Doris would like to borrow red your pocketbook to go with her shoes.  The shoes have to match the pocketbook.  What's she doing? Yoga?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jack",
+        "Waiter"
+      ],
+      "correctAnswer": "Jack"
+    }
+  ]
+}

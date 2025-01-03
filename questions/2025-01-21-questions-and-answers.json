@@ -1,0 +1,106 @@
+{
+  "gameNumber": 18,
+  "date": "2025-01-21",
+  "questions": [
+    {
+      "quote": "I'm not goin' there. Didn't he get busted by the Board of Health?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Cheryl",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know at the movies, they show that little ad for the concession stand?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh. another interesting confrontation. This could be spicy. Yeah, George bring him over.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Bookman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No he's not right. Al Netchie is not right! Alright I'm canceling the father-son picnic. I don't know what he's gonna do with all that potato salad.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you think that's coming on a little too strong? .. Isn't that like a turn off?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey keep your hands to yourself if you know what's good for you.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Brett",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes he can. He controls the means of production. What are you going to do Jerry?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Lois",
+        "Rita"
+      ],
+      "correctAnswer": "Lois"
+    },
+    {
+      "quote": "No! You couldn't wait to get back to your little... \"conversation\".",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Course you know there is always the possibility, that she called an audible.",
+      "characters": [
+        "Jerry",
+        "Regis",
+        "Stu",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So three dates and she still won't let me play with her toys.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

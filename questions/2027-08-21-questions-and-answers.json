@@ -1,0 +1,106 @@
+{
+  "gameNumber": 960,
+  "date": "2027-08-21",
+  "questions": [
+    {
+      "quote": "A physician married to a salesman.  Well, I gotta tell you, Beth, you coulda done a lot better than him.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, splendid. Welcome to the Institute for the Preservation of Motion Picture Costumes and Wardrobe.",
+      "characters": [
+        "Emily",
+        "Dan",
+        "Kramer",
+        "Haarwood"
+      ],
+      "correctAnswer": "Haarwood"
+    },
+    {
+      "quote": "How are you gonna get something and get back on the train in time?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, it bothered me. So I bought a pair of shoes at Botticelli's, I'm not allowed to shop there? That really embarrassed me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Fred"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, we're discharging the squirrel. We think he'll be better off at home.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Mr. Kramer…Dean, my internship is on line two, she wants to set up a meeting.",
+      "characters": [
+        "Kramer",
+        "Corinne",
+        "Frank",
+        "Darren"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Well, you're not going to walk down the street with me and my daughter dressed like that. That's for damn sure.",
+      "characters": [
+        "Corinne",
+        "George",
+        "Elaine",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "You know, you should tell your dad that 'serenity now' thing doesn't work. It just bottles up the anger, and eventually, you blow.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Well, I got my troops amassed along the border - I'm just waiting for someone to give me the go-ahead.",
+      "characters": [
+        "Doctor",
+        "Sally",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let's just try, an' have a nice time for once, an' we'll talk about this when we get home..",
+      "characters": [
+        "Elaine",
+        "Loretta",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

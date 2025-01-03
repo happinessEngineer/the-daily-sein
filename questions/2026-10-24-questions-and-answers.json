@@ -1,0 +1,106 @@
+{
+  "gameNumber": 659,
+  "date": "2026-10-24",
+  "questions": [
+    {
+      "quote": "Second of all, Jerry Seinfeld - big or little - doesn't go down for anyone, anywhere, at anytime! Now I'd appreciate it if you please leave.",
+      "characters": [
+        "Sid",
+        "Donna",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course. Of course it got done. Things get done all the time, I understand.  Don't worry, your job'll be waiting for you when you get back.  Get better George. Get better!",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I still don't see why you wouldn't eat me. I'm your best friend.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm just getting warmed up. Because I'm just a sadist with newer magazines.",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "George, I want you to promise me something. If I'm ever in a comma. In the first 24 hours get everything out of my apartment and put it in storage.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, you just tell him ah, an old boyfriend has come back into your life.",
+      "characters": [
+        "George",
+        "Tony",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Danielle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How about when Harrison Ford jumped out of that plane, and he was shooting back at them as he was falling?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't know that he'd fall for me and I'd drive him insane. I mean, you know, that's not my fault.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Shelly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you",
+      "characters": [
+        "Newman",
+        "Eva",
+        "Jerry",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jimmy"
+    }
+  ]
+}

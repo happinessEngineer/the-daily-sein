@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1061,
+  "date": "2027-11-30",
+  "questions": [
+    {
+      "quote": "Excuse me, I gave you a twenty dollar bill and you only actually gave me change for a ten.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You got your own shampoo, conditioner, body lotion! Jerry, body",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kelly",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, so what? You're gettin' a deal, right? We'll split it three ways.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She wants to be an actress...or a, uh, model...or a dancer...or a...news woman.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "James"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, let me ask you a question. You met margaret. Doo you think Margaret's good looking? Um, she's a natural beauty. Oh, no makeup. I like that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Celia",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ga, of course you can't, you poor sap! Now why didn't you tell me?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You went to the coffee shop without me? I told ya, I just wanted to hop in the shower.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Earl",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who's gonna send money to my sister in Virginia? Her little boy needs surgery on his foot. Now he'll be walking around with a limp because you can't park a few cars.",
+      "characters": [
+        "George",
+        "Sid",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Mister Fowler, I-I have a squirrel here that is a miracle of modern science!",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well today's almost over. And weekdays always go by fast. Friday we're leaving. It's like two days really. It's like a cup of coffee. It will go by like that.",
+      "characters": [
+        "Kramer",
+        "Father",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

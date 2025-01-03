@@ -1,0 +1,106 @@
+{
+  "gameNumber": 879,
+  "date": "2027-06-01",
+  "questions": [
+    {
+      "quote": "Mrs Seinfeld, please. I am begging you. Put the air conditioner on.",
+      "characters": [
+        "Cynthia",
+        "Elaine",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I still want to know what happened to that birthday card? Now, Morgan, did you ever sign it?",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Yeah, I just wanna run and get a beer. I'll be back in a minute.",
+      "characters": [
+        "Helen",
+        "Doorman",
+        "Kramer",
+        "Steven"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Yeah, too bad he didn't get shot. He could have been the one.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aw, c'mon Kramer, this is ridiculous. I'm not gonna put these on.",
+      "characters": [
+        "Gino",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah no no no no no. A better way to reach the bra would be to undo the jacket, then go around the back of the shirt.",
+      "characters": [
+        "Ade",
+        "Jerry",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "Carrie, could you do me a favour? Could you not mention this to your mother?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, excuse me.    What have you been doing, I've been smacking myself senseless.  People think I'm a mental patient.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're a back-up, you're a second-line, a just-in-case, a B-plan, a contingency!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I don't really know where The Stooges are right now but if I locate them you will be the first to know.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

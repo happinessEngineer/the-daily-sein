@@ -1,0 +1,106 @@
+{
+  "gameNumber": 311,
+  "date": "2025-11-10",
+  "questions": [
+    {
+      "quote": "Could you put a little thought into this? Jerry's gone, you could humour me. He humours me.",
+      "characters": [
+        "Elaine",
+        "Maura",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who needs that misty herbal rain water crap they sell in the health food store. I use Prell, the hard stuff. Hundred proof - takes your roots out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is it, Jerry! This is it! He is such an incredible person! He's real, he's honest, he's unpretentious...oh, I'm really lucky!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Still, I bet when they gave him a plane, it was a lot nicer than this one.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, now what are we gonna do?  See? This is why you should get a fax and a Xerox.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Glenn"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": ". . . Martinez throws it over Alomar's head. O'Neill is safe at home. And the Yankees take the lead.",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "George",
+        "Lippman"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Uh, I think his answering machine's broken, so I just gave up. Well, what do you think?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mothers say things. My mother goes babbling on and on like a crazy person.",
+      "characters": [
+        "Peterman",
+        "Donna",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I still got that pen, the one that writes upside down.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    }
+  ]
+}

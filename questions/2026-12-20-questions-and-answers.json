@@ -1,0 +1,106 @@
+{
+  "gameNumber": 716,
+  "date": "2026-12-20",
+  "questions": [
+    {
+      "quote": "There's your Champagne Coolie. Well looks like it's just you and me cowboy!.",
+      "characters": [
+        "George",
+        "Ethan",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "...And usually for lunch I'll have a salad, and for dinner, I eat whatever I want.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Julianna"
+      ],
+      "correctAnswer": "Julianna"
+    },
+    {
+      "quote": "You know what you oughta do. You should go to her office and heckle her.",
+      "characters": [
+        "George",
+        "Mary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well let me put a solution for ya: do your business elsewhere, I don't want your business.",
+      "characters": [
+        "George",
+        "Joe",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Hi, Jerry I'm sorry I'm late. George and I have been up working all night long. I can make up the time in any number of ways.",
+      "characters": [
+        "Morty",
+        "Conrad",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Well, I sell insurance, but Beth used to be Don Mattingly's doctor.",
+      "characters": [
+        "David",
+        "Elaine",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Yeah! We uh, went to High School together. Didn't we Jerry? Gee I hope you're not leaving now. We still have a lot of work left to do.",
+      "characters": [
+        "Rula",
+        "Russell",
+        "Jerry",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "I am. The folks are twelve hundred miles away.  I'm basking in the buffer zone.  'Nother piece of pie here!",
+      "characters": [
+        "Frank",
+        "George",
+        "Todd",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y'know, you've been developing quite the acid-tongue lately...",
+      "characters": [
+        "Elaine",
+        "Danielle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, Simon is definitely going back now. He's meeting me here to return my keys.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Nancy"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

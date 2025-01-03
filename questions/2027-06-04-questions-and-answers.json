@@ -1,0 +1,106 @@
+{
+  "gameNumber": 882,
+  "date": "2027-06-04",
+  "questions": [
+    {
+      "quote": "I can't figure out what's going on here. I can't follow the plot. Why did they kill that guy? I thought he was with them?",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ooh, everything was going so well. She hadn't seen any flaws in me. Now she sees a side.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no no, that's no good. No, I really don't think that's a beg. No, it's close, but uh...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Pretentious!? The woman has my tax papers. You told her she was pretentious? The IRS. They're like the MAFIA. They can take anything they want",
+      "characters": [
+        "Nina",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah, and vice versa. Mother Nature's a mad scientist, Jerry.",
+      "characters": [
+        "Elaine",
+        "Chiles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, she's the costume designer and he's the wig master for the show.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "In fact, she's come up with a new one that is going to be the big new look in men's fashion.. It's a, a puffy shirt.  Well, yeah, it - it's all puffy. Like the pirates used to wear.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I hate gum. The only guy I ever liked came with the Mickey Mouse gumball machine. They stopped making that 20 years ago.",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Newman",
+        "Lou"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "You know I was watching Entertainment Tonight, and uh, suddenly I got dizzy. And the next thing I know I hit my head on the coffee table.",
+      "characters": [
+        "Chiles",
+        "Kramer",
+        "Newman",
+        "Earl"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where did I take it? Where Did I Take It?   Umm, to that place on, uh Columbus and 85th. Okay?",
+      "characters": [
+        "Elaine",
+        "Clerk",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 991,
+  "date": "2027-09-21",
+  "questions": [
+    {
+      "quote": "He's a friend of a friend. You know Corky Ramarez up on 94th Street? One day he and I are playing Pachinco--",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah yeah, we're cracking along pretty good! We're almost up to 80 degrees!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bania",
+        "Mohel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, profit. I think you'll see from the estimate that I'm not really profiting that much. They might be a little high, but..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Todd",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just, can I have my car? I wanna pay my bill, I'm gonna be on my way.",
+      "characters": [
+        "Judge",
+        "George",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeahhh, am I imagining this?  Found this little cutie in the pocket.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! But get this. Viking has a deal with the Plaza Hotel, they got a two bedroom suite, there, for out-of-town clients...So guess what I did?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This guy leaves this jacket at my mother's house two years ago. Now, she hasn't spoken to him since and now he says he wants the jacket back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Landlord",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no - I'm so sorry, it's the Moops. The correct answer is the Moops.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anything you couldn't have gotten tearing open a bag of Doritos and watching Viva Zapata?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're going to the book store to see Jake Jarmel, aren't you?",
+      "characters": [
+        "Jackie",
+        "Toby",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

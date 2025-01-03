@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1005,
+  "date": "2027-10-05",
+  "questions": [
+    {
+      "quote": "Allright, I gotta head back right away, I'll-I'll -- I gotta figure something out here.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, it's all swollen. I think I may have chipped a tooth when I fell yesterday.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, uh, take it down to the end of the block. Make a controlled turn, and bring her back. Let's see what you've got! Ok? Ready, and go!",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Kevin",
+        "Frank"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Um, do you want to do this now, or do you want to wait until we get in the car?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, if I could get this Coco woman down to Kruger, they wouldn't be able to call me Koko anymore because Kruger would never allow 2 Kokos.",
+      "characters": [
+        "Kimbrough",
+        "George",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have nothing to say to anybody. I'm so uninteresting. I think I'm out of conversation.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Seth",
+        "Owner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, one more thing about the car. Let it warm up for a minute.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well I uh got lots of other stuff to show you too. Wait till you see the plum job that I landed.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Did you ever see her lose her temper. I was once late cause I bought a Panama hat -- she grabbed it by the brim, pulled it down so hard my head came right through the top of it.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.  I am taking over South America and there ain't nothing you can do about it.",
+      "characters": [
+        "Kramer",
+        "Announcer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

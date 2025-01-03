@@ -1,0 +1,106 @@
+{
+  "gameNumber": 814,
+  "date": "2027-03-28",
+  "questions": [
+    {
+      "quote": "We could go to one of those uh cappuccino places. They let you just sit there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, it is exciting! All right, this is gonna be my new face.",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh! I made a friend when I was in Europe, okay?! And we've been in touch, and Sandra told Lippman!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Gail",
+        "Steve"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Right. I was looking for something different. Something that would have people talking at the water coolers.",
+      "characters": [
+        "Kimbrough",
+        "Jerry",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "What's going on? You're the man of the hour, That's what's going on.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell you what the big advantage of homosexuality is. If you're going out with someone your size, right there you double your wardrobe.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, she's free.  Hi, I called before, uh, my car got smashed.",
+      "characters": [
+        "Carrie",
+        "Elaine",
+        "Jerry",
+        "Hal"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Regards don't mean anything. I mean, it's not like I said hi. Hey, the fact is...  I shouldn't say anything.",
+      "characters": [
+        "Debby",
+        "Celia",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Debby"
+    },
+    {
+      "quote": "Well my buddy works in an appliance store and he got us thirty percent off.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Sorry buddy, this is the \"Hamlet\" of diseases. Severe pain, nausea, delusions, it's got everything.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mickey",
+        "David"
+      ],
+      "correctAnswer": "Mickey"
+    }
+  ]
+}

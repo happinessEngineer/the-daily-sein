@@ -1,0 +1,106 @@
+{
+  "gameNumber": 547,
+  "date": "2026-07-04",
+  "questions": [
+    {
+      "quote": "Neeson? How are you comparing Liam Neeson with Jon Voight? Jerry, we're talking about Joe Buck. If you can play Joe Buck, Oskar Schindler's a cake walk.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, do you want to go out for a walk, get a cup of coffee...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The car, which we're leaving. So the net is zero. See you pocket the money, if there is any, and you get a new car.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey the woman got you a job. The least you could do is buy her a gift. How about this?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my god. Yes, you close with the swirl. There's a progression there. I told you to write it down.",
+      "characters": [
+        "Betsy",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Son of Sam. The worst mass murderer the post office ever produced.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey, I got news for you, if we're making this movie, we gotta get a table immediately.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I jumped on the bus. I told the driver, \"I got a toe here, buddy - step on it.\"",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And basically, I just wanted to let you know that we've been discussing you at some of our meetings and we'd be very interested in doing something.",
+      "characters": [
+        "Jerry",
+        "Stu",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "I don't know, just standing there with a box, holding it by the little string.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

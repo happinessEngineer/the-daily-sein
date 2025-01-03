@@ -1,0 +1,106 @@
+{
+  "gameNumber": 984,
+  "date": "2027-09-14",
+  "questions": [
+    {
+      "quote": "I wish I was taller, that's, that's, that's nice. that's real.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? You're going to go out with my cousin Holly. You've never met her.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Deena",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, like I'm going to risk my job with the New York Yankees to make a few extra bucks.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on! I thought you're a pro! That's part of the show.",
+      "characters": [
+        "Toby",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "You know they changed the name from Hundred-Thousand-Dollar bar to Hundred-Grand?",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Are there terrorists on the plane? A hotel fire. Is that it? Malaria? Yellow fever? Lupus? Is it Lupus?",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, hey listen, I can't. It's gonna be taking us out of our way.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wooo, you know what you just did? You let a burglar in the building.",
+      "characters": [
+        "Jerry",
+        "Enzo",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "yeah... she says she doesn't wanna see me again. Told me to drop dead!",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I always thought there was something funny about this letter! She copied it right out of Chapter 2! She a thief, a bunko-artist!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

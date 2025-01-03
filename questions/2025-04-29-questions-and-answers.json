@@ -1,0 +1,106 @@
+{
+  "gameNumber": 116,
+  "date": "2025-04-29",
+  "questions": [
+    {
+      "quote": "Anyway, Stu here started telling me about a show, \"Jerry\", that he developed five years ago.",
+      "characters": [
+        "Jerry",
+        "Kimbrough",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "Hello... Hello. Is Glen there?... I'm sorry. Is this 805-555-3234?... Yes, I know I have the wrong number, but I just want to know if I dialed wrong or if...",
+      "characters": [
+        "George",
+        "Dana",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, don't embarrass me today. I got some friends in the stands.",
+      "characters": [
+        "James",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All Simons was able to find out is that he's in the hospital.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, people, I'd like to begin with a hearty hail and well-met good fellow, to Bob Grossberg, who's joining us from Business Affairs.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Once again, I just want to say how sorry I am about the other night.",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh.  Ha-ha. Hey. Yeah, yeah.  This Vincent guy, he is the best. He and I have the exact same taste in movies.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Madeline and I are watching Quincy together. Jerry, you know this comes on at the same time here as it does there?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hewwo and welcome to Movie phone. If you know the name of the movie you'd like to see, press one.",
+      "characters": [
+        "Kramer",
+        "Jodi",
+        "Ricky",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, you know you have a hole in your sneaker there. What is that canvas?",
+      "characters": [
+        "Jerry",
+        "Milos",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

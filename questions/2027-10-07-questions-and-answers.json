@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1007,
+  "date": "2027-10-07",
+  "questions": [
+    {
+      "quote": "Never! You hate him because he's doing more with your name than you ever will! Yah-yah!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, there is something really suspicious about this guy. Every time Mr Peterman tries to assign him any work, he says he can't hear, and it all gets dumped on me.",
+      "characters": [
+        "Elaine",
+        "Patrice",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Awright already!! This is a very key issue with me, Jerry. I had this name for a long time.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't understand. I can't allow my son to pay for me. Look, as soon as I get back to Florida, I promise you I'll mail you a check.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "And you know what else I've decided to do? I'm going to keep seeing the bald woman.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There was something so reassuring about that cozy little space.",
+      "characters": [
+        "Babu",
+        "Leo",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If I get it for you, will you take me to that club an' show me a good time?",
+      "characters": [
+        "Kelly",
+        "Michael",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, it's a funny thing, because after the pilot got cancelled, we hadn't heard from you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what? You're right. These reports, they can wait a couple of hours. Whadda say we go out tonight? Any place you want.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think that's a \"what's good for the goose is good for the gander\".",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

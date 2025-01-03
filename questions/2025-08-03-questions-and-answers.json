@@ -1,0 +1,106 @@
+{
+  "gameNumber": 212,
+  "date": "2025-08-03",
+  "questions": [
+    {
+      "quote": "Well, I'm just a little nervous. OK, I gotta relax. Phew. Wish me luck, huh?",
+      "characters": [
+        "Kramer",
+        "Stan",
+        "Jerry",
+        "Herb"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Mr. Kramer, I gotta thank you. I - I learned a lot. Things are gonna be different for me now.",
+      "characters": [
+        "George",
+        "Rick",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "Hey, Elaine, have you noticed your boyfriend has developed an annoying little habit?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's not necessary.  You know, maybe it's not that bad an idea.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, just that you cared enough to call means so much, Jerry.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Half a bag? What am I, a hooker? Anyway, they look kind of cheap.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Lena",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oo, I better call that woman at Doubleday and see when I can pick up Mr. Pitt's racquet.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Kramer, I can't help you. You're gonna have to get them some place else.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Michael"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Specifically 9:30 shows. Seen any good 9:30 shows at the Paragon, Willie?",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": ".. I coulda been a kosher butcher like my brother. The money's good. There's a union, with benefits. And, cows have no families. You make a mistake with a cow, you move on with your life... Anyway.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Mohel",
+        "Kramer"
+      ],
+      "correctAnswer": "Mohel"
+    }
+  ]
+}

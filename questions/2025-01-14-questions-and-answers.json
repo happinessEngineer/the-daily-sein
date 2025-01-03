@@ -1,0 +1,106 @@
+{
+  "gameNumber": 11,
+  "date": "2025-01-14",
+  "questions": [
+    {
+      "quote": "Yes, full. I love to be full ... love to sit back, loosen the old belt and digest away for hours. Let those enzymes do their work.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Roy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll get you the money, Jerry. I got a hundred dollars in my front pocket if you want to, reach in an' take it!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mike",
+        "Kramer"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "All right, OK So you the name now. The cat is .a a a .. out of the bag.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, they are arranged according the price. And as I recall...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Yeah, I don't read much myself,  well you know besides the paper. Yeah a lot of people read to relax, not me. You know what I do?",
+      "characters": [
+        "Driver",
+        "Rabbi",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "Two hundred. But I'll tell him it's fifty. He doesn't care about the gift. He gets excited about the deal.",
+      "characters": [
+        "George",
+        "Jake",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, a person that gives something and then they're dissatisfied and they wish they had, had never uh...",
+      "characters": [
+        "Elaine",
+        "Keith",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I read the Lenny Bruce biography, I thought it was really... interesting. He would-",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, our stupid friend freaked out the pilot. Single handedly delayed the plane a whole hour. Can you believe that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Either that, or they've got a weird little hang-up about lying face-down in filth. Why don't you just go to the cashier?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

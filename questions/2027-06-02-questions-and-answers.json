@@ -1,0 +1,106 @@
+{
+  "gameNumber": 880,
+  "date": "2027-06-02",
+  "questions": [
+    {
+      "quote": "I tried to stop him. I couldn't. He just wants to make people happy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pat Buckles, ladies and gentlemen. Another round of applause for Pat Buckles!",
+      "characters": [
+        "Announcer",
+        "Debby",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "Now listen, let's keep an eye on each other tonight.  In case one of us gets in a bad conversation, we should have a signal that you're in trouble so the other one can get us out of it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why even try anymore? There's no sense to it. I'm never gonna meet anybody, I should just accept it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh listen we should stop off on the way and get a bottle of wine or something.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Not fast food, good food quickly. Hey, next time lunch'll be on me, huh Jer.",
+      "characters": [
+        "Jerry",
+        "Poppie",
+        "George",
+        "Seth"
+      ],
+      "correctAnswer": "Seth"
+    },
+    {
+      "quote": "Kenny! There you are. Jay Shermak and Stu Crespi from NBC. Listen, Kenny. Really funny out there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Stu"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Actually, I never had any formal training. I guess I'd be better suited for improvs, or something..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright get out of my way.  Alright don't make me get physical here!",
+      "characters": [
+        "Elaine",
+        "Tor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Dear Henry, last night with you was bliss. I fear my.. orgasm  has left me a cripple. I don't how how I shall ever get back to work..  I love you madly, John.  P.S. Loved the cabin.\"",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

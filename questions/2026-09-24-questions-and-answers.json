@@ -1,0 +1,106 @@
+{
+  "gameNumber": 629,
+  "date": "2026-09-24",
+  "questions": [
+    {
+      "quote": "You know, the photo I took in Tuscany of the little man in front of the sign that said \"Costanza\"?",
+      "characters": [
+        "Doorman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it was OK. Frankenstein didn't seem quite right to me. I missed the sport jacket.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait wait George. You got room in the car for the pig-man huh?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Hanke"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Interesting. She doesn't care for you, then a stern warning, suddenly a phone call. Seems Elaine's made you the bad boy. And Anna digs the bad boy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you're welcome. You know I think I ate too much of that garlic.",
+      "characters": [
+        "Elaine",
+        "Silvio",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. I can tell. It's one of my powers. Why, did you ever fake?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm glad you feel that way. Because since my father's breakdown I uh, become very sensitive to the warning signs.",
+      "characters": [
+        "Kevin",
+        "Jerry",
+        "Elaine",
+        "Deena"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "So you're havin' the sex, next day you don't have to call. That's pretty good.  Go ahead.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm in awe of his intellect, when he talks it sounds like he's reading from one of his novels.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're just trying to take it all back because you're feeling guilty I'm in here.",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "Elaine",
+        "Patrice"
+      ],
+      "correctAnswer": "Patrice"
+    }
+  ]
+}

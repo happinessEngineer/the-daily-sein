@@ -1,0 +1,106 @@
+{
+  "gameNumber": 56,
+  "date": "2025-02-28",
+  "questions": [
+    {
+      "quote": "Uh, yeah, yeah. Here it is, Brody. One copy of Cry Cry Again.",
+      "characters": [
+        "Lou",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I started to tell her and then all of the sudden, for some reason, I just burst into tears.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Dustin Hoffman in Star Wars!?! Short Jewish guy against Darth Vader. I don't think so.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, do you know what they do to dogs at the pound? They keep them there for a week and then if nobody claims them, they kill them.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Teller",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We're all the way in the front row. Why couldn't we sit in the special seats?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Tor",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Wouldn't it just bounce back and forth between your cornea and the mirror, faster and faster, getting more and more intense, until finally-",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'The lights are much brighter there. You can forget all your troubles, forget all your cares, just go...'",
+      "characters": [
+        "George",
+        "Conrad",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'm flattered that you would both appeal to my wisdom, but unfortunately, my friendship to each of you precludes my getting involved. What you need is an impartial mediator.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Herb"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ooh, I gotta check my machine. I'm waiting to hear about an interview. Doubleday is looking for somebody to replace Jackie Onassis.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You've got 'shiksappeal'. Jewish men love the idea of meeting a woman that's not like their mother.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Deena",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

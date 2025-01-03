@@ -1,0 +1,106 @@
+{
+  "gameNumber": 246,
+  "date": "2025-09-06",
+  "questions": [
+    {
+      "quote": "If you go now, I know what's gonna happen. We'll find the car, Jerry will show up, and then we'll never find you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Apparently the Seinfelds' are too good for us. I shouldn't say anything bad about your uh your partner.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "May be she realized she could never have you and she jumped off the George Washington Bridge.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why? What's wrong? You're not still thinking about this afternoon are you?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I don't do \"bits.\" I'm a prop comic. Dammit, I can't find my water gun. I can't go on without my water gun.",
+      "characters": [
+        "George",
+        "Ronnie",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Ronnie"
+    },
+    {
+      "quote": "Well, it better not. Paid for the whole year. So, should I pick those up later?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "People don't turn down money. It's what separates us from the animals.",
+      "characters": [
+        "Keith",
+        "Susan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, look at this.  This doesn't belong here! Someone has made a terrible mistake.",
+      "characters": [
+        "Jerry",
+        "Gary",
+        "George",
+        "Announcer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What was I supposed to do? You knew I was on my first date with Elaine. You come barging in here asking me to contribute money for a volcano relief fund for krakatoa.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Guess what? Mrs. Costanza called me, they're not getting divorced.",
+      "characters": [
+        "Donna",
+        "George",
+        "Landlord",
+        "John"
+      ],
+      "correctAnswer": "Donna"
+    }
+  ]
+}

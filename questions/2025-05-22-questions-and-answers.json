@@ -1,0 +1,106 @@
+{
+  "gameNumber": 139,
+  "date": "2025-05-22",
+  "questions": [
+    {
+      "quote": "Look, I'm really getting tired off all the fighting. Maybe we should just end this before we really start hating each other.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Cynthia",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nothing. A bottle broke. That's all. What do you mean, you're gonna move in here?",
+      "characters": [
+        "Alton",
+        "Dan",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "here Elaine here, Superman  please, next time it will only be the two of us",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why, because I threw the card out? How long was I supposed to save it?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Hmm. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...",
+      "characters": [
+        "George",
+        "Gino",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, listen to me. Listen! This is a once in a lifetime opportunity.  Your dreams have been shattered, somebody's got to be held accountable. Come on, we'll take for every penny she's got!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you never know.  Let's see how many I can fit in my mouth.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Owner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No you wouldn't. Nobody would. It's just that... they were missing, and... well I'm just inquiring.",
+      "characters": [
+        "George",
+        "Clerk",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine. My boy's a man today. Can you believe it? He's a man.",
+      "characters": [
+        "Lippman",
+        "Debby",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Well, I wouldn't want you to do that. You know there's a lot of losers out there.",
+      "characters": [
+        "Stan",
+        "Bookman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

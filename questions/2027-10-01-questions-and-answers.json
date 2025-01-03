@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1001,
+  "date": "2027-10-01",
+  "questions": [
+    {
+      "quote": "Well, Alec, the reason I called is I just wanted to thank you for the tickets from the other night.",
+      "characters": [
+        "Betsy",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you know how hard it's getting just to tell people I know you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Holly",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They also have an atomic wedgie. Now the goal there is to actually get the waistband on top of the head. Very rare.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A call for one, you know I thought I've heard everything. I've never heard a relationship being affected by a punctuation.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I noticed you eh, chose the eh \"clowns with balloons\" check design.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You remember Peter. remember I told you how he went to the track that one time and he was yelling at this jockey and the jockey got off the horse and started chasin' him.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, you don't see it, and you're never going to see it!  Mr. Pitt, you have to meet with the shareholders, you have to leave now. Do you hear me? Do you hear me?!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what I'd like to do. I'd like to replace that rye.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Betsy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you think you could transport some stumps for me? I'll make it worth your while.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, where are those invitations? You were supposed to leave them with her doorman!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Craig"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

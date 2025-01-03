@@ -1,0 +1,106 @@
+{
+  "gameNumber": 714,
+  "date": "2026-12-18",
+  "questions": [
+    {
+      "quote": "I don't know. They're tailing him. I'm waiting for them to call me back.",
+      "characters": [
+        "Newman",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Jerry. There was a pretty good chance I was never gonna have sex again anyway.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So it was the meeting on the street that prompted you to buy the bra for Miss Mishke, would you say that was correct?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jackie",
+        "Salesman"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Yeah. You know we shouldn't have bowled that last game, I'm gonna be late.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The mother seems to hit the sauce pretty hard. I didn't like that.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Jerry, I'm not suggesting getting rid of the girl. She's integral.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Carrie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're out, Jerry. You're out as Godfather. You too, Elaine. You're both out.",
+      "characters": [
+        "Stan",
+        "Elaine",
+        "George",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Speaking of Jerry, his father is driving me so crazy down at Peterman's.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No no you didn't ...Hundred dollars.. I get a hundred dollars.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no more cockfighting. Let's just sell him to Marcelino the cockfighter and be done with it!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

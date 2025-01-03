@@ -1,0 +1,106 @@
+{
+  "gameNumber": 574,
+  "date": "2026-07-31",
+  "questions": [
+    {
+      "quote": "All names sound strange the first time you hear 'em. What, you telling me people loved the name Blanche the first time they heard it?",
+      "characters": [
+        "George",
+        "Babu",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dunno , I'm gonna ask Shelley ,but she still might be upset from the masticated pecan incident.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, ever since she started dating Kramer, she won't even talk to me!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have a uh...mental alarm. I set my head for... quarter to seven and...  ...I get up!",
+      "characters": [
+        "Kramer",
+        "Betsy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I think ultimately, I'm upset with myself. I knew what I was getting into, she's a bitter, unstable person. I mean the sex was good. I'm sure it was fine for her. I need more.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Yeah, yeah. You know what? There are a lot of players named Deon these days. What a cool name, Deon. If I were gonna change my name, I'd go with Deon.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're pretending to live in a janitor's closet, just to get this flounder?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Eddie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't want to be Murphy anymore; do I still have to be Murphy?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't wanna mix in everything! My guys don't know your guys. You can't just lock 'em all in the same machine together. They'll start a riot.",
+      "characters": [
+        "Kramer",
+        "Duncan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't eat this without catsup. Would it kill her to check up on us? Would that be a terrible thing? \"How's everything? Do you need anything? What can I do for you?\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

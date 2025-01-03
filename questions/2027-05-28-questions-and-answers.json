@@ -1,0 +1,106 @@
+{
+  "gameNumber": 875,
+  "date": "2027-05-28",
+  "questions": [
+    {
+      "quote": "Oh, that's too bad. I kinda wanted to meet him, seeing as how we look so similar.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You open the door to the car, boom, you walk right into the hospital. Eh, You can't beat that spot.  I am on a roll. I'm just willing these great parking spots.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Detective",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? you people should be ashamed of yourself, you know ya doodle a couple of bears at a cocktail party talking about the stock market. You think you're doing comedy.",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know, Jerry, just because George and I don't see each other anymore, it doesn't mean we shouldn't stay friends.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Marlene"
+      ],
+      "correctAnswer": "Marlene"
+    },
+    {
+      "quote": "Well I want to return this jacket and she asked me why and I said for spite and now she won't take it back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Officer. Officer, is there some reason this man has to always be using a hose? I mean, he's flooding the sidewalk. It's a waste of water. Couldn't he just use a broom?",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Elaine",
+        "Greg"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Our next speaker is George Costanza on the subject of risk management.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Voice"
+      ],
+      "correctAnswer": "Voice"
+    },
+    {
+      "quote": "Uh huh, okay, alright, bye. Huh, how do you like that? I'm gonna do some TV spots for Leapin' Larry's Appliance Store. That was Leapin' Larry himself, I'm gonna meet with him tomorrow.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm bored. I got all this free time on my hands, I dunno what to do. You wanna do something?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doorman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't insult me, my friend. Remember who you're talking to. No one's a bigger idiot than me.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Darryl"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

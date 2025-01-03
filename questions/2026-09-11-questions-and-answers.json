@@ -1,0 +1,106 @@
+{
+  "gameNumber": 616,
+  "date": "2026-09-11",
+  "questions": [
+    {
+      "quote": "A poppy seed! It must have been in the chicken. Oh, I'm dead. I'm going to the doctor's in a half an hour.",
+      "characters": [
+        "Rabbi",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What, are you kidding? I should you loaning you money!  But I'm not.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Leo",
+        "Estelle"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Oh that's good, that's good. Make the eyes, uh, what's that nut?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I came home one night, and I tripped over one of Jerry's toys.  So I took out my belt just to threaten him, and I got a glimpse of myself in the mirror.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Why don't you find a doctor that doesn't know your difficult.",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "George",
+        "Audrey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The walking date is a good date. You don't have to look right at the other -person.",
+      "characters": [
+        "Rula",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you kidding? They can't cancel that show on me now, it's too late for me to book anything else for that weekend. Alright, alright ... okay, bye.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Noel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think she thinks I have a beautiful face, or is she just saying that?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, hey. Me. Talking. You know, between you and me, I always thought Kramer was a bit of a doofus, but he believed in me. *You* did not. So as I see it, he's not the doofus. *You* are the doofus.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "Wendy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But I have to have them by one o'clock. He's very regiment about his meals.",
+      "characters": [
+        "Frank",
+        "George",
+        "Mickey",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

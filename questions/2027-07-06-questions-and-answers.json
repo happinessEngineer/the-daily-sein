@@ -1,0 +1,106 @@
+{
+  "gameNumber": 914,
+  "date": "2027-07-06",
+  "questions": [
+    {
+      "quote": "So I love the Edward Scissorhands. That's the best movie I've ever seen.",
+      "characters": [
+        "Gino",
+        "Elaine",
+        "Donald",
+        "Kramer"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "Boy, she is nice. I like her, I like her Jerry. She's got substance. She oozes substance.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Jerry, we have a little surprise for you! Come on out, Celia!",
+      "characters": [
+        "Kramer",
+        "Bob",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's always bragging about his vertical leap, so I bet him fifty bucks that he couldn't touch the awning.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I lived with him for forty years, I never saw him trying on my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Katie",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Hey, look at this. Wide lanes. This is so luxurious. Woo, yeah.",
+      "characters": [
+        "Elaine",
+        "Pitt",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What do the Chinese have to gain by faking a cure for baldness?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, karate is not here . It's here , and here , and here .",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Milos",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright. Okay. Well, uhm, wait here and I'll uh, I'll bring it around.",
+      "characters": [
+        "Elaine",
+        "Jeannie",
+        "George",
+        "Tony"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "I just thought you would be a little more excited about a friend of mine having a baby.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bette",
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

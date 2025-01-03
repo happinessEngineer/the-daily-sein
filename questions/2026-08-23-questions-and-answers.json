@@ -1,0 +1,106 @@
+{
+  "gameNumber": 597,
+  "date": "2026-08-23",
+  "questions": [
+    {
+      "quote": "Hey! That's my cirrhosis! He's stealing my cirrhosis!  You wanna be sick? I'll make you sick.",
+      "characters": [
+        "Mickey",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Oh, excuse me... Look, Ray, you were the only person in my house.",
+      "characters": [
+        "Jerry",
+        "Cynthia",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Can I say one word to you? Lobster. The lobster here is unbelievable.  Ooh, a little expensive.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Cynthia",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A matador! Well, well, well. Uno momento por favor. Pray tell, what was the young man's name?",
+      "characters": [
+        "Jerry",
+        "Farkus",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're saying I stand to inherit three hundred thousand dollars, is that what you're saying?!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I would like to dip my bald head in oil and rub it all over your body. [No reaction] You don't understand! It's a miracle! You don't understand because you don't speak English!",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey.  Hey what're you watching? What is that? My Cousin Vinnie?",
+      "characters": [
+        "George",
+        "Nina",
+        "Susan",
+        "Rachel"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "So, I'm going out tonight with Robert and the boss and his wife.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "James",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you know these jewellers, they're enigmas. They're mysteries, wrapped in a riddle.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He wouldn't give me his number because he doesn't have a phone.  He's not married. He's poor.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Todd",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

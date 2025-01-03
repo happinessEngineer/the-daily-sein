@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1035,
+  "date": "2027-11-04",
+  "questions": [
+    {
+      "quote": "Yes! As a matter of fact! David Putty won't do the move anymore.",
+      "characters": [
+        "Rachel",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I, uh, I like to think of this as my conference room. Yeah, it has a more formal atmosphere, you know, with the shelves, and the furniture.",
+      "characters": [
+        "Celia",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It helps to control the direction regardless of the operator's tremors or spasticity.",
+      "characters": [
+        "Lippman",
+        "Salesman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "My place? NO, no, no. I hate my place. I don't wanna go back to my place.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Farkus"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He'd be perfect for my movie. This is a once-in-a-lifetime opportunity.  I gotta go over there, I gotta give him a copy of my treatment.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, I would like to thank you for the greatest four days I ever spent in my life.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Wilhelm",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Brody, c'mon. He's just kidding. He's a joke maker. Tell him, Jerry.",
+      "characters": [
+        "Julianna",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Of course I'm all right. I'm here with my girl, Nina. And what better way to pass the time than gabbing with my best friend -- with whom there are no secrets.  Like this. Since the fourth grade.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you let go of my arm?! I'm trying to drive, you're getting us both killed!",
+      "characters": [
+        "Jeannie",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can say what you want about me but I'll be damned if I'm going to stand here while you insult my toothbrush.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Keith",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

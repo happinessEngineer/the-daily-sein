@@ -1,0 +1,106 @@
+{
+  "gameNumber": 102,
+  "date": "2025-04-15",
+  "questions": [
+    {
+      "quote": "Well, uh, act..actually, I haven't seen it. So, I couldn't tell you whether I liked it, or whether it really sucked.",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Jerry. Number One here. Did you go see Izzy at the back specialist?",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Morty",
+        "Stu"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, alright, so you don't like the face painting, I just won't paint it anymore.",
+      "characters": [
+        "Puddy",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "To be honest with you. Nobody really knows. He seems to have disappeared.",
+      "characters": [
+        "Joel",
+        "Rita",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "Oh, they don't have phones out of town? Why do people say they're too busy. Too busy. Pick up a phone!! It takes two minutes. How can you be too busy?",
+      "characters": [
+        "George",
+        "Woman",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So call her up and tell her to bring you another one. She'll be delighted to talk to you.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think she should withdraw. She's the breaker, he's the breakee. He needs to get on with his life.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Nana",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "W..W..Wa...Wa..Wait..Wait wait.. Now lets videotape your head for the before picture, so we can watch how it grows and stuff. Sit down .....Lean back...A little bit to the right.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Out? Oh no, I've been to four other places, you're the only ones that have had it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, listen, do me a favor. Set your mental alarm for 6:30 and gimme a call.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Rula"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

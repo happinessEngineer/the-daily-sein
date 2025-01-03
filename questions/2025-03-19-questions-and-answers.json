@@ -1,0 +1,106 @@
+{
+  "gameNumber": 75,
+  "date": "2025-03-19",
+  "questions": [
+    {
+      "quote": "We have got you in a very nice hotel, I-I don't know how you like to work, but ah, I can arrange for an office if you like.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh who made you a Mohel? Whadya, get your degree from a matchbook?",
+      "characters": [
+        "Jerry",
+        "Joe",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Say you go to the bathroom at two o'clock in the morning, what's the outfit?  I mean, you dressing up or is it come as you are?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Awright, let's just stay calm here! Don't get all crazy on me!",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I bought it for you because you were so nice to me for not charging me for the dental work.  The way you worked on my filling, you were so, so gentle and so caring and so sensitive.",
+      "characters": [
+        "Jack",
+        "Dan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's the difference you just read it and mail it right back. These we'll do.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This woman left this really sexy message on Jerry's tape recorder......",
+      "characters": [
+        "Rabbi",
+        "Eva",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They sell them by the side of the road.  Blueberry, Blackberry ....",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, the acting bug. Ever since I was in that Woody Allen movie.",
+      "characters": [
+        "Salesman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 405,
+  "date": "2026-02-12",
+  "questions": [
+    {
+      "quote": "Alright, that's not gonna work, it's not gonna work. Let me just think for a second here.",
+      "characters": [
+        "Steinbrenner",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well... Frankly, I thought, you know, I was gonna kinda' be like the apparatus.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, ninety four percent of communications is non-verbal. Here watch.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nah, the only one I could ask is Elaine, and I can't ask her.",
+      "characters": [
+        "Greg",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Care? Forget about care. Love. They have to love the characters. Otherwise, why would they keep tuning in?",
+      "characters": [
+        "Morty",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, if it was a regular salad I wouldn't have said anything. But you had to have the BIG SALAD.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why can't two people go and do something without it being a date?",
+      "characters": [
+        "Mike",
+        "Susan",
+        "Abby",
+        "Todd"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Excuse me, I've got a maniac stalking me, I'm not staying in the city.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Worker"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They, uh... said you were with some guy who was wearing a cape?...",
+      "characters": [
+        "George",
+        "Mickey",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

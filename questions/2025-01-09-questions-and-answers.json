@@ -1,0 +1,106 @@
+{
+  "gameNumber": 6,
+  "date": "2025-01-09",
+  "questions": [
+    {
+      "quote": "No, Mickey and I, we can't work it out. You know, I'm thinking of asking that Karen out by myself.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Didja hear what happened? The mentor saw my act. She dumped me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Did Jane's finance kidnap Sydney and take her to Las Vegas? And if so, did she enjoy it?",
+      "characters": [
+        "Lou",
+        "George",
+        "Jerry",
+        "Kelly"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "Oh my God, Hyannisport? With the Kennedys? Who else is up there? Is Rose up there?!",
+      "characters": [
+        "Elaine",
+        "Izzy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I've always fantasized about jumping into bed with you.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Loretta"
+      ],
+      "correctAnswer": "Loretta"
+    },
+    {
+      "quote": "And ... I could really live without the tribal music ... and the make out sessions in the living room",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ma! Again with the ketchup? Don't they have 'em in the plastic squeeze containers?",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Yeah, see that's why I hate it. So, come on, you going to go?",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I cannot believe I'm doing this. I never meet people like this. You're not a nut, are you?",
+      "characters": [
+        "Jerry",
+        "Naomi",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You told me? You pushed this whole thing on me, it was your idea!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Donna"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

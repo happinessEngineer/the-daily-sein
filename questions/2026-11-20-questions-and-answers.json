@@ -1,0 +1,106 @@
+{
+  "gameNumber": 686,
+  "date": "2026-11-20",
+  "questions": [
+    {
+      "quote": "Well I don't know anyone here Jerry. Where else am I going to stay?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who's Bozo? Bozo the Clown, that's who Bozo is. When I was a kid, Bozo the Clown was the clown, bar none.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I told them I was just about to see you.. It's a Festivus miracle!",
+      "characters": [
+        "Gary",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Elaine, she has to leave her armoire on the street all night...I'm gonna guard it for her. I need something to sit on.",
+      "characters": [
+        "Kramer",
+        "Steven",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, my friend told me about this great place in Vermont.",
+      "characters": [
+        "Jerry",
+        "Ellen",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, my friend, Elise, lent it to me for the week. She's out of town.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? Calling people I hardly know, and demanding they return expensive gifts, that's my \"thing\"?",
+      "characters": [
+        "George",
+        "Mohel",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "hmm where is Jerry sitting? he's supposed to be here tonight with his new girlfriend I'm dying to see what she looks like",
+      "characters": [
+        "George",
+        "Gwen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, maybe no one noticed it. You didn't notice it. Let me go get Newman. We'll see if he sees it.",
+      "characters": [
+        "Phil",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "uh, Uh, Vandelay Industries, is uh. 129 West 81st street. It's a very small industry Vandelay. It's one of the reasons I wanted to uh, work for them.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 229,
+  "date": "2025-08-20",
+  "questions": [
+    {
+      "quote": "Who's got the tickets? GEORGE I do.  I thought you knew this mall. You said you'd been here before!",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh come on, George, please put it in a garage. I don't want to spend an hour looking for a space.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Chiles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I'd give you the watch. It's not the money, I happen to like it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Ok, fine. I'll go back... You know, our goal should be a society *without* *classes*! [She goes through the curtain to, ick, *coach*] Do you realise that the people up here are getting *cookies*!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, listen I'm gonna go call work to see if I can get my deadline extended. I can't...come up with anything for this thing.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, thanks again for those tickets. But next week, I'm going to take you. How about next Tuesday night?  And why don't you come along?",
+      "characters": [
+        "Joel",
+        "Brett",
+        "Kramer",
+        "Farkus"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "What physical characteristic would you say is common to all of them?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's older, completely covered in filth, no whistle, but I think it's him.",
+      "characters": [
+        "George",
+        "Susan",
+        "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Eh, they're trying to pick out a new couch - you don't want to know.  Give me your wallet, or I'll spill your guts right here on the street!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well we gotta make a plan before they come back, what are we gonna do?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

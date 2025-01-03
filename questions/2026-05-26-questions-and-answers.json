@@ -1,0 +1,106 @@
+{
+  "gameNumber": 508,
+  "date": "2026-05-26",
+  "questions": [
+    {
+      "quote": "Jerry, I think I'm on to something. I think I found your stuff. You know the Englishman who lives down the hall?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Nina"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, wait a minute, wait a minute, that?s not fair, what about George, Susan and Elaine, what do you need me for?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Um, excuse me, have you see a guy with like a horse face, big teeth, and a, and a pointed nose?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, so what if I don't like it. Is that like the end of the world, or something?",
+      "characters": [
+        "George",
+        "Frank",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am, but that is not the point. You are thirteen, and I am in my early... 20s.",
+      "characters": [
+        "Jerry",
+        "Janet",
+        "Elaine",
+        "David"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No I didn't mean to imply that you did. You're obviously a very well proportioned individual. I was just wondering, have they ever offered you a chair?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lo..k, if you want to taste mine, you don't have to offer me some of yours.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know the anxiety you feel on a date?  That's what I have every day now.  My worst nightmare's come true, every day is a date.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Joyce",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He did not need inspiration… God spoke through his pen. Hu Hu Hu",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Testikov"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "Is-is that what I said 'no story'? Because Jerry had to tell me later.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Joe",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

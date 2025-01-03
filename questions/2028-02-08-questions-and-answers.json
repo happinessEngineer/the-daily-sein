@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1131,
+  "date": "2028-02-08",
+  "questions": [
+    {
+      "quote": "Anyway, this person told me to tell you to get an estimate on the damage.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Dan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, they've just got to get more cops on the force, it's as simple as that.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There was no meeting.  But it was quite a meeting. You are looking at the next director of Mets scouting. The only thing is, I have to get fired from the Yankees first.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it'll gonna mix up with the water, and then by the end of the cycle it'll be a solid block!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Abby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hid? I have no idea how this suit got misplaced. Nevertheless, I do believe I shall purchase it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Rachel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Marriage is not an intervention to be entered lightly... Yada yada yada, I pronounce you man and wife.",
+      "characters": [
+        "Father",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Look at it! Look at it! And it's all me. I shaved there when I was a lifeguard.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got one problem. You're keeping her busy in the other room. Now, what if she somehow gets away from you and is coming in? You have to signal me that she's coming.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "Wyck"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow! That was great! That show was so funny. It was really funny. I'm not just saying that cause I know you. Honestly.",
+      "characters": [
+        "Kramer",
+        "James",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What is she doing? She's starting in on the bidding now?  Eighty-five hundred!",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Cheryl"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

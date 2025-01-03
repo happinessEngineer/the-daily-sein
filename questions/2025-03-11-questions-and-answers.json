@@ -1,0 +1,106 @@
+{
+  "gameNumber": 67,
+  "date": "2025-03-11",
+  "questions": [
+    {
+      "quote": "All right. Well, I'll see ya. Hey, George, I think there's a sniper lookin' to pop ya.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "Tia",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I thought you liked to laugh. I thought you were happy go lucky.",
+      "characters": [
+        "Naomi",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "Oh, he's out in front of the building. He's arguing with some guy about a parking space.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey. All right. Hi. Check it out, official police caution tape. Look at that.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "[To herself, loudly] Wake up, you human slug! Wake up! *Wake* *up*!! I can't hold it anymore! [To the slug out loud] Excuse me, I've gotta go to the bathroom...",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, I'll tell you what you do. You call her back and give her the \"it's me\", heh? Pull the old switcheroo.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who is more important to you, her or me? I like you, she doesn't. Who are you gonna pick?",
+      "characters": [
+        "Elaine",
+        "Karen",
+        "Duncan",
+        "Kramer"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Will the defendants please rise. And how do you find, with respect to the charge of criminal indifference?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Vandelay",
+        "Jerry"
+      ],
+      "correctAnswer": "Vandelay"
+    },
+    {
+      "quote": "No! No, I can't do this.  I can't go through with it.  Not even for him!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bania",
+        "Patty"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "Well, I- I Ms. Welch I do need to talk to you about a little problem regarding, eh, your performance.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

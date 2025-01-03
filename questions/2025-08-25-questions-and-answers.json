@@ -1,0 +1,106 @@
+{
+  "gameNumber": 234,
+  "date": "2025-08-25",
+  "questions": [
+    {
+      "quote": "Jerry, buddy, I got to tell you something. That voice is played.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright I happen to know what they did last night, they had dinner with Kramer.",
+      "characters": [
+        "Jerry",
+        "Bonnie",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, Franklin Delano Romanowski.  I go to his birthday part, and just before he blew out his candles, he gives me this look..",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Ken",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look I gotta be honest with you there's nothing here too spectacular.",
+      "characters": [
+        "Morgan",
+        "Jerry",
+        "George",
+        "Rudy"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Hey, guess what? Remember that woman you saw me with the other day? You know, she used to be an Olympic gymnast?",
+      "characters": [
+        "Kramer",
+        "Valerie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, once you were dead, we couldn't just sit on our hands.  We had to make a move...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs.",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I was just at my stepmom's house, and I saw that you were on her speed-dial.",
+      "characters": [
+        "Valerie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "This is a crude mock-up of the conference room. 1/14th scale.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now we'll open the peritoneal cavity, exposing the body's internal organs. Nurse-- retractor.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    }
+  ]
+}

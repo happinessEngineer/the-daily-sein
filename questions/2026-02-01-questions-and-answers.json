@@ -1,0 +1,106 @@
+{
+  "gameNumber": 394,
+  "date": "2026-02-01",
+  "questions": [
+    {
+      "quote": "I actually like ponies. I was just trying to make conversation. What time's your game?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what I'm looking at: the next condo president of Del Boca Vista, Phase Three.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Listen, Jerry can you do me a favor?  Could you, go into the room with me to visit him because ah, I don't want him to think that I'm, y'know... interested.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Wyck"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's the perfect cover for a money laundering operation . No one can keep track of all those kids with the little orange boxes of change.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "Puddy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Doctor gave me a relaxation cassette. When my blood pressure gets too high, the man on the tape tells me to say, 'Serenity now!'",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh, they're staring. They know we're on a date. They're making fun. Come on. It's embarrassing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it's what John Wilkes Booth yelled out when he shot Lincoln.",
+      "characters": [
+        "Jerry",
+        "Noel",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright then, I guess I can accept a little Jerry, if it gets me a  lot of Elaine.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yuh, yes. I intend to Your Honor. And then, on the afternoon of September 10th, you received a phone call did you not?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No. Thanks. I have a headache. Can you just get me an aspirin?",
+      "characters": [
+        "Pitt",
+        "Jerry",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "Celia"
+    }
+  ]
+}

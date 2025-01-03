@@ -1,0 +1,106 @@
+{
+  "gameNumber": 517,
+  "date": "2026-06-04",
+  "questions": [
+    {
+      "quote": "Oh, thank you.  Wow, I've never seen this before..  Oh, they're letters.  Here.",
+      "characters": [
+        "Susan",
+        "Puddy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, Elaine. You know the way I am – rarely ever thinking of myself. My only concern is the welfare and happiness of those close to me. Sure, it hurts sometimes to give, and give, and give...",
+      "characters": [
+        "Harold",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really! You know, a lot of restaurants are serving brewed decaf now, too.",
+      "characters": [
+        "Elaine",
+        "Bookman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, Elaine but this is beyond news. This is like Pearl Harbor. Or the Kennedy assassination. It's like not even news. It's total shock.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. So let me ask you a question. Who was the man in the cape?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh!! Let me ask you a question. Was the movie part of the bet?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right Miss Benes. This doesn't look to serious. You'll be fine.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Well, Mr. Kramer, your list of short cuts is most impressive.",
+      "characters": [
+        "Captain",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "And who doesn't serve cake after a meal? What kind of people? Would it kill them to put out a pound cake? Something!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Laura"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "What?...Oh! by the way. What am I going to be in the wedding party?",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

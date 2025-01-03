@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1030,
+  "date": "2027-10-30",
+  "questions": [
+    {
+      "quote": "Aah, hey.  If this works out, forget about it. Vacations together, movies together, dinner together. It..it's almost as good as if I didn't get married.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Vanessa",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Please! Please!! I take it all back, everything! I take it all back, every word! I love you! I love *you*! I can't live without you, I,ll, I'll do anything!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah. It's a lovely little bureau and breakfast you're running. Well, I'm off to the bank.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I remember you donated to some volcano thing on our first date.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you're the big look expert. I wanna see how smart you are.",
+      "characters": [
+        "George",
+        "Carrie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know what'cha had to tell her that for. You put me in a very difficult position, Marine Biologist! I'm very uncomfortable with this whole thing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Attention Steinbrenner and front-office morons! Your triumphs mean nothing. You all stink. You can sit on it, and rotate! This is George Costanza. I fear no reprisal. Extension five-one-seven-oh.",
+      "characters": [
+        "George",
+        "Voice",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, the dogs did that but it wasn't their fault, somebody stuffed some strange meat in the pocket.",
+      "characters": [
+        "Elaine",
+        "James",
+        "Katya",
+        "George"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "You're through, Soup Nazi. Pack it up. No more soup for you. Next!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Pitt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at you, you're still thinking about it. I'll never feel comfortable.",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

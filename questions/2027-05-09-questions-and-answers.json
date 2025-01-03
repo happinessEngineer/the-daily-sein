@@ -1,0 +1,106 @@
+{
+  "gameNumber": 856,
+  "date": "2027-05-09",
+  "questions": [
+    {
+      "quote": "All right look, I am going to have to pay you back later. I don't have my wallet.",
+      "characters": [
+        "Kramer",
+        "Captain",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, Jerry, now when the glee club's finished singing, George goes on, then you.",
+      "characters": [
+        "Elaine",
+        "Katie",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "...Yeah, you're right. Well, will you at least keep me company until somebody comes out?",
+      "characters": [
+        "Farkus",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, uh..  \"What is this stuff? Why do we need this stuff?.. And why do they make it so small..?\"",
+      "characters": [
+        "Kramer",
+        "Patty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You mentioned George's name to Mayor Dinkins? You discussed George with the mayor of New York?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Maura",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Don't you know you're not supposed to poke around down there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "His chiropractic job was a crock. It's even worse than it was before.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Lanette",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hold it, hold it...Look your gonna need the jaws of life to get out of those things.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Ben",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's a sports writer for the daily news. I find him very insightful...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no no no, I was just down on the forty-second street subway today, it is disgusting. Guess who I bumped into. Owen.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Shelly",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

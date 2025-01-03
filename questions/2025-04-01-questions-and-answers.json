@@ -1,0 +1,106 @@
+{
+  "gameNumber": 88,
+  "date": "2025-04-01",
+  "questions": [
+    {
+      "quote": "Seth, it's me. What's more important than catching up with an old college buddy?",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I guess he figured you just wouldn't care. It *has* been a few years.",
+      "characters": [
+        "Secretary",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Man, I don't understand people. I mean, why would George want to deprive you of pleasure? Is it just me?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well here's your chance to try the opposite. Instead of tuna salad and being intimidated by women, chicken salad and going right up to them.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, not billiard..  Not billiards.. it was.. Come on, already. Come on..",
+      "characters": [
+        "Landis",
+        "Susan",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "That's fine. If you just give me my duck money, I'll be on my way.",
+      "characters": [
+        "Poppie",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "The reverse peepholes. Silvio said I'm an agitator and I'm out of the building.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, you have the slowest elevator in the entire city? That's hard to get used to when you're in so many other fast ones.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Right. He cooks my food, he cleans my house, he does all my shopping for me. And there you go, that's your program.",
+      "characters": [
+        "Jerry",
+        "Jimmy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I gotta tell Jerry we're here. I gotta go to the bathroom.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Katya"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

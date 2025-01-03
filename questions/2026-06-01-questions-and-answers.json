@@ -1,0 +1,106 @@
+{
+  "gameNumber": 514,
+  "date": "2026-06-01",
+  "questions": [
+    {
+      "quote": "Yeah! Yeah!..Staten Island . What about my clothes ,how do I get the rest of the clothes?",
+      "characters": [
+        "Worker",
+        "Robin",
+        "Melissa",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, so you cry... and when you see the dancing, you cry again.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what? On my first road test, I hit a dog.  I think it was a golden retriever. No, no, no, it was a - it was a yellow lab.  I'm gonna check my messages.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Rebecca"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let me tell you something about that tag. It's no 31, and uh...let's just leave it at that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jake"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where's he dropping us? Maybe we can get him to drop us right at my house?",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Jerry it's my fault .I couldn't make a shot. These losses they stay with me. They  Jerry. Now this is gonna plague me.\" OH! Mother!!!\"",
+      "characters": [
+        "Alec",
+        "Kate",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He'll be all right. I must go and be with Misha now. I don't want you to come with me.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Katya",
+        "Man"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "Sure! ... Okay... Don't worry, I'm taking MY car! ... okay... okay, see you later... bye...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's just, all you said was 'your welcome', which is nice. It's very nice. But... I feel I gotta get the apology.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just stick with the story. We'll be fine. Let me do the talking!",
+      "characters": [
+        "Doctor",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

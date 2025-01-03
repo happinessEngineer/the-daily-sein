@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1080,
+  "date": "2027-12-19",
+  "questions": [
+    {
+      "quote": "Yes! Go in there! Do a little investigative journalism. I need to know!",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, Yeah Yeah, I have a - I have a question, um -- What do you know about inter-abdominal retractors?",
+      "characters": [
+        "Rita",
+        "Kramer",
+        "Frank",
+        "Rebecca"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, all right, I?ll wear this. It's bad enough I?ve got to go to the opera I?ve got to sit next to ozzie nelson over here.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Silvio",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't even know their names! Look, why don't you just take the one that was on the left?",
+      "characters": [
+        "Kramer",
+        "Guy",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But, see here. Right. Wrong. Right. Wrong. Right. Right. Wrong--",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. All of 'em. They're all crooks! Besides, I couldn't get all different candy bars, anyway.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about me? I mean I just watched a few games with her sitting in the stands.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, I guess it was on. I don't know my alarm sound; I'm not tuned in to it like it's my son.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Dr, Allenwood, uh...I was hoping to compile an - admittedly, rudimentary - scrapbook of her life. Something that Betsy could have, and hold onto.",
+      "characters": [
+        "Sid",
+        "Gavin",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What time does your flight get in? Six? All right, that gives us six hours. Then I'll meet you at the diplomat's club. I'll be the one without the big red sash. Okay, see you tonight.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1101,
+  "date": "2028-01-09",
+  "questions": [
+    {
+      "quote": "Oh! Taht's judgment. Yes, yes. Judgment with earrings on. Yeah.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Man",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, it seems to me that it's all you, and none of my ideas are getting in. You know, I mean, you just know it all and I am Miss Stupid. Right?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No. But what if we get married or something? We'll always have that between us.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I told you! Now, Frank, listen. Here's what I'm thinking. Now, you have a friend in the bra business, right?",
+      "characters": [
+        "Aaron",
+        "Leo",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They're right in front of you! Oh, for heaven's sakes...  Show you...",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Rick"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "I'm gonna personally notify them. ...and, ah, line up some candidates to fill that assistant to the General Manager position…",
+      "characters": [
+        "Susan",
+        "Steinbrenner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Oh, Cheryl, can I ask you a legal question? Um, I'm being sued.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Laura",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know we should really order, the service is so slow here, by the time you get anything...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Kurt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes. There was this homeless guy who used to urinate on our garbage cans.",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Have you ever thought about selling it .It would make a brilliant wig..",
+      "characters": [
+        "Ethan",
+        "Lippman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Ethan"
+    }
+  ]
+}

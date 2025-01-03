@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1117,
+  "date": "2028-01-25",
+  "questions": [
+    {
+      "quote": "Well, buddy,  he's taking the case!  Jackie Chiles is right on it!  Right on it, he's all over it!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Darren",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I used to love Paris. My uh, dead Fiancée, Susan..  In fact I. think I, I may have a picture of her..",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "W--then I'm pretty much where I am now. At least I got to take a ride on a spaceship.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no! >click click< Kramer, this phone's a piece of junk, goodbye!",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I wouldn't have minded it so much but I was running home to go to the bathroom.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what? The hell with this party, I don't even want to go to begin with.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that is so ridiculous. But, George didn't even have his glasses on!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know a friend of my father's used to live right around here.  Mike Wichter.  He sold plastic straws.  You know the ones?  You could bend them.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Stu",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, forget about the shoes. Want you to do something for me . This handicapped woman had an accident. Somebody gave her a used wheelchair with defective brakes.",
+      "characters": [
+        "Frank",
+        "Stan",
+        "Kramer",
+        "Gary"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, I'm sure at some point between the years 800 and 1200--somewhere--there were two women living together.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Cop",
+        "Herb"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

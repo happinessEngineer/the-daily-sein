@@ -1,0 +1,106 @@
+{
+  "gameNumber": 607,
+  "date": "2026-09-02",
+  "questions": [
+    {
+      "quote": "I've been thinking about what we do and I'm thinking..of...adding a new number to my, you know, repertoire.",
+      "characters": [
+        "Joe",
+        "Elaine",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "John"
+    },
+    {
+      "quote": "Oh, yes I do. Yes, I do. OK? I'm interacting with someone here, if you can understand that. Now, I'm sorry.",
+      "characters": [
+        "Hanke",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Nobody can be in here for 48 hours, I got my parents in town.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Poppie",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why can't I meet a Kennedy? ..I saw John Junior once downtown. I was on a bus. I hit the ding, but.. it didn't stop.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Alton"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, look, Elaine's here, I gotta get going. Oh, by the way, uh, I'm not getting married. Tell mom. Bye.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We haven't heard his notes yet, we don't know how he feels about our work.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw, it's gold, Jerry! Gold! I got all these corporate gigs and even Cynthia took me back.",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "You think that could be a coincidence George? Is that possible?",
+      "characters": [
+        "Detective",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Where are they already? I don't see them anywhere... I got my bags, I'm ready to go.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What?! Wait a minute. No, no, no. What are you doing? No, no, oh, oh, okay. He's out. I get it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

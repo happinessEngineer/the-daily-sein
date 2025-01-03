@@ -1,0 +1,106 @@
+{
+  "gameNumber": 720,
+  "date": "2026-12-24",
+  "questions": [
+    {
+      "quote": "I'm starting a Peterman Reality Bus Tour. Check it out. Hahaha.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know if you waited a few more months it won't be a baby anymore then you wouldn't have to see it.",
+      "characters": [
+        "Stu",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Well I was trying to make gravel and it just  just didn't work out.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Hanke"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi, i've been doing a lot of thinking today and i don't know maybe i made a huge mistake",
+      "characters": [
+        "Jerry",
+        "Beth",
+        "Kramer",
+        "Jane"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "\"I dunno how you could forget . He kept reffering to himself in the third person. \"Jimmy's under the boards. Jimmy's in the open. Jimmy makes the shot.\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, I just wanted to let you know I'm really sorry that happened, and if I can help out in any way, I'll certainly be glad to do that.  Well, I guess that's about it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Gladys"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I always get myself in this position. Can't be on time. Gotta rush.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Kramer thought it would make her happy.  I never should have cashed those checks!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, I'm sorry uh, that I doubted you. Whatever you need, just uh, make yourself at home.",
+      "characters": [
+        "Clerk",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "You come to a parking lot, you write it down. How hard is that?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

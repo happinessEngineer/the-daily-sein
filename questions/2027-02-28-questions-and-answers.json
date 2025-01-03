@@ -1,0 +1,106 @@
+{
+  "gameNumber": 786,
+  "date": "2027-02-28",
+  "questions": [
+    {
+      "quote": "Look it, look it, Ryan. These people are gettin' a baby. Period. Now we can do this the easy way, or we can do this the fun way.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Alton"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shh. Shh. Shh. It's not important. What's important is I'm not gonna let a little thing like that ruin what could be a very long-term and meaningful relationship.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Captain"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not saying anything, I'm putting it in the vault, I'm locking the vault, it's a vault!",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I can't, I can't. See, I told Frank he could borrow it. Yeah, he wants to move some of George's stuff into storage.",
+      "characters": [
+        "Peterman",
+        "Dana",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What, you are comparing me to Biff Loman, very encouraging. The biggest loser in history of American literature.",
+      "characters": [
+        "Jerry",
+        "Captain",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, ahem, remember that whole deal with you selling Peterman your stories for his book and then he gave them back to you?",
+      "characters": [
+        "Elaine",
+        "Conrad",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And that pinkie toe, come on . How adorable is the pinkie toe.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you again. Buddy, look, forget about Jerry. It's not gonna happen.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Me? No no no, you. You're gonna tell him. I'm not gonna tell- Noo.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

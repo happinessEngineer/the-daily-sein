@@ -1,0 +1,106 @@
+{
+  "gameNumber": 712,
+  "date": "2026-12-16",
+  "questions": [
+    {
+      "quote": "And you! How many Twix does that make for you, today?! Like, 8 Twix?!",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I went swimming and I can't get this water out of my ear.",
+      "characters": [
+        "Carol",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, that's true. Well it sounds like it's going pretty good.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, her belly button is like a mouth.  I'm bored. Talk to me.",
+      "characters": [
+        "Elaine",
+        "Diane",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're probably one of those women who doesn't like to give out her number.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "It was just gonna be a weekend, but then somehow it became a week.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I spoke to Manya and Isaac on the phone today. They invited you again. I think you should go.",
+      "characters": [
+        "Izzy",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Elaine, you know what I just did? I just amended my will to include you as a beneficiary.",
+      "characters": [
+        "Greg",
+        "Elaine",
+        "George",
+        "Pitt"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "You know, there are 200 people who work in this office. Every day is somebody's special day.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Maestro"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, Mr. Steinbrenner, you know, w-we've searched everywhere, th-there's no sign of him. n-n-Not even anyone who remotely fits his description, sir.",
+      "characters": [
+        "Wilhelm",
+        "Jackie",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    }
+  ]
+}

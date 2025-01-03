@@ -1,0 +1,106 @@
+{
+  "gameNumber": 979,
+  "date": "2027-09-09",
+  "questions": [
+    {
+      "quote": "So when somebody has B.O., the \"O\" usually stays with the \"B\". Once the \"B\" leaves, the \"O\" goes with it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, 'don't hang around and let your troubles surround you. There are movie shows...'",
+      "characters": [
+        "Jerry",
+        "George",
+        "Darryl",
+        "Jake"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Now I'll always have this doubt about the car. What, your jaw still hurts?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If I do it again, that extends my payment book another two weeks.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And what if I don't make the plane? You'll have already left. Then what will I do?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Oh no no no, if you must know, I would rather be with her than go to the game.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll let her down easy. All right.  Well, hi Olive.  No, no. No more of that. There's something I have to tell you.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Rita",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, forget it. Pull yourself together. You're making me sick. Be a man!",
+      "characters": [
+        "Susan",
+        "Stu",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, boy, look at this. Hong Kong's outlawed the rickshaw. See, I always thought those would be perfect for New York.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "yeah there's no toilet paper in here, I usually check but would you mind?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Bob",
+        "Jane"
+      ],
+      "correctAnswer": "Jane"
+    }
+  ]
+}

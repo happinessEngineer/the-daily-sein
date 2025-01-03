@@ -1,0 +1,106 @@
+{
+  "gameNumber": 492,
+  "date": "2026-05-10",
+  "questions": [
+    {
+      "quote": "The nurse said she would be right back. They're supposed to take me into the delivery room.",
+      "characters": [
+        "Susan",
+        "George",
+        "Elaine",
+        "Rula"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "Well, what is it you object to? The comfort? The Speed? The convenience?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jimmy",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It looks like you're trying too hard to make an impression on him. You're not being yourself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ramon",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How're things going? You wanna know how things are going? I'll tell you how things are going. I am getting kicked out of my apartment!",
+      "characters": [
+        "George",
+        "Newman",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know as far as I'm concerned, this whole thing is George's fault",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Well, it's almost six now. Can't we just wait til he goes home?",
+      "characters": [
+        "Hal",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry! The Japanese guys had sake in the hot-tub! You gotta get 'em outta the drawers and get 'em down here, or I don't have a focus group to sell the pilot to Japanese TV!",
+      "characters": [
+        "Gino",
+        "Jerry",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you're never gonna find a space on Jerry's block, just put it in a garage.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, here we go, yeah.  Mmm, oh. That's delicious. Mmm. It's a perfectly sane food to eat.",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What a sorry exhibition that was. Alright, let me get the money back.",
+      "characters": [
+        "Tawni",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

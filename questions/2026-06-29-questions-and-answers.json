@@ -1,0 +1,106 @@
+{
+  "gameNumber": 542,
+  "date": "2026-06-29",
+  "questions": [
+    {
+      "quote": "Yeah, let me just stop by the cash machine and I'll meet you over at the coffee shop.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And then assuming the strike is resolved, on April 14th, we, ah, play the Angels. So let's clear a floor at the Anaheim Hotel.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Joe DiMaggio, you know this time I went in and sat down across from him and I really watched him. I studied, his every move. For example, he dunks.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, this is it. I'm really gonna do something about my life, you know? You know, I think I'm gonna call Melanie again. So what if she shushed me. GEORGE:, I am really gonna make some changes.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Restitution? You want restitution? Why should I give you restitution?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Joe"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Well, I'm doing the PBS show, so during the show they're gonna be running the Ken Burns baseball thing. So I thought if I could get a baseball player to come on the show with me...",
+      "characters": [
+        "Donna",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know you could've thrown a pencil out the window and seen if that came back.",
+      "characters": [
+        "Morgan",
+        "Jack",
+        "Jane",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. Okay. So he'll just think that the two of you didn't sit with him on purpose. Ooh yeah, that's very nice. Very nice.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I was wondering.. You know that Black Hawks jacket you have?",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know if you should sit for this or not. Sitting is good if you faint, but standing is good for jumping up and down. I can't decide.",
+      "characters": [
+        "Elaine",
+        "Celia",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 236,
+  "date": "2025-08-27",
+  "questions": [
+    {
+      "quote": "All right, I'll see you after school. I,,m late for Hayman's hygiene.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay. Tomorrow, Jerry and I will visit Izzy and apologise. Now, goodnight.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh, yeah, right, that's something I do all the time, right. I make up stories to get ahead in lines at bakeries.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think George has ever thought he's better than anybody.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well ..I don't argue with the body Jerry. It's an argument you can't win.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, Frank Costanza, he's getting me a room at his lodge. So Jerry, you know I'm really counting on you to come to this.",
+      "characters": [
+        "Kruger",
+        "Susan",
+        "Waitress",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah! Because, I'm going to the dentist, and I'm afraid, and I want you to go with me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Mike"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, hi Elaine, hey.  Hey, you missed a great game tonight, buddy!",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's like a sauna in here, huh? I feel like I'm...back at the desert.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's like going to the bathroom in front of a lot of people and not caring.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

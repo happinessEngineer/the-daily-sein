@@ -1,0 +1,106 @@
+{
+  "gameNumber": 918,
+  "date": "2027-07-10",
+  "questions": [
+    {
+      "quote": "You know what? I think I'm gonna do that! She came down to where I work, I'll go down to where she works!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course. So, I'm looking at it. I look up, I see she's looking at it. Our eyes lock. It was a horrible moment. I just..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Rita"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's full. So, Big Daddy. I'm just curious. How much did you clear on your little transaction there, all told?",
+      "characters": [
+        "Jerry",
+        "Debby",
+        "George",
+        "Duncan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah. You know, there's gotta be an easier way to open ketchups. They should make it in a tube.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, so what are you gonna do? You gonna wait for the cable companies to resolve their dispute? They're gonna be in court for years.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you think, junior? You think these hands have been soakin' in Ivory liquid?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahh, Mr Haarwood. Well, you certainly know how to dress for a premiere.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Karen",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know why you even bother with this ping pong guy, I'll tell you that.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh beautiful! Look at that, the dream space right in front of Jerry's building. Huh? Dreams can come true, what did I tell you?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Holly",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's not that I don't like you, but, well to be perfectly honest, I'm just having some trouble getting past the face painting.",
+      "characters": [
+        "Elaine",
+        "Guard",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

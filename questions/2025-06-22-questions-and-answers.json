@@ -1,0 +1,106 @@
+{
+  "gameNumber": 170,
+  "date": "2025-06-22",
+  "questions": [
+    {
+      "quote": "Yeah, I grabbed it on the way out, I don't want my mother reading it.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Marcy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, they haven't even arrested him yet. Come on, let's go out.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "Margaret"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "Oh, you see, that's terrible. The problem is, that curtain is no security-- there really should be a locking door.",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And then, then, then she leaves with somebody else! Never even, never even said goodbye! Never called me back.. Never apologized. Nothing. Like I was dirt.",
+      "characters": [
+        "Stan",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I think we really need to be in front of a television set. You take T.V. out of this relationship, it is *just* torture.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's because of her that bottle got broke that I was going to give to Charles Grodin on his show.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Patrice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, give them to me, I want these keys.  I don't want to get physical!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See ya around maroon Golf. And, by the way, that was an \"I'm not sorry\" wave.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, don't tell it to me George, tell it to the new Assistant to the General Manager.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Helen",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Well it's, nothing I planned on happening, you know. It just, kind of happened.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Usher"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

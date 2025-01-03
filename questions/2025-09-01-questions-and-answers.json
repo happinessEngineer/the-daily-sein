@@ -1,0 +1,106 @@
+{
+  "gameNumber": 241,
+  "date": "2025-09-01",
+  "questions": [
+    {
+      "quote": "Oh yes. I know all about his little performance in the break room.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Donald"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, don't forget Sunday, okay? You and George are coming, right? Hotel Westbury, eight o'clock.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, he said it could be cancer, maybe you should get it checked out.",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, we're, uh, foolin' around there.. you know, it's getting a little passionate..  and, uh, she starts with the dirty talking.",
+      "characters": [
+        "George",
+        "Sara",
+        "Stationer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh no. Look at this. Okay yeah this looks good and I like what your wearing.",
+      "characters": [
+        "George",
+        "Helen",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, well, well, Mr. Seinfeld! That must have been so frightening! When you confronted that guy, in Queens! Now, let's just see if I've got this scenario right.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "TV Elaine. She wants to get together and talk about the part.",
+      "characters": [
+        "Duncan",
+        "Kramer",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're all the same. You go, you sit, you eat popcorn, you watch. I'm sick of it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They assign you a specific disease and you act out the symptoms. It's an easy gig.",
+      "characters": [
+        "Hanke",
+        "Kramer",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Elaine, I can see, not sayin' hello. She's very--what's the word--uh, supercilious.",
+      "characters": [
+        "Matthew",
+        "Jerry",
+        "Katie",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    }
+  ]
+}

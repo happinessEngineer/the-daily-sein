@@ -1,0 +1,106 @@
+{
+  "gameNumber": 373,
+  "date": "2026-01-11",
+  "questions": [
+    {
+      "quote": "I have to go to the bathroom. Why do they hide the bathroom in these malls?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about your side? Your cousin Hennie.  She was sickly from the moment I met her!",
+      "characters": [
+        "Frank",
+        "Marcy",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "There's Jean-Paul! He's up front! He's leading!  Go Jean-Paul!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Manager",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. We've been coming here everyday. This is so fucking good.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's a little unusual. So, uh, Susan and I were thinking, uh, dinner at our house Saturday night. Just the four of us.",
+      "characters": [
+        "Clerk",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You got it ALL wrong. I was thinking only of the poor Krakatoans",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thank you so much.  Thank you so much, Mr..  Camaro.  Mr. Casea?  Well, whatever.  I'm gonna take this to the Maestro. He's, he's playing at the Queens Convalescent Center.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Testikov"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You like that, huh? I had that custom made for me in Santa Fe.",
+      "characters": [
+        "Estelle",
+        "Lippman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "She's having Carol, Gail and Lisa over. You know they all have kids now?",
+      "characters": [
+        "Susan",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's one hell of a gig.  Hey, look, I got something for you. The Ori-dent!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

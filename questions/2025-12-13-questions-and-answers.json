@@ -1,0 +1,106 @@
+{
+  "gameNumber": 344,
+  "date": "2025-12-13",
+  "questions": [
+    {
+      "quote": "You know, you have the slowest elevator in the entire city. That's hard to get used to when you're in so many other fast ones.",
+      "characters": [
+        "Russell",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Depends on how nice the person was. But you gotta figure, even Oswald took forty-five minutes.",
+      "characters": [
+        "Jerry",
+        "Brett",
+        "George",
+        "Seth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, sure sure, he wants to. It's very kind of you. Yeah, Jerry, he appreciates it. Don't you, Jerry?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, one question does come to mind. Have you considered just...asking them what happened to the briefcase?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Earl",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello Archie, Veronica, Mr. Weatherbee. . . . Is this Don Matingly's signature?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Bruce"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know, and then you say to yourself, \"From this moment on, I'm not gonna waste any more of it.\" But then you go, \"How? What can I do that's not wasting it?\"",
+      "characters": [
+        "George",
+        "Gavin",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ate? What? What the hell are you talking about? Now you listen to me, you get out of that apartment this instant. If you screw this up for me I swear....",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you could come by my office later, I could work on it for you a little.",
+      "characters": [
+        "Ed",
+        "Aaron",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "I'm not getting on a regular plane now - I'm all psyched up to go on a private jet. No way I'm getting on a regular plane.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean Wednesday? I though we had tickets to the Knick game Wednesday. We got seats behind the bench! What happened? We're not going?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 995,
+  "date": "2027-09-25",
+  "questions": [
+    {
+      "quote": "Look I'm sorry about before....I mean I'm sure I'll learn to like her, Jerry",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm just gonna get my jacket, I'll meet you downstairs. What's the matter, did you call?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, my wife couldn't make it today. She's got something with her mother... Who knows what's going on with her. Don't let any one kid you, it's tough.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah... Hey, Drake, what ever happens, I am sure it'll be for the best.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "John",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Me? You see what he did here, you see how he tried to sneak into my space?",
+      "characters": [
+        "Jeannie",
+        "Betsy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The way I remember it, Cain, he was a successful doctor, but when he took this special formula, he became Mr. Able.",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, he want me to fix him up with Marisa Tomei. I am not gonna be a part of this!",
+      "characters": [
+        "Hanke",
+        "Chiles",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Please, we can't find our car. Please drive us around the parking lot to find our car. My fish are dying.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Hal",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There was a man, he was trying to get into my apartment last night. He was jiggling the doorknob for twenty-five minutes.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I finally got to see Dr. Kazarian. He said it was really bad.",
+      "characters": [
+        "Herb",
+        "George",
+        "Debby",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

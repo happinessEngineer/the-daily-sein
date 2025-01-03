@@ -1,0 +1,106 @@
+{
+  "gameNumber": 520,
+  "date": "2026-06-07",
+  "questions": [
+    {
+      "quote": "I'm sorry. I mean, I know what it's like to be in love. Ties you up in knots. And Jerry is a very sexy man.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What about the breathing, the panting, the moaning, the screaming?",
+      "characters": [
+        "George",
+        "Morgan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open palm...\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Dan",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "Absolutely, you just call my secretary, she'll arrange everything.",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "I had to use the bathroom, so I asked this guy to watch the door for a few minutes.",
+      "characters": [
+        "Jerry",
+        "Doorman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Well you know what happens with larvae hatch, they-they're everywhere.",
+      "characters": [
+        "Jerry",
+        "Hoyt",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why did you force that mint on me? I told ya I didn't want the mint!",
+      "characters": [
+        "Babu",
+        "Carol",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, she really doesn't belong here. My uncle put her here, Because he's trying to prove he doesn't owe my mother fifty dollars.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've been clean for two years. Anyway what would we do together?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Robin",
+        "Babs"
+      ],
+      "correctAnswer": "Babs"
+    },
+    {
+      "quote": "There's just no justice. This experience has changed me. It's made me more cynical, more bitter, more jaded.",
+      "characters": [
+        "George",
+        "Mike",
+        "Toby",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 109,
+  "date": "2025-04-22",
+  "questions": [
+    {
+      "quote": "Oh, Elaine, we've covered all of that in the catalogue ad nauseum. No, I would like this book to be about my day-to-day life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Kramer? Have you seen George, around? I can't get a hold of him.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Allison",
+        "Mike"
+      ],
+      "correctAnswer": "Allison"
+    },
+    {
+      "quote": "Morning Thunder has caffeine in it, Jerry doesn't drink caffeine.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Donald"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now! Now, George! Turn on the faucet! George, turn on the faucet! Hoochie mama! Hoochie mama! Hoochie mamamaaaaa!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, alright ah well... There's a priest, a minister and a rabbi, and they're all staring at him....",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Ed",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's not a beauty contest. It's just a way for people to get to know one another.",
+      "characters": [
+        "Elaine",
+        "Judge",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh boy, that looks great. I can't believe you're giving him this.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on up. Oh, it's Elaine, she's just a friend of mine. I don't know what she's doing here now.  I'm sorry. What?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gavin",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You got hookers turning tricks in my car. How's that for starters.",
+      "characters": [
+        "George",
+        "Kruger",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh.. well, you better not. I'm supposed to be careful with it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

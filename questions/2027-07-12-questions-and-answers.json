@@ -1,0 +1,106 @@
+{
+  "gameNumber": 920,
+  "date": "2027-07-12",
+  "questions": [
+    {
+      "quote": "French impressionism. Oh, I love this.  Now, what is the problem with this book?",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, I have two tickets for you  to the Flying Sandos Brothers magic show.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Valerie",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Jerry wouldn't know delicate beauty if it bludgeoned him over the head.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Jerry, we're friends! We can't do that, it would ruin our friendship.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe it was because I refused to take off my shoes. Again, the foot odour problem. Her father would look at me and say, \" eno enoa juang \". Which means, \"this guy - this is not my kind of guy\".",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hm, That's interesting. You know someone mentioned to me you were not very happy with your toys, growing up.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I can't believe you're even considering not playing. We need you. You're hitting everything.",
+      "characters": [
+        "George",
+        "Vanessa",
+        "Jerry",
+        "Ava"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, I'm outta here, and when I get back, I don't want to see you here , here , or here .",
+      "characters": [
+        "George",
+        "Elaine",
+        "Darryl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's got Marlon Brando's. I could go to Marlon Brando's house if I really wanted.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

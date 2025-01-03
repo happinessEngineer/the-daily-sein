@@ -1,0 +1,106 @@
+{
+  "gameNumber": 219,
+  "date": "2025-08-10",
+  "questions": [
+    {
+      "quote": "We don't want anything to happen to you Mr. Pitt. We want you to live a long, long time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So if you call and ask if you have the job, you might lose the job.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mohel",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No I don't! In fact, if even one corpuscles of that blood should find it's way across that hall I will freak out on you Kramer! Freak out.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"No No... That's not him. That's the guy who gave me... Jimmy's number.\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Kate"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know why we didn't think of this before. We just could call TV Guide.",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't keep real coffee in here, I get my coffee on the outside!  Yeah?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, come on, Jerry. If everybody knew everybody, we wouldn't have the problems we have in the world today. Well, you don't rob somebody, if you know their name!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's only a year. That's not so bad. We'll be out in a year, and then we'll be back",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is so exciting! Look, I have goosebumps!  Touch! Touch them!  I've never been to a comedy club before!",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Toby",
+        "Kramer"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "The \"Jerry\"'s back on - the TV show! George and I are moving to California!",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

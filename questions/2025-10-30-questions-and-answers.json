@@ -1,0 +1,106 @@
+{
+  "gameNumber": 300,
+  "date": "2025-10-30",
+  "questions": [
+    {
+      "quote": "Yeah. Too bad, 'cause you gotta have the affection - which you obviously have. I think it's great that you're so open with your affections in public. See, we had that.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well once he gets married that's it, she'll probably get pregnant, they'll move to Westchester. I'll never see him again.",
+      "characters": [
+        "Elaine",
+        "Saleswoman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They owe me for those ducks. They were flown in from Newfoundland.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "All right, Jerry. Let's see if you can get it in your head that this is not an Easter egg hunt for your childish amusement.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We had a deal. Are you reneging out of the deal? Are you reneging? That's a renege.",
+      "characters": [
+        "Newman",
+        "George",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah. Mr. Lippman. It was *his mistress* who insisted that he call it…",
+      "characters": [
+        "Eddie",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "First of all you don't even know technically that I went. That's for starters. I mean I could've been pouring a bottle of water out there. You don't know.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't want to hear another word. And to think how close I came to you being the one! I must have been out of my mind.",
+      "characters": [
+        "Marla",
+        "Ned",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Oh, was he? Was he? I guess the cable man doesn't like to be kept waiting.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 444,
+  "date": "2026-03-23",
+  "questions": [
+    {
+      "quote": "Ah, baking soda. Annoying little product. 'I can do this. I can do that.' Why doesn't this stuff just shut up?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "(Tilts her head down, looking over her glasses in amazement of",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Sid",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This dog in the courtyard across from my bedroom window that never never stops barking..",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I just found twenty dollars! I tell you this, something is happening in my life. I did this opposite thing last night. Up was down, black was white, good was -",
+      "characters": [
+        "Steinbrenner",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, hang on. Let me call Kramer and see if you can hear anything, hold on. >click click click<...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'Literally'? What's THAT supposed to mean?  You mind if I hide this somewhere?",
+      "characters": [
+        "Puddy",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, listen, we'll have to do this again some other time, okay? I got a lotta work to do.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Chiles",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Regardless. I had to walk around for the rest of the party in some cheap Metlife windbreaker. Now, it is payback time.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, we were waiting for our mail to arrive and I happened to mention to her how you felt that it was never going \"to happen\" for you.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Steve",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Sure, and you were always in Korea with your religious chachkis.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

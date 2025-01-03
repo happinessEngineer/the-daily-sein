@@ -1,0 +1,106 @@
+{
+  "gameNumber": 701,
+  "date": "2026-12-05",
+  "questions": [
+    {
+      "quote": "It - it's just that I'm here with my parents, and my mother wants me to take a civil service test - and to tell you the truth, I don't even think I'd pass it.. So..",
+      "characters": [
+        "Doctor",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's a delicate mechanism - It, you know, needs lots of packaging.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And he's very particular. Ben, you're staying tonight, right?",
+      "characters": [
+        "Carol",
+        "Conrad",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Just when I was doing great. I told you God wouldn't let me be successful.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Those birthdays. I told you. They're relationship killers. If a relationship is having any problems whatsoever, a birthday will always bring it out.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, they have to give up some time, they can't stay out there all night?",
+      "characters": [
+        "Matthew",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't want to! I'm outta money! I got 714 dollars left in the bank.",
+      "characters": [
+        "Rudy",
+        "Elaine",
+        "Milos",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How do you just walk into a house and take a TV Guide? How does she expect you to watch TV?  Am I just supposed to turn it on and wander aimlessly around the dial?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I told my uncle I had a stomach ache tonight. You think he bought that?",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah,yeah!! I'll pick you up right now.....All right All right....Hey! gotta go.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

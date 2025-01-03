@@ -1,0 +1,106 @@
+{
+  "gameNumber": 768,
+  "date": "2027-02-10",
+  "questions": [
+    {
+      "quote": "We might as well just stay here, we haven't got that much time if we wanna make it to the movie.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How could she forget I've been ordering lunch every day here for 3 and a half years?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Poppie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, actually my parents are over, but, would you like to meet them?",
+      "characters": [
+        "Gavin",
+        "Jerry",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "I think that I was in that theatre. That, that was really funny.",
+      "characters": [
+        "Valerie",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "You know, when I was a kid, we didn't have these elaborate birthday parties w-with catered food and entertainment. I remember my 7th birthday party...",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. Yeah, I been getting HBO and Showtime for free. See, they just found out about it, so now they wanna come and take it out.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll handle this, Violet. Why don't you take your three hour break? Oh, calm down, everyone. No one's cancelling any mail.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Proof? You want proof? He's driving around in a brand new Cadillac. Now what more proof do you want?",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Elaine, the guy's Jewish two days, he's already making Jewish jokes.",
+      "characters": [
+        "Jack",
+        "Hanke",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey -- why don't you just go then! And -- oh, give this to George. Tell him he owes me $500!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    }
+  ]
+}

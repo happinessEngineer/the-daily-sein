@@ -1,0 +1,106 @@
+{
+  "gameNumber": 968,
+  "date": "2027-08-29",
+  "questions": [
+    {
+      "quote": "Aw, no, no, I understand. I got plenty of friends in showbusiness. I know you're all very busy.",
+      "characters": [
+        "Leo",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "You see this is the thing. . . .  I just feel . . . mumble, cry, mumble, . . . I'm scared. You and I together,",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, she's something else. Hey, so what happened? Did you hold your ground or...uh…",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Doorman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen. You're beautiful. You're intelligent. You'll meet other girls...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Landis"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why do I always have the feeling that everybody's doing something better than me on Saturday afternoons?",
+      "characters": [
+        "Frank",
+        "Steven",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Instead, there's a pole. It requires not decoration. I find tinsel distracting.",
+      "characters": [
+        "Frank",
+        "Nina",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh, I wanted to talk to you--I'm sorry, I--didn't know you...  had company.  Hiya, I'm George.",
+      "characters": [
+        "Stan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I suppose he could swivel. Hey maybe one of those director's chairs. What do you think of those.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sorry? Are you kidding? You did me the biggest favor of my life. I spoke to a lawyer, we're suing for millions.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Russell"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's great.  And, uh, I'll be very interested to hear the diagnosis.",
+      "characters": [
+        "Lloyd",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Lloyd"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1112,
+  "date": "2028-01-20",
+  "questions": [
+    {
+      "quote": "Locking your keys in your car is the best career move you ever made.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How long have you been waiting to squeeze that into a conversation?",
+      "characters": [
+        "George",
+        "Mohel",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I got that root canal tomorrow morning. It'll be easier if I go home.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, after dinner last week, she invites me back to her apartment.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Robin"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ya, then maybe baldness will catch on. This will all be turning your way.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's very funny. Elaine told me you were some kinda comedian.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Brett",
+        "George"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "Yeah, I know. I have to go check it out. It's a beautiful button too, you know. It's antique ivory. It was my mother's.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, hello Miss Pepper, it's a pleasure to meet you.  And you must be Professor Von Nostrand?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Landlord"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "No, she's taking this course in education for her masters. It's part of her research project, so I have to be a guinea pig.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Willie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They haul you aboard the mother ship, take you back to their planet as a curiosity. Now: would you rather be in their zoo, or their circus?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Lois"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 700,
+  "date": "2026-12-04",
+  "questions": [
+    {
+      "quote": "Alright put your hands up over your face, pretend you're sleeping.",
+      "characters": [
+        "Jerry",
+        "Carol",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's my problem? Punks like you, that's my problem. And you better not screw up again Seinfeld, because if you do, I'll be all over you like a pitbull on a poodle.",
+      "characters": [
+        "Bookman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "Yeah, we do that all the time. You should see the looks on people's faces.",
+      "characters": [
+        "Jerry",
+        "Cop",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Cop"
+    },
+    {
+      "quote": "He thinks I am. I'm not gonna betray that trust. Here's what I wanna do; I think I can get a section...",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Marcy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah yeah. Well uh, you know, I'd invite you in, but uhm... you know.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're probably gettin' an ulcer. This job is killing you! It's killing Us.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Alec",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but they got the chocolate. We'll be going in with lesser babka.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, do you think it's possible that he's mad at me because he didn't get the day-after 'thank you'?",
+      "characters": [
+        "Kramer",
+        "Wyck",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Where do you think this relationship is? If you are thinking of instituting an open-door urination policy, let me disabuse you of that notion right now, my friend.",
+      "characters": [
+        "George",
+        "Bania",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 878,
+  "date": "2027-05-31",
+  "questions": [
+    {
+      "quote": "Ah, you're lucky you're walkin' out of here with a pair of pants on!",
+      "characters": [
+        "Kramer",
+        "Father",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, let's just do it.  What? What is going on? What is that about?",
+      "characters": [
+        "Kramer",
+        "Enzo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Faking? What makes you think that I have time to see doctors, take X-rays, make appointments, when there's absolutely nothing wrong with me? What kind of a person would do a thing like that?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. He wouldn't tell me his phone number, where he worked... I'll bet he's in a relationship.",
+      "characters": [
+        "Susan",
+        "Wyck",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's not that I want to keep talking about it? just think that the subject should resolve itself based on its own momentum.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's southside. Sorry, we don't deliver below Eighty-sixth.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "Ya know, the guy has one leg and he still calls himself Leapin' Larry, you'd think he had a sense of humor about it.",
+      "characters": [
+        "Conrad",
+        "Gary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, he's come up with some other move. You should see this thing.",
+      "characters": [
+        "Clare",
+        "Elaine",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, listen; we are always sitting here, I am always helping you with your girl problems and you are helping me with my girl problems. Where do we end up?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey you know this is the first time we've ever seen each other naked.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Levitan",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

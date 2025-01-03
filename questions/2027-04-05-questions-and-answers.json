@@ -1,0 +1,106 @@
+{
+  "gameNumber": 822,
+  "date": "2027-04-05",
+  "questions": [
+    {
+      "quote": "Just let me ask you something. Is it \"February\" or \" February\"? Because I prefer \"Febuary\" and what is this \"ru\"?",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Ah,  \"It was damp and chilly afternoon, so I decided to put on my sweatshirt!\"",
+      "characters": [
+        "George",
+        "Lippman",
+        "Rita",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "I couldn't look at a donut for the next two years. Well not that I was ever one for the sweets.",
+      "characters": [
+        "George",
+        "Morgan",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "What? I'm not married. I'm not allowed to go out with somebody else?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"War--What Is It Good For.\"  Absolutely nothin' HUH! Say it Again! ahehehehe",
+      "characters": [
+        "Receptionist",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ok, yeah. All right look, I'll be out of here by noon. Maybe we'll have lunch together, huh?",
+      "characters": [
+        "Cindy",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tried to tell you, but you wouldn't listen. No, ho, ho! You were gonna get a deal, huh? There's no laws in this place. Anything goes! It's Thunderdome!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. Once he leaves the building, he's out of my jurisdiction.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, well isn't the president allowed to do anything that they want?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you getting to be too much of a big shot now to give me a call? I don't hear from you anymore!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Helena",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 818,
+  "date": "2027-04-01",
+  "questions": [
+    {
+      "quote": "Look, uh, Mr. Peterman, the fact is that I was planning on breaking up with Zach anyway. He was cheating on me!",
+      "characters": [
+        "Jodi",
+        "Elaine",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you know, we were just talking, and uh she mentioned how you're buying your shoes now at Botticelli's.",
+      "characters": [
+        "Connie",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tried to tear it from the side, you can't get a good grip here. You gotta do it like a bag of chips.",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All I know about is sports. That's it. No matter how depressed I get, I could always read the sports section.",
+      "characters": [
+        "Carol",
+        "Cynthia",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You heard me young lady, get in the car.  And you, you should know better. I don't want you infecting my staff.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What a world that would be, if you just could ask a woman what she's thinkin'.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe he's just a guy with a nose like this.  You know a lot of people have a nose like this, they're not necessarily pig-men.",
+      "characters": [
+        "Man",
+        "George",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "oh I don't think so, no we never met, I never talked to you before on the phone, alright I'll see you later buddy",
+      "characters": [
+        "Kramer",
+        "Marla",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, Sure, sure ,,, I got to drop my car off at the new lot.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now she thinks we're gay, not that there's anything wrong with it...",
+      "characters": [
+        "Attendant",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

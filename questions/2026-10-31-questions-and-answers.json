@@ -1,0 +1,106 @@
+{
+  "gameNumber": 666,
+  "date": "2026-10-31",
+  "questions": [
+    {
+      "quote": "I fell asleep in the hot tub and the heat pump broke. Water went down to 58 degrees. I can't get my core temperature back up!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh Elaine, we're doing some really very interesting things right now. We've got some very exciting pilots for next season. We have one with a bright young comedian, Jerry Seinfeld.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Uh, you are kidding me. How am I supposed to get to this meeting?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I am actually going to have a secretary and I get to do the interview.",
+      "characters": [
+        "Noreen",
+        "Kramer",
+        "Rebecca",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Yeah, on one hand he's smart with rockets and on the other hand he's dumb with parking. . . . It's cold out here huh?",
+      "characters": [
+        "Kramer",
+        "Doorman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you know what happens to a butter-based frosting after six decades in a poorly ventilated English basement?",
+      "characters": [
+        "Susan",
+        "Kruger",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That's insulting! Ted Danson makes eight hundred thousand dollars an episode.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, from what I can piece together, our friend here met a gentleman.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! Hey--hey guys! Elaine, sit down. These are a couple o' my friends. Uh, this is Gene. And this guy, we.. just call \"Feldman!\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Kevin"
+      ],
+      "correctAnswer": "Kevin"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 627,
+  "date": "2026-09-22",
+  "questions": [
+    {
+      "quote": "Yeah, about ten, fifteen minutes. But I have to stop at a vegetable stand.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See that was nice, Jerry.  Oh, by the way, I'm the one who broke your trunk.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A forty-eight pack of Eggo waffles? A gallon of barbecue sauce? Ten pounds of cocktail meatballs?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What do you think? They gave me a new car for thirty minutes of 'So, who's from out of town?'",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, where is the guy?!... Nothing?! Almost half my money's gone... Well, call me right back.  Nobody can reach Wilkinson. He hasn't been home or in his office in the past three days!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whoever wants to move them, why do I care who moves them? They can move themselves if they want.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Hey man, women are really loyal to their birth control methods. What does Susan use?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't even want to look at you anymore! All these years of friendship and you're nothing but a felon. You're an embarrassment to the building.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi. I..I was in the audience earlier. You threw my jacket down. I just wanted to pick it up.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Danielle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was trying to stick the landing.  ...was right around here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

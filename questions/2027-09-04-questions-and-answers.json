@@ -1,0 +1,106 @@
+{
+  "gameNumber": 974,
+  "date": "2027-09-04",
+  "questions": [
+    {
+      "quote": "I said, I would like you to leave. Come on, just get your clothes on and get out.",
+      "characters": [
+        "Karen",
+        "Guy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "It was kinda fun.  You know, maybe his name really is J-O-H-N, but he changed it to J-O-N for show business. Well, you know, J-O-N is a lot zippier.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, excuse me, uh, um, Jason. I don't want to get into a big thing here, but... I'm not sure if, technically, what you just said was actually an apology.",
+      "characters": [
+        "Detective",
+        "Rick",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, I'm sure. I went in to get my X-Ray, Somebody takes my wallet. Is that the operation here?",
+      "characters": [
+        "Hanke",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well I was lost, I never saw the first one. By the way, you mind if I watch it here?",
+      "characters": [
+        "Cynthia",
+        "George",
+        "Officer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Poppie, I was just curious...where do you stand on the abortion issue?",
+      "characters": [
+        "Tony",
+        "Glenn",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "At least that's what Jerry says. Now face it. If it hasn't happen it's not gonna happen. All right, we go grab some bouffe . Join us?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Duncan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm working on my Jack Nicholson, You can't handle the truth!",
+      "characters": [
+        "Chiles",
+        "Jerry",
+        "George",
+        "Worker"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, Elaine, you're the bear claw in the garbage bag of my life.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "So when I saw George on the street with an 18 pound turkey and a giant box of wine, I thought: ... What a coincidence. We're just about to eat.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

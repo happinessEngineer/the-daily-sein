@@ -1,0 +1,106 @@
+{
+  "gameNumber": 636,
+  "date": "2026-10-01",
+  "questions": [
+    {
+      "quote": "Yeah, hold on. I'm, uh, I'm just trying to get a reading on my dashboard compass. Where are my parents?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Guard",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, man, it's spinach! I've been walking around like this all afternoon.",
+      "characters": [
+        "George",
+        "Marcy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Every summer you guys went to camp together. I was jealous. Felt like he was the summer me.",
+      "characters": [
+        "George",
+        "Fred",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you're tall - she's tall I'm tall. What's the difference who's tall. We're all tall.",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...Over the balcony, bounced off some respirator thing *into* the patient!",
+      "characters": [
+        "George",
+        "Simon",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh no. That's impossible. I'd rather lie to him for the rest of my life that go through that again. He was crying. Tears. Accompanied by mucus.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we think it would be a nice touch for the Foundation literature. Do you have a favorite poet, George?",
+      "characters": [
+        "Wyck",
+        "Jerry",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Hey, I know what we can do. I've got a friend who works over at the police station. He's a composite artist.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Russell"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "'Cause I'm an idiot! You may think you're an idiot, but with all due respect, I'm a much bigger idiot than you are.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Chiles",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I gotta tell ya, I have a bad association with the name Alex.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

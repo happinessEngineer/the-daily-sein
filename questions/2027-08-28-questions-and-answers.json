@@ -1,0 +1,106 @@
+{
+  "gameNumber": 967,
+  "date": "2027-08-28",
+  "questions": [
+    {
+      "quote": "Oh, Jerry, why didn't you tell me his name! Oh my god, he accused me of seeing someone else, he said tell me his name, he said tell me his name!!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah. Actually, I'm a little disappointed. I kind of had my eye on uncle Leo.",
+      "characters": [
+        "Naomi",
+        "Elaine",
+        "Jerry",
+        "Hal"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "Really?  Well, you don't think it had anything to do with what I said, do you?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great! Great! I actually just had two meaningful intelligent conversations with Corbin Bernsen and George Wendt.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I probably have. Yeah, of course I have. What am I talking about?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Daphne"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So did you bring the lease?  All right, gee, three years, that kinda seems like a long time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, frankly, I don't think she was too concerned about my jacket.",
+      "characters": [
+        "Guy",
+        "George",
+        "Izzy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, my father when I was a kid, he took me to the bank and he lifted me up and he pointed to the teller and he said: 'Sonny boy, take a good look at him, that's gonna be you some day.'",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's a hundred different things here.  What's the difference between these two?    You got propylparabin?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Babu",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Newman, how'd it go? Did you get it all delivered?  What happened?",
+      "characters": [
+        "Enzo",
+        "Peterman",
+        "Michael",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

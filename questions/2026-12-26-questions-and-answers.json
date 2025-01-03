@@ -1,0 +1,106 @@
+{
+  "gameNumber": 722,
+  "date": "2026-12-26",
+  "questions": [
+    {
+      "quote": "Yeah. I don't know if I can handle one of these long-distance relationships.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Would you stop that? It's not safe to be jumping up and down on a plane.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Morty",
+        "Monica"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mrs. Sweedler thank you. Y-You see, this tragedy affected me in a very, very personal way.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Mike"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, my insurance doesn't cover this? The whole thing is a total loss!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "It just seems so cliched, and obvious. It's not interesting writing.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Manny"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Remy, this is George. Would you mind if he watched Breakfast At Tiffany's with us?",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Joe"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Uh, hang on a second, You know what? Changed my mind, make it a tuck.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Ben",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course, I stink, you stink. It's show bizz. everybody stinks..",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, here you go. 'Hey, Reilly. The zoo called. You're due back by six.'",
+      "characters": [
+        "Clerk",
+        "Jerry",
+        "George",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay. I'm just not ga-ga over her. For once I'd like to be ga-ga.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

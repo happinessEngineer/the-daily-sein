@@ -1,0 +1,106 @@
+{
+  "gameNumber": 180,
+  "date": "2025-07-02",
+  "questions": [
+    {
+      "quote": "You are the Queen of Confrontation. You're my new hero. In fact, you've inspired me. I'm gonna call George about something right now.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry I can't be so flip about this kind of thing. You know, after what happened to Pop.",
+      "characters": [
+        "Deena",
+        "Elaine",
+        "Jerry",
+        "Fdr"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "Oh yes, yes. Very beautiful girl, very beautiful. Is your girlfriend?",
+      "characters": [
+        "Captain",
+        "Bruce",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Bruce"
+    },
+    {
+      "quote": "Right, so, I called my friend, you know - the one who set us up - I found out, he's a bad-breaker-upper.",
+      "characters": [
+        "Seth",
+        "Jack",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I spent my money on the Clapgo D-29. It's the most impenetrable lock on the market today. It has only one design flaw. The door...  ...MUST BE CLOSED!!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Am I happy Beth left me? Of course not. Do I hope to pick up the pieces and move on? Absolutely",
+      "characters": [
+        "Kramer",
+        "David",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "Good. Cause if this is a lie, if this is a joke, if this is your idea of some cute little game… we're finished!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. So, he caught me in a cleavage peek, so big deal. Who wouldn't look at his daughter's cleavage? She's got nice cleavage.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because she came down to the club and heckled me! Give her a taste of her own medicine!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Hoyt",
+        "Emily"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jeannie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

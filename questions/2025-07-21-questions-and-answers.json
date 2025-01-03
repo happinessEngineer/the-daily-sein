@@ -1,0 +1,106 @@
+{
+  "gameNumber": 199,
+  "date": "2025-07-21",
+  "questions": [
+    {
+      "quote": "Oh, you lying little snot. And he's a cheater. Aren't ya' you little twerp?",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you a question. Who would win in a fight between you and me?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Jake",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look Jerry, we'll meet you at the theater.  OK, next showings at 9:00, we can't wait any longer.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Every time I see her, I gotta kiss her hello. I just did it once, on her birthday, somehow it mushroomed. Now I dread seeing her because of it.",
+      "characters": [
+        "Jerry",
+        "Babu",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I've got some literature in my car that will change your whole way of thinking.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Kramer",
+        "Ned"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "So Clare sure looked real funny covered in oil like that…  Hello-o-o-o I got beamed with a giant ball of oil…",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really? Make sure he signs this. Oh, look George, if there's a problem with Morgan you can tell me.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Uh, yeah, uh, no. Newman, uh, I heard that you found a fur coat in a tree. And, I believe that it belongs to a friend of mine, and I'd like to give it back to him.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here you go, Mrs. Seinfeld...with your 25% discount, it comes to $17.80.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Marty"
+      ],
+      "correctAnswer": "Marty"
+    },
+    {
+      "quote": "See, there are no jerk stores. It..it's just a little confusing, is all.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gina",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

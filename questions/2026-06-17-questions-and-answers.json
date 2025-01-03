@@ -1,0 +1,106 @@
+{
+  "gameNumber": 530,
+  "date": "2026-06-17",
+  "questions": [
+    {
+      "quote": "What is this? A birthday card. Ha ha . . . signed by the ENTIRE Yankee organization! . . . This could be worth something.",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I didn't want to tell you this, but usually he hates everyone.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steinbrenner",
+        "Michael"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He's right! It's the same thing with the femenists. You know, they want everything to be equal, everything! But when the check comes, where are they?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "OK, just a second lets not lose our heads here. Kramer you know you are always welcome in my home but as far as Mr. Johnson is concerned, that's another story.",
+      "characters": [
+        "Jerry",
+        "Man",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, you had some good stuff. The cancer bit? I mean, it was edgy, it was not my sort of thing but some of those people out there, they really liked it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The bad date, the bad sport, the bad citizen...  The bad tipper!",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's because I'm registered under my full legal name, Raymond Thomas Wochinski. Ray Thomas is my professional name.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "You didn't have make-up sex? How could you not have make-up sex? I mean that's the best feature of the heavy relationship.",
+      "characters": [
+        "Lippman",
+        "Gary",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah there's a box spring but it's attached to the headboard and we'll have to take that apart. Then we got the couch.",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Are you gonna leave after its over? You know, if we have sex.",
+      "characters": [
+        "Marla",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Marla"
+    }
+  ]
+}

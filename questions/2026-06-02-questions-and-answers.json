@@ -1,0 +1,106 @@
+{
+  "gameNumber": 515,
+  "date": "2026-06-02",
+  "questions": [
+    {
+      "quote": "Well, listen, if you bring 'em by, maybe we could interest you in a game of pool.. Yeah, Frank here - he's got his own billiard room.",
+      "characters": [
+        "Steinbrenner",
+        "Jackie",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, let me ask you a question. In these nudist colonies, do they eat naked in the dining room?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yes I am Father. Incredibly sincere. So, uh, pffft, am I in?",
+      "characters": [
+        "George",
+        "Nina",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is the thing where you go and you have to make your own pizza?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, OK. Next time lets play ping pong. It's easier to jump over the net.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is incredible! This is one of the greatest things I've ever done in my life! I'm gonna call my mother.",
+      "characters": [
+        "Rick",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "the four of us are going out Saturday right? That should be fun",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you know the important thing is that you learned something.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if this tenant board is so impressed with suffering, maybe you should tell them the \"Astonishing Tales of Costanza\".",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Course, I wouldn't, I mean uh, the guy is uh, well obviously  the guy has his problems.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

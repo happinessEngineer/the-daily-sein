@@ -1,0 +1,106 @@
+{
+  "gameNumber": 970,
+  "date": "2027-08-31",
+  "questions": [
+    {
+      "quote": "All right, you boys get yourselves together. We'll head up to the restaurant. I'll leave a note for Elaine. I'm going to the bathroom.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Pam",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "Well, I just wanted to...  You forgot the gift certificate to Barnes and Noble.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you know what a balm is? Have you ever seen a balm? Didn't you read the instructions?",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Kramer",
+        "Hanke"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You'll see.  Boy, I had no idea you felt this way about the Costanzas'",
+      "characters": [
+        "Loretta",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you know what happens if I miss him? I don't get credit for the pickup and I lose my 50 bucks...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm cold too. At least you've got a coat. Let's get in the car.",
+      "characters": [
+        "Jerry",
+        "Lisi",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Get up! The alarm clock didn't go off!  It's 9:15! You're gonna miss the plane! It's 9:15!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's dynamite. Yeah, I'll look for the Chinese food leftovers.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Patrice",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh.  I talked to Arthur Jobanian.  Yeah, the Drake's wedding?  That's off.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George is right, Jerry. See, here, you're just another apple, but in Japan, you're an exotic fruit. Like an orange. Which is rare there.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

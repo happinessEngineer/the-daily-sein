@@ -1,0 +1,106 @@
+{
+  "gameNumber": 832,
+  "date": "2027-04-15",
+  "questions": [
+    {
+      "quote": "You know, the basic idea of negotiation, as I understand it, is to get your price to go... up.",
+      "characters": [
+        "Heather",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hold on... Elaine, there's a Jerry Seinfeld on the phone for you.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Woman",
+        "Leo"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "I got three 'Pottery Barn' catalogs in one day. That makes eight this month.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, I'm gonna find a guy with a truck. GLC must live on!",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I had to talk to you - I noticed you haven't been returning my calls.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell you what. If they win the penant I'll sit naked with you at the World Series.",
+      "characters": [
+        "Peterman",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Well, ah, what's in a name? I mean, water's water. Right?",
+      "characters": [
+        "George",
+        "Brett",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think he was trying to tell me something, like it had some sort of a meaning.",
+      "characters": [
+        "Dana",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I really can not comprehend how stupid people could be sometimes. Can you comprehend it?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ray",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no no no -- We bought the wine here before, but now, you know we're bl-blocked in by some car double parked and we're just waiting for the guy to pull out.",
+      "characters": [
+        "Duncan",
+        "Lloyd",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

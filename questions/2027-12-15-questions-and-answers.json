@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1076,
+  "date": "2027-12-15",
+  "questions": [
+    {
+      "quote": "You never run out, do you?  Where's Kramer? Everything's finished here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just don't understand it as soon as I met these dogs they started growling at me.",
+      "characters": [
+        "Kimbrough",
+        "Jackie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You come all the way up here to see a back specialist and you're lifting heavy suit cases.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Eva",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told you. He stopped calling me. I moved on. I'm not hung up on him. What are you looking at?",
+      "characters": [
+        "Margaret",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "Thirty-six.  What's the signal?  Howbout this?  Chicken wing?  No, no, no, I got a better one.  Head patting.",
+      "characters": [
+        "Keith",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's tough to get a good read but I think if I brought him a chair, he'd sit.",
+      "characters": [
+        "Tim",
+        "Susan",
+        "Noel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, yeah. I borrowed some cones from them when I was sweeping my car-pool lane.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Aaron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The bathroom door. I remember someone had played tic-tac-toe on it, and the X's won; they went diagonally from the top left to the bottom right.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "Yeah. It was very frightening. My life was in danger. You should've seen the way they talked to me.",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't you see what it says here? Don't you understand what that's implying?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Farkus"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

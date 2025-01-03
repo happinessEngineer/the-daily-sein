@@ -1,0 +1,106 @@
+{
+  "gameNumber": 639,
+  "date": "2026-10-04",
+  "questions": [
+    {
+      "quote": "Jerry, I didn't want you to know I was out of work. It's embarrassing!",
+      "characters": [
+        "Lisi",
+        "Elaine",
+        "Cindy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.",
+      "characters": [
+        "Tor",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "You're afraid to sit next to a man. You're a little homophobic, aren't ya?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I made a conscious effort not to look. There's certain information I just don't want to have.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Every day she comes in, she sits at that table and reads. Never talks to anybody.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Kimbrough"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, I've been lyin' about my income for a few years. I figured I could afford a fake house in the Hamptons.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tv",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, there you go again. What is the difference what I think?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's... what we used to call him in high school, the exterminator. He's a linebacker. Oh, did we have some wild times.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She thinks a guy who lies about a life-threatening illness, so he can get some phony hair has perspective?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a flight leaving at eight, and another one at eight-thirty, which one do you want?",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kate"
+    }
+  ]
+}

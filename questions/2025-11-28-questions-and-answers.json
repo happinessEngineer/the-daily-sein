@@ -1,0 +1,106 @@
+{
+  "gameNumber": 329,
+  "date": "2025-11-28",
+  "questions": [
+    {
+      "quote": "Where did I get the coffee? Where do think I got the coffee, at the grocery store.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But, unfortunately I will be out of town with my lady-friend and therefore unable to bid on the lot. I was hoping maybe you would go in my stead.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yeah, Tommy, this is Connie. You gotta help me. Some guy dropped dead on top of me.  I can't call the cops, 'cos Joey might find out.  I can't. I'm stuck. You gotta help me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Rick",
+        "Connie"
+      ],
+      "correctAnswer": "Connie"
+    },
+    {
+      "quote": "Oh, no no no no, don't concern yourself with me, because I'm - I'm good. I'm - I'm very good, I mean I'm really very, very good.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you be able to come all the way downtown again in rush hour to pick me up?",
+      "characters": [
+        "Lois",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Lois"
+    },
+    {
+      "quote": "Kramer, I know what I'm talking about. There's no way FDR wants you to drop dead.",
+      "characters": [
+        "Jerry",
+        "Beth",
+        "Morgan",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She knew who I was! She saw me in a club one time! My first date ever with the Pacific Rim. I'm very excited.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Captain"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, very refreshing.  Sex is like joining a private club. I'll be the same me tomorrow, but suddenly, the no trespassing sign will be gone.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The very pants I was returning. That's perfect irony! Elaine, that is interesting writing!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, if you ever talk to her, tell her I'm sorry. Elaine too. She feels terrible.",
+      "characters": [
+        "Leo",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

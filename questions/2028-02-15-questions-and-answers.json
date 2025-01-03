@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1138,
+  "date": "2028-02-15",
+  "questions": [
+    {
+      "quote": "Yes, I told him all about you going and he got all excited and decided to go.",
+      "characters": [
+        "Marla",
+        "Elaine",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Oh, this isn't even B.O.! This is *beyond* B.O.! It's *B*.B.O.!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Brett",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well you have to maintain the same disposition too. You can't start acting any differently. You have to be nice.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah I guess. So you wanna meet at that place at seven thirty?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine! Excellent. I'd like you to meet a friend of mine, Irwin Lubeck.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I know it's not what the ladies like. But without some solid sack time, I'm a zombie.",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah... Puddy. Well, I won't fire him until I see if this new guy can... handle the workload.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Conrad"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think we should. We really don't know each other very well.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Euh.. Fine , good , yeah! Just been occupying myself with some of your....hem reading material.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I set up a screening, everyone takes their shirt off and click, I snap me a shot of a bear-chested Kruger.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

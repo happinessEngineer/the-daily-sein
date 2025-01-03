@@ -1,0 +1,106 @@
+{
+  "gameNumber": 810,
+  "date": "2027-03-24",
+  "questions": [
+    {
+      "quote": "Ooh, I love that place, but it's usually so crowded. Can we get a table?",
+      "characters": [
+        "Bob",
+        "Winona",
+        "Beth",
+        "George"
+      ],
+      "correctAnswer": "Winona"
+    },
+    {
+      "quote": "Look, sorry doesn't cut it. We're running a ball club here George. You've got to pay attention.",
+      "characters": [
+        "Elaine",
+        "Conrad",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "He wants to be like you because you're a comedian. Maybe you could talk to him?",
+      "characters": [
+        "Harold",
+        "Elaine",
+        "Kramer",
+        "Maryedith"
+      ],
+      "correctAnswer": "Maryedith"
+    },
+    {
+      "quote": "A party is a bad date situation. It doesn't matter who you're with. You could be with J. Edgar Hoover. You don't want to sit and talk with Hoover all night. You want to circulate.  Ho, ho, ho.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I hate asking for change. They always make a face. Like I'm asking them to donate a kidney.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well put something down, you're taking twenty minutes on this. So is Uncle Mac and Artie, they're all coming over here before the wedding?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Bookman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...They'll saw through bone.  Uuuuuuuing yutyutyutyutn naannnaaa [makes saw noises while gesturing over Roy's chest] You'll see what's *inside* bone...",
+      "characters": [
+        "Doctor",
+        "Helen",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right. What are you, outta your mind? Look at this. What did you buy here? You will never be able to finish all this stuff.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I thought there was going to be a character named Elaine Benes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "48 years, Mom! And now we have to close! All because of that idiot and his bloody nose!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Pop",
+        "Kramer"
+      ],
+      "correctAnswer": "Pop"
+    }
+  ]
+}

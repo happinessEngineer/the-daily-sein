@@ -1,0 +1,106 @@
+{
+  "gameNumber": 740,
+  "date": "2027-01-13",
+  "questions": [
+    {
+      "quote": "It looked just like the jacket I brought in to be dry-cleaned. He complimented me on it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah. I'm Doctor Cooperman. I just want you to know that this won't take long. And he's going to be fine.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "And that failure to become a banker was eating at you. Eating-eating-eating at you inside.",
+      "characters": [
+        "Marcy",
+        "Jerry",
+        "Owner",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Make sure Kramer uses good tape when he sends back the raincoats.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I don't know. But I don't. I'm actually almost happy to hear it.",
+      "characters": [
+        "Ben",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's no need to get excited. Can't we discuss this like gentlemen?",
+      "characters": [
+        "Ray",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, anybody leaves anything here, you can just take it? You have a license to steal? You are like the James Bond of laundry?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't have this on my conscience. We're like Leopold and Loeb! **",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, he had the right idea. Hold out. That's how you get the big money, huh George?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Laura"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I mean, she thought it was kind of strange to just order a salad. . . . You know. . . . For a man.",
+      "characters": [
+        "George",
+        "Mike",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

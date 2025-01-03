@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1023,
+  "date": "2027-10-23",
+  "questions": [
+    {
+      "quote": "Did you ever notice how happy people are when they finally get a table? They think they're so special because they've been chosen. It's enough to make you sick.",
+      "characters": [
+        "Elaine",
+        "Ruby",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sex, that's meaningless, I can understand that, but dinner; that's heavy. That's like an hour.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Seth",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's like I'm thinking of something, and you're  one step ahead of me.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He is filing a chapter eleven. Why, what's going on, why is he filing a chapter eleven?",
+      "characters": [
+        "Joe",
+        "Katie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So Kramer, where'd you get all these lobster, at the Fleesher's Market?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "I wasn't going to say anything, but then I could see that he wasn't going to open his mouth.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, anyway, she's uh, having some kind of a family lunch, I'll swing by after.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Chiles"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, I told you I wasn't funny all the time.  Hey George, look, I'm not funny now.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I still don't understand how you can get in trouble for taking your own racquet.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe it. I got nothing! I don't even know her name! Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppen... Sagman... Sag...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "Dana"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

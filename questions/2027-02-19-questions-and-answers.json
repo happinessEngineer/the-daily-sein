@@ -1,0 +1,106 @@
+{
+  "gameNumber": 777,
+  "date": "2027-02-19",
+  "questions": [
+    {
+      "quote": "We were walking down the block right by your house and I was just about to break up with him then all of a sudden he started to twitch.",
+      "characters": [
+        "Lois",
+        "Jerry",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, what's the difference. What are we gonna do now? He won't take our calls, we can't get into his office...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Testikov",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No problem.  There's no problem.  She just owes me ten dollars, that's all.",
+      "characters": [
+        "George",
+        "Peggy",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Here's my card. I'm in real estate, so, if you're ever looking for something bigger, something nicer..  ..maybe not right now. Anyway..",
+      "characters": [
+        "Captain",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I wrote some jokes to the show and they gave me two tickets.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, it's a very awkward situation. I don't wanna be presumptuous.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I'm a little hungry. You wouldn't happen to have any of that mango left?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bruce",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, George, come in, come in. George, word up's you've been cracking under the pressure. Can't cope, can't stand the heat. Spit the bit.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "And when is Brother Costanza planning on telling Mother Costanza?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, you know, I've never been so insulted in my entire life. There's something really wrong with this man. He is a Soup Nazi. What? What is that?",
+      "characters": [
+        "George",
+        "Babu",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

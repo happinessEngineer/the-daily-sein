@@ -1,0 +1,106 @@
+{
+  "gameNumber": 223,
+  "date": "2025-08-14",
+  "questions": [
+    {
+      "quote": "\"Call me. Thirty-six, twenty-four, forty-six. I think I have what you're looking for.\" .",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "C'mon, go for twenty-five hundred. We'll do it together. Come on, come on. We're in it together.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, that's it, yeah. Boy, Stubs sure went to town with this thing huh? Yeah, well, Bobby, uh, what if I told you a very important person at the New York Yankees needed this card back.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?",
+      "characters": [
+        "Helena",
+        "Kramer",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen.",
+      "characters": [
+        "Conrad",
+        "Harold",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, all right. I'll help you but I will except something in return.",
+      "characters": [
+        "Newman",
+        "Mickey",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, well, Mr. Pitt, there's really nothing that can't wait. We're trying to catch a movie.",
+      "characters": [
+        "Kramer",
+        "Receptionist",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I'm against AIDS. I mean, I'm walking, aren't I? I just don't wear the ribbon.",
+      "characters": [
+        "George",
+        "Man",
+        "Tor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I have to be able to trust you... If I can't trust you then there's no way that this can work.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "The gardener did a nice job planting the rose bushes, didn't he dear?",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    }
+  ]
+}

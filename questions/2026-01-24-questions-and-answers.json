@@ -1,0 +1,106 @@
+{
+  "gameNumber": 386,
+  "date": "2026-01-24",
+  "questions": [
+    {
+      "quote": "Hey, Poppie...you really think people wanna make their own pizza?",
+      "characters": [
+        "Rabbi",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, you don't have to. It's all about tickling their buying bone.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, hey, hey! What's goin' on here?  You didn't agree to anything, did ya?",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I got a hundred cards, here, pick a card, take a card, any card you want, go ahead, whichever one, I don't care.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. She tried to give me the \"it's not you, it's me\" routine.",
+      "characters": [
+        "Marla",
+        "Pitt",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You saved my life, George. You buying my art is what inspired me to get better. I'll never forget what'cha did for me.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "George",
+        "Roy"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Well, guess what I'm doing. I'm going to Mr. Pitt's, and I am telling him that I am quitting.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Announcer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I, I have to say, I've never admitted this to anyone, but um, I kind of like airline food.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but they let me go on and on all about the Hamptons, they never said a thing! You don't let somebody lie when they know you're lying. You call them a liar!",
+      "characters": [
+        "Clerk",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, I've given up. So, now we're going to a bunch of Spanish restaurants. I figure that'll cover us either way.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

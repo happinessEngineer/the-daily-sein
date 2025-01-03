@@ -1,0 +1,106 @@
+{
+  "gameNumber": 247,
+  "date": "2025-09-07",
+  "questions": [
+    {
+      "quote": "I think I'm getting tired of it. I mean is that all it does? Hello? La-la-la?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Conrad"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ooo, yeah..   You know, it's gettin' kind of late, I, I really have to be going, so, uh, it's nice seeing you again, all right--",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, I don't have time for this. Uh, Anna, do you wanna talk to George?",
+      "characters": [
+        "Jerry",
+        "Secretary",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye.  Great news! Yeah, the strike has been settled. I'm going back to work.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sara",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How you gonna catch him? He's probably boarded the plane already.",
+      "characters": [
+        "Kramer",
+        "Earl",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, Eddie, that might be just a tad harsh for womenswear.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, actually, he, um, doesn't really like to do... everything.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Eddie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no, you're not going out on a high note with me Mr. Kruger!",
+      "characters": [
+        "Kate",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We-We're doing that evening of Eastern European National Anthems.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Pretentious? Who, who isn't pretentious? Ha, ha, if everyone who was pretentious was in a mental institution, ... uh, obviously THIS isn't a mental institution.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

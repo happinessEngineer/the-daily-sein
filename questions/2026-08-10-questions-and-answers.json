@@ -1,0 +1,106 @@
+{
+  "gameNumber": 584,
+  "date": "2026-08-10",
+  "questions": [
+    {
+      "quote": "Coulda fixed me up with Marisa Tomei. She said I was just her type!",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Absolutely. You're telling me there's no room to move on pasta. All starches are a scam.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How are you feeling, Adam?  Elaine!  This is our pediatrician, Ben Feffa.",
+      "characters": [
+        "George",
+        "Rava",
+        "Carol",
+        "Tom"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "She probably never heard it. Don't you see what this means? It's like the whole thing never happened. It's like when Superman reversed the rotation of the earth to save Lois Lane!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's right, I heard Kramer got mugged out on the suburbs on a baby-sitting gig.",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Busboys are always changing jobs. That's the business. I know. I work with these guys. I tallk to them in the kitchen at the comedy clubs.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Receptionist",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Of course not. I mean sure, there may have been one or two occasions in the past, when I may have reacted in uh impulsive or somewhat immature manner, but those days are well behind me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, they're not cloning sheep. It's the same sheep! I saw Harry Blackstone do that trick with two goats and a handkerchief on the old Dean Martin show!",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You gotta go with me. I mean, you-you're my alibi. You have to take the stand.",
+      "characters": [
+        "Nina",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, I hear it's quite beautiful there this time of year, and of course you know I'm one-quarter French.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Driver",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

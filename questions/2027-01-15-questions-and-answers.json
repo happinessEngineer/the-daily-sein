@@ -1,0 +1,106 @@
+{
+  "gameNumber": 742,
+  "date": "2027-01-15",
+  "questions": [
+    {
+      "quote": "Yeah, and you were engaged for like a minute, I was engaged for a year.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Saturday night with your parents. Unless I'm your sister this is a date.",
+      "characters": [
+        "Bania",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I met this woman. She is not traveling to any other dimensions.",
+      "characters": [
+        "Jerry",
+        "Beth",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I dunno. I was just talking to the man and he walked out on me!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I'll hold on. Hey George, did you see a piece of paper I had on the nightstand here, like crumpled up, like a napkin?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Karen",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah! And he is so boring! But now, whenever he answers the phone: I just hang up.",
+      "characters": [
+        "Bookman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Chocolate chip mint? Oh well, actually Jerry I prefer chocolate chip. What is it about the chocolate and the mint that makes it go so well together?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "NBC is letting me use their private jet? And I can go anywhere I want? That's fantastic! Thanks. Great. Okay, bye.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jill's father is in the hospital and you call to ask about him on a cell phone?",
+      "characters": [
+        "George",
+        "Silvio",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, C'mon! Let's go! I thought we were going to take a steam!",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

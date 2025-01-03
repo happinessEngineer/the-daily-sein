@@ -1,0 +1,106 @@
+{
+  "gameNumber": 437,
+  "date": "2026-03-16",
+  "questions": [
+    {
+      "quote": "I think I swallowed a fly! I swallowed a fly! What do I do?  What can happen?!",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Give me the phone.  Yea, Hi I would like to speak to Patrice. ... what? ... oh really? ... oh, ok, thank you, ...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! You take that mannequin down right now, or I'm pressing charges.  Yes, this is my attorney.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Probably. They all do. In my high school, half my graduating class had them. Of course, I'm from Long Island, so...",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll see.  Have a seat. That's a lovely scarf you're wearing. Where did you get it?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "The manage. And not only that. She just called me and said she talked to the roommate and the roomate's into the manage too.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Noel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it looked as if you were in a real conversation over there.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, it's my ex-roommate, she moved out four years ago, I-I've been sub-letting my apartment from her.",
+      "characters": [
+        "Newman",
+        "Donna",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, so she and \"Triangle Boy\" can go out to fancy restaurants.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everything she thinks. you think. Everything you think she thinks. No I can't take it. I can't take it Jerry. It's too much. It's too much.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 217,
+  "date": "2025-08-08",
+  "questions": [
+    {
+      "quote": "Yeah, doctor. I'm going to have to wait in that little room all by myself, aren't I?  I better take this. I hate the little room.  \"Oh, hello, Doctor.\"",
+      "characters": [
+        "Peterman",
+        "Tim",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy - I'm really surprised at Elaine - that whole phone business - she should know better than that.",
+      "characters": [
+        "Kramer",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want soup. I can make my own soup. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds celery.\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Leslie",
+        "Margaret"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, hi! Hi. I called earlier about getting the yogurt tested.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Simon",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you want to be able to get it out or do you want to not be able to get it out?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...Ahh. You don't plan to hit these balls with that racquet, do you?",
+      "characters": [
+        "Harold",
+        "Estelle",
+        "Toby",
+        "Milos"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "I don't know, 120, 130…Then they sent some guys to sandblast for 6 hours. Tomorrow they are putting in asbestos.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mike. You say you're a bookie? You take a bet an' then you can't pay? I don't know, Mike, to me it sounds a little, how you say.. \"Phony\"?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Federal Express?! Is she out of her mind? Why didn't she just ship it?!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

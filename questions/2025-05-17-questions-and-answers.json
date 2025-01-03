@@ -1,0 +1,106 @@
+{
+  "gameNumber": 134,
+  "date": "2025-05-17",
+  "questions": [
+    {
+      "quote": "Did you wrench it? Did you jam it? Maybe you squeezed it. Turned it...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what if they have a lobster. Suddenly you're a shell-fish connoisseur.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Dag Gavershole Plaza huh?  Pendant Publishing, that's books right?  Miss?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Driver"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "Now is that considered a nut, because I know the cashew is a legume.",
+      "characters": [
+        "Elaine",
+        "Toby",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "They don't consider it stolen, if you wilfully give the guy the keys.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He believes it possesses some extraordinary power over women.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I'm a *woman*.  Ba-ba-ba-boom-chicka-boom-chicka-boom-boom- boom.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wide open, I was wide open underneath! I had three inches on that guy. You two were hogging the ball.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Teller",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, is he still mad at you for crashing his Thanksgiving party?",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But in the zoo, you know, they might, put a woman in there with me to uh.. you know, get me to mate.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Harold",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

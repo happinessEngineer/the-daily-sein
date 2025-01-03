@@ -1,0 +1,106 @@
+{
+  "gameNumber": 510,
+  "date": "2026-05-28",
+  "questions": [
+    {
+      "quote": "He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Guy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. You have a good lunch. But I'll meet you back here for the movie.",
+      "characters": [
+        "Sheila",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sheila"
+    },
+    {
+      "quote": "You've got a good eye, there. I see you've noticed the uni-body construction. I'm Rick. Are you looking to buy or to lease?",
+      "characters": [
+        "George",
+        "Melissa",
+        "Salesman",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Oh, man! All right, come on. There's got to be something that'll change your mind, FDR. Something..\"  What, you want my kidney?  Mama!..",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I noticed people staring at my head because they like what they see.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know … he's got some valuable antiques, He's worried they'll break something.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "David",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right, we're both big Mickey Mantle fans, and we love the name. It's very unusual.",
+      "characters": [
+        "Ken",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Ken"
+    },
+    {
+      "quote": "You walk over that table, you pick up an eggroll, you don't say anything, you eat it, say 'thank you very much', wipe your mouth, walk away- I give you 50 bucks.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean what if, what if, this this guy has got all my money. Plus he has got some Kramer's money with him. This guy could write checks to himself right out of my account.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Detective"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know you gotta get permission from me. I'm the super. Who said you could do that?",
+      "characters": [
+        "Silvio",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Silvio"
+    }
+  ]
+}

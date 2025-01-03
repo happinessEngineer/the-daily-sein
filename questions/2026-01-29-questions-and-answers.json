@@ -1,0 +1,106 @@
+{
+  "gameNumber": 391,
+  "date": "2026-01-29",
+  "questions": [
+    {
+      "quote": "I'm glad I cut you off, because black Saab rules! So long, jackass!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was in the back of the room on the left, she must have been sitting right in front of it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You mean, you didn't know you were doing any of these things?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. That's from, uh, Star Trek III... The Search for Spock.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Salesman",
+        "Father"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It doesn't matter, it doesn't matter, it doesn't matter. Um. Oh, here's one: race.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "It's cold out, and I didn't bring my own. Jerry! God forbid I should borrow one from Holly. It might have belonged to grandma Memma. Thanks for mutton.",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mr Har-harwood. Well, what an unexpected surprise to have you back at the Alex Theatre.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, George brought home movies of his boyhood trip to Michigan.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's better than eating it alone in the restaurant, like some loser.",
+      "characters": [
+        "Ron",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

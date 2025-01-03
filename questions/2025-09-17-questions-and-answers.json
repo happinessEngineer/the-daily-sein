@@ -1,0 +1,106 @@
+{
+  "gameNumber": 257,
+  "date": "2025-09-17",
+  "questions": [
+    {
+      "quote": "Enough with the comedy! You're very clever, you should look into advertising.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You're very good. Very good with the moanings and the gyrations. Y-You really had me going there for a minute.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "George",
+        "Bonnie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't take this anymore! I don't want to hear how interesting the change with the hole in it is! And if you tell me what time it is in New York again, you are going home in a body bag!",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Alton",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "About 2 days. Although he's hinting at how he'd like to stay. Fortunately he has no money, and no prospects.",
+      "characters": [
+        "Lois",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, we gotta get it washed ....Ah, the keys are locked inside!",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You ever see what that thing looks like in the back? You got your natural little curls on the bottom, and then that big phony mat coming down on top of 'em.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, my father's the Yankees accountant... it's the owner's box.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Nina",
+        "Elaine"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "All right.  Let's check out the clock. Notch good... 6:50... volume check.  What kinda music you wanna wake up to? Top 40, classical...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! He said that! Can you imagine what he'll do if he sees me with you! He'll think I?m the one who ruined his deal at NBC and took away his girl, he'll put a kibosh on me!",
+      "characters": [
+        "Jerry",
+        "Babs",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, much better, much better. The doctors say I cannot have no aggravation.",
+      "characters": [
+        "Holly",
+        "Poppie",
+        "Nina",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Poppie"
+    }
+  ]
+}

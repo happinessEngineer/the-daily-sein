@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1068,
+  "date": "2027-12-07",
+  "questions": [
+    {
+      "quote": "Wow. You're so pious. I really respect that. You know when you die, you're gonna get some special attention.",
+      "characters": [
+        "Elaine",
+        "Holly",
+        "Kramer",
+        "Dan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These pretzels are making me thirsty.  Boy, these pretzels are making me thirsty.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah, well, because of the cane. You should see the bathroom they gave me!",
+      "characters": [
+        "Audrey",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, it's fantastic. I love the people over there. They- they treat me so great. You know they think I'm handicapped, they gave me this incredible office, a great view.",
+      "characters": [
+        "George",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Um, you know I'm starting to think that maybe lobster isn't the way to go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kimbrough",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Frank, now listen to me. Two hundred Jewish singles need you. This is your chance to make it all right again.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you kidding? We look great! You know what this pudding needs? The skin on the top, you know like your mother used to make it on the stove.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Hal"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, do you think I would go willy-nilly into a situation so obviously fraught with potential complications?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Father",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, I am really surprised at you.  You are the last person I figured would do something like this. I mean, George, yeah, I can see that. Even Jerry. But not you, Elaine...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, George told me that you left the drink next to Dick's on purpose.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

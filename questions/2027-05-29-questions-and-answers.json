@@ -1,0 +1,106 @@
+{
+  "gameNumber": 876,
+  "date": "2027-05-29",
+  "questions": [
+    {
+      "quote": "These are Cubans.  Maria, poquendo los scientos de estes con gleam.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ha ha, the Ukraine.  Do you know what the Ukraine is?  It's a sitting duck.  A road apple, Newman.  The Ukraine is weak.  It's feeble.  I think it's time to put the hurt on the Ukraine.",
+      "characters": [
+        "Diane",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, Kevin. If I don't want children, does that make me a bad humanitarian?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's a *con*. These agencies are usually a front for some money laundering scheme. Or they're bunko artists; bilkin' people out of their life savings, oh *yeah*.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, tell you what, they're expecting us though. Lemme just grab a hotdog here.",
+      "characters": [
+        "Elaine",
+        "Lloyd",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "I don't know, I don't understand it. Cheryl was supposed to take care",
+      "characters": [
+        "Sara",
+        "Elaine",
+        "Jerry",
+        "Jane"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't tell him the truth, you're gonna blow the whole thing.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Yeah. With all that kissing and the shmoopy, shmoopy, shmoopy, shmoopy, shmoopy out in public like that. It's disgusting!",
+      "characters": [
+        "George",
+        "Man",
+        "Jerry",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So I made a little list of people who might've made the mannequin. You know, possible suspects.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you should probably ask, because if he's gonna be coming over with those Paccino's pizzas...could be trouble.",
+      "characters": [
+        "Kramer",
+        "Conrad",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

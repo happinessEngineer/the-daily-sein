@@ -1,0 +1,106 @@
+{
+  "gameNumber": 743,
+  "date": "2027-01-16",
+  "questions": [
+    {
+      "quote": "So Sherry, what do you remember about that day at the library?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I usually spend Saturday afternoons with Susan. She's gonna want to know what I'm doing. I can't use Jerry, he's in Florida.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, but we're not buyin' it at Bloomingdale's. I will buy it, you pay me back later. I'll sniff out a deal. I have a sixth sense.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Ken"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm getting a little uncomfortable with the Hitler stuff.  I'm getting another call, see ya… Hello!",
+      "characters": [
+        "Kramer",
+        "Russell",
+        "Jerry",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell her I bumped into you, I'm giving you a ride uptown.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, actually, Jerry, you haven't worked a room that big in a while.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, it's okay now, that, that girl is not comin'. Uh, I misread the whole thing.",
+      "characters": [
+        "Captain",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mrs. Wilkie, from the tobacco company called me. We had a little pow-wow.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's a pretty full house, the lighting guy's name is Lew, he's got a birthday next week.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Oh there's that clown again, what does he want from me. Look I?m serious, I?m not kidding, I don't have the quarter, that guy took it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Joyce",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

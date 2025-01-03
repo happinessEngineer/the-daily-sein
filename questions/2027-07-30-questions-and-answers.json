@@ -1,0 +1,106 @@
+{
+  "gameNumber": 938,
+  "date": "2027-07-30",
+  "questions": [
+    {
+      "quote": "Well, the people have spoken. Well, that's it for me. I'm, I'm headin' back to New York.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "Hoyt"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A leg man? Why would I be a leg man? I don't need legs. I have legs. Have you ever seen her naked in the locker room?",
+      "characters": [
+        "Elaine",
+        "Saleswoman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ow! What are you doing under there? Hey, stop that! Don't eat that! That's not food!  He's suckin' down Equal packets!",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because George has heightened extra sensory perception. FAYGY GET YOUR FINGER OUT OF YOUR NOSE.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rula",
+        "Christie"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "It's the new cover of the J. Peterman Catalog. It is Elaine's choice. Let's congratulate her.",
+      "characters": [
+        "George",
+        "Vanessa",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't mean to interrupt or anything, but on Sunday, my friend is having a brunch for the New York Marathon.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's no watch ... I threw it in the garbage can on the street. It didn't keep good time. My parents gave it to me, but I didn't like it.  So don't mention it again, okay!",
+      "characters": [
+        "George",
+        "Leo",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's got the Kavorca.  Hey, isn't that Willie, my dry-cleaner?",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what this means, don't you? We lost the Supersaver. Those tickets are non-refundable.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You're an alcoholic! You have to apologize. Step Nine! Step Nine.",
+      "characters": [
+        "Poppie",
+        "Elaine",
+        "Bonnie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

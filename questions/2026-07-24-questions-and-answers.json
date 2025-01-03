@@ -1,0 +1,106 @@
+{
+  "gameNumber": 567,
+  "date": "2026-07-24",
+  "questions": [
+    {
+      "quote": "... Anyway I know you told him you didn't have the hat because you didn't want to see him again. And, more sympathetic I could not be. But, I really do need to have the hat back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "He thinks that if a woman sees a guy put on a better show, she'll walk out on his show, go see the other show.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have. Funny, funny. In fact it was on TV just the other night. Happened to catch it.  I couldn't help notice a STUNNING similiarity--",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Michael"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh... You know, the whole concept of lunch is based on tuna.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! Uh--listen--did you get your--uh--boss's Knick ticket, for Kramer?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'Cause I had like three jokes on it, they were all perfectly worded just the way I wanted to have it. Can't find it. Hello?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "*I* think that *you* think that a certain *something* is not all that it could be, when in fact it is is all that it *should* be, and *more*!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rebecca",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you are a tenacious little monkey. Alright, I'll do it. Kramerica industries lives! Let's get back to work!",
+      "characters": [
+        "Kramer",
+        "Roy",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you when it happened. When that floss came flying out of my pocket.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! How many times do I have to go out with her before I get a massage?",
+      "characters": [
+        "Jerry",
+        "Kate",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

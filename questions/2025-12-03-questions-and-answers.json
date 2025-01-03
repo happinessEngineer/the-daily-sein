@@ -1,0 +1,106 @@
+{
+  "gameNumber": 334,
+  "date": "2025-12-03",
+  "questions": [
+    {
+      "quote": "I don't remember, but it certainly wasn't this. Look at this cartoon in the New Yorker, I don't get this.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, listen, I just want you to know that I was more than willing to stick it out with Joel Rifkin.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you have to do that? Jerry, don't do that, that is so annoying.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, don't worry about it. Once he passes the test, you'll have sex again, and you'll be fine.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. Oh, hi, hi. Hi. Nice to meet you.  What're you having, veal?",
+      "characters": [
+        "Abby",
+        "Jackie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, he'll be here. By the way, Elaine,  thank you for laying out for the Arabian mocha java.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, the tenant association has decided to hear my side of the story. So, uh, I gotta kinda get ready. I'll see ya.",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think you're getting a little pudding under the skin yourself.",
+      "characters": [
+        "Elaine",
+        "Rebecca",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, alright! We'll buy her a wheelchair! Wheelchairs, engagement presents.. IT NEVER ENDS!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And you know what else? He picked up that woman in the coffee shop.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

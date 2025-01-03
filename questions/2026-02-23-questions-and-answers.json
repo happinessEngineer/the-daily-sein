@@ -1,0 +1,106 @@
+{
+  "gameNumber": 416,
+  "date": "2026-02-23",
+  "questions": [
+    {
+      "quote": "What, at this place? It would destroy my whole profit margin.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Her birthday's comin' up, see, so I decided to get her a little present.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Really? You never slipped one past the goalie in all these years??... Boy, I'm surprised. You've slept with a lot of women!",
+      "characters": [
+        "Jack",
+        "Secretary",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I think it might have something to do with those checks.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I can't believe you're bringin' in an extra bed for woman that wants to sleep with you. Why don't you bring in an extra guy too?",
+      "characters": [
+        "George",
+        "Sally",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people.",
+      "characters": [
+        "Cynthia",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, thanks for having me back, and sorry about the misunderstanding.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, the show would be about my real life. And one of the characters would be based on you.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not necessarily. Why don't you take back the couch you gave me?",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

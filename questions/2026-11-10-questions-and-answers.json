@@ -1,0 +1,106 @@
+{
+  "gameNumber": 676,
+  "date": "2026-11-10",
+  "questions": [
+    {
+      "quote": "Look just because Kramer vomited on her doesn't mean the deal is dead.",
+      "characters": [
+        "Daphne",
+        "Elaine",
+        "Hanke",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What am I, a--a bulimic, chain-smoking, stenographer from Staten Island?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, Louise. I think you'll find this amusing. In early Euclidean geometry--",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you really did it to me this time, Seinfeld. . . . What the hell happened here?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, this is what Jerry's doesn't understand. We can see each other. We can see each other every day, but it doesn't mean we are back together.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was a bad jig to begin with, we never should have started this jig.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Conrad"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this. They make a point of saying on the menu, \"No egg white omelets.\" Look at that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nothing, nothing. I'm just taking an interest in what you...do.",
+      "characters": [
+        "Elaine",
+        "Babu",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're giving me the \"it's not you, it's me\" routine? I invented \"it's not you, it's me\". Nobody tells me it's them not me, if it's anybody it's me.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good afternoon. One large crab bisque to go. Bread. Beautiful.",
+      "characters": [
+        "Stationer",
+        "Lou",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

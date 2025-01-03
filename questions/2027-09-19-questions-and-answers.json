@@ -1,0 +1,106 @@
+{
+  "gameNumber": 989,
+  "date": "2027-09-19",
+  "questions": [
+    {
+      "quote": "Okay.  Yeah, okay. Great! That would be, that'd be great. So, next Wednesday.",
+      "characters": [
+        "George",
+        "Joel",
+        "Jerry",
+        "Poppie"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Oh sure, the guy I told to pour the Gatorade that killed Marty Benson?",
+      "characters": [
+        "Hoyt",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Marisa Tomei! I, just spoke to Marisa Tomei!  And I wasn't even that nervous.",
+      "characters": [
+        "Stu",
+        "Elaine",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That is one place on my wardrobe I do not need sharp interlocking metal teeth. It's like a mink trap down there.  What are you doing today?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I know. Uh, by the way, could you do me a favor and tell Mitchell Tanenbaum that I will be unable to attend this Saturday.",
+      "characters": [
+        "Elaine",
+        "Izzy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yours were hilarious, we were both cracking up. I just love jokes like that.",
+      "characters": [
+        "Elaine",
+        "Enzo",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Well, this guy Leonard Christian's gonna be there tomorrow night.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Elaine",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And it was around this point that she mentioned the boyfriend?",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're making a trade. I'm giving him my motorcycle helmet - he's giving me his radar detector.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey Elaine What about the crest.? What d'you think of the crest here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Celia",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

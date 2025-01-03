@@ -1,0 +1,106 @@
+{
+  "gameNumber": 881,
+  "date": "2027-06-03",
+  "questions": [
+    {
+      "quote": "Ugh, I hope a giant mountain rises out of the ocean and we just ram right into it and end this whole thing!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hola, Jerry! I'm into this Puerto Rican day! The sights! The sounds! The hot, spicy flavor of it all! It's caliente, Jerry!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, so are you ready, so we'll go out and get something to eat.",
+      "characters": [
+        "Kramer",
+        "Donna",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "These seats are fantastic. It was really nice of Mr Peterman to give us these tickets.",
+      "characters": [
+        "Elaine",
+        "Michael",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "I'm stuck. Pull a little, just a second. Don't start the train! Don't start the train!!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright that's it.  So you get rid of me and now the two of you are going to sleep together?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Deena",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Evidently.  Oh, by the way, tell Brett that his chest of drawers are a big hit. My guests are very comfortable in them.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh Maestro, you, what are you doing? You don't have to do this. Do you believe this Maestro?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Sidra"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No.  You dip the way you want to dip... I'll dip the way I want to dip.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm homeless! I'm gonna be out on a street corner, dancing for nickels. I'll be with the hobos in the trainyard, eating out of a bucket.",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    }
+  ]
+}

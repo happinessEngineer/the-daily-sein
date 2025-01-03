@@ -1,0 +1,106 @@
+{
+  "gameNumber": 108,
+  "date": "2025-04-21",
+  "questions": [
+    {
+      "quote": "So what about the \"Maestro\" stuff. Did he make you call him Maestro.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do you hold the neck together with one hand, or are you just letting it flap in the breeze?",
+      "characters": [
+        "George",
+        "Katya",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a great sounding laugh too, kind of lilting and feminine--none of those big coarse \"ha's.\" You know those?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no no no. I was just looking for stock-pages. Here it is. Looking for the quotes. Gotta check to quotes. Love a good quote. Oh, IBM up a quarter.",
+      "characters": [
+        "Bania",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's a big job. You've got to dismantle the latch hasp from the auxiliary drainage line.",
+      "characters": [
+        "Man",
+        "Puddy",
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "I can't believe you blew us off; we were doing you the favor.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because, if I hear one more rattle - just one - your out on your can. And if you are undead - I'll find out about that too.",
+      "characters": [
+        "Man",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "This friend of Susan's is staying with us for two weeks...Now am I wrong or is that excessive?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jean-Paul, it's not my microwave, ok? Ok? All right, listen, let's just go. Come on, Jean-Paul, let's go. Let's go.",
+      "characters": [
+        "Milos",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, it never shuts up. So anyway, you could see why I would be interested in finding this person.",
+      "characters": [
+        "George",
+        "Corinne",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Corinne"
+    }
+  ]
+}

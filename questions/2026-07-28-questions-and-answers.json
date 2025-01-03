@@ -1,0 +1,106 @@
+{
+  "gameNumber": 571,
+  "date": "2026-07-28",
+  "questions": [
+    {
+      "quote": "Such a lovely table setting. Oh, wear did you get these napkins?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How would you like a 'Hare Krishna' fist on your throat, you little punk?",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got greedy. Flew too close to the sun on wings of pastrami.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Ruby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. How come I didn't get a Christmas card? Everybody else got one. Jerry got one, Kramer got one. I thought we were good friends. I don't get a Christmas card. I don't get it.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Clerk"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I gotta go find this kid. So all you gotta do is lay here, pretend you're asleep in case she gets back, here  keep the covers over ya.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, I gotta ask you: I was a little concerned that perhaps I was responsible in some way for your, uh... metamorphosis.",
+      "characters": [
+        "Kramer",
+        "Sally",
+        "Driver",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I haven't seen George for a while. He must be working very hard.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Sylvia"
+      ],
+      "correctAnswer": "Sylvia"
+    },
+    {
+      "quote": "Alright. I'll get that money for you in five minutes. And, don't eat any more.",
+      "characters": [
+        "Elaine",
+        "Jeannie",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, yeah, he's fine! We took him to the emergency room, and you know, the x-rays were all negative.  It was quite a day!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know if I'd feel comfortable handing out bologna sandwiches in the building..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Corinne"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

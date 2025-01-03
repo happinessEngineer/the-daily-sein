@@ -1,0 +1,106 @@
+{
+  "gameNumber": 645,
+  "date": "2026-10-10",
+  "questions": [
+    {
+      "quote": "Oh, you're not gonna get caught. Look, let me get him. Man, it's the nineties, it's Hammer time! Come on, just let me get him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Waitress"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You gotta get an estimate on my car from him. I think this garage is trying to screw me.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "June 14, 1987.... Mets Phillies. We're enjoying a beautiful afternoon in the right field stands when a crucial Hernandez error to a five run Phillies ninth. Cost the Mets the game.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Because you said this would be better. Remember? A vacation from ourselves. That's what you said.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Donald"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Apparently the glue in the wedding invitations was a....toxic.",
+      "characters": [
+        "George",
+        "Karen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just need someone who can give me some kind of direction. I'll see ya.",
+      "characters": [
+        "Abby",
+        "Deena",
+        "Tv",
+        "Evelyn"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Poison you? Jerry Seinfeld tried to poison you? Wha? Mr. Pitt, what are you, delirious? He's never even met you!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Morgan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anybody want to take a walk down to 48th street? I think I may have tracked down another receipt.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, my lawyer says 14 months, but with good behavior, maybe...10?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kurt"
+      ],
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "No, no, no. I have to get home tonight. Bridget's gonna be waiting for me at the Diplomat's Club. Rent a car.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 365,
+  "date": "2026-01-03",
+  "questions": [
+    {
+      "quote": "Don't go shouting we got a hundred dollar bill. People will be jumping out of windows on top of us.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I've to every Brentano's. This thing's flagged in every database in town!",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, your grandmother gave you this gift. She wants you to spend the money, to have the fun that she can't have. Oh, this is tantamount to a slap in the face.",
+      "characters": [
+        "Kramer",
+        "Janet",
+        "Jerry",
+        "Levitan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "[In Kramer's ear] The old coot's sittin' on a mountain of gold!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Nah, believe me. It's only used in the circus. For elephants.",
+      "characters": [
+        "Salesman",
+        "George",
+        "Todd",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "This Supreme Flounder, it says first time served in America. Is that true?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, well, she uh, probably just wanted to be able to keep tabs on you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, no. I'd never part with this card for anything in the world.",
+      "characters": [
+        "George",
+        "Roy",
+        "Bobby",
+        "Kramer"
+      ],
+      "correctAnswer": "Bobby"
+    },
+    {
+      "quote": "It's stuck on a piece of cloth here. I can't get the cloth out.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

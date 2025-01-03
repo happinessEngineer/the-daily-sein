@@ -1,0 +1,106 @@
+{
+  "gameNumber": 314,
+  "date": "2025-11-13",
+  "questions": [
+    {
+      "quote": "Yeah. Go out and have a ball with the guys. I'll be waiting right here for you.",
+      "characters": [
+        "Celia",
+        "George",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "Yeah when I was 8, I had a deaf cousin who lived with us for about a year.  So I haven't been able to do it in a while.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Man",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's a friend of ours on drugs and we're going to confront him.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think it moved. Oh my god, I think it moved. Yeah, give me the big piece. I'll see you later.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it's a lesson for the kids out there. Anything's possible. Jeromy, I have *hit* the jackpot. The perfect man. Nothing but sex and shopping.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you should choose the poem since you knew Susan best at the time of her unfortunate ...accident.",
+      "characters": [
+        "Wyck",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Really? My father has a ton of old clothes just sitting up in the attic, y-you think they're worth something?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh god, oh god. Okay, let's not panic. Let's just get to the hospital...",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Jackie",
+        "Ken"
+      ],
+      "correctAnswer": "Ken"
+    },
+    {
+      "quote": "Yeah. Well, actuall today was the first day I worked out since the Central Park Mini-Marathon.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Sandi",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right. All right. Let's not get into panic mode! Let's not make a big deal outta this thing or we're never gonna get through this night.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Susan"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

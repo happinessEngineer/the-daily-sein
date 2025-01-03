@@ -1,0 +1,106 @@
+{
+  "gameNumber": 274,
+  "date": "2025-10-04",
+  "questions": [
+    {
+      "quote": "Elaine, where could he be? It's not like George to just disappear.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Duncan",
+        "Jerry"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Alright. Well. Glad we got that straightened out because I've got a date with her.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh there's a guy trying to get in front of me, he has to ask permission. Yes. Go ahead. Get in, get in.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Dana",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I know. He's crazy. All morning, he looking at the hair. He staring at the hair.",
+      "characters": [
+        "Newman",
+        "Gino",
+        "Karen",
+        "George"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "Oh, I think that's fantastic. Good for you. Nice. That's very nice.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Farkus",
+        "Testikov"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is my son Jerry, from New York.  He thinks he can lift more than Izzy.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Elaine, I have a question for you. Is the item still...with you?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Elaine, why did you have the cab come down the street?! We were almost out!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, isn't that weird that George and Jane haven't had sex yet, but they're spending a weekend together?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I watched \"Beaches\" on cable last night. … … Give me a break.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

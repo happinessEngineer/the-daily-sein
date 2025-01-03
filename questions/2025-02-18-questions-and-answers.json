@@ -1,0 +1,106 @@
+{
+  "gameNumber": 46,
+  "date": "2025-02-18",
+  "questions": [
+    {
+      "quote": "You know, Elaine, very often we cannot see the forest for the trees.",
+      "characters": [
+        "Gina",
+        "Ade",
+        "Jimmy",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "No, you don't have to challenge that. That's a word. That's a definite word.",
+      "characters": [
+        "Willie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at this place. He's going everywhere, I can't go out of the house at night. I haven't performed in three days. This'll be my first night out of the house since I got back.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Noel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You want to give something back? Start with the 20 thousand dollars.",
+      "characters": [
+        "Roy",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm glad you're here, so we can get this all straightened out. Would you like a cup of tea?",
+      "characters": [
+        "George",
+        "Kevin",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whoa, whoa. Now, who's this Joe Mayo everyone's talking about?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Lanette"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no. It was an accident. It really wasn't my fault. It was Jerry.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Right! And these pigeons broke the deal. I will not accept the blame for this!",
+      "characters": [
+        "George",
+        "Greg",
+        "Nina",
+        "Valerie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I washed, just not the hand. You wouldn't believe the women at this club. Ohh, man.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

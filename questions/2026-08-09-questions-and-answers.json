@@ -1,0 +1,106 @@
+{
+  "gameNumber": 583,
+  "date": "2026-08-09",
+  "questions": [
+    {
+      "quote": "Huh, oh hey, look at this.  It's the super hydrating, triple-action moisturizer, hmm.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if the situation were reversed and Manya had some mah-jongg championship or something, I wouldn't expect her to go to my funeral. I would understand.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm sorry, these are taken. ... They're in the lobby buying popcorn. ... What are you doing? These are taken, these are taken!",
+      "characters": [
+        "Elaine",
+        "Ade",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright! Yeah. You know, I'm excited about this, Jerry. In a way, I feel like I'm getting a new couch.",
+      "characters": [
+        "George",
+        "Katya",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He saw that show on anorexia last year, and ate like an animal for two weeks.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's him! That's the man who gave me the pills in the drug store! He's no pharmacist.",
+      "characters": [
+        "Pitt",
+        "Elaine",
+        "Diane",
+        "George"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "Oh, actually, I really prefer to sit here. I don't hear very well out of this ear  so, I always try to sit to the right of people.",
+      "characters": [
+        "Tony",
+        "Kramer",
+        "Betsy",
+        "Wyck"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Alright, this is what ya gotta do: I need ya to go out to the parking lot at Yankee Stadium, take the flyers off my car.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Rula"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It drove itself into the swamp! Besides, I think I lost my pen, too.",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "Newman",
+        "Frank"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Aww, that's sweet, but actually I, I think I'd prefer it if you left.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mike",
+        "Emily"
+      ],
+      "correctAnswer": "Emily"
+    }
+  ]
+}

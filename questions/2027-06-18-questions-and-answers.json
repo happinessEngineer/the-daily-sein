@@ -1,0 +1,106 @@
+{
+  "gameNumber": 896,
+  "date": "2027-06-18",
+  "questions": [
+    {
+      "quote": "No, no that can happen. I've, uh, I've read about that in medical journals. It's a freak thing, but...",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So where are they already, it's a quarter to twelve, they should be back by now, what did they do?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Cynthia"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's a big move, Georgie boy. Are you confident in the 'I love you' return?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's this guy that I went to Tuscany with. He's a great guy, but I just wouldn't feel comfortable calling him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Bear with you! This is a parking lot PEOPLE ARE SUPPOSED TO BE ABLE TO GET",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry I didn't get any sleep you kept kicking me in the face.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, you don't understand, that?s the way they talk in Italy, they sing to one another. Kramer starts to sing in bad Italian.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Carol",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it'll be a couple of years before he's completely bald. Those'll be good times.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know, but don't say anything to anyone. He told me not to tell you.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, people, people, people, people, people. Not bad, huh? Excuse me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

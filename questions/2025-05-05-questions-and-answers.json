@@ -1,0 +1,106 @@
+{
+  "gameNumber": 122,
+  "date": "2025-05-05",
+  "questions": [
+    {
+      "quote": "It's really not accurate. Nobody drinks from a water cooler any more - they use bottles.",
+      "characters": [
+        "George",
+        "Michael",
+        "Marcy",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry! Jerry, muh--muh--my hair-dryer ruined the picture! An' I need another one or I can't get back into the forbidden city!",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, Jerry, if that's not what it is, you tell me. What is it?",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, he's a hoot.  Oh, goodbye, my dear.    Ouch.    Weekend of the 26th, come on out, we're having another party.",
+      "characters": [
+        "Kramer",
+        "Mel",
+        "George",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "You know, I spent two hundred dollars on a racquet because I thought you knew what you were talking about.",
+      "characters": [
+        "Silvio",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not so fast pretty boy. There is more to this sorted little affair.",
+      "characters": [
+        "Newman",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "The guy wouldn't give them to me because I wanted to pay in change.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um... Well, there's not really much more to tell. He was looking for waitresses, and I went in to apply for the job. And, he looked me up and down and he rejected me.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "Kramer",
+        "Craig"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh.    Hey, isn't this Kramer's car?   Hey, Cosmo!!  They're towing your car!!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what do you say? Run in the cyclone. Hotdogs on Nathan's is on me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

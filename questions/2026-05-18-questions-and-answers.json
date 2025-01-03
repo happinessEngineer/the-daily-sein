@@ -1,0 +1,106 @@
+{
+  "gameNumber": 500,
+  "date": "2026-05-18",
+  "questions": [
+    {
+      "quote": "Sixteen hundred dollars? That's all? *Ooh*, they are ripping me off.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Kelly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy I had a helluva time finding that air-conditioner. I looked everywhere. I completely forgot where I hid it. You know where it was?",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Patty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, Leo's not there. He's got a girlfriend, Lydia. In fact, he moved in with her.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Elaine, I've been thinking about this. This has got to be a massive conspiracy. Who knows how deep it goes. Hey, look, wait a second,  Kramer, turn that up.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You never support me! Let's see what George says about this.. Where're my pants?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Are you kidding? That's very significant! If he was interested in me, he'd want my germs! He'd just crave my germs!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Ronnie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey! I got bit by a dog! I had to go to the hospital! I was bleeding to death! I can't solve every little problem you have!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, we looked at your EKG's, ran some tests, did a complete work-up.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Bette",
+        "Elaine"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Well, OK. As I said the guy had it in for me. He actually failed me in gym. ... ME!",
+      "characters": [
+        "Fdr",
+        "Elaine",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

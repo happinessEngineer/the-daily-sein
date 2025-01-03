@@ -1,0 +1,106 @@
+{
+  "gameNumber": 548,
+  "date": "2026-07-05",
+  "questions": [
+    {
+      "quote": "No, no, I think I agree with you. I mean, all this talk about having babies.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Kevin"
+      ],
+      "correctAnswer": "Kevin"
+    },
+    {
+      "quote": "Sure, I fix. But you gotta make sure you no tell anybody. He's a little crazy. I don't know what he'd do if he found out I touch Jerry's hair.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Gino",
+        "George"
+      ],
+      "correctAnswer": "Gino"
+    },
+    {
+      "quote": "Now, you better tell me where Kramer is, or are we gonna have to do this the hard way?",
+      "characters": [
+        "Kramer",
+        "Rabbi",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, sure. I mean, after all, you were almost my, uh... OK, I gotta go.",
+      "characters": [
+        "Alec",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, that happened to Lomez, so he blew his neighbor's circuit.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Clare",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, well a lot of the stars from the 70's - they were not as hygienic as they appeared on TV. You take Mannix for example.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think I can say, barring some unforeseen incident, that you will have a very bright future here at E.D. Granmont.",
+      "characters": [
+        "Farkus",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Well, you just joked yourself right out of that commercial, didn't you, munjamba?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Estelle",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen. I massage who I want, when I want. I don't submit to forcible massage.  I'm getting out of here.",
+      "characters": [
+        "Jerry",
+        "Jodi",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "Yes. You know the uh flood, and the uh lepers, and the commandments and all that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "John",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

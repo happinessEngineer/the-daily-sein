@@ -1,0 +1,106 @@
+{
+  "gameNumber": 261,
+  "date": "2025-09-21",
+  "questions": [
+    {
+      "quote": "Hey ya know I read an unbelievable thing about Tolstoy the other day, did you know the original title for \"War and Peace\" was \"War--What Is It Good For?\"!",
+      "characters": [
+        "Jerry",
+        "Announcer",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't know. I may never marry. It might be the closest I get.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got a date with Karen. I don't know what I'm gonna do. Nothing happening down there.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you gotta give me something! Come on, how was the wedding? Was the bride radiant?",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at you. Why don't you use a fork? You're no good with the sticks.",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "Elaine",
+        "Willie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, George? What is this?  What is that? No really, what is that?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no that's not him. What happened to him? I can't believe it. I lost him. That stupid idiot. Now what are we going to do?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright we gotta get back to the show. What are you guys doing?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen to this. Marcy comes up and she tells me her ex-boyfriend was over late last night, and \"yada yada yada, I'm really tired today.\" You don't think she yada yada'd sex.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "An' then when you come home at night, you're always exhausted--we never do anything anymore!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

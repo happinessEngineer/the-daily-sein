@@ -1,0 +1,106 @@
+{
+  "gameNumber": 338,
+  "date": "2025-12-07",
+  "questions": [
+    {
+      "quote": "Maybe his dogs heard about how you tried to kidnap that other dog. These muts like to gossip. So have you talked too Holly?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry. I can't believe you asked me about that statue. Do you know how much trouble you could've got me into?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Well, this'll be a very interesting experiment to see if Kramer says something. You sure you wanna go through with this?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, you made the allegation. The least you could do is follow up.",
+      "characters": [
+        "Wyck",
+        "Sally",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, you know what this is gonna do? He's gonna be upset because you didn't call him and we're not gonna get those tickets for Friday night.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, listen, it wasn't you. I just didn't have 'em back then.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, George, your parents can't blow through their savings in this community. It's low-rent. Now, we feel that Florida is really the place where they should be.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Aaron",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, fantastic!  It felt so good to get my hands back in taht dough.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If anyone should be forced to leave that place, it should be her!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Conrad",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Master of Evil Jerry Seinfeld has broke off all contacts with me.",
+      "characters": [
+        "Manny",
+        "Sally",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Sally"
+    }
+  ]
+}

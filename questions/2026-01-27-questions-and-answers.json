@@ -1,0 +1,106 @@
+{
+  "gameNumber": 389,
+  "date": "2026-01-27",
+  "questions": [
+    {
+      "quote": "Hey, I'm sorry, I- you know, I, I thought you knew.  You got any meat?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Anyway, let me tell you why I called. When I took over here last month, I reviewed what was in development,and it was pretty much same old, same old.",
+      "characters": [
+        "Kimbrough",
+        "Jerry",
+        "Mel",
+        "Elaine"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "She's an... etymologist. You know, bees, flies, gnats. W-What about you?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All you got is instant coffee? Why don't you get some real coffee?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Guy",
+        "Steve"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well , as I said this type of thing is very common in show business",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the remote! Okay, I'm just gonna put it on top of the television...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Noel",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know. No awkward pauses. Probably the reason we never fooled around..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I was thinking if you're not busy, maybe I can get my meal today?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "This is a fantastic place! I always thought it was a meat packing plant!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh...it's daylight. It won't take you that long. Just make a clean break.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Katie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 8,
+  "date": "2025-01-11",
+  "questions": [
+    {
+      "quote": "No, I fake limp on my right. This is a real limp because I sprained my ankle.",
+      "characters": [
+        "Dwayne",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, right in the middle, the ship blows up-- burning debris, bodies falling-- and then just as this eerie silence settles over the airfield, I yelled out, \"That's gotta hurt!\"",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no.. It's just a little performance piece I wrote... You know what? You really inspired me,oKay, a tear.",
+      "characters": [
+        "George",
+        "Sally",
+        "Cynthia",
+        "Eddie"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Yes. I like to feel cozy. I have a very small apartment. I like to feel tucked in, nestled in. Love to be nestled.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Daphne",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll see ya. And George, by the way... You stink... Real bad.",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Hey. Check these out. I just picked them up from Sheila. She must have loved these.",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that kinda brings us to why I'm here. You got eleven minutes?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This woman he's dating is making him take this IQ test for this course.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah. Yeah. I used to come here all the time with my fiancée, back when it was a meat-packing plant. Ha. Here's her picture.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer how much longer? My chest hair is comming back and it's itching me like crazy. I can't let her see me scratch it.",
+      "characters": [
+        "Celia",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

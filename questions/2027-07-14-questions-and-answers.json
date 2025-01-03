@@ -1,0 +1,106 @@
+{
+  "gameNumber": 922,
+  "date": "2027-07-14",
+  "questions": [
+    {
+      "quote": "I wish I could take credit for it. It's actually the line my butcher uses when we're chewing the fat. How about that beautiful desk over there?",
+      "characters": [
+        "Chiles",
+        "George",
+        "Amy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, sorry I'm late. Channel Nine is doing a piece on my show. Isn't that great? Do you hate me?",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "I had like a so-so date with Valerie, now I'm number nine on the speed-dial.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I mean don't you think that he was probably called Maestro while he was conducting, not in social situations. I mean his friends probably just called him Lenny.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Landlord"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait a minute; this postmark is three weeks old. Man, this happens all the time.  Jeanine? Who the hell runs the mailroom?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Brett",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no. Tonight will be the first chance I've had to talk to her.",
+      "characters": [
+        "Todd",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "No, I'm afraid we'll start talking, and I'll gonna wind up going partners with him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jack",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I, I really should go home. Ya.. actually I'm planning on spending the day with my father tomorrow  we're uh we're going to a father-son picnic, just the two of us.",
+      "characters": [
+        "Conrad",
+        "Russell",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine Benes. Well, this is quite a thrill, yes. Come - -  Come on sit down. Yes.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is this? What are we doing? What in god's name are we doing?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

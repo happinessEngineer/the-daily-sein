@@ -1,0 +1,106 @@
+{
+  "gameNumber": 266,
+  "date": "2025-09-26",
+  "questions": [
+    {
+      "quote": "You know how hot it gets there? Like 150 degrees. Your skin is gonna be simmering with boils.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well she apologized, and then she wanted to know if we could get together Wednesday afternoon.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I tried to do a reverse hecht off my couch and I didn't make it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Estelle",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, maybe in Korean \"dog\" isn't an insult. Could be like the word \"fox\" to us. Oh, she's a DOG!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Maura"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, he came by here at 3 o'clock in the morning to pick up the tape. I was scared out of my mind!",
+      "characters": [
+        "Morty",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, you want to come down to Mario's Pizza with me and help me pick up the Frogger?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Dana",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, you know my friend, the bra salesman. He says they are looking maybe to put somebody on so I got you an interview next Friday with his boss.",
+      "characters": [
+        "Frank",
+        "Bobby",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm here to whip you in to shape, so grab your jocks - if you need one. It's go-time.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Newman",
+        "Izzy"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Excuse me. What happened to the man, that was in this room before?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well! I am happy to say that the little guy is back in place at the end of the line.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 282,
+  "date": "2025-10-12",
+  "questions": [
+    {
+      "quote": "All right, you guys listen, I've got to wait here for Elaine, I'll meet you in front of the theatre.",
+      "characters": [
+        "Jerry",
+        "Steven",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mr Wilhelm, listen. You've been abducted! Please, Mr Wilhelm, you gotta listen to me!",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Evelyn",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And that Morty, I'll tell ya that guy is full of life.  He was convinced Monet was near sighted. I kept telling him",
+      "characters": [
+        "Aaron",
+        "Shelly",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "I could've! I mean, last week we waited for that friend of Kramer's for like, forty minutes.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The circumcision was perfect. The finger was your fault! You flinched!",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Mohel",
+        "George"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Look at him, Elaine. How gorgeous is he? I ask you, how gorgeous?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Carol",
+        "George"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "We're going to sign it. We're going to sign it. In fact George is out with the woman from NBC right now.",
+      "characters": [
+        "Roy",
+        "Bania",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Leslie, sometimes the road less travelled is less travelled for a reason.",
+      "characters": [
+        "Sandi",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. No. I'm gonna stay home. I want to be close to my home base in case there's any news from the front.",
+      "characters": [
+        "Mickey",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah, yeah we could. You know, ah, Kramer, the next time you talk to her, find out if she knows Kelly, from Monk's. I wanna know if she really has a boyfriend.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

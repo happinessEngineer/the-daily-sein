@@ -1,0 +1,106 @@
+{
+  "gameNumber": 626,
+  "date": "2026-09-21",
+  "questions": [
+    {
+      "quote": "I know how much you make. I don't even know why I'm doing this, I don't even like basketball.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well maybe we could go into business together. If you're clean?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, Jerry. that's fine. you're the boss. Katie works for Jerry.",
+      "characters": [
+        "Katie",
+        "Wilhelm",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Why will she still do it? She hates you now. People don't do you favors after you dump them.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Dad. You know you can program this thing to beep every time you need to take a vitamin.  Dad, you look so different.",
+      "characters": [
+        "Jerry",
+        "Danielle",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, we should get going. But, I'm going to get a little bit more, okay?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I know, but he's a big fan of the genre. You know I'd consider it a personal favor to me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got Sandra transferred to another office upstairs, okay?! So, she blabs to Lippman about my long distance calls to Europe!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Gavin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She had to be impressed by that conversation, had to! It was a great performance. I am unbelievable on the phone. On the date they should just have two phones on the table at the restaurant, done.",
+      "characters": [
+        "Izzy",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine said I could stay with her another month until Tina gets back. What are you thinking about?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Audrey",
+        "Jerry"
+      ],
+      "correctAnswer": "Audrey"
+    }
+  ]
+}

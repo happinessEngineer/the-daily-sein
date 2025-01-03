@@ -1,0 +1,106 @@
+{
+  "gameNumber": 763,
+  "date": "2027-02-05",
+  "questions": [
+    {
+      "quote": "I know the D is the biggest. I've based my whole life on knowing that the D is the biggest.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why don't you give me the twenty, and I'll stop and get change, and then you and I can... uh... you-know, settle.",
+      "characters": [
+        "Kruger",
+        "Newman",
+        "George",
+        "Marcy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know what you're getting all riled up about. There are probably a million Costanzas-",
+      "characters": [
+        "George",
+        "Frank",
+        "Tom",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but if I take you to your door, then I have to go all the way around Central Park West, back to Columbus, you know it's all one way...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "Somehow? You've had an hour and twenty minutes sleep in three days!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Earl",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, but you're still not allowed. These seats are very expensive.",
+      "characters": [
+        "Attendant",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Well, I felt bad about this afternoon, so I got you something.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought, \"No no no. No. Do not be afraid of this man.\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I'm starting to get a little nervous about this lunch.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dunno. Since the last one. Oh, here she is. You wanna meet her?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

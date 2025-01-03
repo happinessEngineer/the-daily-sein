@@ -1,0 +1,106 @@
+{
+  "gameNumber": 17,
+  "date": "2025-01-20",
+  "questions": [
+    {
+      "quote": "Hey. Oh, Elaine. I'm glad you're here. Stay right there. I'm gonna be right back.",
+      "characters": [
+        "Gary",
+        "Steven",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you, if I was running for office I would ask for the death penalty for double-parkers. If this is allowed to go on this is not a society. THIS IS ANARCHY!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, now this is exciting! This is exciting! Did I miss anything already?",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I suppose if it was on the protégé's way to the mentor, they might.",
+      "characters": [
+        "Elaine",
+        "Bania",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look it, I'm dating a doctor and I like it. Let's just move on.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who told you to get a massage from her. I haven't gotten a massage from her yet!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I never even got to the gym. Kramer got the gloves, wanted to come home and start working on his floor.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's actually doing him a favor. It's less money for him to buy food.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, not giving. hoarding. I'm storing it in to a blood bank. Just in case.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've got an eyewitness to that jewelry store break-in. Come here. Do you recognize anybody in the lineup?",
+      "characters": [
+        "Marlene",
+        "Kramer",
+        "Jack",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    }
+  ]
+}

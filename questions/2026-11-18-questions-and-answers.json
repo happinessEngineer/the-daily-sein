@@ -1,0 +1,106 @@
+{
+  "gameNumber": 684,
+  "date": "2026-11-18",
+  "questions": [
+    {
+      "quote": "Well, I'll tell you, Stacey. It's a lot of hard work. But, it comes fairly easy to me. Some people write symphonies. This is my gift.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh!  Do you know what this means, it's like working with Tolstoy!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Silvio",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah? Well, maybe I'll go out there and knock a few balls around with him. You know, show him a thing or two..",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's unbelievable. You know what else is unbelievable? I picked up the check. She didn't even offer. She ended it. The least she could do is send me off with a sandwich.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's it. I'm going back to Putty. No move is worth this.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The door? Why would I go out the door? The window's right here.",
+      "characters": [
+        "Susan",
+        "Puddy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I could get uromycitisis poisoning and die - that's why.",
+      "characters": [
+        "Frank",
+        "Maestro",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I know she's mad at me, but I really have to speak with her.",
+      "characters": [
+        "Elaine",
+        "Nikki",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Assistant to the General Manager!!  Do you know what means?!?  He'd could be askin' my advice on trades!  Trades, Jerry, I'm a heartbeat away!",
+      "characters": [
+        "Elaine",
+        "Rava",
+        "George",
+        "Tor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes! Step into that spotlight and belt that gonorrhea out to the back row.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Rebecca"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

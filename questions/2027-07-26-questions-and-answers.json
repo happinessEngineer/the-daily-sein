@@ -1,0 +1,106 @@
+{
+  "gameNumber": 934,
+  "date": "2027-07-26",
+  "questions": [
+    {
+      "quote": "A quick question-- did she by any chance have a 212 phone number?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes it is. She just took credit for my salad. That's not right.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've got the softball game on Wednesday. It's the championship.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Piccata, if anything I should be dating a mentor and Bania should be setting pins in a bowling alley.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Lanette"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Would you gimme the clicker? I hate it when you're the clicker! You go too fast!",
+      "characters": [
+        "Elaine",
+        "Fdr",
+        "George",
+        "Cynthia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, perhaps someday you will do me a favor. And that day is today. Little Jerry Seinfeld must go down in the third round of tomorrow's main event.",
+      "characters": [
+        "Marcelino",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Marcelino"
+    },
+    {
+      "quote": "You know  I have a friend who works at the Metropolitan Museum of Art. How would you like a behind the scenes tour?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "How did you stay on that beam like that?  I mean, it's only this wide!",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You get all his friends in a room, They confront himm to try to get him into rehab. It's a very popular thing now.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Marla",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I kinda snuck up behind him at the urinal and tried to see if he could hear me.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Jerry",
+        "Stan"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

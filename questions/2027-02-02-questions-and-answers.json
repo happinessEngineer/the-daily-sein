@@ -1,0 +1,106 @@
+{
+  "gameNumber": 760,
+  "date": "2027-02-02",
+  "questions": [
+    {
+      "quote": "Oh, wait a second, I'll ask her.. that's a great idea.  Drake wants to know if we want to come out to Minneolis this afternoon, since we missed the partly last night, to maybe get something to eat?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my god, Lorraine... that's Lorraine from my uncle's office. I'm in big, big trouble.",
+      "characters": [
+        "Monica",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh come on Jerry. How hard is it to act. You say something, I'll pretend it's funny.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, when I give you the signal, I want you to turn this water on full blast.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright. Alright, alright. You come in tomorrow, we'll find something for you to do.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I look just like him. I. Me.  This! This is what her boyfriend looks like. How is that possible?",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Rabbi",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Blood over there, sausages over here. I'm living in a slaughter house.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I think I know where this is going, and I am going somewhere else.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Valerie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm all for awkward pauses. Fix me up with her.. Wait a minute, Nina just saw me in my Timberlands! Now I have to wear them every time I see her.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's the life force. I saw a show on the mollusk last night. Elaine, the mollusk travels from Alaska to Chile just for a shot at another mollusk. You think you're any better?",
+      "characters": [
+        "Jerry",
+        "Babu",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

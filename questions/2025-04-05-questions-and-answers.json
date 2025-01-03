@@ -1,0 +1,106 @@
+{
+  "gameNumber": 92,
+  "date": "2025-04-05",
+  "questions": [
+    {
+      "quote": "Well you should hear the message from my nut. Where's George and Kramer, I want to get inside already, I don't like standing out here, I feel very vulnerable.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Glenn",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, so I talked to Lisi and she has got a big surprise for you. She's planning a weekend trip to Pennsylvania Dutch country.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I was draughting behind a semi. I didn't wanna lose him. The infrastructure, Jerry, it's crumbling.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm performing in this club on the east Side. You should come in.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on, Sue Ellen. You don't wear a bra, you're tall... we hate each other!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Laura",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Hey, let ask you something. Is it just me, or - or do you find it unbearable to be around Jerry and that girl?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was pretty ugly from the get go. he's not listening, He's hostile, he's talking back.",
+      "characters": [
+        "Stan",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you're saying, I go in to NBC, and tell them I got this idea for a show about nothing.",
+      "characters": [
+        "Susan",
+        "George",
+        "Emily",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see those tears streaming down you don't know what to do. It was like she was on fire and I was trying to put her out.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta look at this. I pulled it in perfectly equidistant from the car in front of me and the car behind me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Raymond",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

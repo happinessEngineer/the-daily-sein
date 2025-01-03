@@ -1,0 +1,106 @@
+{
+  "gameNumber": 889,
+  "date": "2027-06-11",
+  "questions": [
+    {
+      "quote": "Ohh.. that's too bad.. Susan thought we'd really get along - I guess because we're both wacko!  You know what, um..  You have to give this to them for me. Okay? Here.  It's a wedding present.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Oh, come on! What am I gonna do? She's going to eat me alive.",
+      "characters": [
+        "Kramer",
+        "Testikov",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I, I can't believe this. I know Phil, he, he's a good friend of mine. We play softball together. How could this be?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There is no problem. . . just a small miscommunication. Whereby you thanked her instead of the person actually responsible for purchasing the big salad.",
+      "characters": [
+        "George",
+        "Sally",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it kinda depends on the situation, but if I don't get my money from you, I'm gonna get it from her.",
+      "characters": [
+        "Man",
+        "Elaine",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Bye, Koko. Whew! Jerry, this relationship is killing me. The distance, the longing, the distance, the-- you know, I didn't realize it, but I'm a needy person.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're gonna hang around here a little while....something funny going on here",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, no. These brown things. The chairs.  Jerry, this is the set from the old Merv Griffin Show!  They must be throwing it out. This stuff belongs in the Smithsonian!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't eat with you leanin' over like this. Just look straight forward.",
+      "characters": [
+        "Sara",
+        "George",
+        "Gina",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I just want to let you know; Lyle and I are completely over. I'd rather be with you.",
+      "characters": [
+        "Lanette",
+        "Mickey",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Lanette"
+    }
+  ]
+}

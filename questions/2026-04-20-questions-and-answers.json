@@ -1,0 +1,106 @@
+{
+  "gameNumber": 472,
+  "date": "2026-04-20",
+  "questions": [
+    {
+      "quote": "Well, again, sorry about that little mishap. But once you get everything checked out there shouldn't be anymore problems.",
+      "characters": [
+        "Captain",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "My doctor said it might never fully heal. I may never play again.",
+      "characters": [
+        "Landis",
+        "Bob",
+        "Kramer",
+        "Beth"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "The bit, the bit I really liked what were the parakeet flew into the mirror. Now that's funny.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Stu",
+        "Elaine"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Oh, I'm putting up Frank's screen door. This beauty's got a little life in her yet.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Phil",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes! And I am convinced that if she were here with us today, she would agree with me, too.",
+      "characters": [
+        "Kramer",
+        "Ray",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Did you explain to her about the good naked and the bad naked?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ooh. Well, this is uh, risky business, huh? I'm all a-twitter.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well! I can't spend the rest of my life coming into this stinking apartment every ten minutes to pore over the, excruciating minutia, of every, single, daily event..",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I got caught up... watching a soap opera. \"The Bold And The Beautiful\".",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well it's not up my alley! It's one thing if I make it up. I know what I'm doin, I know my alleys! You got me in the Galapagos Islands livin' with the turtles, I don't know where the hell I am.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Alec",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

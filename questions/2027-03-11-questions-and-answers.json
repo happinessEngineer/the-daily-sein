@@ -1,0 +1,106 @@
+{
+  "gameNumber": 797,
+  "date": "2027-03-11",
+  "questions": [
+    {
+      "quote": "9... 1... 1. She said she'd do anything. Hello, police? Uh, yeah listen, we're in the back of a limo in Queens--",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, the Curtis, why don't you come in?  Father Curtis, good guy. Oh, which reminds me, did you hear the one about the Pope and Raquel Welch on the lifeboat, huh? I'll tell you later.",
+      "characters": [
+        "Tim",
+        "Leo",
+        "Seth",
+        "Rick"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "The attic? Y-you haven't wore any of those clothes for years.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Wilhelm",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was out for five minutes before, I couldn't feel my extremities.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Milos"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hu, good, good,... well if he's calling in a month he's got a prayer!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jack",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It--eight o'clock in the morning! What the hell is goin' on?!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now I gotta take the car down to Tony and get it checked out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Steven"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What kind of a sick, demented person wants another person's glasses?",
+      "characters": [
+        "Usher",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "??? KNOCK OFFS. I NOT GOING TO DO IT! AND YOU'RE GOING TO CALL STEINBRENNER BACK AND CANCEL THE WHOLE THING.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I saw you looking at your watch. You want to leave? Go ahead.",
+      "characters": [
+        "George",
+        "Gina",
+        "Ben",
+        "Kramer"
+      ],
+      "correctAnswer": "Gina"
+    }
+  ]
+}

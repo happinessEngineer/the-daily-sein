@@ -1,0 +1,106 @@
+{
+  "gameNumber": 715,
+  "date": "2026-12-19",
+  "questions": [
+    {
+      "quote": "I told her I was out o' soda, I went out to get some, an' I never went back.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Waitress",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't make a health inquiry on a cell phone. It's like saying \"I don't want to take up any of my important time in my home so I'll just get it out of the way on the street.\"",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, look, he's going to ask you about my arm. So, just tell him I banged it against a desk. And it's been moving involuntarily ever since.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have always had a big crush on Tim Whatley. Why can't he ask me out?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. I'm very attracted to her. That accent, it's so sexy.",
+      "characters": [
+        "Elaine",
+        "Cindy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I-I have to say something. With all due respect, I just never- I can't imagine anyone in any walk of life, under any circumstance, wanting to make their own pizza pie... but that's me. Alright",
+      "characters": [
+        "Anna",
+        "Mickey",
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, he'd been logging some pretty heavy hours, first one in in the morning, last one to leave at night.  That kid was a human dynamo.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Because I've been watching too much. It was an addiction. I couldn't stop. It was, it was destroying my brain cells.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Are you sure you didn't hear my car making a funny noise? I know those two idiots did something to it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Even if I were dragged through manure I still wouldn't put that stuff on.",
+      "characters": [
+        "Steve",
+        "Wilhelm",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Steve"
+    }
+  ]
+}

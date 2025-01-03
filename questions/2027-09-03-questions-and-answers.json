@@ -1,0 +1,106 @@
+{
+  "gameNumber": 973,
+  "date": "2027-09-03",
+  "questions": [
+    {
+      "quote": "Oh, Elaine just called, she won't be joining us. Not to worry, I'll tell the maitre'd it'll just be the three bulls.",
+      "characters": [
+        "Kramer",
+        "Sophie",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "She's not... and the guy just took off.  Don't say anything to anybody.",
+      "characters": [
+        "George",
+        "Announcer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, you didn't have to do this. I'm president of a big company. I can afford to buy you coffee.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "To Hawaii. The most sought-after postal route of them all. The air is so dewy-sweet you don't even have to like the stamps.. But it's not to be - So, I'm hanging it up.",
+      "characters": [
+        "Donna",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I might tell her that I love her. I came this close last night, then I just chickened out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Carol",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, what are you gonna do? Are you gonna live here, or are you gonna move out, or what?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, come on, come on. I?ll guarantee 140. What do you have to lose?",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm going to a poetry reading with PATRICE: First time poets, in a burnt out building, down by the docks, Supposed to be good.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you know how much that comes to? That's a nickel a day for 20 years. It's going to be $50,000",
+      "characters": [
+        "Peggy",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because the next day in the offices, people gather around the water coolers to talk about it, right?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

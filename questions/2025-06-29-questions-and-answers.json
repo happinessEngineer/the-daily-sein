@@ -1,0 +1,106 @@
+{
+  "gameNumber": 177,
+  "date": "2025-06-29",
+  "questions": [
+    {
+      "quote": "Yeah? ...oh really?...oh... how about that?... Right down a hill huh? Okay! Alight! Bye!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "He's not idiotic. He's the Wiz. And nobody beats him. Nobody...",
+      "characters": [
+        "George",
+        "Helena",
+        "Sid",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do? Do? Hey, I'm doing what I do. You know, I've always done what I do. I'm doing what I do, way I've always done and the way I'll always do it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I see. So, you put up a sign so you can do whatever you want? You're not a part of society.",
+      "characters": [
+        "Willie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, by the way, tomorrow night, Paull O'Neill has to catch a fly ball in his hat.",
+      "characters": [
+        "Kramer",
+        "Marlene",
+        "George",
+        "Driver"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh my God! Jerry! My friend, Kim called - David and Beth got separated last night!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, listen I gotta get to the pier. The ferry traffic is really bad around four thirty. Look, I still got the key to your apartment and I'll get it back to you as soon as I can.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't know. Maybe you haven't. You know, not everybody's seen a massage table.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, apparently, the week after that, you buzzed up some Jehova's Witnesses and they couldn't get them out of the building.",
+      "characters": [
+        "Tina",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Tina"
+    },
+    {
+      "quote": "Good shake. Perfect shake. Single pump, not too hard, you know, doesn't have to prove anything, but, you know, firm enough to know he was there.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

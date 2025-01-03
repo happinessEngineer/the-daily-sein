@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1052,
+  "date": "2027-11-21",
+  "questions": [
+    {
+      "quote": "Aw! You'll be fine, you were in there for what , a couple of minutes.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Hal",
+        "Tim"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You, anybody - whatever. You're in the little room, you're chained to the floor, you're there for a long time.. do you think they would ever consider doing the laundry?",
+      "characters": [
+        "Captain",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I'm sorry things didn't work out with Elaine. I don't know what I did wrong.",
+      "characters": [
+        "George",
+        "Phil",
+        "Puddy",
+        "Lippman"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "Oh, hi, Roxanne. Nice to be here. These are my friends. This is George, and this is Jerry.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "OK, wait a second, wait a second, what happened to my papers?",
+      "characters": [
+        "Ruby",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, swan dives from twenty floors up, lands right on top. What do I got a bulls eye up there? He couldn't move over two feet? Land on the sidewalk. It's city property.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes! I would like to very much!... Well, I'm low, aren't I? I ca--I can feel it!...",
+      "characters": [
+        "Lippman",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Your Honor, with the court's permission, we would like to play back that video and enter it into evidence as Exhibit A.",
+      "characters": [
+        "Hoyt",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Hey - Hey Kramer, what are you doing? You want to borrow something? You want to eat something? Come on in!",
+      "characters": [
+        "Kramer",
+        "Tor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Would you shut up? These are great! You can't get any better than this.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Hal",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

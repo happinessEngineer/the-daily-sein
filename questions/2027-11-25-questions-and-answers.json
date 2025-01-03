@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1056,
+  "date": "2027-11-25",
+  "questions": [
+    {
+      "quote": "There's a clothing store downtown. They got a mannequin in there that looks exactly like Elaine.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, stay away from the chicken. Bad, bad chicken, mess you up.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, Jerry has a friend who has free tickets to the Cayman Islands for this weekend. He's not going.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Remember I was telling you about Gillian, my friend who writes for the L.L. Bean catalogue? I really think you should give her a call.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Conrad",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll give you back your spare keys - but now I want mine back.",
+      "characters": [
+        "George",
+        "Kate",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I got all this junk at Cinqo de Mayo, because I was trying to show Putumayo how much business they'd lost. I mean, I been dancing  and strutting in front of their store for two days.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Hal"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why don't you make a point with your own doctor?  What's wrong?",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, you've got to get back down to the dealer. Puddy is screwin' me on this car, which is yellow now!",
+      "characters": [
+        "Babu",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is this obsession people have with books? They put them in their houses like they're trophies. What do you need it for after you read it?",
+      "characters": [
+        "Kramer",
+        "Ken",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, how you gonna keep the machine plugged in while you move it?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

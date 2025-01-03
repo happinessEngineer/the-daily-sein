@@ -1,0 +1,106 @@
+{
+  "gameNumber": 459,
+  "date": "2026-04-07",
+  "questions": [
+    {
+      "quote": "Well, what about my hands? I don't see how your hands are any better than my hands.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And Billy and Jake and Allison, yes we could have discussed it.",
+      "characters": [
+        "George",
+        "Bob",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I dropped a grape in the kitchen and it disappeared. I couldn't find it. I was, I was literally on my knees for ten minutes looking for this stupid grape. I have no idea where it went.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Check these out. These are Jerry Lewis' old cufflinks that he actually wore in the movie \"Cinderfella\". I got 'em at an auction.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Will you put that thing out before you start another fire. You had to give him a box of cigars.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Stu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, that makes sense, that's a good call, Stan.  Alright, we'll see you guys later, huh?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excited? I'm gonna kill her! She knew she was coming here and she made me carry that box?!",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you could you'd guzzle it by the gallon! Ovaltine! Hershey's!",
+      "characters": [
+        "Clerk",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, look. I drew this triangle free-hand. It's a doodle. It's perfect!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Danielle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

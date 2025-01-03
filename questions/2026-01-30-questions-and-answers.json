@@ -1,0 +1,106 @@
+{
+  "gameNumber": 392,
+  "date": "2026-01-30",
+  "questions": [
+    {
+      "quote": "Well, I gotta say that I think that that is a fantastic idea, Feldman!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, if you really want to test him out, why don't you try the old Jerry Lewis trick?",
+      "characters": [
+        "Jerry",
+        "George",
+        "David",
+        "Anna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know Jerry I really like this guy who's playing the butler.",
+      "characters": [
+        "Elaine",
+        "Margaret",
+        "George",
+        "Father"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, the tickets are for tonight. So you and Bob can knock off a little early, so you both can get ready.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Wyck"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh, you mean like this? So it looks like I'm saying something but I'm not really saying anything at all?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, Latvius was the son of which apostle? And I'll need that in the form of a question.",
+      "characters": [
+        "Rebecca",
+        "Kramer",
+        "Jerry",
+        "Pitt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Shut up. Shut up!  Hello? No, who's calling? Oh my god, the dog guy. Where have *you* been? Yeah, well you better pick up your dog tonight or he has humped his last leg.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I heard her screaming from my apartment? She woke me up a few times.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Speak now, or we are headed to the Hamptons. It's a two-hour drive. Once you get in that car, we are going all the way... to the Hamptons. All right, you wanna get nuts? Come on. Let's get nuts!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ethan",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Twelve dollars? I knew we should have gone to the bakery. I guarantee you they're not getting no twelve dollar cake.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

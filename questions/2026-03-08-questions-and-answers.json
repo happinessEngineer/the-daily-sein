@@ -1,0 +1,106 @@
+{
+  "gameNumber": 429,
+  "date": "2026-03-08",
+  "questions": [
+    {
+      "quote": "Y'know the funny thing is, I was attracted to you immediately.",
+      "characters": [
+        "Sharon",
+        "Dan",
+        "Kramer",
+        "Babs"
+      ],
+      "correctAnswer": "Sharon"
+    },
+    {
+      "quote": "Well, if I didn't do something I wouldn't be able to live with myself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Let's uh, go to your place. Because I, threw out all my dishes.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I went to look in the mirror, it wasn't there. You threw off my equilibrium.",
+      "characters": [
+        "Jerry",
+        "Katya",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No no, I never said I was a good driver, I said I was a good parker.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. you'd be a damn fool to change it. It's very becoming.",
+      "characters": [
+        "Kramer",
+        "Dan",
+        "Buckles",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, he says, ``squeeze your breasts together'', and I say, ``I thought this was an ad for shoes''...",
+      "characters": [
+        "Ramon",
+        "Tia",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Tia"
+    },
+    {
+      "quote": "Federal Express? Come on up. . . . Federal Express. I'm not expecting a package.",
+      "characters": [
+        "Frank",
+        "Guy",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. This looks right. All right. Give me the dog. Okay, boy. This is it. This is your new home. Let go of my shirt. Come on. Let go of my shirt. This shirt is from Rudy's.",
+      "characters": [
+        "George",
+        "Ben",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So George and I went up to NBC and we told them the idea for a series now we're just waiting to sign the contract.",
+      "characters": [
+        "Newman",
+        "Gina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

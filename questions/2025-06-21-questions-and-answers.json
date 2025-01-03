@@ -1,0 +1,106 @@
+{
+  "gameNumber": 169,
+  "date": "2025-06-21",
+  "questions": [
+    {
+      "quote": "I do! I just miss the warm weather, y'know? Jeez. Oh man, I wish I could get away.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Me, either. Wait a second. Wait a second. Maybe it's that yogurt.",
+      "characters": [
+        "George",
+        "Bonnie",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Only I hold the answer key to their true candy identities. And so, without further ado, I give you… the candy line-up.",
+      "characters": [
+        "Karen",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And Kramer thinks a penalty stroke may have driven him to it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, how I've waited for this moment. But alas, my heart belongs to another man's wife, and I have given the coat to her.",
+      "characters": [
+        "Poppie",
+        "Morty",
+        "Ron",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "If I'm curt, then I appologize. But as I understand it, we have a situation here and time is of the essence.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, actually you did miss one nugget of entertainment.  Have you ever seen Elaine dance?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a second, I know what's happening. The no sex thing is having a reverse effect on you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, so what? You put out the catalog. How bad could it be?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, Now, for those of us who don't know, uh, sidling is what?",
+      "characters": [
+        "Usher",
+        "Conrad",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

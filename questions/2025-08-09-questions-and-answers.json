@@ -1,0 +1,106 @@
+{
+  "gameNumber": 218,
+  "date": "2025-08-09",
+  "questions": [
+    {
+      "quote": "You know, it occurs to me that Kramer is at karate right now.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't beleive your father owns this place. So how are the desserts here?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "David"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you uh, really missed a show, buddy. Wooh, ba-boom, ba-boom-ba-ba-ba-boom-ba.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's a rare archival print.  Twelve extra minutes, full wide-screen CinemaScope, and if you come to the one o'clock show, you can hear Geoffrey Har-harwood.",
+      "characters": [
+        "Jimmy",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We just tease some one 'til they develop an eating disorder. guy who ruined his life.",
+      "characters": [
+        "Shelly",
+        "Jerry",
+        "Gino",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I - I got ta tell you, Mister Peterman.. I don't think I see a whole book here.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, he said he brought a pair of pants into Pinkus' and they came back stained with some kind of dry cleaning fluid. And Pinkus denied responsibility. You see he was very upset with Pinkus.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You wanna go with me up to  the Bronx and see if there's any flyers on George's car.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm on my way to cash in their plane tickets for them. They need a little food money.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She had some personal affair she had to attend to. I left a message on your machine. You didn't get it?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Receptionist",
+        "Elaine"
+      ],
+      "correctAnswer": "Receptionist"
+    }
+  ]
+}

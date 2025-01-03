@@ -1,0 +1,106 @@
+{
+  "gameNumber": 836,
+  "date": "2027-04-19",
+  "questions": [
+    {
+      "quote": "Hey, Jerry, remember Frogger? I used to be so into this game. Gettin' that frog across the street was my entire life.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, what kind of a man are you? The guy is unconscious in a coma and you don't have the guts to kiss his girlfriend?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just talked to Dr. Dembrow's son. He said they almost had to call the police.",
+      "characters": [
+        "Leo",
+        "Kramer",
+        "Helen",
+        "Margaret"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Yes, sir, I believe everything is all squared away. Isn't it, Mr. Kramer?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, ah, let's see, we've got two. There's a big one down the hall there and a small one over here. You know I should ask Jack.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Hey, do you believe I got Happy New Yeared today? It's February.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, Jerry, if my investors don't get Cubans, the whole deal's off.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My parents told me you were too neurotic and that I was making a mistake.",
+      "characters": [
+        "Meryl",
+        "Sophie",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh listen, guess what? Cheryl convinced Ping to drop the case against me.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, Jerry. Lloyd says it's no problem. He's capable of locating the gum.",
+      "characters": [
+        "George",
+        "Bania",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

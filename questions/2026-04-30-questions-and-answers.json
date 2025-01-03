@@ -1,0 +1,106 @@
+{
+  "gameNumber": 482,
+  "date": "2026-04-30",
+  "questions": [
+    {
+      "quote": "Well why should that be? Oh, I have an idea. I have an idea. No call the day after that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Deena",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wow, he really does a number on you.  \"Seinfeld froze like a deer in the headlights in the face of incessant heckling.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I swear to you, I didn't know they TV was bolted to the table.",
+      "characters": [
+        "Alton",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's ridiculous, I want to return it. What's the difference what the reason is.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, Newman is my sworn enemy. And he lives down the hall from my home - my home, Elaine! Where I sleep, where I come to play with my toys.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Bookman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's one stupid thing after another. So let me ask you, when you come to one of these places, what do you bring your pocketbook?",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ma, I told you, just dip the bread in the batter, and put in right in the pan... Okay, bye.  My mother. She forgot how to make French toast. You know how mothers are.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now did you put the top on or did they put the top on for you?",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Jerry",
+        "Announcer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Meet the Mets, meet the Mets. Come right out and greet the Mets.",
+      "characters": [
+        "Wilhelm",
+        "Woman",
+        "Elaine",
+        "Toby"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "No proof? We'll get him. He's a crook, sooner or later, he'll slip up.",
+      "characters": [
+        "Morty",
+        "Gennice",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    }
+  ]
+}

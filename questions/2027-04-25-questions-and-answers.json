@@ -1,0 +1,106 @@
+{
+  "gameNumber": 842,
+  "date": "2027-04-25",
+  "questions": [
+    {
+      "quote": "Well, it's a possibility, like you said! Stranger things have happened! Thank you, Elaine. Thank you.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Toby",
+        "Elaine"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": ". . . Years. Many years , um,  we've been close friends and then recently something just you know *ehghh* happened.",
+      "characters": [
+        "Bonnie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know it looks bleak. I've been there. Ten years ago waking up in bed next to a woman like this would've sent me running for the Phisohex.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Just dropped in for a visit. You, uh, you never called me back.",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Whatever!!. . . . Oh oh oh this is unbelievable. This is better than my bed at home.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know George they are doing wonderful things at mental institutions these days. I'd be happy to set-up a meet and greet.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, how did you get up there?  Did you say you had to use the bathroom?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ramon",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a second.  This'll scare 'em off.  Well, good night, Ollie.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. He thinks he saw the devil. He won't leave his room in the church basement.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know if you people are aware of this, but I am one clever chickadee.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

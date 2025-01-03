@@ -1,0 +1,106 @@
+{
+  "gameNumber": 410,
+  "date": "2026-02-17",
+  "questions": [
+    {
+      "quote": "And if you're ever in the city, you know, you want to come to a comedy club, whatever.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well, count me out. I'm swimmin'. Old man Leland is bustin' my hump over these reports. If I don't get 'em done by nine, I'm toast.. )",
+      "characters": [
+        "Earl",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I went to the movies last night, I went to the bathroom and I unbuckled a little wobbly and the buckle kind of banged against the side of the urinal. So… that's it!",
+      "characters": [
+        "Jerry",
+        "Valerie",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah. You see, the man who was the butler, uh, had gotten into a car accident with Jerry, and because he didn't have any insurance, the judge decreed that the man become Jerry's butler.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah all right, well uh ... tell you what I will do Bania -- you give me the ticket, and uh, I will take you out for a nice dinner.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my God! I'm sorry, I thought this was the baby's room. I'm really sorry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rachel",
+        "Rick"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Pardon me, I went to see your friend Dwayne... there was no discount.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright. Next thing on the agenda, the restoration of the fence at the Briarwood gate. At the present time, we are still accepting bids.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Morty",
+        "Bob"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "There's nothing pleasant about it, so lets just cut the crap.. You gave me fleas. I know it and you know it..",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How can I not think about it? Look at the size of this thing.",
+      "characters": [
+        "Morty",
+        "Morgan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

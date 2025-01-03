@@ -1,0 +1,106 @@
+{
+  "gameNumber": 847,
+  "date": "2027-04-30",
+  "questions": [
+    {
+      "quote": "You know, I can't believe you put your money in that Sendrax. And you could've invested in my roll-out tie dispenser.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Ade"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you heard that I was in a car accident, and then decided to stop off for some Jujyfruit?",
+      "characters": [
+        "Jake",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Who's dressing you?  You look like a complete idiot! You know, I wouldn't wipe my-  AAHHHH!!!!!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So then I drive all the way up to the country club and then I find out they got a tournament goin' on. Do you mind if I smoke?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The remote, the remote, I can't find the remote. Did I lost, I lost it. Did you take it? Did you put it some place?",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, last one. Listen, you gotta help me out. Elaine and Puddy just broke up, he's treatin' me just like a regular customer, now!",
+      "characters": [
+        "Vanessa",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about you, shmoopy? How 'bout a little tuna? You want a little tuna fishy?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Mohel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You've got your degree. They don't care. They just want to see something.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ahan, Ahan....yeah...Euh but, Why is it that the, that the animals enjoy reading the email?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, please don't tell me you love me again, Jerry, I can't handle it.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

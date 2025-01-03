@@ -1,0 +1,106 @@
+{
+  "gameNumber": 613,
+  "date": "2026-09-08",
+  "questions": [
+    {
+      "quote": "There's girls everywhere.  I go out of my apartment, there's girls in the elevator.  They're in cafeterias, subways, so what?",
+      "characters": [
+        "Tom",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well... what if you showed up bad naked, huh? You still got that belt sander?",
+      "characters": [
+        "Pam",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, George, have you seen the American league directory? It is a big green book. Oh, thanks kiddo.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Yes you do, Biff. You've never been to a Flea Market, and you think they have fleas there.",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Kramer",
+        "Driver"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Her assistant caught me. And now I'm probably not going to get a job. He's going to tell Landis that I was sneakin around her office.",
+      "characters": [
+        "Elaine",
+        "Receptionist",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, there you go. She's gonna get the jacket back.  So, let's go get some coffee, huh?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a second, wait a second. We could work out a little deal here.",
+      "characters": [
+        "Jerry",
+        "Tony",
+        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's acting very strangely. I think he started drinking again.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Girls.  There's girls right here in the store.  Look, look, there's one over there.  Look, there's another one.  Soon as I walk outside there'll be girls out there.  What's the matter?",
+      "characters": [
+        "Kramer",
+        "Evelyn",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, I'm sorry, Puddy. It-it was a mistake. So, let's just put it behind us, and we can continue like this never happened.",
+      "characters": [
+        "Cynthia",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

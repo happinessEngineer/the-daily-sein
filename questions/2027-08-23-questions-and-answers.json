@@ -1,0 +1,106 @@
+{
+  "gameNumber": 962,
+  "date": "2027-08-23",
+  "questions": [
+    {
+      "quote": "Well it's tough meeting somebody you like, let alone somebody Jewish.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Eddie",
+        "Frank"
+      ],
+      "correctAnswer": "Eddie"
+    },
+    {
+      "quote": "Jerry... This woman hates me so much. I'm starting to like her.",
+      "characters": [
+        "Patty",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They lied to me about selling the car. I'll lie to them about buying it back. They think they can dump six grand on me? Think again.",
+      "characters": [
+        "Jerry",
+        "Rava",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm going to surprise Joey, I?ve never been to his apartment so I?m just going to 'pop in'",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm gonna get your picture, and you're gonna participate in my program.",
+      "characters": [
+        "Waitress",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Untalented, She's always inviting me to see her in some bad play in tiny room without ventilation. It's really depressing.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, her brother just had a book of political cartoons published.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Guard"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now don't tell me to calm down... Get your hands off of me! Why you little...",
+      "characters": [
+        "Sid",
+        "Peterman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Well, I still like the Bloomingdale's executive training program for him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This jackass goes to Paris, leaves the alarm on. It's been beeping since 3:30 this morning.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

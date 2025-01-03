@@ -1,0 +1,106 @@
+{
+  "gameNumber": 987,
+  "date": "2027-09-17",
+  "questions": [
+    {
+      "quote": "Listen, don't take this personally, but when I'm coming back I'm sitting over there.",
+      "characters": [
+        "Barry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Barry"
+    },
+    {
+      "quote": "Well they're so loud, they're always fighting it's uncomfortable, you never notice?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Well, that whole storyline about a guy who gets into a car accident, doesn't have any insurance, so the judge sentences him to be a butler? I didn't really buy that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Dana",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "Those meaty paws, I feel like I'm dating George the Animal, .",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good news. We got a 900 in black. That's the hot color.  High-five.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "How can you say that? My sister got a ticket last week. Are you saying she's not attractive?",
+      "characters": [
+        "Jerry",
+        "Jodi",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "Jerry, have you ever seen the movie The Other Side Of Darkness?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what this means? I'm starting the book tour. First stop : Regis and Kathy Lee.",
+      "characters": [
+        "Jerry",
+        "Brody",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, often times in life there are problems, and just as often there are solutions.",
+      "characters": [
+        "Rabbi",
+        "Steinbrenner",
+        "Jerry",
+        "Darren"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "I am sorry. It looks like the claim has been red flagged. Your under investigation.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "Kimbrough",
+        "George"
+      ],
+      "correctAnswer": "Attendant"
+    }
+  ]
+}

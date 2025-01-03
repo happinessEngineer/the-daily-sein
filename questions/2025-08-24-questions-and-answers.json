@@ -1,0 +1,106 @@
+{
+  "gameNumber": 233,
+  "date": "2025-08-24",
+  "questions": [
+    {
+      "quote": "We brushed on that. Actually, George was in rare form. He just can't find anybody.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe you did that! Why did you tell him I said hi? I never said hi!  When did I say hi?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, it was just a bet. I mean, it actually started with George and his mother-",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Earl Hafler, nice to meet you. I'm headed to Houston, where you headed?",
+      "characters": [
+        "Izzy",
+        "Kelly",
+        "Jerry",
+        "Earl"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "I have a right to be here. These are my fans. Hey you're hurting my elbow.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bruce",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean look at this. Every waitress working here has the same proportions. Wouldn't you say?",
+      "characters": [
+        "Nurse",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, the rickshaw's gone. We strapped it to a homeless guy and he , he bolted.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Somebody double parked and blocked us in. D-DOES ANYBODY KNOW WHOSE CAR THAT IS? Maybe there's a note on it. Ohh-oh brother. No, no note. Can you believe this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The crook has the machine. The messages aren't for him. He's the crook. Why would he answer-  How did you get in here?",
+      "characters": [
+        "Clerk",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You just had one yesterday. What do you need another one for?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

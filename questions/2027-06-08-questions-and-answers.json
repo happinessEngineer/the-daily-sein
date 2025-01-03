@@ -1,0 +1,106 @@
+{
+  "gameNumber": 886,
+  "date": "2027-06-08",
+  "questions": [
+    {
+      "quote": "So, I guess you don't find the separate faucets for the hot and cold, charming?",
+      "characters": [
+        "George",
+        "Stu",
+        "Darryl",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's David Letterman. I just saw David Letterman walk by. I'll be right back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He's not a Nazi. He just happens to be a little eccentric. Most geniuses are.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I didn't have any quarters for the dryer. Anyway this is better. And it's more convenient.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, well, I guess the only thing I can do is go into George Steinbrenner's office and tell him he has to give her a raise.",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I transferred everything in there. I threw out my old book. I'm lost now, Kramer.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Rita come here. This is Jerry. He's the one who got me the apartment.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, the female body is a... work of art. The male body is utilitarian, it's for gettin' around, like a jeep.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yep.. yep. Um, he's promoting a  benefit for Goodwill, you know, they, uh, they clothe the  poor, and the homeless..",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "Noel"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No Elaine he's normal. Your boyfriend is a normal guy. He just happens to have the same name as one of the worst serial killers in the history of New-York.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "George",
+        "Tony"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

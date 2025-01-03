@@ -1,0 +1,106 @@
+{
+  "gameNumber": 179,
+  "date": "2025-07-01",
+  "questions": [
+    {
+      "quote": "We're going to the circus. One of her old Olympic teammates is an acrobat. I don't even feel like going out.",
+      "characters": [
+        "Conrad",
+        "Jerry",
+        "Bette",
+        "Poppie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, Beth and her new husband Arnie have listed me a reference for an adoption agency. They're trying to get a baby.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Frank",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, Julie, Julie, don't insult me. You know, what difference does it make who pays for lunch. It's totally meaningless.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Harold",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh Elaine....What do you think an enraptured female fan of mine might say?",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So how'd you come up with the idea for the belt-less trench coat?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nobody does. You know, nobody knows what to do. You just close your eyes and you hope for the best. I really think they're happy if you just make an effort.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no no no, George! A deal's a deal. I want you to have it!",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "All right, so what's the penalty here? Let's just pay the fine or something and get the hell out of here.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ethan",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, you stand on the threshold to the magical world of sensual delights that most men dare not dream of!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, A big salad. Very good. Actually it was too big. Ha ha ha Wht?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1092,
+  "date": "2027-12-31",
+  "questions": [
+    {
+      "quote": "Yeah, drove away.. You know, I said 'Hello' to him. You know, he's - he's-",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, then, it's like a boring book, but you gotta finish it.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Love the Label Baby, baby.  You know those things make great gifts, I just got one of those for Tim Whatley for Christmas.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, fine. If you wanna keep talking about it, we'll talk about it.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I mean, is he allowed to do this? It's discrimination! I'm gonna call the states' attorney office. I really am.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know how easy it is for dead people to travel? It's not like getting on a bus. One second.  It's all mental.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A crazy clown is after you? Oh that?s rich. Now clear the entrance so people with tickets can get through.",
+      "characters": [
+        "Usher",
+        "Tor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Usher"
+    },
+    {
+      "quote": "I'm sorry Karen. I know I care for you, but I just can't stand when someone doesn't like me.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what are you doing?! Watch where you're driving, man!  Don't mess with the Devils, buddy. We're number one, we beat anybody! We're the Devils! The Devils!! Haaaa!!!",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well what about that number Susan B. Anthony wore to the 19th Amendment party. Hnuh. Eye yye yye.",
+      "characters": [
+        "Lena",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1045,
+  "date": "2027-11-14",
+  "questions": [
+    {
+      "quote": "She's so wild. Can I borrow her for a few hours tomorrow afternoon?",
+      "characters": [
+        "Jackie",
+        "Julie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, that is such small potatoes. I think that I may have single-handedly put the kibosh on the big water merger.",
+      "characters": [
+        "Elaine",
+        "Valerie",
+        "Jerry",
+        "Evelyn"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why? Maybe she liked me. I, I mean she was looking right at me. You know, I think she was impressed. You know, we had good eye contact the whole meeting.",
+      "characters": [
+        "Kramer",
+        "Laura",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't worry, he'll be here. Look, we only got about two hours. We just need to come up with one good story so we can get through this meeting.  There's your food.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, they're not funny at all. No, I have no funny friends. I'm the funny one. El Clowno.",
+      "characters": [
+        "George",
+        "Celia",
+        "Kramer",
+        "Craig"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Last week. When I, you know, gave you the phone. He's really into my pizza place idea!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well if you're thinking of getting a place there don't bother. There's really nothing available.",
+      "characters": [
+        "Maestro",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Right. I don't have it on me. Allison, this is Susan. Susan, Allison.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Dan",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My Botticelli shoes. You've been talking about my Botticelli shoes.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Could you hold on for a second? I've got something on the stove.",
+      "characters": [
+        "Gina",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

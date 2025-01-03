@@ -1,0 +1,106 @@
+{
+  "gameNumber": 16,
+  "date": "2025-01-19",
+  "questions": [
+    {
+      "quote": "Well you can't tell someone how you feel about their girlfriend until after they stop seeing them.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Greg"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's just that you got so many things with the milk. You got that Bosco bit then you got your Nestlé's Quik bit, by the time you get to Ovaltine--",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, Elaine's new boyfriend, you know. He's giving me this oversize chest of drawers. It's a Farbman.",
+      "characters": [
+        "George",
+        "Matthew",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.",
+      "characters": [
+        "Kramer",
+        "Darryl",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, George. Come on, let's go. I'm putting it in a garage. The fight's starting in two minutes.",
+      "characters": [
+        "Voice",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look I need you to do me a favor. I need you to get me lunch at Pisano's.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No should I [continuity error: in fact he SHOULD from the basketball game]",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Gary",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "She's at that annual Peterman party tonight. You know the one she danced at last year?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Personally I'm a little nervous about going through these things. I'm afraid I'm gonna step through into another dimension.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Imagine how sick a person has to be to do something like that.  And these people are all over the place. You never know who's crazy, I could be one of these people.",
+      "characters": [
+        "Bob",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 295,
+  "date": "2025-10-25",
+  "questions": [
+    {
+      "quote": "One second... Well, if it would make you feel better I could speak to Dr. Whatley. I have to go back and have a wisdom teeth removed.",
+      "characters": [
+        "Father",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "I wouldn't want to get lost in here. It smells like a toilet. People are such animals.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Amy",
+        "Jerry"
+      ],
+      "correctAnswer": "Amy"
+    },
+    {
+      "quote": "Don't give me \"Ma\". It's a good thing I didn't hit the table. I could of cracked my head open.",
+      "characters": [
+        "Elaine",
+        "Rula",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "She does a lot of abstract stuff. In fact she's painting Kramer right now.",
+      "characters": [
+        "Kramer",
+        "Kate",
+        "Doorman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, *please*! Me? C'mon! That's *great*! Are you kidding? I think thats fan*tastic*! I've always encouraged experimentation! I'm the first guy in the pool! Who do you think you're talking to?",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay. Hey, you know what, maybe I should give it to my therapist to read. She's smart, I trust her.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, this is perfect. I need you to go in there, pretend you're a doctor and check this guy for moles.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, it was so nice of you to come down here on your father's birthday. You've helped take his mind off the condo elections.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You know, like all the comedians always say, 'How would you like it if I came to where you work and heckled you?'",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Did I tell you that story's relatable?! That was a great show! That is why I'm bringing it back to NBC.",
+      "characters": [
+        "Donna",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

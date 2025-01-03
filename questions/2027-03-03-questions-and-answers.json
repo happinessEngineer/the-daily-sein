@@ -1,0 +1,106 @@
+{
+  "gameNumber": 789,
+  "date": "2027-03-03",
+  "questions": [
+    {
+      "quote": "It's cleavage. I couldn't look away. What am I, waiting to win an Oscar here? This is all I have in my life.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Susan",
+        "Rick"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are they too good for us? A raincoat salesman, I could buy and sell 'em like that.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Uh, No, no, no.. you go ahead. I gotta get my thoughts together.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah to take some of the pressure off of me. So, Jerry ah, what's going on with you? I understand there's a young lady in your life. mmm.",
+      "characters": [
+        "Kramer",
+        "Kate",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Gary? Well, well, well well. Where the hell've you been? I've been leaving you phone messages for months.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well I wouldn't have had to get your mail if he hadn't gone to that fantasy camp.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, if he fixes my back I'll be happy. . . .  Have you ever had a sexually transmitted disease? That's IT! . . . Here, you got my name, you got my address. That's enough.",
+      "characters": [
+        "Sara",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Then I see my clothes floating out there. The tied took them out, not the kids.",
+      "characters": [
+        "George",
+        "Celia",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "At least I've spoken to my guy. You're going out on a deaf date.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'll tell ya, this sidler guy is really chapping my hide.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Aaron",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

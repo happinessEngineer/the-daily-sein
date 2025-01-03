@@ -1,0 +1,106 @@
+{
+  "gameNumber": 536,
+  "date": "2026-06-23",
+  "questions": [
+    {
+      "quote": "Security? Well, I don't know how you're gonna make it in this business if you can't take it! Ya gotta be tough! Booo! Boooo!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...so my shrink wants me to bring my mother in for a session. This guy is a brilliant man. Lenny Bruce used to go to him. And I think, uh, Geraldo.",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "George",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Her back went out. She's gotta be there for a couple of days. All she said on the way over in the car was, \"Why, George, why?!\".. I said, \"Because it's there!\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Gary"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I hate to raise a crass financial concern but was there any information as to the where abouts of my PAPERS!",
+      "characters": [
+        "Ramon",
+        "Landlord",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you see what this says? How can you possibly like somebody ,if you think they look like this?",
+      "characters": [
+        "Earl",
+        "Jerry",
+        "Laura",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, George, listen. You know that company I work for, they own that parking lot around the corner.",
+      "characters": [
+        "George",
+        "Gary",
+        "Elaine",
+        "Naomi"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Oh. All right. You don't know what your missing. I'm loving this Jerry. I am never putting on another piece of clothing unless it's straight out of the dryer.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know that tall really good looking guy, he lives on the fifth floor.",
+      "characters": [
+        "Elaine",
+        "Farkus",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ahh. I can't go to the movies like this. Do you mind if we go back to my apartment, so I can change?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Christie",
+        "George"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "I'm looking at a guy in a semi-daily with tampax in his house and an implied date on Saturday night. I would like to help you out, but...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Darren",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

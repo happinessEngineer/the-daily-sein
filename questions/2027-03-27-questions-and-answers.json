@@ -1,0 +1,106 @@
+{
+  "gameNumber": 813,
+  "date": "2027-03-27",
+  "questions": [
+    {
+      "quote": "Doesn't sound like you're friends to me. If you were friends you'd-you'd ask her for the number. Do you know where this other one works?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I don't understand it. I was with her last night in my apartment; it was very romantic. Y'know with that fake wood wallpaper, the atmosphere is *fabulous* in there, now. It's like a ski lodge.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Earl"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see? We were made for each other.  It's amazing. If I reach out and touch her breast right not, she'd scream and throw me out of the car. But at this time tomorrow, I could touch it all I want.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Christie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, Jerry, uh, I was wandering, would it be possible – and if it's not, fine – for me to stay here tomorrow night too?",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Well, this you're not gonna believe. I found out why I was testing positive for opium. Poppy seeds!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Naomi",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I knew you'd have an affinity for it, because it's the dance of a very proud people.",
+      "characters": [
+        "George",
+        "Tina",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think Manya showed up during the game and put a hex on me?",
+      "characters": [
+        "Elaine",
+        "Gennice",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well you know George. It's not good enough to get there. You gotta make good time.",
+      "characters": [
+        "George",
+        "Simon",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I'm goin' there today. In fact you should see this house keeper he's got. She's from Senegal [and, ala Carson] Wild, Wild, Stuff...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, you're gonna take her word over mine? I'm your best friend!",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

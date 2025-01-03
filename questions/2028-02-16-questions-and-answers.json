@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1139,
+  "date": "2028-02-16",
+  "questions": [
+    {
+      "quote": "I tought I picked up a little something. I'm very good at this. Did you pick up anything?",
+      "characters": [
+        "Sid",
+        "Woman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's something. So, Jerry thought I was flirting with him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Noreen",
+        "Frank"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "They try to push you into using their cleaning crew, with all their so-called maintenance equipment.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Stan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you or did you not tell Kramer that I got my shoes at Botticelli's?",
+      "characters": [
+        "Elaine",
+        "Gavin",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, one minute you say they're fake, the next minute you think they're real...I don't know what to believe!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jodi",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes it is. I find the pastrami to be the most sensual of all the salted cured meats. Hungry?",
+      "characters": [
+        "Vivian",
+        "Jerry",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Then Hank Bauer, you know, he's screaming, \"Mickey! Mickey! What have you done with Mickey? You killed Mickey!\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look what I got for you, for your Florida trip. Crazy Shirts was closing 'em out. I got a dozen for a buck.",
+      "characters": [
+        "Voice",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well.. For one thing the glue isn't very adhesive. It takes a lot of moisture to make them stick.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Every time you're with that Kramer, something happens... He's a real trouble maker!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    }
+  ]
+}

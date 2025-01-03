@@ -1,0 +1,106 @@
+{
+  "gameNumber": 4,
+  "date": "2025-01-07",
+  "questions": [
+    {
+      "quote": "…And then Julianna asked me if I wanted to join her here in the office.",
+      "characters": [
+        "Ralph",
+        "George",
+        "Jerry",
+        "Raymond"
+      ],
+      "correctAnswer": "Raymond"
+    },
+    {
+      "quote": "Sorry I'm late, but look what I found in the Yankee Hall of Pride display case.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Lamar"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you have a policy!  The delicate genius has a policy! George heads for the door.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where are you meeting these women? When they get off the bus at the port authority?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well at least you and I are talking about how there's nothing to talk about.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Geez, these are delicious. Where did you learn to make eggs like this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, uh, the cigars..  I'm, uh, suckin' 'em down. I'm puffing my brains out, yeah.",
+      "characters": [
+        "Fdr",
+        "George",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was shaving. And I noticed an asymmetry in my chest hair and I was trying to even it out. Next thing I knew,  Gone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ellen",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think that's the statue from my house. That looks like the statue from my house!",
+      "characters": [
+        "Elaine",
+        "Jimmy",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, you're in a restaurant. You've got a very big meeting coming up...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 319,
+  "date": "2025-11-18",
+  "questions": [
+    {
+      "quote": "Ooohh... That sounds juicy. Listen, I gotta go to the bathroom, but I want to hear all about it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I have an idea. Leave the winter clothing in the apartment, and I'll watch it for you and I'll live there and I'll make sure that nothing happens to it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ben",
+        "Jimmy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I don't mind someone with a phony personality, but I gotta draw the line somewhere.",
+      "characters": [
+        "Darren",
+        "Jerry",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Since when is Elaine's boyfriend selling cars? I thought he was a mechanic.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, I am going to tell you something and I want you to really hear me.",
+      "characters": [
+        "Nurse",
+        "Kramer",
+        "Jerry",
+        "Rula"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "That's right. That's why we stopped carrying batteries. Look, I'll be honest with you, we've had a lot of trouble with theft lately - and my boss says I have to make an example to someone.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Manager"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Listen, George, I got some bad news. I'm not gonna be able to give you that parking space.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mickey",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "...But, you must promise That you will abide by my decision, no matter how unjust it may seem to either of you. Do I have your word?",
+      "characters": [
+        "Newman",
+        "George",
+        "Pitt",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "These things'll kill ya... but so what...You're already gonna drop dead",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Fdr",
+        "Newman"
+      ],
+      "correctAnswer": "Fdr"
+    },
+    {
+      "quote": "Hey, Julio. I was wondering, could you get to that shower today, You think?",
+      "characters": [
+        "Jerry",
+        "Greg",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

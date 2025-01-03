@@ -1,0 +1,106 @@
+{
+  "gameNumber": 953,
+  "date": "2027-08-14",
+  "questions": [
+    {
+      "quote": "UH, do you want to catch a movie this weekend? Have you seen JFK?",
+      "characters": [
+        "Keith",
+        "Poppie",
+        "George",
+        "Rachel"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Jerry you gotta bring me some clothes down here. I lost my job with the Yankees. I'm standing in the men's room on 43rd street in my underpants.",
+      "characters": [
+        "Rick",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, George, do you have any thoughts on this Darryl situation?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, you know that shoe repair place at the end of the block? Well, if they don't get some business, they're gonna have to shut down and make way for one of those gourmet coffee or cookie stores.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't get it. I, I've been doing the same exercises. I haven't been eating anything different.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Tia"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, you are right. It's all about, me, me, me. Please, look at me! I am so pretty! Love me! Want me!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "The guy that stole my glasses. This time I got 'em!  Would you pick it up a little?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Manager",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You won't regret it.  Jerry's gonna be a cable boy, a cable boy, a cable boy..",
+      "characters": [
+        "Leo",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't worry, Jerry, I can manage these bags; really I'm fine.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you broke up with her 'cuz she beat you at chess? That's pretty sick.",
+      "characters": [
+        "Kramer",
+        "Joyce",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

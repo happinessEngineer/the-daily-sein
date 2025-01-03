@@ -1,0 +1,106 @@
+{
+  "gameNumber": 9,
+  "date": "2025-01-12",
+  "questions": [
+    {
+      "quote": "Sally, I can't believe you're already doing a One-woman show?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's no fights here, Mr. Costanza. This is a minimum security facility.",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "They don't want us there, so we're going. We're moving right into Del Boca Vista!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well this is it. The food is atrocious, but the busboys are the best in the city.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, not recently. I craved. I crave all the time, constant craving...but I haven't yearned.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit!",
+      "characters": [
+        "George",
+        "Maestro",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. On your bed. You got a headboard? You'll need a headboard.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah. Yeah. I love nudist colonies. They help me..unwind. Aah!",
+      "characters": [
+        "George",
+        "Attendant",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So ya know, my friend and I we were going to the movies and we stopped off and bought this cafe latte.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, the tomato's an anomaly. So successful with the ketchup and the sauce, but you can't find a good one.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Cynthia"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

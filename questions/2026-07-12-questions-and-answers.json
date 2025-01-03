@@ -1,0 +1,106 @@
+{
+  "gameNumber": 555,
+  "date": "2026-07-12",
+  "questions": [
+    {
+      "quote": "No, I can't I gotta watch Farfel, you and George can go without me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tv",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it might be. Just in case anything does happen, it's nice to know there's somebody like you around.",
+      "characters": [
+        "Vivian",
+        "George",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Ah, I'll tell him I got it on the street, and maybe it's hot. That's his favorite.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Earl",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, George, what are you doing now? I hear you got some kinda television, writing - thing?",
+      "characters": [
+        "Shelly",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "I'm against all \"it's me\"s. So self-absorbed and egotistical, it's like those hip musicians with their complicated shoes!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you had a good run, what was it 75, 80 years? Wreaking havoc, making everybody nervous.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Melissa"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's not like I went across the street. I bought the Jujyfruit and I got in a cab.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that.",
+      "characters": [
+        "George",
+        "Marcy",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Speed limit, one hundred and sixty-five miles per hour. See? They slipped a one in there.  Those kids with the spray paint, God love 'em.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "..Felt like it. I tell you, this doll is pretty spooky.  It's freakin' me out man. And now I got to go back out there and pick up this doormat.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Roy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

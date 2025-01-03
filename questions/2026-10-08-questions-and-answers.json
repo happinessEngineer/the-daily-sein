@@ -1,0 +1,106 @@
+{
+  "gameNumber": 643,
+  "date": "2026-10-08",
+  "questions": [
+    {
+      "quote": "Yeah. They should make a movie about all the Hindenburg flights that made it.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The super has keys to your apartment.  Don't you see what's going on? Newman is planning a sneak attack.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Christie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I read somewhere that this Brentano's is the place to meet girls in New York.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Morty, what d'you have to open this box for?  There's already a box of cookies open.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "It was no big deal OK? I mean we fooled around, then we went out and grabbed a little dinner.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jake"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, sure she was; Asked me where the 'humor' section was? Humor? Come on.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. You know what, you should go over there and get one to look good for my bachelor auction.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Maybe he went to one of the other levels. I'll go look for him.",
+      "characters": [
+        "Jackie",
+        "Helen",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I refuse to give up on this relationship. It's like... launching missiles from a submarine. Both of us have to turn our keys.",
+      "characters": [
+        "Maura",
+        "Frank",
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "Listen, I spoke to Paul an' Noreen. They might be breakin' up.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 983,
+  "date": "2027-09-13",
+  "questions": [
+    {
+      "quote": "You know I got a great idea for a cologne. The Beach. You spray it on and you smell like you just came home from the beach",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They are shut. Oh by the way, your friend Seth, he stopped by.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Harold",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "More cereal? that's your third bowl today, you had it for breakfast and lunch.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the game's about to start. I wonder where your friend Kramer is.",
+      "characters": [
+        "Bob",
+        "George",
+        "Elaine",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "He didn't get to finish it. His uncle came in. We almost got caught.",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Stuart's a lot better!  Little Stuart Rifkin likes to go shopping with his mother.",
+      "characters": [
+        "Ray",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, he and I starting joking that when she falls asleep her stomach stays awake all night and talks to me.",
+      "characters": [
+        "Waiter",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. I got some bad news for you, buddy. I think your car got stolen again.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell ya, I hear people really stuff themselves on those cruise ships.  The buffet, that's the real ordeal, huh, Clarence?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm supposed to meet my friends to see this movie ``CheckMate'' at 10:30.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

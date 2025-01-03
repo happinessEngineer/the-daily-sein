@@ -1,0 +1,106 @@
+{
+  "gameNumber": 811,
+  "date": "2027-03-25",
+  "questions": [
+    {
+      "quote": "You mean my crime of passion? If anyone betrays me, I never forget!",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "There's a hue. She's got great eyebrows, women kill to have her eyebrows.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rudy",
+        "Brody"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Woah, woah, woah! What are you telling me for? You really had me going, there! C'mon, sit down.  What do you want to do when you grow up?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sally",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not his girlfriend. We dated for a while, but things didn't really work out.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Kramer. K-R-A-M-E-R. Uh, I don't know, wavy? George, how would you describe Kramer's hair?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, Scott's gonna drop by.  He said he never got his boxes.  I'll get the towels.",
+      "characters": [
+        "Doorman",
+        "Jerry",
+        "Bonnie",
+        "Kramer"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "Mr. Peterman, Peggy, I.. guess we, should just get this over with.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Boy, I don't know about your friend, Jerry. He says some pretty stupid things sometimes.",
+      "characters": [
+        "Maryedith",
+        "Elaine",
+        "George",
+        "Worker"
+      ],
+      "correctAnswer": "Maryedith"
+    },
+    {
+      "quote": "You know what, I'll just uh, I'll just look around for a little while.  I'll just browse around.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no! It was years ago - before you met him. And, and I - I got to tell you.. it was very mechanical.",
+      "characters": [
+        "George",
+        "Cheryl",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

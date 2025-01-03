@@ -1,0 +1,106 @@
+{
+  "gameNumber": 965,
+  "date": "2027-08-26",
+  "questions": [
+    {
+      "quote": "Ah, she keeps it in my apartment for when she comes up from Florida.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Patty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whew! Boy, it's cold outside, huh? Oh, these New York winters, huh. Bitter cold, bitter.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, isn't it obvious? She doesn't want anybody else to have me!",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, would you consider being my personal consultant for the pageant?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Maestro",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "all right let's be reasonable, Bania. I'm taking you out for a nice dinner. All I want is a little ticket in that pocket. I think it's a pretty good deal.",
+      "characters": [
+        "Elaine",
+        "Carol",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's so amazing getting to see Monica Seles playing in the finals.",
+      "characters": [
+        "Dan",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I got just the thing to cheer you up. A computer! Huh? We can check porn, and stock quotes.",
+      "characters": [
+        "Milos",
+        "Ray",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I put my half a can here on the tab. Why, what's your beef?",
+      "characters": [
+        "Izzy",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I got this little swelling right here.  It's kinda painful. What d'you make of it?",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, why don't we stay here? The back booth just opened up.  Now this is a good looking booth.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

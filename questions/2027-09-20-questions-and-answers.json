@@ -1,0 +1,106 @@
+{
+  "gameNumber": 990,
+  "date": "2027-09-20",
+  "questions": [
+    {
+      "quote": "Yeah, I think I've seen you in a club.  You talk about a lot of everyday things, right?",
+      "characters": [
+        "Ellen",
+        "Kramer",
+        "George",
+        "Jake"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "He can't hear you, you idiot. Why don't you just buy another one.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, and here it is: You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!",
+      "characters": [
+        "Rebecca",
+        "Kramer",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "What do you mean you can't go? There's two really girls sitting at the counter eating grilled cheese. Cheese, George! Cheese!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Can you relax, it's a cup of coffee. Claire is a professional waitress.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. How 'bout this one: let's say you're abducted by aliens.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. No, no, no.  We're staying on me. We haven't solved anything yet.",
+      "characters": [
+        "Patrice",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's not a theater, it's like a room where they bring in POWs to show them propaganda films.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Lois"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Typical rich people, using the world for their personal garbage can.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

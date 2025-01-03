@@ -1,0 +1,106 @@
+{
+  "gameNumber": 631,
+  "date": "2026-09-26",
+  "questions": [
+    {
+      "quote": "Well, if you've got needs and abilities that's a pretty good combination.",
+      "characters": [
+        "Guard",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, let me ask you something. You uh, you ever hear of Marisa Tomei?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, now, he says that if your friend has five thousand dollars, we'll give it to her.",
+      "characters": [
+        "Harold",
+        "Elaine",
+        "Sid",
+        "Estelle"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "I gotta go zoo. I feel like I could set more of my own schedule.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'm not buying it. No way. Forget it. No way I'm buying this!  I mean, look at it! What is it? It's a bunch of squiggly lines!  Are you telling me you couldn't paint this?",
+      "characters": [
+        "George",
+        "Daphne",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a little unnatural, but I think I'm getting the hang of it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, you know, those annoying little bumps on the lane-lines?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, your tip is four dollars and thirty-six point six six six six cents.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Lippman",
+        "Rick"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The nerve. Talkin' about ya behind your back--and right to your face!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe so, but come midnight, when she's looking for someone warm and cuddly to kiss, I guess you'll be caught between the moon and New York City.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

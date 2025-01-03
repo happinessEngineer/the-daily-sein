@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1077,
+  "date": "2027-12-16",
+  "questions": [
+    {
+      "quote": "I'm sorry. I'm sitting here, the whole meeting, holding my tongue. I've known you a long time, Morty, but I cannot hold it in any longer.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "First of all, I don't think you can make a rooster take a dive.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, this is Joanne, and this is Stan. They're in my short story class with Roxanne and me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, let me ask you a question. How come you asked Mr. and Mrs. Seinfeld to go to the museum with you?",
+      "characters": [
+        "George",
+        "Guard",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, did you know that the Yankees don't wear cotton jerseys?",
+      "characters": [
+        "Tony",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, no, no, no, no! What were you thinking when you shot this?",
+      "characters": [
+        "Elaine",
+        "Kevin",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, the neck hole thing, and I would appreciate it if you would say you're sorry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Rava"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, do you think I take everything everybody offers me? You offered me sponge cake yesterday. Did I take it?",
+      "characters": [
+        "George",
+        "Jack",
+        "Jerry",
+        "Helena"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Jerry, this is Del Boca Vista's new physical fitness room. They got medicine balls, you can bike ride, anything you want.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Good. Because if I don't get a Black and White cookie I'm not going to be very pleasant to be around.",
+      "characters": [
+        "Bette",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Bette"
+    }
+  ]
+}

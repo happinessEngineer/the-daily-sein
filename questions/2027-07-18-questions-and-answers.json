@@ -1,0 +1,106 @@
+{
+  "gameNumber": 926,
+  "date": "2027-07-18",
+  "questions": [
+    {
+      "quote": "I went down to Madeline's. I told her, \"You gotta move, or it's over.\"",
+      "characters": [
+        "Aaron",
+        "Elaine",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's stuck.  Oww! The steam from the hot-tub musta warped the wood.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "These are the people that want to talk to you. They got nothing else to do, why not disturb you?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Deena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not really. My friend was supposed to pick me up, but I don't know where he is.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Aah! He's got a girl up there. This quilt is too thin...I know I'm gonna get cold. I don't even fit on this couch. Don't even know if I'm gonna sleep....",
+      "characters": [
+        "Melissa",
+        "Farkus",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, he's nuts. You wanta bump off a couple of cats.  I know, I know. It's down again.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well does it say anywhere in the contract about my car being used as a whorehouse? 'Cause I don't remember reading that clause either..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So if everyone would just put their cars in reverse at the same time, we can do this. All right, on the count of three. Can everyone hear me? Hey, amigo, are you paying attention?",
+      "characters": [
+        "Ethan",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah, and I use it all the time. Yeah, I made this whole meal in there.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Eh, died on the table. Just spent hour and a half making me feel, if I don't save lives, I'm worthless.",
+      "characters": [
+        "Jerry",
+        "Frankie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 642,
+  "date": "2026-10-07",
+  "questions": [
+    {
+      "quote": "You don't understand. I got this all timed out. I got another spot across town at 9:50, I'm not gonna be able to make it!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If I was a woman I'd be down at the dock waiting for the fleet to come in.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well. I'm not gonna go without you. Do you guys want 'em?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Festivus, Sir. And, uh, I was afraid that I would be persecuted for my beliefs. They drove my family out of Bayside, Sir!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry please, that's very nice, but, uh,  where would we be going?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your bed is too small? I'm gone two weeks and you turn our house into, into Bourbon Street!",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "It was totally out of the blue.  We went upstairs to his apartment, you know, to look for the label maker.",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That is the sound of you buying a whole can. And the same goes for this, okay...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Killed.  I'm gonna go pick up some chicks. Good-looking ones, too!  Hey, what's your name?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Excuse me, uh I couldn't help but notice that you were looking in my direction.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

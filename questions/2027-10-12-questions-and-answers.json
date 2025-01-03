@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1012,
+  "date": "2027-10-12",
+  "questions": [
+    {
+      "quote": "Well, Mr. Peterman, I've got a really good idea for a hat. It combines the spirit of old Mexico with a little big city panache. I like to call it the Urban Sombrero.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what? That's discriminatory. That is unfair. Why should these women have all the advantages? It's not enough they get all the attention from men, they have to get all the waitress jobs, too?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no, of course you don't. You're a Man's Woman. You hate other women, and they hate you.",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's alright, I'm your fiance. Everyone assumes you'll tell me everything.",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Hmm. So you feel \"women and children first,\" in this day and age, is somewhat of an antiquated notion.",
+      "characters": [
+        "Harold",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, yeah, alright, that sounds good, but I still get a tote bag though, right?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at that. They got lobster on the menu. Who would order a lobster here. I mean, do they bring a lobster in everyday hoping *todays* the day.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, then I shall be there. And now, Gentlemen,  if you will excuse me - I must prepare for the symphony.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Unfortunately the immutable laws of physics contradict the whole premise of your account. Allow me to reconstruct this if I may for Miss Benes as I've heard this story a number of times.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, we can't. My skin is crawling just being inside your little rat's nest. Now, what happened?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

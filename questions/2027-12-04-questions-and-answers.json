@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1065,
+  "date": "2027-12-04",
+  "questions": [
+    {
+      "quote": "Oh! Rimsky -- great great book if I may say so sir. I almost read the whole thing.",
+      "characters": [
+        "Duncan",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know it may sound shocking. But, I just can't stop myself from... wanting you.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're swimming in the East River? The most heavily trafficked overly contaminated waterway on the eastern seaboard?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George is right. Those people will try to get away with murder. Believe me. They're all crooks.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Dan"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Religion, my friend, that's what happened to me. Because, I have just been informed that it's going to cost Elaine the sum of five thousand dollars to get the apartment upstairs.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, look. I'll tell you what -- they're having a sale right.",
+      "characters": [
+        "George",
+        "Susan",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you doing? You're making more than I am. A secretary cannot make more than her boss.",
+      "characters": [
+        "Ray",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hi, I got some friends inside, I gotta get a message to 'em. Mind if I walk through real quick?",
+      "characters": [
+        "George",
+        "Waiter",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow! Coming out of the shower... It's a good thing they gave you that washcloth to cover yourself up... What is this an ad for?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Jane",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I'm like ice, buddy. When I don't like you, you've got problems.  Oh, is this for the fight?",
+      "characters": [
+        "George",
+        "Gail",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

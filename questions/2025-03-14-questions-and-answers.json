@@ -1,0 +1,106 @@
+{
+  "gameNumber": 70,
+  "date": "2025-03-14",
+  "questions": [
+    {
+      "quote": "Helena, you're wrong, you know I'm not that sensitive at all.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh and speaking of issues . Guess who got a no-polish manicure and begged his neighbor not to tell anyone?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "What's going on here? Gotta be her boyfriend, she's too good to be alone. What's the difference, I can't maneouver anyway with Elaine next to me.",
+      "characters": [
+        "Mike",
+        "Anna",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Health cookies. I hate those little dustboard fructose things.",
+      "characters": [
+        "Frank",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, if she puts the bags down before she greets you, that's a good sign.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "To cease and desist on behalf of my client, Jerry Seinfeld. Signed ; Crybaby Jerry Seinfeld's Lawyer. Ok but I got two words for you Jerry Seinfeld......You",
+      "characters": [
+        "Morty",
+        "Sally",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "All right, she's not even gonna ask, if we see her, which is remote.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He said he didn't care. Oh, God I love that place. Hey, have you seen other dermatologist?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, when you think about it, it's kind of silly for us both to pull this thing all t he way back uptown. I mean, after all, it is a conveyance.",
+      "characters": [
+        "George",
+        "Newman",
+        "Dan",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, what's wrong with the plane we got? They're just checking it out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

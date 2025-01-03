@@ -1,0 +1,106 @@
+{
+  "gameNumber": 148,
+  "date": "2025-05-31",
+  "questions": [
+    {
+      "quote": "Oh, I'm gonna give you a Royal bearing. Wait a minute, wait a minute. Lemme get a pack of gum here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Oh, Jerry, listen uh, you know, I saw the rest of that movie, The Other Side Of Darkness? The coma lady wakes up at the end.",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, that's what you did...I can't believe I got another session with Izzy Mandelbaum, he's probably makes me box a kangaroo.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jake"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think that ginger ale at the coffee shop is just Coke and Sprite mixed together. How can I prove it? Ah! Can't, dammit.",
+      "characters": [
+        "George",
+        "Carol",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Drink your soda! Come on! I know you're there, laughing at me. Laughing and lying and laughing! I had to go to Reggies, Jerry! Reggies!",
+      "characters": [
+        "Nina",
+        "George",
+        "Abby",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's not contest. The guy had nothing! The ship went down, he got into a life boat, I mean, come on.",
+      "characters": [
+        "George",
+        "Marla",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You raise the hand, lower the head-- \"I'm sorry, I'm sorry. The buttons are really big on the car. I don't understand it. I haven't read the manual. Ooh!\" You get my drift.",
+      "characters": [
+        "Rachel",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So everyone will know everybody's name. See, people are gonna be a lot friendlier.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, but you gotta order it two days in advance.  You know, I'm gonna call him, I'm gonna order the duck for you.",
+      "characters": [
+        "Waitress",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yeah. It's a warm and wonderful feeling, Jerry. So what are you doing later?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 531,
+  "date": "2026-06-18",
+  "questions": [
+    {
+      "quote": "George, Quinn here was moving a chair...he lost his balance and dropped it...it must have fallen on your briefcase, which, for some reason, contained a running tape recorder?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Hey look ,you know, you're the one who's locked out. I'm letting you stay here. You're wearing my bathrobe. You should adapt to me.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Pam",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on, Jerry, this is a security issue!  Boy, you wouldn't last a DAY in the Army.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You should slow down, you know that? It's dangerous to go that fast.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I uh, spilled a yogurt smoothie in here two days ago. Hm, Can't smell anything, can ya?",
+      "characters": [
+        "Babu",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you what, why don't you read this book and let's just see if you can explain it to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright!  Hello, Alec? Hi, it's Jerry Seinfeld. You know, you got a great 'John Houseman' name. Alec Berg. Did you hand in your assignment, Mr. Berg?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, she went out with you on a first date.. and it was her birthday?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. I've kept the same job for more than two years. It's not luck. Elaine, have you ever sent a racy photograph of yourself to anyone?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Vandelay"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's going on? What's going on? I'll tell you what's going on. I'm fired!",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    }
+  ]
+}

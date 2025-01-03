@@ -1,0 +1,106 @@
+{
+  "gameNumber": 503,
+  "date": "2026-05-21",
+  "questions": [
+    {
+      "quote": "You're under arrest for the attempted murder of Cosmo Kramer.",
+      "characters": [
+        "Detective",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "But you gave me a ticket to the Super Bowl.  Hand it over, Whatley.",
+      "characters": [
+        "Elaine",
+        "Poppie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What're you talking about, Wilhelm. You popping pills? You got the crazies again?",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Boy, if I could meet a hostess, we could open up our own place.",
+      "characters": [
+        "Jerry",
+        "Levitan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what? This is all your mail. They're puttin' it in my box now.",
+      "characters": [
+        "Elaine",
+        "Rula",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Would you like a Pepto-Bismol? I keep them in my wallet...!   Do you think he liked it?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course he's been in touch with him. He's left two messages. He just hasn't heard back yet, that's all.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sometimes at restaurants she talks to her food: 'Ooh, Mr. Mashed Potatoes, you are sooo goood.'",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lois",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought Johnny was very rude to you. He didn't even let you talk.",
+      "characters": [
+        "George",
+        "Leo",
+        "Wilhelm",
+        "Morty"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Well, cause we were just saying we were going to ask you to come up to the country with us this weekend.  Susan's father has a cabin up there.  But, eh, all right, well.",
+      "characters": [
+        "Kramer",
+        "Landlord",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

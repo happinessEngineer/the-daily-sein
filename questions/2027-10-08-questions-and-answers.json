@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1008,
+  "date": "2027-10-08",
+  "questions": [
+    {
+      "quote": "I can't, I don't have it, I don't have a square to spare, I can't spare a square",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nothing. And neither will you. George can never know about this.. It'll crush him.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry told me so much about you, I feel like I know you intimately",
+      "characters": [
+        "Jane",
+        "Alton",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Hey, how 'bout giving me a hand? You know, bring some of this stuff upstairs.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh I'm lying. Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "characters": [
+        "George",
+        "Russell",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the way Newman, I'm just curious. When you booked the hotel, did you book it for the millennium New Year?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Steve",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So he walks out of the stall, he's been talking the whole time.",
+      "characters": [
+        "George",
+        "Morgan",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I did. I'm back. I love this relationship, I feel so liberated!",
+      "characters": [
+        "Pitt",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why not? They could have met. She loves the park, he works for the Parks Department.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, but it's a very important wake-up call... and I don't wanna take any chances.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 243,
+  "date": "2025-09-03",
+  "questions": [
+    {
+      "quote": "George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.'",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What're you talking about? You had a cheque bounce at the bodega.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Nuh! Okay Jerry, how about if Mike fixes your truuunk, we call it even, an' this way, nobody has to get hurt.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you just drop off some chicken skins and lobster shells.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "No. No, I'll never cook again! Never! Now get out of my house!! Get out. Go.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm sure we're all aware of the flaws and biases of standardized tests..",
+      "characters": [
+        "Kelly",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, hey, hey! It's not Lupe's fault, you shouldn't have left it out.",
+      "characters": [
+        "George",
+        "Patrice",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She's Romanian. What am I gonna talk to her about, Ceausescu?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Waiter"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm calling to let you know that Russell Dalrimple is no longer with this network.",
+      "characters": [
+        "Rita",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "See, the way I figure it, it's much easier to patch things up with Sheila than with the Soup Nazi.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

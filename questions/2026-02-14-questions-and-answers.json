@@ -1,0 +1,106 @@
+{
+  "gameNumber": 407,
+  "date": "2026-02-14",
+  "questions": [
+    {
+      "quote": "Oh, Peterman ran off to Burma, and now he wants me to run the catalog.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no. No, no, sir. I ordered George to drive around insulting people today. Because I'm tired of all your macho head games.",
+      "characters": [
+        "George",
+        "Maura",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "'Kay. I'll uh, I'll see you later. Anybody want some tomatoes?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I left you a pair right here... C'mon. There, put on those boots.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The next thing you know, he'll have you driving him to the airport..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, of course, of course it can wait until march if that is what you want.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "All right Mrs. S. I and my good pal Keith Hernandez will be right back.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah yeah! You see, this is exactly what they want to do to you. They play one against the other. You can't let them manipulate you like that.",
+      "characters": [
+        "Sid",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The service was slow. And God forbid they should refill the water. How does 12.4% sound?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You go to the airlines, you tell them you got a death in the family? They give you 50% off the fare.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

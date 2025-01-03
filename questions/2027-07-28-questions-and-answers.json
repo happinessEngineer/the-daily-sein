@@ -1,0 +1,106 @@
+{
+  "gameNumber": 936,
+  "date": "2027-07-28",
+  "questions": [
+    {
+      "quote": "Elaine, he's a psychiatrist. They're interested in stuff like that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Rudy",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, Lloyd, I-I've been to the doctor  there's really nothing they can do.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When my uncle said to him, 'the president's been shot' Oswald winked at him and said, 'I'm gonna go catch a movie'?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Clerk",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, that's not good enough! You don't try and de-sour. You have to sweeten too!",
+      "characters": [
+        "George",
+        "Newman",
+        "Father",
+        "Toby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great, great. O-Oh, oh, oh, gosh. You know, it's just... my duties with the Yankees...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hoh. Yes, yes, you're right. That's right. I'll bring her over to meet...",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, alright. Just let me finish my coffee... then we'll watch 'em go slice this fat bastard up.",
+      "characters": [
+        "George",
+        "Valerie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, anyway, the operation is on Tuesday and I need you to drive me home because I'll be all drugged up.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Russell, see, I'm really not interested in this stuff and I do have to go to work . So...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jane",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I don't know the exact pronunciation but I believe its Manage A Trois.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

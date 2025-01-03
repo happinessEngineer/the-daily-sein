@@ -1,0 +1,106 @@
+{
+  "gameNumber": 790,
+  "date": "2027-03-04",
+  "questions": [
+    {
+      "quote": "..Well, as I was saying, I would play myself, and, as a comedian, living in New York, I have a friend, a neighbor, and an ex-girlfriend, which is all true.",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "George",
+        "Gennice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aw, okay.  Yeah, I need his shoeshine kit.  He always hides it from me.  Yeah, Bally's? Yeah, Jerry Seinfeld's room, please.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, it's gettin' serious, we're talking about moving in together.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No,no I tought the show was terrific. I was just wondering if you have to keep saying Jerry Seinfeld is the devil.",
+      "characters": [
+        "Laura",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, Mr. Kramer, we're really not allowed to use the cars to run errands.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Rick",
+        "Marlene"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "My vacation was restful, splendid, magnificent. In fact, next time I'm plannin' on going to Kofu.",
+      "characters": [
+        "Steinbrenner",
+        "Jackie",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well it seems the engagement of her ffriend George has left her feeling bitter and hostile.",
+      "characters": [
+        "Rabbi",
+        "Elaine",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Is this supposed to be some kind of a joke on me? Because it's not very funny.  Give me those!  I want the glasses! Give me those!",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "Jerry",
+        "Rava"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Jerry lives in New York. You just came from New York, didn't you?",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Come on, let's go do something. I don't wanna just sit around here.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

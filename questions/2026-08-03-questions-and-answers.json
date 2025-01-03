@@ -1,0 +1,106 @@
+{
+  "gameNumber": 577,
+  "date": "2026-08-03",
+  "questions": [
+    {
+      "quote": "You know, I don't think I've ever seen a man driving a Saab convertible. Still haven't.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Lamar",
+        "Newman"
+      ],
+      "correctAnswer": "Lamar"
+    },
+    {
+      "quote": "I was, but the one I thought was Julie turned out to be Karen.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know what you try to do. Get out. Don't ever come back ever.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "George",
+        "Worker"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "Why did you tell this crazy guy that Kramer didn't invite him to his party?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Keith",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this, I only have one picture left... How 'bout a shot of me and Mr. Morgan?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey George, did you buy that sweater knowing that red dot was on it because you could get it at a discount?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Gennice",
+        "Lippman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at me....Look at Mee!. Come on. I'm stretching right in front of you. Heeeey!! ...a smile. Aah! we made contact, all right one more stretch and then go talk to him.",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, what about those English sirens, you know...eee-aaa-eee-aaa-eee-aaa...",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Kramer",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Helen, did you know that they tape this thing in the afternoon?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I don't know, I like stuff you don't have to think about too much.",
+      "characters": [
+        "Duncan",
+        "James",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

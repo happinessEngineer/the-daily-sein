@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1140,
+  "date": "2028-02-17",
+  "questions": [
+    {
+      "quote": "What about you? You were even engaged, and you cut it off just like that.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, I was just thinking out loud I don't want my picture on a card.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sure. You're an emotional person. People don't take you seriously.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Marcy",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I don't mind if somebody's funny, but I no like the funny business.",
+      "characters": [
+        "Enzo",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Hey, that's my bike! Along the sidewalk comes a happy-looking Newman, pedalling the Schwinn for all he's worth. He rings the bell.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Landis"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The woman across the street has nothing on, nothing on, nothing on..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, we'll talk about this a little later. Are you an actor?",
+      "characters": [
+        "Kramer",
+        "Bonnie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. They can't really chase ya!",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm sorry, Jill. I'm going to have to take this call. Jerry, what's the emergency?",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Is everybody ready? Didn't I tell you I wanted you to wear the cardigan?",
+      "characters": [
+        "Bania",
+        "George",
+        "Kramer",
+        "Chiles"
+      ],
+      "correctAnswer": "Chiles"
+    }
+  ]
+}

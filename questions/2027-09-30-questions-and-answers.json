@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1000,
+  "date": "2027-09-30",
+  "questions": [
+    {
+      "quote": "So, when's the funeral? Well, Aunt Clarice was so ill, I guess it was really a blessing.  Yeah, I'll fly home as soon as I can.  O.k. You, too. Get some sleep.",
+      "characters": [
+        "Betsy",
+        "Dana",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Oh, um, by the way, who was that gorgeous woman I saw you with the other day?",
+      "characters": [
+        "Silvio",
+        "George",
+        "Puddy",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Well he kinda lost his temper, and he was pushing me up against the car. So I went into a karate stance.",
+      "characters": [
+        "Elaine",
+        "Ava",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, letting my emotions out was the best thing I've ever done. Sure I'm not funny anymore, but there's more to life than making shallow, fairly-obvious observations. How about you?",
+      "characters": [
+        "Barry",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, and you weren't funny last night either. In fact, you got us both so depressed, she asked me to drive her home after dinner.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Manager",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's not a pet! It's a wild invalid! And it knows that I tried to kill it. As soon as it gets better, it's gonna gnaw my brain out in my sleep!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's right! He never apologized to me for saying that I would stretch out the neck hole of his sweater.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Pilot? So what do you make for something like that? Fifty? Sixty thousand?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I wonder what happened to my fiancé.  I know he's here somewhere. Ellen?  Have you seen my fiancé?",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "That's right, and I'll tell you what. I'm feeling a little off.",
+      "characters": [
+        "Noreen",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

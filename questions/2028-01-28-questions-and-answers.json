@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1120,
+  "date": "2028-01-28",
+  "questions": [
+    {
+      "quote": "I haven't seen it yet, but it's a two-bedroom, it's on the uh, west 83rd, 'bout a half block from the park?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Ben"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[realizing the only way out is to show the stub] I've got the stub.",
+      "characters": [
+        "Carrie",
+        "Rula",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah. He'd hold national security meetings in there. He planned the Hanoi bombing after a bad Thai meal.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was wearing that sweater in the coffee shop when Barry came in.",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Then of course with evolution, the octopus lost the nostrils and took on the more familiar look that we know today.",
+      "characters": [
+        "George",
+        "Tim",
+        "Receptionist",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Kevin, maybe I have a little doubt. I mean, nothing is a hundred percent.",
+      "characters": [
+        "Simon",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, it's a beauty! It's got these high-volume aqua-sage jets oscillating and pulsating, soothing your every aching muscle. The water's gonna get over 120 degrees!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lou",
+        "Kurt"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, so uh, let's do something later. How 'bout a movie?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Puddy",
+        "Dana"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, right, right, and on the cover is a built-in coaster.  Alright, well I'm gonna go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Winona"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There was a box of raisins on the coffee table. Did you, by any chance, take them with you when left?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

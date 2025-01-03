@@ -1,0 +1,106 @@
+{
+  "gameNumber": 214,
+  "date": "2025-08-05",
+  "questions": [
+    {
+      "quote": "Wait a minute. Wait a minute. It's from that grapefruit that Jerry squirted at me.",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's about this woman, in a coma. Well, I couldn't finish watching it, so I want you to read this.",
+      "characters": [
+        "Kramer",
+        "Woman",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I give you a brand-new Armani suit, and you won't even buy me a meal?",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Craig",
+        "Joel"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "I never knew you were so into breasts. I thought you were a leg man.",
+      "characters": [
+        "Celia",
+        "Elaine",
+        "Marcy",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh hey guess what. Morty Seinfeld and I are going into business together, selling raincoats.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Especially that big kid up in the front.  How old is he?  Hello?",
+      "characters": [
+        "Marla",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey look, if you're going there, maybe you could pick me up some of this super hydrating, it's a total-protection moisturizer with Uva.",
+      "characters": [
+        "Kramer",
+        "Kruger",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What was wrong with that sorry? It was a good sorry. Jerry, was that a good sorry?",
+      "characters": [
+        "Morty",
+        "Joel",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah, now it's on TV. It's different. I told everybody I know to watch it.",
+      "characters": [
+        "Landis",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, they ran out of it. Manhattan can be quite pricey. Even with fifty thousand yen.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 887,
+  "date": "2027-06-09",
+  "questions": [
+    {
+      "quote": "I know they're in there, the three of them, laughing at me. Together, laughing and lying.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wha-You never see him. He sidled me again in my office. I was sitting there making Cup-A-Soup singing that song from \"The Lion King\".",
+      "characters": [
+        "Elaine",
+        "Testikov",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This judge has to use it for some scofflaw. And you know you can't fight City Hall.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Look, Deena, I know you think I'm crazy, but I'm not. This is just a series of bad coincidences.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gary",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm talking about the pig man. I went into the wrong room and there he was.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I guess as an airline pilot, you're one of the few people who can say that and mean it.  Um, do you have the time?",
+      "characters": [
+        "Greg",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see, my dear, all certified mail is registered, but registered mail is not necessarily certified.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Mmm-mmm-mmm. That means, if you still had those stock options...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen work.",
+      "characters": [
+        "Jerry",
+        "Cheryl",
+        "Captain",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, my father used have a huge collection of big band records.",
+      "characters": [
+        "Kramer",
+        "Michael",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

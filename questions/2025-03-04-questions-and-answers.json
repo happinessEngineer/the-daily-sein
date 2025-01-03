@@ -1,0 +1,106 @@
+{
+  "gameNumber": 60,
+  "date": "2025-03-04",
+  "questions": [
+    {
+      "quote": "Yeah. It's an Indian soup. It's simmered to perfection by one of the great soup artisans in the modern era.",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well then the turkey it'll be. And may I say you have a splendid establishment here, my friend. I'm sure you flourish at this location for many, many years.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, we're wasting our time here! We're a half-hour late, they've probably took it off the board already.",
+      "characters": [
+        "Russell",
+        "Rabbi",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw, they didn't forget to put it out! It's deliberate! Deliberate, I tell ya!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Nina",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Listen Jerry, I've been doing some thinking. I want my suit back.",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Hey, Beth, Arnie, it's Elaine. Um, thought you guys might wanna have lunch. Gimme a call. Bye.",
+      "characters": [
+        "Joyce",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know I got someone to make up that cologne for me, big mouth.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Mary"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, nothing. It's no skin off my hide if people like to look. I just didn't see what the big attraction was.",
+      "characters": [
+        "Marlene",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Marlene"
+    },
+    {
+      "quote": "Well, see, it's... businessmen taking siestas. You know, it's the, uh, the Urban Sombrero.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't have a preference, okay! Just make a decision yourself! Stop bothering me with every minor little detail, please?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

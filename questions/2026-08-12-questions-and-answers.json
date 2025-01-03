@@ -1,0 +1,106 @@
+{
+  "gameNumber": 586,
+  "date": "2026-08-12",
+  "questions": [
+    {
+      "quote": "Yeah, yeah. Sometimes she's on time, and... sometimes she's late.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let's see..  oh, those are nice. You know, I've never noticed this before? They're smooth.. creamy.. delicate, yet  masculine.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Your father's absolutely right. We're sitting there like idiots drinking coffee without a piece of cake!",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "Blaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "So I am walkin' along, minding my own business when all off the sudden this thing comes flying out of nowhere and clonks me right on the head.",
+      "characters": [
+        "Wyck",
+        "Corinne",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "And I think he's been telling his friends. I got invitations to six more Bar Mitzvahs.",
+      "characters": [
+        "Elaine",
+        "Tom",
+        "Abby",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I really admire actors, you know. It's just such an incredible skill.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I hate this place. I don't know why we came here, I'm never coming back here again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello?... Yes, I know... Well, it's just one of those things... Sure, sure, we'll see you then.",
+      "characters": [
+        "Leo",
+        "Helen",
+        "Marla",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "My whole night's ruined. I didn't do any sets, didn't do any movies...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Russell",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, he was pretty devastated. This is his first race in 3 years.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "gameNumber": 757,
+  "date": "2027-01-30",
+  "questions": [
+    {
+      "quote": "Hey Jerry don't worry about it all right. The important thing is, is we got to catch up. Mind if I ah, grab the want ads?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Seth"
+      ],
+      "correctAnswer": "Seth"
+    },
+    {
+      "quote": "Ah, back to normal. Not bad for four thousand bucks. . . . I can't believe I got the Low Fat!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd really like to go, Elaine. But, George is coming back from the hospital. I gotta wait for him. But otherwise I would definitely go.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Ron",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'll see you guys later.  Nice meeting you. Bye Elaine.",
+      "characters": [
+        "Wendy",
+        "Voice",
+        "Naomi",
+        "Elaine"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "So, dad, lemme ask you a question. How many people work at these big law offices?",
+      "characters": [
+        "Secretary",
+        "Jerry",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Another productive meeting. By the way, I saw that English Patient film last night. It was extraordinary.",
+      "characters": [
+        "Helen",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey, Braun, I got good news and bad news. And they're both the same: you're fired. Costanza, you've won the water pik!",
+      "characters": [
+        "George",
+        "Margaret",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "She's on the lease! George you have got to find another place for me.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, can't you just give it one more day, it's not his fault.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ha ha ha ha. Yeah, well, I'll tell you, she's a full-figured gal.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Hal",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

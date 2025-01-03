@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1114,
+  "date": "2028-01-22",
+  "questions": [
+    {
+      "quote": "He could be eating a gyro, he wouldn't offer me anything. It's a sickness.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm cheap? You think I'm CHEAP? How could you say that to me? I can't believe this. How could you say that to me?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And as we speak, she's generously writing PBS a check for fifteen hundred dollars!",
+      "characters": [
+        "George",
+        "Bania",
+        "Jane",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I'm sorry, I...I hate to be one of those people, but we're right in the middle of this thing...I can't hear.",
+      "characters": [
+        "Ken",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come.",
+      "characters": [
+        "George",
+        "Dan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "Remember that guy who took my jacket. The one I found at my mother's house.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Doctor",
+        "Raymond"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. You buy me a meal -- you can't get a better deal than that",
+      "characters": [
+        "Bania",
+        "Rabbi",
+        "Testikov",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "Valerie",
+        "Dan"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "If he beats me, I'll not only give you a raise, I'll send you to Hawaii for two weeks.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Duncan"
+      ],
+      "correctAnswer": "Duncan"
+    },
+    {
+      "quote": "What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Lanette",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

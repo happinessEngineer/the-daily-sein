@@ -1,0 +1,106 @@
+{
+  "gameNumber": 96,
+  "date": "2025-04-09",
+  "questions": [
+    {
+      "quote": "I-I-I don't like the opera. What are they singing for? Who sings? You got something to say, say it!",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What I said? I say stupid things all the time I can't go two minutes without saying stupid things.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm takin' it, I'm takin' the place. I'm gonna take it, this is gonna be my new place. I'm livin' here...I'm movin'.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Pop",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"She's with a man twice her age.\" \"He doesn't look like he's got much money either.\"",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Toby",
+        "Ruby"
+      ],
+      "correctAnswer": "Ruby"
+    },
+    {
+      "quote": "Do you see what this is turning in to? Do I need this. I have to get out of this thing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you, but don't ask her anything about her kid, she a little off.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I don't know. I told them her death takes place in the shadow of new life. She's not really dead if we find a way to remember her.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and  I bop into this woman..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, congratulations my friend. You know, I'm sorry I missed the grand re-opening. I was out of town for about a week.",
+      "characters": [
+        "George",
+        "Greg",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. My cold's gone, and I've been looking forwards to kissing you, which I'm ready to do now, if you are ready.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

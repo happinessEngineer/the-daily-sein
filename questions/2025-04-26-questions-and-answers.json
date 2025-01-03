@@ -1,0 +1,106 @@
+{
+  "gameNumber": 113,
+  "date": "2025-04-26",
+  "questions": [
+    {
+      "quote": "Go to any office building on 7th Avenue and tell me if there's anyone there wearing a thin tie like that. Go ahead!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Ah those are the pastries, Ray take care of that, I'm going to get Elaine the manuscript.",
+      "characters": [
+        "Kramer",
+        "Secretary",
+        "George",
+        "Rava"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "Well, I'm really sorry I gotta run now.  Well, take it easy, huh, George?",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "So, she's the loser of the group. Every group has someone that they all make fun of.. Like us with Elaine.",
+      "characters": [
+        "Ray",
+        "Wendy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. I like the ball! This is my One Chance to make a Great Entrance! My whole life! I have never made a great entrance!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! Get in there and give her a call. Pick up the phone and call her!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That would be good too. The idea is combine the this and the that. But this cannot be disturbed.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Elaine",
+        "Deena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I'm the one responsible for those crop circles in England.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me...I really... What's happened is that my friend forgot where he parked and if you're not in a big hurry, we'd really appreciate it if...",
+      "characters": [
+        "Kevin",
+        "George",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, that's Jerry, you don't have to worry about him. Why don't you go across the hall and get started on that mail.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    }
+  ]
+}

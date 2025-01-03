@@ -1,0 +1,106 @@
+{
+  "gameNumber": 858,
+  "date": "2027-05-11",
+  "questions": [
+    {
+      "quote": "Wait till you see it, it's perfect. The guy told me it's one of a kind, they stopped making it.",
+      "characters": [
+        "Carl",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry about the gift, I didn't know about your condition.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are we doing out here? Aren't we going to go in and eat?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what?! She still gave you advice; what's the difference if she's not Chinese?!?!",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought you hated air conditioning. You've never had an air conditioner.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh oh, listen to this, this is not good, listen to these symptoms for rabies: anxiety, irritability. I got those, I'm irritable!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh  Articulate....Me? I've never articulated anything, i'm completely incoherent.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ned",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a big night. I'm, uh, ice skating with one, and going to a staged reading of \"Godspell\" with the other.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course. C'mon Georgie, you wanna tell me. It's eating you up inside. Sing it, sister.",
+      "characters": [
+        "Glenn",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I had to take a sick day. I'm so sick of these people. By the way, I talked to Lisi, and tomorrow night's good for her.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

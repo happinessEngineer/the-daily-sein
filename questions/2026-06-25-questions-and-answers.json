@@ -1,0 +1,106 @@
+{
+  "gameNumber": 538,
+  "date": "2026-06-25",
+  "questions": [
+    {
+      "quote": "Maybe it's not even stupidity. Maybe it's just a blatant disregard for basic human decency. Yeah this how dictator's start. Do you think Mussolini would circle the block six times looking for a spot?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Carrie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, then, you've just got to fire her! Don't even think about it - there's no two ways about it.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Mr. Kramer is in a meeting with Mr. Lohmase and he didn't want to miss anything.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Darren"
+      ],
+      "correctAnswer": "Darren"
+    },
+    {
+      "quote": "Just a game. He's so humble. Don't forget what you wrote in the epilogue, the fate of the world depends on the outcome of this game.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Hey, say, you know, we haven't even discussed George's engagement yet.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.  There she is...Miss - yes, room 417 please? Karen Hanson?",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pst.  Wilkinson's got a bite on a new one. Petramco Corp. Out of, uh Springfield. I think. They're about to introduce some sort of a robot butcher.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, Jer, well you know, I was cookin' and I, I uh, I came in to get this spatula...and I left the door open, 'cause I was gonna bring the spatula right back!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Nina"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Yeah. You know the odds of me being anyone's type?! I have never been anyone's type, but apparently, this Marisa Tomei loves funny, quirky, bald men.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "After the Giant game I realized that this--this problem isn't going away.",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Joel"
+    }
+  ]
+}

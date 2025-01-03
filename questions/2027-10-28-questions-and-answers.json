@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1028,
+  "date": "2027-10-28",
+  "questions": [
+    {
+      "quote": "'Had to come in' and 'maybe we'll get together'? 'Had to' and 'maybe'?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Thank you very much... Well, then go out and smell the car; see which smells worse.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Clerk",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well here.  Take Whatley's label maker, I don't want to see it again.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. I just sort of leaned on it so it would look like it was mine.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Russell",
+        "Cheryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How about that Jerry? First you had a pilot on NBC and now I'll have one. Looks like I'm following you again.",
+      "characters": [
+        "Jake",
+        "Bania",
+        "Gladys",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Hello? Amanda. Hi, yes. Listen. You know, I'm thinkin', we might just be better of bein' friends. Yeah. Yeah, you know what, I can't even really talk about it right now. Bye-bye.   No! No!",
+      "characters": [
+        "Jerry",
+        "Steve",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! He jumped from the second floor. Mr. Papanickolous saw him from across the street. He's lying out there faking. See, he's trying to get back at me.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mary Contardi. No? Doesn't ring a bell, Jerry? We had a date, three years ago. You took me to one of your shows.",
+      "characters": [
+        "Jerry",
+        "Morgan",
+        "George",
+        "Mary"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "Way off? Have you been to the motor vehicle bureau? It's like a leper colony down there.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "George",
+        "Celia"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, my. Well, the doorman certainly has a wild imagination, doesn't he?",
+      "characters": [
+        "Jake",
+        "Jerry",
+        "Elaine",
+        "Anna"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

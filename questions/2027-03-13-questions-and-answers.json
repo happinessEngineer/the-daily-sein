@@ -1,0 +1,106 @@
+{
+  "gameNumber": 799,
+  "date": "2027-03-13",
+  "questions": [
+    {
+      "quote": "It was a good bit in the '80's, and it's still relatable today.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what you are saying is that 90 to 95 percent of the population is undateable?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, what they gotta do is loose a plane or a Greenpeace boat in there. See, that would get the triangle going again.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah? Could you help me bring it up to my office, I'm right next door. Pendant Publishing.",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Well I thought this would be more fun so I gave the tickets away.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "Patty"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "Huh, I think it's a little old-fashioned. Don't you?  Uh, tell her.",
+      "characters": [
+        "Patrice",
+        "Cynthia",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no, you've got to go downtown, George. It's all downtown. Just like the song says.",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "If you think I'm looking for someone to just sit at a desk pushing papers around, you can forget it. I have enough headaches just trying to manufacture the stuff.",
+      "characters": [
+        "Estelle",
+        "Kurt",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I hope Carlitto feels better. Ben really wishes he could've helped.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Leo"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't need the cufflinks! You have the same name!  'Jerry'!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

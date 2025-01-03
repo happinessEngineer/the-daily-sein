@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1118,
+  "date": "2028-01-26",
+  "questions": [
+    {
+      "quote": "But in the circus you get to ride around in the train, see the whole planet!",
+      "characters": [
+        "Jerry",
+        "Saleswoman",
+        "Willie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The courthouse. You gotta go with me to the courthouse. I'm contesting a ticket today.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Herb",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, you looking good. You look strong. You one fine-looking sexy lady.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Chiles",
+        "Jerry"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "\"Elaine once tried to convert one but Elaine's not going through that again.\"",
+      "characters": [
+        "Jerry",
+        "Voice",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well good, good. Take it off you're going to wear it out already. It's for special occasions this thing.",
+      "characters": [
+        "Waitress",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You think the person you were talking to is him? That's not even close to him. He's funny, Jerry's funny.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You yelled that time at the movies. That's why you're not getting the baby.",
+      "characters": [
+        "Kramer",
+        "Janet",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Your nickname's Koko? One of the girls down at the maid service is named Coco.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Cindy",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Cindy"
+    },
+    {
+      "quote": "That damn delicatessen that - that is last time they screw up one of my orders.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, sure, sure. So ah, did ya have a good time at the party last night?",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    }
+  ]
+}

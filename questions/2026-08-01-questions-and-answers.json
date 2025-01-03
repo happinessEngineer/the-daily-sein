@@ -1,0 +1,106 @@
+{
+  "gameNumber": 575,
+  "date": "2026-08-01",
+  "questions": [
+    {
+      "quote": "Right, well I'm sorry, all right. I guess I was just thinking of myself.",
+      "characters": [
+        "Gary",
+        "Kramer",
+        "Manager",
+        "Elaine"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Well it's a story about love, deception, greed, lust and...unbridled enthusiasm.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A fan?  I would drape myself in velvet if it were socially acceptable. And look at this, hardwood floors!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Morty Seinfeld, you are officially dismissed as condo president. As vice-president, Jack Klompus, in accordance with the phase two constitution, is hereby installed as president.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Herb"
+      ],
+      "correctAnswer": "Herb"
+    },
+    {
+      "quote": "Hey George, one second, she's having a party friday night and she wants me to take care of the invitations.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh no it is not! No child of mine is ever going to be named Seven!",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "She looks like something out of an old high school yearbook. You should say something to her.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what else is playing here? ``Rochelle Rochelle''.",
+      "characters": [
+        "Toby",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah hah. You see Father, I'm I'm incredibly anxious to become a member. Um, don't you offer any kind of an express conversion? A quick change?",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're luscious. You're ravishing. I would give up red meat just to get a glimpse of you in a bra. I'm terribly sorry.",
+      "characters": [
+        "Jerry",
+        "Mickey",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    }
+  ]
+}

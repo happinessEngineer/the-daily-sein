@@ -1,0 +1,106 @@
+{
+  "gameNumber": 698,
+  "date": "2026-12-02",
+  "questions": [
+    {
+      "quote": "Listen, there was a lot more I could've told her, believe me.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but Jerry, what happens if the show's a hit? You could be out there for years! You might never come back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey listen, the Tonight Show called me, they want me to come out and do the show on the 28th and they're giving me two free tickets to LA. You wanna go?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe we should have her over for coffee, and explain our side of it?",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "So are you going to bring your gun?... All right, then it's settled. First date, no weapons... All right I'll see you then... Okay, bye.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "E-mail, telephones, fax machines. Fedex, telex, telegrams, holograms.",
+      "characters": [
+        "Joel",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see, there's this certain flounder and they won't deliver it to my side of the street.",
+      "characters": [
+        "George",
+        "Silvio",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, how do you like the way I talked you into comin' down here?",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ahh, no, no, no. You got me all wrong buddy. I am loving this no refrigerator. You know what I discovered? I really like depriving myself of things. It's fun. Very monastic.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe she's right. Maybe I am a complete hack. I'm the absolute worst. The worst, Jerry.",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Bania"
+    }
+  ]
+}

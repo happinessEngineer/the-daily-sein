@@ -1,0 +1,106 @@
+{
+  "gameNumber": 812,
+  "date": "2027-03-26",
+  "questions": [
+    {
+      "quote": "I'm not giving you the satisfaction. I'm gonna watch it again...",
+      "characters": [
+        "Babu",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. I wanted the one in the little bottle with that guy on it that looks like Charles Grodin!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got him Yankee's tickets! He got me a piece of paper saying \"I've given your gift to someone else!\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steve",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just don't think you should go alone. Can't you wait till after my set?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, you're not a divorcee. Youÿre just separated. You're---you're a separatee.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Pitt",
+        "Cop"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen Jerry. With all due respect, Bania's voice is the voice of a new generation. My generation.",
+      "characters": [
+        "Maryedith",
+        "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He does not like you. And all indications are he does not like Drake's Coffee Cake.",
+      "characters": [
+        "Gina",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "I was, I had to leave. She lit some vanilla incenses. The smell drove me nuts, all I could think about was food, I had to get out of there. We need some pudding here! Pudding!",
+      "characters": [
+        "George",
+        "Rebecca",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's to think about? If Putty says it's what it is, it's what it is. He's not gonna cheat you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I hear the fella owns a couple of racehorses. You know, trotters, like at Yonkers.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    }
+  ]
+}

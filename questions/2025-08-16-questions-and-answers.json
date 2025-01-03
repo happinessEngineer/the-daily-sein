@@ -1,0 +1,106 @@
+{
+  "gameNumber": 225,
+  "date": "2025-08-16",
+  "questions": [
+    {
+      "quote": "Oh, what's the point? When I like them, they don't like me, when they like me, I don't like them. Why can't I act with the ones I like the same way I do with the ones I don't like?",
+      "characters": [
+        "Bruce",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no, no, not at all. No, I have always felt that the most important thing in the world is spending time with family.",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tsk. Well, I can guess within the hour, and I don't even have to look at the sun.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They bump you in junior high, the next thing you know you're being bumped in high schools, colleges, trade schools. Before you know it, Letterman's not returning your calls.",
+      "characters": [
+        "Steve",
+        "Elaine",
+        "George",
+        "Katie"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Cause I tell you, frankly, I would like to walk in hear one day and find you sitting down.  That would give me a lot of pleasure. Call me crazy.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Harold",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah, nah, it's on me.  Aww, man. Okay, listen guys, I'm gonna be late.  I'll see you, okay?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, there's action. There's plenty of action. That damned alien autopsy is stealing all the headlines.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right . . . . I once found a hair in my Farina and I freaked out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you see, Kramer took it upon himself to say hi to you from me. When in fact it was an unauthorised hi.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ladies and gentlemen, our flight time, with stopovers, will be approximately 22 hours.",
+      "characters": [
+        "Jerry",
+        "David",
+        "George",
+        "Captain"
+      ],
+      "correctAnswer": "Captain"
+    }
+  ]
+}

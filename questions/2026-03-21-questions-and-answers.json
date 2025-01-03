@@ -1,0 +1,106 @@
+{
+  "gameNumber": 442,
+  "date": "2026-03-21",
+  "questions": [
+    {
+      "quote": "Daphne. I have to tell you something, this is very difficult...",
+      "characters": [
+        "Morty",
+        "Waitress",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have noticed she does tend to go to the bathroom right after we finish eating.",
+      "characters": [
+        "Maryedith",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know they told me that they wanted me to walk down the block carrying this bag of groceries.",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, that's my ticket!  You didn't even want to go.",
+      "characters": [
+        "Joyce",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Squire's walking stick. I had to write about it for the catalogue.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think you wanna get hurt. Because if you wanna get hurt I can hurt you. Now, just back off.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "What? Yeah.. you're right!.. All I have to do is call him up, and sit with him, and show him that it doesn't bother me. You know, laugh it off.. or jam a fork into his forehead.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, it's unbelievable. Every time you use it you feel like you just came from the dentist!",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Ping"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I'll give you a sportin' chance. I'll take Ithaca.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Stu",
+        "Earl"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Well, you better laugh 'cause I'm being reviewed. Leonard Christian's gonna be there.",
+      "characters": [
+        "George",
+        "Helen",
+        "Stan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}

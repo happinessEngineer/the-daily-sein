@@ -1,0 +1,106 @@
+{
+  "gameNumber": 1099,
+  "date": "2028-01-07",
+  "questions": [
+    {
+      "quote": "Oh, what about 'ladies night'? Women admitted free before 10?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, it was dangling! There were only two left in the machine! He must've bought one, and gotten both.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
+        "Salesman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what's with George and Susan? Does he actually like her?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah. You know, uh..I'm engaged.  Yep, gettin' married in fifty years.",
+      "characters": [
+        "Ethan",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So Elaine... Where are we going for our big dinner on Friday?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Hey, look at this, c'mere. There's a naked woman across the street.",
+      "characters": [
+        "Frank",
+        "Estelle",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know why I have to go to the hospital. I didn't do anything to Bette Midler. Driver can you stop over here, we're picking somebody up.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. I'm gonna be just fine, but as far as your situation, you're seeing him tonight so talk to him about it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why did we invite him? Stupid, stupid. when he asked for a ticket, I should have said no. I'm gonna go chew him out.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "I think I'd rather go out on a deaf date than a blind date. The question is whether you'd rather date the blind or the deaf.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    }
+  ]
+}
