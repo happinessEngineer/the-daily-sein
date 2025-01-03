@@ -1,5 +1,6 @@
 function App() {
     const [questions, setQuestions] = React.useState([]);
+    const [gameNumber, setGameNumber] = React.useState(0);
     const [currentQuestion, setCurrentQuestion] = React.useState(0);
     const [showResult, setShowResult] = React.useState(false);
     const [results, setResults] = React.useState([]);
@@ -9,9 +10,9 @@ function App() {
     React.useEffect(() => {
         try {
             const loadQuestions = async () => {
-                const data = await fetchTriviaQuestions();
-                console.log('questions', data);
-                setQuestions(data);
+                const [gameNumber, questions] = await fetchTriviaQuestions();
+                setQuestions(questions);
+                setGameNumber(gameNumber);
             };
             loadQuestions();
         } catch (error) {
@@ -55,7 +56,7 @@ function App() {
         return (
             <div data-name="upload-container" className="container mx-auto max-w-2xl px-4 py-8 text-center">
                 <h1 data-name="game-title" className="text-3xl font-bold mb-8">
-                    The Daily Sein
+                    The Daily Sein #{gameNumber}
                 </h1>
                 <p data-name="no-questions" className="mb-4">No questions available for today.</p>
             </div>
