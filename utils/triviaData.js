@@ -6,12 +6,12 @@ async function fetchTriviaQuestions() {
           .then(response => response.json())
           .then(data => {
             console.log(data);
+            if (data.questions && data.questions.length > 0) {
+                return data.questions;
+            }              
           })
           .catch(error => console.error('Error loading JSON:', error));
         
-        if (data.questions && data.questions.length > 0) {
-            return data.questions;
-        }
         return [];
     } catch (error) {
         reportError(error);
