@@ -10,6 +10,7 @@ function App() {
         try {
             const loadQuestions = async () => {
                 const data = await fetchTriviaQuestions();
+                console.log('questions', data);
                 setQuestions(data);
             };
             loadQuestions();
