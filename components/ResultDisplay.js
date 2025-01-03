@@ -1,10 +1,9 @@
-function ResultDisplay({ score, totalQuestions, results }) {
+function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     const [shareText, setShareText] = React.useState('Share');
 
     const generateShareText = () => {
-        const date = new Date().toLocaleDateString();
         const boxes = results.map(result => result ? '🟩' : '⬛').join('');
-        return `The Daily Sein ${date}\n${score}/${totalQuestions}\n\n${boxes}`;
+        return `The Daily Sein #${gameNumber}\n${score}/${totalQuestions}\n\n${boxes}`;
     };
 
     const handleShare = async () => {
