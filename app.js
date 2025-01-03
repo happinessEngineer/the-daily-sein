@@ -58,7 +58,6 @@ function App() {
                     The Daily Sein
                 </h1>
                 <p data-name="no-questions" className="mb-4">No questions available for today.</p>
-                <FileUpload onUploadSuccess={handleUploadSuccess} />
             </div>
         );
     }
@@ -71,10 +70,6 @@ function App() {
                     totalQuestions={questions.length}
                     results={results}
                 />
-                <div data-name="upload-container" className="mt-8 text-center">
-                    <p data-name="upload-instruction" className="mb-4">Want to try different questions?</p>
-                    <FileUpload onUploadSuccess={handleUploadSuccess} />
-                </div>
             </div>
         );
     }
