@@ -105,10 +105,6 @@ function App() {
                     />
                 ))}
             </div>
-
-            <div data-name="upload-container" className="mt-8 text-center">
-                <FileUpload onUploadSuccess={handleUploadSuccess} />
-            </div>
         </div>
     );
 }
