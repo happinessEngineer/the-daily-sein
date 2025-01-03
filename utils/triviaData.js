@@ -9,9 +9,8 @@ async function fetchTriviaQuestions() {
           })
           .catch(error => console.error('Error loading JSON:', error));
         
-        if (response.questions && response.questions.length > 0) {
-            const latestQuestions = response.questions[0];
-            return latestQuestions.objectData.questions;
+        if (data.questions && data.questions.length > 0) {
+            return data.questions;
         }
         return [];
     } catch (error) {
