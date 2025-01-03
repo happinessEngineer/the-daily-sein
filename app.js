@@ -70,6 +70,7 @@ function App() {
                     score={results.filter(Boolean).length}
                     totalQuestions={questions.length}
                     results={results}
+                    gameNumber={gameNumber}
                 />
             </div>
         );
