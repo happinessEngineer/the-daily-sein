@@ -80,7 +80,7 @@ function App() {
     return (
         <div data-name="game-container" className="container mx-auto max-w-2xl px-4 py-8">
             <h1 data-name="game-title" className="text-3xl font-bold text-center mb-8">
-                The Daily Sein
+                The Daily Sein #{gameNumber}
             </h1>
             
             <QuestionDisplay 
