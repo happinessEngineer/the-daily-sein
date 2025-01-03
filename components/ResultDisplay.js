@@ -28,7 +28,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     return (
         <div data-name="result-display" className="text-center p-8">
             <h1 data-name="game-title" className="text-3xl font-bold mb-8">
-                The Daily Sein
+                The Daily Sein #{gameNumber}
             </h1>
             <h2 data-name="final-score" className="text-3xl font-bold mb-6">
                 Your Score: {score}/{totalQuestions}
