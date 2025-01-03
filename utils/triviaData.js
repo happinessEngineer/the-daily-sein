@@ -5,7 +5,7 @@ async function fetchTriviaQuestions() {
         fetch('./questions/2025-01-04-questions-and-answers.json')
           .then(response => response.json())
           .then(data => {
-            console.log(data);
+            console.log(data.questions, data.questions.length);
             if (data.questions && data.questions.length > 0) {
                 return data.questions;
             }              
