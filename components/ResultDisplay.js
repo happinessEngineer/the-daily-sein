@@ -1,14 +1,29 @@
 function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     const [shareText, setShareText] = React.useState('Share');
     const [showFullResults, setShowFullResults] = React.useState(false);
+    const [showInstallPrompt, setShowInstallPrompt] = React.useState(false);
+    const [deferredPrompt, setDeferredPrompt] = React.useState(null);
 
     React.useEffect(() => {
         const fullResultsTimer = setTimeout(() => {
             setShowFullResults(true);
         }, 1500);
 
+        // Add event listener before the user interacts with the page
+        const handleBeforeInstallPrompt = (e) => {
+            // Prevent Chrome 67 and earlier from automatically showing the prompt
+            e.preventDefault();
+            // Stash the event so it can be triggered later
+            setDeferredPrompt(e);
+            // Show the install button
+            setShowInstallPrompt(true);
+        };
+
+        window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
+
         return () => {
             clearTimeout(fullResultsTimer);
+            window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
         };
     }, []);
 
@@ -34,6 +49,23 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
             reportError(error);
             setShareText('Share');
         }
+    };
+
+    const handleInstall = async () => {
+        if (!deferredPrompt) return;
+        
+        // Show the install prompt
+        deferredPrompt.prompt();
+        
+        // Wait for the user to respond to the prompt
+        const { outcome } = await deferredPrompt.userChoice;
+        
+        if (outcome === 'accepted') {
+            setShowInstallPrompt(false);
+        }
+        
+        // Clear the saved prompt - it can't be used again
+        setDeferredPrompt(null);
     };
 
     const getScoreImage = () => {
@@ -92,6 +124,16 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
                         >
                             {shareText}
                         </button>
+                        <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>
+                        {showInstallPrompt && (
+                            <button
+                                data-name="install-button"
+                                onClick={handleInstall}
+                                className="bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-lg transition-colors"
+                            >
+                                Add to Home Screen
+                            </button>
+                        )}
                     </>
                 )}
             </div>

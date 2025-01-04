@@ -1,3 +1,9 @@
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then(() => console.log('Service Worker Registered'))
+      .catch((error) => console.error('Service Worker Registration Failed:', error));
+  }
+
 function App() {
     const [questions, setQuestions] = React.useState([]);
     const [gameNumber, setGameNumber] = React.useState(0);
