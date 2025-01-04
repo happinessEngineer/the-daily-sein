@@ -1,10 +1,9 @@
-function ResultDisplay({ score, totalQuestions, results }) {
+function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     const [shareText, setShareText] = React.useState('Share');
 
     const generateShareText = () => {
-        const date = new Date().toLocaleDateString();
         const boxes = results.map(result => result ? '🟩' : '⬛').join('');
-        return `The Daily Sein ${date}\n${score}/${totalQuestions}\n\n${boxes}`;
+        return `The Daily Sein #${gameNumber}\n${score}/${totalQuestions}\n\n${boxes}`;
     };
 
     const handleShare = async () => {
@@ -46,7 +45,7 @@ function ResultDisplay({ score, totalQuestions, results }) {
     return (
         <div data-name="result-display" className="text-center p-8">
             <h1 data-name="game-title" className="text-3xl font-bold mb-8">
-                The Daily Sein
+                The Daily Sein #{gameNumber}
             </h1>
             <h2 data-name="final-score" className="text-3xl font-bold mb-6">
                 Your Score: {score}/{totalQuestions}
@@ -65,7 +64,7 @@ function ResultDisplay({ score, totalQuestions, results }) {
             <button
                 data-name="share-button"
                 onClick={handleShare}
-                className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors"
+                className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors mb-8"
             >
                 {shareText}
             </button>
