@@ -37,7 +37,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     };
 
     const getScoreImage = () => {
-        return `/gifs/${[
+        return `./gifs/${[
             '0.gif',
             '1.gif',
             '2.gif',
