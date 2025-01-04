@@ -87,7 +87,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     return (
         <div data-name="result-display" className="text-center p-8">
             <div>
-                <h1 data-name="game-title" className="text-3xl font-bold mb-8">
+                <h1 data-name="game-title" className="logo text-3xl font-bold mb-8">
                     The Daily Sein #{gameNumber}
                 </h1>
                 <div 
