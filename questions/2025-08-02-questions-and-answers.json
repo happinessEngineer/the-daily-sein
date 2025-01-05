@@ -1,104 +1,104 @@
 {
-  "gameNumber": 211,
+  "gameNumber": 212,
   "date": "2025-08-02",
   "questions": [
     {
-      "quote": "I can't believe you're really going out with a woman named Lois.",
+      "quote": "But there's no way you could have beaten me by that much. I already beaten you in Junior High School three times.",
       "characters": [
-        "Jack",
+        "Connie",
+        "Duncan",
         "Jerry",
-        "Elaine",
-        "George"
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Duncan"
     },
     {
-      "quote": "We'll start out with one, and they when it catches on, we're gonna have a whole fleet!",
+      "quote": "Oh, dammit, you know I just remembered I gotta go, I left something on, the gas, the lights, the water in the tub. Something is on somewhere so I?m just gonna get the uh..",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Jackie",
-        "Driver"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, why would the guy make up something like that? Of all the names he could pick, why settle on Jon Voight?",
-      "characters": [
         "George",
-        "Newman",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, it's a lovely song.  \"How do you solve a problem like Maria?...\"",
+      "quote": "Yes, well, if you had never taken your keys back from Kramer, he never would have taken his back from you and given 'em to me, in which case I wouldn't have had to take mine back from her.",
       "characters": [
-        "Kramer",
-        "Worker",
         "Jerry",
+        "Kramer",
+        "Puddy",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What's even more amazing is his formal training is in pediatrics.",
+      "quote": "Oh, yeah. I mean, of all the men that I know, you're the only one who's held down a steady job for several years.",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "Salesman",
         "George",
-        "Beth"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Nevermind. Disgraceful. Leaves you sitting there on the kitchen floor like some kind of roach trap. Wham, bam, thank you ma'am. Sir, whatever. She's not going to get away with this.",
-      "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What's he doing? Is he out of his mind? Do you see him? I don't even think I see him anymore. Where is he?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen, you idiot! Just calm down! I know Jerry, he's not a nazi.",
-      "characters": [
-        "Jerry",
-        "Woman",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Do you wanna talk about hotels, or do you wanna win some ball games?",
+      "quote": "Of course, Jackie O. was a great lady. Those are going to be some tough shoes to fill. Everyone loved her. She had such...grace.",
       "characters": [
+        "Jerry",
+        "Landis",
+        "George",
+        "Rita"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "Hey, I had the show of my life last night. I ad-libbed like ten new minutes.",
+      "characters": [
+        "Clerk",
         "George",
         "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That was in the past, Jerry. As it happens, New York Magazine just judged his kitchen to be one of the cleanest in the city. They got a duck there, you think you died and went to heaven.",
+      "characters": [
+        "Steve",
+        "Kramer",
         "Jerry",
-        "Man"
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "...I was just telling Mary how I'm not gonna be doing the kiss hello thing anymore.  I'm sorry. I just can't do it. It's nothing personal, it's just I'm not really able to do it and uh, I'm sorry.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Come on. Come check out my new place. It'll take you two minutes.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Allison",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hoh, that Milos.  Well uh, what shall we do, uhm, care for a cup of coffee?",
+      "quote": "I don't know why I have to go to the hospital. I didn't do anything to Bette Midler. Driver can you stop over here, we're picking somebody up.",
       "characters": [
-        "Jerry",
+        "Elaine",
         "Kramer",
         "George",
-        "Michael"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

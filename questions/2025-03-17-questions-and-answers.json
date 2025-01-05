@@ -1,106 +1,106 @@
 {
-  "gameNumber": 73,
+  "gameNumber": 74,
   "date": "2025-03-17",
   "questions": [
     {
-      "quote": "Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.",
+      "quote": "As a matter of fact, if it wasn't for you, I wouldn't have even had an excuse to talk to her.",
       "characters": [
-        "Elaine",
         "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The other day after work some girlfriends and I went to a bar for some drinks and there was this crazy mishap and I wound up meeting someone as a result. George...",
+      "characters": [
+        "Daphne",
         "Kramer",
-        "Lippman"
+        "George",
+        "Steve"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "\"I want you to have this job, of course sodomy is a prerequisite.\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Celia broke out of prison. I'm sitting in my home, she shows up at the door!",
+      "quote": "Helping people... Of course. Of course! It makes perfect sense! How could I *not* be doing this!? I am gonna help somebody, Dammit!",
       "characters": [
-        "Steinbrenner",
-        "Jerry",
-        "Newman",
-        "George"
+        "George",
+        "Jack",
+        "Elaine",
+        "Steinbrenner"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Come on up.  Well, now we gotta get a posse together. I love a good posse.",
+      "quote": "And you got the AIDS walk tomorrow. You're never gonna make it, you're in horrible shape.",
       "characters": [
         "Elaine",
-        "Kramer",
+        "Jerry",
         "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What about ponies? What kind of abnormal animal is that? And those kids who had their own ponies...",
+      "quote": "Isn't this great? With those nerds in accounting moved, you and I are the only ones who use this bathroom.",
       "characters": [
-        "George",
+        "Puddy",
+        "Kurt",
         "Jerry",
-        "Steinbrenner",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I don't understand, why is this woman talking about my shoes? Why are my shoes a topic of conversation?",
+      "quote": "All right, brace yourself, Lubeck. You are about to be launched via pastry back to the wedding of one of the most dashing and romantic Nazi sympathizers of the entire British Royal family.",
       "characters": [
-        "Morty",
-        "Usher",
+        "Morgan",
         "Jerry",
-        "Elaine"
+        "George",
+        "Peterman"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Wait a minute Jerry, there's a bigger issue here. If you go through that wall and become one of those guys I'll be left here on this side. Take me with you.",
+      "quote": "Damn you, laser guy! You had to grab it all with your lowbrow laser shtick! You're just a prop comic! Where's the craft?!",
       "characters": [
-        "Estelle",
-        "Elaine",
-        "Kramer",
+        "Nana",
+        "Jerry",
+        "Janet",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, what am I gonna do? I got over two hundred folding chairs, and quite a bit of ice.",
+      "quote": "But I am wearing the ribbon. He is wearing the ribbon. We are all wearing the ribbon! So why aren't you going to wear the ribbon!?",
       "characters": [
-        "Kramer",
+        "Frank",
+        "Abby",
         "George",
-        "Patrice",
-        "Elaine"
+        "Bob"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Bob"
     },
     {
-      "quote": "I got news for you: handicapped people, they don't even want to park there! They wanna be treated just like anybody else! That's why, those spaces are always empty.",
+      "quote": "This is very exciting! You're on the Tonight Show, NBC, who else is on the show?",
       "characters": [
-        "Morty",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I didn't really get a good 'hello', but see, I was at a funeral.",
-      "characters": [
-        "Kramer",
+        "Jerry",
+        "Attendant",
         "George",
-        "Jerry",
-        "Newman"
+        "Maryedith"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it's a test drive, right? I never drive around here. If I'm gonna recommend this car, I need to see that it'll handle my daily routine.",
-      "characters": [
-        "Kramer",
-        "Jeannie",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     }
   ]
 }

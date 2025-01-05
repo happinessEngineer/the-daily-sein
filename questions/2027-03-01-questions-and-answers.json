@@ -1,106 +1,106 @@
 {
-  "gameNumber": 787,
+  "gameNumber": 788,
   "date": "2027-03-01",
   "questions": [
     {
-      "quote": "So you'll just explain to him you're not a Communist. You just called the woman for a date.",
+      "quote": "Worse. We made out at the table like our plane was going down!",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So we're still going to the health club to play racquetball right?",
       "characters": [
         "Jerry",
-        "Elaine",
         "George",
-        "Kruger"
+        "Elaine",
+        "Roy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "For that rent, she'd take a bath in the toilet tank if she had to.",
+      "quote": "I know, I know. But some how she explained it to me and I couldn't say no.",
       "characters": [
+        "Ned",
         "George",
-        "Elaine",
-        "Kramer",
-        "Maestro"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.",
-      "characters": [
         "Jerry",
-        "Kramer",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Right here, come on, I'll show you..  Take hold of your stick.. alright, bring it back slowly..",
+      "quote": "Boy, you can really talk some trash.  I guess that's better than eating it.",
       "characters": [
-        "George",
         "Kramer",
-        "Attendant",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "...give, given it to the person that they originally gave it to.",
-      "characters": [
+        "Jerry",
         "Elaine",
-        "Newman",
-        "Wendy",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, Jerry, I never saw you flirt with anyone before. It was quite the spectacle.",
+      "quote": "I actually like ponies. I was just trying to make conversation. What time's your game?",
       "characters": [
+        "George",
         "Elaine",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, uh, I was wondering if you got a chance to look at that , um, biography of Columbus, I gave you?",
+      "characters": [
+        "Joe",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Huh... Thursday is no good because we've got to get to the hospital to see if we qualify as those organ donors.",
+      "characters": [
+        "Rebecca",
+        "Elaine",
         "Kramer",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The CIA! Maybe they placed him in there to infiltrate the organization from within.",
+      "quote": "I tried brushing my teeth by holding the brush and moving my head from side to side. It didn't work.",
       "characters": [
+        "Harold",
         "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
+        "Kurt",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "George, that's what he has and I have to give him a call. Now we gotta came clean.",
+      "quote": "Morning Thunder has caffeine in it, Jerry doesn't drink caffeine.",
       "characters": [
-        "Kramer",
-        "George",
         "Jerry",
-        "Dwayne"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You won't regret this, Miss Benes. What time should I be in? I get up at four, I could be here as early as four twenty-five.",
-      "characters": [
-        "Abby",
-        "Elaine",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Clare won her lawsuit against Play Now. Gee, Play Now is filing for bankruptcy. I guess you're not going in anymore.",
-      "characters": [
-        "Elaine",
-        "Jerry",
+        "Marcelino",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I would love to. Nothing would please me more. But, unfortunately, the guy retired and moved to Singapore.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
     }
   ]
 }

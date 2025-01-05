@@ -1,106 +1,106 @@
 {
-  "gameNumber": 561,
+  "gameNumber": 562,
   "date": "2026-07-18",
   "questions": [
     {
-      "quote": "Boy, look at that. Se that's that fire I was listening to yesterday.",
+      "quote": "You told Testikov,  that Tolstoy wanted to name his book \"War-- What Is IT Good For?\"?",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Frank",
-        "Rita"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yes they *eat* them. They don't put them next to vital organs in their abdominal cavity!",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Woman"
+        "George",
+        "Audrey",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No. \"Suze!\" I mean, \"Suzie!\" \"Suzanne!\" \"Suzanna.\" Fine! But there is no, way, I'm gonna be a Suze.",
+      "quote": "You know, he came by here at 3 o'clock in the morning to pick up the tape. I was scared out of my mind!",
       "characters": [
-        "Emily",
-        "George",
         "Jerry",
+        "Elaine",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hum, he's such a great guy. You should meet him. You know he's the one who got that hit …",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Kimbrough",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Elaine, you don't seem yourself today. You seem, if I may say, troubled.",
+      "quote": "\"He..he... When they pull that needle out I let the expletives fly.\"",
       "characters": [
         "George",
-        "Jerry",
-        "Rabbi",
-        "Elaine"
+        "Elaine",
+        "Kramer",
+        "Jerry"
       ],
-      "correctAnswer": "Rabbi"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Take a look at this card. Tell me if you notice anything unusual about it.",
+      "quote": "Bernie is dead, you moron!  Just because he's wearing sunglasses he looks alive?!  Ugh, how long is this weekend, anyway?  Ugh!",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Will you get this horse outta here. He's killing me. I can't get any oxygen.",
+      "characters": [
         "Elaine",
         "George",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, Sandra. I'm sorry, I'm sorry! I really am! Listen, listen, Jerry's under a lot of pressure right now. It's very hard being a stand-up comedian! Sometimes they don't laugh!",
+      "quote": "How did you stay on that beam like that?  I mean, it's only this wide!",
       "characters": [
+        "Kramer",
         "Elaine",
-        "Maryedith",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ma, I told you, just dip the bread in the batter, and put in right in the pan... Okay, bye.  My mother. She forgot how to make French toast. You know how mothers are.",
+      "characters": [
+        "Donna",
+        "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Would you believe when I was 18, I had a ssssilver dollar collection?",
+      "quote": "No, I read an article in Bon Appetit magazine.  I'll see you later.",
       "characters": [
-        "George",
-        "Farkus",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate.",
-      "characters": [
+        "Jerry",
         "Kramer",
         "George",
-        "Jerry",
-        "Elaine"
+        "Tawni"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He was at a carnival with his mother. She goes to get a hot dog, next thing you know she turns around, boom, he's gone.",
+      "quote": "... she sent me an invitation was that so I'd send her a gift.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, like what, Ovaltine? Why do dogs drink out of the toilet? Shopping carts with one bad wheel?",
-      "characters": [
-        "Jerry",
-        "Elaine",
+        "Peterman",
         "George",
-        "Danielle"
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

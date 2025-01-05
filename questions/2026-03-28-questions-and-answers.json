@@ -1,89 +1,79 @@
 {
-  "gameNumber": 449,
+  "gameNumber": 450,
   "date": "2026-03-28",
   "questions": [
     {
-      "quote": "You know, she'd be better off making a sandwich at home and bringing it in.  Hello, ah, George will you excuse me.",
+      "quote": "Yeah, that's true. Well it sounds like it's going pretty good.",
       "characters": [
-        "Rebecca",
+        "Newman",
         "Elaine",
-        "Steinbrenner",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Steinbrenner"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I... I think I'm... I'm having trouble swallowing. I can't... I can't swallow.",
+      "quote": "Hi. Sorry I'm late. There's a lotta chairs and balloons in my apartment. How 'bout I make it up to you with dinner?",
+      "characters": [
+        "Kramer",
+        "Fred",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry I am at doctor Zimmerman. I am at the end of the alphabet.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Clare",
+        "Billy",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You're right; it is strange. In fact, let's cross to the other side of the street. Cover me.",
+      "quote": "I don't know, it never shuts up. So anyway, you could see why I would be interested in finding this person.",
       "characters": [
+        "Corinne",
+        "Elaine",
         "George",
-        "Clerk",
-        "Jerry",
-        "Kramer"
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Corinne"
     },
     {
-      "quote": "So listen, I gotta go down to Atlantic City. I'm performing at Bally's.",
+      "quote": "Oh really?  The doorman. And, pray tell, what did the doorman say?",
       "characters": [
-        "Jerry",
-        "George",
+        "Elaine",
         "Kramer",
-        "Jodi"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"I want you to have this job, of course sodomy is a prerequisite.\"",
+      "quote": "Elaine, I have a question for you. Is the item still...with you?",
       "characters": [
-        "Jerry",
-        "Abby",
+        "Susan",
         "George",
-        "Kramer"
+        "Jerry",
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "And so, for all these reasons, we are officially broken up.  Thank you,  and good night.",
+      "quote": "So let's say in her mind she witnessed a pick. Okay, so then what?",
       "characters": [
-        "Jack",
-        "Jerry",
-        "Donna",
+        "Fred",
+        "Kramer",
+        "Lisi",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I have never seen one episode of I Love Lucy in my life, ever.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Rava"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, the great conversation girl.  The one you think can replace me?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'm not paying for this. If you were going out with her, it'd be a different story.",
+      "quote": "I still won't be able to forgive myself - but at least it won't be about this.",
       "characters": [
         "George",
         "Jerry",
@@ -93,14 +83,24 @@
       "correctAnswer": "George"
     },
     {
-      "quote": "My family used to live there, but, uh, we got out years ago, for obvious reasons. You know how it is.",
+      "quote": "So do most doctors like ER or do you guys just think it's fake?",
       "characters": [
-        "Darryl",
+        "Elaine",
+        "George",
         "Jerry",
-        "Woman",
-        "Kramer"
+        "Clare"
       ],
-      "correctAnswer": "Darryl"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, you stand in the lobby, by the elevator, and wait for her to come down for lunch.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 288,
+  "gameNumber": 289,
   "date": "2025-10-18",
   "questions": [
     {
-      "quote": "Y'know I have some friends who try and base their whole life on that principle.",
+      "quote": "People can drop change down here, Jerry. And they're too lazy to pick it up.",
       "characters": [
-        "Jerry",
-        "George",
-        "Frank",
-        "Leo"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "This is a pretty bad deal for Kramer. You know a radar detector is worth much more than that helmet. I think you're cheating him.",
-      "characters": [
-        "Jerry",
-        "Nina",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'll tell you a little secret. We're having an unadvertised sale starting Friday, that suit will be half-price.",
-      "characters": [
-        "Saleswoman",
-        "Steinbrenner",
+        "Kramer",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Saleswoman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I don't have a dress to wear.  And you. You don't have anything.",
+      "quote": "Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.",
       "characters": [
-        "Helen",
-        "Jerry",
+        "Kramer",
         "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, I know you. You're the guy from the Calvin Klein underwear ads.",
+      "characters": [
+        "Stu",
+        "Leo",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Stu"
     },
     {
-      "quote": "What about Don Ramsey? You didn't mention anything to him did you?",
+      "quote": "Well,you told me how familiar I looked and that you must have seen me somewhere before.",
       "characters": [
-        "Jack",
         "Elaine",
-        "Jerry",
-        "Kramer"
+        "Janet",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Janet"
+    },
+    {
+      "quote": "That is correct. But here's the beauty part - now I stand up for myself by telling everybody I'm dumping his sorry ass, and I'm the office-",
+      "characters": [
+        "George",
+        "Morty",
+        "Wilhelm",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I just talked to Mr. Kruger, he'll be down in a minute. He wanted me to take a photograph for the record.",
+      "quote": "No, but um I have very good report with women, very good, comfortable. And from the first time I laid eyes on a brassieres, I was enthralled.",
       "characters": [
         "Elaine",
-        "Man",
+        "Russell",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Someone's have to unhook the boat before it leaves...the place!",
+      "quote": "I wanna tell you. This is one of the most thoughtful gifts anyone's ever given me.",
       "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
+        "Morty",
+        "Naomi",
+        "Jack",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "I don't want to see this woman anymore but I haven't got the will power to throw out her number. Please, help me. Help me.",
+      "quote": "I know, I know, but man! I never felt so alive! Now, are you coming with me?",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Peterman",
-        "Kramer"
+        "Kramer",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, and they come back with things taped to they're large intestine.",
+      "characters": [
+        "Greg",
+        "Elaine",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes. In Chinatown with the money I earned cleaning people's apartments.",
+      "quote": "I'm not going for this, Kramer should go! It was all his idea!",
       "characters": [
-        "Steve",
-        "Peterman",
+        "Morty",
+        "Steinbrenner",
         "Jerry",
-        "Ray"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "I needed them to help me break my fall! If it hadn't been for them, I could have really injured myself!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Farkus",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1050,
+  "gameNumber": 1051,
   "date": "2027-11-19",
   "questions": [
     {
-      "quote": "Peru! I paid $300 bucks for these. I could have bought a house in Peru for $300 bucks!",
+      "quote": "Steady, steady, now calm yourself, come on, now get a hold of yourself,",
       "characters": [
-        "Wilhelm",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't even know them. What is she, your second cousin? I mean, I've met them three times in my life.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Gennice",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You don't need the card. High-end hoagie outfit like that, it's all computerized!  They're cloning sheep now.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Peterman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What, you know what, the keys. I want the keys. You've lost your key privileges.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey! what's the deal with decaf; how do they get the caffeine out of there and then where does it go?",
-      "characters": [
-        "Maestro",
-        "Jerry",
-        "Jeannie",
-        "Mike"
-      ],
-      "correctAnswer": "Jeannie"
-    },
-    {
-      "quote": "My name is Maxwell. I'm from Maid To Order. It's a pun. I sent one of my girls over to your place.",
-      "characters": [
-        "Man",
-        "George",
-        "Helen",
-        "Naomi"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "I told Cynthia we'd double with her and Bania Saturday and then catch his act.",
-      "characters": [
-        "Jerry",
-        "Greg",
-        "Abby",
+        "Susan",
+        "Mohel",
+        "Joel",
         "Kramer"
       ],
-      "correctAnswer": "Abby"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow .",
+      "quote": "Again with the checked out. I'm not going to the doctor. If I don't to the doctor, then nothing will happen to me. If I go he might find something.",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "An apartment complex, the uh the Eiffel Towers. uumm Like I said uh you'll be getting a postcard uh in a few days and again I'm sorry.",
-      "characters": [
-        "Puddy",
-        "Elaine",
+        "Babu",
         "Jerry",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, I change it so often, I mean to come all the way down here...",
+      "quote": "TV Elaine. She wants to get together and talk about the part.",
       "characters": [
-        "Stan",
+        "Peterman",
         "George",
-        "Jerry",
-        "Morty"
+        "Susan",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's still some overlap between the needle and the slash below the \"E\".",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, Kramer, look at him.  Look! He's eating all the food!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "By the way, you're doing it too fast. You'll disorient the customers.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Keith",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman!  Hahaha!",
+      "characters": [
+        "Milos",
+        "Jerry",
+        "Alec",
+        "Elaine"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Y'know the average life span for an American male is like, 72. You're really... kinda pushin' the envelope there.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Gennice",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sure, sure. She's getting a bargain, too. It's only four hundred dollars a month.",
+      "characters": [
+        "Sid",
+        "Harold",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Do you think people are going to pay $80 a bottle to smell like dead fish and sea weed? That's why people take showers when the come home from the beach. It's an objectionable offensive odour.",
+      "characters": [
+        "Steve",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Steve"
     }
   ]
 }

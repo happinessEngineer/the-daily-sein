@@ -1,106 +1,106 @@
 {
-  "gameNumber": 219,
+  "gameNumber": 220,
   "date": "2025-08-10",
   "questions": [
     {
-      "quote": "We don't want anything to happen to you Mr. Pitt. We want you to live a long, long time.",
+      "quote": "Till when - till he goes back to Seattle, or till he can feed himself?",
       "characters": [
+        "Joyce",
         "Jerry",
-        "George",
-        "Kramer",
+        "Newman",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "So if you call and ask if you have the job, you might lose the job.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Mohel",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No I don't! In fact, if even one corpuscles of that blood should find it's way across that hall I will freak out on you Kramer! Freak out.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"No No... That's not him. That's the guy who gave me... Jimmy's number.\"",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Kate"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't know why we didn't think of this before. We just could call TV Guide.",
+      "quote": "Yeah, that's right. What if it's a genetic thing, like father like son?",
       "characters": [
         "Kramer",
         "Poppie",
-        "Clerk",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't keep real coffee in here, I get my coffee on the outside!  Yeah?!",
-      "characters": [
         "Jerry",
-        "George",
-        "Doctor",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, come on, Jerry. If everybody knew everybody, we wouldn't have the problems we have in the world today. Well, you don't rob somebody, if you know their name!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Newman",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just wanted you guys know that Friday's my last day. Bloomingdales ordered a bunch of my clips, thank God, I don't have to do this any more.",
+      "characters": [
+        "Rava",
+        "Kelly",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Kelly"
+    },
+    {
+      "quote": "Elaine, according to your urine analysis, you're menopausal. you have the metabolism of a sixty-eight year old woman.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Hey, hey, hey, hey, that guy can't even go to the bathroom in South America!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Man",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, it's only a year. That's not so bad. We'll be out in a year, and then we'll be back",
+      "quote": "Wait, where are you going? Don't take your dolly and go home.",
       "characters": [
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Kruger",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "This is so exciting! Look, I have goosebumps!  Touch! Touch them!  I've never been to a comedy club before!",
-      "characters": [
-        "Jerry",
-        "Wilhelm",
-        "Toby",
-        "Kramer"
-      ],
-      "correctAnswer": "Toby"
-    },
-    {
-      "quote": "The \"Jerry\"'s back on - the TV show! George and I are moving to California!",
-      "characters": [
-        "Abby",
-        "Jerry",
-        "George",
+        "Chiles",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And that's not helpin' either. That's why you're havin' trouble with your staff, not because of George.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Once I find a barber I stick with him. I almost went to barber school. I always felt I had a talent for it.",
+      "characters": [
+        "Newman",
+        "Brett",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No! Pick it up more in the front! It's got to be higher! Higher! Make a wall! A wall!",
+      "characters": [
+        "Sandi",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sandi"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 214,
+  "gameNumber": 215,
   "date": "2025-08-05",
   "questions": [
     {
-      "quote": "Wait a minute. Wait a minute. It's from that grapefruit that Jerry squirted at me.",
+      "quote": "Would you excuse us for a minute Tim boy, we're kind of in the middle of something.",
       "characters": [
-        "Roy",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Kramer",
+        "Clerk"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It's about this woman, in a coma. Well, I couldn't finish watching it, so I want you to read this.",
+      "quote": "Well, he called last night about 3 a.m. and we got to talking, he sells Russian hats down at battery park, forty bucks.",
       "characters": [
-        "Kramer",
-        "Woman",
-        "Jerry",
-        "Carol"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey, I give you a brand-new Armani suit, and you won't even buy me a meal?",
-      "characters": [
-        "Bania",
-        "Kramer",
-        "Craig",
-        "Joel"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "I never knew you were so into breasts. I thought you were a leg man.",
-      "characters": [
-        "Celia",
-        "Elaine",
-        "Marcy",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh hey guess what. Morty Seinfeld and I are going into business together, selling raincoats.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Especially that big kid up in the front.  How old is he?  Hello?",
-      "characters": [
-        "Marla",
-        "Estelle",
+        "Chiles",
+        "Newman",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey look, if you're going there, maybe you could pick me up some of this super hydrating, it's a total-protection moisturizer with Uva.",
+      "quote": "Hi, Sidra. I usually last about ten minutes on a Stairmaster. Unless of course there's someone stretching in front of me in a leotard, then I can go an hour.",
       "characters": [
+        "George",
         "Kramer",
-        "Kruger",
-        "Jerry",
-        "George"
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "What was wrong with that sorry? It was a good sorry. Jerry, was that a good sorry?",
+      "quote": "I'll tell you what's going on. Morty Seinfeld has been stealing funds from the treasury.",
       "characters": [
-        "Morty",
-        "Joel",
+        "Kramer",
+        "Jack",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Well they just came in, part of my spring-time cruise collection. Two for twenty-five dollars.",
+      "characters": [
+        "Rudy",
+        "Kramer",
         "Jerry",
-        "George"
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "What if she becomes Miss America? You could be dating Miss America, Jerry!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Nah, now it's on TV. It's different. I told everybody I know to watch it.",
+      "quote": "Hey hey hey hey, we're starving here! We've been waiting here for ten minutes already!",
       "characters": [
-        "Landis",
-        "Jerry",
+        "Kramer",
+        "George",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "We-We're doing that evening of Eastern European National Anthems.",
+      "characters": [
+        "Mickey",
         "Elaine",
-        "George"
+        "Kramer",
+        "Frank"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, they ran out of it. Manhattan can be quite pricey. Even with fifty thousand yen.",
+      "quote": "Well, what is it then?! My new sofa! Poppie peed on my new sofa!",
       "characters": [
-        "Kramer",
+        "Kevin",
         "Jerry",
-        "Maestro",
-        "George"
+        "Mickey",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No come on, let me, let me. I smashed your car, it cost you over two thousand dollars,",
+      "characters": [
+        "Rebecca",
+        "Jerry",
+        "George",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

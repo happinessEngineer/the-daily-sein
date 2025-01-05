@@ -1,106 +1,106 @@
 {
-  "gameNumber": 770,
+  "gameNumber": 771,
   "date": "2027-02-12",
   "questions": [
     {
-      "quote": "Kramer, these balloons aren't gonna stay filled till New Year's!",
+      "quote": "You knew he was an alcoholic. Why'd you put the drink down at all?",
       "characters": [
-        "Susan",
-        "Stationer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are you saying? . . . Salad! What was I thinking? Women don't respect salad eaters.",
-      "characters": [
-        "Elaine",
         "Kramer",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And you met her in an antique store! I don't know how you do it!",
-      "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Cheryl"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's nothing. I got it. So, how are your levels coming along?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I don't believe that for a minute. Well, Elaine, it was good of you to stop by.",
-      "characters": [
-        "Jerry",
-        "Alec",
-        "Elaine",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Hey! Hey, everyone. This way. I think we can get out through here.",
-      "characters": [
-        "Helen",
-        "Man",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "It looks like your breaking into it like an otter breaking into a clad.",
+      "quote": "You've got 'shiksappeal'. Jewish men love the idea of meeting a woman that's not like their mother.",
       "characters": [
-        "Newman",
+        "Rula",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It never fails. See, it's based on your body clock. See, your body has an internal mechanism. It knows what time it is.",
+      "characters": [
         "Jerry",
-        "Elaine",
-        "Farkus"
+        "Kramer",
+        "Joel",
+        "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I don't know. Anyway I thought we'd all go to a movie on Friday.",
+      "quote": "Today, I went record shopping in Greenwich Village. I bought this record, but I can't seem to find the hi-fi.",
       "characters": [
         "Kramer",
-        "Susan",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "I'm not the one who said eleven o'clock. He makes up his own rules.",
-      "characters": [
-        "Elaine",
-        "George",
+        "Kruger",
         "Frank",
-        "Harold"
-      ],
-      "correctAnswer": "Harold"
-    },
-    {
-      "quote": "It's Latin. I read it in some book. I don't know, I just wanted to say it out loud.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Now you know who to thank for that!.. Alright, I've got to go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Yeah,yeah yeah yeah! I've seen these.....they sorta ..they make your legs..stronger.\"",
+      "characters": [
+        "Rebecca",
+        "George",
+        "Patrice",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, she can't be too mad. She's still coming to the wedding.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I need you to sit in the car for two minutes while it's double-parked. I gotta pick up some birds.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Receptionist"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I remember when you wouldn't date that girl who lived in Queens because you didn't want to go over the bridge!",
+      "characters": [
+        "Dan",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well he's from the impressionist school, you know like Monet, Manet, Tippi Tippi Dayday.",
+      "characters": [
+        "Jerry",
+        "Jack",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

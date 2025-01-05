@@ -1,106 +1,106 @@
 {
-  "gameNumber": 223,
+  "gameNumber": 224,
   "date": "2025-08-14",
   "questions": [
     {
-      "quote": "\"Call me. Thirty-six, twenty-four, forty-six. I think I have what you're looking for.\" .",
+      "quote": "Oh yeah, she's a great laugher, Jerry.  Really, really great!",
       "characters": [
-        "Peterman",
-        "George",
+        "Rick",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The Drake, he found out that the wedding is on the same day as the Super Bowl.  So he wanted to postpone it, they got in a big argument and *phlf* it's over.",
+      "characters": [
+        "Sid",
+        "Carl",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "C'mon, go for twenty-five hundred. We'll do it together. Come on, come on. We're in it together.",
+      "quote": "I'll tell you what, I'll give you my number and uh, just give me a call, tell me whenever you want to go.",
       "characters": [
         "George",
-        "Elaine",
-        "Russell",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, that's it, yeah. Boy, Stubs sure went to town with this thing huh? Yeah, well, Bobby, uh, what if I told you a very important person at the New York Yankees needed this card back.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Peterman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?",
-      "characters": [
-        "Helena",
-        "Kramer",
-        "Jack",
+        "Lippman",
+        "Melissa",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen.",
+      "quote": "It's over buddy. Done. Finished. So long. Good bye. Adios. Sayanara.",
       "characters": [
-        "Conrad",
-        "Harold",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right, all right. I'll help you but I will except something in return.",
-      "characters": [
-        "Newman",
         "Mickey",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh, well, Mr. Pitt, there's really nothing that can't wait. We're trying to catch a movie.",
-      "characters": [
-        "Kramer",
-        "Receptionist",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, I'm against AIDS. I mean, I'm walking, aren't I? I just don't wear the ribbon.",
-      "characters": [
-        "George",
-        "Man",
-        "Tor",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Because I have to be able to trust you... If I can't trust you then there's no way that this can work.",
-      "characters": [
-        "George",
+        "Carrie",
         "Jerry",
-        "Susan",
         "Elaine"
       ],
-      "correctAnswer": "Susan"
+      "correctAnswer": "Carrie"
     },
     {
-      "quote": "The gardener did a nice job planting the rose bushes, didn't he dear?",
+      "quote": "I got me an appointment with a hardware store. I'm not saying I want to do it for the rest of my life, but, uh, hardware fascinates me. Don't you love to make a key?",
       "characters": [
-        "Wilhelm",
+        "Beth",
+        "Elaine",
         "George",
-        "Sid",
         "Jerry"
       ],
-      "correctAnswer": "Wilhelm"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Myra and I would like you and Elaine to be the Godparents of Steven.",
+      "characters": [
+        "Stan",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "I'm sure she's a little self-conscious and doesn't like to talk about it.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Just do it like a Band-Aid. One motion. Right off!  She is sexy though. Don't you think?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello. So, George, uh, you're the one who works for the Yankees, right?",
+      "characters": [
+        "David",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "No it was a spur of the moment. Well you know Morty likes to fly by the seat of his vintage pants.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

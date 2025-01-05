@@ -1,106 +1,106 @@
 {
-  "gameNumber": 980,
+  "gameNumber": 981,
   "date": "2027-09-10",
   "questions": [
     {
-      "quote": "\"He..he... When they pull that needle out I let the expletives fly.\"",
+      "quote": "Hello, Jerry.  Tim couldn't make it, he's in love.  Isn't that wonderful?",
       "characters": [
-        "Kramer",
+        "Bania",
+        "Newman",
         "Elaine",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "No matter what I do, I cannot weasel out of raising this kid.",
+      "quote": "Well, I gotta say that I think that that is a fantastic idea, Feldman!",
       "characters": [
-        "Newman",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, no, no. Give it to her. I'd rather it belonged to another than see it destroyed. Newman, give it to her, I beg you.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Ramon",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So you're driving in the car, you're with your friend, minding your own business?",
-      "characters": [
-        "Jackie",
         "Elaine",
         "Jerry",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Jackie"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "She's right in my building! Right above me! Every time I come in the building, I'm gonna have to sneak around like a cat burglar.",
+      "quote": "So you see, Kramer took it upon himself to say hi to you from me. When in fact it was an unauthorised hi.",
       "characters": [
-        "Jerry",
-        "Helen",
-        "Susan",
-        "Lena"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "so I ask this woman in the stall next to me for some and she refuses! ha ha",
-      "characters": [
-        "Nurse",
-        "Jerry",
         "George",
-        "Elaine"
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I don't think so I know so, Kramer, come here I got to talk to you",
+      "quote": "Gone.  The tenant association made me give it to this guy because he was an Andrea Doria survivor..",
       "characters": [
-        "Carl",
-        "George",
-        "Kelly",
-        "Jerry"
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He thinks that if you're too funny, he might not look so funny.",
+      "quote": "I'm not taking a soak in that human bacteria frat you got goin' there.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Her father is so religious, I'm just amazed that he's letting you see her again after that Schindler's List make-out session.",
       "characters": [
         "Elaine",
-        "Doctor",
-        "Jerry",
-        "Poppie"
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Because he hasn't called me since we got back.. I spilled wine on his 8 by 10 photo of one of his favorite Italian opera stars.",
+      "quote": "Yeah. Well, let's hurry up and eat I gotta get out of here. I'm meeting a woman for a drink.",
       "characters": [
-        "Frank",
-        "Rebecca",
+        "George",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "All right Jerry. But I can figure it out myself any way you want.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Conrad"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's another loop hole. That's two dates without asking you out.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well they don't. If they could drive, they wouldn't be handicapped.",
-      "characters": [
-        "Barry",
-        "Patrice",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 266,
+  "gameNumber": 267,
   "date": "2025-09-26",
   "questions": [
     {
-      "quote": "You know how hot it gets there? Like 150 degrees. Your skin is gonna be simmering with boils.",
+      "quote": "What, do I have to spell it out for ya? He was moving on her like the storm-troopers into Poland.",
       "characters": [
-        "Frank",
-        "Elaine",
+        "Jerry",
+        "Newman",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Well she apologized, and then she wanted to know if we could get together Wednesday afternoon.",
+      "quote": "Hey by the way my parents really want to have your parents over dinner before they leave town.",
       "characters": [
         "George",
-        "Elaine",
-        "Kramer",
-        "Doctor"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I tried to do a reverse hecht off my couch and I didn't make it.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Estelle",
-        "Helen"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, maybe in Korean \"dog\" isn't an insult. Could be like the word \"fox\" to us. Oh, she's a DOG!",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Kramer",
-        "Maura"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, he came by here at 3 o'clock in the morning to pick up the tape. I was scared out of my mind!",
-      "characters": [
-        "Morty",
-        "Peterman",
-        "Elaine",
+        "Attendant",
+        "Steve",
         "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You had sex with the cleaning woman on your desk? Who are you, how did you do that?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morgan",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, you want to come down to Mario's Pizza with me and help me pick up the Frogger?",
+      "quote": "Hello?... Yes, I know... Well, it's just one of those things... Sure, sure, we'll see you then.",
       "characters": [
-        "Elaine",
+        "Helen",
         "Jerry",
-        "Dana",
-        "George"
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Helen"
     },
     {
-      "quote": "Yeah, you know my friend, the bra salesman. He says they are looking maybe to put somebody on so I got you an interview next Friday with his boss.",
+      "quote": "Well, Mickey and her have a lot more in common. you know her parents are little people?",
       "characters": [
-        "Frank",
-        "Bobby",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "I'm here to whip you in to shape, so grab your jocks - if you need one. It's go-time.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Newman",
-        "Izzy"
-      ],
-      "correctAnswer": "Izzy"
-    },
-    {
-      "quote": "Excuse me. What happened to the man, that was in this room before?",
-      "characters": [
+        "Steinbrenner",
         "George",
+        "Farkus"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No food? Well you gotta have something --  -- I can't go back in there with no food. She's expecting something Jerry. You don't know what she's like when that blood sugar drops.",
+      "characters": [
+        "Steinbrenner",
+        "Anna",
         "Elaine",
-        "Peterman",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well! I am happy to say that the little guy is back in place at the end of the line.",
+      "quote": "No, I had to tell my friends – my friends didn't have to tell you.",
       "characters": [
         "Kramer",
-        "Wilhelm",
-        "George",
-        "Jerry"
+        "Holly",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're all the way in the front row. Why couldn't we sit in the special seats?",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's got like a chemical imbalance. He needs to be on medication.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why're you doing this, Jerry? Is it your career? Things will pick up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Bruce"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

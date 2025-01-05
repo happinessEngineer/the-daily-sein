@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1066,
+  "gameNumber": 1067,
   "date": "2027-12-05",
   "questions": [
     {
-      "quote": "The show! Forget about the show! We should take the idea to a different network",
+      "quote": "I'm very disappointed to here you talk like that. You still don't know what makes me tick.",
       "characters": [
-        "Leslie",
-        "Kramer",
         "Jerry",
+        "Elaine",
+        "Stationer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Nothing, I got up, run some errands, I went down to Sara's office and apologized...",
+      "quote": "Great, my boyfriend's just parking the car. Actually, Jerry, you",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Mike",
         "George",
-        "Jerry"
+        "Morty",
+        "Cynthia"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Cynthia"
     },
     {
-      "quote": "Hello, Oh hi Lois, you want to get together, what for? I don't know about that, I'll have to think about it. I'll let you know. Okay, bye.",
+      "quote": "No, actually, we'd like to keep him here overnight for observation, just to be safe.",
       "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I just wanted to stop by -- see if you had any questions about tomorrow's operation.",
-      "characters": [
-        "Elaine",
         "Doctor",
+        "Jerry",
         "George",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Doctor"
     },
     {
-      "quote": "Look, sweetheart, you know you've got it all. But let's face it...",
+      "quote": "Now you listen to me, you've got to find this woman and tell her that you're not a test tube pin cushion.",
       "characters": [
-        "Jerry",
+        "Bania",
         "Elaine",
-        "Kramer",
-        "George"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well I assumed she called to apologize, that's why she called me.",
+      "quote": "ouhhh -- I had Uma Therman's number written on that stub. I lost Uma's number.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bette",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no no, listen to me. I work in fashion. Together, we can drive Putumayo outta business and make Cinqo de Mayo numero uno... de Mayo.",
       "characters": [
         "George",
-        "Rava",
-        "Marla",
+        "Newman",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, see, uh, when we met, I was over there and, uh, you were over here, so the image, uh, the image was reversed, like, uh, like in the mirror.",
+      "quote": "Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money.",
+      "characters": [
+        "Valerie",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I know what I'm doin'. In fact Mr. Wilhelm gave me one of those little stress dolls. All right.  Back to work.",
       "characters": [
         "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Doctor",
+        "Jerry",
+        "Morty"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, Jerry. You know who the grand marshal is of this thing? None other than Miss Chita Rivera.",
+      "quote": "Ha ha, she was great. You don't want to know. Hey Breaky, remind me to tell you what we did in Lake George.  Get this...I got it all on video.",
       "characters": [
-        "Tawni",
-        "Kramer",
-        "Elaine",
-        "Carol"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, but I know I've seen cake just like that. Oh--Entenmann's. Yeah.",
-      "characters": [
+        "Levitan",
+        "Hoyt",
         "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
+        "Newman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Levitan"
     },
     {
-      "quote": "Boy, you're on quite a streak. Job promotion, plus you're back with Jake Jarmal.",
+      "quote": "Uh, well, listen. I feel really horrible about trying to keep you two apart and I just wanted to apologize.",
       "characters": [
+        "Man",
         "Elaine",
-        "Ellen",
-        "Jerry",
-        "Bob"
+        "Poppie",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

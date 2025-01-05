@@ -1,106 +1,106 @@
 {
-  "gameNumber": 328,
+  "gameNumber": 329,
   "date": "2025-11-27",
   "questions": [
     {
-      "quote": "OK look this is my boyfriend we're talking about OK? And he's a gentlemen, he's good looking, he's a good shaver and he hasn't thrown up in eigth years so just shut up about him! Shut up!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, he's got a real horse face.  Here, look at this! It's the guy with the dog!  Hey! Hey! You down there! Remember me? I had to get shot because of your stupid dog!",
+      "quote": "Why? What's wrong? You're not still thinking about this afternoon are you?",
       "characters": [
         "Elaine",
         "Jerry",
-        "Kimbrough",
+        "Bob",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yes. Live, dammit. Live! Every precious moment as if this was the last year of your life. Because in many ways...it is.  Excuse me.",
+      "quote": "Um, yup. Yes, yes, it just... such a miracle, um. My visit must have buoyed  his spirits.",
       "characters": [
+        "Elaine",
         "Jerry",
         "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You want a Christmas card? You want a Christmas card? All right here. [rubs George's head on her breasts] Here's your Christmas card.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Rabbi",
-        "Elaine"
+        "Estelle"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "'Cause I've seen these pregnant women - and they sometimes misjudge their fetal girth. Just like one wrong turn, and boom! And entire buffet is swept off the table.",
+      "quote": "Showmanship, George. When you hit that high note, you say goodnight and walk off.",
       "characters": [
-        "Todd",
-        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what do you say? Run in the cyclone. Hotdogs on Nathan's is on me.",
+      "characters": [
+        "Gina",
+        "Mary",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "...So, anyway, if you think about it, manure is not really that bad a word. I mean, it's 'newer', which is good, and a 'ma' in front of it, which is also good. Ma-newer , right?",
+      "quote": "I'm glad I cut you off, because black Saab rules! So long, jackass!",
       "characters": [
-        "Kramer",
+        "Elaine",
         "George",
         "Jerry",
-        "Conrad"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Bankruptcy, bankruptcy...as in I've taken your money and spent it on drugs!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Puddy"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh well nothing wrong with that. Gotta make those big bucks. . . . money money money money money money money . . . ha ha ha ha ah . . . are you a communist?",
+      "quote": "Nobody's giving anything back! You tried to take it from me, I don't forget that.",
       "characters": [
+        "Tony",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "A beautiful woman like you should. You're quite breathtaking.",
+      "characters": [
+        "Ben",
         "Jerry",
         "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Yeah, listen, uh, Elaine, I've changed my mind about the whole coma thing.  Yeah, I decided I'm up for it.",
+      "characters": [
+        "Newman",
+        "Jerry",
         "Elaine",
         "Kramer"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These two and this one. ... No! Don't come over here! These are taken. Go! Go! These are taken! They're taken! THEY'RE TAKEN!!!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Dana"
+      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, but... he has... The Worst Habit. Whenever he answers the phone, he won't put Noreen right on. Ya have'ta go through, like, ten minutes of chit-chat.",
+      "quote": "Don't aaaaah! I'm supposed to do something with her later? I don't even think I wanna see her.",
       "characters": [
         "Jerry",
-        "George",
         "Kramer",
-        "Elaine"
+        "Tony",
+        "Morty"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You mean this whole time we could have been discussing Sydney and Michael and Jane...",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

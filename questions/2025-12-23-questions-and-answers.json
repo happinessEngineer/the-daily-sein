@@ -1,89 +1,49 @@
 {
-  "gameNumber": 354,
+  "gameNumber": 355,
   "date": "2025-12-23",
   "questions": [
     {
-      "quote": "I don't know how you're going to write all those shows. And where are you get all the ideas?",
+      "quote": "That is so old. Why don't you show up at her door in a wood horse?",
       "characters": [
         "Kramer",
-        "Lanette",
-        "Jerry",
-        "Estelle"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Well, I have to admit, I've always thought David was kind of sponge-worthy.",
-      "characters": [
-        "Jerry",
-        "Guy",
-        "Elaine",
-        "Rachel"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Thank you I am not very hungry. Anyway, um, this friend of mine, George, got engaged .",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, well, come on. This is an apartment, this is a home! This is a place to live. Oooh, a fireplace, are you kidding me! Does this work?",
-      "characters": [
-        "Elaine",
-        "Maura",
-        "George",
+        "Kruger",
         "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "...My uncle to my cousin, my cousin to my sister, my sister to me.",
-      "characters": [
-        "Kramer",
-        "Maestro",
-        "Jerry",
-        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You're in big trouble mister. And I mean trouble with a capital 'T'.",
+      "quote": "Assumed? Never assume anything. I don't want that nut in my house. You know he's on medication.",
       "characters": [
         "Elaine",
-        "Babu",
-        "Kramer",
-        "Toby"
+        "Jerry",
+        "Peggy",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah.  Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",
+      "quote": "Here he is... that's the guy!  No, thank you, go back... go back... I'll park it! You go back!",
+      "characters": [
+        "Nurse",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, if I knew I had to give him eight million 'thank you's, I wouldn't have taken the tickets in the first place.",
       "characters": [
         "Jerry",
         "George",
-        "Kramer",
+        "Woman",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "And, it is already in the school paper. They cancelled Rick James.",
-      "characters": [
-        "Steve",
-        "Kramer",
-        "Katie",
-        "Jerry"
-      ],
-      "correctAnswer": "Katie"
-    },
-    {
-      "quote": "Hey, listen while we're here why don't we do a little shirt shopping?",
+      "quote": "My number? Ohh..  Okay.. Uh, well, there you go.  And, uh, tell you what..  put a sawbuck on Captain Nemo in the third at Belmont.",
       "characters": [
         "Elaine",
         "George",
@@ -93,14 +53,54 @@
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, I remember when we parted company, I was babbling incoherently for months.",
+      "quote": "All right, look--wait--wait--Krama--wait, wait a minute, you are not. You are not goin' in. Ah-ahhh!",
       "characters": [
-        "Jerry",
         "Elaine",
+        "Kramer",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' em.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's going on? Hey, Timmy, Clara. That was some kind of workout we had tonight, huh?",
+      "characters": [
+        "Katie",
+        "George",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. God, I can't tell you how I feel! I mean, I feel *so* *good*! I *really* feel good. The strange thing is, I mean, I haven't even met the woman yet.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They adjust the foam density and spring tension to your body type. I estimated your height and weight. Five eight, about 110 pounds?",
+      "characters": [
+        "Kramer",
+        "Hal",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Hal"
     }
   ]
 }

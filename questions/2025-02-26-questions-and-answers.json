@@ -1,106 +1,106 @@
 {
-  "gameNumber": 54,
+  "gameNumber": 55,
   "date": "2025-02-26",
   "questions": [
     {
-      "quote": "I know. Somebody around here has been giving Wilhelm the impression that I have been slacking off.",
+      "quote": "You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?",
       "characters": [
-        "Morgan",
-        "Kramer",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Morgan"
-    },
-    {
-      "quote": "Wait a second! I never baited a hook with a rye before. Your hook is too small. This is for, like, a muffin. All right. Take it away.",
-      "characters": [
-        "Kramer",
-        "Newman",
+        "Jerry",
+        "Babs",
         "George",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Wait a minute? He's picking up the van tonight? This is perfect. I'll drive Rhisa to someplace romantic. Then when my father slides the door open, I'm in the van kissing his brother's daughter.",
+      "quote": "Not much more money. But you'll finally get the recognition you deserve.",
       "characters": [
-        "John",
-        "Guy",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, it was sad for a Three Stooges, what with the dead baby and the Stooges being executed and all.",
-      "characters": [
-        "Jerry",
-        "Kevin",
-        "Helena",
-        "Ralph"
-      ],
-      "correctAnswer": "Helena"
-    },
-    {
-      "quote": "What's the difference, you're a woman. They're supposed to be touching you.",
-      "characters": [
+        "Jeannie",
         "Kramer",
         "George",
-        "Jerry",
-        "Elaine"
+        "Steinbrenner"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "Well, I guess this would be all right. Jimmy, you remember Elaine? She's gonna watch you tonight.",
+      "quote": "I never knew you were so into breasts. I thought you were a leg man.",
       "characters": [
-        "Elaine",
-        "Vivian",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Vivian"
-    },
-    {
-      "quote": "It's one think to not give me the extension But to tease and to torture me like this. There's no call for that.",
-      "characters": [
         "George",
-        "Jerry",
-        "Wilhelm",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, it doesn't even have to be the general manager. Maybe I could be like, an announcer. Like a color man. You know how I always make those interesting comments during the game.",
+      "quote": "No Babu! No Babu! You bad man! You very bad man! You very lazy bad man!",
       "characters": [
-        "Sylvia",
         "Elaine",
+        "Babu",
         "George",
-        "Sid"
+        "Toby"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Are you the ones leaveing the muffing pieces behind our shelter?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Joe",
+        "Rebecca"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "I'll tell ya, if I had one of these things, I'd be eatin' hot dogs all the time.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Todd",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, it was very funny. There was one great scene with the chef - what was his name?",
+      "quote": "Hey, guess what! Little Jerry ran from here to Newman's in under thirty seconds!",
       "characters": [
-        "George",
+        "Elaine",
         "Jerry",
-        "Leo",
-        "Elaine"
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah.. like a pirate..  Anyway, ah, you know, we're hoping to, um, raise enough money.. with this.. uh..",
+      "quote": "Well, I hear it's quite beautiful there this time of year, and of course you know I'm one-quarter French.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Newman",
+        "Helen"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Who am I going to tell? My mother? Like I've got nothing better to talk about.",
       "characters": [
         "George",
         "Jerry",
         "Kramer",
-        "Susan"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You must hate hot dogs, huh? Or else, you, uh, you really like 'em and that's why you, you do this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

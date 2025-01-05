@@ -1,106 +1,106 @@
 {
-  "gameNumber": 806,
+  "gameNumber": 807,
   "date": "2027-03-20",
   "questions": [
     {
-      "quote": "On-the-street cell-phone call is the lowest phone call you can make.",
+      "quote": "alright I changed my mind, uh yeah I don't think I'm not gonna go now",
       "characters": [
-        "Elaine",
-        "George",
+        "Frank",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Anyway, he's in the hospital, he's having surgery and I feel like should go visit him.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Who walks into a woman's bedroom without knocking. I want to know!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Sid"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why don't you get someone else from the office to go get Pisano's for you?",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
         "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm a man. Jerry, I'm a man. And do you know why? It's because of that talk we had. You were my inspiration. Do you believe it? You. That lunch was the defining moment of my life.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I can't go to a bad movie by myself. Who am I gonna make sarcastic remarks to, strangers? Eh, I guess I'll just go to my uncle's.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Mike",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I would just love to take you down to the shop where I got it.",
+      "quote": "Let me tell you this: there is no way cousin Jeffrey is dating Amy. He looks like a horse!",
       "characters": [
         "Ray",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "Because of me? You must be joking! Who wouldn't want to live because of me? I'm nothing!",
-      "characters": [
         "George",
         "Elaine",
-        "Kramer",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Right. So why I'm the one who gets 'reer'. You know I mean they were being as catty as I was. It's a double standard.",
+      "characters": [
+        "Elaine",
+        "Naomi",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We were expecting about two hundred people...Well...Thank you , thank you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "[To Rep] I dunno what happened, we were just trying to take him to the dentist.",
+      "quote": "No, she's taking this course in education for her masters. It's part of her research project, so I have to be a guinea pig.",
       "characters": [
+        "George",
         "Elaine",
-        "Stan",
+        "Audrey",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's just that I was the one who actually paid for the big salad. She just happened to hand it to you. But it's no big deal.",
+      "characters": [
+        "George",
+        "Kramer",
         "Jerry",
-        "Kramer"
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, are you still on this? I've seen gymnasts. I know what they do. It's not going to make any difference.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Poppie",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I know how you feel. For I, too, have a woman for whom I pine.",
+      "quote": "Oh, the face-painting auto mechanic. So she's dating him again, huh?",
       "characters": [
-        "Elaine",
         "Jerry",
         "Kramer",
-        "Newman"
+        "George",
+        "Cindy"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh oh oh, so a Maestro tells you to put a balm on and you do it?",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Oh, yeah, that's right. Those new kitchen cabinets. How is that coming?",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "Ramon",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

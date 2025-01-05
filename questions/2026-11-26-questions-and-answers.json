@@ -1,106 +1,106 @@
 {
-  "gameNumber": 692,
+  "gameNumber": 693,
   "date": "2026-11-26",
   "questions": [
     {
-      "quote": "I know it's a joke. It's supposed to be a joke! Now I'm going on the Charles Grodin Show with nothing.  Nothing!",
+      "quote": "Yes, I'm sure! I would know if a tray of food had been served to me.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Kramer, Kramer, look at him.  Look! He's eating all the food!",
-      "characters": [
-        "Elaine",
+        "Susan",
         "Jerry",
-        "George",
-        "Leo"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "There are twenty people on the board. Thank God you can get that deal.",
-      "characters": [
-        "Lippman",
-        "Morty",
-        "Elaine",
-        "Bob"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I've been out with him three times, I should know the mans name.",
-      "characters": [
-        "George",
-        "Betsy",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey there Mr. Too big to come to my shows. I just came back from  Whoooooooo.....I'm on my way to an audition still waiting for that big break.",
+      "quote": "You come all the way up here to see a back specialist and you're lifting heavy suit cases.",
       "characters": [
-        "Sally",
         "George",
-        "Jackie",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, ahem, remember that whole deal with you selling Peterman your stories for his book and then he gave them back to you?",
+      "characters": [
+        "Silvio",
+        "George",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've been doing a lot of thinking about the wedding and all. and uh  I've decided to go with the chicken.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Gina",
         "Kramer"
       ],
-      "correctAnswer": "Sally"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Do you have any conceivable reason for even getting up in the morning?",
+      "quote": "Yeah, well you wouldn't be on that jury. He would have weeded you out.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Jerry",
-        "Rebecca"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm fighting that one. You know, this is gonna cost me over six hundred bucks.",
-      "characters": [
         "Kramer",
-        "Newman",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, yada yada yada, just some bad egg salad. I'll be right back.",
-      "characters": [
-        "Marcy",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Marcy"
-    },
-    {
-      "quote": "A lot of ex-cons become busboys. They seem to gravitate twards 'em.",
+      "quote": "That?s fantastic! We'll scalp the tickets, we'll make maybe five hundred a ticket.",
       "characters": [
         "George",
-        "Voice",
         "Elaine",
+        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tried to get him one but Man-Hands almost ripped my arm out of the socket!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm not taking a soak in that human bacteria frat you got goin' there.",
+      "quote": "Oh, this is the one Vincent told me about. The Pain And The Yearning.  'An old woman experiences pain and yearning.' A hundred and ninety-two minutes?",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "Babs",
+        "Steinbrenner",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, there are no jerk stores. It..it's just a little confusing, is all.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, anyway, she's uh, having some kind of a family lunch, I'll swing by after.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

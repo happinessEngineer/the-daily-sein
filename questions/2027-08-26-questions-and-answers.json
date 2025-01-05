@@ -1,104 +1,104 @@
 {
-  "gameNumber": 965,
+  "gameNumber": 966,
   "date": "2027-08-26",
   "questions": [
     {
-      "quote": "Ah, she keeps it in my apartment for when she comes up from Florida.",
+      "quote": "That's how waitress types express derision. They don't want to get their mouths dirty.",
       "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Patty"
+        "Kramer",
+        "Newman",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Whew! Boy, it's cold outside, huh? Oh, these New York winters, huh. Bitter cold, bitter.",
+      "quote": "Do you hear what I'm saying to you?! I'm telling you that if I don't go, I could die. Die. Is it worth dying for?",
       "characters": [
-        "Doctor",
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Jerry Jerry Jerry Jerry Jerry, listen, if, if you are feeling uncomfortable about this at all, at all. Do not feel like you have to take it.",
+      "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, isn't it obvious? She doesn't want anybody else to have me!",
-      "characters": [
-        "Helen",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Kramer, would you consider being my personal consultant for the pageant?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Maestro",
-        "Karen"
-      ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "all right let's be reasonable, Bania. I'm taking you out for a nice dinner. All I want is a little ticket in that pocket. I think it's a pretty good deal.",
-      "characters": [
-        "Elaine",
-        "Carol",
-        "Jerry",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's so amazing getting to see Monica Seles playing in the finals.",
-      "characters": [
-        "Dan",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I got just the thing to cheer you up. A computer! Huh? We can check porn, and stock quotes.",
-      "characters": [
-        "Milos",
-        "Ray",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, I put my half a can here on the tab. Why, what's your beef?",
-      "characters": [
-        "Izzy",
-        "Morty",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, I got this little swelling right here.  It's kinda painful. What d'you make of it?",
-      "characters": [
-        "Roy",
-        "Jerry",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh, why don't we stay here? The back booth just opened up.  Now this is a good looking booth.",
+      "quote": "Hey, you gotta let them know you're out there, this is the playoffs.",
       "characters": [
+        "Elaine",
+        "George",
         "Jerry",
-        "Frank",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well I could put a, dresser in there. I could get dressed while I'm making breakfast.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is that bubbling sound? Are you making your tomato sauce?",
+      "characters": [
         "Kramer",
-        "Newman"
+        "Jerry",
+        "Jane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, w-what are you saying? So we're not going to go in there anymore?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..OK get this; I heard he makes his best friend date women that look just like him.Hello issues..",
+      "characters": [
+        "Stan",
+        "Jerry",
+        "Elaine",
+        "Sally"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Oh, don't you? Joke boy? You really think you can manipulate that beautiful young woman like the half-soused nightclub rabble that lap up your inane \"observations\"?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, Uncomfortable? Not at all.  My friend's wife's breast sticking out - why would that make me uncomfortable?",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

@@ -1,103 +1,103 @@
 {
-  "gameNumber": 522,
+  "gameNumber": 523,
   "date": "2026-06-09",
   "questions": [
     {
-      "quote": "Shhhhh! All right, Bania, I - I'm not letting you cut in line.",
+      "quote": "I took two bites, how am I finished?  Plus you're coming down with something? You want me to get sick?  Bite?",
       "characters": [
         "Jerry",
+        "Elaine",
         "Kramer",
-        "Jack",
-        "Elaine"
+        "Jimmy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Extend the doors on the toilet stalls at Yankee Stadium to the floor ...door comes down. Hides your feet. Yes. I like it. I like it a lot.",
+      "quote": "Now you gotta shut up!........I'm sorry, I..I haven't spoken in days.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who's Bozo? Bozo the Clown, that's who Bozo is. When I was a kid, Bozo the Clown was the clown, bar none.",
       "characters": [
         "George",
-        "Kramer",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "Darryl"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Is he wretchedly poor? Does he wear one of those barrels with the straps?",
+      "quote": "I don't even know where the bubble boy lives. I - I don't even remember the name of the town.",
       "characters": [
-        "Tony",
         "Kramer",
-        "Elaine",
-        "Jerry"
+        "Morty",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You are not going to believe what happened to me at the doctors office today.",
+      "quote": "Yeah. Well, let's hope this evening turns out a little better.",
       "characters": [
+        "Jerry",
+        "George",
+        "Ralph",
+        "Glenn"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What kind of person is this? There's only one other person who might be able to do something like this, and that's you.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tomarrow?! Are you crazy? No, now, now! Let's go!  You get dressed! Get dressed!",
+      "characters": [
+        "George",
+        "Morty",
         "Elaine",
-        "Dana",
-        "Conrad",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, I walked by Bloomingdale's the other day, and I saw that massage chair we want to get Joe Mayo as an apartment gift.",
+      "quote": "My family used to live there, but, uh, we got out years ago, for obvious reasons. You know how it is.",
       "characters": [
-        "Carol",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Attendant",
+        "George",
+        "Darryl"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Darryl"
     },
     {
-      "quote": "Well, I'm very mysterious by nature.  A lot of women find that attractive.",
+      "quote": "Didn't the theater manager give you the message before you went in?",
       "characters": [
-        "George",
-        "Kramer",
-        "Jodi",
+        "Jake",
+        "Secretary",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Jake"
     },
     {
-      "quote": "I couldn't believe it when I saw you running.  I thought maybe they had changed the rules or something.",
+      "quote": "you said \"step off\"? wow, that is too much hey..huh hey  Tony, I huh, I just had this brainstorm for us. Can you guess what it is?",
       "characters": [
+        "George",
+        "Morty",
         "Elaine",
-        "George",
-        "Carrie",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well actually um, I do have a bill here. If you could just sign, this expense form, I think I could still make the last fan boat out of here.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "This is much better. And frankly, in Memphis, we think that other sauce as  kind of a joke.",
-      "characters": [
-        "Nina",
-        "George",
-        "Woman",
-        "Sally"
-      ],
-      "correctAnswer": "Sally"
-    },
-    {
-      "quote": "Look at that guy. Right there. Isn't that the guy from the show? He's..he's wearing the jacket.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Bania",
         "Kramer"
       ],
       "correctAnswer": "George"

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1064,
+  "gameNumber": 1065,
   "date": "2027-12-03",
   "questions": [
     {
-      "quote": "Alright, alright. I'll make the necessary adjustments, alright.",
+      "quote": "Jill, hi, it's Elaine. Well, I'm calling from my home. Indoors. Well, I was just calling to see how your fa.. I'm sorry, I'm getting another call. Hang on just a second. Hello?",
       "characters": [
-        "Teller",
-        "Jerry",
         "Kramer",
-        "Puddy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Look, I have my system. First I look for the dream spot right in front of the door, then I slowly expand out in concentric circles.",
-      "characters": [
-        "Rudy",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, here, you call him right now. See if he's sniffing right now.",
-      "characters": [
+        "Frank",
         "Elaine",
-        "Jerry",
-        "Newman",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What, your sad little horsies, the house with the little curl of smoke, the sunflower with the smiley face. the transparent cube...",
+      "quote": "No, I can't I gotta watch Farfel, you and George can go without me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, shut up, Jerry. My parents think they can ignore me. Heh heh. Well, they better think again.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Keith",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm starving. You got any of those free donuts you use to soften people up?",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen. You're beautiful. You're intelligent. You'll meet other girls...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Vivian"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Pretentious? Who, who isn't pretentious? Ha, ha, if everyone who was pretentious was in a mental institution, ... uh, obviously THIS isn't a mental institution.",
+      "characters": [
+        "George",
+        "Buckles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I was under the impression that I could take anything I wanted from your fridge, and you could take whatever you want from mine.",
+      "characters": [
+        "Jerry",
+        "Alec",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now are you just sayin' you want to have fun or do you reallllly want to have fun?!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Rick",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, 'don't hang around and let your troubles surround you. There are movie shows...'",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jackie",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, we would like to be in business. Let's do business. We'll have some business. Let's have business.",
+      "quote": "No, no. Cinqo de Mayo.  Yeah, Marcellino, he turned me on to it, and he's one sixty-fourth Mayan.",
       "characters": [
         "George",
         "Elaine",
-        "Kramer",
-        "Joyce"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "There's only one caveat -- the guy who runs the place is a little temperamental, especially about the ordering procedure. He's secretly referred to as the Soup Nazi.",
-      "characters": [
-        "Elaine",
-        "George",
         "Jerry",
-        "Ray"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You talk about your day. How was your day today? Did you have a good day today or a bad day today? Well, what kind of day was it? Well, I don't know. How about you? How was your day?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Doorman"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He was down at the other end. So he yells out, \"Ready, On your mark, Get set, \" and I was so keyed up I just took off. By the time he said go I was ten yards ahead of everybody.",
-      "characters": [
-        "Kramer",
-        "Ellen",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I was yelling at the litterbug. I mean this is my town. You don't throw trash on the streets of my town.",
-      "characters": [
-        "Maestro",
-        "Kramer",
-        "George",
-        "Clerk"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, that's a lot of money. But, if that's the way it's gotta be, that's the way it's gotta be.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Steven",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

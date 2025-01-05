@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1048,
+  "gameNumber": 1049,
   "date": "2027-11-17",
   "questions": [
     {
-      "quote": "Bette is recuperating right now and I'm not going to allow anything to disturb her.",
+      "quote": "I don't believe this!  Excuse me, I wonder if you could do me a favor? My uncle's having a little problem with shoplifting..",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "Susan",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Then you are entitled to a hundred dollars. That's our policy.",
-      "characters": [
-        "Manager",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Manager"
-    },
-    {
-      "quote": "All right. Look, I'll tell ya what, I'll give you $50. Now, be reasonable you cannot turn down $50 for a $6 rye.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Attendant",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, Jerry, he doesn't have anything.    Well, but I might have something.",
+      "quote": "Well, if he's doing that bad, maybe he's in line for another promotion.",
       "characters": [
-        "Kramer",
-        "Jackie",
-        "Valerie",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I don't know! I'm gonna go and visit him later.  It would be nice if you got him something.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Newman",
-        "Buckles"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know what I've come to realize? I'm not just bored. I genuinely dislike her.",
-      "characters": [
+        "Kramer",
         "George",
-        "Steve",
-        "Jerry",
-        "Ned"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, when the season starts. Right now, I sit around pretending that I'm busy.",
+      "quote": "Oh, hi. Mister Costanza, we were trying to get in touch with you. Wendy can't make her appointment.",
       "characters": [
-        "Peterman",
+        "Jerry",
+        "Doorman",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "Skinny Mirrors! Barney's has Skinny Mirrors, they make you look, like, 10 pounds lighter.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Didja hear what happened? The mentor saw my act. She dumped me.",
+      "characters": [
+        "Bania",
+        "Frank",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Bania"
     },
     {
-      "quote": "Hi, how are you guys? Listen, does either one of you have like a mint or piece of gum or...",
+      "quote": "Yeah, I know champagne, limos, cigars. WHAT happened to the papers?",
       "characters": [
-        "George",
+        "Jerry",
         "Kramer",
-        "Jerry",
-        "Mickey"
+        "Valerie",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "He used to be in the pajama business. I used to be able to get pajamas for free. I used to come over and get pajamas all the time!",
+      "quote": "Ok guys, we gotta be careful of one thing. Some of the stuff's very fragile We're going to have to handle it like a baby.",
       "characters": [
-        "Leo",
+        "Elaine",
+        "Kramer",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "That's what I came to talk to you about. Great job George.  You really nailed it.",
+      "characters": [
         "Jerry",
+        "Wilhelm",
+        "George",
+        "Gennice"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.",
+      "characters": [
+        "Newman",
+        "George",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Leo"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "because she puts up such a big stink every time I have a piece of meat.",
+      "quote": "Well, it's a rare archival print.  Twelve extra minutes, full wide-screen CinemaScope, and if you come to the one o'clock show, you can hear Geoffrey Har-harwood.",
       "characters": [
-        "Elaine",
-        "Morty",
-        "Steinbrenner",
-        "George"
+        "Kramer",
+        "George",
+        "Bania",
+        "Steve"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
     }
   ]
 }

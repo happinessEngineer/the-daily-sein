@@ -1,81 +1,91 @@
 {
-  "gameNumber": 1111,
+  "gameNumber": 1112,
   "date": "2028-01-19",
   "questions": [
     {
-      "quote": "Look, there was an awkward moment in the conversation. It never happened before.",
+      "quote": "Ya know it was somebody told me they thought they saw that thing come out of a limousine.",
       "characters": [
+        "Newman",
         "George",
-        "Tim",
+        "Alec",
+        "Corinne"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "What, again? Kramer, if you keep getting these attacks, you should see the doctor and have it checked out.",
+      "characters": [
         "Jerry",
-        "Elaine"
+        "Frank",
+        "George",
+        "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Our neighbor that you... turned against.  Anyway, I told him it'd be fine with us if he wanted to let it stretch its wings out in the hallway.",
+      "quote": "I am totally loving it. Uh, you know … we should um … get going.",
       "characters": [
+        "Elaine",
+        "Brett",
         "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, what's the problem? Now come on George. I told the big man you were moving on this. Now, don't let him down!",
-      "characters": [
-        "Kramer",
-        "Helen",
-        "Wilhelm",
-        "Elaine"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "I mean he's a good fighter and a nice guy but I don't like him.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Sylvia",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "If there's anything you can do to get us a table we'd really appreciate it.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
+        "Leo"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You knew I was having a millennium party, but you just had to throw yours on the same day!",
+      "quote": "Yeah, well you're gonna have to cancel it, because I've told everybody about my party.",
       "characters": [
+        "Jerry",
         "George",
         "Kramer",
-        "Newman",
-        "Ed"
+        "Joel"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What's to see? A woman from Norway, a guy from Kenya, and twenty thousand losers.",
+      "quote": "Oh stupid Leo was using one of those oven cleaners. He left the canister in there and the pilot light was on. The whole thing blew up.",
       "characters": [
-        "George",
-        "Elaine",
-        "Roy",
-        "Jerry"
+        "Pop",
+        "Jackie",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "But you don't have to do this! This guy is waiting in my house.",
+      "quote": "I want you to handle all the fact-checking and the copy-editing for the new catalogue.",
       "characters": [
-        "Captain",
+        "Carol",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Listen to the comeback.  'Oh yeah? Well the jerk store called. They're running outta you.'",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well I don't trust this guy.  I think he regifted, he degifted, and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Melissa"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't even want to look at you anymore! All these years of friendship and you're nothing but a felon. You're an embarrassment to the building.",
+      "characters": [
+        "Elaine",
         "Jerry",
         "Kramer",
         "George"
@@ -83,24 +93,14 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I always talk about your hands - how they're so soft and milky white..",
+      "quote": "No I didn't. I said \"sweep\". Let's sweep together, you know with a broom. Cleaning up.",
       "characters": [
-        "Estelle",
-        "Rabbi",
-        "Kramer",
-        "Detective"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Yeah, you said it.  Uh, excuse me, Mr Wilhelm. Uh, do you really think... Well, is this downtown trip really necessary, you know, for the project?",
-      "characters": [
-        "Kurt",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Gwen",
+        "Helena"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Gwen"
     }
   ]
 }

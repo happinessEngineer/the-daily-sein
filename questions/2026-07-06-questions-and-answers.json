@@ -1,106 +1,106 @@
 {
-  "gameNumber": 549,
+  "gameNumber": 550,
   "date": "2026-07-06",
   "questions": [
     {
-      "quote": "The only time it wasn't uncomfortable was when we were making fun of you.",
-      "characters": [
-        "Elaine",
-        "Bania",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So we started drinking, and I'll tell you I don't know if it was the alcohol or the ammonia, but the next think I knew she was mopping the floor with me.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know, what? Eight thousand. It's a Hyundai. Get out of here. I told you not to sell. Simons made money, Wilkinson cleaned up.",
+      "quote": "Okay, how about this? All right, we get married March 21st, the first day of Spring.",
       "characters": [
         "Kramer",
-        "Rula",
         "Jerry",
+        "Salesman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I don't think that's the kind of thing you wanna hear about your father. But I'll tell you when he came out of that bathroom and he was kneading that dough, it was a wild scene.",
+      "quote": "Se, now that?s terrible, that is not a nice thing to do at all, I don?t know how this Paliachi thing turns out but you know I would assume that there is big big trouble for that clown",
       "characters": [
+        "Wilhelm",
         "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, get the swordfish. Best swordfish in the city. The best, Jerry.",
+      "characters": [
+        "Elaine",
+        "Bania",
         "Kramer",
-        "Susan",
-        "Jerry"
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Look Jerry, we'll meet you at the theater.  OK, next showings at 9:00, we can't wait any longer.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Regis",
+        "Wendy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No.  So now you're going to his apartment? I really think this is nuts.",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "George",
+        "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey. NBC limo is downstairs - beep beep beep. {NBC tune} I'm just going to call Jill one more time before we go.",
+      "quote": "Everyone, I wanna propose a toast to ten great years at Rick Barr Properties.",
+      "characters": [
+        "Beth",
+        "Levitan",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "Excuse me Miss Weaver, OH! My god it is you! I.. I've seen your show six times..",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, no more lies. Elaine is been chosen to represent the Upper West Side in the next Biosphere project.",
       "characters": [
         "Elaine",
         "George",
-        "Pam",
-        "Regis"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, speaking of which, I found a great way to separate the skin from the top of the pudding without leaving any around the edges; Exacto knife.",
-      "characters": [
-        "Tom",
-        "Elaine",
         "Kramer",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Mm-hmm. Mm-hmm. All right. I don't think we're gonna have any problem with that.  Good talking to you Tom. Really.",
+      "quote": "But the thing you don't realize is that there's good naked and bad naked. Naked hair brushing, good; naked crouching, bad. Hey, there's Hanke.",
       "characters": [
-        "Elaine",
+        "Enzo",
+        "Kramer",
         "Jerry",
-        "Kramer",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Sorry to have disturbed you. Terribly sorry. But the fish will be dead. You do know that. They can't live in plastic. That's not me talking, that's science.",
+      "quote": "Well, we thought she was meeting you earlier. She's usually pretty punctual. Don't you find that, George?",
       "characters": [
         "George",
-        "Jerry",
-        "Elaine",
-        "Mike"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, wait a minute, we're gonna tell each other everything, I mean every secret?",
-      "characters": [
         "Elaine",
         "Jerry",
-        "Kramer",
-        "Jane"
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "She can't take it. It's not hers, it's theirs. Once there's no theirs there's no hers, it should be ours.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Jack",
-        "George"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

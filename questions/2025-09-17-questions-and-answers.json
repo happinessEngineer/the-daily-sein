@@ -1,106 +1,106 @@
 {
-  "gameNumber": 257,
+  "gameNumber": 258,
   "date": "2025-09-17",
   "questions": [
     {
-      "quote": "Enough with the comedy! You're very clever, you should look into advertising.",
+      "quote": "You see, I've been home for a week and Elaine didn't give me my mail until yesterday, even though I asked her repeatedly for it.",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Helen"
+        "Elaine",
+        "Newman",
+        "George"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You're very good. Very good with the moanings and the gyrations. Y-You really had me going there for a minute.",
+      "quote": "I didn't know there was a fireplace. A fireplace, that's incredible.",
       "characters": [
-        "Todd",
-        "Jerry",
         "George",
-        "Bonnie"
+        "Sally",
+        "Frank",
+        "Sharon"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I can't take this anymore! I don't want to hear how interesting the change with the hole in it is! And if you tell me what time it is in New York again, you are going home in a body bag!",
+      "quote": "Hey Ed, let me ask you something. What's with the fatigues and all the psychotic imagery? Huh?",
       "characters": [
-        "Elaine",
-        "Susan",
-        "Alton",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "About 2 days. Although he's hinting at how he'd like to stay. Fortunately he has no money, and no prospects.",
-      "characters": [
-        "Lois",
         "Jerry",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, we gotta get it washed ....Ah, the keys are locked inside!",
-      "characters": [
         "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh my God! You won't believe what I just saw! A car just bashed into a parked car, and sped off, right on my block!",
+      "characters": [
+        "Jackie",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a second. I think I see where that laser guy is. No! Don't look! Don't look. Oh, yeah, that's him. Ok. I'm gonna sneak up on him. Now the hunted becomes the hunter.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Meat? I don't, I don't know, go... hunt!  Well what happened in the game anyway?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Herb"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm not gonna use the ticket! I'm gonna get my money, I'll get off the plane and turn your ticket in for a refund. It's not gonna cost you a dime! Now gimme the card.",
+      "characters": [
+        "George",
         "Elaine",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You ever see what that thing looks like in the back? You got your natural little curls on the bottom, and then that big phony mat coming down on top of 'em.",
+      "quote": "but..why, it wasn't my fault, I .. you asked me a sandwich, I .. I make such delicious sandwiches Elaine",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, there's one way to check. Where there's Chinese food, there's leftovers.",
       "characters": [
         "Kramer",
+        "Helen",
         "Jerry",
-        "George",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, my father's the Yankees accountant... it's the owner's box.",
+      "quote": "He's nine years old! You don't need karate, you can just wring his neck!",
       "characters": [
         "George",
-        "Jerry",
-        "Nina",
-        "Elaine"
-      ],
-      "correctAnswer": "Nina"
-    },
-    {
-      "quote": "All right.  Let's check out the clock. Notch good... 6:50... volume check.  What kinda music you wanna wake up to? Top 40, classical...",
-      "characters": [
         "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh! He said that! Can you imagine what he'll do if he sees me with you! He'll think I?m the one who ruined his deal at NBC and took away his girl, he'll put a kibosh on me!",
-      "characters": [
-        "Jerry",
         "Babs",
-        "Kramer",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, much better, much better. The doctors say I cannot have no aggravation.",
-      "characters": [
-        "Holly",
-        "Poppie",
-        "Nina",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Poppie"
     }
   ]
 }

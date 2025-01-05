@@ -1,104 +1,104 @@
 {
-  "gameNumber": 743,
+  "gameNumber": 744,
   "date": "2027-01-16",
   "questions": [
     {
-      "quote": "So Sherry, what do you remember about that day at the library?",
+      "quote": "Look at him, Elaine. How gorgeous is he? I ask you, how gorgeous?",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Man",
-        "Elaine"
+        "Woman",
+        "George",
+        "Carol",
+        "Poppie"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Carol"
     },
     {
-      "quote": "I usually spend Saturday afternoons with Susan. She's gonna want to know what I'm doing. I can't use Jerry, he's in Florida.",
+      "quote": "Went up to the Cape. Took the kids sailing.  Lisa was a little scared at first, but that kids' gonna be a good sailor someday.",
       "characters": [
-        "Frank",
-        "Elaine",
         "Jerry",
+        "Izzy",
+        "Dan",
+        "Lloyd"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "There is no problem. . . just a small miscommunication. Whereby you thanked her instead of the person actually responsible for purchasing the big salad.",
+      "characters": [
+        "Jerry",
+        "Ray",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. \"Suze!\" I mean, \"Suzie!\" \"Suzanne!\" \"Suzanna.\" Fine! But there is no, way, I'm gonna be a Suze.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course. So, I'm looking at it. I look up, I see she's looking at it. Our eyes lock. It was a horrible moment. I just..",
+      "characters": [
+        "Elaine",
+        "Jackie",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, but we're not buyin' it at Bloomingdale's. I will buy it, you pay me back later. I'll sniff out a deal. I have a sixth sense.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Ken"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm getting a little uncomfortable with the Hitler stuff.  I'm getting another call, see ya… Hello!",
-      "characters": [
-        "Kramer",
-        "Russell",
-        "Jerry",
-        "Hanke"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'll tell her I bumped into you, I'm giving you a ride uptown.",
+      "quote": "Come on, we'll go and talk to him, and we'll straighten this thing out.",
       "characters": [
         "George",
-        "Elaine",
         "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, actually, Jerry, you haven't worked a room that big in a while.",
-      "characters": [
-        "Elaine",
-        "Steinbrenner",
-        "Morty",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, it's okay now, that, that girl is not comin'. Uh, I misread the whole thing.",
+      "quote": "Saturday night with your parents. Unless I'm your sister this is a date.",
       "characters": [
-        "Captain",
         "Jerry",
         "Kramer",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Mrs. Wilkie, from the tobacco company called me. We had a little pow-wow.",
+      "quote": "Let me ask you something. What do you do for a living, Newman?",
       "characters": [
-        "Kramer",
-        "George",
+        "Lippman",
         "Elaine",
-        "Helen"
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "It's a pretty full house, the lighting guy's name is Lew, he's got a birthday next week.",
+      "quote": "I've always been lucky. Things just seem to fall right in my lap.",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
-        "Kate"
+        "George",
+        "Levitan"
       ],
-      "correctAnswer": "Kate"
+      "correctAnswer": "Levitan"
     },
     {
-      "quote": "Oh there's that clown again, what does he want from me. Look I?m serious, I?m not kidding, I don't have the quarter, that guy took it.",
+      "quote": "What move? *My* move. The one I told you about. You used it on Elaine.",
       "characters": [
-        "George",
-        "Kramer",
-        "Joyce",
-        "Jerry"
+        "Jerry",
+        "Elaine",
+        "Wendy",
+        "George"
       ],
       "correctAnswer": "Jerry"
     }

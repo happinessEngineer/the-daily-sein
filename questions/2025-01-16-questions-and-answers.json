@@ -1,106 +1,106 @@
 {
-  "gameNumber": 13,
+  "gameNumber": 14,
   "date": "2025-01-16",
   "questions": [
     {
-      "quote": "Nah, it's not a good turn. December. December. Don't you think we should have a little more time just to get to know each other a little.",
+      "quote": "Because you kissed me. You kissed me, you stupid idiot! Rita called Russell and he fired me over the phone.",
       "characters": [
-        "George",
+        "Jack",
         "Jerry",
-        "Russell",
-        "Karen"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah. I am like a drug dealer. I got the guy hooked. I am having lunch at his desk everyday this week. He doesn't make a move without me. It's very exciting.",
-      "characters": [
-        "Elaine",
-        "Doorman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey! Wait, wait, wait! Whoa! Give it to the girl. I'm an independent contractor. Tax purposes.",
-      "characters": [
-        "Kate",
-        "Jerry",
-        "Kramer",
-        "Man"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "I'm only charging $37.50, plus you get a pizza bagel and desert.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Frank",
-        "Gail"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ohh, damn. I forgot to buy plant food again.. I'll bet I got a coupon for it.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Peterman",
+        "Susan",
         "Morty"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Is it flowing? I like flowing, cascading hair. Thick lustrous hair is very important to me.",
+      "quote": "Mmm. This food is fantastic, PEGGY: And what a pretty radish rose, huh?",
       "characters": [
+        "Doctor",
+        "Salesman",
         "George",
-        "Kramer",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, I will, George. I'll have to stick my chin on top of the seat.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Raymond"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The average person in a situation like this, they walk right by it. Not me.",
-      "characters": [
-        "George",
-        "Puddy",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I want you to get on this phone and give him his 'thank you'!",
+      "quote": "Oh, no no no no I'll take it. Why don't you come over. Let's see if it will fit in my bedroom.",
       "characters": [
         "Kramer",
         "George",
-        "Sophie",
-        "Peterman"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "She's got everything, right?  She's intelligent, she's smart, she's got a great sense of humour.",
+      "quote": "You are not gonna believe this! I told him that I just wanted to be friends. He's fine with it. He really wants to be friends.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But he doesn't know that. As far as he knows, somebody stole it, and that's the person who should be responsible.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Frank, this new holiday of yours is scratching me right where I itch.",
       "characters": [
         "George",
         "Elaine",
+        "Michael",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I really hate people who do that. I hope you don't let him get away with it.",
+      "characters": [
         "Jerry",
-        "Man"
+        "Kramer",
+        "George",
+        "Sheila"
+      ],
+      "correctAnswer": "Sheila"
+    },
+    {
+      "quote": "Y'know there are tribes in Indonesia where if you keep your coat on in somebody's house, the families go to war!",
+      "characters": [
+        "George",
+        "Marla",
+        "Jerry",
+        "Bette"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe it! You were *huge*! Like blubber! I couldn't even get my arms around you...",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Him and his little buxom friend Rachel were going at it pretty good in the balcony.",
+      "characters": [
+        "Newman",
+        "Steinbrenner",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 324,
+  "gameNumber": 325,
   "date": "2025-11-23",
   "questions": [
     {
-      "quote": "They really should mention that in the breakdown: height, weight, goiter.",
+      "quote": "Well, I'm sure you did. Who wouldn't love a pony? Who wouldn't love a person that had a pony?",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Sid",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Kramer you're never gonna be able to completely stop talking.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Jackie",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, Cuban cigars are illegal in this country. That's why I got these guys.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Regulation table, the hi-fi, maybe even a bar.. Give it real authenticity..",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "Elaine",
+        "John",
+        "Stu",
         "Jerry"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's pretty hot under these lights huh Seinfeld. Pretty....... Hot .",
+      "quote": "Get those clothes off. You're going to spend the night and we're going to cuddle.",
+      "characters": [
+        "George",
+        "Doorman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well if you watch closely enough, you just might see me.  I'll be the one waving to the camera from my seat on the forty yard line.",
       "characters": [
         "Jerry",
-        "Elaine",
+        "Betsy",
         "George",
         "Newman"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "Well I'm feeling a little disoriented. It's just weird for me not to have an advisor.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Abby"
-      ],
-      "correctAnswer": "Abby"
-    },
-    {
-      "quote": "Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Doctor"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "Oh.  Oh yeah, I'd be happy to. Uhm, how much d'you want this thing?  I mean, you know, how high are you willing to go?",
+      "quote": "We had a little fight this afternoon.  Let's bury the hatchet. We smoke um peace pipe.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Brody",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "4:02?  Aaa-aaahhh! Eight forty seven Jean-Paul! Wake up! Wake uuuuup!",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Kramer",
-        "George"
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Your background is impressive George, but how does it apply to what we do here, at Kruger Industrial Smoothing?",
+      "quote": "You see! You see what I'm saying to you? It's a presence! It's the beast!",
       "characters": [
-        "Kruger",
+        "Elaine",
+        "George",
         "Jerry",
-        "Aaron",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. Cause if this is a lie, if this is a joke, if this is your idea of some cute little game… we're finished!",
+      "characters": [
+        "Harold",
+        "Helen",
+        "Farkus",
         "George"
       ],
-      "correctAnswer": "Kruger"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because of Divola! Get in here... How come you're not dressed?",
+      "characters": [
+        "Chiles",
+        "George",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen you're just imagining things. He doesn't know a thing. Now come on. Pull yourself together.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Y'know what you should do now? Get her some flowers, smooth it out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not a chance. I'm afraid I'll just have to find someone else to accompany me on my journey. The dark continent is no place for an addict, Elaine.",
+      "characters": [
+        "Corinne",
+        "George",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
     }
   ]
 }

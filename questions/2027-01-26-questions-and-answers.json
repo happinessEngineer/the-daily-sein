@@ -1,106 +1,106 @@
 {
-  "gameNumber": 753,
+  "gameNumber": 754,
   "date": "2027-01-26",
   "questions": [
     {
-      "quote": "Come on. Dustin Hoffman in Star Wars. He made a bet he knew he was going to lose just to take you to dinner",
+      "quote": "If anything, we'll probably get there early. I'll have a chance to go to the Duty Free shop.",
       "characters": [
+        "Elaine",
+        "George",
         "Jerry",
-        "Jackie",
-        "Marcy",
         "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Now listen Porter, you know your mother and I love you very much. But sometimes people fall out of love. Now give me a big hug.",
-      "characters": [
-        "Kramer",
-        "Jane",
-        "Jerry",
-        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well you know, if you were sitting right next to her you'd have to console her no matter what.",
+      "quote": "Yeah, much better. All right, so what's the move, because I need *something*. This woman I'm dating, it's like she's doing her nails during love-making.",
       "characters": [
-        "Abby",
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And that is it. The match to Ms. Natalia Valdoni. Coming up next, mens single, but for now let's stop a minute and take a look at our beautiful tennis center backdrop.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Announcer",
+        "Kramer"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "Why? Maybe she liked me. I, I mean she was looking right at me. You know, I think she was impressed. You know, we had good eye contact the whole meeting.",
+      "characters": [
         "George",
         "Jerry",
+        "Lippman",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "We were expecting about two hundred people...Well...Thank you , thank you.",
+      "quote": "Look what I got for you, for your Florida trip. Crazy Shirts was closing 'em out. I got a dozen for a buck.",
       "characters": [
-        "George",
-        "Jerry",
         "Kramer",
-        "Ned"
+        "Jerry",
+        "Helena",
+        "Harold"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what I'd like to do. I'd like to replace that rye.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Attendant",
+        "Landis"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "\"Well...He's singing at a benefit and I'm gonna be sitting at his table.\"",
+      "quote": "Maybe cheapness is a sense. You know it is better without this big wallet. It's more comfortable.",
+      "characters": [
+        "Leo",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you telling me there's not one condo available in all of Del Boca Vista?",
       "characters": [
         "Jerry",
+        "Newman",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Uh! I made a friend when I was in Europe, okay?! And we've been in touch, and Sandra told Lippman!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, gosh, I wanted to thank you so much for convincing Ping to drop the case.",
+      "characters": [
         "George",
         "Kramer",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, come on, that's a huge feature. When they approach a new recruit, I'm sure that's one of the big selling points.",
-      "characters": [
-        "Simon",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, a gift not enjoyed is like a flower that doesn't blossom.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "this is great! He fired her! This is incredible, he fired her. I'm out, baby! I'm out!",
-      "characters": [
-        "Harold",
-        "George",
-        "Peterman",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Being president of the condo is not easy. It requires hard work, dedication, and commitment, and unfortunately he possesses none of these qualities.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jack",
-        "Gary"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "I gotta go help her tape up all his boxes and get them ready for shipping.",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     }
   ]
 }

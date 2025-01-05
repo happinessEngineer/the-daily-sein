@@ -1,106 +1,106 @@
 {
-  "gameNumber": 792,
+  "gameNumber": 793,
   "date": "2027-03-06",
   "questions": [
     {
-      "quote": "It's all the way in the back. Can't get it out for a couple of days.",
+      "quote": "More cereal? that's your third bowl today, you had it for breakfast and lunch.",
       "characters": [
-        "Jerry",
-        "Vanessa",
-        "Attendant",
-        "Leo"
-      ],
-      "correctAnswer": "Attendant"
-    },
-    {
-      "quote": "Huh, well, I don't think I want to date a mentor whose protégé is a hack.",
-      "characters": [
+        "Tony",
         "Elaine",
-        "Jerry",
         "Kramer",
-        "Abby"
+        "Jerry"
       ],
-      "correctAnswer": "Abby"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, come on, you can come up with something better than that.",
+      "quote": "Oh damn. They changed the cable stations again.. just when I finally memorized them.",
       "characters": [
-        "George",
-        "Steve",
-        "Jerry",
-        "Susan"
-      ],
-      "correctAnswer": "Steve"
-    },
-    {
-      "quote": "Did you know he was so worried about losing more hair if he had to get chemo treatment, I bought him an unlimited gift certificate at the Hair Team For Men, just to put his mind at ease?",
-      "characters": [
-        "Jerry",
+        "Kruger",
         "Elaine",
-        "Peterman",
-        "Salesman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, yes, that's true, but then I was taken to the Bell's Palsy Center in, in, in, in Rockford. Absolutely first, first rate facility, top notch physicians.",
-      "characters": [
-        "Gavin",
-        "Jack",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Gavin"
-    },
-    {
-      "quote": "My friend Kramer and I were discussing that same thing the other day. He was with Brant-Leland for a while.",
-      "characters": [
-        "Izzy",
-        "Jerry",
         "George",
-        "Newman"
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "What's going on? Hey, Timmy, Clara. That was some kind of workout we had tonight, huh?",
+      "quote": "Hey look, if you're going there, maybe you could pick me up some of this super hydrating, it's a total-protection moisturizer with Uva.",
       "characters": [
-        "Jerry",
+        "Elaine",
         "George",
-        "Matthew",
+        "Frank",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months.",
+      "quote": "I'm uh, I'm meeting James here. He's bringing over your jacket.",
       "characters": [
-        "Peterman",
-        "Jerry",
         "Elaine",
-        "George"
+        "Jerry",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, man. You know what... they got the fudge on the bottom-- y'see? That enables you to control your fudge distribution as you're eatin' your ice cream.",
+      "quote": "Uh... Excuse me. I couldn't help but notice you offered her a piece of your pie.",
       "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Peterman"
+        "Joel",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, you're getting it , it comes with your breakfast special.",
+      "quote": "I'll tell you something else, you're looking a little chunky yourself, buddy.",
       "characters": [
-        "Kramer",
+        "George",
         "Jerry",
-        "Waitress",
-        "Levitan"
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Waitress"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I heard her screaming from my apartment? She woke me up a few times.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where are you living? Are you here? Are you on this planet? It's impossible. It can't be done.",
+      "characters": [
+        "Abby",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She doesn't deserve a baby shower. She deserves a baby monsoon. She deserves Rosemary's baby!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who do I know who would have even been in a limousine yesterday anyway. Uhh-O h-owow!",
+      "characters": [
+        "Estelle",
+        "Morty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

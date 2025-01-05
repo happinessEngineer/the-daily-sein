@@ -1,106 +1,106 @@
 {
-  "gameNumber": 667,
+  "gameNumber": 668,
   "date": "2026-11-01",
   "questions": [
     {
-      "quote": "Talk - call him from your house.  He's calling you now.. okay.",
+      "quote": "Alright, what happened, Frank? What is it that you can't get over?",
       "characters": [
-        "Jerry",
+        "Morty",
         "George",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Costanza? Where's Costanza? . . . Excusé mois? Have you seen Costanza?",
-      "characters": [
-        "Steinbrenner",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "No, no, no. You go on ahead. I'm not finished taking this in. Oh, Jerry look ... Merv Griffin's cigar.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "Poppie",
-        "Toby"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Okay.. well, I guess I'm just going to have to take matters into my own hands, huh?  Alright, I'll see you guys.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No noo no, we just bought this. . . . Um, you sold us a cake with a  hair on it.",
-      "characters": [
-        "Elaine",
-        "Vivian",
-        "Clerk",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "So... uh you feel okay about that whole thing... what we do in there... you're generally okay with everything in there?",
-      "characters": [
-        "Kramer",
-        "Driver",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Bernie is dead, you moron!  Just because he's wearing sunglasses he looks alive?!  Ugh, how long is this weekend, anyway?  Ugh!",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Man"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I suppose if I had suggested Liam Neeson Day, you'd all be patting me on the back.",
+      "quote": "Right, we'll John Mollika is organizing some kind of intervention for him. We're having it here.",
       "characters": [
         "George",
-        "Elaine",
         "Jerry",
+        "Kramer",
         "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah, man! It's my father's wallet! The one he thought they stole at the doctor's office that time.",
-      "characters": [
-        "Jerry",
-        "Conrad",
-        "George",
-        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's no big deal Jerry. We'll just meet him at the bubble boy's house.",
+      "quote": "So, Puddy, I decided I'm gonna go with another 900 convertible.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, my friend Bob Saccamano made a fortune off of those. See he came up with the idea for the rubber band. Before that, people would just hit the ball, and it would fly away.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He is a fine dresser and I'm sure I don't have to tell you he's quite popular with the ladies.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Landlord",
+        "George"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "You mean it's...  No this. No that. No this or that. Oh, boy. Hmmm. What do you want?",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Woman",
+        "Sheila"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "That's my cabana shirt, you stole my shirt you son of a bitch!  George you let your friends go up in my attic and steal my clothes?  Gimme that back",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'd like to have a kid. Of course, you have to have a date first... Remember my friend, Adam, from Detroit?",
       "characters": [
         "George",
-        "Kramer",
+        "Tim",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello Joe, listen this is Jerry Seinfeld, I really think there?s been a huge colossal misunderstanding,",
+      "characters": [
+        "Jerry",
+        "All",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

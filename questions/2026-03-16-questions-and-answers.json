@@ -1,104 +1,104 @@
 {
-  "gameNumber": 437,
+  "gameNumber": 438,
   "date": "2026-03-16",
   "questions": [
     {
-      "quote": "I think I swallowed a fly! I swallowed a fly! What do I do?  What can happen?!",
+      "quote": "I love shrimp!  I'm a shrimp eater. You put shrimp infront of me,  and I will eat it until my stomach pops!  Oh..",
       "characters": [
-        "Rabbi",
-        "George",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Give me the phone.  Yea, Hi I would like to speak to Patrice. ... what? ... oh really? ... oh, ok, thank you, ...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No! You take that mannequin down right now, or I'm pressing charges.  Yes, this is my attorney.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Probably. They all do. In my high school, half my graduating class had them. Of course, I'm from Long Island, so...",
-      "characters": [
-        "Peterman",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'll see.  Have a seat. That's a lovely scarf you're wearing. Where did you get it?",
-      "characters": [
         "Helen",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Frank",
+        "Jack"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "The manage. And not only that. She just called me and said she talked to the roommate and the roomate's into the manage too.",
+      "quote": "I'm sorry. I mean, I know what it's like to be in love. Ties you up in knots. And Jerry is a very sexy man.",
       "characters": [
-        "Elaine",
+        "Dana",
         "George",
-        "Noel",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, it looked as if you were in a real conversation over there.",
-      "characters": [
-        "Puddy",
         "Kramer",
-        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "My friend Kramer and I were discussing that same thing the other day. He was with Brant-Leland for a while.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ah, it's my ex-roommate, she moved out four years ago, I-I've been sub-letting my apartment from her.",
+      "quote": "Jerry...Jerry listen I got too much stuff this afternoon, I can't come over, forget it.",
       "characters": [
-        "Newman",
-        "Donna",
+        "Elaine",
+        "Jerry",
         "George",
+        "Tawni"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh I gotta start taking these \"stupid\" warnings more seriously.",
+      "characters": [
+        "Greg",
+        "George",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, so she and \"Triangle Boy\" can go out to fancy restaurants.",
+      "quote": "No! You couldn't wait to get back to your little... \"conversation\".",
       "characters": [
-        "Steinbrenner",
         "Elaine",
-        "Newman",
+        "Rebecca",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Everything she thinks. you think. Everything you think she thinks. No I can't take it. I can't take it Jerry. It's too much. It's too much.",
+      "quote": "Our policy is, we're comfortable with our bodies. You know, if someone wants to help themselves to an eyefull, well, we say, 'Enjoy the show.'",
       "characters": [
+        "Woman",
         "Kramer",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey!! I found out from Paula; She likes George. I'll bet he'll be relieved.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Arrrrrrgh!! .. It's George.. Oh! Sports wholesaler. yeah. yeah. .. thanks for calling back. No , no , no still got the shoes, still got the shoes. Lots of them. This is.. beautiful athletic gear.\"",
+      "characters": [
+        "Tv",
         "George",
         "Jerry",
-        "Elaine"
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, man. You gotta shoot this movie for me. Brody, he's a reasonable man, but he's insane!",
+      "characters": [
+        "Marty",
+        "Jerry",
+        "Estelle",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     }

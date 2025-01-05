@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1093,
+  "gameNumber": 1094,
   "date": "2028-01-01",
   "questions": [
     {
-      "quote": "Check it out. Rain and sleet may not stop them, but let's see them get by... these bricks.",
+      "quote": "Yeah, I do that too. I feel guilty about getting the pleasure. I feel like I don't deserve it so I talk. It stops me from enjoying it. There's nothing to eat in here.",
       "characters": [
-        "Kramer",
+        "Morgan",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Newman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All right, well I've got to go take this test. I can't believe I'm doing this.",
+      "quote": "No! [throws her purse back at her] No, I mean, no thank you, nah...",
       "characters": [
-        "Jackie",
         "George",
+        "Daphne",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're fresh  You're very fresh. You seem very fresh to me. You're very vital. I couldn't take you any fresher.",
+      "characters": [
         "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So basically, it's every man, woman, child, and invalid for themselves.",
+      "characters": [
+        "Mickey",
+        "Jerry",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Parking in a handicap spot. Right in the middle of his United Volunteers meeting. When he got back, he chased after me with a baseball bat.",
+      "quote": "Yes, George, because of society. So how did the big meeting turn out?",
       "characters": [
+        "Newman",
+        "Kramer",
         "Jerry",
-        "Steinbrenner",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, I think I bought too much at that price club. I don't have any room for it all.",
+      "quote": "Alright, I got, uh, you come in, you say \"Hi\", and I say \"Hello\".",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Anyway it's kind of a fluke thing but uh I'll be leaving for Paris in two days. I will send you a postcard when I get there.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "you would not believe what just happened to me in the bathroom",
-      "characters": [
-        "Jane",
         "Jerry",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jane"
-    },
-    {
-      "quote": "Oh yeah, right.  Swim around in a bowl for two weeks and get flushed down the toilet, that's a good life.    Let's go.",
-      "characters": [
-        "Ava",
-        "George",
-        "Kramer",
-        "Helen"
-      ],
-      "correctAnswer": "Ava"
-    },
-    {
-      "quote": "He says \"I don't want to sleep alone.\" She says, oh boy, \"love to.\"",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "George",
         "Jackie"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, well, you wouldn't want that because you always have to remain friends!",
+      "quote": "What? you're breaking up with me? But I sacrificed and supported you while you struggled. What about my dream of dating a doctor?",
       "characters": [
-        "Nina",
-        "Elaine",
-        "Frank",
-        "Newman"
-      ],
-      "correctAnswer": "Nina"
-    },
-    {
-      "quote": "Oh, don't worry. We'll get you home to your husband real soon.",
-      "characters": [
-        "Elaine",
         "Jerry",
+        "George",
         "Kramer",
-        "Debby"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We have got you in a very nice hotel, I-I don't know how you like to work, but ah, I can arrange for an office if you like.",
+      "characters": [
+        "Lippman",
+        "Jeannie",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh, well, I didn't do much. I just sat in the sauna. You know, it was more like a Jewish workout. I'll see ya.",
+      "characters": [
+        "Tim",
+        "Elaine",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "He'll be in with the X-Rays in a few minutes. You can get dressed.",
+      "characters": [
+        "Nurse",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Nurse"
     }
   ]
 }

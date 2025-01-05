@@ -1,106 +1,106 @@
 {
-  "gameNumber": 887,
+  "gameNumber": 888,
   "date": "2027-06-09",
   "questions": [
     {
-      "quote": "I know they're in there, the three of them, laughing at me. Together, laughing and lying.",
+      "quote": "No. He blew out my Witchy Woman, and he won't share Desperado. Hey, what d'you think of Oye Como Va?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, wha -- I, uh -- uh, we were kind of, uh, talking to each other, weren't we?",
       "characters": [
         "Kramer",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no… I'm not kidding Elaine it's true, his mistress didn't like the title and insisted that he change it to \"War and Peace\"!",
+      "characters": [
         "Elaine",
+        "George",
+        "Heather",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, you think I eat all my meals with you?  Excuse me, sweetheart? I think you may have overcharged us. What is this?",
+      "characters": [
+        "Elaine",
+        "Newman",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Wha-You never see him. He sidled me again in my office. I was sitting there making Cup-A-Soup singing that song from \"The Lion King\".",
+      "quote": "Yeah. I'm a little worried. When there's no work, and the people get restless, who do you think they come after?  El Presidente!",
       "characters": [
-        "Elaine",
-        "Testikov",
-        "Newman",
-        "Jerry"
+        "Kramer",
+        "Jerry",
+        "George",
+        "Patrice"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "This judge has to use it for some scofflaw. And you know you can't fight City Hall.",
+      "quote": "I told you. He stopped calling me. I moved on. I'm not hung up on him. What are you looking at?",
       "characters": [
-        "Gary",
+        "Jerry",
+        "Margaret",
+        "Elaine",
+        "Nurse"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "... Yeah dropped off that Bob Sacamano hat. Oh she's ah, upset at him, oh yes siree. Yeah well thanks for stopping by.",
+      "characters": [
         "Jerry",
         "Kramer",
-        "Elaine"
+        "George",
+        "Marty"
       ],
-      "correctAnswer": "Gary"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Look, Deena, I know you think I'm crazy, but I'm not. This is just a series of bad coincidences.",
+      "quote": "Bear with you! This is a parking lot PEOPLE ARE SUPPOSED TO BE ABLE TO GET",
       "characters": [
         "George",
-        "Kramer",
-        "Gary",
-        "Daphne"
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm talking about the pig man. I went into the wrong room and there he was.",
+      "quote": "Ah, listen, George, what else can I do with these guys? Now, bear in mind, they're a little light on the yen.",
       "characters": [
-        "Newman",
+        "Estelle",
+        "Bania",
         "Jerry",
-        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, I guess as an airline pilot, you're one of the few people who can say that and mean it.  Um, do you have the time?",
-      "characters": [
-        "Greg",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You see, my dear, all certified mail is registered, but registered mail is not necessarily certified.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Mmm-mmm-mmm. That means, if you still had those stock options...",
+      "quote": "There's nothing more pathetic, than a grown man, who's afraid of a woman .",
       "characters": [
         "Kramer",
-        "Elaine",
+        "Darryl",
         "Jerry",
-        "George"
+        "Lloyd"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen work.",
-      "characters": [
-        "Jerry",
-        "Cheryl",
-        "Captain",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, my father used have a huge collection of big band records.",
-      "characters": [
-        "Kramer",
-        "Michael",
-        "Estelle",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     }
   ]
 }

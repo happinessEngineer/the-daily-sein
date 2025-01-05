@@ -1,106 +1,106 @@
 {
-  "gameNumber": 123,
+  "gameNumber": 124,
   "date": "2025-05-06",
   "questions": [
     {
-      "quote": "Oh. You know what?  I'm gonna grab these from you later. You'll take care of 'em, okay? Okay. See you tomorrow.",
+      "quote": "'Maybe you know some little places to go, where they never close...'",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Silvio",
-        "Lena"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't know why Rachel had to drive back with Michael and Carol.",
-      "characters": [
         "George",
-        "Frank",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Me? Oh no, but I'd love to have a baby, I mean, I can't wait to have a baby. I'm just dyin' to have a baby.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "This is what they would do in the movies! It's a beautiful thing! It's like a movie! I'm gonna slip him a mickey!",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah. A couple of people. I don't get that, though. Where do you start?",
+      "quote": "Well, I mean, he was in the apartment, and then it's gone and it's in your apartment.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Woman",
-        "George"
+        "George",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Jerry, I know myself. If I'm out on the street and it's starts to go down, I don't back off until it's finished.",
+      "quote": "Can you believe someone would lie about chemotherapy to get a wig? Would you do that?",
       "characters": [
-        "Nana",
-        "Carol",
+        "George",
         "Jerry",
+        "Elaine",
         "Kramer"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're just like George. George'd do the same thing. You're just like him. It's amazing!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Ned",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, here's my shower routine. Maybe I can make some changes. Get wash cloth mittens and maybe some liquid soap, and just... -pop- focus!",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's called Sendrax. They've got some new kind of technique for televising opera.",
+      "quote": "Really? You never slipped one past the goalie in all these years??... Boy, I'm surprised. You've slept with a lot of women!",
       "characters": [
-        "Kramer",
-        "Elaine",
+        "Helen",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right. So, what theatre you wanna go to tonight? We got 61st and 3rd or 84th and Broadway.",
-      "characters": [
         "George",
-        "Jerry",
-        "Russell",
-        "Steinbrenner"
+        "Carrie"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "What!? I happen to have a very steady boyfriend. You know, I mean, we broke up a few times and there has been an occasional guy here or... or there, but, wh-why is this your business?",
+      "quote": "Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",
       "characters": [
         "Kramer",
         "George",
-        "Sid",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what?! She is talking about my shoes! She is discussing my shoes! It is nobody's business where I buy my shoes!",
+      "characters": [
+        "Kramer",
+        "Stu",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That's the funny face that greets you at the beginning of the Super Terrific Happy Hour.",
+      "quote": "You start flirting with him and I'll come by and, while you're keeping him busy, I'll slip it in his drink.",
       "characters": [
-        "Peterman",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Susan",
+        "Newman",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, thank you, Sid, but that's all in the past. I'm ready to move on.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

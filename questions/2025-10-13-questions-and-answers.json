@@ -1,106 +1,106 @@
 {
-  "gameNumber": 283,
+  "gameNumber": 284,
   "date": "2025-10-13",
   "questions": [
     {
-      "quote": "What are you doing here? I thought you said you hated Isabella's?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Wilhelm",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What you need is a translator to go in the shop with you and tell you what they're saying.",
+      "quote": "No, no, I didn't say you could keep it. You see I don't give away tupperware.",
       "characters": [
         "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm sure he's having a good laugh over this with his doorman buddies.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh my god, there she is. That's the face, just like the picture.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "First it was the health club, then the supermarket, now the bookstore. They could put it anywhere they want, no one's meetin' anybody.",
-      "characters": [
-        "Tv",
-        "Jackie",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, payroll. Yes I did. Very productive. Payroll... Paid off.",
-      "characters": [
-        "Susan",
-        "Guard",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Don't you think I know the difference between a pick and a scratch?",
-      "characters": [
-        "Helena",
-        "George",
-        "Daphne",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are you doing? We're going out to dinner in ten minutes.",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "Jerry",
-        "Estelle"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So she sees you with hot fudge on your face and she ends it? You really think she would be that superficial?",
-      "characters": [
-        "Kramer",
-        "Peterman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'd look again. So ah, how come you didn't call Jerry about all this?",
-      "characters": [
-        "Doris",
-        "Izzy",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no. I have to get home tonight. Bridget's gonna be waiting for me at the Diplomat's Club. Rent a car.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute. This looks familiar. This reminds me of something. I can do this.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just 'cause of that? It's like finding out Mickey Mantle corked his bat!",
+      "characters": [
+        "George",
+        "Peterman",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know, why do they make that bed so tight? You gotta sleep with your feet like that.",
+      "characters": [
+        "Kramer",
+        "Sid",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Believe me. You know, I forgot how much fun it is hanging out with you.",
+      "characters": [
+        "Aaron",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Darren? What are you doing here? The college canceled the internship.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No! Not part of the show! Booing and hissing are not part of the show! You boo puppets! You hiss villains in silent movies!",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "SHUT UP!! Shut up Farfel, stop it!  I don't know what to do. I mean what if I take it to the pound then the guy shows up?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We'll see about that.  Kramer, I'm comin' up! We got a cockfight to win!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 82,
+  "gameNumber": 83,
   "date": "2025-03-26",
   "questions": [
     {
-      "quote": "Mmm. This food is fantastic, PEGGY: And what a pretty radish rose, huh?",
+      "quote": "Six. But then the night doorman comes on. He's much scarier.  Whugh!  Ha-ha.",
       "characters": [
-        "Sylvia",
-        "Man",
+        "Holly",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You want me to roll six thousand of these?! What, should I quit my job?!",
-      "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just want the both of you to know how much you mean to me, and I love you both very, very much.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Woman",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know Jack, do me a favor will you? Take the pen and the scotch tape, and get the hell out of here!",
+      "quote": "Well, I've to every Brentano's. This thing's flagged in every database in town!",
       "characters": [
-        "Morty",
-        "Kramer",
-        "John",
-        "George"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I'm not pulling a shopping cart. What, am I suppose to wear a kerchief? Put stockings on and roll 'em down below my knee?",
-      "characters": [
-        "Peterman",
-        "Elaine",
-        "Kelly",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Did you see the homeless guy on the library steps screaming obsenities and doing some calesthetics routine",
-      "characters": [
-        "Julie",
-        "Margaret",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I just need them to deliver it here and I have to be kinda inside is all.",
-      "characters": [
-        "Bonnie",
         "Jerry",
-        "Elaine",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're an alcoholic! You have to apologize. Step Nine! Step Nine.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sara",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Does she care? No. Does anyone ever display the slightest sensitivity over the problems of a fellow individual? No. No. A resounding no!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yuh, I'd like an order of supreme flounder, number forty-seven. Yeah, apartment one-Q.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Wait. Is this the group that goes around mutilating squirrels?",
+      "quote": "I'm okay. I'm fine. I'm wonderful. I never felt better in my whole life.",
       "characters": [
-        "Frank",
-        "Kramer",
-        "Owner",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "So let's say in her mind she witnessed a pick. Okay, so then what?",
-      "characters": [
-        "Helen",
+        "Jackie",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Doctor"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Puddy's just gonna give you the car, huh?  You'll see. First they stick you with the undercoating, rust-proofing, dealer prep. Suddenly, you're on your back like a turtle.",
+      "quote": "They're dessicates. See, they absorb moisture.  These clothes won't last five years without 'em.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy, I have really had it with Newman. He wakes me up again last night at three o'clock in the morning to tell me he's going up onto the roof to kill himself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know, I like stuff you don't have to think about too much.",
       "characters": [
         "Elaine",
+        "Jerry",
         "George",
-        "Receptionist",
-        "Jerry"
+        "Lena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine, of course I'm concerned. I'm payin' for those meals. It's like throwing money down the toilet.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     }

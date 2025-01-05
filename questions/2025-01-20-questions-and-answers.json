@@ -1,106 +1,106 @@
 {
-  "gameNumber": 17,
+  "gameNumber": 18,
   "date": "2025-01-20",
   "questions": [
     {
-      "quote": "Hey. Oh, Elaine. I'm glad you're here. Stay right there. I'm gonna be right back.",
+      "quote": "No, she said it was fine. There's something very strange about this girl.",
       "characters": [
-        "Gary",
-        "Steven",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'll tell you, if I was running for office I would ask for the death penalty for double-parkers. If this is allowed to go on this is not a society. THIS IS ANARCHY!",
-      "characters": [
-        "George",
         "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "See, now this is exciting! This is exciting! Did I miss anything already?",
-      "characters": [
-        "Jake",
-        "Elaine",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I suppose if it was on the protégé's way to the mentor, they might.",
-      "characters": [
-        "Elaine",
-        "Bania",
         "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look it, I'm dating a doctor and I like it. Let's just move on.",
+      "quote": "He could have said: \"Thank you, I like it too\" and put it back in his pocket.",
       "characters": [
+        "Jerry",
+        "Rabbi",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't bring me down.  Do you have another copy of that photo?",
+      "characters": [
+        "Frank",
+        "Karen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis here at PBS. Our lines are open, so please call the number you see on your screen.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway there was all this tension. I asked her if she wanted to go out to dinner and she said \"no, maybe we could get together for lunch.\" You know what that means.",
+      "characters": [
+        "Jerry",
+        "George",
         "Kramer",
-        "Peterman",
-        "Jerry",
         "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Who told you to get a massage from her. I haven't gotten a massage from her yet!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I never even got to the gym. Kramer got the gloves, wanted to come home and start working on his floor.",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Elaine",
-        "Puddy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He's actually doing him a favor. It's less money for him to buy food.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, not giving. hoarding. I'm storing it in to a blood bank. Just in case.",
+      "quote": "Elaine, do you think I would go willy-nilly into a situation so obviously fraught with potential complications?",
       "characters": [
-        "Kramer",
-        "Susan",
-        "Newman",
+        "George",
+        "Jerry",
+        "Jackie",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I've got an eyewitness to that jewelry store break-in. Come here. Do you recognize anybody in the lineup?",
+      "quote": "That's exactly right. The law requires you to help or assist anyone in danger as long as it's reasonable todo so.",
       "characters": [
-        "Marlene",
-        "Kramer",
-        "Jack",
-        "Man"
+        "Officer",
+        "George",
+        "Jerry",
+        "Kruger"
       ],
-      "correctAnswer": "Man"
+      "correctAnswer": "Officer"
+    },
+    {
+      "quote": "Well if you didn't think I was parking, why did you put it in head first?",
+      "characters": [
+        "Kramer",
+        "Doctor",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No,no I tought the show was terrific. I was just wondering if you have to keep saying Jerry Seinfeld is the devil.",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'll tell her I met some guy who knew her and he gave it to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Regis",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 188,
+  "gameNumber": 189,
   "date": "2025-07-10",
   "questions": [
     {
-      "quote": "I try to take a vacation, I come back, the whole operation's a shambles.  Hello.",
+      "quote": "I'll tell you, the sex... I mean, I was like an animal. I mean it was just completely uninhibited.",
       "characters": [
+        "Elaine",
+        "Daphne",
         "George",
-        "Jake",
-        "Jerry",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He knows I'm waiting. He sees me. He just doesn't wanna look.",
+      "quote": "I don't understand. They're supposed to be casting this week. Something's wrong. Maybe they're not doing it.",
       "characters": [
-        "Kramer",
         "George",
+        "Keith",
         "Elaine",
-        "Jerry"
+        "Wyck"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm still big. It's the bootlegs that got small. So how are things at the office? Back to normal?",
+      "quote": "Oh, Jerry. I don't know how you could do this. I'm so nervous for you.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Lippman",
-        "Kramer"
+        "Audrey",
+        "Kramer",
+        "Estelle"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Estelle"
     },
     {
-      "quote": "Jerry, this is not a crush. This is a complete fixation. he makes me very uncomfortable.",
-      "characters": [
-        "Frank",
-        "Doctor",
-        "Elaine",
-        "Mike"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What's the deal with lampshades? I mean if it's a lamp, why do you want shade?",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "My God! I can't believe the other guy's going to be on the show!",
-      "characters": [
-        "Jerry",
-        "Jackie",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You better zip up.  I couldn't get the top on the convertible up.",
+      "quote": "No, the dentists. You know, we have the highest suicide rate of any profession?",
       "characters": [
         "Peterman",
-        "Milos",
+        "Patty",
+        "Tim",
+        "Morty"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Hey Elaine What about the crest.? What d'you think of the crest here.",
+      "characters": [
+        "George",
         "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, let me ask you something: When do you start to worry about ear hair?",
+      "characters": [
+        "Detective",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it's Frank and Estelle's reaction of hearing George's man love towards she-Jerry.",
+      "characters": [
+        "Elaine",
+        "George",
+        "James",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "And I'm her protégé. You must have someone like that. You know, who guides you in your career path.",
+      "quote": "This is some building, Harry Fleming used to have an office here. There was a deli on the first floor. You don't get corned beef like that anymore. What happened to that deli?",
       "characters": [
-        "Kramer",
-        "Woman",
+        "Morty",
         "Jerry",
-        "George"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "All my life I've dreamed of sitting front row, behind the dugout!",
+      "quote": "The prop comic?  Oh, hi...I didn't recognize you, what...did you get a haircut?",
       "characters": [
         "George",
-        "Jackie",
-        "Elaine",
+        "Kramer",
+        "Wilhelm",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, Silvio, just out for a little stroll in my favorite fur coat.",
+      "quote": "Oh, well, he was probably just getting anxious to start his vacation.",
       "characters": [
-        "Jerry",
-        "Ned",
         "George",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

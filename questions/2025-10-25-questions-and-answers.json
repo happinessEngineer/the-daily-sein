@@ -1,106 +1,106 @@
 {
-  "gameNumber": 295,
+  "gameNumber": 296,
   "date": "2025-10-25",
   "questions": [
     {
-      "quote": "One second... Well, if it would make you feel better I could speak to Dr. Whatley. I have to go back and have a wisdom teeth removed.",
+      "quote": "Hey, hey. Kramer, what are you doing? You can't smoke in here.",
       "characters": [
-        "Father",
         "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, it's what John Wilkes Booth yelled out when he shot Lincoln.",
+      "characters": [
+        "Jerry",
         "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's uncanny! It's like they chopped off your arms and legs, dipped you in plastic, and screwed you back all together again, and stuck you on a pedestal. It's really quite exquisite.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Whoah, Elaine! Once again, you've managed to top yourself. C'mon Jerry, let's go. Car's out front.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Father"
+      "correctAnswer": "Lloyd"
     },
     {
-      "quote": "I wouldn't want to get lost in here. It smells like a toilet. People are such animals.",
+      "quote": "hmm I love this artificial flavoring I like it better than butter I think it's more consistent",
       "characters": [
-        "George",
-        "Elaine",
-        "Amy",
-        "Jerry"
-      ],
-      "correctAnswer": "Amy"
-    },
-    {
-      "quote": "Don't give me \"Ma\". It's a good thing I didn't hit the table. I could of cracked my head open.",
-      "characters": [
-        "Elaine",
-        "Rula",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "She does a lot of abstract stuff. In fact she's painting Kramer right now.",
-      "characters": [
+        "Mike",
+        "Steinbrenner",
         "Kramer",
-        "Kate",
-        "Doorman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, *please*! Me? C'mon! That's *great*! Are you kidding? I think thats fan*tastic*! I've always encouraged experimentation! I'm the first guy in the pool! Who do you think you're talking to?",
+      "quote": "No no, there's nothing wrong with her nose! I'm so sorry, Audrey.",
       "characters": [
-        "Woman",
-        "George",
-        "Jerry",
-        "Sid"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Okay. Hey, you know what, maybe I should give it to my therapist to read. She's smart, I trust her.",
-      "characters": [
-        "Gary",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Kramer, this is perfect. I need you to go in there, pretend you're a doctor and check this guy for moles.",
-      "characters": [
-        "George",
+        "Elaine",
         "Jerry",
-        "Kramer",
-        "Elaine"
+        "Jackie"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Jerry, it was so nice of you to come down here on your father's birthday. You've helped take his mind off the condo elections.",
+      "quote": "Sometimes at restaurants she talks to her food: 'Ooh, Mr. Mashed Potatoes, you are sooo goood.'",
       "characters": [
-        "Helen",
         "Elaine",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "You know, like all the comedians always say, 'How would you like it if I came to where you work and heckled you?'",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Did I tell you that story's relatable?! That was a great show! That is why I'm bringing it back to NBC.",
-      "characters": [
-        "Donna",
-        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I hope you think about what you've done here today. And if you want to call and apologize, you know where to reach me.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yeah, yeah, that's where England used to send their convicts.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Maura",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well he said that humm.. you know.that it helps his pathients relax a little bit..and he's got a new polithy: Adults only.\"",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 304,
+  "gameNumber": 305,
   "date": "2025-11-03",
   "questions": [
     {
-      "quote": "Hey, somebody better move these cars, you're making a commotion.",
+      "quote": "[To herself, loudly] Wake up, you human slug! Wake up! *Wake* *up*!! I can't hold it anymore! [To the slug out loud] Excuse me, I've gotta go to the bathroom...",
       "characters": [
+        "Tony",
+        "George",
         "Elaine",
-        "Sid",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "I didn't talk to anyone - I was just walking by, and I saw the sign, and I thought George might get a kick out of it.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Morty",
-        "George"
+        "Jackie"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yes! Oh look at this, these mangos are beautiful! Oh these are beautiful,  you did good George.",
+      "quote": "Hey, you know what? Maybe he's a diabetic, he might just need a cookie or something.",
       "characters": [
-        "Glenn",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "D-d-d-d. I gotta switch shaving creams. I'm getting no protection.",
-      "characters": [
-        "Sid",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu \"Ther - There is nothing finer than being in your diner.\"?",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Don't aaaaah! I'm supposed to do something with her later? I don't even think I wanna see her.",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Tim"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I feel terrible about your friend Jerry. He's upset that I gave Kramer that chest of drawers, isn't he?",
-      "characters": [
-        "Brett",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Brett"
-    },
-    {
-      "quote": "No! I'm not gonna do that! That's one step away from personal ads! And prostitutes! No! No, I am not going down that road! What does she look like?",
+      "quote": "Yes, she wants me to like her, if she likes me. But she doesn't like me!",
       "characters": [
         "George",
+        "Mickey",
         "Jerry",
-        "Elaine",
-        "Willie"
+        "Jackie"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "And I'm doin' Letterman Monday. You know, I gotta work out the material!",
+      "quote": "It's like I'm thinking of something, and you're  one step ahead of me.",
       "characters": [
+        "Newman",
+        "Elaine",
         "Jerry",
-        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dunno.  Oh, 'cos you said you'd give the bike to anyone who fixes your neck.",
+      "characters": [
+        "Helen",
+        "Bob",
         "George",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What I don't get is, just because the battery is dead, you think she'd be able to roll up the hill with her hands!",
+      "quote": "Hey, don't forget Sunday, okay? You and George are coming, right? Hotel Westbury, eight o'clock.",
       "characters": [
-        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, the stock is the same as when you checked it earlier. There are no changes after the market closes. The stock is still down.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Vanessa",
+        "Elaine"
+      ],
+      "correctAnswer": "Vanessa"
+    },
+    {
+      "quote": "What are you doing here? I thought you said you hated Isabella's?",
+      "characters": [
+        "Tim",
         "Kramer",
         "George",
-        "Brett"
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, uh, \"The Falconer\" by John Cheever. It's really excellent.",
+      "characters": [
+        "Rick",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta give us odds. At least two to one - you gotta put up two-hundred dollars.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
       ],
       "correctAnswer": "George"
     }

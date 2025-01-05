@@ -1,106 +1,106 @@
 {
-  "gameNumber": 700,
+  "gameNumber": 701,
   "date": "2026-12-04",
   "questions": [
     {
-      "quote": "Alright put your hands up over your face, pretend you're sleeping.",
+      "quote": "She lives right off Riverside Park. I was scared of the Lopper, So I let her stay over.",
       "characters": [
         "Jerry",
-        "Carol",
+        "Newman",
         "George",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What's my problem? Punks like you, that's my problem. And you better not screw up again Seinfeld, because if you do, I'll be all over you like a pitbull on a poodle.",
+      "quote": "You don't pay five cents, you get five cents back. Here, read the label here.  Vermont, Connecticut, Massachusetts, New York. Refund,  vrrup, five cents.",
       "characters": [
-        "Bookman",
         "Kramer",
         "Elaine",
+        "Morty",
         "Jerry"
-      ],
-      "correctAnswer": "Bookman"
-    },
-    {
-      "quote": "Yeah, we do that all the time. You should see the looks on people's faces.",
-      "characters": [
-        "Jerry",
-        "Cop",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Cop"
-    },
-    {
-      "quote": "He thinks I am. I'm not gonna betray that trust. Here's what I wanna do; I think I can get a section...",
-      "characters": [
-        "Woman",
-        "Jerry",
-        "Marcy",
-        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah yeah. Well uh, you know, I'd invite you in, but uhm... you know.",
+      "quote": "Ooo, yeah..   You know, it's gettin' kind of late, I, I really have to be going, so, uh, it's nice seeing you again, all right--",
       "characters": [
-        "George",
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Kramer"
+        "Elaine",
+        "Tim"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You're probably gettin' an ulcer. This job is killing you! It's killing Us.",
+      "quote": "Well, as long as I'm up. Dad, I got you a birthday present. Here. Happy Birthday.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Alec",
-        "Elaine"
+        "Estelle",
+        "George",
+        "Woman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, but they got the chocolate. We'll be going in with lesser babka.",
+      "quote": "Georgie what were you doing poking around the attic last night?",
       "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Frank"
+        "Jerry",
+        "Kramer",
+        "Estelle"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Estelle"
     },
     {
-      "quote": "I mean, do you think it's possible that he's mad at me because he didn't get the day-after 'thank you'?",
+      "quote": "You gotta jiggle it a little bit. I jiggled it. I jiggled it for fifteen minutes.",
       "characters": [
-        "Kramer",
-        "Wyck",
         "Jerry",
+        "Helen",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Awright, let's just stay calm here! Don't get all crazy on me!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Steinbrenner",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!",
+      "quote": "You gotta go with me. I mean, you-you're my alibi. You have to take the stand.",
       "characters": [
+        "Newman",
         "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Marla",
+        "Julie"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Where do you think this relationship is? If you are thinking of instituting an open-door urination policy, let me disabuse you of that notion right now, my friend.",
+      "quote": "There, you see. She's already in a bad mood. She just got fired.",
       "characters": [
-        "George",
-        "Bania",
         "Kramer",
+        "George",
+        "Stu",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got him Yankee's tickets! He got me a piece of paper saying \"I've given your gift to someone else!\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

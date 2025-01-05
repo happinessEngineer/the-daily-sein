@@ -1,104 +1,104 @@
 {
-  "gameNumber": 855,
+  "gameNumber": 856,
   "date": "2027-05-08",
   "questions": [
     {
-      "quote": "I would askk you to stay tonight but I only have the sofa bed and it's where I sleep.",
+      "quote": "Vommiting is not a deal breaker. If Hitler had vommited on Chamberlin, Chamberlind still would have given him Chekoslovakia.",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "Morty",
         "George",
-        "Elaine"
+        "Marlene",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Would I want to see what Mary Todd wore to Lincoln's funeral?",
+      "quote": "Yeah, well, y'know what? If I gotta go, and spend time with this girl, then you're coming with me, Dr. Cyclops!",
       "characters": [
-        "George",
+        "Carol",
         "Elaine",
-        "Kramer",
-        "Betsy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh no! I'm vigilant. They'll never get me out. I'm like a weed, Jerry.",
-      "characters": [
-        "Helena",
-        "George",
         "Peterman",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So my parents get home, they open the door, my father flicks the light on, the whole place is cleaned out, everything.",
+      "quote": "Jerry! There is no confusing *that* move with any other move.",
       "characters": [
         "Elaine",
-        "Kramer",
+        "Newman",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Or he's a crime fighter safeguarding his secret identity! Elaine, you could be dating the Green Lantern!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Katie",
-        "Harold"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Right in front of me!. How do you know we're not together. Two guys, sittin' laughin' drinking Champagne Coolies.",
+      "quote": "Are you often on business trip? Nice...oh, hey nice ice-bucket.",
       "characters": [
         "Jerry",
-        "Saleswoman",
         "Kramer",
-        "Newman"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well yes I did that's true. A couple of a guys I knew in the coastguard told me about her.... and I sensed that she had the anger and intensity that I needed to make this film work.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jake",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So, where's this boyfriend of yours? I can't wait much longer. I've got a flight.",
+      "quote": "He did not need inspiration… God spoke through his pen. Hu Hu Hu",
       "characters": [
         "Jerry",
         "Elaine",
-        "George",
-        "Rita"
+        "Testikov",
+        "Ray"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Testikov"
     },
     {
-      "quote": "Ho ho ho ho A racing car set! Those are assembled in Tai Wan by kids like you. And these Coleman pigs, they sell it at triple the cost.",
+      "quote": "All right. Jerry, that's enough now about the Soup Nazi. Whoa! Wow! Look at this. You know what this is? This is an antique armoire. Wow! It's French. Armoire.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Amy",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, well, I sat down with Mr. Steinbrenner. I told him you have been doing great work. I said that you deserved a raise, and if you didn't get it, that I, was leaving.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See, now this is exciting! This is exciting! Did I miss anything already?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Then of course with evolution, the octopus lost the nostrils and took on the more familiar look that we know today.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't know whether to try and keep her from falling, or zip up.",
       "characters": [
         "Kramer",
         "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I mean, we're not stupid, right? We know when something's funny!",
-      "characters": [
-        "George",
-        "Sally",
-        "Conrad",
-        "Jerry"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     }

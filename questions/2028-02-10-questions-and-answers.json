@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1133,
+  "gameNumber": 1134,
   "date": "2028-02-10",
   "questions": [
     {
-      "quote": "Well, you remember I told you about the pro, you know, at the Westchester Country Club, who's letting me play a round every time I give him a couple of those Cuban cigars?",
+      "quote": "Yeah, well, uh.. you know uh, you didn't hear from me, but, uh, the Van Buren Boys - they never hassle their own kind.",
       "characters": [
-        "Michael",
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean, it's like the biggest event of your life! You'd think you'd have, like, 6 alarm clocks, payin'-off little kids in the village to come banging on your door...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Salesman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. He's really got a good thing with her. In fact I'm doubling with them tonight.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah? Could you help me bring it up to my office, I'm right next door. Pendant Publishing.",
+      "characters": [
+        "Jerry",
+        "Helena",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Well, don't worry about it. Once he passes the test, you'll have sex again, and you'll be fine.",
+      "characters": [
+        "Jerry",
+        "Wyck",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well it's just that you got so many things with the milk. You got that Bosco bit then you got your Nestlé's Quik bit, by the time you get to Ovaltine--",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what does he do? Is he an artisan, a craftsman, a labourer of some sort?",
+      "characters": [
+        "Jake",
         "Jerry",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What, are you kidding?  The knuckles are all out of proportion. you got hair over there - where do you get off comparing your hands to my hands?! This is a one-in-a-million hand.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, well, I really think I'm falling for you... [opens the playbill and flips five pages till he finds and reads autograph] .....Joseph Puglia...",
-      "characters": [
-        "Kramer",
-        "Joe",
-        "Mike",
-        "Woman"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Well I think you should either take it off or tell her about it.",
-      "characters": [
-        "Katie",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Grossbard's plane leaves in ten minutes. I *still* got time to catch him!",
+      "quote": "Oh, don't worry. I'm gonna show you, and you'll never be the same.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "George",
-        "Morty"
+        "Michael",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "A sitcom? How can you write that crap? Carol, this guy's writing a sitcom.",
-      "characters": [
-        "Woman",
-        "Captain",
-        "Doorman",
-        "Estelle"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Jerry, have you ever taken a bath in the dark? If I'm not talking into the soap right now, call me back.",
-      "characters": [
-        "Marlene",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Marlene"
-    },
-    {
-      "quote": "C'mon up.  You know what? Do me a favor. Don't even do the move anymore. You're gonna give it a bad name.",
+      "quote": "Hi, Kramer. Guess what - I just saw Bryant Gumbel, he said he might help out at the benefit!",
       "characters": [
         "Elaine",
-        "Morty",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Your honor, we request at this time, that Miss Mishke...try on the bra.",
-      "characters": [
         "Kramer",
-        "Jackie",
-        "Helen",
-        "Newman"
+        "George"
       ],
-      "correctAnswer": "Jackie"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, after he heckled Toby, she got so upset, she ran out of the building and a street sweeper ran over her foot and severed her pinky toe.",
+      "quote": "CALVIN KLEIN? No, no. That's my idea. They, they stole my idea. Y' see I had the idea of a cologne that makes you smell like you just came from the beach.",
       "characters": [
+        "Jerry",
         "George",
         "Elaine",
-        "Kramer",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     }

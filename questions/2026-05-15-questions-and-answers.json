@@ -1,106 +1,106 @@
 {
-  "gameNumber": 497,
+  "gameNumber": 498,
   "date": "2026-05-15",
   "questions": [
     {
-      "quote": "You know, selling bras exclusively to women, we're really only utilising fifty percent of the market.",
+      "quote": "Because I'm going to be playing golf at the Westchester country club. Mmh.",
       "characters": [
-        "Farkus",
         "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Farkus"
-    },
-    {
-      "quote": "SO...you're all in here together. How convenient. I hope you're all proud of yourselves.",
-      "characters": [
-        "Kramer",
+        "Sally",
         "Elaine",
-        "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, yeah. Stick.  'Cos I could still go to the coffee shop.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, yeah. I've heard that. Meanwhile I'm here with you in a parking garage, what am I supposed to do?",
+      "quote": "Yeah I better get to a doctor, bye.  That was close! What drives me to take chances like that?",
       "characters": [
         "Kramer",
-        "Jerry",
+        "Noel",
         "George",
-        "Lamar"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Perhaps.  I walk in, everything is organized -- messages, appointments. And I can't tell you how proud I am of myself for going with Ade.",
-      "characters": [
-        "Helen",
-        "Jerry",
-        "Landis",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes I look forward to many years of... looking at the triangles. Well, I'll ah, I'll wait for you outside.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Helen",
-        "Wilhelm"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, maybe the test was gender bias, you know a lot of questions on hunting and testicles...",
-      "characters": [
-        "Lloyd",
-        "Elaine",
-        "Man",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, the thing is, I uh...I think I have a little crush on him.",
+      "quote": "Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left.",
       "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Pam"
-      ],
-      "correctAnswer": "Pam"
-    },
-    {
-      "quote": "Do you hear what you're saying? God isn't out to get you George. What... What is that on your lip?",
-      "characters": [
         "Kramer",
         "Elaine",
-        "George",
-        "Dana"
+        "Newman"
       ],
-      "correctAnswer": "Dana"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, come on, Jerry. It was 9 to nothing. We were getting shellacked.",
+      "quote": "George, do you realize that Rava has asked me to edit her book?",
       "characters": [
-        "Darryl",
+        "Elaine",
+        "Jack",
         "Jerry",
-        "George",
-        "Elaine"
+        "Herb"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, that's a fair question. It is, uhm...  Jerry, yeah.  Jerry's a friend of mine.  He uh, he gave it to me. Unbelievable how many addresses of people this guy has.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had to give him a tissue. In fact, let me call his machine now and I'll just make up some excuse why I can't go to the game either.",
+      "characters": [
+        "Conrad",
+        "Helen",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah. Stick.  'Cos I could still go to the coffee shop.",
+      "characters": [
+        "Kramer",
+        "Karen",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That would be good too. The idea is combine the this and the that. But this cannot be disturbed.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She knows that I have her clock. I know that she has my hat. I think she's getting ready to make an exchange.",
+      "characters": [
+        "Woman",
+        "Announcer",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I know the guy. I take my stuff in there all the time. Yeah, I bet I can get your watch back by tomorrow morning.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Attendant",
+        "Dana"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

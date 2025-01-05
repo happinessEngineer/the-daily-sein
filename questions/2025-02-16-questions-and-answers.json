@@ -1,106 +1,106 @@
 {
-  "gameNumber": 44,
+  "gameNumber": 45,
   "date": "2025-02-16",
   "questions": [
     {
-      "quote": "Are you crazy? You take your life in your hands with those nuts.",
+      "quote": "Here, stand by the fire. Take off those wet clothes, you'll catch cold.",
       "characters": [
-        "Elaine",
-        "Carol",
+        "Man",
         "George",
-        "Kramer"
+        "Jerry",
+        "Earl"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Man"
     },
     {
-      "quote": "The better looking they are, the faster they go! I mean, I see they out there on the street, they're zooming around, like a blur. Like they have a motor on their ass.",
+      "quote": "It's my money. What should I do? Throw it out the window? I know a guy who took his vacation on his change.",
       "characters": [
-        "Rabbi",
         "George",
-        "Kramer",
+        "Hoyt",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Tomorrow is his birthday and it would mean so much to him if you could find it in your heart ta' pay him a visit and, just say hello.",
+      "quote": "huh  but huh, in this medicated haze, in this woozy state, um do you recall the words.. radical reconstructive surgery being uttered?",
       "characters": [
-        "Mel",
-        "Elaine",
-        "Julianna",
-        "Stu"
-      ],
-      "correctAnswer": "Mel"
-    },
-    {
-      "quote": "All right, all right. What. What. You tell me; I'll do anything. Come on, Doc, tell me.",
-      "characters": [
-        "Kramer",
         "Elaine",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know what my greatest moment was, don't you? Nineteen-forty-six. I went to work for Harry Flemming and I came up with the idea for the beltless trenchcoat.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "You know, I'm a little bit worried about him. I don't understand. We had one date two months ago. Am I that charming and beautiful?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Attendant",
-        "Leo"
+        "Kramer",
+        "Milos"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, yeah I'm sure he loves to hear from fans in the locker room.",
+      "quote": "We'll start out with one, and they when it catches on, we're gonna have a whole fleet!",
       "characters": [
-        "Donald",
-        "George",
+        "Kramer",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, he just got me thirty percent off on an air conditioner.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'VE FOUND A HAIR!!! Yes  Hey, come here, come here ,take a look at this.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Buckles",
-        "Kramer"
+        "Frank",
+        "Marcy"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Elaine, I paid two hundred dollars for this racquet, because he said it's the only one he plays with. He could've played just as well with a log.",
+      "quote": "Mr. Steinbrenner's birthday card. Wilhem said you had it for me to sign.",
       "characters": [
-        "Russell",
         "Kramer",
+        "George",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Morgan"
+    },
+    {
+      "quote": "First class doesn't make it anymore. Now you get on the phone with Kimbrough, tell him what happened and tell him to get another plane down here, but this time, the good one - the Ted Danson plane.",
+      "characters": [
+        "Jerry",
+        "Nina",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, why don't you do everybody a favour, and just get out of this building?  Nobody wants you here. Nobody!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Mary"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "An' then when you come home at night, you're always exhausted--we never do anything anymore!",
+      "characters": [
         "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You just had one yesterday. What do you need another one for?",
+      "characters": [
+        "Kramer",
+        "Duncan",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that voice is tattooed on my brain, I'm telling you it's her",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

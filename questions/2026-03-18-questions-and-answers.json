@@ -1,106 +1,106 @@
 {
-  "gameNumber": 439,
+  "gameNumber": 440,
   "date": "2026-03-18",
   "questions": [
     {
-      "quote": "Well, I have a feeling that what you are about to go through is punishment enough. Dismissed.",
+      "quote": "Chapter one. In order to manage risk we must first understand risk. How do you spot risk? How do you avoid risk and what makes it so risky?",
       "characters": [
+        "Kramer",
+        "Wyck",
         "George",
-        "Jerry",
-        "Michael",
-        "Peterman"
+        "Voice"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Voice"
     },
     {
-      "quote": "And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out.",
+      "quote": "We're with the FBI. You wanna tell us about your cable hook-up?",
       "characters": [
-        "George",
+        "Man",
+        "Craig",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "We could argue all night over who took the napkins. The point is in today's modern world it just doesn't seem relevant.",
+      "characters": [
+        "Steinbrenner",
+        "Melissa",
         "Jerry",
-        "Detective",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You got it. Hey Jerry, do me a favor. The next time you see that lineswoman ask her how those ball boys get those jobs. I would love to be able to do that.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Sidra",
         "Elaine"
       ],
-      "correctAnswer": "Detective"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What happened to Babs. She never showed up last night. The whole thing blew up in my face.",
+      "quote": "Scott!  Remember what we talked about the other day?  George is into it.",
       "characters": [
         "Elaine",
         "George",
-        "Bob",
-        "Peggy"
+        "Jerry",
+        "Bonnie"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Bonnie"
     },
     {
-      "quote": "Well, for me it's a step up. It's like moving from Iceland to Finland.",
+      "quote": "Well it seems the engagement of her ffriend George has left her feeling bitter and hostile.",
       "characters": [
-        "Elaine",
-        "Jake",
+        "Jerry",
         "George",
-        "Sid"
+        "Rabbi",
+        "Alton"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Uh, you are kidding me. How am I supposed to get to this meeting?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. There ya go. That's Beef-A-Reeno.  I'm so keen-o On Beef-A-Reeno What a delicious cuisine-o Fit for a king and queen-o! Yeah. Eat up. I got thirty four more cans.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Vermont!  With any luck, they said we could stay an extra couple of days if we want to!  Four days at a beautiful bed-and-breakfast! I can't wait.. buy-bye.  What?  What is this?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Captain"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "The *bank*? This is *found* money. I want to *parlay* it. I wanna make a big score!",
-      "characters": [
-        "Marcy",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Is that important, really? What is this, a police investigation? The woman's been through enough. She has to relive the experience now?!",
+      "quote": "Uh, he's this guy who used to live in the building and they keep calling us to see the baby.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Boy, I tell ya', knowing you is like going out in the jungle. I never know what I'm going to find next, and I'm real scared.",
-      "characters": [
         "Kramer",
-        "Puddy",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I've uh, I've changed my mind. I think I'm going to build a rollercoaster instead.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
+        "Doorman",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, well then I better get going otherwise George will make me buy him lunch to make up for that big salad he bought me yesterday.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay. I'm gonna check my machine first.  Picking someone up at the airport, jury duty, waiting for cable guy...",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

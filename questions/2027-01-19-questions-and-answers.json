@@ -1,106 +1,106 @@
 {
-  "gameNumber": 746,
+  "gameNumber": 747,
   "date": "2027-01-19",
   "questions": [
     {
-      "quote": "Hey buddy. I'm on no sleep, no sleep!. You don't know what it's like in there, all night long things are creaking and cracking. And that red light is burning my brain!",
+      "quote": "I say we leave now, we go to 'Skyburger' and we scarf 'em down.",
       "characters": [
         "Elaine",
-        "Wendy",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "U-oh come on up.  It's Elaine you don't have a problem with her do you?",
+      "characters": [
         "Jerry",
-        "George"
+        "George",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Done. But, I get to drive it tomorrow, because Doris wants to go to Naples.",
+      "quote": "Let go, Farfel! Let go, gimme that! Gimme the sneaker you stupid idiot! Shut up!  So what would you do?",
       "characters": [
-        "Jack",
-        "Elaine",
         "Kramer",
-        "George"
+        "Jerry",
+        "Susan",
+        "Frank"
       ],
-      "correctAnswer": "Jack"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, what? What? That? Are you kidding? I didn't quit. What? You took that seriously?",
+      "quote": "Huh haha!  You're meat, Reilly! You just screwed yourself!  Ha ha!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you're going along, you think everything's all right and all of a sudden you get that tap. . You know it's like pfffff , all right that's enough, you're through.",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry... This woman hates me so much. I'm starting to like her.",
       "characters": [
         "George",
-        "Jerry",
         "Elaine",
+        "Jerry",
         "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, will you stop it. Just because a hospital studying DNA research doesn't mean they're creating a race of mutant pig-men!",
+      "quote": "This could be in a museum some day! It's not safe with me! It should really be in a doormanned building.",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "George",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't understand. They're supposed to be casting this week. Something's wrong. Maybe they're not doing it.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Clerk",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, come on. Good? What was good about it?  Those sex scenes! I mean, please! Gimme something I can use!",
+      "quote": "Okay, fifteen minutes. I guarantee you fifteen minutes, I can make it happen!",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Hoyt",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I called him all the way up to my office, so I had to tell him something important. So I promoted him.",
-      "characters": [
+        "Elaine",
         "Kramer",
-        "Earl",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, Anthony Quinn, fine actor. But from what I understand, not a very good driver. Hits everything on the road. But always leaves a note.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Susan",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What are you starting with me for? You know this is my crazy time o' year?!",
+      "quote": "What is this? A birthday card. Ha ha . . . signed by the ENTIRE Yankee organization! . . . This could be worth something.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Man",
-        "Jerry"
+        "George",
+        "Steinbrenner",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up.",
+      "quote": "My neck is killing me. Right in this spot. Very tender over here.",
       "characters": [
-        "Newman",
-        "Tim",
-        "Elaine",
-        "George"
+        "Jerry",
+        "George",
+        "Susan",
+        "Rebecca"
       ],
-      "correctAnswer": "Tim"
+      "correctAnswer": "Jerry"
     }
   ]
 }

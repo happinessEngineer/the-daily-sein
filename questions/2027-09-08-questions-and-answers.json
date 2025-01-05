@@ -1,21 +1,41 @@
 {
-  "gameNumber": 978,
+  "gameNumber": 979,
   "date": "2027-09-08",
   "questions": [
     {
-      "quote": "So what? Somebody dropped an egg on my head as I went into my building last night.",
+      "quote": "Oh, by the way, your stationery store guy called and he's got your pencil.",
       "characters": [
-        "Elaine",
+        "Jerry",
         "George",
-        "Jane",
-        "Kramer"
+        "Elaine",
+        "Morty"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, please! I took you back. You know it, I know it, Vegetable Lasagna here knows it.",
+      "quote": "We did! We pulled it off! I can't believe it! Where's the needle?",
       "characters": [
-        "George",
+        "Rick",
+        "Elaine",
+        "Levitan",
+        "Estelle"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "Hello. No she's not here. Okay, fine, whatever. I'll tell her. Okay. Goodbye. The stationery store guy called to say he ORDERED your pencil.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Helen",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Here's one. I borrowed Puddy's car and all the presets on his radio were Christian rock stations.",
+      "characters": [
+        "Kruger",
         "Jimmy",
         "Jerry",
         "Elaine"
@@ -23,82 +43,62 @@
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I was speaking earlier with Kramer and he mentioned something about a private jet to Paris?",
+      "quote": "Ah, they turned brown!!  Brown!!  So let me ask you something, you know any women we could call?",
       "characters": [
-        "Newman",
+        "Elaine",
         "George",
         "Jerry",
-        "Elaine"
+        "Steve"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Steve"
     },
     {
-      "quote": "Elaine, I feel a cold coming on. Could you get me a cold pill from the medicine cabinet?",
+      "quote": "Wait a minute, Just wait a minute...Elaine, Elaine! Now you're smart, is it statue or statute of limitations?",
       "characters": [
-        "Bania",
         "Elaine",
-        "Pitt",
+        "Jerry",
+        "Kramer",
+        "Marla"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well so what's the problem, you just put some newspaper down.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
         "George"
       ],
-      "correctAnswer": "Pitt"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Eh...Varnsen. Kel Varnsen. Actually, this room intrigues me. Why is it called the TV room?",
+      "quote": "I told you not to say anything. You can't go in there, brazenly flaunt the rules and then think I'm gonna share with you!",
       "characters": [
-        "Susan",
-        "Kramer",
+        "Jerry",
+        "George",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He bothers me. I don't even answer the phone anymore because of him. He's turned me into a screener. Now I gotta go see him on Wednesday.",
-      "characters": [
-        "Hoyt",
-        "Jerry",
-        "Kramer",
-        "Sally"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I need someone to go with me to Mr. Lippman's son's Bar Mitzvah.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Holly",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So, has the summer of George already started or are you still de-composing?",
-      "characters": [
-        "Jerry",
-        "Shelly",
-        "George",
-        "Craig"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Why don't they open up an entire store for the back? Call it, \"Just Back.\" All back; No front. You walk in the front, you're immediately in the back.  Look, Elaine, tie carwash.",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Levitan",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's Martine. I think he's dying. He tried to kill himself with pills.",
+      "quote": "You know I think ultimately, I'm upset with myself. I knew what I was getting into, she's a bitter, unstable person. I mean the sex was good. I'm sure it was fine for her. I need more.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Is that right? I just threw away a lifetime of guilt-free sex, and floor seats for ever sporting event in Madison Square Garden. So please, a little respect. For I am Costanza: Lord of the Idiots!",
       "characters": [
         "George",
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Estelle"
+        "Jerry"
       ],
       "correctAnswer": "George"
     }

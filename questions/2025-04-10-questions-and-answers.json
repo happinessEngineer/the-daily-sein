@@ -1,106 +1,106 @@
 {
-  "gameNumber": 97,
+  "gameNumber": 98,
   "date": "2025-04-10",
   "questions": [
     {
-      "quote": "Alright. I've never been to Mars but I imagine it's quite lovely.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Why? It gets hot at night, you can't sleep. You ever tried to sleep in a really hot room?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Mr. Seinfeld, I might remind you that you are under oath.  Now I ask you again, did you or did you not, see this woman wearing a bra?!?",
-      "characters": [
-        "Jerry",
-        "Jackie",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Well it's a little strange. You going to start to talk like Elaine from now on?",
+      "quote": "You know what? I could probably do this. What's the difference.",
       "characters": [
         "Kramer",
         "Jerry",
         "George",
-        "Wyck"
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I hear things. Hey, so Sophie gave me the \"It's me\" on the phone today.",
+      "quote": "Jerry, come on, you're doin' okay now. You should at least take a look at this place. You shouldn't have to live like this.",
       "characters": [
-        "Jerry",
-        "Kruger",
+        "Frank",
+        "George",
         "Kramer",
-        "Estelle"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I feel that it would be best that you didn't talk to Noreen for a while...",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's with this airline? What are you, cutting out the drinks now?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, yes, I definitely waited. But let me say this: Once he passes on that option, that 'God bless you' is up for grabs.",
+      "quote": "All right, do you mind? I have the window!  Now, what are you gonna do about my Twix?",
       "characters": [
-        "Elaine",
-        "Wilhelm",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But now I have my own market research. Actual Japanese viewers, that love the show! I'm gonna talk to Kramer.",
-      "characters": [
+        "Jack",
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, it isn't!  it's not true. You're a wonderful, wonderful boy. Everybody likes you. It's impossible not to like you. Impossible. Morty?",
-      "characters": [
-        "Elaine",
-        "Helen",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Wha! You know, it's a pain to change that. You gotta lift up that plastic thing with a pen.",
-      "characters": [
-        "George",
-        "Milos",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh.. ah,  Oh, nothing - nothing.. No, I certainly don't have any stories, if that's what you're implying.",
-      "characters": [
-        "Elaine",
-        "Stationer",
         "George",
         "Kramer"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're really helping me out with this, buddy. Kids are gonna be so thrilled.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Believe me, we're not entertained. We were just leaving.  Oh, can you grab those empty bottles for me.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hold on... Elaine, there's a Jerry Seinfeld on the phone for you.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Yes, hi. Okay, fine, yeah, hold on just a second. Lemme just...  Yeah, I've got it...  Oh! Oh! Yeah, yeah, he'll be there.  Mr. Pitt, you have GOT to stop staring at that poster!",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm not his girlfriend. We dated for a while, but things didn't really work out.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 898,
+  "gameNumber": 899,
   "date": "2027-06-20",
   "questions": [
     {
-      "quote": "Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!…",
+      "quote": "\"Don't you know the difference between seltzer and salsa?? You have the seltezer after the salsa!\"",
       "characters": [
-        "Jodi",
-        "George",
+        "Kate",
+        "Jerry",
         "Elaine",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you see? George is in the bloodstream! You stay away from him, too!",
+      "characters": [
+        "George",
+        "Lanette",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, it's my ex-roommate, she moved out four years ago, I-I've been sub-letting my apartment from her.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Okay, so he just wants to talk to you. I couldn't talk him out of it. So you just tell him that you're my boyfriend and that we're in love, okay. Can you do that?",
+      "quote": "Ooh, I've got stump troubles. The Sanitation Department won't get rid of them all, I can't get a truck to haul this stuff until next week. Meanwhile, I'm sitting on a mountain of stumps.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So how about that guy wearing sweat pants? I mean did he do that for the part or does he walk around like that?",
-      "characters": [
-        "Frank",
-        "George",
-        "Melissa",
-        "Estelle"
-      ],
-      "correctAnswer": "Melissa"
-    },
-    {
-      "quote": "The one that sits atop my disproportunately puny body.. I'm a walking candy apple!",
-      "characters": [
         "Kramer",
         "Elaine",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That's a nice name. Todd Gack. Is that Dutch?  Oh baby. Here we go. Uh momma. Hey George hey.",
+      "quote": "It's the life force. I saw a show on the mollusk last night. Elaine, the mollusk travels from Alaska to Chile just for a shot at another mollusk. You think you're any better?",
       "characters": [
         "Kramer",
-        "Conrad",
-        "Jerry",
-        "Doctor"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, I was just thinking. The four of us can't show up with just one bottle of wine.",
-      "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know your eyeliner's smudged a little. Why do you wear so much eye makeup?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "My dad was a cook during the Korean War. Something very bad happened, ever since you can't get him near a kitchen.",
-      "characters": [
-        "George",
-        "Valerie",
-        "Elaine",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's the worst cockney accent I've ever heard in my life. Hey! Georgie boy , guess what I got.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
+        "Susan",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Has nothing to do with the weather, it's because of the Seinfelds.",
+      "quote": "Uh, good. You know, you might wanna try eating it with one of these.",
       "characters": [
-        "Frank",
+        "Kevin",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right, we're both big Mickey Mantle fans, and we love the name. It's very unusual.",
+      "characters": [
         "George",
         "Kramer",
-        "Jerry"
+        "Ken",
+        "Elaine"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Ken"
+    },
+    {
+      "quote": "Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the  pirate look!",
+      "characters": [
+        "Kramer",
+        "Julianna",
+        "Jerry",
+        "Deena"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I gave. I gave everything I could Mrs. Sokol. but nothing was good enough for her.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Beth"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry! The Japanese guys had sake in the hot-tub! You gotta get 'em outta the drawers and get 'em down here, or I don't have a focus group to sell the pilot to Japanese TV!",
+      "characters": [
+        "Noel",
+        "Jerry",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

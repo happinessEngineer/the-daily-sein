@@ -1,106 +1,106 @@
 {
-  "gameNumber": 725,
+  "gameNumber": 726,
   "date": "2026-12-29",
   "questions": [
     {
-      "quote": "So, he puts the couch down, and just as he's about to leave he says, \"Do you date moving men?\"",
+      "quote": "Yeah, yeah, like it's just part of the conversation. \"Oh my boyfriend really likes watches. He's a real watch freak.\" We-e-ell that's fabulous.",
       "characters": [
-        "Dana",
-        "Elaine",
+        "Susan",
+        "Jerry",
         "George",
-        "Maestro"
+        "Helen"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I didn't have an expression. I have a deviated septum. I have to open my mouth sometimes to breathe.",
+      "quote": "Oh, what about 'ladies night'? Women admitted free before 10?",
       "characters": [
-        "Kimbrough",
         "Jerry",
+        "George",
         "Kramer",
-        "George"
+        "Naomi"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Shut up or I'll snap you in half and stuff you in the overhead!",
+      "quote": "I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up.",
       "characters": [
-        "Leo",
-        "Estelle",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I'm sitting over there waiting for you to finish your sandwich for twenty minutes. Now you're drinking coffee, that's gonna be another ten minutes.",
+      "quote": "No appointments at all? Because my neck is still tight. What about Thursday? And Friday? Oh boy. Okay, thanks anyway.",
       "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, you didn't have to do this. I'm president of a big company. I can afford to buy you coffee.",
+      "characters": [
+        "Elaine",
+        "Frank",
         "Morty",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen, uh, I've still got a couple of hours to kill before the next show. My place is only a few blocks from here.",
-      "characters": [
-        "Gary",
-        "Heather",
-        "John",
         "George"
-      ],
-      "correctAnswer": "John"
-    },
-    {
-      "quote": "George, we have a problem. There's a memo, here, from accounting telling me there's no such thing as the Human Fund.",
-      "characters": [
-        "Kruger",
-        "Jackie",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kruger"
-    },
-    {
-      "quote": "Hi, Allison? Oh, I guess you're not at home.. I probably should 'ave tried you at the office. Anyway, good to hear from ya, really looking forward to the ball..  Ha ha!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Bania",
-        "Alton"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Please, sit down. Newman, um, I wanted to talk to you about something.",
-      "characters": [
-        "Elaine",
-        "Ellen",
-        "George",
-        "Craig"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. There's something wrong with that? I'm a character. People are always saying to me, \"You know you're a quite a character.\"",
+      "quote": "Jerry, I tell you; if this woman dies, it is going to be a major inconvenience.",
       "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Elaine"
+        "Driver",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, Dad, we're five blocks from the house. Sit sideways.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Anyway, I want you to pick up this big screen TV, and deliver it to her.",
+      "quote": "Two minutes. Believe me, I know his two minutes. By his conception of time, his life will last over two thousand years.",
       "characters": [
-        "Kramer",
-        "Beth",
         "Elaine",
-        "Frank"
+        "Woman",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He must have caught a glimpse of us when I poured that beer on his head.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What do you mean Wednesday? I though we had tickets to the Knick game Wednesday. We got seats behind the bench! What happened? We're not going?",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

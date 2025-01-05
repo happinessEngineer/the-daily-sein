@@ -1,106 +1,106 @@
 {
-  "gameNumber": 284,
+  "gameNumber": 285,
   "date": "2025-10-14",
   "questions": [
     {
-      "quote": "Don't even question my instincts, because my instincts are honed.  Look at that.",
+      "quote": "That's fine. If you just give me my duck money, I'll be on my way.",
       "characters": [
+        "Elaine",
+        "George",
         "Jerry",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Hey Elaine listen. If you smell anything decaying in the trunk of his car...",
+      "characters": [
+        "Michael",
+        "Jerry",
+        "Elaine",
+        "Bania"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Did you ever ask an ex-girlfriend to move into your building?",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's a little unnatural, but I think I'm getting the hang of it.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Relax man. There's enough juice here to keep us all fat and giggley.",
+      "characters": [
         "George",
         "Kramer",
-        "Morty"
+        "Frank",
+        "Alton"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "And people come in the store and you get involved in their lives.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Clerk",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, last night, I found a whole Weeble Village right behind the EZ Bake oven.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Lamar"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, no. Forget it. I don't want it. Let's just get rid of it.",
-      "characters": [
-        "Estelle",
-        "George",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, we watching the movie, or are we still talking?  Okay, c'mon. Let's go.",
+      "quote": "I'm at the health club and while I'm in the pool, some guy walks off with my glasses. Who steals prescription glasses?",
       "characters": [
         "Elaine",
-        "Kramer",
-        "George",
-        "Vandelay"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Y'know I remember when I was a kid growin up, kids would make fun of my name like you wouldn't believe-- \"Jerry Jerry Dingleberry\", and-hu \"Seinsmelled\"...",
-      "characters": [
-        "Jerry",
-        "Betsy",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So how'd it go with Kevin? Did you, steel-toe his ass back to Kentucky?",
-      "characters": [
         "Jerry",
         "George",
-        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "The plane's been re-routed *back* to Kennedy. We've got 45 minutes.",
+      "quote": "Hey, Kramer, what was it you were having faxed to my house every 30 seconds?",
       "characters": [
-        "Newman",
-        "Jerry",
         "George",
+        "Jerry",
+        "Rick",
         "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, well, maybe I'll mention it to Russell tomorrow night.",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I tried to tell you, but you wouldn't listen. No, ho, ho! You were gonna get a deal, huh? There's no laws in this place. Anything goes! It's Thunderdome!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Frank",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It's a trick I just learned from Kramer. It keeps a crease in the pants.",
+      "quote": "M-hm, I'll bet. So, are you going to introduce me to your 'nephew'?",
       "characters": [
-        "Alton",
+        "Rachel",
         "Jerry",
-        "Donna",
-        "George"
+        "Chiles",
+        "Joel"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Calm down Brett, okay. You could have a concussion. Calm down.  'Desperado, mmm-mm-mmm. You better...'",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Joel"
     }
   ]
 }

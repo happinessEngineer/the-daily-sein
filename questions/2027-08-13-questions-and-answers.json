@@ -1,104 +1,104 @@
 {
-  "gameNumber": 952,
+  "gameNumber": 953,
   "date": "2027-08-13",
   "questions": [
     {
-      "quote": "\"Don't you see what's happened, he couldn't talk , he's wearing these shoes, he's drooling.\"",
+      "quote": "Where's he dropping us? Maybe we can get him to drop us right at my house?",
       "characters": [
-        "Detective",
+        "Brett",
+        "Doctor",
         "George",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I still don't know what I'm supposed to do. I don't even know what my assignment is.",
+      "quote": "I'd like to say it once to someone that can actually hear it!",
       "characters": [
+        "Kramer",
+        "Jerry",
         "George",
-        "Newman",
-        "Elaine",
-        "Kramer"
+        "Lena"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I mean, it's killing me! Newman's got the jump on the invites, and will crush me if I try to go it alone!",
+      "quote": "What are you doing? All right, all right. What's the matter with that? What about that one?",
       "characters": [
-        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Katya",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about you, shmoopy? How 'bout a little tuna? You want a little tuna fishy?",
+      "characters": [
+        "Valerie",
+        "Kramer",
         "George",
-        "Estelle",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. They've been in there since, like, World War II. The rent's three hundred a month.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, here's your *albums* [Journey \"Escape\" is on top, BTW...]",
+      "characters": [
+        "Jerry",
+        "Valerie",
+        "Bania",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, right. C'mon, don't you think they seem a bit too perfect?",
+      "quote": "Somehow? You've had an hour and twenty minutes sleep in three days!",
       "characters": [
         "Kramer",
         "Jerry",
-        "David",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You got less than sixty seconds. That's like dismantling a time bomb. What got into you?",
+      "quote": "Alright, hobo Joe. I didn't wanna put a damper on your little Smorgasbord here, but it's the end of the week, so I added up your tab.",
       "characters": [
-        "Elaine",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Okay, well, like I said I was on 3rd Avenue, and I stopped by a large department store.",
-      "characters": [
-        "Danielle",
-        "Marcy",
+        "George",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Marcy"
-    },
-    {
-      "quote": "I'm ten minutes slow again! That's it for this piece of junk! I've had it.",
-      "characters": [
-        "Jerry",
-        "Betsy",
-        "Rachel",
-        "Kramer"
+        "Nancy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "See, I don't get that. First they come out with the regular, then a year later they come out with the cherry. They know that we like the cherry, start with cherry! Then come out with the regular!",
+      "quote": "Hey! Wait, wait, wait! Whoa! Give it to the girl. I'm an independent contractor. Tax purposes.",
       "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, what's another million, give or take. I get off where and when I wanna get off.",
-      "characters": [
-        "George",
         "Kramer",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Woman",
+        "Man"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Man"
     },
     {
-      "quote": "No, no. That's just the thing. Anna told me that Elaine said I was one of the worst seeds she'd ever seen.",
+      "quote": "Yes. From endorsing checks for the Super Terrific Happy Hour.",
       "characters": [
-        "Donald",
         "George",
         "Jerry",
-        "Kramer"
+        "Elaine",
+        "Silvio"
       ],
       "correctAnswer": "George"
     }

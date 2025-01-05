@@ -1,61 +1,71 @@
 {
-  "gameNumber": 176,
+  "gameNumber": 177,
   "date": "2025-06-28",
   "questions": [
     {
-      "quote": "Well, I didn't really tell Susan about it, and she doesn't really have anything else to do.",
+      "quote": "Well, what kind of a kiss? Was it a peck? Was it a kiss? Was it a long make out thing?",
+      "characters": [
+        "George",
+        "Sally",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's right...We just had sex......You know Jerry I've been searching for someone a long time. Well the search is over.",
       "characters": [
         "Jerry",
-        "Gillian",
-        "George",
-        "Newman"
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, Jerry, you have to. I need a buffer. You know, I haven't seen my father in a while and... you know...",
+      "quote": "No, not nervous. I'm good, very good.  I can't do this! Can't do this!",
       "characters": [
-        "George",
         "Jerry",
-        "Morty",
-        "Elaine"
+        "Steinbrenner",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm sorry, uh, it's not like I'm gonna see something I've never seen before.",
+      "quote": "Yeah, yeah, not fan talk, not gushing, you know? Actual conversation, I was incredibly articulate!",
       "characters": [
+        "George",
         "Elaine",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You never run out, do you?  Where's Kramer? Everything's finished here.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is-is that what I said 'no story'? Because Jerry had to tell me later.",
+      "characters": [
         "Frank",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So am I. What about my feelings? Don't my feelings count for anything? Oh, only the poor monkey's important. Everything has to be done for the monkey! Look, I'm sorry. I--",
-      "characters": [
-        "Kramer",
-        "Peterman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, you know, I gotta go to, uh, Susan's parent's house for dinner.. and, you know, I want to shower first.. and I want to leave myself plenty of time.",
-      "characters": [
-        "Woman",
+        "Abby",
         "Jerry",
-        "Jack",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, I eat healthy. If I have to take out an eye, that's the breaks.",
+      "quote": "Well, where is the guy?!... Nothing?! Almost half my money's gone... Well, call me right back.  Nobody can reach Wilkinson. He hasn't been home or in his office in the past three days!",
       "characters": [
-        "Kramer",
+        "Jake",
         "Elaine",
         "George",
         "Jerry"
@@ -63,44 +73,34 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "40? I'm payin' 60 to my maid. She doesn't do laundry and I'm gettin' nothin'. All right. Once she pinched my ass, but I don't know what that was.",
+      "quote": "No, no. I have to be very careful here. I don't want to send the wrong message. Especially after the other night.",
       "characters": [
-        "Stan",
-        "Elaine",
         "Jerry",
+        "Craig",
+        "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're close, you're on the green. You just have to go for the cup.",
+      "characters": [
+        "Frank",
+        "George",
+        "Newman",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "That's exquisite. Listen, uh, if it's not too much trouble, could you pass me that paper over there?",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "He never even called Ed Roydlick. They were looking for someone!",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Lookit. He knew I was gonna use the machine next, he didn't wipe his sweat off. That's a gesture of intimacy.",
-      "characters": [
-        "Gennice",
-        "Steinbrenner",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah that's it. All right, I'm going to go down to the precinct. I'm going to have lunch with Lou.",
-      "characters": [
-        "Elaine",
-        "David",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
     }
   ]
 }

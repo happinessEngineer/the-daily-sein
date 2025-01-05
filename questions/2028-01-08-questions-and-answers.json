@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1100,
+  "gameNumber": 1101,
   "date": "2028-01-08",
   "questions": [
     {
-      "quote": "Um, well, he's got a lot of character in his face. Um, he's short. Um, he's stocky.",
-      "characters": [
-        "Kramer",
-        "Donna",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Wait wait, hold it, hold it. Look who's over there. Don't look, don't look! It's Fred Savage.",
+      "quote": "Did you see the homeless guy on the library steps screaming obsenities and doing some calesthetics routine",
       "characters": [
         "George",
         "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'll tell you what. Why don't we just get a couple of dishes and we'll just share 'em.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Susan"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So, I don't want people coming into my kitchen. I think she might have sneezed all over someone's pasta primavera. Someone might have gotten sick because of her.",
+      "quote": "A big long scar where her leg would dangle when she's riding a...?",
       "characters": [
-        "Gail",
-        "Kramer",
+        "Susan",
         "Jerry",
-        "Bania"
-      ],
-      "correctAnswer": "Gail"
-    },
-    {
-      "quote": "Let me ask you something. Could you tell if teeth marks on someone's arm matched teeth marks on a pencil?",
-      "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He split.  Let me ask you something.  Is there anything to drink in here or is that, like, a stupid question?",
-      "characters": [
-        "Steve",
-        "Jerry",
-        "Joe",
-        "George"
-      ],
-      "correctAnswer": "Steve"
-    },
-    {
-      "quote": "He's got like a chemical imbalance. He needs to be on medication.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Cheryl",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "If you wanna live in a butcher shop, I'm gonna treat you like a piece of meat.",
+      "quote": "Look, Jerry, I'm sorry, I'm uh- you have insurance, right buddy?",
       "characters": [
+        "Tony",
+        "Morty",
         "Jerry",
-        "Izzy",
-        "George",
         "Kramer"
       ],
-      "correctAnswer": "Izzy"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's too late. We bought a condo at Del Boca Vista. We're leaving tonight.",
+      "quote": "Who, who, who do you think would win in a fight between me and ah, gorgeous George here.",
       "characters": [
-        "Alec",
-        "Frank",
+        "Elaine",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Joe Mayo doesn't like my taste in music. He's not gettin' a gift from me.",
+      "characters": [
         "George",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This hat just bottles in the heat, I -I don't even need a coat! It's unbelievable!",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "\"Well this afternoon I shared a cab with this...a hum..DEENSFREI:.\"",
+      "quote": "All right, how about the next time your car breaks down, you take *that* out of town.",
+      "characters": [
+        "Jerry",
+        "David",
+        "Newman",
+        "Lippman"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "What the hell he's supposed to be on medication I don't understand he told me he's getting medication what happened to his medication!?",
       "characters": [
         "Kramer",
-        "Jerry",
-        "George",
-        "Jack"
+        "Elaine",
+        "Pam",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, where are those invitations you were supposed to get? If they don't go out today they're useless.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "George",
+        "Lanette"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "You know I was supposed to see this five years ago. I was in a Chinese restaurant with George and Elaine and got all screwed up trying to get a table and I missed it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

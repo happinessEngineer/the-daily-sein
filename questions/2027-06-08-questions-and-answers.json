@@ -1,106 +1,106 @@
 {
-  "gameNumber": 886,
+  "gameNumber": 887,
   "date": "2027-06-08",
   "questions": [
     {
-      "quote": "So, I guess you don't find the separate faucets for the hot and cold, charming?",
+      "quote": "Get a money order from the Bank of China , be here three days after they get check.",
       "characters": [
         "George",
-        "Stu",
-        "Darryl",
-        "Jerry"
+        "Ping",
+        "Kramer",
+        "Susan"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Ping"
     },
     {
-      "quote": "That's David Letterman. I just saw David Letterman walk by. I'll be right back.",
+      "quote": "It doesn't matter, it doesn't matter, it doesn't matter. Um. Oh, here's one: race.",
       "characters": [
-        "George",
-        "Kramer",
+        "Newman",
+        "Joyce",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's not a Nazi. He just happens to be a little eccentric. Most geniuses are.",
+      "quote": "I can't believe what's happening here.  She hasn't taken her hands off me all night.  She was always friendly around the office, but that was it.",
       "characters": [
-        "Woman",
-        "Kramer",
-        "Poppie",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I didn't have any quarters for the dryer. Anyway this is better. And it's more convenient.",
-      "characters": [
-        "Elaine",
-        "Jerry",
+        "Bania",
         "George",
+        "Elaine",
         "Kramer"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know how you can unwind with that clock ticking. It makes me anxious.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm black.  Oh, you know what? Bring a little cream.  Did you hear that?",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "Simon",
+        "George"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Cause I know what happened, Jerry.  Did you call Alec Berg and thank him for the hockey tickets?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, well, I guess the only thing I can do is go into George Steinbrenner's office and tell him he has to give her a raise.",
+      "quote": "You don't think you can buy the ticket yourself...? No, there, there...you sit, and I'll purchase the ticket for you.",
       "characters": [
-        "Jimmy",
-        "George",
-        "Elaine",
-        "Jerry"
+        "Beth",
+        "Rick",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I transferred everything in there. I threw out my old book. I'm lost now, Kramer.",
+      "quote": "They're naked, the gardeners naked.. the bellhops.  One big nude-a-rama.",
+      "characters": [
+        "George",
+        "Billy",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, right, that's something I do all the time, right. I make up stories to get ahead in lines at bakeries.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Newman",
+        "Kramer",
+        "Lloyd",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, Rita come here. This is Jerry. He's the one who got me the apartment.",
+      "quote": "Oh! Hi!  I'm Donna Chang.  I just spoke to your mother before.",
       "characters": [
-        "Elaine",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, the female body is a... work of art. The male body is utilitarian, it's for gettin' around, like a jeep.",
-      "characters": [
-        "Elaine",
-        "Russell",
+        "Milos",
+        "Man",
         "Jerry",
-        "George"
+        "Donna"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yep.. yep. Um, he's promoting a  benefit for Goodwill, you know, they, uh, they clothe the  poor, and the homeless..",
-      "characters": [
-        "Jerry",
-        "Jackie",
-        "Elaine",
-        "Noel"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No Elaine he's normal. Your boyfriend is a normal guy. He just happens to have the same name as one of the worst serial killers in the history of New-York.",
-      "characters": [
-        "Jerry",
-        "Marcy",
-        "George",
-        "Tony"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Donna"
     }
   ]
 }

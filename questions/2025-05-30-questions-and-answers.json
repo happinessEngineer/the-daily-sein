@@ -1,106 +1,106 @@
 {
-  "gameNumber": 147,
+  "gameNumber": 148,
   "date": "2025-05-30",
   "questions": [
     {
-      "quote": "Really? What is Bette Midler playing? Is she going to be there?",
+      "quote": "And you're still dating him? I tell you who sounds a little desperado.",
       "characters": [
-        "George",
         "Elaine",
         "Jerry",
+        "George",
         "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'cos the other night , you know, I was sleeping with Marion I rolled over and I cut her ankle with my big toe.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That little Bastard! He saw the lifts in my shoes. He knows I'm heightening.  This never would have happened if you hadn't pushed me to get those things. I told you.",
+      "quote": "Yeah. I really liked those glasses he was wearing. Where'd he get those.",
       "characters": [
-        "Karen",
-        "Elaine",
-        "Mickey",
-        "George"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "Yes, yes, we do need documentation or you know, people could take advantage.",
-      "characters": [
-        "George",
-        "Elaine",
         "Kramer",
-        "Clerk"
+        "Jerry",
+        "Mickey",
+        "Elaine"
       ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah well Jerome, I, happen to be flying him in on my frequent flyer miles.",
+      "quote": "Oh, you really missed something. And I have to say...it was pretty much all my fault.  So, how's the book coming?  I say, how's the book comin'?",
+      "characters": [
+        "Marla",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It has been three days since our night together. Misha said that was all the time I needed to put in.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Katya",
+        "George"
+      ],
+      "correctAnswer": "Katya"
+    },
+    {
+      "quote": "The way they make 'em these days, I'll never have to tell her.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was just gonna be a weekend, but then somehow it became a week.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Steinbrenner",
-        "George"
+        "Salesman",
+        "Toby",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, yeah, she'll be here. . . . Oh no, my frankfurter, my frankfurter fell  . It was really good. I can't believe that I dropped it.",
+      "quote": "I'm glad you feel that way. Because since my father's breakdown I uh, become very sensitive to the warning signs.",
       "characters": [
-        "Gennice",
-        "Rachel",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Gennice"
-    },
-    {
-      "quote": "If it's all the same to you, I think I'm just gonna go to bed.",
-      "characters": [
-        "Christie",
-        "Lanette",
-        "Maryedith",
-        "Kramer"
-      ],
-      "correctAnswer": "Christie"
-    },
-    {
-      "quote": "Cosmo, go. No, no, na, na.  Boy this new telephone number's driving me crazy -- wrong numbers, every five minutes.",
-      "characters": [
-        "Frank",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm gonna go see if there are any girls on the beach. Elaine, you wanna come?",
-      "characters": [
-        "Elaine",
+        "Deena",
         "George",
         "Jerry",
         "Kramer"
       ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "No, it's uh, not that see,. It's about a little boy in a hospital. I was wondering if you could do something to lift his spirits.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Estelle",
+        "Elaine"
+      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I was only joking.  He thinks I'm gonna give you Mrs. Hudwalker's things.",
+      "quote": "Tuesday has no feel. Monday has a feel, Friday has a feel, Sunday has a feel....",
       "characters": [
-        "Harold",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Harold"
-    },
-    {
-      "quote": "All right then. See? You won't know what you're missing. I've flown first class, Elaine-- I can't go back to coach. I can't... I won't...",
-      "characters": [
-        "Jerry",
+        "Newman",
         "George",
-        "Kramer",
-        "Lippman"
+        "Morty",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Newman"
     }
   ]
 }

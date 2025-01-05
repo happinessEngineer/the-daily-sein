@@ -1,104 +1,104 @@
 {
-  "gameNumber": 434,
+  "gameNumber": 435,
   "date": "2026-03-13",
   "questions": [
     {
-      "quote": "Why?  I told you, away from the curtains. Away.  Use your bucket.  There you go, that's it.  You know what? I gotta go.",
+      "quote": "I could've! I mean, last week we waited for that friend of Kramer's for like, forty minutes.",
       "characters": [
-        "Elaine",
-        "Newman",
         "Jerry",
-        "George"
+        "Owner",
+        "Elaine",
+        "Lippman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What d'you think? I've never ridden in a Cadillac before? Believe me, I've ridden in a Cadillac hundreds of times. Thousands.",
+      "quote": "Oh, I said something about dentists and it got blown all out of proportion.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "Jack"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "I wouldn't believe the Lumbar Yard wouldn't pick this up. Ug, oh, okay, . . .",
-      "characters": [
+        "Gary",
         "George",
-        "Elaine",
-        "Jerry",
-        "Frank"
+        "Mike",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "And now, uh, ladies and gentlemen of the press, it is my pleasure to introduce you to Mr Jake Jarmel.",
+      "quote": "Watch how it's done. Oh, hello, Mr. Vandelay? Would you like to buy a computer? Oh, really? Two dozen?",
       "characters": [
-        "Lippman",
-        "Kevin",
-        "Estelle",
-        "Elaine"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "I'm going to miss 60 Minutes. You know, I hate to miss 60 Minutes. It's part of my Sunday weekend wind-down.",
-      "characters": [
-        "Jack",
+        "Kramer",
         "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George! She said George? She remembered my name.  Diane DeConn remembered my name. She was the \"it\" girl!",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, said he was waiting about two hours. Seemed a little put out.",
+      "quote": "She likes the pop-in. I've told her how I hate the pop-in.  He likes the pop-in, too.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Frank",
-        "Wendy"
+        "Newman",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know what kind of a person would do something like that. Obviously a very sick person. A very immature person. A person who has no regard for wasting other people's valuable time. Good-bye.",
+      "quote": "Who so belongs only to his age, references only popenjays and mumbo jumbos",
       "characters": [
-        "Kramer",
-        "George",
-        "Harold",
-        "Doctor"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "Answering machine.  Oh, I hate the idea of somebody out there returning my calls.",
-      "characters": [
-        "Jerry",
-        "Elaine",
+        "Patrice",
+        "Katie",
         "Kramer",
         "George"
       ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Hi. Ah look, I know I don't have an appointment but it's really important that I talk with Julianna.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Frank"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "The whole apartment. And I'm buying that fake wood wallpaper. I'm gonna surround myself in wood. It's gonna be like a log cabin. 'Cuz I *need* wood around me. Wood, Jerry [Snaps fingers]... Wood.",
+      "quote": "Lately, though, I've been, uh, - I've been buying the generic brand of waxed beans. You know, I rip of the label… I can hardly tell the difference.",
+      "characters": [
+        "Sara",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, no, no. Give it to her. I'd rather it belonged to another than see it destroyed. Newman, give it to her, I beg you.",
       "characters": [
         "Kramer",
-        "George",
+        "Elaine",
+        "Stationer",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's either that or we stay here, near you, and just sit on the money. What do you think we should do, Georgie?",
+      "characters": [
+        "Ray",
         "Jerry",
+        "Estelle",
         "Woman"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, I have to say I'm very surprised and disappointed - blood brother.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     }

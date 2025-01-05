@@ -1,106 +1,106 @@
 {
-  "gameNumber": 623,
+  "gameNumber": 624,
   "date": "2026-09-18",
   "questions": [
     {
-      "quote": "Oh. Let me ask you, when someone is lying, is it true that their pants are actually on fire?",
+      "quote": "Jerry, she gives massages all day. She doesn't wanna to give them on dates.",
       "characters": [
-        "Kramer",
+        "Maryedith",
+        "Alec",
         "Jerry",
-        "Clerk",
-        "George"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well , as I said this type of thing is very common in show business",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Celia",
+        "Ed"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, no no it's not about postponing. I just think the first day of Spring is the perfect day to get married. You know, Spring! Rejuvenation! Rebirth! Everything is blooming all the …",
+      "quote": "He said, 'Who's the moron in the blue jacket who's got the street all screwed up?'",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh man, if I don't get that black paint off the City's gonna go ape. I don't wanna lose my baby!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So listen, I gotta go down to Atlantic City. I'm performing at Bally's.",
       "characters": [
         "Jerry",
-        "Morty",
+        "Elaine",
         "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Absolutely. You're telling me there's no room to move on pasta. All starches are a scam.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lloyd",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Let me ask you this. If you stick your hand in the hair is it easy to get it out?",
+      "quote": "No, he doesn't know. See, I hid it without tellin' him. So, uh,  Phil won't be compulsively looking for it like some people... You!",
       "characters": [
-        "Peterman",
-        "Earl",
-        "Joel",
-        "George"
+        "Jerry",
+        "Marcy",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, you're getting to be an annoying little chore yourself.",
+      "quote": "Well I guess if I?m the Miana I should go. All right, all right.",
       "characters": [
-        "Levitan",
-        "Morgan",
         "Jerry",
-        "Lippman"
+        "Elaine",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, funerals always make me think about my own mortality and how I'm actually gonna die someday. Me, dead. Imagine that.",
+      "quote": "But I can't help thinking that maybe there's someone in your life who deserves it more. Someone you've known, you know, more than a week.",
       "characters": [
-        "Elaine",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Can I have one? I need one of those old-looking phones. So you wanna grab a bite?",
-      "characters": [
-        "Jackie",
-        "Jerry",
-        "Kramer",
-        "Ned"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You have some kind of problem here? What is it you not understanding? We taking the armoire and that's all there is to it. Okay?",
-      "characters": [
+        "Helen",
         "Elaine",
-        "George",
-        "Bob",
-        "Jerry"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "Okay, well that's all the time we have for today. Why don't we pick up with this next week?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, hi. Mister Costanza, we were trying to get in touch with you. Wendy can't make her appointment.",
-      "characters": [
-        "Jerry",
-        "Sophie",
-        "Woman",
-        "Receptionist"
-      ],
-      "correctAnswer": "Receptionist"
-    },
-    {
-      "quote": "Aah, top of the fridge. Hey George, I'm taking that waitress to the Tony's.",
-      "characters": [
-        "Stu",
-        "Woman",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, would you hold still? I can't do this if you keep moving.",
+      "characters": [
+        "Nina",
+        "George",
+        "Estelle",
+        "Rebecca"
+      ],
+      "correctAnswer": "Nina"
     }
   ]
 }

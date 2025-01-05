@@ -1,104 +1,104 @@
 {
-  "gameNumber": 18,
+  "gameNumber": 19,
   "date": "2025-01-21",
   "questions": [
     {
-      "quote": "I'm not goin' there. Didn't he get busted by the Board of Health?",
+      "quote": "Ah, soup and a sandwich for a brand-new Armani suit. Is that any kind of gesture?",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Cheryl",
-        "Attendant"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know at the movies, they show that little ad for the concession stand?",
-      "characters": [
-        "Elaine",
+        "Bania",
         "George",
         "Jerry",
         "Frank"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Bania"
     },
     {
-      "quote": "Ohhh. another interesting confrontation. This could be spicy. Yeah, George bring him over.",
+      "quote": "All right, I'm gonna find a guy with a truck. GLC must live on!",
       "characters": [
+        "Kramer",
+        "Kimbrough",
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "Bookman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No he's not right. Al Netchie is not right! Alright I'm canceling the father-son picnic. I don't know what he's gonna do with all that potato salad.",
-      "characters": [
-        "Kramer",
-        "Steinbrenner",
-        "George",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Don't you think that's coming on a little too strong? .. Isn't that like a turn off?",
+      "quote": "Now, because of that stupid rye bread, I gotta keep them all separated for the rest of my life.",
       "characters": [
         "Elaine",
         "George",
         "Kramer",
-        "Jerry"
+        "Hoyt"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hey keep your hands to yourself if you know what's good for you.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Brett",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes he can. He controls the means of production. What are you going to do Jerry?",
+      "quote": "Hey, did you know that the Yankees don't wear cotton jerseys?",
       "characters": [
         "George",
         "Elaine",
-        "Lois",
-        "Rita"
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Lois"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No! You couldn't wait to get back to your little... \"conversation\".",
+      "quote": "What are you talkin' about? It's fine, I love having you here.",
       "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Elaine"
+        "Ray",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. No awkward pauses. Probably the reason we never fooled around..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Detective",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, my. Well, the doorman certainly has a wild imagination, doesn't he?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Poppie",
+        "Russell"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Course you know there is always the possibility, that she called an audible.",
+      "quote": "The guy slept with Marilyn Monroe, he's in Dinky Donuts. What about this doctor's note? Let's go see your friend Roy.",
       "characters": [
-        "Jerry",
-        "Regis",
-        "Stu",
-        "Kramer"
+        "Kramer",
+        "George",
+        "Elaine",
+        "Salesman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So three dates and she still won't let me play with her toys.",
+      "quote": "Oh, I see how it works now.  He knocks me outta commission, so  you can strut around in your fancy number one shirt.  Well, I'll show you who's number one.",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Morty"
+        "Morty",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "You know what, maybe Elaine wants to go too, lemme call her.  She's at Mr. Pitt's, I think I got the number...",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 375,
+  "gameNumber": 376,
   "date": "2026-01-13",
   "questions": [
     {
-      "quote": "I gust met Uma Therman. She's giving me her telephone number. Uma Jerry, Uma.",
+      "quote": "Lady, I'm not his wife, I'm his welfare caseworker. Is he home?",
       "characters": [
-        "Kramer",
-        "Leo",
-        "Jerry",
-        "Eddie"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!",
-      "characters": [
+        "Woman",
         "George",
-        "Jerry",
-        "Betsy",
-        "Pam"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, but don't you think there should be two beds?  There's two of us.",
-      "characters": [
-        "Chiles",
-        "Elaine",
-        "Wendy",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "Don't Frank me! I know what you did. How dare you stop short with my wife!",
+      "quote": "Alright, uh, take it down to the end of the block. Make a controlled turn, and bring her back. Let's see what you've got! Ok? Ready, and go!",
       "characters": [
-        "Frank",
-        "Elaine",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Yes, yes, you know I was in detention and she came up behind me while I was erasing the blackboard . . .",
-      "characters": [
-        "George",
-        "Mike",
-        "Kramer",
+        "Wyck",
+        "Jerry",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Oh, I love full lips. Something you can really put the lipstick on.",
+      "quote": "All right, but we're not buyin' it at Bloomingdale's. I will buy it, you pay me back later. I'll sniff out a deal. I have a sixth sense.",
       "characters": [
-        "Bania",
-        "Kramer",
+        "George",
         "Jerry",
-        "George"
+        "Susan",
+        "Mickey"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh, we don't allow any outside syrups, jams or condiments in the restaurant.  And if I catch you in here with that again...I will confiscate it.",
+      "quote": "Excuse me, um, did you see a piece of paper on the nightstand here earlier today crumpled up like a napkin?",
       "characters": [
+        "George",
+        "Ellen",
         "Jerry",
-        "Elaine",
-        "George",
-        "Owner"
-      ],
-      "correctAnswer": "Owner"
-    },
-    {
-      "quote": "All right. Let's go down to the yogurt store, and we'll get a specimen.",
-      "characters": [
-        "George",
-        "Marty",
-        "Kramer",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.",
+      "quote": "Unfortunately, I am also disgusted. This is incoherent drivel! This is a total redo. And I'm assuming I need it right away.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "A cane. I knew it.  So, we meet at last. I admire your skills, Mr Peanut.",
-      "characters": [
-        "Ray",
+        "Peterman",
         "George",
         "Jerry",
         "Elaine"
       ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "If I was a woman I'd be down at the dock waiting for the fleet to come in.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. All right. Let's not get into panic mode! Let's not make a big deal outta this thing or we're never gonna get through this night.",
+      "characters": [
+        "Estelle",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Your Honor. I most strenuously and vigorously object to this witness. She was not present at the time of the incident. Her testimony is irrelevant, irrational, and inconsequential.",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "Hey, Elaine, have you noticed your boyfriend has developed an annoying little habit?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Leo",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I don't think I've ever seen a man driving a Saab convertible. Still haven't.",
+      "characters": [
+        "George",
+        "Lamar",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Lamar"
     }
   ]
 }

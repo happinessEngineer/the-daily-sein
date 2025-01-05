@@ -1,104 +1,104 @@
 {
-  "gameNumber": 941,
+  "gameNumber": 942,
   "date": "2027-08-02",
   "questions": [
     {
-      "quote": "Yeah Yeah I split a case with Newman..I waited all year for this.. Oooh this is fantastic.. Makes your taste buds come alive....It's like having a circus in your mouth.....Take a taste",
-      "characters": [
-        "Helena",
-        "Kramer",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city.",
+      "quote": "And you broke up with her 'cuz she beat you at chess? That's pretty sick.",
       "characters": [
         "Jerry",
         "Elaine",
-        "George",
-        "Susan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes! All right, Lamar, back it up a little bit so we can get out now.",
-      "characters": [
         "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "…So that's the bedroom. Here's the bathroom. If you need to, you can familiarize yourself with the kitchen…Yeah, go ahead and look through some of the drawers.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'll tell you, the sex... I mean, I was like an animal. I mean it was just completely uninhibited.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Gennice",
-        "Donald"
+        "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I never assisted in a birth before. It's really quite disgusting.",
+      "quote": "Well, I don't need to do it. It's not like a habit or anything.",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Puddy",
+        "George",
         "Jerry",
-        "George"
+        "Duncan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Puddy"
     },
     {
-      "quote": "Like in the middle of our fight last night he did this thing that he always does where he asks questions to himself, aloud. And then answers them.",
+      "quote": "Being president of the condo is not easy. It requires hard work, dedication, and commitment, and unfortunately he possesses none of these qualities.",
       "characters": [
+        "Jack",
+        "George",
         "Jerry",
-        "James",
-        "Dan",
-        "Beth"
+        "Tim"
       ],
-      "correctAnswer": "Beth"
+      "correctAnswer": "Jack"
     },
     {
-      "quote": "Well, this time, this time you're wrong. C'mon. I'll even bet you.",
+      "quote": "Look, George, just think about it. You know, you're married, how would you feel if somebody says to you that they just had se...",
       "characters": [
+        "George",
+        "Jerry",
         "Kramer",
-        "Leo",
-        "Wilhelm",
-        "Jerry"
+        "Rita"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, how do you know for sure? Look, why don't you do me a favor. Why don't you go in the back and find out, okay?  Unbelievable.",
+      "quote": "It's break up by association. Besides, she's mad at me anyway because of my birthday present.",
       "characters": [
-        "Daphne",
-        "Kramer",
+        "George",
         "Jerry",
-        "Joel"
+        "Mickey",
+        "Helen"
       ],
-      "correctAnswer": "Joel"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Right, we'll John Mollika is organizing some kind of intervention for him. We're having it here.",
+      "quote": "Oh there's a guy trying to get in front of me, he has to ask permission. Yes. Go ahead. Get in, get in.",
       "characters": [
         "Jerry",
         "Elaine",
         "Kramer",
         "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, how you doing Stu? Eddie, my man. You again? Boy, you're a slippery one. You'd better straighten up and fly right buddy boy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So you're saying, his girl, his car, his clothes, it's all up for grabs. You can just loot the coma victim.",
+      "characters": [
+        "Kramer",
+        "Donald",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, right, right, right, right, right, right, right, the hit and run. Well. Actually, the guy went into Queens.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Guy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe it just wanted to change positions? You know, shift to the other side.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Bookman"
       ],
       "correctAnswer": "Jerry"
     }

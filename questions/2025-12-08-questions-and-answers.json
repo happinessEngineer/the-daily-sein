@@ -1,106 +1,106 @@
 {
-  "gameNumber": 339,
+  "gameNumber": 340,
   "date": "2025-12-08",
   "questions": [
     {
-      "quote": "H... G... F.  Seat four.  One, two, three... f-- Hello Newman.",
+      "quote": "You look like you're in better shape than Neil. Do you work out?",
       "characters": [
-        "Morty",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's like when tenant dies in a rent controlled building - you gotta take immediate action.",
-      "characters": [
+        "Danielle",
         "Jerry",
         "George",
+        "Todd"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "No, that's my only suit. It cost me 350 dollars. I got it at Moe Ginsburg.",
+      "characters": [
         "Elaine",
-        "Newman"
+        "Jerry",
+        "Phil",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what, let's go to that mall in Liberal before we go to the party. We'll have to take your car, it's got the most room.",
+      "characters": [
+        "Manager",
+        "Bania",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey you know a friend of mine from work said that she saw George at the tennis match on TV yesterday.",
+      "quote": "People don't say \" God bless you \" as much as they used to. Have you noticed that?",
       "characters": [
-        "Elaine",
-        "Lloyd",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, hang onto that thought - I'm rinsing a sweater, I left the water running.  Hey, Jerry, can you get me a towel out of my bedroom closet?",
+      "quote": "What are you gonna do? Badger a pregnant woman at her own baby shower?! What are you, gonna take it off and make her rinse it in club soda?",
       "characters": [
-        "George",
-        "Leo",
         "Elaine",
-        "Lena"
+        "Newman",
+        "Helena",
+        "Jerry"
       ],
-      "correctAnswer": "Lena"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I mean they found a tee and he played golf that day. Nobody walks into a dry cleaner's with a tee. The circumstantial evidence is overwhelming.",
+      "quote": "So, what am I looking at here? Twenty-nine hours to go. Well, at least I got plenty of time to find out the name of that perfume...",
       "characters": [
-        "Margaret",
         "George",
-        "Jerry",
-        "Kramer"
+        "Elaine",
+        "Detective",
+        "Jerry"
       ],
-      "correctAnswer": "Margaret"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "25 kids for his birthday party?  Don't put your tongue on the floor! He's putting his tongue on the floor! Here, here, have some more sugar packets.",
+      "quote": "Or I could sleep in the park? You could knock these walls down, make it an eight room luxury suite.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Poppie",
+        "Fdr"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, you said the one in the second courtyard. He was in the second courtyard.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Newman",
+        "Wendy"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to punish you!",
       "characters": [
         "George",
-        "Puddy",
-        "Jerry",
-        "Elaine"
+        "Elaine",
+        "Dana",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh yeah. These are fantastic, fantastic.  You know, I'd love to get a jump on the next batch, where do you come out?   She's been ignoring this section all night. Quesadilla?",
+      "quote": "Well you know what happens with larvae hatch, they-they're everywhere.",
       "characters": [
+        "Elaine",
+        "Sidra",
         "Kramer",
-        "Jerry",
-        "Marcy",
         "George"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "Frolf, frisbee golf Jerry. Golf with a frisbee. This is gonna be my time. Time to taste the fruits and let the juices drip down my chin. I proclaim this: The Summer of George!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": ". He's good. He's *very* good. He worked on this kid from Guatemala with no nose. Turned him into Ricardo Montalban.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Guard",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I just wanted to drop off this Chinese balm for your burns. It's supposed to be great stuff. It's all herbal.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Maestro"
-      ],
-      "correctAnswer": "Maestro"
     }
   ]
 }

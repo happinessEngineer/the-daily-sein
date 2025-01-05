@@ -1,106 +1,106 @@
 {
-  "gameNumber": 488,
+  "gameNumber": 489,
   "date": "2026-05-06",
   "questions": [
     {
-      "quote": "All right. I'm gonna try givin' them fifty-five dollars each...  What do you think?",
+      "quote": "No, cab's comin' in right here  Set of plastic hips, prosthetic legs, and a monkey to answer the door, I'm back in business.",
       "characters": [
         "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "...so I called the litterbug a pig, not you. I like policeman. I wanted to be a policeman.",
-      "characters": [
-        "Elaine",
         "Kramer",
-        "Woman",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You understand the Santa's at Bloomfields are making double what you are?",
-      "characters": [
-        "Ned",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Ned"
-    },
-    {
-      "quote": "You see I disagree. I'd rather be dating the blind. You know you could let the house go. You could let yourself go. A good looking blind woman doesn't even know you're not good enough for her.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Friends. Yeah! Why not friends? I might like to try that! Like you an' Jerry!",
-      "characters": [
-        "Kevin",
-        "Jerry",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Kevin"
-    },
-    {
-      "quote": "It's raining? It's raining. The game will be postponed. We'll play tomorrow.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Milos",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're an errand girl, sent by grocery clerks, to collect a bill.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Pretty impressive--\"Serious boyfriend '92 to '95.\" Owns her own car.. \"Favorite president: James Polk!\"",
-      "characters": [
-        "George",
-        "Jerry",
-        "Babu",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, check it out. I guarantee you've never seen anything quite so objectionable. It's down the hall, third door on your left.",
+      "quote": "Oh, that's Sergeant Tierney. Nice officer. You want to meet her?",
       "characters": [
-        "George",
-        "Peterman",
+        "Woman",
+        "Keith",
         "Jerry",
-        "Amy"
+        "Lou"
+      ],
+      "correctAnswer": "Lou"
+    },
+    {
+      "quote": "Really? What's it like? Is it nicer than mine? Where does he have the couch?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Lanette",
+        "Landis"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yesterday, took the day off.  Now, from the time I left the room...",
+      "quote": "I hate asking for change. They always make a face. Like I'm asking them to donate a kidney.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[quickly whispering] I resent that you said that! That's directed at *me*, isn't it?!",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I'll tell you, but your begging needs a lot of work.",
       "characters": [
         "Kramer",
         "Elaine",
-        "George",
+        "Newman",
         "Jerry"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nice shirt..  What is this? Is this what you wore on the show?",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Kate",
+        "George"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Oh, uh, yeah. Uh, here are your pliers back....Weak hinge.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You think I don't know huh? Mangos, plantains, plums with the red on the inside, that's Kramer!",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "No, I'm sorry. I'm just a little curious. I mean why did you stop seeing him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 735,
+  "gameNumber": 736,
   "date": "2027-01-08",
   "questions": [
     {
-      "quote": "I can't. I denounced them. Maybe I'll go raid Peterman's fridge. He's always got a truffle or something in there.",
+      "quote": "So I told Ipswitch I'd have the hat by this afternoon. What am I gonna do?",
       "characters": [
+        "George",
+        "Elaine",
         "Jerry",
-        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Um, actually, I met him in Switzerland, and he was fighting uh, is that the word they use? Fighting? Because they don't really fight the bull, they avoid fighting the bull.",
+      "characters": [
+        "Peterman",
+        "Newman",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Hey Jerry, listen to this. I discovered something even better than conjugal visit sex. Fugitive sex! Now, it's like everytime -",
+      "quote": "Oh yeah, I put all your zees on the weights and measures page.",
       "characters": [
-        "Testikov",
-        "Simon",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, Jerry--that's thirty-seven points! The Knicks covered! You won! See, that's a cooool-G, Daddy-O--now you gotta let it riiiide!",
-      "characters": [
+        "Katie",
         "Kramer",
-        "George",
-        "Elaine",
-        "Frank"
+        "Bania"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I didn't get the special, but I'd also like the fresh fruit too.",
+      "quote": "Hey! This is the kind of room Sinatra stays in. Hey! look , Macadamian nuts.",
       "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Wendy"
+        "Cop",
+        "Mickey",
+        "Morty",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "I'm sorry, I didn't know you had company. I just wanted to return your tape.",
+      "quote": "I'm homeless! I'm gonna be out on a street corner, dancing for nickels. I'll be with the hobos in the trainyard, eating out of a bucket.",
       "characters": [
         "George",
-        "Regis",
+        "Jerry",
+        "Doctor",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I know Teddy Padillac. I worked with him on Forty-eighth and Sixth.",
+      "characters": [
+        "John",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wha...? Oh, man! Geez! Look at that! I'm all lathery. Jerry, you got to show me what I'm doing wrong.",
+      "characters": [
+        "Sid",
+        "Newman",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And the two and one pitch to O'Neill. A towering shot back to deep right field and it's gone.",
-      "characters": [
-        "Jerry",
-        "Daphne",
-        "Kramer",
-        "Tv"
-      ],
-      "correctAnswer": "Tv"
-    },
-    {
-      "quote": "Well you black out lane-lines one and three, and a four-lane highway becomes a two-lane comfort cruise.  So, you got any black paint?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, I tasted it at the one downtown. It's got a remarkable texture. You'd never know it was non-fat.",
+      "quote": "She wants to be an actress...or a, uh, model...or a dancer...or a...news woman.",
       "characters": [
+        "Attendant",
         "George",
-        "Kramer",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Listen uh, you want some leftovers? I made some African food. There's, yambalas and uh, sambusa.",
+      "quote": "A full house? You got a full house? Turn 'em over George, I wanna see 'em. Come on, I'm calling!  What d'you got!",
+      "characters": [
+        "Tim",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh huh. When you're on a stakeout, do you find it's better to stand up against the wall, or kinda crouch down behind a big plant?",
       "characters": [
         "Kramer",
-        "Frank",
-        "Ben",
-        "Jerry"
+        "Helen",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry took the flyers off the car, I got the whole thing covered.",
-      "characters": [
-        "Donald",
-        "Secretary",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

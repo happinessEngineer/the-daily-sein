@@ -1,106 +1,106 @@
 {
-  "gameNumber": 60,
+  "gameNumber": 61,
   "date": "2025-03-04",
   "questions": [
     {
-      "quote": "Yeah. It's an Indian soup. It's simmered to perfection by one of the great soup artisans in the modern era.",
+      "quote": "Well, it's a test drive, right? I never drive around here. If I'm gonna recommend this car, I need to see that it'll handle my daily routine.",
       "characters": [
         "Kramer",
-        "Salesman",
-        "Jerry",
-        "George"
+        "Elaine",
+        "Peterman",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well then the turkey it'll be. And may I say you have a splendid establishment here, my friend. I'm sure you flourish at this location for many, many years.",
+      "quote": "Okay, well, he had this idea of a pizza place where you make your own pie!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Somebody put a cane on my foot. Just like the one I'm going to put up your...",
       "characters": [
         "Kramer",
-        "Jerry",
         "George",
-        "Peterman"
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George doesn't work. He's a bum. That's why he lives at home with us.",
+      "characters": [
+        "Landis",
+        "Doctor",
+        "Morty",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "So what about the \"Maestro\" stuff. Did he make you call him Maestro.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look, we're wasting our time here! We're a half-hour late, they've probably took it off the board already.",
+      "quote": "Well, I'll tell you what. I'll choose you for it. Straight choose, three takes it, no disputes...that's it, you gotta win three.",
       "characters": [
-        "Russell",
-        "Rabbi",
-        "George",
+        "Elaine",
+        "Darren",
+        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, it was just a bet. I mean, it actually started with George and his mother-",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, profit. I think you'll see from the estimate that I'm not really profiting that much. They might be a little high, but..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Peterman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Aw, they didn't forget to put it out! It's deliberate! Deliberate, I tell ya!",
+      "quote": "I'm just gonna get my jacket, I'll meet you downstairs. What's the matter, did you call?",
       "characters": [
         "Jerry",
-        "Frank",
-        "Nina",
-        "Kramer"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Listen Jerry, I've been doing some thinking. I want my suit back.",
-      "characters": [
-        "Bania",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Hey, Beth, Arnie, it's Elaine. Um, thought you guys might wanna have lunch. Gimme a call. Bye.",
-      "characters": [
-        "Joyce",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, you know I got someone to make up that cologne for me, big mouth.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Mary"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, nothing. It's no skin off my hide if people like to look. I just didn't see what the big attraction was.",
-      "characters": [
-        "Marlene",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Marlene"
-    },
-    {
-      "quote": "Well, see, it's... businessmen taking siestas. You know, it's the, uh, the Urban Sombrero.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't have a preference, okay! Just make a decision yourself! Stop bothering me with every minor little detail, please?",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Morty",
+        "Peterman",
+        "Naomi"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Then Hank Bauer, you know, he's screaming, \"Mickey! Mickey! What have you done with Mickey? You killed Mickey!\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

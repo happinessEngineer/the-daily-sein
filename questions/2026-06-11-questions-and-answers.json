@@ -1,106 +1,106 @@
 {
-  "gameNumber": 524,
+  "gameNumber": 525,
   "date": "2026-06-11",
   "questions": [
     {
-      "quote": "I am totally loving it. Uh, you know … we should um … get going.",
+      "quote": "Uh, you know, why don't you go first, you just had a long trip.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhh, Jerry, I've got a lot goin' on with, uh, Lippman right now.",
       "characters": [
         "Elaine",
+        "Kramer",
         "George",
-        "Teller",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, Stu here started telling me about a show, \"Jerry\", that he developed five years ago.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "Well, you know the important thing is that you learned something.",
+      "characters": [
+        "Kramer",
+        "Harold",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well actually um, I do have a bill here. If you could just sign, this expense form, I think I could still make the last fan boat out of here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Puddy",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "It's over buddy. Done. Finished. So long. Good bye. Adios. Sayanara.",
+      "quote": "Dirt? That's alright,  because there's nothing wrong with dirt.",
       "characters": [
-        "Carrie",
-        "Jerry",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Carrie"
-    },
-    {
-      "quote": "\" That guy was amazing, he could dunk and he was my height...What was his name again?\"",
-      "characters": [
-        "Gina",
-        "Susan",
-        "Worker",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You didn't think I was really going to give you a suit, did you?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Tia",
-        "Bania"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Well you're not even a fan. I was at game six - you didn't even watch it.",
-      "characters": [
-        "Leo",
+        "Kruger",
         "Jerry",
-        "George",
-        "Elaine"
+        "Bania"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why would I spend seven dollars to see a movie that I could watch on TV?",
+      "quote": "Maybe I'll go visit my mother. She just bought me some new panties  and they're - all laid out for me.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because he told a man he'd give him a discount too... a man Jerry.",
-      "characters": [
-        "Elaine",
         "Kramer",
         "George",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, there was some problem with the plane, they landed in Philadelphia.",
-      "characters": [
-        "Audrey",
-        "George",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "No, I can't trust him, he gets insane. I won't enjoy myself. That's right, Farfel, I'm talking about you!",
+      "quote": "Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but...  you don't want to go to... that... no.",
       "characters": [
         "Jerry",
-        "Kramer",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, Wilhelm, listen to me. I want the stadium scoured. He could be bleeding to death in the bullpen.",
+      "characters": [
+        "Steinbrenner",
+        "Woman",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "I know. I'm really running out of excuses with this guy. I need some kind of excuse rolodex.",
+      "quote": "I mean, she thought it was kind of strange to just order a salad. . . . You know. . . . For a man.",
       "characters": [
-        "Elaine",
-        "Jackie",
         "George",
-        "Jerry"
+        "Jerry",
+        "Milos",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

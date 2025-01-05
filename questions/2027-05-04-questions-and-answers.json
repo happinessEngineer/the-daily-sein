@@ -1,106 +1,106 @@
 {
-  "gameNumber": 851,
+  "gameNumber": 852,
   "date": "2027-05-04",
   "questions": [
     {
-      "quote": "Oh, hi Elaine. You know I lost all of my 6:30 clients because of you. . . . Yeah, well why did you have to stick your feet in my face? . . . Yes, I have the jacket. Hold on. . . .  Fellas!",
-      "characters": [
-        "Greg",
-        "George",
-        "Kramer",
-        "James"
-      ],
-      "correctAnswer": "James"
-    },
-    {
-      "quote": "Unfortunately, I didn't have a partner. I got gonorrhea from a tractor.",
-      "characters": [
-        "Ethan",
-        "Sophie",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Sophie"
-    },
-    {
-      "quote": "I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now.",
+      "quote": "Ah... You're the woman from the street, and I am so sorry. You know, I'm not really a home-wrecker. I-I-I-I-I thought he was a superhero. I swear.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Driver",
-        "Helen"
+        "Rebecca",
+        "Estelle"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Imagine if I had to see them both on the same day?  Haha! It's like runnin' a double marathon!",
+      "quote": "You better believe it. Jackie's cashin' in on your wretched disfigurement.",
       "characters": [
-        "Jerry",
-        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?",
+      "characters": [
+        "Elaine",
         "George",
-        "Kramer"
+        "Russell",
+        "Stu"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What do you think the Nazis were doin'?  That was the heil-five.",
+      "quote": "Oh, hey guys. Man, I'm telling you, this pizza idea, is really going to happen.",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, you should. I certainly remember you. Let me refresh your memory.",
-      "characters": [
-        "Tom",
-        "Jerry",
         "Elaine",
+        "Phil",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'm trying to buy some of the clothes back.  Hey you wanna come over for dinner tonight? My mother made all this extra Paella.",
+      "quote": "Yeah, twenty-five percent bran flakes. The forty percent was too much so I found a store to mix it up special for me, they take it down another fifteen percent.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Tom",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Not a peep. They just cleaned the carpets and left. Call themselves a cult!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Waitress",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She had some personal affair she had to attend to. I left a message on your machine. You didn't get it?",
+      "characters": [
+        "Wyck",
+        "Receptionist",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "I like Christian rock. It's very positive. It's not like those real musicians who think they're so cool and hip.",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Not a chance. I'm afraid I'll just have to find someone else to accompany me on my journey. The dark continent is no place for an addict, Elaine.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "You know last time you had me throwin' a rye bread up three floors to you, now you want me to go up to the Bronx, take flyers off your car, where does it end?!?",
+      "quote": "That's the last thing she said to me. She wanted to go there also, but I wasn't in the mood.",
       "characters": [
         "Jerry",
-        "George",
-        "Frank",
-        "Elaine"
+        "Clare",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, let me ask you something: When do you start to worry about ear hair?",
+      "quote": "This is an emergency, what's taking so long?  Wait a second, maybe that's them.  Hello?",
       "characters": [
-        "Buckles",
-        "George",
         "Jerry",
-        "Elaine"
+        "George",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 132,
+  "gameNumber": 133,
   "date": "2025-05-15",
   "questions": [
     {
-      "quote": "Of course, his pectorals could use a little work - I suppose we could get him into the weight room.",
+      "quote": "Yeah. They said they haven't seen anybody go after balls with such gusto.",
       "characters": [
-        "Man",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "Hey. Nice twirl you got there. You know who invented that, don't you?",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Jimmy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Well, let's hurry up and eat I gotta get out of here. I'm meeting a woman for a drink.",
-      "characters": [
-        "Bania",
-        "Peterman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "A lesser man would have crumbled. They would have gone for the \"dish\" and the sure fire sexual-harassment suit.",
-      "characters": [
+        "Kruger",
         "Kramer",
-        "Peterman",
-        "George",
-        "Jerry"
+        "Donna"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's not brain surgery. You open the door for people who live here. And, if they don't live here, don't let them in.  Here.  Wear that.",
+      "quote": "You're a portly fellow, a bit long in the waistband. So what's your pleasure? Is it the salty snacks you crave? No no no no no, yours is a sweet tooth.",
       "characters": [
         "Jerry",
+        "Nurse",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've gotta go to court, I'll get in trouble. What's the matter with you?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He's a friend of a friend. You know Corky Ramarez up on 94th Street? One day he and I are playing Pachinco--",
+      "characters": [
+        "Kramer",
         "Elaine",
-        "Kramer",
-        "Doorman"
-      ],
-      "correctAnswer": "Doorman"
-    },
-    {
-      "quote": "My mother left us when I was six years old. All seven of us. We never heard from her again. I hope she's rotting in an alley somewhere!",
-      "characters": [
-        "Rava",
         "Jerry",
-        "Kramer",
         "George"
       ],
-      "correctAnswer": "Rava"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You can't give up. You don't think people tell me I stink? When I'm on stage that's all I hear; You stink, You suck. We like magic.",
+      "quote": "Say those are some nice pants. I got a pair just like them at home.",
       "characters": [
-        "Jerry",
-        "Herb",
-        "George",
-        "Hal"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "In the old days how do you think they got the alcohol from town to town?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Greg"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I believe I referred to her personality as a potential science exhibit.",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
+        "Morty",
+        "Kramer",
         "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well you cracked it! I warned the Queen you were gettin' close an', now it looks like we're gonna have to move the whole damn forbidden city.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Izzy"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Jim Fowler? The animal guy from \"Wild Kingdom\" is coming to your apartment?",
+      "quote": "Well, I think we're gonna need more than a hand. They have to see a human face.",
       "characters": [
-        "Helen",
-        "George",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "Susan",
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, to tell you the truth, I was thinking of buying my father a new car.",
+      "characters": [
+        "Elaine",
+        "Detective",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. I guess I just wasn't ready for the responsibilities of a pretend marriage.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry Leo's moving back here. I'm not ready to go back to Florida.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
     }
   ]
 }

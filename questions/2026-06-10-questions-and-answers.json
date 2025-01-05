@@ -1,106 +1,106 @@
 {
-  "gameNumber": 523,
+  "gameNumber": 524,
   "date": "2026-06-10",
   "questions": [
     {
-      "quote": "Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys.",
+      "quote": "Nothing. And neither will you. George can never know about this.. It'll crush him.",
       "characters": [
-        "Father",
-        "Woman",
         "Jerry",
-        "George"
+        "George",
+        "Woman",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "They were mailboxes, you idiot. I didn't have the heart to tell you.",
+      "quote": "Anyway, I was thinking about what you said. About uh, me and Marisa.",
       "characters": [
-        "Elaine",
+        "George",
         "Newman",
         "Jerry",
-        "Heather"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No, to tell you the truth, I was thinking of buying my father a new car.",
+      "quote": "No! He jumped from the second floor. Mr. Papanickolous saw him from across the street. He's lying out there faking. See, he's trying to get back at me.",
       "characters": [
-        "Jerry",
-        "Peterman",
-        "George",
-        "Laura"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So he gets out of the car, I say, \"Hey buddy! I saw you hit that car!\" So he says to me, \"What are ya gonna do about it?\"",
-      "characters": [
-        "Steinbrenner",
         "Kramer",
         "Jerry",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "So now you want an apology for the apology, plus the original apology?",
+      "quote": "\"You know those shoes that Jimmy had? I cut a deal with him. We're gonna import a case of them together.\"",
       "characters": [
-        "Jerry",
+        "Newman",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm very good with sick people. They love me. When my friend Len Nicodemo had the gout, I moved into his hospital room for three days, the doctors were amazed at his recovery.",
+      "characters": [
+        "Michael",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Aaawh...This is GREAT!!.....Now I'm gonna be stuck at the singles table with all the losers.",
+      "characters": [
         "Elaine",
         "George",
+        "Doctor",
         "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, uh, I'm looking for a Rollamech 1000 mechanical pencil.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, you don't see - because I'm going on the show this week, and this was going to be my bit on the show.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Farkus"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "That's good, then I get the apartment for at least one night. You know I'm paying for this whole Paris trip it's their anniversary present.",
+      "quote": "I know who it was too. It was the guy who interviewed me. He was very threatened by me. Why else wouldn't he hire me? I could sell latex like that .",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no, I don't think I'm special. My mother always said I'm not special.",
-      "characters": [
-        "Elaine",
-        "George",
+        "Alton",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh man. What is with this bar? It's right in my back. It's killing me.",
+      "quote": "Well... what if you showed up bad naked, huh? You still got that belt sander?",
       "characters": [
-        "Kramer",
-        "Gavin",
-        "Kate",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George, I listened to your arguments, and they were rambling and flimsy. I'm not convinced. Come on, get dressed and let's get some dinner.",
-      "characters": [
-        "Maura",
-        "Evelyn",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Maura"
-    },
-    {
-      "quote": "Okay, I'll talk to him. But you're putting me in a very difficult position.",
-      "characters": [
-        "Frank",
         "George",
-        "Elaine",
+        "Jack",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     }
   ]
 }

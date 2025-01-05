@@ -1,106 +1,106 @@
 {
-  "gameNumber": 24,
+  "gameNumber": 25,
   "date": "2025-01-27",
   "questions": [
     {
-      "quote": "Yeah, and I don't poof up my hair when I got to a movie so people behind me can see. I've got to make it up to this guy or I won't be able to live with myself. What can I do?",
+      "quote": "What if you get involved with a woman? How're you gonna tell her?",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So anyway, she's kind of upset about it so I need you to do me a favor.",
-      "characters": [
-        "Newman",
-        "George",
-        "Lena",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Three hundred dollars. Hey, Mr Oh, how much would these run you in Tokyo?",
-      "characters": [
-        "Kramer",
-        "Julie",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, yeah.. of course. What, do you think I care about the sex? What kind of person do you think I am? That doesn't mean anything to me.  I don't care about that.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "John",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I haven't been able to reach him. Hey I'll call him right now.",
-      "characters": [
-        "Morty",
-        "Helen",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Hello. No she's not here. Okay, fine, whatever. I'll tell her. Okay. Goodbye. The stationery store guy called to say he ORDERED your pencil.",
-      "characters": [
-        "Susan",
-        "Jerry",
+        "Ade",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "She's too tanned. It's the middle of the winter, she's like a carrot.",
+      "quote": "Yes...Ye..Yes..That's right...You see ,Billy Mumphrey was a simple country boy. Some might say a cockeyed optimist, who got caught up in the dirty game of world diplomacy and International intrigue.",
       "characters": [
-        "Jimmy",
-        "John",
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm gonna personally notify them. ...and, ah, line up some candidates to fill that assistant to the General Manager position…",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Yeah, I'll zip in, \"How do you do?\", zip out. She'll love me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Worker",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He knows I'm waiting. He sees me. He just doesn't wanna look.",
+      "characters": [
+        "Lloyd",
+        "Elaine",
         "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, but he's doing a lot better now. I've taken him under my wing.",
+      "quote": "We've been betting on arrivals and departures.  But I'm down $3200 , so you've gotta get me some cash.",
       "characters": [
-        "George",
-        "Elaine",
         "Kramer",
-        "Abby"
+        "Phil",
+        "Doctor",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Which word did he emphasize? Did he say, \"Why would Jerry bring anything?\" or, \"Why would Jerry bring anything?\" You emphasize \"Jerry\" or \"bring.\"",
+      "quote": "...and I, of course, will return to mine. Kudos, Elaine, on a job... done.",
       "characters": [
+        "Peterman",
         "Jerry",
         "Elaine",
+        "Michael"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Oh, they're staring. They know we're on a date. They're making fun. Come on. It's embarrassing.",
+      "characters": [
+        "Keith",
         "George",
-        "Kramer"
+        "Helen",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, Elaine's got this writer friend from Finland, Rava. Her boyfriend goes to Columbia grad school, and he's suppose to do it.",
+      "quote": "Hey ya know I read an unbelievable thing about Tolstoy the other day, did you know the original title for \"War and Peace\" was \"War--What Is It Good For?\"!",
       "characters": [
-        "Jodi",
+        "Newman",
         "Kramer",
-        "Morty",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, the game's about to start. I wonder where your friend Kramer is.",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Joel"
     }
   ]
 }

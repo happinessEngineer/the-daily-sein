@@ -1,106 +1,106 @@
 {
-  "gameNumber": 720,
+  "gameNumber": 721,
   "date": "2026-12-24",
   "questions": [
     {
-      "quote": "I'm starting a Peterman Reality Bus Tour. Check it out. Hahaha.",
+      "quote": "I don't think that's the kind of thing you wanna hear about your father. But I'll tell you when he came out of that bathroom and he was kneading that dough, it was a wild scene.",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "Meryl",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know if you waited a few more months it won't be a baby anymore then you wouldn't have to see it.",
-      "characters": [
-        "Stu",
-        "Elaine",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah. Well I was trying to make gravel and it just  just didn't work out.",
-      "characters": [
-        "Kramer",
-        "George",
         "Jerry",
-        "Hanke"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hi, i've been doing a lot of thinking today and i don't know maybe i made a huge mistake",
-      "characters": [
-        "Jerry",
-        "Beth",
-        "Kramer",
-        "Jane"
-      ],
-      "correctAnswer": "Beth"
-    },
-    {
-      "quote": "\"I dunno how you could forget . He kept reffering to himself in the third person. \"Jimmy's under the boards. Jimmy's in the open. Jimmy makes the shot.\"",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
+        "Carol"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Anyway, I just wanted to let you know I'm really sorry that happened, and if I can help out in any way, I'll certainly be glad to do that.  Well, I guess that's about it.",
+      "quote": "Look, Mr. Bookman. I--I returned that book. I remember it very specifically.",
       "characters": [
-        "Kramer",
+        "Bookman",
         "George",
-        "Jerry",
-        "Gladys"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I always get myself in this position. Can't be on time. Gotta rush.",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, Kramer thought it would make her happy.  I never should have cashed those checks!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ah, I'm sorry uh, that I doubted you. Whatever you need, just uh, make yourself at home.",
+      "quote": "OUR LIVES!! . What kind of lives are these? We're like children. We're not men.",
       "characters": [
-        "Clerk",
-        "Elaine",
+        "George",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "Elaine"
       ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You come to a parking lot, you write it down. How hard is that?",
+      "quote": "No, I'm supposed to meet my friends to see this movie ``CheckMate'' at 10:30.",
       "characters": [
-        "Elaine",
         "Jerry",
         "George",
+        "Elaine",
         "Kramer"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. It was very frightening. My life was in danger. You should've seen the way they talked to me.",
+      "characters": [
+        "Salesman",
+        "Kramer",
+        "Jerry",
+        "Enzo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, it looked as if you were in a real conversation over there.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I said I couldn't believe you liked that commercial. So what?",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I think we've covered my act. Now you get out there and stink it up with everybody else.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Patty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, speaking of which, I found a great way to separate the skin from the top of the pudding without leaving any around the edges; Exacto knife.",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Loretta",
+        "Toby"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Get in a little closer. I can't see the screen door.  Perfect.",
+      "characters": [
+        "Sophie",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

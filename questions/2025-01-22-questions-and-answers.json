@@ -1,104 +1,104 @@
 {
-  "gameNumber": 19,
+  "gameNumber": 20,
   "date": "2025-01-22",
   "questions": [
     {
-      "quote": "No, Uncomfortable? Not at all.  My friend's wife's breast sticking out - why would that make me uncomfortable?",
+      "quote": "Jerry, it's Sophie. I can't believe you don't recognize my voice.",
       "characters": [
-        "Elaine",
-        "Leo",
+        "Sophie",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She's from Finland, for crying out loud. Finland! Do you understand?!",
-      "characters": [
-        "Ray",
-        "Woman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "What are you doin' to this woman?! This is the second relationship you've ruined for her in a few weeks!!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, what about George? He's supposed to pick us up at Kennedy.",
-      "characters": [
-        "Elaine",
-        "Frank",
-        "Steve",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well I just got back from swimming in the pool. And the water was cold...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "hey, you know what? I just remembered something. I had a dream about that guy last night. This is amazing.",
-      "characters": [
-        "Kevin",
-        "Hal",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Sophie"
     },
     {
-      "quote": "Woah, ahhh. Hehe Ha ha ha. That was close. Confide in her, open up to her. You know women like that.",
+      "quote": "You couldn't figure out the \"World's Theory\" for yourself? It's just common sense. Anybody knows, ya gotta keep your worlds apart.",
       "characters": [
+        "George",
+        "Earl",
         "Kramer",
-        "George",
-        "Wilhelm",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "One mile from the exit it starts shaking, really violently shaking, like it's having a nervous breakdown. It completely stopped dead.",
-      "characters": [
-        "Peterman",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know the way you smell when you first come home from the beach? Well, I want to make a cologne that captures the essence of that smell. Oh yeah.",
+      "quote": "Oh, I don't think so. No, he's an entertainer. You know, all over the place. That's where I come in.",
       "characters": [
+        "Morty",
+        "Jerry",
         "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I've never even seen him in a car. I mean, look at his movies. No cars. Deliverance - canoe. Midnight Cowboy - boots. Runaway Train...runaway train.",
+      "quote": "What is this? You got stains all over it! What the hell'd you do?",
       "characters": [
-        "Steinbrenner",
+        "Frank",
+        "Jerry",
+        "Ronnie",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You see the idea is for a rubber ball inside the tanker so if it crashes, the oil won't spill out.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Dan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me. I couldn't help overhearing. I notice you're eating a poppy seed muffin.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Well ..I don't argue with the body Jerry. It's an argument you can't win.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. You know what, you should go over there and get one to look good for my bachelor auction.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Nina",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We waited fifteen minutes for this. Tst - YOU SELL ME A CAKE WITH A HAIR ON IT. Then you want me to wait? . . . What are you doing  you're gonna wait now?",
+      "characters": [
+        "Jerry",
         "Kramer",
         "Elaine",
         "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. I don't know how it happened. We were practically in Monticello. I mean, how could that thing have found its way back? There's no way.",
+      "characters": [
+        "Karen",
+        "Tawni",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     }

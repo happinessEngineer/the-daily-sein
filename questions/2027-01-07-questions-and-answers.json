@@ -1,106 +1,106 @@
 {
-  "gameNumber": 734,
+  "gameNumber": 735,
   "date": "2027-01-07",
   "questions": [
     {
-      "quote": "I didn't know whether to try and keep her from falling, or zip up.",
+      "quote": "Elaine, do you know what you've done? You've give hope to every woman who's ever said \"Too bad he's gay\".",
       "characters": [
         "Jerry",
         "Kramer",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Exactly. I love Phase Two. Extra toothbrushes, increased phone call frequency, walking around naked. You know, the presents get a lot better in Phase Two.",
-      "characters": [
-        "Greg",
-        "Jerry",
-        "Elaine",
-        "Kruger"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright, suit yourself. But let's keep this between us - we're key brothers now.",
+      "quote": "No, I want to trade you screen legend Anthony Quinn's undershirt. He took this off to do sit-ups in the park and I nabbed it.",
       "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Doris"
+        "Elaine",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I love when they touch your arm. I can't get enough of that. Why is that?",
+      "quote": "Yea they're taking one, the travel agent is trying to set something else up for them.",
       "characters": [
-        "George",
-        "Newman",
+        "Morty",
         "Jerry",
-        "Kramer"
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Gotta get some of that stuffed crust pizza. cheese crust pizza.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, great, great.  What's that smell? Smoke?  Hey everybody, I think I smell some smoke back here... FIRE! FIRE! Get out of the way!",
+      "characters": [
+        "Kramer",
+        "Donna",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Parents never forget a foul-up. I once left a jacket on the bus when I was fourteen. Last week I'm flying to Chicago to do a show, \"Make sure you hang on to your jacket.\"",
+      "quote": "UH, ha ha, ... It's just SO frustrating. It's a brand new jacket.",
       "characters": [
+        "Elaine",
+        "Jerry",
+        "Gladys",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess I have to bring his car back up to the stadium, if it can make it.",
+      "characters": [
+        "Babs",
         "George",
-        "Kramer",
         "Morty",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "My money's on the snooze. I bet he hit the snooze for an extra 5 and it never came back on.  Imagine your whole life riding on an alarm clock.",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're just going to sit there staring at the back of a seat?",
+      "quote": "Then I see my clothes floating out there. The tied took them out, not the kids.",
       "characters": [
         "George",
+        "Kramer",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wow, he really does a number on you.  \"Seinfeld froze like a deer in the headlights in the face of incessant heckling.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know if you waited a few more months it won't be a baby anymore then you wouldn't have to see it.",
+      "characters": [
         "Elaine",
         "Jerry",
-        "Matthew"
+        "Newman",
+        "Stan"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Look at this. This sandwich is terrible. Everywhere you go, they give you this misshaped shardy meat. Look at this...",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I will go to that, if you go with me to a little family wedding I have on Saturday.",
-      "characters": [
-        "Sylvia",
-        "Kramer",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I guess the DJ booth was over there behind the bone saw?  Let's get out of here George.",
-      "characters": [
-        "Tim",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

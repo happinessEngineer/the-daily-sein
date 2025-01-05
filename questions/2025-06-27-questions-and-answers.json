@@ -1,106 +1,106 @@
 {
-  "gameNumber": 175,
+  "gameNumber": 176,
   "date": "2025-06-27",
   "questions": [
     {
-      "quote": "Of course, I'm the result of my parents having stayed together, so you never know.",
+      "quote": "That guy Elaine's dating seems really familiar to me. I think he may have been a comedian I worked with one time. Wait a minute, what is this?",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Kramer",
         "Elaine",
         "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What are you gonna do, you just gonna leave it here like this? Uh. I'm going upstairs.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Wyck"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "The hands of a man. It's like a creature out of Greek Mythology, I mean, she was like part woman, part horrible beast.",
-      "characters": [
-        "George",
-        "Kevin",
-        "Kramer",
-        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I see what's going on in here. I am smack dab in the middle of a good old fashioned cat fight.",
+      "quote": "It's all right don't worry about it. So, why did she break up with you?",
       "characters": [
+        "Dana",
         "Jerry",
-        "Peterman",
-        "George",
-        "Jackie"
+        "Connie",
+        "Wilhelm"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Dana"
     },
     {
-      "quote": "Well General Chang was a very flamboyant man. A complete failure as a general, but a helluva cook.",
+      "quote": "Well, I was having this party and I didn't invite him and then Jerry, tipped him off.",
       "characters": [
-        "Meryl",
-        "Elaine",
-        "Eva",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Grandma Memma's napkins. There's two missing. Elaine took them didn't she?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Holly",
-        "Kramer"
-      ],
-      "correctAnswer": "Holly"
-    },
-    {
-      "quote": "I love this place. You know, Carl and I come here all the time.",
-      "characters": [
-        "Vanessa",
-        "Shelly",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": ": \"Master of the house/Keeper of the inn...\"  This is huge! When did this happen?",
-      "characters": [
-        "Newman",
         "Kramer",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You're right, how did I miss that?  Maybe because it's a crock of shit.",
+      "quote": "Oh you know I don't know. I saw him in the hall this morning, I said hello to him. He walked right past me.",
       "characters": [
-        "George",
-        "Wilhelm",
+        "Mickey",
         "Elaine",
-        "Jerry"
+        "George",
+        "Stu"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Yeah, they're all through ruining my life. What the hell are they still doing here? Lemme see this pamphlet. Hm. All right, so I'll, uh, get back to you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Gary"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What my wife is trying to say is that this is supposed to be our time.",
+      "quote": "Wow! Heh.  You don't, huh, have a replacement lined up for me, do ya? heh he he he he he...",
       "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Pfft! Hold it right there. If you're suggesting what I think you're suggesting, you're wasting your time. I am not Jerry, under any circumstances, doing any inserting in that area.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it couldn't be too expensive. Thirteen, fourteen bucks a cat?",
+      "characters": [
+        "Jerry",
+        "George",
         "Frank",
+        "Marla"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's only one caveat -- the guy who runs the place is a little temperamental, especially about the ordering procedure. He's secretly referred to as the Soup Nazi.",
+      "characters": [
         "George",
         "Elaine",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Assistant to the General Manager!!  Do you know what means?!?  He'd could be askin' my advice on trades!  Trades, Jerry, I'm a heartbeat away!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

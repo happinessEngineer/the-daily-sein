@@ -1,104 +1,104 @@
 {
-  "gameNumber": 916,
+  "gameNumber": 917,
   "date": "2027-07-08",
   "questions": [
     {
-      "quote": "Excuse me. Hey, how you doing. Uhm, my, uh, friend here says that he invented that little twirl you're doing.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Bania"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know... You better make sure and never tell this woman to jump off the Brooklyn Bridge...",
+      "quote": "Hello Jerry. Well, I may have a solution to our little problem. Elaine, would you excuse us?",
       "characters": [
         "Jerry",
-        "George",
+        "Newman",
         "Kramer",
-        "Wilhelm"
+        "Conrad"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "I'm not stopping you from eating. Go ahead and eat. Get anything you want.",
+      "quote": "So you broke the news to Mr. Costanza? Could you tell the court, please, what his reaction was?",
       "characters": [
+        "Hoyt",
         "Jerry",
-        "Elaine",
         "George",
-        "Jack"
+        "Estelle"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Hoyt"
     },
     {
-      "quote": "Look, you're a nice guy, it's just that... we don't have anything in common.",
+      "quote": "Alright put your hands up over your face, pretend you're sleeping.",
       "characters": [
-        "Kramer",
-        "Ben",
+        "Joel",
         "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, if you want to make a person feel better after they sneeze, you shouldn't say 'God bless you', you should say, 'You're soo good lookin''.",
+      "quote": "Oh! Ping! Hi! Listen, thank you so much for dropping that lawsuit against me.",
       "characters": [
-        "Jackie",
-        "George",
         "Jerry",
-        "Celia"
+        "Ethan",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "What would you say if I told you I never impregnated a woman?",
+      "quote": "The whole apartment. And I'm buying that fake wood wallpaper. I'm gonna surround myself in wood. It's gonna be like a log cabin. 'Cuz I *need* wood around me. Wood, Jerry [Snaps fingers]... Wood.",
       "characters": [
+        "Peterman",
         "Kramer",
-        "Gina",
-        "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Looks like what you really need is a decent desk for writing your skits.",
+      "quote": "Oh hey guess what. Morty Seinfeld and I are going into business together, selling raincoats.",
       "characters": [
-        "Steinbrenner",
-        "Milos",
-        "Peterman",
-        "Brett"
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Brett"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You would think that, but either you're born with a sense of humor, or you're not. It's not going to change even if you go from the red sun of Krypton all the way to the yellow sun of the Earth.",
+      "quote": "Y'know, now you gotta ask her her name. It's so embarrassing.",
       "characters": [
-        "Jerry",
         "George",
         "Elaine",
-        "Tony"
+        "Jerry",
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, well, if you repeat the name of the gift, you can't possibly like it.",
+      "quote": "You know this is not the first time this has happened to me. I always carry water because of my condition. It dehydrates me. It's a vicious cycle.",
       "characters": [
-        "Greg",
-        "George",
+        "Jerry",
+        "Levitan",
         "Elaine",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want.",
+      "quote": "Long as they don't throw 'em on the field.  Huhu.  Help yourself to some shrimp, I brought enough for everybody.",
       "characters": [
-        "Jerry",
-        "Elaine",
         "Kramer",
-        "Poppie"
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not a very religious person but I do feel as if I'm in need of some guidance here.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
       ],
       "correctAnswer": "Elaine"
     }

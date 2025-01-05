@@ -1,106 +1,106 @@
 {
-  "gameNumber": 15,
+  "gameNumber": 16,
   "date": "2025-01-18",
   "questions": [
     {
-      "quote": "Wait a minute, I think he's done.  Oh no, he's taking out the woods!",
-      "characters": [
-        "Rick",
-        "Kramer",
-        "George",
-        "Mickey"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Now, each of you is here because you're the best at what you do.",
-      "characters": [
-        "Jackie",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Bu George, you don't know what you're saying. You're under their control.",
-      "characters": [
-        "Estelle",
-        "Chiles",
-        "Jerry",
-        "Joe"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "These are the balloons? Big deal, all I see is Woody Woodpecker.",
+      "quote": "Anyway Beth, you know i was thinking on my way over how when i was 9. I wanted these handball sneakers, they were all black but they came in adult sizes so you know i never got the sneakers.",
       "characters": [
         "George",
         "Elaine",
         "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Not because you're dirty, not because you're clean – just because you kissed the girl behind the magazine...",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Joe"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No no no, I don't have time right now. I'll catch you tonight, we'll do sort of an all over kind of thing, all right?",
+      "quote": "Well, it kinda depends on the situation, but if I don't get my money from you, I'm gonna get it from her.",
       "characters": [
+        "George",
         "Elaine",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Yes, full. I love to be full ... love to sit back, loosen the old belt and digest away for hours. Let those enzymes do their work.",
+      "characters": [
+        "Kramer",
         "Jerry",
-        "Worker",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you, Crazy? I can't ask the guy for more cigars after you burned down his cabin!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not really going away, I told you I'd be back every other weekend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, Tolstoy use to write in the village square. The faces inspired him.",
-      "characters": [
-        "Lippman",
-        "Jack",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "That's the second time you said \"personal favor\". Why do you keep saying that?",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I have an idea.  We can make the nine-thirty at Cinema Three.",
-      "characters": [
-        "Manager",
-        "Alec",
-        "Peterman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And you're still dating him? I tell you who sounds a little desperado.",
+      "quote": "How am I gonna do this? I'm engaged to this woman? She doesn't even like me. Change the subject? Toilets were the subject. We don't even share the same interests.",
       "characters": [
         "Elaine",
+        "Jack",
         "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. Out of the question. I don't want any women ushers at my wedding and while we're on the subject, Kramer is not an usher either.",
+      "characters": [
+        "Izzy",
+        "Jerry",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I don't think so. I'm gonna try to get them to fly right back tonight.",
+      "characters": [
         "Kramer",
+        "Jerry",
+        "Bania",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh it's you? You're the one who sold me the moth ridden cabana crap.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rudy",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "I stink! I can't play! The ball is just sitting there, Jerry, and I can't hit it! I only hit one really good ball that went way out there!",
+      "characters": [
+        "Puddy",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

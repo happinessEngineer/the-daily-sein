@@ -1,104 +1,104 @@
 {
-  "gameNumber": 78,
+  "gameNumber": 79,
   "date": "2025-03-22",
   "questions": [
     {
-      "quote": "I don't understand. Is there a problem?  I'm getting the impression there's a problem.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well its a Bordeaux. Robust, bold, very dry. As opposed to a Beaujolais -- which is richer and fruitier. Ahh, here's one. Twelve dollars.",
+      "quote": "Hey Bob. What's with you? You gotta problem?  You see that look he gave me?",
       "characters": [
         "Elaine",
+        "George",
         "Jerry",
-        "Peterman",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Oh, was he? Was he? I guess the cable man doesn't like to be kept waiting.",
+      "characters": [
+        "Sandi",
+        "Jerry",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know you should be a lot more careful crossing the street like that, otherwise you could die.. If that bothers you.",
+      "quote": "The wall had just come down, and you told me you wanted to be part of the celebration.",
       "characters": [
-        "Helen",
         "Jerry",
-        "Jeannie",
-        "George"
-      ],
-      "correctAnswer": "Jeannie"
-    },
-    {
-      "quote": "Yeah.  I wasn't gonna get it, but this guy Milos, who runs the pro shop, he really recommended it.",
-      "characters": [
-        "Steven",
-        "Elaine",
+        "Kramer",
         "George",
-        "Jerry"
+        "Marla"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Marla"
     },
     {
-      "quote": "Oh, he'll be right up. He's just getting some beer. And I'm not expecting ... any change.",
+      "quote": "Tennis courts? W-w-what about the yard? Where do they have the gang fights?",
       "characters": [
         "Elaine",
         "George",
-        "Peterman",
-        "Jerry"
+        "Jerry",
+        "Ethan"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Now I know what I've been looking for all these years......myself!  I've been waiting for me to come along and now I 've swept myself off my feet.",
+      "quote": "Hey you know this is the first time we've ever seen each other naked.",
       "characters": [
-        "Jerry",
+        "Elaine",
         "Sid",
         "Kramer",
         "George"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And you know what else? He picked up that woman in the coffee shop.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh hey, if you happen to see the most beautiful girl who walked out on me. Tell her I'm sorry. Tell her I need my baby ... oh won't you tell her ... I love her. Oh hey, ...",
+      "quote": "If I'm gettin' him a new fur, I'm not chippin' in on a gift, too.",
       "characters": [
-        "Kramer",
+        "Newman",
+        "Izzy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What the hell is this? \"George, Elaine and I went to see Chunnel ... with Jerry.\" With Jerry, huh? With Jerry! Great. Great!  Probably went to the 84th St. That's where I always go with Jerry.",
+      "characters": [
         "George",
         "Jerry",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "George, don't even think about it! Don't even dream about it!",
+      "quote": "So, she's the loser of the group. Every group has someone that they all make fun of.. Like us with Elaine.",
       "characters": [
-        "Elaine",
-        "George",
         "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I got a guarantee on that watch. Give it to me, I'll take it back to where we got it.",
-      "characters": [
-        "Helen",
         "Kramer",
-        "Morty",
+        "Newman",
         "George"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All right, brace yourself, Lubeck. You are about to be launched via pastry back to the wedding of one of the most dashing and romantic Nazi sympathizers of the entire British Royal family.",
+      "quote": "Well, I see what's going on in here. I am smack dab in the middle of a good old fashioned cat fight.",
       "characters": [
-        "Peterman",
+        "Kramer",
         "Jerry",
         "George",
-        "Elaine"
+        "Peterman"
       ],
       "correctAnswer": "Peterman"
     }

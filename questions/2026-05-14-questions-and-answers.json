@@ -1,106 +1,106 @@
 {
-  "gameNumber": 496,
+  "gameNumber": 497,
   "date": "2026-05-14",
   "questions": [
     {
-      "quote": "my popcorn, you were supposed to get me popcorn what? would you forget about me babe?",
+      "quote": "So, Puddy, this is a pretty good move for you, huh? No more \"grease monkey\".",
       "characters": [
-        "Jerry",
-        "Tony",
-        "Kate",
-        "Estelle"
-      ],
-      "correctAnswer": "Tony"
-    },
-    {
-      "quote": "Oh, yeah, yeah. I'm Cosmo Kramer. Yeah, I had an appointment to annul my living will.",
-      "characters": [
-        "Jerry",
-        "James",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, no no, I can't go back there. Jerry, it's so awkward and, you know, it could be dangerous sexually. Something could happen, I'd be right back where I started from.",
-      "characters": [
+        "George",
         "Kramer",
-        "Babu",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm gonna have to give that guy a taste of his own medicine, so, I am going to sidle, the sidler.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Leo"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It's like you're livin' in the Playboy Mansion! Did she, uh, did she frolic?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well if these aren't what you wanted then why did you pay him?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Nikki"
-      ],
-      "correctAnswer": "Nikki"
-    },
-    {
-      "quote": "We bring her to the party, and she can tell me what Gwen is saying about me.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Karen",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I'm going on record right now that that was my last kiss hello. I am getting off the kiss program with her.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, remember in college when you passed Lettick the test out the window? You became a legend after that.",
-      "characters": [
-        "Brett",
-        "Babu",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, well that's why I'm doing it all myself. This parenting isn't about delegating responsibility, it's about being there.",
+      "quote": "Pardon me, I went to see your friend Dwayne... there was no discount.",
       "characters": [
+        "Frank",
         "Elaine",
-        "Marcelino",
-        "Jerry",
-        "Kramer"
+        "George",
+        "Buckles"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, it's not you. It's your stomach, he's taking with this funny, booming, jovial voice.  Hello-o-o-o.",
+      "characters": [
+        "Kramer",
+        "Lois",
+        "Buckles",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well! I am happy to say that the little guy is back in place at the end of the line.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "George"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That old one? Didn't I once miss a flight to Cleveland because of that alarm clock?",
+      "characters": [
+        "Morty",
+        "Brody",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're supposed to just take a peek after a poke. You were like you just put a quarter into one of those big metal things on top of the Empire State Building.",
+      "characters": [
+        "Sandi",
+        "Elaine",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, uh, act..actually, I haven't seen it. So, I couldn't tell you whether I liked it, or whether it really sucked.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's cold out, and I didn't bring my own. Jerry! God forbid I should borrow one from Holly. It might have belonged to grandma Memma. Thanks for mutton.",
+      "characters": [
+        "Elaine",
+        "Phil",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, correct me if I'm wrong, but isn't it a violation of club policy to not wipe down a machine after using it?",
+      "characters": [
+        "Jerry",
+        "Pam",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My house? You gotta be on the lease to press to buzzer. Yeah?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

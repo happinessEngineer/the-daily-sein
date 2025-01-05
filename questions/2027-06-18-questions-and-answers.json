@@ -1,104 +1,104 @@
 {
-  "gameNumber": 896,
+  "gameNumber": 897,
   "date": "2027-06-18",
   "questions": [
     {
-      "quote": "No, no that can happen. I've, uh, I've read about that in medical journals. It's a freak thing, but...",
+      "quote": "The woman across the street has nothing on, nothing on, nothing on..",
       "characters": [
-        "Jackie",
-        "George",
+        "Newman",
         "Elaine",
-        "Jerry"
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I need those cufflinks, but now they're in the box, and the key is in the bird... What are we gonna do?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand lunch, I don't know anything about lunch. Listen. Just because I got the guy fired doesn't mean I turned him into a bum - does it?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So where are they already, it's a quarter to twelve, they should be back by now, what did they do?",
+      "quote": "Are you aware that I'm being charged for Tuesday's appointment? I had to take my mother to the chiropodist.",
       "characters": [
         "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you, that There for you crap was a stroke of genius.",
+      "characters": [
         "Kramer",
         "Jerry",
-        "Cynthia"
+        "George",
+        "Hoyt"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, that's a big move, Georgie boy. Are you confident in the 'I love you' return?",
+      "quote": "Could you do me a favor? Um, when my friends call, could you not talk to them for too long?",
       "characters": [
+        "George",
         "Jerry",
-        "George",
-        "Jack",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He's this guy that I went to Tuscany with. He's a great guy, but I just wouldn't feel comfortable calling him.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Peterman",
+        "Harold",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Bear with you! This is a parking lot PEOPLE ARE SUPPOSED TO BE ABLE TO GET",
+      "quote": "I have. Funny, funny. In fact it was on TV just the other night. Happened to catch it.  I couldn't help notice a STUNNING similiarity--",
       "characters": [
-        "Kramer",
-        "Clerk",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm sorry I didn't get any sleep you kept kicking me in the face.",
-      "characters": [
-        "Estelle",
+        "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Bania"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, you don't understand, that?s the way they talk in Italy, they sing to one another. Kramer starts to sing in bad Italian.",
+      "quote": "I knew this was gonna happen some day. It was inevitable. I've known it ever since I was a little kid. I've been waiting for it.",
       "characters": [
-        "Kramer",
-        "Frank",
-        "Carol",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, it'll be a couple of years before he's completely bald. Those'll be good times.",
-      "characters": [
-        "Elaine",
-        "Jerry",
+        "Jackie",
         "George",
-        "Karen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I know, but don't say anything to anyone. He told me not to tell you.",
-      "characters": [
         "Jerry",
-        "Morty",
-        "Elaine",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, people, people, people, people, people. Not bad, huh? Excuse me.",
+      "quote": "Maybe he doesn't. Maybe he and I are exactly the same, except for one minor, yet crucial, detail. You never know.",
       "characters": [
-        "Kramer",
+        "Cop",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They, uh... said you were with some guy who was wearing a cape?...",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Bonnie"
       ],
       "correctAnswer": "George"
     }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 299,
+  "gameNumber": 300,
   "date": "2025-10-29",
   "questions": [
     {
-      "quote": "Look, who are you kidding? You come up to my apartment with your table and your little oils, and I'm not supposed to expect anything? You're a massage teaser.",
+      "quote": "Yeah, yeah. I forgot all about it. Alright, it's no big deal. We'll just go back to your place.",
       "characters": [
+        "Nina",
+        "George",
         "Elaine",
-        "Melissa",
-        "Woman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "And what about yooou?!?  Tryin' to bilk an innocent bystander out of a family fortune, built on sweat and toil, manufacturing quality O'Henry candy bars, for honest, hard-working Americans!",
+      "quote": "No, I found a better way to humiliate myself. There was this guy, and we had a few too many..",
       "characters": [
-        "Kramer",
-        "Jerry",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look, Jerry, I'm sorry, I'm uh- you have insurance, right buddy?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Jane",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid.",
-      "characters": [
-        "Kramer",
         "Elaine",
-        "Todd",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, sometimes people won't go in a place, if they don't see anyone else in there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care..",
-      "characters": [
-        "Kramer",
-        "Cindy",
-        "Doctor",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Okay, now I know. Should I keep going or turn around, do you have a preference?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Kate",
-        "Elaine"
-      ],
-      "correctAnswer": "Kate"
-    },
-    {
-      "quote": "What about Thursday night? I mean they're playing the Sonics.",
+      "quote": "Can I say one word to you? Lobster. The lobster here is unbelievable.  Ooh, a little expensive.",
       "characters": [
         "Elaine",
-        "Joel",
-        "Salesman",
-        "Jerry"
-      ],
-      "correctAnswer": "Joel"
-    },
-    {
-      "quote": "Mr. Peterman, you have my deepest sympathies. Unfortunately, I've gotta get going.",
-      "characters": [
-        "Jerry",
         "Frank",
-        "Elaine",
+        "Tor",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Ugh. You wouldn't believe it. My boyfriend dumped me. My friends, who I don't even like, they won't talk to me.  All because I don't like that stupid English Patient movie.",
+      "quote": "I can't do this! I can't do it. I have tried. I'm here. It's impossible.",
+      "characters": [
+        "Elaine",
+        "Announcer",
+        "George",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no it's that guy. He's really been bugging me about the jacket.",
+      "characters": [
+        "Kramer",
+        "Mike",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look, if you think I'm just going to step aside and do nothing while you defile this woman, you're crazy.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I wonder if, ah, Susan ...  No. I better just go.  heh. All right! See ya.",
       "characters": [
         "Elaine",
         "George",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hello Jerry. Well, I may have a solution to our little problem. Elaine, would you excuse us?",
+      "quote": "No, no, no, no. I can walk it off. It's a hundred and twenty degrees in here.. I'll sweat it out.",
       "characters": [
-        "Newman",
-        "Jerry",
+        "George",
         "Elaine",
-        "George"
+        "Audrey",
+        "Jerry"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My fish are dying right in front of me! We have to get someone to drive us around the parking lot to help us look for the car.",
+      "characters": [
+        "Doorman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

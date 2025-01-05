@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1125,
+  "gameNumber": 1126,
   "date": "2028-02-02",
   "questions": [
     {
-      "quote": "Not much!  I, uh, would have invited you up, but I don't have any furniture.",
+      "quote": "All right, what's wrong with the plane we got? They're just checking it out.",
       "characters": [
-        "Newman",
-        "Carl",
         "Kramer",
-        "Man"
-      ],
-      "correctAnswer": "Carl"
-    },
-    {
-      "quote": "\"You're a terrible liar George. Look at you, you're a wreck!. you're sweating bullets.\"",
-      "characters": [
-        "Wilhelm",
-        "Elaine",
-        "Frank",
-        "Newman"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "Oh, Okay... well thanks a lot... sorry again about you and the Drake...",
-      "characters": [
-        "Helen",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, I'm thinking of joining. Pat Cooper said he would put me up for membership.",
-      "characters": [
         "Elaine",
         "George",
-        "Steve",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh--George, uh--uh--it's five o'clock in the morning, what's the matter with you..",
-      "characters": [
-        "Elaine",
-        "Duncan",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Look, I don't like people talking about my shoes behind my back, okay? My shoes are my business. The two of you shouldn't have been looking at some fifteen year-old's cleavage anyway!",
+      "quote": "Hey! Jon Voight! Jon Voight!  Hey, listen, can I ask you something? Listen, listen...",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, it's the style.  Jerry give me the keys.  Well, I guess we're gonna go for a drive now. She really loves that.",
-      "characters": [
         "George",
-        "Jerry",
-        "Salesman",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He's not doing well, the doctors don't know what it is. They're baffled.",
+      "quote": "Ahan, Ahan....yeah...Euh but, Why is it that the, that the animals enjoy reading the email?",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Frank",
-        "Milos"
+        "Fred",
+        "Morty",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "It's funny!  and it wouldn't kill you to not be so funny either.",
+      "quote": "No! You take that mannequin down right now, or I'm pressing charges.  Yes, this is my attorney.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No I notice but they're from your age group I didn't know you could detect abnormal behavior among your own kind.",
       "characters": [
         "Elaine",
-        "Steve",
+        "Jerry",
+        "George",
+        "Ade"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"She's with a man twice her age.\" \"He doesn't look like he's got much money either.\"",
+      "characters": [
+        "Ruby",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Ruby"
+    },
+    {
+      "quote": "Anyway, this person told me to tell you to get an estimate on the damage.",
+      "characters": [
+        "Jerry",
+        "Maestro",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry! I need you to get another picture of man-hands. I'm beggin' you!",
+      "quote": "Well, how do you know for sure? Look, why don't you do me a favor. Why don't you go in the back and find out, okay?  Unbelievable.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Joel",
+        "Brody"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "God, it is so great to drive again. I miss it so much!  How about a left turn signal, ya moron?!",
+      "characters": [
+        "Receptionist",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hi, I haven't eaten in three days. I was wondering how much longer it would be until I get my X-ray.",
       "characters": [
         "George",
-        "Kramer",
-        "Frank",
-        "Mickey"
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     }
   ]
 }

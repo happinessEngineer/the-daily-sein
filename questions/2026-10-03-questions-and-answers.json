@@ -1,106 +1,106 @@
 {
-  "gameNumber": 638,
+  "gameNumber": 639,
   "date": "2026-10-03",
   "questions": [
     {
-      "quote": "You sure you don't want me to take my clothes off?  I'll do it!",
+      "quote": "George, if you're going to be in a creative field, you're going to have to learn how to deal with criticism.",
       "characters": [
-        "George",
-        "Newman",
+        "Kramer",
+        "Estelle",
+        "Jerry",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "See, this is the kind of lasting impression I make on people.",
+      "characters": [
+        "Elaine",
+        "Steve",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Steve"
     },
     {
-      "quote": "Sometimes I've given my number out to guys and it takes them a month to call.",
+      "quote": "Well, perhaps someday you will do me a favor. And that day is today. Little Jerry Seinfeld must go down in the third round of tomorrow's main event.",
       "characters": [
-        "Kramer",
         "Elaine",
         "Jerry",
+        "Marcelino",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Marcelino"
     },
     {
-      "quote": "This is amazing, I haven't seen one person go in to that restaurant since it opened. Poor guy.",
+      "quote": "She comes out of the bathroom, I'm in up to my wrist. You should have seen the look on her face.",
       "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know. It's just the last coupla days my mind has been, not good.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, I said something about dentists and it got blown all out of proportion.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Kramer",
-        "Laura"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She said there's some tractor story that she hasn't told me about.",
-      "characters": [
-        "Jerry",
+        "Landis",
+        "Frank",
         "Elaine",
-        "George",
-        "Doctor"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know. This was the only woman I never lied to. Well that's not entirely true.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "The meal is the act of sitting down with him. It doesn't matter what you get, as long as he's sitting in that restaurant, its a meal.",
+      "quote": "Yeah. Never seen anyone so bored. I'm working like a dog here. Give me a moan. *Something*. I'd settle for a belch, for god's sake. All right, come on, let's have it.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "George",
-        "Ruby"
+        "Kramer",
+        "Conrad",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Ah, she's starting to slip a little. Sometimes she has Difficulty distinguishing between the past and the present.",
+      "quote": "Oh. Thank you. I actually was thinking it might be time for a change.",
       "characters": [
-        "Frank",
+        "Kramer",
+        "George",
+        "Elaine",
+        "Wendy"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "Oh--uh--thank you, Jerry, thank you! I won't forget this, I'm gonna fix your trunk good--real good!",
+      "characters": [
+        "Mike",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Then Hank Bauer, you know, he's chasing me around, he trips over third base and knocks over Clete Boyer.",
+      "characters": [
+        "Kramer",
         "Jerry",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "So, you stand in the lobby, by the elevator, and wait for her to come down for lunch.",
+      "quote": "Friend of mine in Chinatown gave it to me. If you want I can ask him where he got it.",
       "characters": [
-        "Morgan",
-        "Morty",
-        "Salesman",
-        "George"
+        "Lloyd",
+        "Kramer",
+        "Elaine",
+        "Newman"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Oh, no no no, you gotta call him the next day, it's common courtesy.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Milos"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

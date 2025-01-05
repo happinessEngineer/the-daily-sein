@@ -1,106 +1,106 @@
 {
-  "gameNumber": 319,
+  "gameNumber": 320,
   "date": "2025-11-18",
   "questions": [
     {
-      "quote": "Ooohh... That sounds juicy. Listen, I gotta go to the bathroom, but I want to hear all about it.",
+      "quote": "Sophie, it's me. I know about the tractor story and I'm fine with it.",
       "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I have an idea. Leave the winter clothing in the apartment, and I'll watch it for you and I'll live there and I'll make sure that nothing happens to it.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Ben",
-        "Jimmy"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I don't mind someone with a phony personality, but I gotta draw the line somewhere.",
-      "characters": [
-        "Darren",
-        "Jerry",
-        "Russell",
+        "Waitress",
+        "Sally",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Since when is Elaine's boyfriend selling cars? I thought he was a mechanic.",
+      "quote": "Well, I don't know how official any of these rankings really are.",
       "characters": [
         "Jerry",
-        "George",
+        "Susan",
         "Kramer",
-        "Nina"
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry! Jerry, muh--muh--my hair-dryer ruined the picture! An' I need another one or I can't get back into the forbidden city!",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Meryl"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "George, I am going to tell you something and I want you to really hear me.",
+      "quote": "You know what. I don't think I'm going to be able to stay over tonight.",
       "characters": [
-        "Nurse",
-        "Kramer",
-        "Jerry",
-        "Rula"
-      ],
-      "correctAnswer": "Rula"
-    },
-    {
-      "quote": "That's right. That's why we stopped carrying batteries. Look, I'll be honest with you, we've had a lot of trouble with theft lately - and my boss says I have to make an example to someone.",
-      "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Manager"
-      ],
-      "correctAnswer": "Manager"
-    },
-    {
-      "quote": "Listen, George, I got some bad news. I'm not gonna be able to give you that parking space.",
-      "characters": [
         "Jerry",
         "Kramer",
-        "Mickey",
-        "Gary"
+        "Kimbrough"
       ],
-      "correctAnswer": "Gary"
+      "correctAnswer": "George"
     },
     {
-      "quote": "...But, you must promise That you will abide by my decision, no matter how unjust it may seem to either of you. Do I have your word?",
+      "quote": "Well...maybe not as much as this bastard...  I can hold my own!",
       "characters": [
-        "Newman",
         "George",
-        "Pitt",
+        "Kramer",
+        "Woman",
         "Jerry"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "These things'll kill ya... but so what...You're already gonna drop dead",
+      "quote": "Please, we can't find our car. Please drive us around the parking lot to find our car. My fish are dying.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Fdr",
-        "Newman"
+        "Tim",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Fdr"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, Julio. I was wondering, could you get to that shower today, You think?",
+      "quote": "Well, let's see, I've got a ten kroner, a five kroner, a twenty kroner? No wait, that's another ten kroner. A fimty kroner? How much is that?",
       "characters": [
         "Jerry",
-        "Greg",
+        "Puddy",
         "George",
-        "Kramer"
+        "Jackie"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Jerry? Yes, I suppose he is white. You know, I never really thought about it. I don't see people in terms of color. You know, there's someone I'd like you to meet. Hand on...  Is Mr. Morgan in?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She had an itch. She could have used any one of those fingers. That finger was meant for me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Lisi"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, they're not cloning sheep. It's the same sheep! I saw Harry Blackstone do that trick with two goats and a handkerchief on the old Dean Martin show!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

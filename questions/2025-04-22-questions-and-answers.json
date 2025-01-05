@@ -1,41 +1,71 @@
 {
-  "gameNumber": 109,
+  "gameNumber": 110,
   "date": "2025-04-22",
   "questions": [
     {
-      "quote": "Oh, Elaine, we've covered all of that in the catalogue ad nauseum. No, I would like this book to be about my day-to-day life.",
+      "quote": "Did you see that? The guy's walking away. What is wrong with you? That was a three hundred dollar profit.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Kramer? Have you seen George, around? I can't get a hold of him.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Allison",
-        "Mike"
-      ],
-      "correctAnswer": "Allison"
-    },
-    {
-      "quote": "Morning Thunder has caffeine in it, Jerry doesn't drink caffeine.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Peterman",
-        "Donald"
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Now! Now, George! Turn on the faucet! George, turn on the faucet! Hoochie mama! Hoochie mama! Hoochie mamamaaaaa!",
+      "quote": "They would never tell me, Elaine. First of all, they probably think that I killed Susan. Besides, I don't even think they like me.",
       "characters": [
         "Elaine",
+        "Gary",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah but the explosion singed off his eyebrows, mustache everything. He's all smooth now. Look's like a seal.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Sheila",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it wasn't like that! I didn't even mention you. You know, we were in the garage. You know how garages are. They're conducive to sex talk. It's a high-testosterone area.",
+      "characters": [
+        "Bania",
+        "Kevin",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You better finish your little café latte there. They won't let you in with it.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's at that annual Peterman party tonight. You know the one she danced at last year?",
+      "characters": [
+        "Newman",
+        "Marla",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, yeah, yeah, I-I'm watching you, too. But this guy's really showing me something!",
+      "characters": [
+        "Vanessa",
         "Jerry",
         "Kramer",
         "George"
@@ -43,61 +73,31 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, alright ah well... There's a priest, a minister and a rabbi, and they're all staring at him....",
+      "quote": "What are you comparing yourself to Keith Hernandez. The guys a baseball player Jerry, Baseball!",
       "characters": [
-        "Jerry",
-        "Frank",
-        "Ed",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it's not a beauty contest. It's just a way for people to get to know one another.",
-      "characters": [
-        "Elaine",
-        "Judge",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh boy, that looks great. I can't believe you're giving him this.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Come on up. Oh, it's Elaine, she's just a friend of mine. I don't know what she's doing here now.  I'm sorry. What?",
-      "characters": [
+        "Testikov",
         "Jerry",
         "George",
-        "Gavin",
         "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You got hookers turning tricks in my car. How's that for starters.",
-      "characters": [
-        "George",
-        "Kruger",
-        "Man",
-        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh.. well, you better not. I'm supposed to be careful with it.",
+      "quote": "No proof? We'll get him. He's a crook, sooner or later, he'll slip up.",
       "characters": [
-        "Kramer",
         "George",
-        "Elaine",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Wh..what kinda show is that Sandos Brothers? They take your jacket, then they just throw it? I never heard of that!",
+      "characters": [
+        "Cynthia",
+        "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"

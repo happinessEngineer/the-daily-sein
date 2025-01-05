@@ -1,106 +1,106 @@
 {
-  "gameNumber": 311,
+  "gameNumber": 312,
   "date": "2025-11-10",
   "questions": [
     {
-      "quote": "Could you put a little thought into this? Jerry's gone, you could humour me. He humours me.",
-      "characters": [
-        "Elaine",
-        "Maura",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Who needs that misty herbal rain water crap they sell in the health food store. I use Prell, the hard stuff. Hundred proof - takes your roots out.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "This is it, Jerry! This is it! He is such an incredible person! He's real, he's honest, he's unpretentious...oh, I'm really lucky!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Still, I bet when they gave him a plane, it was a lot nicer than this one.",
-      "characters": [
-        "George",
-        "Izzy",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, now what are we gonna do?  See? This is why you should get a fax and a Xerox.",
+      "quote": "Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen.",
       "characters": [
         "Kramer",
+        "Eva",
         "George",
-        "Elaine",
-        "Glenn"
+        "Peterman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": ". . . Martinez throws it over Alomar's head. O'Neill is safe at home. And the Yankees take the lead.",
+      "quote": "Hey.  Hey what're you watching? What is that? My Cousin Vinnie?",
       "characters": [
-        "Tv",
         "Jerry",
-        "George",
-        "Lippman"
+        "Susan",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Tv"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Uh, I think his answering machine's broken, so I just gave up. Well, what do you think?",
+      "quote": "All right, so what? You put out the catalog. How bad could it be?",
       "characters": [
-        "Morty",
-        "Kramer",
+        "Jerry",
+        "Silvio",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Mothers say things. My mother goes babbling on and on like a crazy person.",
+      "quote": "Hey. That's a big oven. Huh. Listen. I was wondering if you could do me a favor.",
       "characters": [
+        "Kramer",
+        "George",
         "Peterman",
-        "Donna",
-        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now you didn't tell me you didn't know how to drive. You should have mentioned that.",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Where are you up to, with such a nice present, birthday party?",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "Morty",
         "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Because if I watch it at my apartment I feel like I'm not doing anything. If I watch it here, I'm out of the house; I'm doing something.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Morty"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know I still got that pen, the one that writes upside down.",
+      "quote": "\"They took a pitching machine, a batting cage ,the in-field tarp and all of Mr Steinbrenner's vitamins.. Now , we have reasons to believe it's an inside job.\"",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Jack"
+        "Wilhelm",
+        "Captain",
+        "George"
       ],
-      "correctAnswer": "Jack"
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "All right! Yeah.. Courtside.. Whoa! Don't let this girl get away..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I tell you this. If the real Phil Rizzuto was down there, this wouldn't be happening!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

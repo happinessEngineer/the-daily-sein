@@ -1,106 +1,106 @@
 {
-  "gameNumber": 300,
+  "gameNumber": 301,
   "date": "2025-10-30",
   "questions": [
     {
-      "quote": "Yeah. Too bad, 'cause you gotta have the affection - which you obviously have. I think it's great that you're so open with your affections in public. See, we had that.",
+      "quote": "Oh yeah, people really seem to be enjoying themselves. You know, they come in once, it's like they're addicted.",
       "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Well once he gets married that's it, she'll probably get pregnant, they'll move to Westchester. I'll never see him again.",
-      "characters": [
-        "Elaine",
-        "Saleswoman",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "They owe me for those ducks. They were flown in from Newfoundland.",
-      "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Poppie"
-      ],
-      "correctAnswer": "Poppie"
-    },
-    {
-      "quote": "All right, Jerry. Let's see if you can get it in your head that this is not an Easter egg hunt for your childish amusement.",
-      "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "We had a deal. Are you reneging out of the deal? Are you reneging? That's a renege.",
+      "quote": "You always have to know everything that's going on, don't you?",
       "characters": [
-        "Newman",
-        "George",
-        "Clerk",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Yeah. Mr. Lippman. It was *his mistress* who insisted that he call it…",
-      "characters": [
-        "Eddie",
+        "Kramer",
+        "Estelle",
         "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "First of all you don't even know technically that I went. That's for starters. I mean I could've been pouring a bottle of water out there. You don't know.",
-      "characters": [
-        "Elaine",
-        "Susan",
-        "George",
-        "Jerry"
+        "Helena"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery.",
+      "quote": "Well, I don't mind someone with a phony personality, but I gotta draw the line somewhere.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Doctor"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't want to hear another word. And to think how close I came to you being the one! I must have been out of my mind.",
-      "characters": [
-        "Marla",
-        "Ned",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Marla"
-    },
-    {
-      "quote": "Oh, was he? Was he? I guess the cable man doesn't like to be kept waiting.",
-      "characters": [
-        "Kramer",
-        "Jerry",
+        "Alec",
+        "George",
         "Frank",
-        "Woman"
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I just want to you know I'm retracting our dinner invitation.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Dan"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh, yeah. Right. Like anybody's ever gonna do this! How did you get me to go along with that? A show about nothing!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Puddy's just gonna give you the car, huh?  You'll see. First they stick you with the undercoating, rust-proofing, dealer prep. Suddenly, you're on your back like a turtle.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Porn quotes... I'm so lucky to have a friend like you, George. Ever tell you how much I love you?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Naomi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know this whole place is going vrrrrrrrrrrrrt, downhill. I could have come in here last week with a bad plum but I let it go.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Jack"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You gotta look at this. I pulled it in perfectly equidistant from the car in front of me and the car behind me.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "John"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, so you cry... and when you see the dancing, you cry again.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

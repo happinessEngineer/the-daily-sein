@@ -1,69 +1,39 @@
 {
-  "gameNumber": 676,
+  "gameNumber": 677,
   "date": "2026-11-10",
   "questions": [
     {
-      "quote": "Look just because Kramer vomited on her doesn't mean the deal is dead.",
+      "quote": "I don't have a preference, okay! Just make a decision yourself! Stop bothering me with every minor little detail, please?",
       "characters": [
-        "Daphne",
         "Elaine",
-        "Hanke",
+        "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What am I, a--a bulimic, chain-smoking, stenographer from Staten Island?",
+      "quote": "What my wife is trying to say is that this is supposed to be our time.",
+      "characters": [
+        "Ray",
+        "Jerry",
+        "Helen",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I don't even know Peterman. How the hell am I gonna relax? I'm gonna have to be on all night. I don't like being on, Jerry, I would much rather be off.",
       "characters": [
         "Elaine",
         "Jerry",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, Louise. I think you'll find this amusing. In early Euclidean geometry--",
-      "characters": [
-        "Kramer",
-        "Estelle",
-        "George",
-        "Jerry"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, you really did it to me this time, Seinfeld. . . . What the hell happened here?",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "See, this is what Jerry's doesn't understand. We can see each other. We can see each other every day, but it doesn't mean we are back together.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It was a bad jig to begin with, we never should have started this jig.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Conrad"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look at this. They make a point of saying on the menu, \"No egg white omelets.\" Look at that.",
+      "quote": "No one's stealing a tractor, it's a five-mile-an-hour getaway. We're dancing around the obvious, it's gotta be disfigurement.",
       "characters": [
         "Jerry",
         "Kramer",
@@ -73,34 +43,64 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nothing, nothing. I'm just taking an interest in what you...do.",
+      "quote": "Well, if they don't let you be my editor on this book, I'll go to another publisher. It's that simple.",
       "characters": [
-        "Elaine",
-        "Babu",
         "Kramer",
-        "Jerry"
+        "Wilhelm",
+        "George",
+        "Rava"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Rava"
     },
     {
-      "quote": "You're giving me the \"it's not you, it's me\" routine? I invented \"it's not you, it's me\". Nobody tells me it's them not me, if it's anybody it's me.",
+      "quote": "Bette is recuperating right now and I'm not going to allow anything to disturb her.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What if he left you a used Kleenex, what's that, a valentine? Now you go up to him and you tell him that if he's thinking of turning me in, that I got the goods on him!",
       "characters": [
         "George",
-        "Susan",
+        "Elaine",
         "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you a question. Who would win in a fight between you and me?",
+      "characters": [
+        "Kramer",
+        "Stu",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He only works three hours a day. He makes a fortune. Course he's been doing that for years, right Jerry?",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Good afternoon. One large crab bisque to go. Bread. Beautiful.",
+      "quote": "Peru! I paid $300 bucks for these. I could have bought a house in Peru for $300 bucks!",
       "characters": [
-        "Stationer",
-        "Lou",
-        "George",
-        "Jerry"
+        "Steinbrenner",
+        "Helen",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

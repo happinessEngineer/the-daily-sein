@@ -1,104 +1,104 @@
 {
-  "gameNumber": 537,
+  "gameNumber": 538,
   "date": "2026-06-24",
   "questions": [
     {
-      "quote": "Yeah. The only think that saved him is that he accidentally flashed their secret gang sign.",
+      "quote": "Hey, Babe, your boss called. You owe five bucks for a balloon bouquet. Yeah, he says you can just give it to him tomorrow when you see him.",
       "characters": [
+        "Puddy",
+        "Maestro",
+        "Peterman",
+        "Ray"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "No, no, I was just thinking out loud I don't want my picture on a card.",
+      "characters": [
+        "Newman",
         "Jerry",
-        "Kramer",
         "Elaine",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Aw c'mon. It's a fantastic name. It's a real original, nobody else is gonna have it and I absolutely love it.",
+      "quote": "Course, I wouldn't, I mean uh, the guy is uh, well obviously  the guy has his problems.",
       "characters": [
-        "Ben",
-        "Elaine",
         "Jerry",
+        "Elaine",
+        "Carl",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No bother! You get me job, you get me apartment, you very very good man.",
+      "quote": "I can see the can if you're in the army, but fresh fruit it's available, it's there, it's 2 aisles over.",
       "characters": [
-        "Michael",
-        "Jerry",
-        "Elaine",
-        "Babu"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "Absolutely, uh, lets see there's, uh, Vandelay Industries, I just saw them. I got very close there. very close.",
-      "characters": [
-        "Jerry",
-        "Newman",
+        "Kramer",
+        "Frank",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, they tend to give those jobs to ex-ballplayers and people that are, you know, in broadcasting.",
-      "characters": [
-        "Carrie",
-        "George",
-        "Toby",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeeeaaah.  Well..... I've never really felt confident in uh..... one particular aspect.",
+      "quote": "You stuck your hand out, so I shook it. I don't know about a pact. Anyway, you should be happy you're engaged. You're getting married.",
       "characters": [
-        "Buckles",
-        "Jerry",
-        "Steinbrenner",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I did. He loves Rava. Worse, he loves Ray. And he didn't think you're funny at all.",
-      "characters": [
+        "Frank",
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "\"…well of course I noticed it too with those cannibal breasts and pouty lips. I don't have to tell you she was a knock out….\"",
-      "characters": [
-        "Elaine",
-        "Announcer",
-        "Helen",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm glad you're here. This can get really boring. Do you know where I can get some good olives?",
-      "characters": [
-        "Kramer",
-        "Greg",
-        "Salesman",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Greg"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Wait, wait wait, not so fast. Jerry, you gotta take me to get this thing refinished.",
+      "quote": "Are you kidding? They were merciless! What do you expect when your name rhymes with a part of the female anatomy?",
       "characters": [
-        "George",
-        "Elaine",
+        "Woman",
+        "Kramer",
         "Jerry",
-        "Kramer"
+        "Elaine"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Do you know how hard it's getting just to tell people I know you?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, I'll go downtown to Chinatown with him, but that is it!",
+      "characters": [
+        "Attendant",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Trust me, Kramer. Given the legal opportunity, I will kill you.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What did they put on this tuna? Tastes like a dill, I think it's a dill.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Rudy",
+        "George"
       ],
       "correctAnswer": "George"
     }

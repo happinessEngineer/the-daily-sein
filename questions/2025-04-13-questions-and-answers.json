@@ -1,106 +1,106 @@
 {
-  "gameNumber": 100,
+  "gameNumber": 101,
   "date": "2025-04-13",
   "questions": [
     {
-      "quote": "If I wind up sitting next to Uncle Leo, I am leaving. He's always grabbing my arm when he talks to me. I guess it's because so many people have left in the middle of his conversation.",
+      "quote": "Kramer, you can't keep avoiding her like this, you're gonna have to say something.",
       "characters": [
-        "Lamar",
-        "Estelle",
-        "Ethan",
+        "Elaine",
+        "Kramer",
+        "Doctor",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He'll always be criticizing your brushing technique, it'll drive you crazy.  Away from the gums...",
+      "quote": "No I didn't mean to imply that you did. You're obviously a very well proportioned individual. I was just wondering, have they ever offered you a chair?",
       "characters": [
+        "Morty",
         "Kramer",
         "George",
-        "Beth",
-        "Jerry"
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think that's a \"what's good for the goose is good for the gander\".",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, could you do me a personal favor? And if I'm out of line, *please*, let me know. Could I keep my trench coat in your closet for a few months?",
-      "characters": [
-        "Elaine",
-        "Buckles",
-        "Todd",
-        "George"
-      ],
-      "correctAnswer": "Buckles"
-    },
-    {
-      "quote": "Oh, ho ha ha. No, no, I'm actually here to bid, Sue Ellen. I mean that is if anything is to my liking.",
+      "quote": "Oh please, Jerry, please please please, I can't sit with him, he tells these stories, it's gonna be awful.",
       "characters": [
         "Elaine",
         "George",
-        "Jackie",
-        "Naomi"
+        "Kramer",
+        "Ray"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Good. And I'll tell you what... You don't have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.",
+      "quote": "Hey you know when Superman saves someone no one asks if he's trying to hit on her!",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, yeah... Hey, Jerry, would you like anything from Mrs. Hudwalker's apartment?",
-      "characters": [
-        "Kate",
-        "Harold",
-        "Jerry",
-        "Keith"
-      ],
-      "correctAnswer": "Harold"
-    },
-    {
-      "quote": "I did. I'm just curious. It's been almost a week. I want to check it out.  Six points?  It's up six points!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Gary",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "A thousand?! I know a coupla Chinamen over there on Forty-third Street, who'll do it for half that.",
-      "characters": [
+        "Frank",
         "Newman",
-        "Jerry",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, anyway, I've been giving out your number as my standard fake.",
+      "characters": [
+        "Alton",
         "Morty",
-        "Ray"
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you know what the interest on that fifty dollars comes to over fifty-three years?",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Morty",
+        "George"
       ],
       "correctAnswer": "Morty"
     },
     {
-      "quote": "Not on my watch!  I won't have you turning my office into a den of iniquity! Get your fix somewhere else!",
+      "quote": "No, I'm gonna hold it under her nose so she can smell the scent of stale Bosco that I had to live with for three years, and I'm gonna say, \"Remember this shirt, baby?! Well, now, it's payback time!\"",
       "characters": [
         "Elaine",
         "George",
-        "Peterman",
+        "Debby",
         "Jerry"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Did you just roll your eyes at him? Because let me tell you something, if anobody should be rolling their eyes, it is me at him about you.",
+      "quote": "Fluff and Fold. The only way to live.  I drop it off. I pick it up. It's a delight.",
       "characters": [
-        "Sid",
-        "Morty",
+        "George",
+        "Kramer",
         "Elaine",
-        "Puddy"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well, I don't know if I'm happy for them, I mean I'm glad they're happy, but, frankly, that doesn't do anything for me.",
+      "characters": [
+        "Jerry",
+        "Izzy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

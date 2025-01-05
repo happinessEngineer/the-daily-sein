@@ -1,106 +1,106 @@
 {
-  "gameNumber": 326,
+  "gameNumber": 327,
   "date": "2025-11-25",
   "questions": [
     {
-      "quote": "So--ah, Kramer. Why'd you ask me out to dinner?  An' why Pomodoro?",
+      "quote": "I know. I'm really running out of excuses with this guy. I need some kind of excuse rolodex.",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Elaine, c'mon. Would you just make the call?  Please, make the call.",
-      "characters": [
-        "Leo",
-        "Susan",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What are you talking about? That marriage ended six months ago. She's already remarried.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I can get you a spot right behind him. He has got a great butt.",
-      "characters": [
-        "Tor",
         "George",
         "Kramer",
-        "Joyce"
-      ],
-      "correctAnswer": "Joyce"
-    },
-    {
-      "quote": "No, wait a minute, Newman! You can't let this dream die. You moving away is my dream too!",
-      "characters": [
-        "George",
-        "Robin",
-        "Jerry",
-        "Bania"
+        "Peterman",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "She's this crazy woman who is convinced that my germs make her sick.",
+      "quote": "See, we should've gotten some collateral from him.. Like his bag of cans, or.. his other bag of cans.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, fine. Fine. Go ahead.  Cut the stupid thing in half.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Kramer",
+        "Maura",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "She wants to keep it quiet. She... thinks we have a real future together.",
+      "quote": "Look I'm sorry about before....I mean I'm sure I'll learn to like her, Jerry",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't lie. I know it was you. I get a sample of your hair. I match them up.",
+      "characters": [
+        "Enzo",
+        "Steinbrenner",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "I haven't talked to him in, like, three weeks... I THINK it might be over...",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't believe that for a minute. Well, Elaine, it was good of you to stop by.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Puddy",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "All right You really want to know?...It all started when she told met hat...she was the voice on your tape recorder.",
       "characters": [
         "Kramer",
-        "Carol",
-        "Salesman",
+        "Peterman",
+        "Jimmy",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought.",
+      "quote": "A fine man, he spoke often of you. He's very proud of the work you're doing.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Ho, ho, ho! He's got a live one. He's just reeling his big fish in!",
-      "characters": [
+        "Landlord",
+        "Puddy",
         "George",
-        "Jerry",
-        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Landlord"
     },
     {
-      "quote": "Worse. We made out at the table like our plane was going down!",
+      "quote": "Yeah. He talks about him like he split the atom. The kid works for the Parks Department.",
       "characters": [
-        "Susan",
-        "Elaine",
         "Jerry",
+        "Ned",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

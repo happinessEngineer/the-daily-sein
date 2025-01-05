@@ -1,106 +1,106 @@
 {
-  "gameNumber": 357,
+  "gameNumber": 358,
   "date": "2025-12-26",
   "questions": [
     {
-      "quote": "No, no. Mister Peterman, why don't we keep them - as a, as a reference?",
+      "quote": "...and uh, I'm afraid we have a bit of a problem. Well, the point is, doctor uh, I'm very much in love with Elaine...",
       "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Father"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You won't believe this but, as I'm leaving, she calls me \"Susie.\"",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right all right forget it. You don't have to mention any of this to Miss. Landis do you?",
-      "characters": [
-        "Elaine",
-        "Lippman",
+        "Michael",
         "Jerry",
         "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Okay, alright listen. Forget about The Gap because we are through!",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Tia",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'll tell you something else, you're looking a little chunky yourself, buddy.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Newman",
-        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Jerry, Jerry, Jean-Paul's missing! He's alone in the city! Call me back.",
+      "quote": "Y'know my cousin knows the producer. I may get to go backstage and meet Olympia Dukakis.",
       "characters": [
+        "Woman",
         "Jerry",
         "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "He's with the touring company of Joseph and the Amazing Technicolor Dreamcoat. He's the guy in charge of the wigs.",
+      "characters": [
+        "Dan",
+        "George",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Um, what was that last thing you gave me? That was pretty good.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Tim"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, you're right. I really should keep more of your favourites on hand.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Jack",
-        "Mike"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "See now that bothers me even more than dying bothers me, cause it's people like you who live to be a hundred and twenty because you're not bothered by it. How could it not bother you?",
+      "quote": "Because I kissed her in the meeting. Russell found out, he fired her over the phone. Finally, my stupidity pays off!",
       "characters": [
         "George",
-        "Elaine",
-        "Kramer",
-        "Detective"
+        "Bania",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hum, he's such a great guy. You should meet him. You know he's the one who got that hit …",
+      "quote": "Here you go. Mail is evil. Pass it on. Hey, mail blows. Fax it to a friend.",
       "characters": [
-        "George",
-        "Diane",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George, we just got the final budget numbers. We went over budget on some of the items, but I don't think there's gonna be a problem.  I'll let you get back to work, George.",
-      "characters": [
-        "Wilhelm",
-        "Celia",
+        "Maryedith",
+        "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Wilhelm"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright!  Hello, Alec? Hi, it's Jerry Seinfeld. You know, you got a great 'John Houseman' name. Alec Berg. Did you hand in your assignment, Mr. Berg?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sheila",
+        "Rachel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, white meat. And if I see one piece of dark meat on there. It's your ass buster.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I love the black and white. Two races of flavor living side by side in harmony. It's a wonderful thing isn't it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He'll always be criticizing your brushing technique, it'll drive you crazy.  Away from the gums...",
+      "characters": [
+        "Daphne",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

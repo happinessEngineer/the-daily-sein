@@ -1,106 +1,106 @@
 {
-  "gameNumber": 731,
+  "gameNumber": 732,
   "date": "2027-01-04",
   "questions": [
     {
-      "quote": "Peterman's book is big business. People want to know the stories behind the stories.",
+      "quote": "Well, I almost did once, and I blacked out. When I came to, the car was in a ditch, and the tank was full. I don't know who did it, and I never got to thank them..",
       "characters": [
-        "Susan",
-        "Jodi",
-        "Doctor",
+        "Beth",
+        "Elaine",
+        "Secretary",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Heh, haa. And that's no good. I've tried it straight, Jerry. We've all seen the results. For me, sick is the only way to go.",
+      "quote": "Well, it's going to be! Because I'm going back on strike. Come on Elaine.  It's a walk out!",
       "characters": [
+        "George",
         "Izzy",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know. He got the hit in game SIX. So, so then what happened?",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, he wants me to run the catalog! It's crazy! I can't be in charge!",
+      "characters": [
         "Elaine",
         "George",
+        "Jerry",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Cause you only get one call. The prison call is like the king of calls.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "what happened to his face, tell me, what happened to his face",
+      "characters": [
+        "Elaine",
+        "Farkus",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah..  Sally called Susan - said you guys really hit it off.",
+      "characters": [
+        "George",
+        "Ralph",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well, ah, I'll tell you, uh Regis... actually, this is a true story. I umm I was skiing at the time.",
+      "quote": "Your father won a thousand dollars at the track last week, and he gave you a hundred, and you were supposed to give fifty dollars to your sister.",
       "characters": [
+        "Jerry",
+        "Nana",
         "George",
-        "Jerry",
-        "Mel",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, he was waitin' inside his apartment for him with a sock full of pennies.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, Mr Seinfeld, I..I'm not sure I understand why you want a job here.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, he came by to pick up his check for the banquet hall. You know I got a hundred and eighty-three responses? Oh, it's gonna be a rager.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I didn't do it! I just had to pay her to cover for somebody else!",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ah, you know how in planes they got first class? More leg room, better ride? Well, I'm bringing that concept to mile one-fourteen.",
-      "characters": [
-        "Allison",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh yeah.  There you go, keep the change. Bye now. I'll see you.",
-      "characters": [
-        "George",
-        "Sylvia",
-        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Nana"
     },
     {
-      "quote": "You don't understand. This organ, it's very... schizophrenic.",
+      "quote": "Actually, I never had any formal training. I guess I'd be better suited for improvs, or something..",
       "characters": [
+        "George",
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
+        "Mickey",
+        "Celia"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know why Rifkin was a serial killer? Because he was adopted.  Just like Son of Sam was adopted. So apparently adoption leads to serial killing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

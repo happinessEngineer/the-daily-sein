@@ -1,29 +1,19 @@
 {
-  "gameNumber": 139,
+  "gameNumber": 140,
   "date": "2025-05-22",
   "questions": [
     {
-      "quote": "Look, I'm really getting tired off all the fighting. Maybe we should just end this before we really start hating each other.",
+      "quote": "Oh, alright ah well... There's a priest, a minister and a rabbi, and they're all staring at him....",
       "characters": [
-        "George",
-        "Jerry",
-        "Cynthia",
-        "Elaine"
+        "Hanke",
+        "Kramer",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nothing. A bottle broke. That's all. What do you mean, you're gonna move in here?",
-      "characters": [
-        "Alton",
-        "Dan",
-        "Jerry",
-        "Brett"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "here Elaine here, Superman  please, next time it will only be the two of us",
+      "quote": "Busy. Don't give me busy. Who's not busy? I'm busy, we're all busy, everybody's busy. All right, tell me, what's kept you so busy?",
       "characters": [
         "George",
         "Kramer",
@@ -33,74 +23,84 @@
       "correctAnswer": "George"
     },
     {
-      "quote": "Why, because I threw the card out? How long was I supposed to save it?",
+      "quote": "No, I'm not gonna tell her about your shrinkage. Besides, I think women know about shrinkage.",
       "characters": [
-        "Elaine",
-        "George",
         "Jerry",
-        "Leo"
+        "George",
+        "Kramer",
+        "Izzy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Hmm. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...",
+      "quote": "You tell that son of a bitch no Yankee is ever comin' to Houston. Not as long as you bastards are running things.",
       "characters": [
+        "Toby",
         "George",
-        "Gino",
-        "Jerry",
+        "Rabbi",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Kramer, listen to me. Listen! This is a once in a lifetime opportunity.  Your dreams have been shattered, somebody's got to be held accountable. Come on, we'll take for every penny she's got!",
+      "quote": "Thanks a lot. I'm really late. My parents are waiting in front of my building and we're stuck here.",
       "characters": [
-        "Elaine",
         "George",
         "Kramer",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, you never know.  Let's see how many I can fit in my mouth.",
+      "quote": "Yeah, yeah. I see the irony. All right. What about this? What if I can find some way to break up with her so that she'll still like me and it doesn't affect the deal.",
       "characters": [
-        "George",
+        "Gino",
         "Kramer",
         "Jerry",
-        "Owner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No you wouldn't. Nobody would. It's just that... they were missing, and... well I'm just inquiring.",
-      "characters": [
-        "George",
-        "Clerk",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, Elaine. My boy's a man today. Can you believe it? He's a man.",
-      "characters": [
-        "Lippman",
-        "Debby",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "Well, I wouldn't want you to do that. You know there's a lot of losers out there.",
-      "characters": [
-        "Stan",
-        "Bookman",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I never even got to the gym. Kramer got the gloves, wanted to come home and start working on his floor.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't beleive your father owns this place. So how are the desserts here?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's a sports writer for the daily news. I find him very insightful...",
+      "characters": [
+        "Jerry",
+        "Janet",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, there's something wrong with Loni Anderson?  Hey listen, thanks again for running over here. I appreciate it.",
+      "characters": [
+        "Bette",
+        "Nikki",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

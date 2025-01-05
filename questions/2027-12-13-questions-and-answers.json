@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1074,
+  "gameNumber": 1075,
   "date": "2027-12-13",
   "questions": [
     {
-      "quote": "Oh, 'kay, see. On this particular Tuesday  you could've watched six hours of Lucy. There's I Love Lucy, The Lucy Show, Here's Lucy.",
+      "quote": "The back? They never find anything in the back. If they had anything good in the back, they'd put it out in the front.",
       "characters": [
-        "Tony",
-        "Ricky",
+        "George",
+        "Elaine",
         "Jerry",
-        "George"
+        "Kramer"
       ],
-      "correctAnswer": "Ricky"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's like a virus. He attaches himself to a healthy host company, and the next thing you know, the entire staff's infected.",
+      "quote": "Hey, Cosmo what happened to your mother last night. She hung me out to dry.",
+      "characters": [
+        "George",
+        "Laura",
+        "Jerry",
+        "Ray"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's coming! It's a Commando 8! 12.000 BTU's! It's gonna be like a meat locker in here.",
       "characters": [
         "Jerry",
         "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well I bet I can get in once I mention I'm from ...The New Yorker.",
-      "characters": [
-        "Elaine",
-        "Joel",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hard feelings? What do you know about hard feelings? Y'ever have a man die in your arms? Y'ever kill somebody?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Bookman",
-        "George"
-      ],
-      "correctAnswer": "Bookman"
-    },
-    {
-      "quote": "And then when I come out of the pool, my towel's always gone.",
-      "characters": [
-        "Elaine",
-        "Dana",
-        "Steinbrenner",
-        "Jerry"
+        "Bonnie",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, they say all it is is that you go over to their apartment and, I dunno, you take them for a walk and you get a cup of coffee and it's supposed to make them feel good.",
+      "quote": "If you could you'd guzzle it by the gallon! Ovaltine! Hershey's!",
       "characters": [
+        "Kramer",
         "Elaine",
         "Jerry",
-        "George",
-        "Receptionist"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "For me? Go...Yeah, what tonight? Yeah, I'll be there...Yeah later.  Well, somebody's baby-sitting.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I hate rental cars. Nothin' ever works: the window doesn't work, the radio doesn't work... and it smells like a cheap hooker... [pause] Or is that you?",
-      "characters": [
-        "Kimbrough",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, believe me it's not good. I'll mail you a new one with something really funny written on it.",
+      "quote": "The sea was angry that day my friends… like an old man trying to send back soup in a deli!",
       "characters": [
         "Elaine",
+        "Jerry",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It looks like your breaking into it like an otter breaking into a clad.",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Isn't that...?  Oh, is this from the snow last night?  Ugh... you know what you should've done? You should've turned it inside out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Tv",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. There's something wrong with that? I'm a character. People are always saying to me, \"You know you're a quite a character.\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, you know, I mean, sometimes it's good to get there and make sure you get your seats and then go to the bathroom.",
+      "quote": "Well, the rickshaw's gone. We strapped it to a homeless guy and he , he bolted.",
       "characters": [
-        "Elaine",
         "Kramer",
-        "George",
-        "Jerry"
+        "Elaine",
+        "Wilhelm",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, don't give him any money for that. It'll cost you less to keep it another day, rewind it and bring it back tomorrow. Don't give him the satisfaction.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

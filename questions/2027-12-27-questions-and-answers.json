@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1088,
+  "gameNumber": 1089,
   "date": "2027-12-27",
   "questions": [
     {
-      "quote": "Wait a minute. Wait a minute. As long as you're going to lie to the guy, why don't you tell him that you lost both of the tickets, then we can go?",
+      "quote": "\"I have to go see Steinbrenner later. Mr Wilhelm told him that I was the one responsable for stealing all the merchandise.\"",
       "characters": [
+        "Doctor",
+        "Frank",
         "Jerry",
-        "Elaine",
-        "George",
-        "Susan"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "How does sitting next to a person in a movie theater increase the level of enjoyment? You can't talk during a movie. You know, this is stupid, c'mon, let's just go.",
+      "quote": "I was a little nervous, I got distracted. It has something to do with a car, or a fish...",
       "characters": [
-        "Kramer",
+        "Jerry",
+        "Betsy",
         "George",
-        "Elaine",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Sally, you can't quit the business. This is all because of me.",
+      "quote": "No, no, no. Out of the question. I was over there today. He's got the good spot in front of the good building in the good neighbourhood. I know he's not gonna wanna move.",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've been out with him three times, I should know the mans name.",
       "characters": [
         "George",
-        "Elaine",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, that didn't work. Hey, how about this…ketchup and mustard in the same bottle?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "O'Henry?  That's one of our top-selling candy bars.  It's got chocolate, peanuts, nougat, it's delicious, scrumptious, outstanding!  Have you been to a doctor?",
-      "characters": [
-        "Kevin",
-        "George",
         "Jerry",
-        "Jackie"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Oh, you got the Civil War book.  I saw some of that show, it was wonderful.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Hoyt"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, but I saw the look on his face when he put his arm around me. And then we went to his apartment, and I sat on one of his chairs and it broke. And he says, \"Boy, you're a lot of woman!\"",
-      "characters": [
-        "Vandelay",
-        "Jerry",
-        "Sheila",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "It does itch. Maybe I will go down at Kruger and talk to her.",
+      "quote": "I'm interviewing all these annoying little overachievers.. finally, this kid walks in - Steven Koren - a regular guy.. likes sports.. watches T.V..",
       "characters": [
-        "Jackie",
+        "Kramer",
         "Elaine",
         "Jerry",
         "George"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I put that Chinese balm on that the Maestro gave me. And look, it healed it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's a clothing store downtown. They got a mannequin in there that looks exactly like Elaine.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, Gary  I had a little chat with George the other day...",
+      "characters": [
+        "Voice",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey how about that ball man injuring Monica Seles. Wasn't that something.",
+      "quote": "Well, it's alright, I'm your fiance. Everyone assumes you'll tell me everything.",
       "characters": [
+        "Susan",
+        "Morty",
         "George",
-        "Elaine",
-        "Jerry",
-        "Driver"
+        "Jack"
       ],
-      "correctAnswer": "Driver"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "All right. That's enough for today. You're tired. Get some sleep. I'll see you first thing in the morning.",
+      "quote": "Yeah, so Lenny gave me the tickets for tomorrow night. I'm inviting Frank and Marsha. 'Wantcha to come.",
       "characters": [
-        "Jerry",
+        "Lippman",
         "George",
-        "Elaine",
-        "Doctor"
+        "Ben",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Lippman"
     }
   ]
 }

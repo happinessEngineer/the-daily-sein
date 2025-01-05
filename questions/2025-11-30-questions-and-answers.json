@@ -1,106 +1,106 @@
 {
-  "gameNumber": 331,
+  "gameNumber": 332,
   "date": "2025-11-30",
   "questions": [
     {
-      "quote": "If she doesn't show up, we can't possibly have dinner with him alone.",
+      "quote": "There putting in a lost and found because of me. There's a time limit but still.",
       "characters": [
+        "Steinbrenner",
+        "George",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I will. Besides, she's got a boyfriend, Jerry, you know him. Dan. Remember, we went to that party at his house?",
+      "characters": [
+        "Morty",
         "George",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "We've been trying to get it out of him for ten years. What is it?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Five seconds. And Marcelino says he's taking your check down today.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, there, all right I said it there.. Ya' satisfied? Anything else you want to know?",
-      "characters": [
-        "Kramer",
-        "Tawni",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "If you ask me, they have no business living amongst us. Vile, USELESS BEASTS . . .",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "George",
-        "Donna"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh, no. We're campaigning, Jerry. To rule the people, one... must walk among them.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Nah, with crutches it's a funny story, with a cane it's a sad story. You through with those?",
-      "characters": [
-        "George",
-        "Bania",
-        "Kramer",
-        "Lippman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ok, why? Why do guys do this? What is so appealing to men about a cat fight?",
-      "characters": [
-        "Jerry",
-        "Babu",
-        "Naomi",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You can't come up with your own stuff , so you *steal* other peoples? You're nothing but a hack.",
+      "quote": "Well, what else? Was he nervous? Did he use a lot of slang? Did he use the word 'man'?",
       "characters": [
+        "Kramer",
+        "Jerry",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He musta got my number off the computer. We ended up talking for, like, two hours.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Specific, Ah, lets see. I've walked in and out of so many buildings they all .. blend in together, I uh, ..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm terribly sorry Mr Kramer but we can't get your car now, the keys seems to have been misplaced.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Owner",
+        "Attendant"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Hey, you know, there's this secretary at work that always had a crush on me.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Michael",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Salsa, seltzer. Hey, excuse me, you got any salsa? No, not selzer, salsa.  What's the matter?",
+      "characters": [
+        "Jerry",
         "Kramer",
         "Elaine",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Elaine, they forgot to deliver your paper today. Why don't you just grab that one.",
+      "quote": "So, how do you like the way I talked you into comin' down here?",
       "characters": [
         "George",
-        "Puddy",
-        "Elaine",
-        "Jerry"
+        "Michael",
+        "Susan",
+        "Elaine"
       ],
-      "correctAnswer": "Puddy"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me get this gum out of my hair and then I'll be ready for bed.",
+      "characters": [
+        "Kramer",
+        "Janet",
+        "Jerry",
+        "Voice"
+      ],
+      "correctAnswer": "Janet"
     }
   ]
 }

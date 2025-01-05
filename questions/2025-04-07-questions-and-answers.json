@@ -1,106 +1,106 @@
 {
-  "gameNumber": 94,
+  "gameNumber": 95,
   "date": "2025-04-07",
   "questions": [
     {
-      "quote": "Very cool. So, what do you say? Can you do this one little favor, Newmie?",
+      "quote": "I just went to get popcorn... Ugh... [shakes more popcorn] I just went to get popcorn, okay? And and and somebody took my seat, and my coat is in there!",
       "characters": [
         "Kramer",
-        "Frank",
+        "Jerry",
+        "Elaine",
+        "Wyck"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Tia, did you see all the flowers in that bathroom? It's like an English garden in there.",
+      "characters": [
+        "Jerry",
         "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You open the door to the car, boom, you walk right into the hospital. Eh, You can't beat that spot.  I am on a roll. I'm just willing these great parking spots.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, good for you. Hey, you have to look your best. You're out there now.",
+      "characters": [
+        "Elaine",
+        "Father",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well first we're going to a matinée, I'm taking the afternoon off, we're gonna go see \"My Fair Lady\" and they we are gonna go to dinner. He knows all these fantastic places.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's got a house, a family, they could take away his license. You should have heard him. Three notes, how stupid was that? We never should have got three notes.",
-      "characters": [
-        "Ricky",
-        "Kramer",
-        "Jerry",
-        "Mickey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But I digress. Let me see, now. You were standing at one end of the line and I was right next to you. And I remember we were even for like, the first five yards and then , BOOM,...You were gone.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Wilhelm"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, my friend Jay Reimenschneider eats horse all the time. He gets it from his butcher.",
-      "characters": [
-        "Steinbrenner",
-        "Jerry",
-        "Kramer",
-        "Salesman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I didn't do it! It..It just got done. I don't know how it got done, but it did.",
-      "characters": [
-        "Wendy",
-        "Elaine",
-        "Jack",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, ... now, you come on over. I'll have my cereal and I'll take your picture.",
-      "characters": [
-        "Lippman",
-        "Morty",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "y'did.........phfwelll. Look.. hum..... Can you take me over there?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Tv",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, nothing much. You know, I went over to Jerry's. Talked to Jerry. Um, could I talk to you for a minute?",
-      "characters": [
-        "Elaine",
-        "Amy",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, a member of my congregation has a timeshare in Myrtle Beach. Perhaps, if you're not too busy, we could wing on down after the High Holidays? Elaine? 'Lainie?",
-      "characters": [
-        "Elaine",
-        "Frank",
-        "Rabbi",
-        "Kramer"
-      ],
-      "correctAnswer": "Rabbi"
-    },
-    {
-      "quote": "Well how do you even know it's hers? Maybe it belonged to Carol. Did you see a name on the tube?",
+      "quote": "Well, I ran out to apologize to a virgin and I crossed against the light and I knocked over the delivery boy.",
       "characters": [
         "George",
-        "Cindy",
+        "Kramer",
         "Jerry",
         "Elaine"
       ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jean-Paul, it's not my microwave, ok? Ok? All right, listen, let's just go. Come on, Jean-Paul, let's go. Let's go.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And this.  Cosmo here. Yeah, un-huh, no, no, no, no, I'll help. Yeah, Firestorm's good. I saw it yesterday. Yeah well my buddy Jerry , ah, he's seen it twice. You want to talk to him? Here --",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He might as well have! I caught him, and his face was covered in chocolate and cookie crumbs.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll get you the money, Jerry. I got a hundred dollars in my front pocket if you want to, reach in an' take it!",
+      "characters": [
+        "Morty",
+        "Mike",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mike"
     }
   ]
 }

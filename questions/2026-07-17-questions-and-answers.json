@@ -1,106 +1,106 @@
 {
-  "gameNumber": 560,
+  "gameNumber": 561,
   "date": "2026-07-17",
   "questions": [
     {
-      "quote": "Yeah, I'm gonna keep these here too, huh? They'll be alright.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, let's see, I've got a ten kroner, a five kroner, a twenty kroner? No wait, that's another ten kroner. A fimty kroner? How much is that?",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Kramer",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "I just can't be with someone who's life is in complete disarray.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Doctor"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Feel much better here at my home base, Jean-Paul. It's a controlled environment.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman!  Hahaha!",
-      "characters": [
-        "Sophie",
-        "Elaine",
-        "Holly",
-        "Milos"
-      ],
-      "correctAnswer": "Milos"
-    },
-    {
-      "quote": "The whole thing is so stupid. Like he wouldn't do the same thing if Elaine walked by in a low-cut dress.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, Jerry. New Year's Eve nineteen ninety-nine. The millennium. I told you about that.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Bob"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I was having this party and I didn't invite him and then Jerry, tipped him off.",
+      "quote": "Well I'm very disappointed in George and Elaine. And you know I'm somebody you don't want to have on your bad side.",
       "characters": [
         "George",
         "Jerry",
-        "Peterman",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, flowers. You didn't have to do that. I mean, the dinner, and the play, and the hansom cab ride.",
+      "quote": "You do realize, of course, these are illegal in your country.",
       "characters": [
-        "Donna",
-        "Valerie",
-        "Rula",
-        "George"
+        "Man",
+        "Jerry",
+        "Kramer",
+        "Regis"
       ],
-      "correctAnswer": "Valerie"
+      "correctAnswer": "Man"
     },
     {
-      "quote": "Oh, hey! Hey, Jer, I want you to meet my new friends, here.  This is, uh, Louis, Jorge, and Umberto.",
+      "quote": "Nah, he was tired. He had some feet in his face. My cousin Holly is completely insane. She keeps calling and accusing me of stealing her napkins.",
       "characters": [
-        "Bonnie",
-        "Kramer",
         "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See that was nice, Jerry.  Oh, by the way, I'm the one who broke your trunk.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Kevin",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh... ...clothing, something, I dunno. So, uh, what are you doing today?",
+      "characters": [
+        "Kramer",
+        "Toby",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I just wanna run and get a beer. I'll be back in a minute.",
+      "characters": [
+        "Doorman",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "Do you know how much that comes to? That's a nickel a day for 20 years. It's going to be $50,000",
+      "characters": [
+        "Voice",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well does it say anywhere in the contract about my car being used as a whorehouse? 'Cause I don't remember reading that clause either..",
+      "characters": [
+        "Tony",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you can't have it! In fact maybe you better just pay your check and get out.",
+      "characters": [
+        "Kramer",
+        "Marcelino",
+        "Jerry",
+        "Waitress"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
     }
   ]
 }

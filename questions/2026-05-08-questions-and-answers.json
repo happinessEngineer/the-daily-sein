@@ -1,106 +1,106 @@
 {
-  "gameNumber": 490,
+  "gameNumber": 491,
   "date": "2026-05-08",
   "questions": [
     {
-      "quote": "That is correct. But here's the beauty part - now I stand up for myself by telling everybody I'm dumping his sorry ass, and I'm the office-",
+      "quote": "He lost all that cash. It was the only way I could give it back to him, otherwise he wouldn't accept it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. Guess who just finished laying out her first issue of the J. Peterman Catalog.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Kramer",
+        "Frank",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The houses are passed down from generation to generation, it's very hard.",
+      "quote": "Are you crazy? This is like discovering Plutonium ... by accident.",
       "characters": [
-        "Jerry",
+        "Brett",
+        "Frank",
         "George",
-        "Kramer",
-        "Maestro"
-      ],
-      "correctAnswer": "Maestro"
-    },
-    {
-      "quote": "Look... I've known Newman all my life, in the building, and you're all wrong about him. He's a model tenant. Portly, yes, but smart as a whip.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Steinbrenner",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "They always make me take stock of my life. And how I've pretty much wasted all of it, and how I plan to continue wasting it.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Transport charge, storage surcharge, additional overcharge, finder's fee…",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Puddy",
-        "George"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": ". . .uh, . . . wait a second. Are you suggesting that I went out of my way to tell Elaine that even though you handed her the big salad, that it came from me?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, you know what? The second day I was there I stepped on a jellyfish. Now it kind of stung my foot. That's probably what Rula was trying to warn you about.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "George, this is one of the nicest things anyone has ever given me.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Look, I find this whole thing very uninteresting. When you get the coats come in.",
+      "quote": "Oh well. Let me perfectly blunt. I don't care for you Costanza. You hang out at the west side of the building with Seinfeld all day and just it up wasting your lives.",
       "characters": [
         "Donna",
-        "Kramer",
-        "Rudy",
-        "Elaine"
+        "Jerry",
+        "Elaine",
+        "Newman"
       ],
-      "correctAnswer": "Rudy"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "You know, I try to take care of myself. I - I watch what I eat. Ah, just recently I cut out fructose.",
+      "quote": "Yes, it is consistent. I've, uh, I've tried to maintain a consistent feel throughout the house.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Jackie"
+        "Newman",
+        "Jerry",
+        "Marcelino"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, fantastic!  It felt so good to get my hands back in taht dough.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We couldn't carry on a conversation. I kept trying to picture her naked, she kept trying to not picture me naked.",
+      "characters": [
+        "Guy",
+        "Mickey",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I already did it. It won't come off. The zipper's suck..",
+      "characters": [
+        "George",
+        "Dan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, this is liek that Twilight Zone where the guy wakes up, and he's the same - but everyone else is different!",
+      "characters": [
+        "Frank",
+        "Kate",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We found traces of a certain toxic adhesive commonly found in very low priced envelopes.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Doctor"
     }
   ]
 }

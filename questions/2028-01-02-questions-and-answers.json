@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1094,
+  "gameNumber": 1095,
   "date": "2028-01-02",
   "questions": [
     {
-      "quote": "Listen, there were too many distractions there. Babu...what ever he's name was and Kramer...I couldn't concentrate.",
-      "characters": [
-        "Sid",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Go? Why go anywhere?  Ahh, that feels good. Yeah. That's, uh... That's good.  Yeah, that's nice. That's very nice.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Jack"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I can't She won't return my calls because she caught me in a pick at a light.",
+      "quote": "George? Are you there?  I hate that stupid message.  I know you're avoiding me, I'm at the office, please call me, I've gotta talk to you.",
       "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look, we're not gonna be that long anyway... we have to get to the \"party\"!",
-      "characters": [
-        "Hoyt",
-        "Jerry",
-        "George",
-        "Roy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, yes, she had a nose job. I loved her very deeply. Will she ever speak to me again?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, No! She's going out with a friend of mine. It's only courteous that we should try and like each other.",
-      "characters": [
-        "George",
-        "Kruger",
+        "Allison",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Allison"
     },
     {
-      "quote": "No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship.",
+      "quote": "You think people will still be using napkins in the year two-thousand? Or is this mouth-vacuum thing for real?",
       "characters": [
-        "Kramer",
-        "Vivian",
         "Jerry",
-        "George"
+        "Kramer",
+        "George",
+        "Helen"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hated all the commercial and religious aspects of Christmas, so he made up his own holiday.",
+      "quote": "And Kramer thinks a penalty stroke may have driven him to it.",
       "characters": [
-        "Elaine",
-        "Newman",
-        "Frank",
+        "George",
+        "Kramer",
+        "Morty",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Boy, that looks like an allergic reaction. Have you been wearing a fake beard?",
+      "quote": "So, I had what you might call a little encounter this morning.",
       "characters": [
+        "Guard",
+        "Maura",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Take a look at this. Doesn't that look like my flesh and blood? Of course, your mother-",
+      "characters": [
+        "Frank",
         "Jerry",
-        "Tony",
-        "Pam",
-        "Kramer"
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "All right. If you refuse to grow up and scam your insurance company, you'll have to work this out with maroon Golf.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, I'm his nephew, all right? Don't worry about it. Go ahead. Check it out.",
+      "quote": "Hey, what about this? I'm in a car accident. The motorist is uninsured, you with me?",
       "characters": [
-        "Enzo",
-        "Greg",
-        "Kramer",
+        "Morty",
+        "Holly",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, Cynthia and I got into this big argument afterwards and I think it's over.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "Well, I had to. I had to apologize. I mean, I punched Mickey Mantle, my idol. It was eating me up inside!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
     }
   ]
 }

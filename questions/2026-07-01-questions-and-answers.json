@@ -1,104 +1,104 @@
 {
-  "gameNumber": 544,
+  "gameNumber": 545,
   "date": "2026-07-01",
   "questions": [
     {
-      "quote": "Ah, I'm going to kill myself on that thiing. You can't even see it.",
+      "quote": "Kramer, I think perhaps you've overlooked one of the key aspects of this activity. It's ball *boys*, not ball men. There are no ball men.",
       "characters": [
-        "Jerry",
-        "George",
-        "Rachel",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Wait a second... My jacket! I wore that in the car! The Beast!",
-      "characters": [
+        "Morty",
         "Kramer",
         "George",
-        "Newman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Mr. Pensky. I was just working on your file. I was transferring the contents of the file into this flexible accordion-style folder.",
+      "quote": "Oh, sports are so pedestrian. I've prepared some science experiments that will illuminate the mind and dazzle the eye.",
       "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Rudy"
+        "Elaine",
+        "Steinbrenner"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I was thinking, I mean, I'm not really doing that much this weekend, and I thought, well, huh, what the hell, maybe I'll come down there and hang out a little.",
+      "quote": "Would I want to see what Mary Todd wore to Lincoln's funeral?",
       "characters": [
-        "Brett",
+        "Frank",
         "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, well I trust things are moving smoothly. Mr Steinbrenner's counting on you, you know.",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "All right, well, then what if we become a couple, George? Every time we see you you're going to be walking around going like this?  Even you can't keep that up.",
+      "characters": [
         "Elaine",
-        "Doctor"
+        "Cynthia",
+        "Jerry",
+        "Sid"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'",
+      "quote": "48 years, Mom! And now we have to close! All because of that idiot and his bloody nose!",
       "characters": [
-        "Elaine",
-        "George",
-        "Peterman",
-        "Leo"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "I remember when you wouldn't date that girl who lived in Queens because you didn't want to go over the bridge!",
-      "characters": [
-        "Kramer",
-        "Mary",
+        "Pop",
+        "Ray",
         "Jerry",
-        "George"
+        "Maestro"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Pop"
     },
     {
-      "quote": "Ah, Jerry! Tonight you in for a real treat. I'm personnaly going to prepare the dinner for you and my Audrey.",
+      "quote": "I would like to know what my name's doin in this creep's organizer to begin with.",
       "characters": [
-        "Frank",
-        "Elaine",
-        "Susan",
-        "Poppie"
-      ],
-      "correctAnswer": "Poppie"
-    },
-    {
-      "quote": "Look, I'll drive out here tomorrow and I'll show the I.D. I got nothing to do all day.",
-      "characters": [
-        "Elaine",
         "Kramer",
+        "Elaine",
         "George",
-        "Estelle"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, no… I'm not kidding Elaine it's true, his mistress didn't like the title and insisted that he change it to \"War and Peace\"!",
-      "characters": [
-        "George",
-        "Hoyt",
-        "Frank",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes well unfortunately you'll never get the chance to find out.",
+      "quote": "Why not? Pay is good. I got dental, private access to one of the great handicapped toilets in the city.",
       "characters": [
-        "Tawni",
-        "Jerry",
+        "Morty",
+        "Kramer",
         "George",
-        "Margaret"
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He is just in his own world when he hears that song. It's like, I'm sitting there in the car, and he's.. out riding fences.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well I I ..put a lot of thought into this and I think I would like you to sign a prenuptual agreement.",
+      "characters": [
+        "Sid",
+        "Woman",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     }

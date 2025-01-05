@@ -1,69 +1,49 @@
 {
-  "gameNumber": 779,
+  "gameNumber": 780,
   "date": "2027-02-21",
   "questions": [
     {
-      "quote": "Yeah, and you can forget about watching TV while you're eating.",
+      "quote": "You understand the Santa's at Bloomfields are making double what you are?",
       "characters": [
+        "Ned",
         "Jerry",
-        "Wendy",
-        "Kramer",
-        "George"
+        "Sally",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Ned"
     },
     {
-      "quote": "No, he said there was nothing he could do, and next time I should probably break the Prozacs in half.",
+      "quote": "Good. Because if I don't get a Black and White cookie I'm not going to be very pleasant to be around.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Leslie",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah!  I've got it! I've got it! We're calling just to say, \"I'm there for you.\"",
-      "characters": [
+        "Woman",
         "George",
-        "Jerry",
         "Elaine",
-        "Maestro"
+        "Bette"
+      ],
+      "correctAnswer": "Bette"
+    },
+    {
+      "quote": "A thousand. Okay, a thousand once, a thousand twice, a thousand three times, sold to the lucky lady in the third row. Congratulations, thank you so much.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That irreverence, that wit I'd recognize it anywhere. Some charlatan has stolen a Ziggy and passed it off as his own. I can prove it. Quick Elaine, to my archives.",
+      "quote": "You know, one of these days, something terrible is gonna happen to you. It has to!",
       "characters": [
-        "George",
-        "Kramer",
+        "Elaine",
         "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Hey. There is a couple of people that wouldn't mind having me out of the way.",
-      "characters": [
         "George",
-        "Jerry",
-        "Tony",
         "Michael"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, it got a good laugh. Let me just check my messages before we go.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no, I don't have it now. I gotta pick it up at Mr. Pitt's. Elaine was framing a bunch of stuff for him, so she did me a favor. What, you wanna take a ride?",
+      "quote": "Yeah.  I am taking over South America and there ain't nothing you can do about it.",
       "characters": [
         "Jerry",
         "Elaine",
@@ -73,34 +53,54 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Whoah, Elaine! Once again, you've managed to top yourself. C'mon Jerry, let's go. Car's out front.",
+      "quote": "Regardless. I had to walk around for the rest of the party in some cheap Metlife windbreaker. Now, it is payback time.",
       "characters": [
         "George",
-        "Elaine",
-        "Lloyd",
-        "Jerry"
+        "Guy",
+        "Jerry",
+        "Steinbrenner"
       ],
-      "correctAnswer": "Lloyd"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, that's what comes from avoiding manual labor your whole life.",
+      "quote": "So, how did you get up there?  Did you say you had to use the bathroom?",
       "characters": [
-        "Newman",
         "Jerry",
-        "Tv",
-        "Kramer"
+        "Clerk",
+        "George",
+        "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, that is soo nice  Aaron. Isn't he nice?  So listen has Jerry been showin' you a good time?",
+      "quote": "Well I've asked every one at work and nobody gets this cartoon. I mean I don't understand why no one can explain it, but I'm gonna get to the bottom of this.",
       "characters": [
         "Elaine",
         "Jerry",
         "George",
-        "Marla"
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah. I tell her you not here, she said curse word, I hang up.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Bruce"
+      ],
+      "correctAnswer": "Bruce"
+    },
+    {
+      "quote": "You know I thing Kramer might have been responsible for getting Richie involved with drugs in the first place.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

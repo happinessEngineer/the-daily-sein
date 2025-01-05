@@ -1,104 +1,104 @@
 {
-  "gameNumber": 853,
+  "gameNumber": 854,
   "date": "2027-05-06",
   "questions": [
     {
-      "quote": "No, no, no no, listen to me. I work in fashion. Together, we can drive Putumayo outta business and make Cinqo de Mayo numero uno... de Mayo.",
+      "quote": "Can I tell you something in confidence? I think it's a woman.",
       "characters": [
-        "Elaine",
+        "Stu",
         "Jerry",
-        "Kramer",
-        "George"
+        "Elaine",
+        "David"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Stu"
     },
     {
-      "quote": "The way I feel when I go places with you?  Hey, so'd you find my sneakers yet?",
+      "quote": "Oh, no. It's not that I don't think you can. I know that you can't, and I'm positive that you won't.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "George",
-        "Peterman"
+        "Wendy",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "How could she leave us alone with this lunatic? Ten more minutes, and that's it! I'm leaving. I have to tell you, this guy scares me.",
+      "quote": "She's pregnant? Leslie is pregnant?! Oh, see, there is no justice.",
       "characters": [
-        "Steve",
-        "Frank",
-        "Elaine",
-        "George"
+        "Kramer",
+        "Jerry",
+        "George",
+        "Mary"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Poor Georgie, was it our fault this happened to him? Did we do something wrong? Maybe it was our fault.",
+      "quote": "Here! Here! You want a brown sweater?!  You got a brown sweater!",
       "characters": [
-        "George",
-        "Kramer",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "I guess. She must've rolled over on a tick during the love-in.",
-      "characters": [
-        "Jerry",
-        "Morgan",
+        "Donald",
         "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's giving me a ride You know there had to have been a second spitter. But who was it? Who had the motive?",
+      "quote": "You knew I was having a millennium party, but you just had to throw yours on the same day!",
       "characters": [
-        "Jerry",
         "Kramer",
+        "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Come on, lets not stand here too long, we might run in to her.",
+      "quote": "Heh.  You seem like you really enjoyed your Risotto.  You have a very contented air over there.  You look very contented, very satisfied.  Are you satisfied?",
       "characters": [
-        "George",
+        "Kramer",
+        "Sheila",
         "Jerry",
-        "Tom",
-        "Frank"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "[mockingly] \"Please hurry\". Look at you. Look at what you've become.",
+      "quote": "Oh. it's always simulated....except with George that's in my contract.",
       "characters": [
         "Jerry",
         "George",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Let me see those.  Oh! I know the chunky that left these Chunkies......NEWMAN!!! I've got him.",
+      "quote": "God. Man, this is killing me. Right now, I would give that bike to the first person who could make this pain go away.",
       "characters": [
+        "Mickey",
+        "Joel",
         "Jerry",
-        "George",
-        "Ned",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Did you happen to notice that Julie handed the big salad to Elaine?",
+      "quote": "There was something so reassuring about that cozy little space.",
       "characters": [
+        "Jerry",
+        "Earl",
         "George",
-        "Susan",
-        "Doctor",
-        "Newman"
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"'Cause when he questioned me about it I was sweating from the Kom Pau..\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     }

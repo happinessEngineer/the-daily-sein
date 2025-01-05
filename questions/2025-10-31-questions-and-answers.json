@@ -1,106 +1,106 @@
 {
-  "gameNumber": 301,
+  "gameNumber": 302,
   "date": "2025-10-31",
   "questions": [
     {
-      "quote": "Well, let me tell you something. I'm taking this kid to the top. To the top, Jerry! We're going for the crown, and you can't stop her!",
+      "quote": "Because somebody offered Manny five thousand dollars for the apartment. I don't want to do it. Manny wants to do it.",
       "characters": [
-        "Kramer",
-        "George",
-        "Jeannie",
+        "Chiles",
+        "Newman",
+        "Harold",
         "Jerry"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Forget it. Okay Newman's postal route is around here somewhere.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frankie"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, my God, look at that.  David and Beth Lookner.  You know, I heard a rumor their marriage was a little rocky.",
+      "quote": "It's Allison. I dated her right after you. She's obsessed with me.",
       "characters": [
-        "Kramer",
+        "Estelle",
         "Jerry",
         "George",
         "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No no, I'm just saying you didn't really go to medical school, you went to podiatry school. Which I'm sure is very grueling in it's own way.",
-      "characters": [
-        "Elaine",
-        "Fred",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, yeah. You must have squirted a piece of pulp in it too.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Lippman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "In the one minute he worked on me I could tell he was really good.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's right.  High-five!  On the flip side!  Takin' me to Arby's…",
-      "characters": [
-        "Elaine",
-        "George",
-        "Hoyt",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "He needs a three hundred-dollar Bruline to beat Ethyl Kennedy?",
+      "quote": "Hold on! Hol--on! Susie didn't commit suicide!  She was Murdered, by Jerry, Sein-feld!",
       "characters": [
         "George",
-        "Elaine",
-        "Man",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That infernal rattling sound that has plagued me these past two days - and I could not find the source. In my office, in the hallway. Even in the men's room! Shame on you, Elaine!",
-      "characters": [
-        "Peterman",
-        "George",
-        "Elaine",
-        "Officer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "You know, I was wondering - if you're not doing anything later, maybe you'd like to get together..?",
-      "characters": [
-        "George",
-        "Woman",
-        "Man",
-        "Jerry"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "I had the perfect situation here, he was shouldering half the load.",
-      "characters": [
         "Kramer",
         "Elaine",
-        "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Oh, I can't believe you're dropping out, too. So now Kramer and I have to pay for the entire gift?",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Morty",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Besides, Steven Koren has the highest of aspirations. He wants to be  an architect.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He, uh, had to go to LA. There's a problem on the set of Blossom.",
+      "characters": [
+        "Jerry",
+        "Rita",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "Oh, my liver! Why did I drink all those years? Why did I look for love in a bottle?",
+      "characters": [
+        "Mickey",
+        "George",
+        "Izzy",
+        "Morty"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "She calls me this morning and tells me she's upset I didn't console her. I mean it was \"Beaches\" for god's sake. What, what do you do in a situation like that?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to go to the bathroom. Why do they hide the bathroom in these malls?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Diane"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

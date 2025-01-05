@@ -1,106 +1,106 @@
 {
-  "gameNumber": 265,
+  "gameNumber": 266,
   "date": "2025-09-25",
   "questions": [
     {
-      "quote": "Reprogram all the buttons, see if he changes them back. You know? The old switcheroo.",
-      "characters": [
-        "Elaine",
-        "Estelle",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright look, I'm gonna tell you, but I made a pact with Cynthia, we swore we were not going to tell you and Elaine.",
+      "quote": "Ya, or if you're ever on Fifth Avenue here in New York City, you could get some there.",
       "characters": [
         "Kramer",
         "Elaine",
         "George",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I haven't been myself lately. I've been snapping at everybody.",
-      "characters": [
-        "Elaine",
-        "Estelle",
-        "Jerry",
-        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, All right. Lets get down here. You really want to get out of this thing ?",
+      "quote": "You know, if the situation were reversed and Manya had some mah-jongg championship or something, I wouldn't expect her to go to my funeral. I would understand.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe we should have her over for coffee, and explain our side of it?",
+      "characters": [
+        "George",
+        "Helen",
+        "Pitt",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You know, it's a miracle you're not married.  Hey, I'm not obligated to buy anything, am I?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Kruger",
+        "Manager"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Two months ago, I saw a provocative movie on cable TV. It was called The Net, with that girl from the bus. I did a little reading, and I realize, it wasn't that farfetched.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ah, Yeah Yeah, I have a - I have a question, um -- What do you know about inter-abdominal retractors?",
       "characters": [
         "Kramer",
-        "Nina",
-        "George",
-        "Jerry"
+        "Susan",
+        "Elaine",
+        "Maestro"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "There's no house! It's a lie! There's no solarium. There's no Prickly Pete. There's no other solarium.",
+      "quote": "Eh, died on the table. Just spent hour and a half making me feel, if I don't save lives, I'm worthless.",
       "characters": [
-        "George",
-        "Elaine",
-        "Naomi",
-        "Harold"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Exactly!  You know how they get animals to reproduce in captivity? They just put them in the same cage.",
-      "characters": [
-        "Carol",
-        "George",
-        "Elaine",
-        "Tim"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Do you think people are going to pay $80 a bottle to smell like dead fish and sea weed? That's why people take showers when the come home from the beach. It's an objectionable offensive odour.",
-      "characters": [
-        "Steve",
-        "Jerry",
-        "Estelle",
-        "Elaine"
-      ],
-      "correctAnswer": "Steve"
-    },
-    {
-      "quote": "Oh, anyway, let me show you Memphis. I am taking you  out to dinner.",
-      "characters": [
-        "George",
         "Kramer",
-        "Elaine",
-        "Sally"
-      ],
-      "correctAnswer": "Sally"
-    },
-    {
-      "quote": "All right, All right, all, right!! How you gonna find out who this is?",
-      "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What, again? Kramer, if you keep getting these attacks, you should see the doctor and have it checked out.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Morty",
-        "Jerry"
+        "Glenn"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You hear about that kid that was kidnapped the other day in Pennsylvania?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They'll get dehydrated on the plane! Get the Seinfelds some water. Please! Please!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Hal",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "A half hour then diving class started. Well… that got a little messy. I gotta find a new place to swim 'cause that pooll can't hold me, Jerry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

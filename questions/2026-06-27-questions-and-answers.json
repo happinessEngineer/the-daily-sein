@@ -1,106 +1,106 @@
 {
-  "gameNumber": 540,
+  "gameNumber": 541,
   "date": "2026-06-27",
   "questions": [
     {
-      "quote": "Yes, Uncle Leo. I remember him. I'm sorry, our policy is we prosecute all shoplifters.",
-      "characters": [
-        "Bonnie",
-        "Elaine",
-        "Kramer",
-        "Manager"
-      ],
-      "correctAnswer": "Manager"
-    },
-    {
-      "quote": "Hey, hey hey. Don't worry about me. I'm not a waffler. I don't waffle!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Helen",
-        "Jackie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No. I haven't seen four women like this together outside of a Russ Meyer film.",
-      "characters": [
-        "Kramer",
-        "Susan",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "How late are the stores open? I'm thinking of maybe uh, buying a new TV and smash it over my head.",
-      "characters": [
-        "Doctor",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "yeah, I ... I snuck a peak. ... But it was so fast I didn't see anything. It was just a blur.",
+      "quote": "I believe the deal was that I get the calzones on my mail route. Well today I won't be going on my mail route! Will I. Perhaps tomorrow.",
       "characters": [
         "George",
-        "Morty",
-        "Jerry",
-        "Jackie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That was the Golden Nugget. Also in Atlantic City. They heard such good things about my show at Bally's, they want me for tonight. So I'll have to repack, and go.",
-      "characters": [
-        "Jerry",
-        "Officer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So what's the great moment? You're on your death bed, they're pounding on your chest - and you're going 10, 9, 8,.. I told you this thing was good!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Hoyt"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because, I've got the coat. I can sit in the car and not get cold.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Again, Mr Mandelbaum, this back specialist is supposed to be the best. So if there's anything else I can do, please don't hesitate to, uh, try and find my number.",
-      "characters": [
-        "Mike",
-        "George",
-        "Jerry",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, I can't eat dessert either. The sugar makes my ankles swell up, and I can't dance.",
-      "characters": [
-        "Christie",
-        "Kramer",
         "Newman",
+        "Todd",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "At least I've spoken to my guy. You're going out on a deaf date.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, keep it.  Hey what happened to you? You buzzed five minutes ago.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "An apartment-warming gift? We got to give presents to people for moving? Birthdays, Christmas, it's enough gifts. I would like one month off.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Neeson? How are you comparing Liam Neeson with Jon Voight? Jerry, we're talking about Joe Buck. If you can play Joe Buck, Oskar Schindler's a cake walk.",
+      "characters": [
+        "Ethan",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I'm going to have an English muffin with margarine on the side and a cup of coffee.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Loretta",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm sorry. Well, George, I tried to put the good word in for you with Siena, but I don't think she heard me. You know, left ear?",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I'm helping my parents move into their new condo. I'm gonna be busy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, give us a break. We haven't seen it yet. Thanks a lot big mouth!",
+      "characters": [
+        "Man",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Actually, you know I think I did. The first time I couldn't really cons...[Monica closes the window]...entrate.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

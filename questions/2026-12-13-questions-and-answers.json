@@ -1,106 +1,106 @@
 {
-  "gameNumber": 709,
+  "gameNumber": 710,
   "date": "2026-12-13",
   "questions": [
     {
-      "quote": "You know chicken salad is not the opposite of tuna, salmon is the opposite of tuna, 'cuz salmon swim against the current,  and the tuna swim with it.",
+      "quote": "'Dear Barry. Consider this letter to be official termination of our relationship effective immediately.'",
       "characters": [
-        "Jerry",
-        "Salesman",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, look at this guy. Look, he's got everything, he's got detergents, sprays, fabric softeners.  This is not his first load.",
-      "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Lena"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, I'm under fire here.  I'm under heavy fire here, boy.  Jeez! That was a five-iron!",
-      "characters": [
-        "Kramer",
-        "Clerk",
         "Jerry",
-        "Lippman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, if you talked this loud to begin with, I wouldn't be in this costume in the first place!",
-      "characters": [
-        "Jerry",
-        "Katie",
-        "Elaine",
+        "Hal",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Um, uh, no one, no one.  Here, uh, let me show you a short cut. Come on. Come on.",
-      "characters": [
-        "Jerry",
-        "Glenn",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Glenn"
-    },
-    {
-      "quote": "And from disorder, you're a quirk or two away from full-on dementia.",
-      "characters": [
-        "Russell",
-        "Jerry",
-        "Tony",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I can't believe this. So what are you saying? You didn't like my act, so that's it?",
+      "quote": "Oh my god, there she is. That's the face, just like the picture.",
       "characters": [
         "Jerry",
         "George",
         "Elaine",
-        "Man"
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And I always take care of my Pisano's. So here is a little something.",
+      "characters": [
+        "Holly",
+        "Doctor",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I think I will go upstairs. I can check my machine.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I don't know. I can't believe they're making me take this test.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Loretta"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Within the confines of his fastidious bachelor *pad*, Seinfeld and Costanza bicker over the cleanliness of a piece of *fruit* like an old married couple--\" *I told you that pear was washed*!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jackie",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "There's already an ambulance here for Mrs Glickman. There's room for one more.",
+      "quote": "Anything, everything, something, nothing - Who the hell cares? Put me down. I'm down!",
       "characters": [
-        "Morty",
-        "Lena",
-        "Kramer",
+        "Guy",
+        "George",
+        "Valerie",
         "Jerry"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Now, if you want to go out and have some good, wholesome fun with a nice girl, I'd be glad to help you out...if you're looking for something more than that, you've got the wrong guy, buddy!",
+      "quote": "Oh yeah, yeah I heard, Marvin Kessler. Boy, that makes you think. If he could go...",
       "characters": [
+        "Kramer",
         "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
+        "Morty",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "YEAH!! UGH!!! ARG!!! ... I am afraid we're going to have to stop.",
+      "quote": "I can't believe we're doing this. This is the kind of thing they do in the movies.",
       "characters": [
-        "George",
-        "Man",
-        "Ava",
-        "Dana"
+        "Sophie",
+        "Jerry",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Dana"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. He thinks he saw the devil. He won't leave his room in the church basement.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Kelly"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

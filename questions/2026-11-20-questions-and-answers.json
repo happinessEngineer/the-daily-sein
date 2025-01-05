@@ -1,103 +1,103 @@
 {
-  "gameNumber": 686,
+  "gameNumber": 687,
   "date": "2026-11-20",
   "questions": [
     {
-      "quote": "Well I don't know anyone here Jerry. Where else am I going to stay?",
+      "quote": "Elaine, please, it was a long time ago. The man doesn't want a history lesson.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Jerry, I never saw you flirt with anyone before. It was quite the spectacle.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morgan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, we don't allow any outside syrups, jams or condiments in the restaurant.  And if I catch you in here with that again...I will confiscate it.",
+      "characters": [
+        "Elaine",
+        "Owner",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "Oh yeah? Well, maybe I'll go out there and knock a few balls around with him. You know, show him a thing or two..",
       "characters": [
         "Kramer",
         "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you think, would you go out with a sixty-six year old woman?",
+      "characters": [
+        "Helen",
+        "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Who's Bozo? Bozo the Clown, that's who Bozo is. When I was a kid, Bozo the Clown was the clown, bar none.",
+      "quote": "So you're saying, I go in to NBC, and tell them I got this idea for a show about nothing.",
       "characters": [
         "Elaine",
+        "George",
+        "Blaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hmm. Looks like a minor concussion. Let me see what I can do to relieve the swelling.",
+      "characters": [
+        "Doctor",
+        "George",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "You make me change restaurant, but nobody come! You say make Pakistani, Babu Bhatt have only Pakistani restaurant. But where are people? You see people? Show me people. There are no people!",
+      "characters": [
+        "Elaine",
+        "Gina",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "Hey! Great plane! Thanks a lot. Piece of junk. You know you almost got us killed!",
+      "characters": [
         "Kramer",
+        "Elaine",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I told them I was just about to see you.. It's a Festivus miracle!",
+      "quote": "Well, it's not that. I just, you know, I thought that we were both uh...",
       "characters": [
-        "Gary",
-        "George",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah. Elaine, she has to leave her armoire on the street all night...I'm gonna guard it for her. I need something to sit on.",
-      "characters": [
-        "Kramer",
-        "Steven",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, my friend told me about this great place in Vermont.",
-      "characters": [
-        "Jerry",
-        "Ellen",
-        "George",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, my friend, Elise, lent it to me for the week. She's out of town.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Clerk",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What? Calling people I hardly know, and demanding they return expensive gifts, that's my \"thing\"?",
-      "characters": [
-        "George",
-        "Mohel",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "hmm where is Jerry sitting? he's supposed to be here tonight with his new girlfriend I'm dying to see what she looks like",
-      "characters": [
-        "George",
-        "Gwen",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, maybe no one noticed it. You didn't notice it. Let me go get Newman. We'll see if he sees it.",
-      "characters": [
-        "Phil",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "uh, Uh, Vandelay Industries, is uh. 129 West 81st street. It's a very small industry Vandelay. It's one of the reasons I wanted to uh, work for them.",
-      "characters": [
+        "Gavin",
         "Elaine",
         "Jerry",
-        "Kramer",
         "George"
       ],
       "correctAnswer": "George"

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 936,
+  "gameNumber": 937,
   "date": "2027-07-28",
   "questions": [
     {
-      "quote": "Elaine, he's a psychiatrist. They're interested in stuff like that.",
+      "quote": "I guess you're right. It's just walking around putting it into boxes..",
       "characters": [
-        "Kramer",
+        "Newman",
+        "Jerry",
         "George",
-        "Rudy",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "She's right, I heard Kramer got mugged out on the suburbs on a baby-sitting gig.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Doctor",
+        "Gina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe how easy it is. I'm virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I'm in the club.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you crazy? Don't you understand what I'm saying to you? This is not just an odour-- you need a *priest* to get rid of this thing!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Tim",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because of the Giant game! I told you, It went overtime! You know what those seats are like. They're very unforgiving.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, Lloyd, I-I've been to the doctor  there's really nothing they can do.",
+      "quote": "They're good around the house -- and they're good for outside.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "When my uncle said to him, 'the president's been shot' Oswald winked at him and said, 'I'm gonna go catch a movie'?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Clerk",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, that's not good enough! You don't try and de-sour. You have to sweeten too!",
-      "characters": [
-        "George",
-        "Newman",
-        "Father",
-        "Toby"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Great, great. O-Oh, oh, oh, gosh. You know, it's just... my duties with the Yankees...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hoh. Yes, yes, you're right. That's right. I'll bring her over to meet...",
-      "characters": [
         "Morty",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah. They give you a tenderloin, a salad and a baked potato, for four-ninety-five. You know what that cost you after six?",
+      "characters": [
+        "Kelly",
+        "George",
         "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I can do six weeks standin' on my head. I'm a sexual camel. That's not the point. At least there was the possibility.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I should probably get going too. If I don't feed Pequita by seven, she goes all over everything.. take it easy.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, alright. Just let me finish my coffee... then we'll watch 'em go slice this fat bastard up.",
-      "characters": [
-        "George",
-        "Valerie",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, anyway, the operation is on Tuesday and I need you to drive me home because I'll be all drugged up.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Estelle",
-        "Kramer"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Russell, see, I'm really not interested in this stuff and I do have to go to work . So...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Jane",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, I don't know the exact pronunciation but I believe its Manage A Trois.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kruger",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

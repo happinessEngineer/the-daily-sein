@@ -1,106 +1,106 @@
 {
-  "gameNumber": 923,
+  "gameNumber": 924,
   "date": "2027-07-15",
   "questions": [
     {
-      "quote": "Alright, I gotta try and talk my mother into taking him off my hands.",
+      "quote": "How you gonna catch him? He's probably boarded the plane already.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Fred",
+        "Elaine",
+        "James",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Rugged? The man's a goblin. He's only been exposed to smoke for four days. By the time this case gets to trial, he'll be nothing more than a shrunken head.",
-      "characters": [
-        "Jackie",
-        "Wilhelm",
-        "Jerry",
-        "Hoyt"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Yeah! I got it . It's in the apartment, but we can't go in there it's being fumigated.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Puddy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, yes. This pirate trend that she's come up with, Jerry, this-this is gonna be the new look for the 90's. You're gonna be the first pirate!",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "Steve",
-        "Brett"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, neighbor. That's right. Yeah, why don't we take this boiler out for a shakedown huh?",
+      "quote": "People don't turn down money. It's what separates us from the animals.",
       "characters": [
         "George",
         "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Bogambo - they've been in the neighborhood for 48 years. Now, come on, Jerry. You've gotta have a pair of shoes in need of a cobblin.'",
+      "characters": [
+        "Craig",
+        "George",
         "Jerry",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "\"Oh yeah!. Jimmy's been watching you....you're just Jimmy's type.\"",
+      "quote": "Oh, Elaine, we've covered all of that in the catalogue ad nauseum. No, I would like this book to be about my day-to-day life.",
       "characters": [
-        "Jimmy",
-        "Newman",
-        "Kramer",
-        "Helen"
-      ],
-      "correctAnswer": "Jimmy"
-    },
-    {
-      "quote": "You know, that's weird, actually, 'cause I'm sort of the same way. I mean once for like, no reason, I flattened my hair and I had all these strands hanging in my face all the time...",
-      "characters": [
+        "Peterman",
+        "Jerry",
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
+        "Leo"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Let's say it comes down to me and one other guy. He's got a nice quiet suit, and I'm whooshing all over the place! Who do you think he's gonna hire?",
+      "quote": "Could you do me a favor? If you see a guy that's five foot eleven, he's got uh a big head and flared nostrils, tell him his friend's going to be right back, okay?",
       "characters": [
         "Kramer",
+        "Secretary",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The bad date, the bad sport, the bad citizen...  The bad tipper!",
+      "characters": [
         "Jerry",
-        "Doctor",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A signal, right, um, okay, uh, okay, the signal is, I'll call out tippy-toe!",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Naomi",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well I'm sorry if I ruined your life. That's exactly what I set out to do.",
+      "quote": "Just a movie?! You don't understand. This isn't 'Plans 1 through 8 from Outer Space', this is 'Plan 9', this is the one that worked. The worst movie ever made!",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Peterman",
-        "Elaine",
+        "Ruby",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, no, of course not! People's personal sexual preferences are nobody's business but their own!",
+      "quote": "It's a goose that's had the old switcheroo pulled on it. Hi Sophie, it's me.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Morty",
+        "Doctor",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey. Well, I just saw Madeline off. Yeah. She's in a cab and--nguh nguh nguh--on her way. I miss her already.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Izzy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

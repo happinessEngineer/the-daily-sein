@@ -1,106 +1,106 @@
 {
-  "gameNumber": 999,
+  "gameNumber": 1000,
   "date": "2027-09-29",
   "questions": [
     {
-      "quote": "Thanks. You know this could sound crazy but, what do you think about adding a drawer for - like a blanket?",
+      "quote": "Don't you see what's going on here? He set us up. He's playing all these mindgames.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Very soft, huge button flaps, cargo pockets, draw string waist, deep biswing vents in the back perfect for jumping into a gondola.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Peterman",
+        "Newman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "George, stop worrying about this guy. It wasn't your fault.. Come on, he's not stalking you.",
       "characters": [
         "George",
         "Jerry",
-        "Helen",
-        "Kramer"
+        "Elaine",
+        "Tim"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, my blood is not enough. Would you like a kidney too, because I'll give it to you? I'll rip it out right here and stack it on the table!",
+      "quote": "I mean, you know, I've never been so insulted in my entire life. There's something really wrong with this man. He is a Soup Nazi. What? What is that?",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Roy",
-        "Bookman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, don't worry. I'll be there and I'll be packing an artery.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
         "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait wait, hold it, hold it. Look who's over there. Don't look, don't look! It's Fred Savage.",
+      "characters": [
+        "Kramer",
+        "Man",
+        "Detective",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What? What happened to your face? It looks like an old catcher's mitt.",
+      "quote": "That's funny because I haven't seen you working for a while. A long while.",
       "characters": [
+        "Joel",
+        "Kramer",
         "George",
-        "Estelle",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I'll tell her I met some guy who knew her and he gave it to me.",
-      "characters": [
-        "Tor",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well it's Frank and Estelle's reaction of hearing George's man love towards she-Jerry.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Let's not forget the radiator. The steam has been on here for ten years. No human can turn this off.",
+      "quote": "You're giving me the \"it's not you, it's me\" routine? I invented \"it's not you, it's me\". Nobody tells me it's them not me, if it's anybody it's me.",
       "characters": [
         "Frank",
-        "Kramer",
-        "Sheila",
+        "Joel",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I can't believe how much we did this afternoon. I have friends who this would've be their whole life.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Don't fill up on the bread. I'm making you a very special dinner. Very special.",
+      "quote": "Hey, let me ask you something. How long do you have to wait for a guy to come out of a coma before you can ask his ex-girlfriend out?",
       "characters": [
         "Kramer",
         "Jerry",
-        "Poppie",
+        "Anna",
         "Elaine"
       ],
-      "correctAnswer": "Poppie"
-    },
-    {
-      "quote": "George, if you could master this, you'll never be alone again.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Russell"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh you know I don't know. I saw him in the hall this morning, I said hello to him. He walked right past me.",
+      "quote": "I know, George is pretty pleased about it. It's like she signed a letter of intent.",
       "characters": [
-        "Elaine",
+        "Frank",
+        "George",
         "Jerry",
-        "Kramer",
-        "Stu"
+        "Naomi"
       ],
-      "correctAnswer": "Stu"
+      "correctAnswer": "Jerry"
     }
   ]
 }

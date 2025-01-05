@@ -1,104 +1,104 @@
 {
-  "gameNumber": 693,
+  "gameNumber": 694,
   "date": "2026-11-27",
   "questions": [
     {
-      "quote": "No, it's doing the same thing to someone that they did to you.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Estelle",
-        "Jack"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh myyyy papayaaaa.  The air conditioner!  I think it got the dog!",
-      "characters": [
-        "Elaine",
-        "Connie",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I was doing standup comedy in Kennebunkport Maine. ??? night club. The stage was on a cliff and the audience was throwing all the comics off.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Todd",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But you just passed it. I'm sitting right there next to that guy...",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Susan"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Since when are you treating me to medicine?  What are you doing?  You're stealing this, aren't you?",
+      "quote": "Thank you. If we were in my apartment and we were watching a movie on the couch, would we sit right next to each other?",
       "characters": [
         "Jerry",
-        "Kramer",
         "George",
-        "Elaine"
+        "Lippman",
+        "Roy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, just cooking up a little thank you for Puddy. Hey, how do you make those radish roses?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Tia",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Now see, this is what the holidays are all about. Three buddies, sitting around, chewing gum, huh? Mmm, mmm, yeah. So uh, you know, Lloyd, he thinks he can get more of this.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "John"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Exactly, but they're on there – waiting. She said she can't wait to see me, we're having dinner tonight. She's supposed to call me as soon as she gets home.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, see here, the chain is broken...it must have slipped in when I was, uh...",
-      "characters": [
-        "Bania",
-        "Kramer",
-        "Newman",
-        "Marty"
-      ],
-      "correctAnswer": "Marty"
-    },
-    {
-      "quote": "Hey, there's a tomato stand, let's stop, I can get some more.",
+      "quote": "Well, Kramer thought it would make her happy.  I never should have cashed those checks!",
       "characters": [
         "Elaine",
         "Kramer",
         "George",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, thank you, thank you so much. I have so many people I want to thank and don't want to forget anyone...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Clerk",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't want to hear another word. And to think how close I came to you being the one! I must have been out of my mind.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Marla",
+        "Jerry"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Let's turn the radio on. Maybe there's a news report about it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's amazing how many beautiful women live in New York. I actually find it kind of intimidating.",
+      "characters": [
+        "Jerry",
+        "Audrey",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "The better looking they are, the faster they go! I mean, I see they out there on the street, they're zooming around, like a blur. Like they have a motor on their ass.",
+      "characters": [
+        "Morgan",
+        "George",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I've considered that.  Look, how do I get in touch with this guy?",
+      "characters": [
+        "Jerry",
+        "Pop",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, so you're chewing your apple, you got your enthusiastic hi... Go ahead.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, doctor. I'm going to have to wait in that little room all by myself, aren't I?  I better take this. I hate the little room.  \"Oh, hello, Doctor.\"",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     }

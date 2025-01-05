@@ -1,19 +1,19 @@
 {
-  "gameNumber": 447,
+  "gameNumber": 448,
   "date": "2026-03-26",
   "questions": [
     {
-      "quote": "You know what they do in there? Did you see CooCoo's Nest? They put those electrodes in your head.",
+      "quote": "...he embibed her glistening spell...just before the other shoe...fell.",
       "characters": [
-        "George",
-        "Kramer",
+        "Jackie",
         "Elaine",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I had to carry my skis, and my boots and my poles. I think I pinched a nerve in my shoulder.",
+      "quote": "Yeah! And he is so boring! But now, whenever he answers the phone: I just hang up.",
       "characters": [
         "George",
         "Kramer",
@@ -23,84 +23,84 @@
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I wiped them for two minutes on the mat. I don't know why your father had to make a federal case out of it.",
+      "quote": "I just don't understand it as soon as I met these dogs they started growling at me.",
       "characters": [
-        "Kramer",
         "Jerry",
         "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "No, he's very fancy! Want me, love me! Shower me with kisses!",
-      "characters": [
-        "Kramer",
-        "George",
-        "Silvio",
-        "Elaine"
-      ],
-      "correctAnswer": "Silvio"
-    },
-    {
-      "quote": "She's got rabies, just like my friend Bob Sacamano. She's delirious.  She's foaming at the mouth!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Tim",
+        "Woman",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, she was just showing me pictures of places I can visit when I go to Puerto Rico...you know, when you two went down there?",
+      "quote": "Well that's the way I park. Anyway, you didn't start backing in until I pulled in.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Helen",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "When we were little girls Grandma Memma would take us to a matinee and then dinner here.",
-      "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
-        "Holly"
+        "Clerk",
+        "Elaine",
+        "Mike"
       ],
-      "correctAnswer": "Holly"
+      "correctAnswer": "Mike"
     },
     {
-      "quote": "Severance package...The Yankees are giving me three months full pay for doing nothing.",
+      "quote": "Are you going upstairs?  Tell my fiancé I'm looking for him.  I havelost my fiancé, the poor baby.",
       "characters": [
-        "Elaine",
+        "Woman",
         "George",
-        "Estelle",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "The man in the cape--I bet you he is mixed up in this! I don't trust men in capes.",
+      "quote": "Tragic story, I'm afraid. He could've had any woman in the world.. but none could match the beauty of his own hand.. and that became his one true love..",
+      "characters": [
+        "Susan",
+        "Judge",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Seriously... I want to experience everything she's experienced.",
+      "characters": [
+        "George",
+        "Newman",
+        "Sandi",
+        "Kramer"
+      ],
+      "correctAnswer": "Sandi"
+    },
+    {
+      "quote": "And he's very particular. Ben, you're staying tonight, right?",
+      "characters": [
+        "Bob",
+        "Carol",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "George, if you could master this, you'll never be alone again.",
       "characters": [
         "Elaine",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The former still applies. I don't know what it is, but I just can't see you with a mechanic.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Jack",
-        "Elaine"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All names sound strange the first time you hear 'em. What, you telling me people loved the name Blanche the first time they heard it?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Noreen"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 938,
+  "gameNumber": 939,
   "date": "2027-07-30",
   "questions": [
     {
-      "quote": "Well, the people have spoken. Well, that's it for me. I'm, I'm headin' back to New York.",
+      "quote": "He's moving to Seattle. We wanted to say goodbye, I was just getting out of the shower, and yada yada yada--",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Frank",
-        "Hoyt"
+        "Marcy",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Marcy"
     },
     {
-      "quote": "A leg man? Why would I be a leg man? I don't need legs. I have legs. Have you ever seen her naked in the locker room?",
+      "quote": "Uh, excuse me. I know this is gonna sound crazy but I - I have to have that rye. It's a - it's a long story, but a person's whole future may depend on it.",
       "characters": [
         "Elaine",
-        "Saleswoman",
+        "Kramer",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ow! What are you doing under there? Hey, stop that! Don't eat that! That's not food!  He's suckin' down Equal packets!",
+      "quote": "No he didn't. They were in business together… it was dry wall, or somethin'.",
       "characters": [
-        "Hal",
         "Kramer",
+        "Susan",
         "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, just cooking up a little thank you for Puddy. Hey, how do you make those radish roses?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait, wait wait, not so fast. Jerry, you gotta take me to get this thing refinished.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Because George has heightened extra sensory perception. FAYGY GET YOUR FINGER OUT OF YOUR NOSE.",
+      "quote": "How could she forget I've been ordering lunch every day here for 3 and a half years?",
       "characters": [
-        "Jerry",
-        "George",
-        "Rula",
-        "Christie"
-      ],
-      "correctAnswer": "Rula"
-    },
-    {
-      "quote": "It's the new cover of the J. Peterman Catalog. It is Elaine's choice. Let's congratulate her.",
-      "characters": [
-        "George",
-        "Vanessa",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't mean to interrupt or anything, but on Sunday, my friend is having a brunch for the New York Marathon.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Kramer",
+        "Man",
+        "Helen",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "There's no watch ... I threw it in the garbage can on the street. It didn't keep good time. My parents gave it to me, but I didn't like it.  So don't mention it again, okay!",
+      "quote": "What am I supposed to do? I don't want to do it. I like dogs. I'm not sure this is a dog.",
       "characters": [
-        "George",
-        "Leo",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He's got the Kavorca.  Hey, isn't that Willie, my dry-cleaner?",
-      "characters": [
-        "Jerry",
-        "Clerk",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know what this means, don't you? We lost the Supersaver. Those tickets are non-refundable.",
-      "characters": [
-        "Morty",
-        "George",
+        "Bania",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You're an alcoholic! You have to apologize. Step Nine! Step Nine.",
+      "quote": "The ocean called. Running outta shrimp. Outta shrimp!  Oh! Yes! That's what I shoulda said!  Dammit!",
       "characters": [
-        "Poppie",
+        "George",
+        "Karen",
         "Elaine",
-        "Bonnie",
-        "George"
+        "Ralph"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Remember me? I said I 'd come back with someone and I did. Surprised?.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know what you try to do. Get out. Don't ever come back ever.",
+      "characters": [
+        "Kramer",
+        "Worker",
+        "George",
+        "Doris"
+      ],
+      "correctAnswer": "Worker"
     }
   ]
 }

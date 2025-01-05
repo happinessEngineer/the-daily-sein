@@ -1,81 +1,51 @@
 {
-  "gameNumber": 845,
+  "gameNumber": 846,
   "date": "2027-04-28",
   "questions": [
     {
-      "quote": "Would you hold it a second?! Thank you, will you get out of here with that stuff?",
+      "quote": "And uh, anyway I was just reading your final edit and um, there seems to be an inordinate number of exclamation points.",
       "characters": [
-        "Lisi",
         "Elaine",
+        "Lippman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Now this is remarkable. I'm lounging, and yet, my pants remain perfectly creased.",
+      "characters": [
+        "Kramer",
+        "George",
         "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, what are you gonna do now? Are you gonna look for something else in real estate?",
+      "characters": [
+        "Jerry",
+        "Russell",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I've had a crush on this woman for year! I've always been afraid to approach her! She looks like she belongs on one of these Hallmark cards.",
+      "quote": "You know, the guys, that uh, they sell the tickets for the sold-out events.",
       "characters": [
+        "Elaine",
         "Jerry",
-        "Craig",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"About tonight hum.. there's been a little misunderstanding.\"",
+      "quote": "Did you enjoy the duck?  Oh, Elaine! I was just asking how dinner went last night.",
       "characters": [
-        "Chiles",
-        "Cindy",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I can see that. What do you have to do that for? Who cares about your pants size?",
-      "characters": [
-        "George",
-        "Michael",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, what am I looking at here? Twenty-nine hours to go. Well, at least I got plenty of time to find out the name of that perfume...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Helen",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it's too late. I gave it to Elaine, and she's already on her way to give it to George's father.",
-      "characters": [
-        "George",
-        "Beth",
-        "Jerry",
-        "Helena"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She lives right off Riverside Park. I was scared of the Lopper, So I let her stay over.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Conrad"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No no you know we're not partners. I only get twenty-five percent.",
-      "characters": [
-        "Jerry",
+        "David",
         "George",
         "Elaine",
         "Kramer"
@@ -83,24 +53,54 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, I see what you mean. I forgot who I was dealing with here.",
+      "quote": "Well I've got to get going. I'm meeting a guy with grey sweatpants.",
       "characters": [
-        "Jerry",
-        "Manager",
         "Elaine",
+        "Jerry",
+        "Puddy",
         "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes he is.  Let me ask you something.  When you come out of the shower and you put your robe on, do you cinch it real tight, are you concerned about that?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "… I mean it's no big deal. You're still drivin'. You should have been watching the road.",
+      "characters": [
+        "Landlord",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "quote": "All right. Let's go down to the yogurt store, and we'll get a specimen.",
       "characters": [
-        "Morty",
-        "Marlene",
-        "George",
-        "Jerry"
+        "Newman",
+        "Jerry",
+        "Frank",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sorry. But love is spice with many tastes. A dizzying array of textures...and moments.",
+      "characters": [
+        "Newman",
+        "Craig",
+        "Jerry",
+        "Harold"
+      ],
+      "correctAnswer": "Newman"
     }
   ]
 }

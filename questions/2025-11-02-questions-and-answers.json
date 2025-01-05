@@ -1,106 +1,106 @@
 {
-  "gameNumber": 303,
+  "gameNumber": 304,
   "date": "2025-11-02",
   "questions": [
     {
-      "quote": "Well I thought it was so your parents wouldn't walk in while you're with a girl.",
+      "quote": "That?s-that?s-Harry Fong, he's a very good friend of mine and he's a big opera buff. Enjoy the show there harry!... You know what.",
       "characters": [
+        "Puddy",
+        "Ping",
         "Elaine",
-        "George",
-        "Kramer",
-        "Patty"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Wait till you hear this!  Whoa, ah, I'm sorry, I didn't, I had no idea.",
-      "characters": [
-        "Babu",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, maybe it was Ghostbusters? Where ever it was, it worked!",
-      "characters": [
-        "Steinbrenner",
-        "Kramer",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, yeah. I tell her you not here, she said curse word, I hang up.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Bruce"
-      ],
-      "correctAnswer": "Bruce"
-    },
-    {
-      "quote": "I never feel comfortable in the women's department. I feel like I'm just a *little* too close to trying on a dress.",
+      "quote": "Oh, come on. He's just a lonely old man. All old people steal.",
       "characters": [
         "Jerry",
+        "Elaine",
         "Kramer",
-        "George",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself.",
+      "quote": "You know something really stinks to high h… Holly! What are you doing here?",
       "characters": [
-        "Poppie",
-        "George",
-        "Elaine",
-        "Bob"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What do you think, would you go out with a sixty-six year old woman?",
-      "characters": [
-        "George",
+        "Newman",
         "Jerry",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He also told me to tell you that he'll be in your neighborhood tomorrow around nine o' clock - so he's gonna stop in front of your building if you want to come down and say hello.",
+      "quote": "Look, I was nice enough to give you the picture. I don't like what I wrote. I don't want it up there. Now please just give it back to me.",
       "characters": [
-        "Joyce",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Joyce"
-    },
-    {
-      "quote": "What about stone washing? You ever witness one of those? That must be something. What? Do they just pummel the jeans with rocks?",
-      "characters": [
-        "Elaine",
         "George",
+        "Elaine",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I am very excited about this date! We're goin' to Hunan Balcony!",
+      "quote": "What kind of pills are these, anyways?! \"For Smuckers\"? \"May cause panting and loss of fur\"?  These are dog pills!",
       "characters": [
-        "Elaine",
+        "Wilhelm",
         "Kramer",
         "Jerry",
-        "Rachel"
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yours were hilarious, we were both cracking up. I just love jokes like that.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Jerry, buddy, I got to tell you something. That voice is played.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What? You're moving to Florida!?! That's wonderful! I'm so happy!  For you! I'm so happy for you! Oh, what do you need this cold weather for?",
+      "characters": [
+        "Elaine",
+        "Noel",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I couldn't help it. We hadn't been alone in a long time, it just got the better of me.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How would you like it if I just pulled your heart out of your chest right now, and shoved it down your throat?",
+      "characters": [
+        "Tom",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Tom"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 116,
+  "gameNumber": 117,
   "date": "2025-04-29",
   "questions": [
     {
-      "quote": "Anyway, Stu here started telling me about a show, \"Jerry\", that he developed five years ago.",
+      "quote": "Look I need you to do me a favor. I need you to get me lunch at Pisano's.",
       "characters": [
         "Jerry",
-        "Kimbrough",
+        "David",
         "George",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Kimbrough"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hello... Hello. Is Glen there?... I'm sorry. Is this 805-555-3234?... Yes, I know I have the wrong number, but I just want to know if I dialed wrong or if...",
+      "quote": "Don't you believe me? It's their fiftieth anniversary. You know this is gonna kill him. You're aware of that. Kill him. On the biggest night of his life...",
       "characters": [
-        "George",
-        "Dana",
-        "Morty",
+        "Elaine",
+        "Jerry",
+        "Doorman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Lookit, Kramer, you are not getting this bike. I don't even know why you ant it.  I mean, it's a girl's bike.",
+      "characters": [
+        "Sharon",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, don't embarrass me today. I got some friends in the stands.",
+      "quote": "You know, Jerry, I think this changes the relationship. I mean, I feel it. Do you feel it?",
       "characters": [
-        "James",
-        "Elaine",
-        "Jack",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All Simons was able to find out is that he's in the hospital.",
-      "characters": [
-        "Elaine",
-        "Frank",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, people, I'd like to begin with a hearty hail and well-met good fellow, to Bob Grossberg, who's joining us from Business Affairs.",
-      "characters": [
-        "Peterman",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Once again, I just want to say how sorry I am about the other night.",
-      "characters": [
-        "Craig",
-        "Jerry",
+        "Sophie",
         "George",
+        "Jerry",
         "Kramer"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm sorry to make you go through this, but we need to make sure.",
+      "characters": [
+        "Kurt",
+        "Stationer",
+        "Frank",
+        "Detective"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "Look! No one knows how long this parade is gonna last! They are a very festive people. All I know is that it's Sunday night, and I have got to unwind! Now who's with me?!",
+      "characters": [
+        "Elaine",
+        "Ray",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on up. Oh, it's Elaine, she's just a friend of mine. I don't know what she's doing here now.  I'm sorry. What?",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "George",
+        "Elaine"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh.  Ha-ha. Hey. Yeah, yeah.  This Vincent guy, he is the best. He and I have the exact same taste in movies.",
+      "quote": "You'd really like him, you know, I can't wait to get on that boat.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Estelle",
+        "Morty",
+        "Laura"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "I mean they're your parents and you don't do anything. So why is this stranger doing it?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Madeline and I are watching Quincy together. Jerry, you know this comes on at the same time here as it does there?",
+      "quote": "Oh yeah, he said he brought a pair of pants into Pinkus' and they came back stained with some kind of dry cleaning fluid. And Pinkus denied responsibility. You see he was very upset with Pinkus.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Salesman",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hewwo and welcome to Movie phone. If you know the name of the movie you'd like to see, press one.",
-      "characters": [
-        "Kramer",
-        "Jodi",
-        "Ricky",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ah, you know you have a hole in your sneaker there. What is that canvas?",
-      "characters": [
+        "Peterman",
         "Jerry",
-        "Milos",
-        "Kramer",
-        "George"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

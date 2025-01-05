@@ -1,104 +1,104 @@
 {
-  "gameNumber": 411,
+  "gameNumber": 412,
   "date": "2026-02-18",
   "questions": [
     {
-      "quote": "Jerry, it's Sophie. I can't believe you don't recognize my voice.",
+      "quote": "My cat. He's got this weird sort of skin condition. Some type of fungus, I couldn't find his medicine.",
       "characters": [
-        "Sophie",
-        "Kramer",
         "George",
-        "Elaine"
+        "Elaine",
+        "Kramer",
+        "Tawni"
       ],
-      "correctAnswer": "Sophie"
+      "correctAnswer": "Tawni"
     },
     {
-      "quote": "That's where they filmed the movie. It's supposed to inspire me.",
+      "quote": "on the left--exquisite marble! High ceilings. An' a flush, like a jet engine!  Ha ha!",
       "characters": [
         "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that \"Atomic Sub\" card.",
+      "characters": [
+        "Jerry",
+        "Leo",
         "Elaine",
-        "George",
-        "Margaret"
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "yes.. alright buddy, take it easy Kramer you down to it George? what's wrong?",
+      "quote": "Yes, we were waiting for our mail to arrive and I happened to mention to her how you felt that it was never going \"to happen\" for you.",
       "characters": [
-        "Tony",
-        "Elaine",
+        "Rabbi",
+        "George",
         "Jerry",
-        "Darryl"
+        "Kramer"
       ],
-      "correctAnswer": "Tony"
+      "correctAnswer": "Rabbi"
     },
     {
-      "quote": "...and I, of course, will return to mine. Kudos, Elaine, on a job... done.",
+      "quote": "Alright, then, it's like a boring book, but you gotta finish it.",
       "characters": [
-        "George",
-        "Toby",
-        "Brett",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "That reminds me, I'm not getting you guys any more fruit. That guy was eyeballing me the whole time. He gave me the creeps. All right, you owe me twenty-eight sixty.",
-      "characters": [
-        "Helena",
         "Elaine",
-        "Peterman",
-        "George"
+        "George",
+        "Jerry",
+        "Steinbrenner"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You told David Putty your move and you didn't tell *me*? I *need* a move. You know I have no moves, Jerry.  Gimme a bite.",
+      "quote": "So maybe I'll go down there and watch, uh? She'll be there, ,maybe.",
       "characters": [
-        "George",
         "Elaine",
-        "Poppie",
+        "Kramer",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Excuse me. I believe you just ate my Twix bar. It was dangling. And when you purchased your Twix bar, you got a little freebie, and you never bothered to ask why, or seek out its rightful owner.",
+      "quote": "Excuse me. What happened to the man, that was in this room before?",
       "characters": [
-        "Elaine",
+        "Sid",
         "Jerry",
-        "George",
-        "Wyck"
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, I've got to go down to the unemployment office. Wanna take a walk?",
+      "characters": [
+        "Jerry",
+        "Mary",
+        "Sally",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh, yeah.  Hey uncle Leo, I hope I wasn't uh, rude to you that day I bumped into you on the street. Uh, I really did have to get to a meeting.",
+      "quote": "The whole thing is so stupid. Like he wouldn't do the same thing if Elaine walked by in a low-cut dress.",
       "characters": [
-        "Jerry",
+        "George",
         "Elaine",
-        "Morty",
-        "George"
+        "Mel",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, you can have mine. I'll ship it out to you.  But what about that big apartment on West End Avenue?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Peterman",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, is that what this is all about?! I bounce a cheque and you sold a Cadillac?!",
+      "quote": "Now, the ending is kind of an option. I use the swirl. I like the swirl. I'm comfortable with the swirl. *I* feel the swirl is a great capper. He uses the pinch, which I find a little presumptuous.",
       "characters": [
         "Elaine",
-        "Wilhelm",
-        "Stationer",
-        "Jerry"
+        "Joel",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     }

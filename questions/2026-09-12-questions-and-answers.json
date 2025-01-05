@@ -1,106 +1,106 @@
 {
-  "gameNumber": 617,
+  "gameNumber": 618,
   "date": "2026-09-12",
   "questions": [
     {
-      "quote": "Excuse me. I couldn't help overhearing. I notice you're eating a poppy seed muffin.",
+      "quote": "Sex, that's meaningless, I can understand that, but dinner; that's heavy. That's like an hour.",
       "characters": [
-        "Elaine",
-        "Man",
-        "George",
-        "Jerry"
+        "Kramer",
+        "Chiles",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Man"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Kramer, Kramer's not here...I knew it. I knew it! I knew this would happen.  Kramer! Kramer!",
+      "quote": "I like history. Civil War. Maybe I could be a professor, or something.",
       "characters": [
-        "Bania",
-        "Jerry",
-        "Man",
-        "George"
+        "George",
+        "Father",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Get yourself some vitamin C with rose hips and bioflavenoids.",
+      "quote": "Well you should hear the message from my nut. Where's George and Kramer, I want to get inside already, I don't like standing out here, I feel very vulnerable.",
       "characters": [
-        "Conrad",
+        "Lloyd",
+        "Kramer",
         "Jerry",
-        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know you've given this comedy thing your best shot. Yeah, you had some good observations, but it's over. Now, this Bloomingdale thing, that could be the next wave.",
+      "characters": [
+        "Jackie",
+        "Holly",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "They put real blue berries in this. And there's real blue berries. What kind did you get?",
+      "quote": "What I mean who ever heard of this anyway? Suing a company because there coffee is too hot? Coffee is supposed to be hot.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Jane",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Alright, let's see, let's see. What else. What else. Oh yeah, what does she do?",
+      "quote": "Hey, I give you a brand-new Armani suit, and you won't even buy me a meal?",
+      "characters": [
+        "Kramer",
+        "Bania",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Speed limit, one hundred and sixty-five miles per hour. See? They slipped a one in there.  Those kids with the spray paint, God love 'em.",
+      "characters": [
+        "Kramer",
+        "Patty",
+        "Keith",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The nickname. George. What is that? It's nothing. It's got no snap, no zip. I need a nickname that makes people light up.",
       "characters": [
         "George",
         "Jerry",
         "Elaine",
-        "Salesman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, maybe philanthropy is not your field.  Hello. Oh, Hi, Ellen. Yeah, I called the hotel.. we're all set for the weekend.",
-      "characters": [
-        "Kramer",
-        "Lloyd",
-        "John",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley.",
-      "characters": [
-        "Jerry",
-        "Wyck",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look, that's his problem, alright? Now you don't like it, too bad.",
-      "characters": [
-        "George",
-        "Peterman",
-        "Kate",
-        "Ron"
-      ],
-      "correctAnswer": "Ron"
-    },
-    {
-      "quote": "Ah, see, Mister.. I didn't write that report. That, that's not mine.",
-      "characters": [
-        "Jerry",
-        "Dana",
-        "George",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I don't see any tissues back her..  Wait a minute!..  This isn't the way to the park!  Where are we going?.. I recognize this block!  You're taking me to the doctor!",
+      "quote": "So, dad, lemme ask you a question. How many people work at these big law offices?",
       "characters": [
         "Kramer",
-        "Gary",
         "Jerry",
-        "Elaine"
+        "Doctor",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I know. I have to go check it out. It's a beautiful button too, you know. It's antique ivory. It was my mother's.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

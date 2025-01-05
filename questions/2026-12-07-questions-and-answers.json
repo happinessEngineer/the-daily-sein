@@ -1,106 +1,106 @@
 {
-  "gameNumber": 703,
+  "gameNumber": 704,
   "date": "2026-12-07",
   "questions": [
     {
-      "quote": "What about the dolphins? You could swim with the dolphins down there.",
+      "quote": "I'm calling dentists all day here, there's nobody working the day before Thanksgiving.",
       "characters": [
-        "George",
-        "Estelle",
         "Elaine",
+        "George",
+        "Susan",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I hope prune juice is alright. It's the only thing I had that was chilled.",
+      "characters": [
+        "Frank",
+        "Darren",
+        "George",
+        "Tv"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeeah, but David and Beth are going to need their grieving time.",
+      "quote": "Right in here. Just keep your eyes unfocused.  Waahh! Oh, mama!",
       "characters": [
-        "Waiter",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Could you do me a favor? If you see a guy that's five foot eleven, he's got uh a big head and flared nostrils, tell him his friend's going to be right back, okay?",
-      "characters": [
-        "Joel",
-        "Jerry",
+        "Carl",
         "Elaine",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "All right. I am happy, and I'll tell ya why -- because the two of you were making me and every one of your friends sick! Right, Elaine?",
+      "quote": "There's a Costanza in Tuscany?  Did he look like me? Did you talk to him?",
       "characters": [
-        "George",
         "Jerry",
-        "Kramer",
-        "Frank"
+        "Frank",
+        "Conrad",
+        "Newman"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "I'm just pretending I'm married to get a discount on dry-cleaning.",
+      "quote": "Because the next day in the offices, people gather around the water coolers to talk about it, right?",
       "characters": [
-        "George",
-        "Lippman",
+        "Russell",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Um, actually, I met him in Switzerland, and he was fighting uh, is that the word they use? Fighting? Because they don't really fight the bull, they avoid fighting the bull.",
+      "quote": "3.. I don't know what that is.. where's my damn preview channel?",
       "characters": [
-        "George",
-        "Silvio",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'm not surprised. I really let him have it, Jerry. He has no business being in your audience if you didn't want him there.",
-      "characters": [
-        "Kate",
-        "Russell",
+        "Kramer",
+        "Peterman",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Kate"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "You're a rabid anti-dentite! Oh, it starts with a few jokes and some slurs. \"Hey, denty!\" Next thing you know you're saying they should have their own schools.",
+      "quote": "I'll tell you what happened. I bet he got the AM/PM mixed-up.",
       "characters": [
-        "Peterman",
-        "Kramer",
+        "Maestro",
         "Elaine",
-        "Bania"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I knew I had hit my high note so I thanked the crowd and I was gone.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "George",
-        "Leo"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Cause you only get one call. The prison call is like the king of calls.",
+      "quote": "Mister Fowler, I-I have a squirrel here that is a miracle of modern science!",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "John",
+        "Kramer",
         "George",
-        "Frank"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh look, I need to get in touch with Cheryl. Babu needs a lawyer, his Visa's expired.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Lena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean what if, what if, this this guy has got all my money. Plus he has got some Kramer's money with him. This guy could write checks to himself right out of my account.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

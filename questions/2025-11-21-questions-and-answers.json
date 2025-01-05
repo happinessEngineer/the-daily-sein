@@ -1,106 +1,106 @@
 {
-  "gameNumber": 322,
+  "gameNumber": 323,
   "date": "2025-11-21",
   "questions": [
     {
-      "quote": "They look good. I liked the other one too. I've liked about five of them.",
+      "quote": "Well, I think Poppie's got some problems. There's a whole other thing going on with Poppie. So how did you leave it?",
       "characters": [
         "George",
         "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why would anyone eat canned fruit? I mean can anybody answer that?",
-      "characters": [
-        "Kramer",
-        "Diane",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, she's fascinated with Greenland. She enjoys teasing animals, banlon, and seeing people running for their lives. She loves throwing garbage out the window, yet she's extremely dainty.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Abby",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ohh yes, yes. Yes Jerry they were all over me. It was like Rocky 1, Hm. Diane came up to me, threw her arms around me…",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Judge"
+        "Rava",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Are, are you sure this is decaf? Where's the orange indicator?",
+      "quote": "Oh, well you have fun... oh no clowns...hate clowns...the clowns.",
       "characters": [
-        "George",
-        "Elaine",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, maybe you should try again. You know what happens the first time: people are a little shy, a little reticent.",
-      "characters": [
-        "Sally",
         "Jerry",
+        "Ruby",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Why don't you get him some tickets or something, how about that friend of yours that works at the ticket agency.",
+      "quote": "Ohhh. another interesting confrontation. This could be spicy. Yeah, George bring him over.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on, you've got the gift. You're the only one that can help me.",
+      "characters": [
+        "Hanke",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhh, so you want to join me and Susan for lunch at the coffee shop?",
       "characters": [
         "Elaine",
         "George",
-        "Jerry",
-        "Kramer"
+        "Alton",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, I insist. I was the one who encouraged you to fire her - the whole thing was all my-",
+      "quote": "I tell ya, I hear people really stuff themselves on those cruise ships.  The buffet, that's the real ordeal, huh, Clarence?",
       "characters": [
-        "Jerry",
+        "George",
+        "Wilhelm",
         "Kramer",
-        "George",
-        "Jimmy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, look at this. There's no place to park around here. I don't even know why they sell cars in Manhattan.",
-      "characters": [
-        "Tv",
-        "Jerry",
-        "George",
-        "Peterman"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So get this. I get down there, and right away, I see the drain is clogged. I mean it's obvious. Can you believe it?",
+      "quote": "Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!",
       "characters": [
-        "Ramon",
-        "Elaine",
-        "Jerry",
-        "Frank"
+        "Kramer",
+        "George",
+        "Sally",
+        "Jerry"
       ],
-      "correctAnswer": "Ramon"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cheap fabric, and dim lighting. That's how you move merchandise.",
+      "characters": [
+        "Todd",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No, I'm fine. Just as long as you don't ever do that voice again.",
+      "characters": [
+        "Clare",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Clare"
+    },
+    {
+      "quote": "What? Devola? See I told you this guy is crazy. I can't believe this. What happened?",
+      "characters": [
+        "Jerry",
+        "Wyck",
+        "Hoyt",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

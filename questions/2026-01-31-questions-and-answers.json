@@ -1,106 +1,106 @@
 {
-  "gameNumber": 393,
+  "gameNumber": 394,
   "date": "2026-01-31",
   "questions": [
     {
-      "quote": "What was all that \"attractive women not getting tickets\" nonsense?",
+      "quote": "I'm gonna go meet Danielle.  There's a new Neil in town!  Hahaha!",
       "characters": [
-        "Jodi",
-        "Kramer",
         "George",
-        "Elaine"
+        "Jackie",
+        "Kramer",
+        "Melissa"
       ],
-      "correctAnswer": "Jodi"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Wel...I have to be something. I 'm a close friend....What about being a bridesmaid.",
+      "quote": "Wait a second. Think about it. He's not showing up. Wait till you see the line of cabs, its like forty-five minutes long. You said he's in Chicago.",
       "characters": [
-        "Elaine",
-        "Owner",
+        "Cynthia",
+        "George",
         "Jerry",
-        "George"
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, Sandra. I'm sorry, I'm sorry! I really am! Listen, listen, Jerry's under a lot of pressure right now. It's very hard being a stand-up comedian! Sometimes they don't laugh!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You have no idea how your life is gonna improve as a result of this. Food tastes better. The air seems fresher. You'll have more energy and self confidence than you ever dreamed of.",
+      "quote": "It's nothing. I got it. So, how are your levels coming along?",
       "characters": [
+        "Morty",
         "George",
         "Jerry",
-        "Woman",
-        "Kramer"
+        "Frank"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "A pow-wow? Who told you to have a pow-wow? I didn't tell you to have pow-wow.",
-      "characters": [
-        "Helen",
-        "Jerry",
-        "Leo",
-        "Jackie"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Ho ho ho ho! I can't wait for Hanke to come crawling back to me.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "A signal, right, um, okay, uh, okay, the signal is, I'll call out tippy-toe!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Ned",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Carrot cake? Now w-why is that a cake? You don't make carrots into a cake. I'm sorry.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Enzo",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I mean it's gotten to the point where I'm flirting with operators on the phone. I almost made a date with one.",
+      "quote": "You think you can pose me however you want? That's my ass in your window!",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's right. I don't care for the salesman that sold it to me.",
-      "characters": [
-        "Jerry",
         "Newman",
         "George",
-        "Kramer"
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well I'm sure you have secrets from me. I don't know anything about your cycles.",
+      "quote": "I mean they found a tee and he played golf that day. Nobody walks into a dry cleaner's with a tee. The circumstantial evidence is overwhelming.",
       "characters": [
-        "Russell",
-        "James",
+        "Margaret",
+        "Pitt",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Margaret"
+    },
+    {
+      "quote": "\"No No... That's not him. That's the guy who gave me... Jimmy's number.\"",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh come on Jerry, its opening night, black tie, Pagliacci! The great clown, the great sad tragic clown, like you.",
+      "characters": [
+        "Jerry",
+        "Noel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hey! Hey, Jer, I want you to meet my new friends, here.  This is, uh, Louis, Jorge, and Umberto.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "There's one thing I don't understand. Why does it please you?  George Costanza, please.",
+      "characters": [
+        "Bob",
+        "George",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

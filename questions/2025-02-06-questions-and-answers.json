@@ -1,106 +1,106 @@
 {
-  "gameNumber": 34,
+  "gameNumber": 35,
   "date": "2025-02-06",
   "questions": [
     {
-      "quote": "Yeah, I come here all the time. You wouldn't believe the rat problems in the kitchen.",
-      "characters": [
-        "Carl",
-        "Jerry",
-        "Phil",
-        "Keith"
-      ],
-      "correctAnswer": "Carl"
-    },
-    {
-      "quote": "Hey, what happened with Sandy. I forgot all about it. Did you call her?",
-      "characters": [
-        "Michael",
-        "Elaine",
-        "George",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well you shoulda seen the pile of albums this old guy I was visiting today was throwing away: Sinatra, Duke Ellington, Al Jolson, Benny Goodman...",
-      "characters": [
-        "Jake",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Of course he is. There's got to be houses for rent in Tuscany. Do you know how big Tuscany is?",
+      "quote": "I especially enjoy the catalogue, those fanciful narratives really take me away..",
       "characters": [
         "George",
-        "Jerry",
         "Elaine",
-        "Pitt"
+        "Craig",
+        "Ethan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Craig"
     },
     {
-      "quote": "Yes, well I trust things are moving smoothly. Mr Steinbrenner's counting on you, you know.",
+      "quote": "Well, thank you very much. I'm telling you, one more day stinkbreath!",
       "characters": [
-        "Wilhelm",
-        "Jerry",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "But you know... not in the building. Really, I feel terrible about this. My intentions were good. What can I do? Tell me.",
-      "characters": [
-        "Jerry",
-        "Rudy",
-        "Ade",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You make me change restaurant, but nobody come! You say make Pakistani, Babu Bhatt have only Pakistani restaurant. But where are people? You see people? Show me people. There are no people!",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Kramer",
-        "Babu"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "It's not for me. It's for Hilde -- the waitress I was telling you about. She's hungry, she wants food. If I go back in there without any food ... there's gonna be trouble.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Now he's a character.  So everybody I know is a character on the show.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Frank",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Dick? He can't drink. He's an alcoholic. I told you to hold it.",
+      "quote": "And who were these other people. What were they doing in the apartment!?",
       "characters": [
-        "Russell",
+        "Katie",
+        "Tim",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "You know what, let me bring some other people in on this...Barbara, Jane, Mike Can I see you please.",
+      "characters": [
+        "Manager",
+        "George",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "No!!! The reason he's the iron man is because he goes out there and plays every game. Wash!!! Spin!!! Rinse!!! Spin!!! You take that away from him, you break his spirit!",
+      "characters": [
         "Jerry",
+        "George",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah!\"",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't understand this jeweller, Jimmy Sherman.  He brings in a watch, it takes over a week to fix. He fixed yours in one day.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey, you know what else is playing here? ``Rochelle Rochelle''.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't. She'll get upset. I never talk about other women with her, especially this one tonight.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why. There's a one-second clip of me in the opening credits of some Japanese comedy show.",
+      "characters": [
+        "Mary",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

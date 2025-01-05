@@ -1,106 +1,106 @@
 {
-  "gameNumber": 14,
+  "gameNumber": 15,
   "date": "2025-01-17",
   "questions": [
     {
-      "quote": "\"JIM....JIMMY WONT FORGET YOU KRAMER... JIMMY HOLDS GRUDGES. LET JIMMY GO......\"",
+      "quote": "Alright, suit yourself. But let's keep this between us - we're key brothers now.",
       "characters": [
-        "Frank",
-        "Jerry",
         "Kramer",
-        "Jimmy"
-      ],
-      "correctAnswer": "Jimmy"
-    },
-    {
-      "quote": "Uh, no uh, someone offered Harold and Manny five thousand for the apartment. I'm sure they'd just as soon give it to you, but you'd have to come up with that money.",
-      "characters": [
-        "Wilhelm",
+        "Jerry",
         "George",
-        "Frank",
-        "Jerry"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "If this lip reading thing works tonight do you know how incredible this is going to be? It's like having Superman for your friend.",
+      "quote": "The sweater! The sweater made him sniff! See, I told you he wasn't a drug addict.",
+      "characters": [
+        "Duncan",
+        "Babu",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let's not forget the radiator. The steam has been on here for ten years. No human can turn this off.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Right, I talked to this lawyer guy, Shellbach. Now, he's gonna set me up, but you gotta come with me and be the executor.",
       "characters": [
         "Kramer",
         "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yes, Jerry. I just checked your duck...it is more succulent than even I had hoped.",
+      "quote": "He said she's mentally ill. He's one of those guys who is obsessed with neatness and order? Everything has gotta be just so. He would have made a great Nazi.",
       "characters": [
-        "Poppie",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Poppie"
-    },
-    {
-      "quote": "If it makes you happy, I don't focus on these things. I will tell you this: Unfortunately, we live in a very superficial society. I don't condone it, but it's a fact of life.",
-      "characters": [
-        "Frank",
-        "George",
-        "Elaine",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Can you die from an odor? I mean, like if you were locked in a vomitorium for two weeks, could you actually die from the odor?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, I shouldn't go out with a friend of yours. I foresee messiness.",
-      "characters": [
         "Kramer",
+        "Sidra",
+        "Jerry"
+      ],
+      "correctAnswer": "Sidra"
+    },
+    {
+      "quote": "You only went in front first 'cause you saw me backing up and you didn't have room to parallel park!",
+      "characters": [
+        "Jerry",
+        "George",
         "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm sure you are. I'm sure you are very close friends. Very close.",
+      "characters": [
+        "Elaine",
+        "Salesman",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No Jerry! I - I need that chicken, I gotta have that chicken. Now you leave those roasters alone. Kenny never hurt anybody.",
+      "quote": "I know what you were trying to do. Nobody does it better than me.",
       "characters": [
         "George",
-        "Maestro",
+        "Mohel",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well I don't trust this guy.  I think he regifted, he degifted, and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.",
+      "quote": "No...no...no, I hate to tell you this. You're not gonna see this woman.",
       "characters": [
+        "Jerry",
         "Kramer",
-        "George",
-        "Kimbrough",
-        "Jerry"
+        "Newman",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No. No. No. It's for oil tankers. All I need to do is fill some sort of rubber container with oil and then drop it to see whether or not it can restrain the impact.",
+      "quote": "Wait a minute! You're--now you're getting a divorce because she's from Long Island?!?!",
       "characters": [
-        "Kramer",
-        "Elaine",
         "George",
-        "Peterman"
+        "Patty",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     }
   ]
 }

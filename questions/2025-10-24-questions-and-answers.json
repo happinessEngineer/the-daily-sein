@@ -1,106 +1,106 @@
 {
-  "gameNumber": 294,
+  "gameNumber": 295,
   "date": "2025-10-24",
   "questions": [
     {
-      "quote": ", You know it's not important I'm gonna, ok, well, you know. Take care of that condolitis",
+      "quote": "He's all together crazy, that one! Jerry? I used to think was nice... I don't know what happened to him...",
       "characters": [
-        "Newman",
-        "Kramer",
-        "Elaine",
-        "George"
+        "George",
+        "Worker",
+        "Celia",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Hi there. Um, uh -- [drumming on countertop] Oh! Oh! Oh! One mulligatawny and, um.... what is that right there? Is that lima bean?",
+      "characters": [
+        "Marlene",
+        "Bob",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "It never fails. See, it's based on your body clock. See, your body has an internal mechanism. It knows what time it is.",
+      "quote": "Yea, yeah, yeah,. So I spoke to him about the dog. He went down. Talked to the owner. She agr4eed to keep the dog inside from now on.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I thought you said they had a good time, is there anything else you're keeping from me?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Mickey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What's been going on out there? I've been standing here 20 minutes.",
-      "characters": [
         "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So uh, how are you getting to the airport? D'you need a ride, or...",
-      "characters": [
-        "George",
-        "Tim",
-        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, pistol-packin mama, you swing that gal around, Allemande left with the old gray hag, around and around you go. Yee-ha!!",
+      "quote": "Jerry, it's me, George, don't worry, I'll return it tomorrow, no problem.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "George",
-        "Jerry"
+        "Jerry",
+        "Raymond",
+        "Morty"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Before we go any further, I'd just like to point out how disturbing it is that you equate eating a block of cheese with some sort of bachelor paradise.",
+      "quote": "Then this Pennsylvania Dutch thing comes out of nowhere. I mean, how am I supposed to respond to that?",
       "characters": [
-        "Gennice",
-        "Elaine",
         "Jerry",
-        "Newman"
+        "Kramer",
+        "Elaine",
+        "Wyck"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "They should update these pieces, nobody rides horses anymore. Maybe they should change it to a tractor.",
+      "quote": "Oh, I think you're making too much of this. IQ tests don't mean anything.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Frank"
+        "Monica",
+        "Wilhelm",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Monica"
     },
     {
-      "quote": "He also came up with an idea for a brimless rain-hat but that never materialized.  Alright come on let's play.",
+      "quote": "Yeah, and I don't poof up my hair when I got to a movie so people behind me can see. I've got to make it up to this guy or I won't be able to live with myself. What can I do?",
       "characters": [
-        "Elaine",
-        "George",
+        "Darryl",
         "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright, alright, That's no good.  Let me try getting them from the bottom.  Just gimme one leg.",
+      "characters": [
+        "Jerry",
+        "Bookman",
+        "Woman",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You don't think I know how you're feeling, every second of the day? Looking over your shoulder to see if someone's coming up from behind. Sitting alone at night, knowing they could be closing in.",
+      "quote": "Every summer you guys went to camp together. I was jealous. Felt like he was the summer me.",
       "characters": [
-        "Morty",
-        "Beth",
+        "George",
+        "Jerry",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Got you? I don't even know what the hell you're talking about.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Peterman",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
     }
   ]
 }

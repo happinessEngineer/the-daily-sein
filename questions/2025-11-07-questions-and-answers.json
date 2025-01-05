@@ -1,106 +1,106 @@
 {
-  "gameNumber": 308,
+  "gameNumber": 309,
   "date": "2025-11-07",
   "questions": [
     {
-      "quote": "I know Teddy Padillac. I worked with him on Forty-eighth and Sixth.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Leo",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, Elaine, this dry air is curing me like a Black Forest ham.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Elaine",
-        "Phil"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Thanks for that four a.m. wakeup call last night.  Where the hell is that jacket?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Estelle"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It is too small for someone with such a big mouth . Let me ask you. What will you do if Martine wakes up? Run away like a mouse?",
+      "quote": "Oh, no no no. Course not. I got a great name for our kids. A real original. You wanna hear what it is? Huh, you ready?",
       "characters": [
         "George",
-        "Gina",
         "Jerry",
-        "Glenn"
-      ],
-      "correctAnswer": "Gina"
-    },
-    {
-      "quote": ": I didn,t tell you to park in that lot .. Now someone's gonna have to drive you every time you need your car.? Take the bus!",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
         "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Anyway, I think everything else is okay. Unless of course she's faking.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Hoyt",
-        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You shouldn't have said anything. What did you expect him to do?",
+      "quote": "Uh-Oh-ah, by the way Mr. Testikov um, do you remember the other day when we were in the limo and ah, my organizer started making noise and you threw it out the window?",
       "characters": [
+        "Deena",
+        "Man",
         "George",
-        "Kramer",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Why? Why did you get into a fist fight with the cop? You were innocent!",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right we got the wine. Aren't we lucky? We got wine. Whoopee Whoa! Imagine if we didn't bring the wine. We'd be shunned by society. Outcasts! WHERE'S YOUR WINE? GET OUT!",
+      "quote": "I'd go, but Long Island, it's so far out, it smacks of desperation.  The whole party, everyone's gonna be saying to me, \"You came all the way out from Manhattan for this?\"",
       "characters": [
-        "Jerry",
         "George",
+        "Peterman",
         "Elaine",
-        "Peterman"
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, I'm just selling some of Dad's things,  that's what he would have wanted.",
+      "characters": [
+        "Rabbi",
+        "Jake",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Pfft! Hold it right there. If you're suggesting what I think you're suggesting, you're wasting your time. I am not Jerry, under any circumstances, doing any inserting in that area.",
+      "quote": "You know how easy it is for dead people to travel? It's not like getting on a bus. One second.  It's all mental.",
       "characters": [
-        "Elaine",
-        "Wilhelm",
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Its killing me, I can't eat, I can't sleep. All I can see is that giant red sun in the shape of a chicken.",
+      "characters": [
+        "Newman",
         "George",
-        "Kramer"
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, yeah.  Hey uncle Leo, I hope I wasn't uh, rude to you that day I bumped into you on the street. Uh, I really did have to get to a meeting.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Patty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, all right, I?ll wear this. It's bad enough I?ve got to go to the opera I?ve got to sit next to ozzie nelson over here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Ben",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm takin' it, I'm takin' the place. I'm gonna take it, this is gonna be my new place. I'm livin' here...I'm movin'.",
+      "characters": [
+        "Jerry",
+        "Darren",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "At the funeral, give or take. You know, deep down, I always kinda felt that they blamed me for Susan's death.",
+      "characters": [
+        "George",
+        "Bob",
+        "Stu",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1047,
+  "gameNumber": 1048,
   "date": "2027-11-16",
   "questions": [
     {
-      "quote": "Nice going. Thank you, that ought to get us a free dessert..  I think the busboy's in trouble.",
+      "quote": "Well, break 'em. You missed the bris, I want you at the game.",
+      "characters": [
+        "Keith",
+        "Jerry",
+        "Frank",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "See? See the way they are?! We're - we're still best friends, right?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "D-d-d-d. I gotta switch shaving creams. I'm getting no protection.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Nurse",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "By the way, Jerry, I don't want you to freak out, but the pilot is going to be in the audience.",
       "characters": [
         "Jerry",
-        "Peterman",
+        "Kate",
+        "Kramer",
+        "Gennice"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "The cool evening breezes of Anytown, USA. Let's see how this baby closes. Oh yeah, yeah, yeah.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was speaking earlier with Kramer and he mentioned something about a private jet to Paris?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "All right, don't panic. Let's just decide now. Which one do you want?",
+      "characters": [
+        "George",
+        "Mickey",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Look, sweetheart, you know you've got it all. But let's face it...",
+      "characters": [
+        "Morty",
+        "Kruger",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No Elaine he's normal. Your boyfriend is a normal guy. He just happens to have the same name as one of the worst serial killers in the history of New-York.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, I don't even know why you're fooling around with this ring. I've been telling you, get yourself some plugs. Or a piece.",
+      "quote": "Yeah, too bad he didn't get shot. He could have been the one.",
       "characters": [
-        "Kramer",
-        "Peterman",
-        "Elaine",
-        "Diane"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There are plenty of things you can do, there's chess and uh uh mah jong,",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Jack",
-        "Susan"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Vivian left me a message. I guess a certain someone changed her mind about whether someone was responsible enough to watch certain other someone.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Let me ask you something, George. You having any personal problems at home? Girl trouble, love trouble of any kind?",
-      "characters": [
-        "Jerry",
-        "Steinbrenner",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "Oh, no no no, I'm fine. Let me help you with these dishes, huh?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Phil",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah, excuse me. When your, uh, when your wallet was open, I - I glanced inside, and I couldn't help but notice that you have several crisp dollar bills.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Regis"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Kramer says you need it because you're an entertainer and you're desperate for attention.",
-      "characters": [
-        "Frank",
-        "George",
-        "Kramer",
-        "Silvio"
-      ],
-      "correctAnswer": "Silvio"
-    },
-    {
-      "quote": "I can't. She'll get upset. I never talk about other women with her, especially this one tonight.",
-      "characters": [
+        "Kate",
         "Jerry",
         "George",
-        "Susan",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Well, let's hope this evening turns out a little better.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Jack",
-        "George"
+        "Keith"
       ],
       "correctAnswer": "Jerry"
     }

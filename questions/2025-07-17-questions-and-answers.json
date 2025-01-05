@@ -1,106 +1,106 @@
 {
-  "gameNumber": 195,
+  "gameNumber": 196,
   "date": "2025-07-17",
   "questions": [
     {
-      "quote": "Oh, I'm afraid I could't do that. It wouldn't be fair to the other customers.",
+      "quote": "I-I'm already here. I'm here. I'm here. Uh, you know what? If you want a computer, call me. I-I gotta go.",
       "characters": [
-        "Jerry",
-        "Saleswoman",
-        "Rula",
-        "Kramer"
+        "Newman",
+        "Elaine",
+        "George",
+        "Bob"
       ],
-      "correctAnswer": "Saleswoman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Then on the evening of October 28, there was an abrupt end to that relationship. Tell us what happened.",
+      "quote": "like yesterday, I go to the bank to make a deposit, an' the teller gives me this look, like--",
       "characters": [
-        "Hoyt",
-        "Jerry",
-        "George",
-        "Tor"
+        "Kramer",
+        "Gail",
+        "Karen",
+        "Jerry"
       ],
-      "correctAnswer": "Hoyt"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, he's in the hospital. And the cook says you put him there.",
+      "quote": "Did you here that? I can't believe this he's eating his sandwich.",
       "characters": [
+        "Celia",
         "Jerry",
-        "Nina",
-        "George",
-        "Kramer"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Remember Mrs. Hudwalker? The ninety-four-year-old woman who lived above me?",
+      "quote": "Don't Frank me! I know what you did. How dare you stop short with my wife!",
       "characters": [
         "Jerry",
-        "George",
+        "Leo",
+        "Frank",
+        "Stu"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "That is the sound of you buying a whole can. And the same goes for this, okay...",
+      "characters": [
+        "Newman",
+        "Jerry",
         "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, look at that. Picture of me, huh?  Candidate Cosmo Kramer caught barefoot in clubhouse.",
+      "quote": "Come on, Jerry, this is a security issue!  Boy, you wouldn't last a DAY in the Army.",
       "characters": [
-        "Elaine",
+        "Kramer",
         "George",
         "Jerry",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Thank you, but, unfortunately, I have much larger problems to fry. My wife, she has no respect for Milos anymore.",
+      "quote": "I can tell. You know how you're always bragging how you can spot a lesbian?",
       "characters": [
-        "Milos",
-        "Jerry",
-        "Naomi",
-        "Elaine"
-      ],
-      "correctAnswer": "Milos"
-    },
-    {
-      "quote": "...yeah, my wife started getting on me about the lawn today. I'm tellin' you, it's one thing after another.",
-      "characters": [
-        "Jerry",
-        "Wendy",
+        "George",
         "Elaine",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This stuff on top is my friends. Could I get it done in a separate machine?",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's seventy-five bucks?! What, am I seeing Sinatra in there?! Am I being entertained? I don't understand this. I'm only paying half.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What if she becomes Miss America? You could be dating Miss America, Jerry!",
+      "quote": "Will you look at this? More catalogs! 'Omaha Steaks', 'Mac Warehouse', 'Newsweek'?! I can't stop all these companies, so, I'm gonna attack this problem at the choke point.",
       "characters": [
-        "Jerry",
-        "Toby",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, not really. After all, she did get together with George Peppard. I mean, Fred.",
-      "characters": [
-        "Jerry",
+        "Jackie",
         "Kramer",
-        "Mike",
-        "George"
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh come on? No come on. She took off her hat and there she was  hello. It was like I was looking at myself in the mirror.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     }
   ]
 }

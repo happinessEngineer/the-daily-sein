@@ -1,102 +1,102 @@
 {
-  "gameNumber": 216,
+  "gameNumber": 217,
   "date": "2025-08-07",
   "questions": [
     {
-      "quote": "I'm so sorry about that Mr Costanza, but look. Look, I brought you another one.",
+      "quote": "Because he think I live here. Remember when we shared a cab, and he dropped me off out in front? He's picking me up.",
       "characters": [
-        "Gary",
-        "Jerry",
         "Elaine",
-        "George"
+        "Jerry",
+        "Kramer",
+        "Greg"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hello? Yeah, this is Jerry Seinfeld. No, no, no, I do not want to stop over in Cincinnati. Well, then you upgrade me. That's right, you should thank me. Goodbye.  Hey, I'm flyin' first class.",
+      "quote": "Well, what am I gonna do? I got over two hundred folding chairs, and quite a bit of ice.",
       "characters": [
         "Jerry",
-        "Steinbrenner",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know what, let me bring some other people in on this...Barbara, Jane, Mike Can I see you please.",
-      "characters": [
-        "Manager",
         "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Manager"
-    },
-    {
-      "quote": "Oh good. I just didn't want you to freak out... The chance of a crash is very slim. Do you have to go to the bathroom?",
-      "characters": [
-        "Toby",
         "George",
-        "Elaine",
-        "Kate"
+        "Kramer"
       ],
-      "correctAnswer": "Kate"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "But... I don't want to spoil things by sleeping with you too soon.",
+      "quote": "It's like I didn't even know him. He's like a totally different person.",
       "characters": [
-        "Bruce",
-        "George",
-        "Loretta",
-        "Jerry"
-      ],
-      "correctAnswer": "Loretta"
-    },
-    {
-      "quote": "Hey, look who's over there. Miss Cool-toes. Check this out, Jack!",
-      "characters": [
-        "Newman",
-        "Gary",
         "Jerry",
-        "Steinbrenner"
+        "Landlord",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Gary"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'll call Jack Klompus, he's got a key to the garage. He can send them overnight delivery.",
+      "quote": "I'll tell you how crazy I am, I'm gonna pay for this whole trip with these coats.",
       "characters": [
         "Morty",
         "Jerry",
-        "Kramer",
+        "Bob",
         "Elaine"
       ],
       "correctAnswer": "Morty"
     },
     {
-      "quote": "UH, ha ha, ... It's just SO frustrating. It's a brand new jacket.",
+      "quote": ". . . Martinez throws it over Alomar's head. O'Neill is safe at home. And the Yankees take the lead.",
       "characters": [
-        "George",
+        "Kramer",
+        "Tv",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "I don't care much for the beach. I freckle. . . . Is that a,..",
+      "characters": [
+        "Jerry",
+        "Ed",
         "Elaine",
-        "Katya",
-        "Ellen"
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys.",
+      "characters": [
+        "Kramer",
+        "Tv",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "She dumped me! She rolled right over me! Said I was a hipster dufus. Am I a hipster dufus?",
+      "quote": "You're out, Jerry. You're out as Godfather. You too, Elaine. You're both out.",
       "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "Jackie"
+        "Stan",
+        "Bob",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Stan"
     },
     {
-      "quote": "Yeah, yeah, yeah, yeah. That's it. More of that, difficult. I'm a difficult seed.",
+      "quote": "I suspect that this guy I'm seeing might be drinking but I can't smell it.",
       "characters": [
+        "Elaine",
+        "Debby",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I think I can sum up the show for you with one word: NOTHING.",
+      "characters": [
+        "Morty",
         "Jerry",
-        "Kruger",
         "Elaine",
         "George"
       ],

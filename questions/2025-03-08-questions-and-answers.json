@@ -1,106 +1,106 @@
 {
-  "gameNumber": 64,
+  "gameNumber": 65,
   "date": "2025-03-08",
   "questions": [
     {
-      "quote": "Hello, Jerry.  Tim couldn't make it, he's in love.  Isn't that wonderful?",
+      "quote": "This Supreme Flounder, it says first time served in America. Is that true?",
       "characters": [
-        "Kramer",
         "George",
-        "Susan",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Well Bob Sacamano he stayed with me once for a year and a half.",
-      "characters": [
+        "Bania",
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know it's bad enough you have a car phone, you have to use the speaker?",
-      "characters": [
-        "Jerry",
-        "Stan",
-        "Elaine",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'm tellin' ya' somethin' is goin' on. He never likes anything I recommend. And then that lunch thing.",
+      "quote": "Well, I was just curious why you didn't use an exclamation point?",
       "characters": [
-        "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
+        "Noel",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I once talked to the reverend Yung Son Moon. He bought two Jesus statues from me. He's a hell of a nice guy.",
+      "quote": "Well, it always has to be explained to me, and then I have to have someone explain the explanation.",
       "characters": [
-        "Glenn",
+        "Elaine",
         "Kramer",
         "Jerry",
-        "Frank"
+        "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Uh, excuse me. I know this is gonna sound crazy but I - I have to have that rye. It's a - it's a long story, but a person's whole future may depend on it.",
+      "quote": "No! I don't have to take it off, why should I take it off? This is ridiculous!!",
       "characters": [
-        "Izzy",
-        "Kramer",
         "Elaine",
+        "Jerry",
+        "George",
+        "Teller"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey! That's my cirrhosis! He's stealing my cirrhosis!  You wanna be sick? I'll make you sick.",
+      "characters": [
+        "Mickey",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "No, that's not enough BTUs for my living room...That was a complete waste of time.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Estelle",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hum, a cologne that smells like the beach. I can't believe I'm saying this, \"That's not a bad idea.\"",
+      "quote": "Yes well unfortunately you'll never get the chance to find out.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course, the uh, the four passes.  Four passes to Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago! The Knicks are playing the Bulls tonight!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That?s not the issue, we're friends, if I?ve got to be uncomfortable, you've got to be uncomfortable too!",
       "characters": [
         "Jerry",
-        "Craig",
+        "Jackie",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm really sorry George, I, I, I wasn't jealous of you. It was just the whole marriage thing.",
+      "quote": "It all right if I keep these here for a while? I'm having a New Year's Eve party.",
       "characters": [
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Frank",
         "George"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No it was a spur of the moment. Well you know Morty likes to fly by the seat of his vintage pants.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Earl",
-        "Kramer"
-      ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, I said no more face painting, and as you can see this is not my face.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Simon",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
     }
   ]
 }

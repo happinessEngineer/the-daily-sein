@@ -1,106 +1,106 @@
 {
-  "gameNumber": 151,
+  "gameNumber": 152,
   "date": "2025-06-03",
   "questions": [
     {
-      "quote": "I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",
+      "quote": "I don't know, but I gotta do this more often.   Ooh, there's my ride, finally.",
       "characters": [
-        "George",
         "Elaine",
         "Kramer",
-        "Jerry"
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Steve"
+    },
+    {
+      "quote": "I'm tellin'you, I never told anyone about that baby. I never even went near your building!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Manager",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Know body died. Jack I want you to do me a big favor.  In my garage there are a couple of boxes.",
+      "quote": "What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?",
       "characters": [
-        "Morty",
         "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Hey, you know, there's this secretary at work that always had a crush on me.",
-      "characters": [
         "George",
-        "Abby",
-        "Kramer",
+        "Steinbrenner",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yes, I'm sure! I would know if a tray of food had been served to me.",
+      "quote": "Well so she mentioned that she had a son, and then for some reason, I launch into the story about the kid from Pennsylvania who was abducted.",
       "characters": [
-        "Tor",
-        "Elaine",
+        "Kramer",
+        "George",
         "Jerry",
-        "Kramer"
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my God!  You know what I just realized?! If they get divorced an' live in two separate places? That's twice as many visits!",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've never seen him in Manhattan before; it's weird. So out of context.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think what he's trying to say is that he's having a heart attack.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Susan"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Actually, the seat next to me was empty, so, there was no problem at all.",
+      "quote": "I'm glad you called, Elaine. I really needed to talk to someone.",
       "characters": [
-        "Frank",
+        "Man",
         "George",
         "Jerry",
-        "Sally"
+        "Celia"
       ],
-      "correctAnswer": "Sally"
+      "correctAnswer": "Celia"
     },
     {
-      "quote": "Not our \"all the way\", their \"all the way.\" I got the stink of responsibility on me.",
+      "quote": "Not with that big glass window looking out into the hall. I'd love a good nap. That's the only thing getting me out of bed in the morning. I'll see ya'.",
       "characters": [
-        "Jerry",
         "George",
         "Elaine",
-        "Earl"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "My cousin worked for Bouchard's. They used to use the bouilla-base for a toilet.",
-      "characters": [
-        "Frank",
-        "George",
         "Jerry",
-        "Vivian"
+        "Susan"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You don't think I make money. That's what you think isn't it?",
+      "quote": "Well, I-I gotta call the Hospital. I gotta tell 'em what happened.",
       "characters": [
         "Jerry",
-        "Harold",
-        "Kramer",
-        "George"
+        "Elaine",
+        "George",
+        "Helen"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's what a coincidence is! There are no small coincidences and big coincidences!",
-      "characters": [
-        "Levitan",
-        "George",
-        "Jerry",
-        "Rava"
-      ],
-      "correctAnswer": "Rava"
-    },
-    {
-      "quote": "[mind] Come on I won the MVP in 79. I can do whatever I want to.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Newman",
-        "Keith"
-      ],
-      "correctAnswer": "Keith"
     }
   ]
 }

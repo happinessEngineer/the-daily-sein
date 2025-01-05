@@ -1,106 +1,106 @@
 {
-  "gameNumber": 126,
+  "gameNumber": 127,
   "date": "2025-05-09",
   "questions": [
     {
-      "quote": "Well, we better get goin' if we're gonna go to that uh, seven o'clock cold fusion.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Woman",
-        "Aaron"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Kramer, would you hold still? I can't do this if you keep moving.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Nina",
-        "George"
-      ],
-      "correctAnswer": "Nina"
-    },
-    {
-      "quote": "I can't just keep bringing her to the coffee shop. I mean, what if things, you know, progress?",
+      "quote": "Well, Kramer was right. My friend Kim told me the sponge is off the market.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Jane",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And that is it. The match to Ms. Natalia Valdoni. Coming up next, mens single, but for now let's stop a minute and take a look at our beautiful tennis center backdrop.",
-      "characters": [
-        "Jackie",
-        "Kramer",
-        "Keith",
-        "Announcer"
-      ],
-      "correctAnswer": "Announcer"
-    },
-    {
-      "quote": "Oh, he is fantastic! And then they fired a gun right up in the air.",
-      "characters": [
-        "Michael",
-        "Newman",
         "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Svetlana says she find it in the laundry room, but I think it is a gift from that postman agitator. Where is he?",
+      "quote": "Oh, wow, these are nice. Do they have any cultural significance?",
       "characters": [
+        "Jerry",
         "George",
-        "Kramer",
         "Elaine",
-        "Silvio"
+        "Attendant"
       ],
-      "correctAnswer": "Silvio"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, all over the place. Yeah, I'm a seat filler. They don't like to see empty seats on TV so when somebody gets up I just park my kaboos on their spot until they get back.",
+      "quote": "What a world that would be, if you just could ask a woman what she's thinkin'.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I want my vacuum cleaner! I know you can hear me. Look my mother, she's going to come and visit me. She sees that rug, she's going to kill me.",
       "characters": [
         "Kramer",
         "Elaine",
-        "Jerry",
-        "George"
+        "Farkus",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ray, I had a statue in my house. You were in my house – and then I saw it in your house.",
+      "quote": "Well, then the waitress, she comes up and she tells me to shut up or they're gonna throw me out.",
       "characters": [
-        "Elaine",
-        "Ben",
+        "Kramer",
         "Jerry",
+        "Peterman",
+        "Sid"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, I found out who supplies the mannequins and I called 'em up.",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Elaine",
+        "Hoyt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, right in the middle, the ship blows up-- burning debris, bodies falling-- and then just as this eerie silence settles over the airfield, I yelled out, \"That's gotta hurt!\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Fdr"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. You wanna know what one of her favorite expressions is? Happy, Pappy?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why must you always be the focal point of attention? Why can't you just be?  Why can't you live?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, George. I'm gonna tell you. But I just wanna make sure, before---",
+      "quote": "I got engaged. I'm getting married. I asked Susan to marry me. We're getting married this Christmas.",
       "characters": [
-        "Beth",
         "Jerry",
-        "Mike",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, fine.  This is the official flip. No crying, no guilt, winner takes all and that's it. Agreed?",
-      "characters": [
         "Elaine",
-        "Eddie",
-        "Kramer",
-        "Jerry"
+        "David",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

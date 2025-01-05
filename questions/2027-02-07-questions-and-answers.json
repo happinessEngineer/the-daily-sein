@@ -1,106 +1,106 @@
 {
-  "gameNumber": 765,
+  "gameNumber": 766,
   "date": "2027-02-07",
   "questions": [
     {
-      "quote": "I got no A/C and I gotta keep the blood cold or it'll go bad.",
+      "quote": "Well, Mr Seinfeld, I..I'm not sure I understand why you want a job here.",
       "characters": [
-        "Kramer",
         "George",
+        "Morty",
         "Elaine",
-        "Jerry"
+        "Sidra"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Fulton's wife told me it's all my fault. She said since my visit he's taken a turn for the worse.",
+      "quote": "So when are we gonna see this baby? When is the momentous event?",
       "characters": [
-        "Jerry",
+        "Jane",
+        "Morty",
         "George",
-        "Helen",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You don't? Boy, I think about it a lot. I think about it at my age. Imagine how much I'll be thinkin' about it at your age. All I'll do is keep thinkin' about it until it drives me insane...",
+      "quote": "Like if she wants to know if I'm pleased with something, she'll say, \"Happy, Pappy?\"",
       "characters": [
+        "Elaine",
         "Newman",
         "George",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, Ray, listen, you really did a tremendous job cleaning that apartment.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Never mind who I am. I know who I am. Do you know who you are?  Why is it every time you park a car in this block, everything gets disrupted and disjointed?",
-      "characters": [
-        "Pitt",
-        "Sid",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "You see, I've been home for a week and Elaine didn't give me my mail until yesterday, even though I asked her repeatedly for it.",
+      "quote": "Well, you just joked yourself right out of that commercial, didn't you, munjamba?",
       "characters": [
         "Kramer",
         "Elaine",
-        "Jerry",
+        "Rudy",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wha- What? No.  Jerry, you are promoting a benefit to CLOTHE homeless people. You can't come out dressed like that! You're all puffed up!.. You look like the Count of Monte Cristo!",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Did you say, \"Jerry, I didn't think you'd show\" or, \"Jerry, I didn't think you'd show\"?",
-      "characters": [
-        "Jerry",
-        "Jake",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, Frank can't be too comfortable with those things clanging around. He should wear something for support.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Babu",
-        "Detective"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hello Jerry.  What did you say to Elaine? I just got her cancellation in the mail.",
+      "quote": "Look, I don't have time to explain every little thing to you.",
       "characters": [
-        "Kramer",
-        "Frank",
+        "Chiles",
+        "George",
         "Jerry",
         "Newman"
       ],
       "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Saving lives? The whole profession is; eh, just put some aloe on it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, payroll. Yes I did. Very productive. Payroll... Paid off.",
+      "characters": [
+        "Kramer",
+        "Jimmy",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I'm sitting over there waiting for you to finish your sandwich for twenty minutes. Now you're drinking coffee, that's gonna be another ten minutes.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. She wouldn't say anything. She just kept shaking her head like this",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Didn't you tell 'em I got the bill of sale? That proves I paid for it.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,103 +1,103 @@
 {
-  "gameNumber": 865,
+  "gameNumber": 866,
   "date": "2027-05-18",
   "questions": [
     {
-      "quote": "All you have to do is wear the fur so Silvio thinks it's yours.",
+      "quote": "Oh, he took it. I put four hundred dollars in the new wallet.",
       "characters": [
-        "Kramer",
-        "Newman",
-        "Maestro",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well after that Kidney Stone I only want fresh food. It's gotta be fresh. I'm not eating any more stored food. Plus you know I want the space.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Lloyd",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "That place is about to have the sale of the century. Nothing over ninety-nine cents.",
-      "characters": [
-        "Elaine",
-        "Helen",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't know. We're just waiting here for the owner of this car to show up. May not get out alive! Thug! Taking up a handicap spot? He's gonna pay!",
-      "characters": [
-        "Kramer",
-        "Woman",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Listen, Jerry, this place is falling apart. You have no hot water, you can't have soft cheese...",
-      "characters": [
-        "George",
-        "Jerry",
+        "Jackie",
         "Elaine",
-        "Helen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "How could I have tested positive twice? Once I could understand, that's a mistake. But twice?",
-      "characters": [
-        "Elaine",
-        "Katya",
-        "Jerry",
         "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, the face-painting auto mechanic. So she's dating him again, huh?",
-      "characters": [
-        "Kramer",
-        "Peterman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah. I had to spend two hours at dinner last night with that specimen.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Mike"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Vivian, hi it's Elaine. Yeah, I'm over at Jerry's, I got your message...What? Yeah, he's right here, hold on...",
+      "quote": "Have you ever seen a handicapped person pull into a space and park?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You sold us a hair with a cake around it. We'd like another one.",
       "characters": [
         "Elaine",
         "George",
-        "Salesman",
-        "Helen"
+        "Jerry",
+        "Frank"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'll talk slower. I'm kidding - I love Cellblock D. My friend George is in Cellblock D. What are you in for,sir?",
+      "quote": "That chick's whacked. We're history.  I just left out a couple of things: uh, rust-proofing…",
       "characters": [
-        "Manager",
+        "Puddy",
         "George",
+        "Helen",
+        "Pitt"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "You know they told me that they wanted me to walk down the block carrying this bag of groceries.",
+      "characters": [
+        "Jerry",
         "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I told my Chiropractor how swimming in the river made my back heal. He recommended it to all his patients.",
+      "characters": [
+        "Hal",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "Did that cigarette warning label mention anything about damage to your appearance?",
+      "characters": [
+        "Noreen",
+        "Kramer",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Oh trust me. He's a bad seed. He's a horrible seed. He's one of the worst seeds I've ever seen.",
+      "characters": [
+        "Patty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know and I didn't want to find out. So where is my jacket?",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, my bathing suit? That's a little familiar, I don't want your...your boys down there.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Izzy",
         "Jerry"
       ],
       "correctAnswer": "Jerry"

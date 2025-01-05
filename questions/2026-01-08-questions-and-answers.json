@@ -1,106 +1,106 @@
 {
-  "gameNumber": 370,
+  "gameNumber": 371,
   "date": "2026-01-08",
   "questions": [
     {
-      "quote": "Oh, yeah, yeah, I-I'm watching you, too. But this guy's really showing me something!",
+      "quote": "A fan?  I would drape myself in velvet if it were socially acceptable. And look at this, hardwood floors!",
       "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Patrice",
+        "Estelle",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No, see, we didn't have ponies. I'm sure at that time in Poland, they were very common. They were probably like compact cars..",
+      "quote": "He was made of wood and in the rain he would swell up and then split.",
       "characters": [
-        "Sally",
         "George",
-        "Tom",
+        "Elaine",
+        "Jackie",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Step-skipper. That man is a step-skipper! He skips Step Nine!",
+      "quote": "..So anyway, Jerry, Elaine, we have something we want to ask you.",
       "characters": [
-        "George",
+        "Elaine",
         "Jerry",
-        "Sandi",
-        "Puddy"
+        "Kramer",
+        "Stan"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Did you explain to her about the good naked and the bad naked?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'll tell you how crazy I am, I'm gonna pay for this whole trip with these coats.",
+      "quote": "Yeah. Steinbrenner wants everyone in the front office to give a lecture in their area of business expertise.",
       "characters": [
-        "Morty",
-        "Jack",
-        "Susan",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Well um, would you believe that it actually, hit somebody in the head.",
-      "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
+        "Woman",
+        "Keith",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hey you kids know tunes; see if this song rinSTEINBRENNER a bell, \"Heartbreaker , . . . \"",
+      "quote": "So, I'm thinking, as she's saying this, I'm thinking: great, the relationship's over. But the egg salad's on the way. So now I have a decision: Do I walk or do I eat?",
       "characters": [
         "George",
         "Jerry",
-        "Steinbrenner",
-        "Elaine"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "There's another way it can go down, and it's going down right now!",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
+        "Leslie",
         "Newman"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "From now on when we pass each other in the hall, I don't know you, you don't know me.",
+      "quote": "Good thinking, Kruger. Until you pin me, George, Festivus is not over!",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Laura"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "All right, OK So you the name now. The cat is .a a a .. out of the bag.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're moving to New York? That's fantastic. I can see you all the time now.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Elaine",
+        "Ned",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And I'm her protégé. You must have someone like that. You know, who guides you in your career path.",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Owner",
         "George"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, yeah, good for you. Hey, you have to look your best. You're out there now.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Announcer",
-        "Salesman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, hey, and by the way, uh, that walkman was broke when you gave it to me.",
-      "characters": [
-        "Cheryl",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Woman"
     }
   ]
 }

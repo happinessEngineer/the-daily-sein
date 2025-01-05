@@ -1,106 +1,106 @@
 {
-  "gameNumber": 323,
+  "gameNumber": 324,
   "date": "2025-11-22",
   "questions": [
     {
-      "quote": "All right. Kramer, you block off traffic. You to go sweet-talk the pharmacist.",
+      "quote": "Oh, yeah. Where the people eat the plant life. The edible foliage tour.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He doesn't have to say anything, he just has to sit there. I'm playing a detective.",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "So I got home, and he was vacuuming! I mean, he's twelve years old! Who else but my Alan would do something like that?",
+      "characters": [
+        "Woman",
+        "Ron",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "What are you like a sadist? No matter how bad somebody feels, you can make 'em feel worse. I bet you're rooting for a tumor.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Morty",
+        "Lippman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "George, first let me just say I've never been with a guy who was so committed to commit. I mean it's so rare in men these days an, that's what makes this all the more difficult.",
-      "characters": [
-        "Wilhelm",
-        "Daphne",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "Daphne"
-    },
-    {
-      "quote": "You made a man cry? I've never made a man cry. I even kicked a guy in the groin once and he didn't cry. I got the cab.",
-      "characters": [
-        "Elaine",
-        "Todd",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Him and his little buxom friend Rachel were going at it pretty good in the balcony.",
+      "quote": "\"Jimmy might have a compound fracture.. Jimmy's going into shock!!\"",
       "characters": [
         "Newman",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "You know what you ought to do George? You should work for Greenpeace. You those people they attack the whalers out on the open sea.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Lanette",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, right. You can't run for condo president because you were impeached at the other condo.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Kramer",
+        "Jimmy",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Jimmy"
     },
     {
-      "quote": "Uncle Leo? This case is closed pending further evidence. Jerry.",
-      "characters": [
-        "Rachel",
-        "Margaret",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "It's a Wizard electronic organizer for my dad. I'm goin' to Florida for his birthday.",
+      "quote": "I swear to you, I didn't know they TV was bolted to the table.",
       "characters": [
         "Jerry",
-        "Naomi",
+        "Kramer",
         "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Momma. Just talk to her, George. The doctor seems to think it helps.",
+      "quote": "......laugh , everything's nice and at the end of the night I go for a little contact. I get the PULL BACK. This woman said the filthiest things I've ever heard in my life. I get the Pull Back.",
       "characters": [
-        "Leslie",
-        "Frank",
         "Jerry",
-        "Peterman"
+        "Elaine",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, I'll talk to Jerry. Yeah, [Hangs up] . . . you know that was Michael and Carol. She's wondering when we're going to come over and see the baby.",
+      "quote": "I find it disorienting. Who buys an umbrella anyway? Y..you get 'em for free in the coffee shop in the metal cans.",
       "characters": [
+        "Pop",
         "George",
-        "Jerry",
-        "Jack",
-        "Kramer"
+        "Loretta",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you have the slowest elevator in the entire city? That's hard to get used to when you're in so many other fast ones.",
+      "characters": [
+        "Kramer",
+        "Attendant",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I admire Morty and Helen going to France. We should take a trip, maybe a cruise.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

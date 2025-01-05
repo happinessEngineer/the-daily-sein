@@ -1,106 +1,106 @@
 {
-  "gameNumber": 136,
+  "gameNumber": 137,
   "date": "2025-05-19",
   "questions": [
     {
-      "quote": "Yeah, excuse me, uh... You didn't by any chance recently get the wrong license plates?",
+      "quote": "I love this couch. You know what the best part about it is? It doesn't fold out, so no one can sleep over.",
       "characters": [
         "Jerry",
         "George",
-        "Helen",
+        "Frank",
         "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And they're old jokes. I mean, the Pope and Raquel Welch in a lifeboat.",
+      "characters": [
+        "Marcy",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but this is different. Those fur storage warehouses are huge. You can't, get anything without a number.",
+      "characters": [
+        "Steve",
+        "Kruger",
+        "George",
+        "Willie"
+      ],
+      "correctAnswer": "Willie"
+    },
+    {
+      "quote": "I see here that you play the harp.. tell me, why do you have to tilt it? Can't you just build it on an angle? It'd save you a lot of trouble.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What kind of a therapist are you? I'm telling I'm scared that something terrible is gonna happen to me, right away you start looking for tumors?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'The Other Side Of Darkness'. Huh, I never heard of that one.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because he does it quiet. He does it quiet. Lookit, Just like this, watch.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who's dressing you?  You look like a complete idiot! You know, I wouldn't wipe my-  AAHHHH!!!!!",
+      "characters": [
+        "Secretary",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe uh, it needed some air. You know sometimes they need air, they can't breathe in there. It's in human.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Man"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "All right, relax, tough guy. I got to go out to my father's garage, help him sell some computers.",
+      "quote": "I wasn't aware that, uh, Mike, this is George Constanza. He's starting here today.",
       "characters": [
-        "Kramer",
+        "Jerry",
         "George",
-        "Michael",
-        "Elaine"
+        "Secretary",
+        "Estelle"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What do you know. You've never worked in an office.  See, George, you've worked in an office. Jerry thinks I'm over reacting but you understand, ... LUNCH!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right. As long as you're okay. Because I can't stop thinking about her.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I did a number on him, it was a thing of beauty, you really had to have been there to appreciate it.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Owner"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Show this card at any participating Orlando-area Exxon station...to get your free 'Save the Tiger' poster.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Mary",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey Doc, check this out. [does an around-the-world with the Yo-Yo]",
-      "characters": [
-        "Jerry",
-        "Hal",
-        "Ray",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Tell me, is it your contention that Shakespeare was an imposter?",
-      "characters": [
-        "Landlord",
-        "George",
-        "Pitt",
-        "Kramer"
-      ],
-      "correctAnswer": "Landlord"
-    },
-    {
-      "quote": "So, your car caught fire because of my father and the woman on the horse?",
-      "characters": [
-        "Deena",
-        "Landis",
-        "George",
-        "Rabbi"
-      ],
-      "correctAnswer": "Deena"
+      "correctAnswer": "Secretary"
     }
   ]
 }

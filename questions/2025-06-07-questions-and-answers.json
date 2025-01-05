@@ -1,106 +1,106 @@
 {
-  "gameNumber": 155,
+  "gameNumber": 156,
   "date": "2025-06-07",
   "questions": [
     {
-      "quote": "Oh, damn, this place is incredible, look at all this great light!",
+      "quote": "I was wearing that sweater in the coffee shop when Barry came in.",
       "characters": [
-        "Elaine",
+        "George",
+        "Bania",
         "Jerry",
-        "Morty",
         "Joe"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, I may move out there.  I mean it, I'll do it! OK, I'll see ya later. Keep it real!",
+      "quote": "Really? You should be ashamed of yourself. I want you out of here!  How ya' doing?",
       "characters": [
-        "Kramer",
-        "George",
-        "John",
-        "Jerry"
+        "Jerry",
+        "Elaine",
+        "Kate",
+        "Wilhelm"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You don't consider age in the face of cleavage. This occurs on a molecular level, you can't control it! We're like some kind of weird fish where the eyes operate independently of the head.",
+      "quote": "look come on, let me use it, 5 minutes, I'll pay you back huh?",
       "characters": [
+        "George",
         "Jerry",
         "Morty",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah that's a good deal -- you win the Pennant with that trade, hair for phlegm.",
-      "characters": [
-        "Farkus",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, a friend of mine almost got beat up at that place by the Van Buren Boys?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Vanessa",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Elaine, are you listening?! I didn't even get there!  All right, next story..",
-      "characters": [
-        "George",
-        "Jerry",
-        "Eva",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, it&Mac226s, it's supposed to be really bad, *really* bad. I mean it's long, there's no story, it's so unbelievably boring, I heard. i...",
+      "quote": "Look, you're a nice guy, it's just that... we don't have anything in common.",
       "characters": [
-        "Elaine",
-        "Toby",
-        "Kramer",
+        "Doctor",
+        "Bruce",
+        "Lippman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, what about this? I'm in a car accident. The motorist is uninsured, you with me?",
+      "quote": "I know. And now they want me to bottle it up. It makes me so mad!",
       "characters": [
-        "Phil",
-        "Helen",
-        "Kramer",
-        "George"
+        "Frank",
+        "George",
+        "Newman",
+        "Rick"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I just wanted you guys know that Friday's my last day. Bloomingdales ordered a bunch of my clips, thank God, I don't have to do this any more.",
+      "quote": "No-one's ever been impeached before. I couldn't live here. We'd have to move to Boca.",
       "characters": [
-        "Elaine",
-        "Carrie",
-        "Jerry",
-        "Kelly"
+        "Peterman",
+        "George",
+        "Morty",
+        "Kramer"
       ],
-      "correctAnswer": "Kelly"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Ah, this is the kind of day that almost makes you feel good to be alive.",
+      "quote": "Oh, please don't tell me you love me again, Jerry, I can't handle it.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Elaine",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Thank you very much, that's great- >click< Oh! Hold on a sec, I got a call on the other line. >click click< Hello?",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "Elaine",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait, as a matter of fact, wasn't there some guy in your building that you said you liked? He lived up on the fifth floor or something.",
       "characters": [
         "George",
         "Kramer",
-        "Mohel",
-        "Morty"
+        "Stan",
+        "Elaine"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright listen to me, I got a great idea. Now, you're a heavy sleeper, right? Why don't we just switch apartments?",
+      "characters": [
+        "Kramer",
+        "John",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

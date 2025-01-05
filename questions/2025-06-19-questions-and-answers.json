@@ -1,106 +1,106 @@
 {
-  "gameNumber": 167,
+  "gameNumber": 168,
   "date": "2025-06-19",
   "questions": [
     {
-      "quote": "Here's our chance. What d'you say? It'll be me, you and the bro, bro.",
+      "quote": "Tell that to my father. Anyway, guess what? Beth Lookner called me.",
       "characters": [
         "George",
         "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I was betrayed! That kid was like a son to me. And if there's one person you should be able to hold down, it's your own flesh and blood. Like my father.. my father's father before him.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Man"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Whatever it costs. In fact, I would prefer it if the machines are not even touching each other. Because something could, you know, jump across.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Kramer",
-        "Ade"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey. This wallpaper is *very* good. My place looks like a ski lodge!",
-      "characters": [
-        "Daphne",
-        "Ray",
-        "Announcer",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I thought it was a nice gesture. But I guess I was wrong!",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "Jerry",
-        "Hoyt"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Why don't you get a pair of white shoes, move down to Miami Beach and get the whole thing over with?",
-      "characters": [
-        "Naomi",
-        "Willie",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, now here's the scoop, Jockey. I, uh, I came in here last January to talk to one of your ffflunkies..",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "This is like a Penthouse letter...Why can't I meet women like this?",
-      "characters": [
-        "Jerry",
-        "David",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I know. You know, whenever I'm on a date I feel people can tell.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "Beth"
+        "Aaron",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "They're dessicates. See, they absorb moisture.  These clothes won't last five years without 'em.",
+      "quote": "There's been some robberies in the building. I-I can't let you in.",
       "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Nina"
+        "Betsy",
+        "Ellen"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I had a jacket with a crest on it. You came into the audience, you threw it away. Agrabah.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm sorry, these are taken. ... They're in the lobby buying popcorn. ... What are you doing? These are taken, these are taken!",
+      "characters": [
+        "Mike",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nobody hit anything off. She just gave me the box.  What the hell are you doing?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Can you relax, it's a cup of coffee. Claire is a professional waitress.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I always thought there was something funny about this letter! She copied it right out of Chapter 2! She a thief, a bunko-artist!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Marty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you kidding me? [Elaine walks past the window glancing in] This is the best tool we have today of measuring a persons' intelligence.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, will you stop it. Just because a hospital studying DNA research doesn't mean they're creating a race of mutant pig-men!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

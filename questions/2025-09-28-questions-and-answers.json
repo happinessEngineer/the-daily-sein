@@ -1,106 +1,106 @@
 {
-  "gameNumber": 268,
+  "gameNumber": 269,
   "date": "2025-09-28",
   "questions": [
     {
-      "quote": "Uh. Well, I'm sick o' waiting. ) I am springin' ahead riiight now.",
+      "quote": "You don't understand. I got this all timed out. I got another spot across town at 9:50, I'm not gonna be able to make it!",
       "characters": [
-        "Kramer",
+        "Elaine",
         "George",
-        "Keith",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, you'll make quite an impression on him when you tell him how you burned his cabin down.",
-      "characters": [
         "Jerry",
-        "George",
-        "Jodi",
-        "Lippman"
+        "Greg"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Who else have you mentioned my shoes to, huh? I wanna know why my footwear is your conversation!",
+      "quote": "Hey! What're you watching?  Only You? That's another Marisa Tomei movie, and you've seen that one too.  What, d'you have a thing for her?",
       "characters": [
+        "Susan",
         "Elaine",
         "Jerry",
-        "George",
-        "Wilhelm"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Leapin' Larry's? Hey, that's uptown. You gotta take Amsterdam.",
+      "quote": "Look George, I'm friends with both of you. But I can't betray her confidence by telling you anything.",
+      "characters": [
+        "Todd",
+        "Estelle",
+        "Elaine",
+        "Noreen"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "They also have an atomic wedgie. Now the goal there is to actually get the waistband on top of the head. Very rare.",
       "characters": [
         "Jerry",
+        "George",
+        "Marla",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just came from Leapin' Larry's. Making fun of crippled people, is that what you've sunk to?",
+      "characters": [
         "Kramer",
-        "Manager",
+        "Elaine",
+        "Ruby",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You did?! That's Goood! That's very good! I'm very glad to hear that.",
+      "quote": "Uh oh I don't think we think we can make it tonight,  we have plans.",
       "characters": [
-        "Pam",
-        "Jerry",
-        "Puddy",
+        "Helen",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "George, it's time for us to grow up - and be men. Not little boys.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How would you like a 'Hare Krishna' fist on your throat, you little punk?",
+      "characters": [
+        "Elaine",
+        "Pitt",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Now wait a second, you mean the one where the guys are all standing around, supposedly being very casual and witty?",
+      "quote": "Well I put a bet down for ya on tonight's game. Yeah, if the Knicks beat the Pacers by more than thirty-five? It pays ten to one. Oo-oo! That's some sweet action!",
       "characters": [
-        "Manager",
-        "Steinbrenner",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because we had a buyer, and we couldn't get a free flight until now.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "This is not the point.  The point is, you just can't have the bike.",
-      "characters": [
-        "Mike",
-        "Jackie",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You? Wh...what're you doing here? You work at this building too?",
-      "characters": [
-        "Kruger",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.",
-      "characters": [
-        "Morty",
-        "George",
-        "Regis",
-        "Kramer"
+        "Ray",
+        "Kramer",
+        "Doctor"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if you were blind, what do you think the worst part of it would be?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

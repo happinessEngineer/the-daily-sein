@@ -1,106 +1,106 @@
 {
-  "gameNumber": 529,
+  "gameNumber": 530,
   "date": "2026-06-16",
   "questions": [
     {
-      "quote": "Down boy, nice doggy . I'm a nice person. Don't believe what you hear.",
+      "quote": "Atlantic City?  Yes! Yes! I will go to Atlantic City. I'm in. I'm down.",
       "characters": [
-        "Lou",
-        "Kramer",
+        "Lloyd",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Lomez, you're not listenin'. Jerry likes the naked, just some of the things she does when she's naked. Calm down, I'm on your side. Geez. Hey, hold on a second. I got a clog, I'll call ya back.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Leo"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "First class doesn't make it anymore. Now you get on the phone with Kimbrough, tell him what happened and tell him to get another plane down here, but this time, the good one - the Ted Danson plane.",
-      "characters": [
-        "George",
-        "Morty",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, nothing, I just stopped by to chat, you know, shoot the breeze.",
+      "quote": ".. I coulda been a kosher butcher like my brother. The money's good. There's a union, with benefits. And, cows have no families. You make a mistake with a cow, you move on with your life... Anyway.",
       "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Please. They don't do anything. Look, do I have to break up with her in person? Can't I do it over the phone? I-I have no stomach for these things.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I asked some friends of mine this week, and all of them liked the commercial.",
-      "characters": [
+        "Mohel",
         "Kramer",
         "Elaine",
-        "Donna",
-        "Jerry"
+        "George"
       ],
-      "correctAnswer": "Donna"
+      "correctAnswer": "Mohel"
     },
     {
-      "quote": "That's true. But, you know, I can't help but think that uh...",
+      "quote": "Oh, no no no, I haven't even seen her apartment yet.  Tomorrow night's the first night.",
       "characters": [
-        "George",
-        "Holly",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Wait a minute  Wait a minute. I know what's going on here. Skinny Mirrors!",
-      "characters": [
-        "Jerry",
-        "Duncan",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, don't worry about it. Very talented, very takented young actress.",
-      "characters": [
-        "Manager",
-        "Duncan",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So I lugged that table. That big heavy massage table all the way down to the cab! You ever seen one of those things?",
-      "characters": [
-        "Jackie",
-        "Kramer",
+        "Gina",
+        "Elaine",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I'm not the one who said eleven o'clock. He makes up his own rules.",
+      "characters": [
+        "Harold",
+        "Tony",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Oh.  Oh yeah, I'd be happy to. Uhm, how much d'you want this thing?  I mean, you know, how high are you willing to go?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Awfully sorry to make you come up here, but I really wasn't feeling well enough to go back to the office, and well, it's the only chance I have to meet with you this week.",
+      "characters": [
+        "Elaine",
+        "Russell",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "You know, the only way to really help her is to just let her be.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's funny. As it happens, I saw the same shooting star and double-wished you, to drop dead.  Here's your change.",
+      "characters": [
+        "Fdr",
+        "George",
+        "Winona",
+        "Jerry"
+      ],
+      "correctAnswer": "Fdr"
+    },
+    {
+      "quote": "Ah! Because, I'm going to the dentist, and I'm afraid, and I want you to go with me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 665,
+  "gameNumber": 666,
   "date": "2026-10-30",
   "questions": [
     {
-      "quote": "You're gonna score some big points with the man upstairs on this one.",
+      "quote": "You know, I remember when we parted company, I was babbling incoherently for months.",
       "characters": [
-        "Jerry",
-        "Peterman",
-        "Pitt",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "She missed her period? Oh my god. I can't believe it! I'm a father! I did it! My boys can swim! I can do it! I can do it!",
-      "characters": [
-        "Newman",
-        "Kramer",
+        "Clerk",
         "George",
+        "Daphne",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, anyway, I've been giving out your number as my standard fake.",
+      "quote": "Oh he'll be home, it's Friday night. That's the big night on the Nature Channel.",
       "characters": [
-        "Rachel",
         "Jerry",
+        "Morty",
+        "Ramon",
+        "Donna"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? You're kidding, I just got this invitation today. Oh, I was so excited. It's really a beautiful invitation.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, you cannot judge a person on a situation like that. I mean it's like asking for someone's canteen in the desert",
+      "characters": [
+        "Jerry",
+        "Morty",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look, there's a man in there. Get out of there, you're in danger!",
+      "quote": "There's a hundred different things here.  What's the difference between these two?    You got propylparabin?",
       "characters": [
-        "Elaine",
-        "Peterman",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "I can't believe this! What was wrong with it? What didn't you like about it?",
-      "characters": [
-        "Gary",
-        "Jerry",
-        "Elaine",
+        "Tim",
+        "Morty",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright, Mr Seinfeld, I... What kind of position did you have in mind?",
+      "quote": "I dropped a grape in the kitchen and it disappeared. I couldn't find it. I was, I was literally on my knees for ten minutes looking for this stupid grape. I have no idea where it went.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Susan",
-        "George"
+        "Frank",
+        "Doctor",
+        "Ben"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You don't understand. He's got this big party coming up. He's been looking forward to this for months. This is gonna destroy the whole thing.",
-      "characters": [
-        "George",
-        "Jackie",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "huh  but huh, in this medicated haze, in this woozy state, um do you recall the words.. radical reconstructive surgery being uttered?",
+      "quote": "Yeah, I'm thinking of joining. Pat Cooper said he would put me up for membership.",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
-        "Conrad"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What are you doing? This is not right, people. You're making a very bad mistake, very bad.",
-      "characters": [
-        "Marla",
-        "Babu",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "Phil... hi. I-I know we got off to kind of a bad start. But your bird, which is lovely... by the way, made a mess on my door.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Lloyd",
-        "Kramer"
+        "Wyck",
+        "Bania"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, they had to move the cars so the truck could get through, right? But these guys don't trust each other so they got these two nonpartisan drivers to move them.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Chiles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That damn delicatessen that - that is last time they screw up one of my orders.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, what are we gonna do? I'm not gonna let him hurt you.  I'm not gonna.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

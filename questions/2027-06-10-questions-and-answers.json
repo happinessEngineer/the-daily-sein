@@ -1,106 +1,106 @@
 {
-  "gameNumber": 888,
+  "gameNumber": 889,
   "date": "2027-06-10",
   "questions": [
     {
-      "quote": "So, can I convince anybody to come down to Coney Island with me? I got to pick up my car at the pound. George?",
+      "quote": "Hey, look at George. He's givin' it to T-bone. He's jumpin' up and down like some kind of monkey. Hey, what was the name of that monkey that could read sign language?",
       "characters": [
-        "George",
+        "Elaine",
+        "Kruger",
         "Jerry",
-        "Lippman",
-        "Kramer"
+        "Newman"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You know... You better make sure and never tell this woman to jump off the Brooklyn Bridge...",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know.. I made it up.  I'm never gonna get this thing.",
+      "quote": "Well, you gotta give me something! Come on, how was the wedding? Was the bride radiant?",
       "characters": [
-        "Steven",
+        "Steve",
         "George",
-        "Woman",
-        "Jerry"
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Steven"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Cancel!  Think again, longshanks! I started planning this in nineteen seventy-eight. I put a deposit down on that revolving restaurant that overlooks Times Square, and I booked Christopher Cross.",
+      "quote": "No, no…time! It's all this meaningless time. Laundry, grocery, shopping, coming in here talking to you. Do you have any idea how much time I waste in this apartment?",
       "characters": [
-        "Newman",
-        "Frank",
+        "Kramer",
         "Jerry",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, really. Are you the boyfriend? I know she's got a boyfriend. Are you going to *kill* me? I'm an old man for crying out loud, you gonna kill an old man, you coward?!? [Jerry gets out card]",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Sid"
     },
     {
-      "quote": "Grinders, sanders, wet stones. They are the ones who botched the Statue of Liberty job.",
+      "quote": "Ugh, I hope a giant mountain rises out of the ocean and we just ram right into it and end this whole thing!",
       "characters": [
-        "Jerry",
         "Elaine",
+        "Woman",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's a big dinner Tuesday night at Frank's house - everyone's invited.",
+      "characters": [
+        "Janet",
         "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That's ridiculous. Why do do you want to go back there if you don't want the coat?",
+      "quote": "I know the D is the biggest. I've based my whole life on knowing that the D is the biggest.",
       "characters": [
-        "Kramer",
+        "George",
         "Morty",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Who am I going to tell? My mother? Like I've got nothing better to talk about.",
-      "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Where the cartoon candy's dancing and the Milk Dud's playing the banjo?",
+      "quote": "This is amazing, I haven't seen one person go in to that restaurant since it opened. Poor guy.",
       "characters": [
-        "Kramer",
+        "Frank",
+        "George",
         "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You're passing already? But the show just ended two minutes ago!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Cindy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I love her Jerry, she's so authentic. I really believe everything is actually happening to her. There's no acting there.",
+      "quote": "Well don't get too comfortable. As soon as Seth gets a real job you two are gong back in that chicken supernova.",
       "characters": [
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Kate",
-        "George"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I've looked through that window and screamed at him to shut the blinds.",
-      "characters": [
-        "Jerry",
-        "Glenn",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

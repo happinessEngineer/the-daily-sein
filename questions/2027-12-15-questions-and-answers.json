@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1076,
+  "gameNumber": 1077,
   "date": "2027-12-15",
   "questions": [
     {
-      "quote": "You never run out, do you?  Where's Kramer? Everything's finished here.",
+      "quote": "Yes, I think I'm sponge-worthy. I think I'm very sponge-worthy.",
       "characters": [
+        "George",
+        "Billy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Billy"
+    },
+    {
+      "quote": "Yeah, I made a map of my shortcuts. I'm gonna rock their world!",
+      "characters": [
+        "George",
         "Kramer",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, thanks.  Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh?  Yo! Where did this come from?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, lemme ask you a question. What if I got a cup of coffee with her?",
+      "characters": [
         "George",
         "Jerry",
-        "Jack"
+        "Jeannie",
+        "Darryl"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I just don't understand it as soon as I met these dogs they started growling at me.",
+      "quote": "You know, you oughta go down there and help him out. He's a widower.",
       "characters": [
-        "Kimbrough",
-        "Jackie",
         "George",
+        "Jerry",
+        "Hanke",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You like that, huh? I had that custom made for me in Santa Fe.",
+      "characters": [
+        "Lippman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Well, this will really free up my time so I can focus on more important things, like my bladder system.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Really , like a... like a.... Jerry, I want to slide my tongue around you like a snake.....Ooooooooooha ,oooooohaaaa.....",
+      "characters": [
+        "Peterman",
+        "George",
+        "Ramon",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You come all the way up here to see a back specialist and you're lifting heavy suit cases.",
+      "quote": "Oh...yeah. I got my new plates. But they mixed them up. Somebody got mine and I got their *vanity* plates.",
       "characters": [
-        "George",
-        "Elaine",
-        "Eva",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I told you. He stopped calling me. I moved on. I'm not hung up on him. What are you looking at?",
-      "characters": [
-        "Margaret",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Margaret"
-    },
-    {
-      "quote": "Thirty-six.  What's the signal?  Howbout this?  Chicken wing?  No, no, no, I got a better one.  Head patting.",
-      "characters": [
-        "Keith",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well it's tough to get a good read but I think if I brought him a chair, he'd sit.",
-      "characters": [
-        "Tim",
-        "Susan",
-        "Noel",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh yeah, yeah. I borrowed some cones from them when I was sweeping my car-pool lane.",
-      "characters": [
-        "Elaine",
-        "Jerry",
         "Kramer",
-        "Aaron"
+        "George",
+        "Jerry",
+        "Newman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "The bathroom door. I remember someone had played tic-tac-toe on it, and the X's won; they went diagonally from the top left to the bottom right.",
+      "quote": "Latham, Massachusetts. Why don't you take a cab into town, get yourself something to eat. I got your beeper number - I'll beep you as soon as we're ready.",
       "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "George",
-        "Fred"
+        "Captain"
       ],
-      "correctAnswer": "Fred"
-    },
-    {
-      "quote": "Yeah. It was very frightening. My life was in danger. You should've seen the way they talked to me.",
-      "characters": [
-        "Frank",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Don't you see what it says here? Don't you understand what that's implying?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Farkus"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Captain"
     }
   ]
 }

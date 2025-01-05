@@ -1,106 +1,106 @@
 {
-  "gameNumber": 994,
+  "gameNumber": 995,
   "date": "2027-09-24",
   "questions": [
     {
-      "quote": "You're taking that much to literally. Now sir , do you have any business to transact.",
+      "quote": "So she breaks up with him. Somehow picks up the pieces of her life. Miraculously meets... A New Guy! Ya bust that up! An' then, just as they're reconciling, you announce to the world: He's Boring.",
       "characters": [
-        "Bob",
-        "Announcer",
-        "George",
-        "Teller"
-      ],
-      "correctAnswer": "Teller"
-    },
-    {
-      "quote": "Yeah, yeah. Forget about all that. First thing is first. Warranty information. Name, we know that. Uh, hobbies. Skiing, racquetball...",
-      "characters": [
-        "Kramer",
-        "Helen",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No! I'm lefty, can't go right. What about women? Do they go left or right?",
-      "characters": [
-        "George",
         "Jerry",
-        "Steinbrenner",
-        "Elaine"
+        "George",
+        "Elaine",
+        "Gail"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So go ahead pigeons. hu hu hu. Laugh it up. I'm getting in my car now and the last I heard ... we have NO DEAL!",
+      "quote": "They'll be here at two o'clock. Oh, Elaine called. She said she'd be here at two-thirty. And she says \"Hope your meeting went well with 'Art Vandelay'?\"",
       "characters": [
-        "Detective",
+        "Helen",
+        "Newman",
         "Jerry",
+        "Haarwood"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "What did you put the Pez dispenser on her leg for in the first place?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, figure this out. I'm in the coffee shop, and this beautiful girl I could never even talk to, mistakes me for her boyfriend.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hold it. Broccoli? Newman, you wouldn't eat broccoli if it was deep fried in chocolate sauce.",
+      "characters": [
+        "Jerry",
+        "Newman",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!",
-      "characters": [
-        "Jackie",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You sure he didn't just mention it because you happened to be going downtown?",
+      "quote": "Absolutely. But I feel I must inform you that what happened last night was more than a simple bet.",
       "characters": [
-        "Elaine",
+        "George",
+        "Hal",
         "Jerry",
-        "Alec",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why're you doing this, Jerry? Is it your career? Things will pick up.",
+      "quote": "Yeah, I guess. But the really cool thing is the daily planner.",
       "characters": [
-        "Joe",
-        "George",
+        "Kramer",
         "Jerry",
-        "Bania"
+        "Elaine",
+        "Frank"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, uh, I'd watch the third base coach if I were you 'cause I don't think he's waving you in. You know I hate to say this but I think we're really hitting it off. Get it? Get it?",
+      "quote": "Hey, just because I'm not working doesn't mean I haven't got any money.  Yo! Dogs! Two!",
       "characters": [
-        "Morty",
         "Elaine",
+        "Kramer",
         "Jerry",
+        "Detective"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, at the latest. Oh hang on a second, I gotta another call.",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Celia",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Aaaah! Enough lying! The lying is through! C'mon, Jerry, the masquerade is over. You're thin, late thirties, single...",
+      "quote": "Boy, you know when Joel told me he hadn't thrown up in eight years, I was wondering if he was normal.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Tell them when you took my son's pen back. Tell them about that!",
-      "characters": [
-        "Morty",
-        "Announcer",
         "Jerry",
-        "Elaine"
+        "George",
+        "Kruger"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Elaine"
     }
   ]
 }

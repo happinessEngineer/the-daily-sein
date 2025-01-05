@@ -1,106 +1,106 @@
 {
-  "gameNumber": 349,
+  "gameNumber": 350,
   "date": "2025-12-18",
   "questions": [
     {
-      "quote": "Kramer you might as well run along. Jerry might be a while. Suspicion of mail fraud.",
+      "quote": "Well, why would I assume. I never assume. Leads to assumptions.",
       "characters": [
-        "Kurt",
-        "George",
-        "Manager",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Ya well, so was uh sacrificing virgins to appease the gods, but we don't do that anymore.",
-      "characters": [
-        "Babu",
-        "Kramer",
-        "Detective",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, I forgot. And, the best part is, he doesn't play games. You know? There are no games!",
-      "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Right. Yeah. The polls close after dinner, three o'clock. But then when we win, the celebration goes all night until the break of eight p.m.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, the kind that Castro smoked. You can't buy ?em anywhere.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Saleswoman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, my friend is awful disappointed is all. You know, she's very emotional.",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Morty",
-        "Babu"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know what I do at the Yankees, when one of these old guys is breathing down my neck?",
-      "characters": [
-        "Salesman",
-        "George",
-        "Doctor",
+        "Steinbrenner",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "This is not good. World's are colliding! George is getting upset!",
+      "quote": "I can't blame you. I can't believe she never called you back.",
       "characters": [
         "Kramer",
         "Jerry",
-        "George",
-        "Helen"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Tell that to my father. Anyway, guess what? Beth Lookner called me.",
+      "quote": "I gotta tell ya, I have a bad association with the name Alex.",
       "characters": [
-        "Kramer",
-        "Morty",
         "Jerry",
+        "Steinbrenner",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Listen...tonight, after we finish eating, you make like you got something else to do and just \"recede into the night,\" if you know what I mean.",
+      "quote": "It was nice seeing you again. I just remembered something. I've got to go.  It was GEORGE!",
       "characters": [
+        "Doctor",
         "Jerry",
-        "Peterman",
-        "George",
-        "Brett"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, wow look, that one is gorgeous. I would just kill for that one.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "As soon as we walked in, he got a call from one of his patients with an impacted molar or something so he had to leave.  I didn't even get a chance to look for the label maker.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I have to be able to trust you... If I can't trust you then there's no way that this can work.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh yes, of course. TV Guide, magazines, everything. You know, I would have picked up your mail, your box is right next to mine.",
+      "characters": [
+        "Babu",
+        "Russell",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "You know, I think we really need to be in front of a television set. You take T.V. out of this relationship, it is *just* torture.",
+      "characters": [
+        "George",
+        "Carl",
+        "Farkus",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jocylin Landis from Doubleday. I interviewed you for a position a couple of months ago.",
+      "characters": [
+        "Landis",
+        "Jerry",
+        "Frank",
+        "Marla"
+      ],
+      "correctAnswer": "Landis"
     }
   ]
 }

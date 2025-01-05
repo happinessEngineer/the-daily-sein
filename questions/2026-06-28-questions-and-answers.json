@@ -1,106 +1,106 @@
 {
-  "gameNumber": 541,
+  "gameNumber": 542,
   "date": "2026-06-28",
   "questions": [
     {
-      "quote": "I'd like to apologize. I want to tell him I.. I.. didn't mean to get him in trouble.",
+      "quote": "Yeah, so he says if Little Jerry Seinfeld wins, the check comes down.",
       "characters": [
-        "George",
-        "Elaine",
         "Jerry",
-        "Newman"
+        "Kramer",
+        "Morgan",
+        "Gary"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. So what's going on? We're gonna shoot the pilot and then it's gonna be on TV the following week?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You have no idea what an idiot is. Elaine just gave me a chance to get out and I didn't take it.  This is an idiot.",
+      "quote": "No, no. you'd be a damn fool to change it. It's very becoming.",
       "characters": [
-        "George",
         "Jerry",
         "Frank",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What? The two of you workin' in that garage is like a steel cage death match.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Cheryl",
-        "Ethan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Aw, Mr Mandelbaum, I just wanted to come by and tell you how sorry I was that you hurt yourself.",
-      "characters": [
-        "Detective",
         "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Really?  You know Gary, I really have to say, I'm a little bit hurt that you didn't decide to confide in me.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Ray"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Powerful. He is so powerful, he can lift a hundred pounds right up over his head. And um, what else. What else. Oh, right. Um, well, he's kind of, just kind of losing his hair.",
-      "characters": [
-        "Evelyn",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'm tellin'you, I never told anyone about that baby. I never even went near your building!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, Cosmo what happened to your mother last night. She hung me out to dry.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, I gotta go home and open up with the house for the carpet cleaners. You know they're doing my whole place for twenty-five dollars.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Believe me, Jerry, somewhere in this hospital the anguished \"oink\" of pig-man cries out for help.",
-      "characters": [
-        "George",
-        "Man",
-        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I feel terrible about your friend Jerry. He's upset that I gave Kramer that chest of drawers, isn't he?",
+      "characters": [
+        "Darryl",
+        "Brett",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "Who told you to put the cheese on? Did I tell you to put the cheese on? I didn't tell you to put the cheese on.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kate",
+        "Chiles"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "Listen to me. You don't tell anybody about this. No one. You hear me?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Roy",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maura, I, uh- I want you to know... I-I've given this a lot of thought. I'm sorry, but... we, uh, we have to break up.",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The shirt you got on under your sweather. It sits for three weeks in your drawer, waiting to come out. and when it finally does . It sticks up only half an inch out of your collar.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Elaine",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "Yeah, yeah, yeah. It's in the vault. I'm putting it in the vault.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Gavin",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nananeena, Ladadeeda, laadadeeda, saadina.... Laadadeeda sa saadina",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Babu",
+        "Susan"
+      ],
+      "correctAnswer": "Babu"
     }
   ]
 }

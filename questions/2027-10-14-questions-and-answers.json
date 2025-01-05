@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1014,
+  "gameNumber": 1015,
   "date": "2027-10-14",
   "questions": [
     {
-      "quote": "That's always the first question with you. Why is that always your focus?",
+      "quote": "Some woman named Uma. I got her number off of that ticket before it was smudged. Hope she's good-looking.",
       "characters": [
-        "Jerry",
         "George",
+        "Bania",
         "Elaine",
-        "Ping"
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "I'll need you to write down your phone number on the check for me.  Perhaps you could do the same.",
+      "characters": [
+        "Elaine",
+        "Craig",
+        "Ray",
+        "Jerry"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "You mean it was open? We desecrated a pet cemetery for nothing?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "By the time I'm through with her mouth, she'll be able to eat off it. Is it safe to drink bleach if you dilute it?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Steinbrenner",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"I'm very imPRESSED\"? ... Ah you mean pressed caus' its like a dry cleaner?",
-      "characters": [
-        "Jackie",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I like history. Civil War. Maybe I could be a professor, or something.",
-      "characters": [
-        "George",
-        "Hoyt",
-        "Doctor",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Man, I gotta go lay down. You and George going out a little later?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So I'm curious. What'd you tell Mrs. Costanza that changed her mind?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Ricky"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I still don't understand what the problem is having her in the building.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Salesman",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Reckless endangerment of public safety, and violation of traffic code 342-A.",
-      "characters": [
-        "Cop",
-        "Jerry",
-        "George",
-        "Estelle"
-      ],
-      "correctAnswer": "Cop"
-    },
-    {
-      "quote": "Huh, strawberries, anyone?  Ah, that's good. Ooh, juicy this time of year.",
-      "characters": [
-        "Driver",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
     },
     {
       "quote": "No, Jerry Lewis is gonna be at this Friar's Club roast I'm goin' to next week. Now I have an in to strike up a conversation with him.",
       "characters": [
-        "Elaine",
-        "Julie",
         "George",
-        "Jerry"
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Dick? He can't drink. He's an alcoholic. I told you to hold it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, when's the funeral? Well, Aunt Clarice was so ill, I guess it was really a blessing.  Yeah, I'll fly home as soon as I can.  O.k. You, too. Get some sleep.",
+      "characters": [
+        "Elaine",
+        "Marty",
+        "Betsy",
+        "Jerry"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Yeah, pretty much. Although I still get the vibe every once in a while.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, there's only one way to settle this.  One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe..",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Tor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "OH, AH! OH! WOW! WHOA! A COMMIE! Wow, gee, man it must be a bummer for you guys what with the fall of the soviet empire and everything .",
+      "characters": [
+        "George",
+        "Elaine",
+        "Alec",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, I don't have time for this. Uh, Anna, do you wanna talk to George?",
+      "characters": [
+        "Jackie",
+        "Keith",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

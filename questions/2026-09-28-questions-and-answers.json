@@ -1,104 +1,104 @@
 {
-  "gameNumber": 633,
+  "gameNumber": 634,
   "date": "2026-09-28",
   "questions": [
     {
-      "quote": "Well I got banned from the store I can't go back in there now.",
+      "quote": "No, your mother found it. Son, this is the most wonderful and thoughtful thing you've ever done for me.",
       "characters": [
-        "Ed",
-        "Frank",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I want a small, plain vanilla in a cup to go. That's non-fat, right?",
-      "characters": [
-        "Bob",
-        "Jerry",
         "Kramer",
+        "Morty",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Yeah well, maybe if he didn't lick his fingers before he reached in the bag we would've eaten some. Serves him right.",
+      "quote": "Not impolite...it's stupid, that's what it is. You gotta be stupid to do something like that!",
       "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Estelle"
+        "Jerry",
+        "Elaine",
+        "Frank"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "No, I could've called the travel agency, got them on another flight to Paris, I coulda got them out.",
+      "quote": "Yeah. This looks right. All right. Give me the dog. Okay, boy. This is it. This is your new home. Let go of my shirt. Come on. Let go of my shirt. This shirt is from Rudy's.",
       "characters": [
-        "Morty",
-        "Kramer",
         "Jerry",
-        "Aaron"
-      ],
-      "correctAnswer": "Aaron"
-    },
-    {
-      "quote": "I just wanted you to have the comfort and report you deserve. That's why I had the mattress custom designed for you.",
-      "characters": [
-        "Hal",
-        "Jerry",
-        "Morty",
-        "Peterman"
-      ],
-      "correctAnswer": "Hal"
-    },
-    {
-      "quote": "We have to put the board in a neutral place where no one will tamper with it.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Newman",
-        "George"
+        "Doctor",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, you know what I'm thinking of doing? I'm getting rid of all my fillings, 'cos that mercury's toxic. Hey, let me see your fillings.",
-      "characters": [
-        "Gary",
-        "Kramer",
-        "Doctor",
-        "George"
-      ],
-      "correctAnswer": "Gary"
-    },
-    {
-      "quote": "Look at my hands. Look. Filthy from the paper. You know, they should give you a Wet-nap when you buy one, like at those rib joints.",
+      "quote": "I'm not pulling a shopping cart. What, am I suppose to wear a kerchief? Put stockings on and roll 'em down below my knee?",
       "characters": [
         "Jerry",
+        "Kramer",
         "George",
-        "Elaine",
-        "Kramer"
+        "Joel"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Don't eat cookies for breakfast! I'll fix you something. How 'bout a feta cheese omelette?",
+      "quote": "Interesting. She doesn't care for you, then a stern warning, suddenly a phone call. Seems Elaine's made you the bad boy. And Anna digs the bad boy.",
       "characters": [
         "Kramer",
-        "Jimmy",
-        "Jerry",
-        "Helen"
+        "George",
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend.",
+      "quote": "It was all an act, Jerry. They conned us, and they scored, big time.",
       "characters": [
-        "Robin",
+        "Pam",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't understand this. Why wouldn't you want to get something that's better if I'm telling you it's better? And it's not a little better - it's much better.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And everything else has changed. But toilet paper is exactly the same, and will be so until we're dead.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Tim"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not so fast, Elaine! Only the bike's true owner would rather give it away than see it come to harm. Kramer, the bike is yours!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Keith"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "\"A donation has been made in your name to the Human Fund.\" - What is that?",
+      "characters": [
         "George",
         "Jerry",
-        "Brett"
+        "Newman",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

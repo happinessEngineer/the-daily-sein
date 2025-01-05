@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1085,
+  "gameNumber": 1086,
   "date": "2027-12-24",
   "questions": [
     {
-      "quote": "So what? When someone turns twenty-one, they usually get drunk the first night.",
+      "quote": "Oh! Well, ah, what's in a name? I mean, water's water. Right?",
       "characters": [
-        "Woman",
         "George",
-        "Newman",
+        "Jerry",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "She calls you today and she doesn't make a plan for tomorrow? What is that? It's Saturday night!",
+      "quote": "Oh, hi Elaine. You know I lost all of my 6:30 clients because of you. . . . Yeah, well why did you have to stick your feet in my face? . . . Yes, I have the jacket. Hold on. . . .  Fellas!",
       "characters": [
-        "Poppie",
-        "Jerry",
+        "James",
+        "Kramer",
+        "Izzy",
+        "Doctor"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Hey, you need some roadwork done? 'Cos I met some maintenance guys today on the highway, they could probably help you out.",
+      "characters": [
+        "Alton",
         "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where's the luck? There's no luck. 1,900 dollars down the drain.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, ya know the other day how you mentioned that there were no houses available in Tuscany?",
+      "quote": "No. She tried to give me the \"it's not you, it's me\" routine.",
       "characters": [
-        "Jerry",
-        "Morty",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Don't they have any closer friends. They're level jumping on our friendship.",
-      "characters": [
-        "Jimmy",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jean-Paul?  Hey Jean-Paul? Jean-Paul?  Jean-Paul?! Oh man...  Oh...machine.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Helen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yes, yes. I am Dr. Vanostran from the clinic. I need Elaine Benes chart. She's a patient of mine and she's not going to make it. It's uh very bad very messy.",
-      "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Sally"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, sports are so pedestrian. I've prepared some science experiments that will illuminate the mind and dazzle the eye.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "George",
-        "Elaine"
+        "Landlord",
+        "Driver"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Where is that noise? It's traveling up my spine! Into my Brain!",
+      "quote": "Oh, yes, yes I'll tell him. Yes, thank you. Um, um hold on.  Mr. Pitt!",
       "characters": [
+        "Elaine",
         "George",
-        "Morty",
-        "Jack",
-        "Testikov"
-      ],
-      "correctAnswer": "Testikov"
-    },
-    {
-      "quote": "I see many dogs on my mail route. I'll bet there's not one type of mutt or mongrel I haven't run across.",
-      "characters": [
-        "Sophie",
-        "Jerry",
-        "Newman",
-        "Morty"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Yeah, the Immigration guy said his Visa was expired. Poor Babu, everything was going so well for him. He had an apartment, he had a job. What a shame.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "George",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, I'm sure you can reach her...she's a poet. What does a poet need an unlisted number for?",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, the surprise blindfold greeting. That wasn't in the manual, I don't know.",
+      "characters": [
+        "Elaine",
+        "Simon",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, my father's the Yankees accountant... it's the owner's box.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "Ethan",
+        "Nina"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "All right, so what's the penalty here? Let's just pay the fine or something and get the hell out of here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 648,
+  "gameNumber": 649,
   "date": "2026-10-13",
   "questions": [
     {
-      "quote": "Jerry, what the difference? You know, you're the ones obsessed with this stuff, not us. I'm sure it wouldn't matter to Jane.",
+      "quote": "Yeah! That's how they talk. You know, everyone's either a bastard or a son of a bitch. Yeah, it's like uh...\"boy, that son of a bitch Box can really hit, uh?!\"",
       "characters": [
-        "Doctor",
-        "Rachel",
+        "Kramer",
         "Jerry",
+        "Receptionist",
         "George"
       ],
-      "correctAnswer": "Rachel"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, I like to remain friends with people I was friends with!",
+      "quote": "I know they're in there, the three of them, laughing at me. Together, laughing and lying.",
       "characters": [
-        "Nina",
-        "Bonnie",
         "Jerry",
-        "Elaine"
+        "George",
+        "Toby",
+        "Lois"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I love the mirror in that bathroom! I don't know what in the hell it is. I look terrific in that mirror.  I don't know if it's the tile or the lighting... I feel like Robert Wagner.",
+      "quote": "I will get you for this. This is my business, this is my life. No one ruins this for me. No one!  Here's my card.",
       "characters": [
-        "Steinbrenner",
+        "Mohel",
         "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Yeah. It's an Indian soup. It's simmered to perfection by one of the great soup artisans in the modern era.",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "But the reservation keeps the car here. That's why you have the reservation.",
+      "quote": "Alright I'll uh, I'll call her at home.  Go ahead, it's all yours.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Did you ever think about what you're going to do on the toilet?  What are you going to do on the toilet?",
+      "characters": [
+        "Enzo",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "No, no, no, you don't understand! I'm not a lesbian! I hate men, but I'm not a lesbian!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Guard"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, I have two tickets for you  to the Flying Sandos Brothers magic show.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I try to take a vacation, I come back, the whole operation's a shambles.  Hello.",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Todd"
+        "Elaine",
+        "Greg",
+        "Donna"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What's he going to do? That's exactly the point. Nobody knows what this guy is capable of! He fires people like it is a bodily function.",
+      "quote": "Well it's tough to get a good read but I think if I brought him a chair, he'd sit.",
       "characters": [
-        "George",
         "Elaine",
         "Peterman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "...you'll see, things will be different now - if you just give me one more chance.",
-      "characters": [
-        "Alton",
         "Jerry",
-        "George",
-        "Babu"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just remembered, th-th-there's this Chinese restaurant out near Yankee Stadium, that puts flyers on all the cars.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They thought I was George. I'm not that bald. And I have too little time left to take that kind of crap, so I, slugged him.",
-      "characters": [
-        "Helen",
-        "Attendant",
-        "Elaine",
-        "Kurt"
-      ],
-      "correctAnswer": "Kurt"
-    },
-    {
-      "quote": "Oh, this is unbelievable. I'm stuck. Every time I think I'm out, they pull me back in.",
-      "characters": [
-        "Kramer",
-        "Worker",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "I know how to do it. Pair of pants, a stupid story, a huge markup. I can do that.",
-      "characters": [
-        "Jerry",
-        "Doris",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
     }
   ]
 }

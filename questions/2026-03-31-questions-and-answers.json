@@ -1,106 +1,106 @@
 {
-  "gameNumber": 452,
+  "gameNumber": 453,
   "date": "2026-03-31",
   "questions": [
     {
-      "quote": "You know, you have to know how to do that. You can't have people shoving their arms into a six-hundred degree oven!",
+      "quote": "I believe that I am about to become the target of a systematic process of intimidation and manipulation, the likes of which you have never -",
       "characters": [
-        "George",
-        "Jerry",
-        "Ron",
-        "Sophie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "If it was six I could have let you go, but seven, I'm afraid, is over the limit. Unless, of course, there was no sex.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Melissa",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Why didn't you want me to bring my equipment or wear my uniform?",
-      "characters": [
-        "Carl",
-        "Elaine",
+        "Poppie",
+        "Ricky",
         "Woman",
-        "Jerry"
-      ],
-      "correctAnswer": "Carl"
-    },
-    {
-      "quote": "The board, Jerry.  We've been playing at Newman's for six hours but he's gotta go.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Because, Vanessa probably told Pamela, and Pamela probably told Elaine.",
-      "characters": [
-        "Leo",
-        "Jerry",
-        "Kramer",
-        "Dana"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm starving. You got any of those free donuts you use to soften people up?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Bania"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, right now I'm reading manuscripts for Pendant Publishing.",
+      "quote": "I mean really, what's the point of saving it? I could see if I had a mantel.",
+      "characters": [
+        "Estelle",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my God, it's 7:01. What have I done? My whole plan is depending on Kramer? Have I learned nothing? How could I make such a stupid mistake? He'll never show up!",
+      "characters": [
+        "Joel",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I think I can do that. I believe I've played that role before to some critical acclaim.",
+      "characters": [
+        "George",
+        "Hanke",
+        "Steve",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, he's a musician. I guess they're supposed to be very, you know, uninhibited and free.",
       "characters": [
         "Kramer",
-        "Tim",
+        "Rita",
+        "Lois",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget it? I already called my parents. I told them to expect the surprise of a lifetime. My mother's making her roasted potatoes!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jake",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You smothered! He couldn't get any air! He couldn't breathe! He was suffocating!",
+      "characters": [
+        "Sally",
+        "Frank",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "Jerry, you did him a favor. He probably wants to come up and thank you.",
+      "quote": "I was throwing up all night. It was like my own personal Crying Game.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, I'm gonna move my car, my meter's up. Can't park in this city.",
       "characters": [
         "George",
         "Elaine",
-        "Jerry",
-        "Kramer"
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's not a beauty contest. It's just a way for people to get to know one another.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Okay, Mr. Seinfeld, please come this way. We need some X-rays.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Nurse"
-      ],
-      "correctAnswer": "Nurse"
-    },
-    {
-      "quote": "Then each of us would only have be like a half man. That sounds about right!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Frank",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

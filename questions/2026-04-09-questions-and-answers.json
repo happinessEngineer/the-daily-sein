@@ -1,106 +1,106 @@
 {
-  "gameNumber": 461,
+  "gameNumber": 462,
   "date": "2026-04-09",
   "questions": [
     {
-      "quote": "How long it takes to find a bra? What's going on in there? You ask me to get a pair of underwear, I'm back in two seconds...you know about the uh cup sizes and all? They have different cups.",
+      "quote": "Well, I just...don't wanna get into a whole thing with you here...",
       "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Pitt"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Ooh, Isosceles. I love the name Isosceles. If I had a kid, I would name him Isosceles. Isosceles Kramer.",
-      "characters": [
-        "George",
         "Jerry",
-        "Phil",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah exactly. Anyway I've got to go over there and return it.",
-      "characters": [
         "Elaine",
-        "Kramer",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, he's a musician. I guess they're supposed to be very, you know, uninhibited and free.",
-      "characters": [
         "George",
-        "Babs",
-        "Jerry",
-        "Kramer"
+        "Katie"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You're not goin to do it? What do you mean, You're not goin to do it?",
+      "quote": "How can I go on a cruise with out my cabana wear? I love those, those clothes.  AH!  A mouse! I saw a mouse!",
       "characters": [
-        "George",
-        "Lloyd",
-        "Donna",
-        "Debby"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know what I think? I think you knew about that bomb ahead of time.",
-      "characters": [
-        "Steinbrenner",
         "Kramer",
         "Jerry",
-        "George"
+        "Elaine",
+        "Frank"
       ],
-      "correctAnswer": "Steinbrenner"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "Ah, I sat too close to the screen. Oh. I just gotta stretch out in a hot bath. It was nice to see you again, Lloyd.",
+      "quote": "Now what the Hell do I care about Al Jolson. I'd just assume her you sing \"Mammy\". Heh heh heh...",
+      "characters": [
+        "Lloyd",
+        "Jerry",
+        "Elaine",
+        "Ron"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "I feel like I got a B12 shot. This is like a taste explosion!",
       "characters": [
         "Elaine",
         "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Okay. . Thanks.  Assman? Oh, no, these don't belong to me. I'm not the Assman. I think there's been a mistake.",
+      "quote": "Meet the Mets, meet the Mets. Come right out and greet the Mets.",
       "characters": [
-        "Hoyt",
-        "Dan",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "YES! It Blows Up! If you knew that, what did you tell Elaine for?",
-      "characters": [
+        "Wilhelm",
         "Jerry",
         "George",
-        "Celia",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Are you crazy? You take your life in your hands with those nuts.",
+      "characters": [
+        "Kramer",
+        "Ned",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "If he says he doesn't want it to be a show about nothing, don't go nuts.",
+      "quote": "Yeah, the neck hole thing, and I would appreciate it if you would say you're sorry.",
       "characters": [
         "Jerry",
-        "Frank",
         "Kramer",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not 'dad' in the workplace. My professional name is Mr. Costanza, and I will refer to you as 'Costanza'. Morning, Braun.",
+      "characters": [
+        "Jerry",
+        "Aaron",
+        "Officer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Sid",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Nope, we got a whole new format. Edgy, youthful, plus ... we got Jim Fowler!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

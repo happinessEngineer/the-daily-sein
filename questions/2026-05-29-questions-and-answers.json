@@ -1,106 +1,106 @@
 {
-  "gameNumber": 511,
+  "gameNumber": 512,
   "date": "2026-05-29",
   "questions": [
     {
-      "quote": "Louise! That's what's doin' it. You're no longer pre-occupied with sex, so your mind is able to focus.",
+      "quote": "The box of raisinettes runs up to the concession stand, buys another box of raisinettes.",
       "characters": [
-        "Jimmy",
-        "Jerry",
-        "Jack",
-        "Elaine"
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Boy, you know when Joel told me he hadn't thrown up in eight years, I was wondering if he was normal.",
+      "quote": "Well thanks to you and your little comment there to David and Beth. Jerry and I are in prime pouncing position to scoop these two up  before they know what hit em.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ahh! This is very much as I imagined it to be. Aside from this rattan piece, which seems oddly out of place.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Don't fill up on the bread. I'm making you a very special dinner. Very special.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "I just wanted to stop by -- see if you had any questions about tomorrow's operation.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "What the hell are you doing here, aren't you supposed to be at work?!?",
       "characters": [
         "Jerry",
         "Peterman",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So I guess I'll have to buy him a new coat, even though I don't think I should be held responsible, which I am anyway.",
-      "characters": [
-        "Steinbrenner",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George, this is Aunt May, and Father Jessup. Oh, and that's my brother, Timmy.  This is my boyfriend, George.",
-      "characters": [
-        "Betsy",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Betsy"
-    },
-    {
-      "quote": "I can't. I met them. They're devout. You know, in the cab on the way over here, I actually thought about converting.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
         "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Algae,… obviously plankton, hmhm. I don't know what else I could tell ya, ah, Oh I-I just got back from a trip to the Galapagos Islands, I was living with the turtles.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Tom"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "If I don't have a good shower I am not myself. I feel weak and ineffectual. I'm not Kramer.",
-      "characters": [
-        "Steinbrenner",
-        "Elaine",
-        "Guy",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I still have it. The collar's okay. I wear it under sweaters.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh look, I need to get in touch with Cheryl. Babu needs a lawyer, his Visa's expired.",
-      "characters": [
-        "Frank",
-        "Vandelay",
-        "Elaine",
-        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Afternoon, Mom! Afternoon, Pop. You know you got a crack in the sidewalk out there? Now, you oughta get that fixed.",
+      "quote": "Well, look at this.  This doesn't belong here! Someone has made a terrible mistake.",
       "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. All right. You don't know what your missing. I'm loving this Jerry. I am never putting on another piece of clothing unless it's straight out of the dryer.",
+      "characters": [
+        "George",
         "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
+        "Helen"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wednesday? That's your personal business?!  Skiing?!  So let people suffer, while you're shushing all over a mountain?",
+      "characters": [
+        "George",
+        "Man",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I think if you go down the hall, it's on the right at the very end.",
+      "characters": [
+        "Stu",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Stu"
     }
   ]
 }

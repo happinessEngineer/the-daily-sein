@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1135,
+  "gameNumber": 1136,
   "date": "2028-02-12",
   "questions": [
     {
-      "quote": "It was the Peace Corps that gave me my start in this business.  Clothing the naked natives of Bantu Besh.",
+      "quote": "Well...hum.....we'll just have to do something about that. Won't we.",
       "characters": [
+        "George",
+        "Sharon",
         "Elaine",
-        "Peterman",
-        "Jerry",
-        "Kramer"
+        "Craig"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Craig"
     },
     {
-      "quote": "What did you think, she was going to take some of that chalk and...",
+      "quote": "You're taking that much to literally. Now sir , do you have any business to transact.",
       "characters": [
-        "Jerry",
+        "Teller",
         "George",
-        "Kramer",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Teller"
     },
     {
-      "quote": "Alright, shut up. Shut up. Just let me think. I gotta think. We gotta get our story straight.",
+      "quote": "Shh. Shh. Shh. It's not important. What's important is I'm not gonna let a little thing like that ruin what could be a very long-term and meaningful relationship.",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Just call me if you hear anything.  Well? I cashed the checks, the checks bounced and now my Nana's missing!",
-      "characters": [
-        "Elaine",
         "Kramer",
+        "Elaine",
         "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, if you need that ride, just uhm, gimme a call.  Heh. I can meet you at the gate, Jer.",
+      "quote": "Tell me what you're wearing tomorrow. I'll help you lay it out on the bed.",
       "characters": [
-        "Elaine",
+        "Pitt",
+        "Frank",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And a guy will appear from out of nowhere. I say \"Get out of here! What do you want? You don't belong here!\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, question #8. What if I told you my fiancee left me for another man? Does that make me more likable, less likable, as likable? Let's start over here this time.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Vivian"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I have lost complete control of my staff. Why did I let George go to that party? I mean, we were having so much fun. We were wining, we were dining, we were dancing.  What?",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What, are you crazy? They hated it. They were just humouring you.",
+      "quote": "Hey, hey, hey! All right! Yeah, uh, yeah.. well.. Uh, the pants. they, uh, they fit, uh, well - and so I, uh, decided I wasn't gonna return them!  Wooh-hoo-hoo-hoo!",
       "characters": [
         "Kramer",
-        "Woman",
-        "Sally",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "I'm still here. Listen, you gotta go down to the Diplomat's Club...",
-      "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So, uh. Gillian's comin' over later. I think I'm gonna end it.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Bania"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, I'm just uh, redecorating my office in a south-western motif and this'd be perfect. Give you five hundred dollars for it?",
-      "characters": [
-        "Lippman",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "Because Marcelino, he taped it up on his cash register with all the other bad checks.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Rabbi"
-      ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You mean just because I asked him to go upstairs, he thinks he's going downtown?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Beth",
+        "Ray"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright I happen to know what they did last night, they had dinner with Kramer.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

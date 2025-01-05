@@ -1,106 +1,106 @@
 {
-  "gameNumber": 118,
+  "gameNumber": 119,
   "date": "2025-05-01",
   "questions": [
     {
-      "quote": "So I'm glad we had a talk and worked this out. Don't you feel this is better?",
+      "quote": "Yes  Apart from that, dreadful airline food. It tends to reek havoc with my stomach.",
       "characters": [
-        "Peterman",
-        "Susan",
+        "Kramer",
+        "Lloyd",
         "Jerry",
-        "George"
+        "Simon"
+      ],
+      "correctAnswer": "Simon"
+    },
+    {
+      "quote": "Roger's can't sell chicken around here, we got chicken places on every block.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If he says he doesn't want it to be a show about nothing, don't go nuts.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Puddy",
+        "Bob"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "And she'll still see it, you're not stopping her from seeing it.",
+      "quote": "I gotta prep. I need a couple of anecdotes, a few you-were-right-abouts. It's a whole procedure. Wasn't Fragile Frankie the one that used to run into the woods every time he got upset?",
       "characters": [
-        "Newman",
         "Elaine",
-        "Jerry",
-        "George"
+        "Kramer",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "There was cleavage in the area. That's a reflex -  - cleavage-poke, cleavage-poke...",
+      "quote": "Oh, you're not kiddin'. Who'd 've figured Susan would break up with him? They had a good thing going.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Celia",
-        "Ping"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wow. That's great! When it comes out, I'll have to get someone to ghost read it.",
-      "characters": [
-        "Jerry",
+        "Gail",
         "George",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen, Tiny. I wanna know where Kramer is and wanna know now!",
-      "characters": [
-        "Morty",
-        "Man",
-        "George",
+        "Lena",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "This is a place of business. I told you never to come in here. Serenity now!",
+      "quote": "Yeah, yeah. She's punctual... and uh she's been late, sometimes.",
       "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just a quick sidebar here -- are you in anyway authorized to give raises?",
+      "characters": [
+        "Jerry",
         "Frank",
         "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Hi, you must be Jerry. Sandy's in the shower. Do you want to come in?",
-      "characters": [
-        "Elaine",
-        "Laura",
-        "Nina",
-        "George"
-      ],
-      "correctAnswer": "Laura"
-    },
-    {
-      "quote": "Well, sometimes we do actually have to get up early, but a man will *always* trade sleep for sex.",
-      "characters": [
-        "Anna",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I had some trouble at my place, so I need a little company at night to sleep.",
+      "quote": "ah no, I got the machine. Rachel! Are you there?! I got the place to myself for a few hours! Rachel! Where are you? Rachel!",
       "characters": [
-        "Kramer",
-        "Newman",
         "Jerry",
+        "Kruger",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You think that dentists are so different from me and you? They came to this country just like everybody else, in search of a dream.",
+      "quote": "Oh, I'm afraid I could't do that. It wouldn't be fair to the other customers.",
       "characters": [
-        "Steinbrenner",
         "George",
-        "Harold",
+        "Naomi",
+        "Jerry",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "How did I ever let you talk me into this, I must have been out of my mind.",
+      "characters": [
+        "Elaine",
+        "Duncan",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

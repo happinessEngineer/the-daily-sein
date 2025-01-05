@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1040,
+  "gameNumber": 1041,
   "date": "2027-11-09",
   "questions": [
     {
-      "quote": "So they went out a few times, but apparently, when the fellow returned home, he discovered that the Benes tattoo does not wash off so easily.",
+      "quote": "But, I live here! I ran out to buy some birdseed, and-and I forgot my key.",
       "characters": [
-        "Harold",
+        "Phil",
+        "Kramer",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "Yeah, right!. On Prancer, on Dancer, on Donna, on Ethyl, on Harriet.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mickey",
+        "Newman"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Wait a second wait a minute, You jealous of him or you jealous of me?",
+      "characters": [
         "Kramer",
         "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, she keeps it in my apartment for when she comes up from Florida.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mike",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, listen don't oversleep. You can't afford to be late again.",
+      "quote": "No, no, I don't think I'm special. My mother always said I'm not special.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, that's what he has and I have to give him a call. Now we gotta came clean.",
       "characters": [
         "George",
         "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes but then everything is all pulled down and it's jus.. Anyway. The damage, unfortunately, has marred an otherwise fine automobile, rendering it virtually undriveable.",
-      "characters": [
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right ladies and gentlemen. Welcome to the Peterman Reality Tour...",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Doctor",
-        "Kruger"
+        "Milos"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "How 'bout this one? How 'bout, 'Your cranium called. It's got some space to rent.'?",
+      "quote": "I said preferably cashmere, for warmth. So in front of the whole party, he says, 'No. I don't want you stretching out the neck hole.'",
       "characters": [
+        "Shelly",
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "She knows about the speed-dial. Mrs Hamilton, you gotta get me off this thing.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, computers, they're cracking down now on overdue books. The whole thing is completely ridiculous.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He doesn't know what he's talkin' about.  Jer? Jerry, I'm a good dancer, right?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Abby",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "In the dark room? Uh no, no thank you. Not right now. I'm a day person!... Are you all right?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Here's the TV.  I know you wanted to watch the Super Bowl.  Do you at least have some towels we could sit on?  It's, like, a four hour game.",
-      "characters": [
-        "Kramer",
-        "Lloyd",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "You know I uh, spilled a yogurt smoothie in here two days ago. Hm, Can't smell anything, can ya?",
+      "characters": [
+        "Receptionist",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What happened to Babs. She never showed up last night. The whole thing blew up in my face.",
+      "characters": [
+        "David",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we'll get to know each other. We never get to spend any time together. Oh sure we have our little group here, but ...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

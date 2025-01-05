@@ -1,49 +1,9 @@
 {
-  "gameNumber": 782,
+  "gameNumber": 783,
   "date": "2027-02-24",
   "questions": [
     {
-      "quote": "Look, I got a few good years left. If I want a Chip Ahoy, I'm having it.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Did you see Bania's set last night? 'Cause I read on the Internet he killed.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh... here's a fact. Uh, I'm... the Wiz! I'm the Wiz and noooobody beats me!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Jack",
-        "Allison"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "This is some building, Harry Fleming used to have an office here. There was a deli on the first floor. You don't get corned beef like that anymore. What happened to that deli?",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Helen",
-        "Kramer"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Oh, wait! Jean-Paul, Jean-Paul! Isn't he the guy who overslept at the Olympics 4 years ago and missed the marathon?!",
+      "quote": "Well we went out one time. Don't you think that's coming on a little too strong?",
       "characters": [
         "Jerry",
         "Kramer",
@@ -53,52 +13,92 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You can't go by the audience that night. It was late. They were terrible.",
+      "quote": "Well I don't like it. I don't like it one bit! And, I'm supposed to see him tomorrow.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
+        "Elaine",
+        "Gladys",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Kramer, it is such a dumb idea. I would be  totally embarrassed to bring it...",
+      "quote": "No. No, I'll never cook again! Never! Now get out of my house!! Get out. Go.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Cop"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh well if it isn't Shakey the Mohel! Nice job on the circumcision but it's not supposed to be a finger.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. Listen, Rabbi, I'd like to ask you a question. Why, why did you tell my friend Jerry what I talked to you about?",
       "characters": [
         "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
+        "Susan",
+        "Jackie",
+        "Herb"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The trainer, George. Tell the players I'll reimburse the trainer. What's the matter with you? This is the third time I've had to repeat myself.",
+      "quote": "See I was saying \"six\" but she thought I was saying \"sex\". We straightened the whole thing out though.",
       "characters": [
-        "Wilhelm",
-        "Harold",
+        "Helen",
+        "Levitan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Severance package...The Yankees are giving me three months full pay for doing nothing.",
+      "characters": [
+        "Kramer",
         "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "After the Giant game I realized that this--this problem isn't going away.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Who told you to get a massage from her. I haven't gotten a massage from her yet!",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Wilhelm"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Elaine, I want you to come and work for me as my personal assistant. Now, I'll pay you the same as Pendant, but I would need you to start right away.",
+      "quote": "And where does it end? Then everyone's doin' it. It's like the wave at ball games. Air quotes. The phrase, \"Don't go there.\" - Someone's gotta take a stand!",
       "characters": [
-        "Pitt",
-        "Newman",
-        "Kramer",
-        "Milos"
-      ],
-      "correctAnswer": "Pitt"
-    },
-    {
-      "quote": "Great. You know, Frankie, I was wondering. What if I decided that it's silly to drive a van, because, you know, I live in New York City. Is there maybe some way I could exchange it?",
-      "characters": [
-        "Jerry",
-        "Todd",
+        "Announcer",
         "George",
-        "Wilhelm"
+        "Steinbrenner",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

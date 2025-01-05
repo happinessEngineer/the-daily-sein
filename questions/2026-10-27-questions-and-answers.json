@@ -1,106 +1,106 @@
 {
-  "gameNumber": 662,
+  "gameNumber": 663,
   "date": "2026-10-27",
   "questions": [
     {
-      "quote": "No, I'm gonna hold it under her nose so she can smell the scent of stale Bosco that I had to live with for three years, and I'm gonna say, \"Remember this shirt, baby?! Well, now, it's payback time!\"",
-      "characters": [
-        "Elaine",
-        "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Let me ask you something. What do you do for a living, Newman?",
-      "characters": [
-        "Newman",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I really think you're wrong. We just went to the fireworks the other day.",
+      "quote": "Yeah, like Diane Fosse. You know she's the only person that's ever been accepted into gorilla society. And you know, once those gorillas accept you, you got it made in the shade.",
       "characters": [
         "Kramer",
-        "Wilhelm",
-        "Jerry",
-        "Milos"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I guess we like to think we've progressed beyond a knife fight for a citrus drink.",
-      "characters": [
-        "Frank",
-        "Jerry",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey. Right, I talked to this lawyer guy, Shellbach. Now, he's gonna set me up, but you gotta come with me and be the executor.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
+        "Nina",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I waited, he didn't show up. Anyway, this guy gave me an open-lip kiss.",
+      "quote": "So what? When someone turns twenty-one, they usually get drunk the first night.",
       "characters": [
-        "Elaine",
+        "Lippman",
         "Jerry",
-        "Frank",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well boys, I did it. I had to stay up all night but I finally came up with a great New Yorker cartoon.",
-      "characters": [
-        "Elaine",
-        "Jodi",
-        "George",
-        "Cindy"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I just like to have and few drinks and just let the guy do whatever he wants. Would you close your eyes for a second? I wanna tell you a secret about my bra.",
-      "characters": [
-        "Kramer",
-        "Maestro",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, yeah I know. This would be good, but it would be the same. But if we go some place else, it would be different, but it might not be as good. It's a gamble. I get it.",
+      "quote": "Come on, Sue Ellen. You don't wear a bra, you're tall... we hate each other!",
       "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Such a lovely table setting. Oh, wear did you get these napkins?",
+      "characters": [
+        "Katie",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, Okay. Who do you think you're talking to? What are ya'… you trying to make a joke, because it's not funny. I can tell you that.",
+      "characters": [
+        "Elaine",
         "Kramer",
         "Jerry",
-        "Mike",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Alright, well why don't we smooth the head down to nothing, stick a pumpkin under its arm and change the nameplate to Ichabod Crane?",
+      "quote": "So Anyway, I started to compliment Elaine on her sketches and it turns out,they're Paula's.",
       "characters": [
-        "George",
-        "Rita",
-        "Worker",
-        "Kramer"
+        "Jerry",
+        "Hanke",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Sure. You know, Rhisa. I've always found you... very attractive.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Hey, let ask you something. Is it just me, or - or do you find it unbearable to be around Jerry and that girl?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Earl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That reminds me, I'm not getting you guys any more fruit. That guy was eyeballing me the whole time. He gave me the creeps. All right, you owe me twenty-eight sixty.",
+      "characters": [
+        "George",
+        "Milos",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, 'kay, see. On this particular Tuesday  you could've watched six hours of Lucy. There's I Love Lucy, The Lucy Show, Here's Lucy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Ricky"
+      ],
+      "correctAnswer": "Ricky"
     }
   ]
 }

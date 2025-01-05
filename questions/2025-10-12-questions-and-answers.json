@@ -1,106 +1,106 @@
 {
-  "gameNumber": 282,
+  "gameNumber": 283,
   "date": "2025-10-12",
   "questions": [
     {
-      "quote": "All right, you guys listen, I've got to wait here for Elaine, I'll meet you in front of the theatre.",
+      "quote": "Yeah, this is room 419, I'd like a wake-up call for 6:50 AM tomorrow morning.",
       "characters": [
+        "Tia",
+        "Elaine",
         "Jerry",
-        "Steven",
-        "George",
-        "Steinbrenner"
+        "Silvio"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Mr Wilhelm, listen. You've been abducted! Please, Mr Wilhelm, you gotta listen to me!",
+      "quote": "Hey, hey, hey! I met this guy! And it was like this, totally unreal, fairy tale moment.",
       "characters": [
         "Elaine",
-        "Frank",
-        "Evelyn",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "And that Morty, I'll tell ya that guy is full of life.  He was convinced Monet was near sighted. I kept telling him",
-      "characters": [
-        "Aaron",
-        "Shelly",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Aaron"
-    },
-    {
-      "quote": "I could've! I mean, last week we waited for that friend of Kramer's for like, forty minutes.",
-      "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Kramer"
+        "Jerry",
+        "Gennice"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The circumcision was perfect. The finger was your fault! You flinched!",
+      "quote": "Ha ha! We took it to you! You couldn't get it out of your zone all night. We were aggressive, we didn't let you penetrate!",
       "characters": [
-        "Elaine",
-        "Carol",
-        "Mohel",
-        "George"
+        "Puddy",
+        "George",
+        "Newman",
+        "Jerry"
       ],
-      "correctAnswer": "Mohel"
+      "correctAnswer": "Puddy"
     },
     {
-      "quote": "Look at him, Elaine. How gorgeous is he? I ask you, how gorgeous?",
+      "quote": "Now I know who you are! You're a comedian. I've seen you, it's driving me crazy.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Carol",
-        "George"
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Carol"
     },
     {
-      "quote": "We're going to sign it. We're going to sign it. In fact George is out with the woman from NBC right now.",
+      "quote": "I've been clean for two years. Anyway what would we do together?",
       "characters": [
-        "Roy",
-        "Bania",
-        "Jerry",
-        "George"
+        "Sally",
+        "George",
+        "Kramer",
+        "Babs"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Babs"
     },
     {
-      "quote": "Well, Leslie, sometimes the road less travelled is less travelled for a reason.",
+      "quote": "I don't know.. I made it up.  I'm never gonna get this thing.",
       "characters": [
-        "Sandi",
-        "Elaine",
+        "Jerry",
         "Newman",
+        "George",
+        "Steven"
+      ],
+      "correctAnswer": "Steven"
+    },
+    {
+      "quote": "Well, my lawyer says 14 months, but with good behavior, maybe...10?",
+      "characters": [
+        "Newman",
+        "Kurt",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kurt"
     },
     {
-      "quote": "No. No. I'm gonna stay home. I want to be close to my home base in case there's any news from the front.",
+      "quote": "It got a little dirty, so they wanted to clean it before they gave it back to you.",
       "characters": [
-        "Mickey",
+        "Estelle",
+        "Helen",
         "Elaine",
+        "Hallie"
+      ],
+      "correctAnswer": "Hallie"
+    },
+    {
+      "quote": "No no no, I want you to beg me. And I don't want you to say it, I just want you to put some beg into it. Go on.",
+      "characters": [
+        "Kramer",
         "George",
-        "Kramer"
+        "Elaine",
+        "Susan"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, yeah, yeah we could. You know, ah, Kramer, the next time you talk to her, find out if she knows Kelly, from Monk's. I wanna know if she really has a boyfriend.",
+      "quote": "Hey, hey what's going on out here? You two should be ashamed of yourselves, both of ya!",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Wilhelm",
-        "George"
+        "George",
+        "Frank",
+        "Jerry",
+        "Stan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Stan"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 390,
+  "gameNumber": 391,
   "date": "2026-01-28",
   "questions": [
     {
-      "quote": "Thank you Babu. You have quite a flair. You are quite the restaurateur I must say.",
+      "quote": "Think, a second. You know, your friend was talking about me and, you know...",
       "characters": [
-        "Chiles",
-        "Susan",
         "George",
+        "Kramer",
+        "Bania",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Why? It didn't mean anything. I was just trying to join in so you wouldn't feel embarrassed.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Jerry",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're gonna get back together, anyway. It's thousands of dollars!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Todd",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I beg your pardon, your majesty, but we don't accept bills with lipstick on the president.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Guy"
-      ],
-      "correctAnswer": "Guy"
-    },
-    {
-      "quote": "No food? Well you gotta have something --  -- I can't go back in there with no food. She's expecting something Jerry. You don't know what she's like when that blood sugar drops.",
-      "characters": [
-        "Mike",
-        "Jerry",
-        "Kramer",
-        "Marcelino"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh! Well, I just think it's wonderful. Honestly! I've gotta run, but um, please, please give my best to Susan.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Mickey",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "\"Oh yeah! But Jimmy's all out right now. Moving to Manhattan set Jimmy back a bit.\"",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Jimmy",
-        "Marcelino"
-      ],
-      "correctAnswer": "Jimmy"
-    },
-    {
-      "quote": "No-one's ever been impeached before. I couldn't live here. We'd have to move to Boca.",
-      "characters": [
-        "Susan",
-        "Morty",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "That's perfect! He's a zoo guy! He take's care of animals. C-Can I bring the squirrel by?",
-      "characters": [
-        "Jerry",
-        "Tim",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Why don't you just let Golden Boy soak in the sink with some Woolight?",
+      "quote": "Jerry, could you do me a personal favor? And if I'm out of line, *please*, let me know. Could I keep my trench coat in your closet for a few months?",
       "characters": [
+        "Ron",
+        "Captain",
         "George",
+        "Buckles"
+      ],
+      "correctAnswer": "Buckles"
+    },
+    {
+      "quote": "Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care..",
+      "characters": [
+        "Jerry",
+        "Joel",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've been drinking Café Latte since the fifth grade and I haven't looked back.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you call her agency. Maybe she's been out of town and she didn't get the calls.",
+      "characters": [
         "Elaine",
         "Jerry",
+        "Winona",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, after talking to you, we realised we may not have much time left.",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Estelle",
         "Kramer"
       ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, you know, those annoying little bumps on the lane-lines?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How do you like that? Can I turn now? Is this over? No, I can't, I can't. I'm stuck.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Mary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mono? Huh, well, if anyone needs any medical advise, Elaine met a doctor. And he's unattached.",
+      "characters": [
+        "Marcy",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, anyway, the operation is on Tuesday and I need you to drive me home because I'll be all drugged up.",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "Kevin"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

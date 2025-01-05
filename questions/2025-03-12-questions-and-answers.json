@@ -1,106 +1,106 @@
 {
-  "gameNumber": 68,
+  "gameNumber": 69,
   "date": "2025-03-12",
   "questions": [
     {
-      "quote": "So George. Remember when I told you Nikki gets whatever she wants. We are at the movies last night. It's sold out. Nikki goes and talks to the manager. Right in.",
+      "quote": "I suppose he could swivel. Hey maybe one of those director's chairs. What do you think of those.",
       "characters": [
-        "Jerry",
         "George",
+        "Helen",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's why we joined a program. We walk once around the block three times a week.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "No appointments at all? Because my neck is still tight. What about Thursday? And Friday? Oh boy. Okay, thanks anyway.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, of course she did. That's all I ever heard growing up is 'Why can't you be more like Lloyd Braun?' Did you know he was in a mental institution?",
-      "characters": [
-        "Karen",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I've called everyone. You know how hard it is to get a dermatologist in this town?  A real dermatologist.",
+      "quote": "So I'm sitting there with Woody and I say, I turn to him and I go, \"Boy, these pretzels are making me thirsty.\"",
       "characters": [
-        "Jerry",
-        "Fdr",
         "Kramer",
-        "Mickey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. And here's to David Puddy for helping me install a much needed and much appreciated garbage disposal in my bathtub.",
-      "characters": [
-        "Jackie",
+        "Helen",
         "George",
-        "Jerry",
-        "Kramer"
+        "Roy"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Then, after a period of being \"there for you\", we slowly remove the two words \"for you\", and we're just  \"there\".",
+      "quote": "Kramer, Kramer's not here...I knew it. I knew it! I knew this would happen.  Kramer! Kramer!",
       "characters": [
         "Newman",
         "George",
-        "Darren",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "If I meant this Wednesday, I would have said this Wednesday. It's the week after this Wednesday.",
-      "characters": [
-        "Sid",
-        "Elaine",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Sid"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hey! Wait! Wait! Wait a second! Where you goin'? I-I hardly ever see you anymore.",
+      "quote": "We had an arguement about me going to Hawaii, and he locked onto my ankle like it was a soup bone. I'm hubbled! I don't think I can do my route - and they're awarding the transfer in two days!",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Jackie",
-        "Leo"
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, you're in a relationship with a woman you don't like, and you're having an affair with a woman that won't have sex with you.",
+      "characters": [
+        "Jerry",
+        "Haarwood",
+        "Sid",
+        "Clerk"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I caught him urinating in the shower. I'm thinking about turning him in, too.",
+      "quote": "All rightly. Let me just review your history before we begin.",
       "characters": [
+        "Doctor",
         "Jerry",
-        "Tia",
-        "Greg",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Greg"
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "What happened to you? You were going like a hundred miles an hour.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, would you consider being my personal consultant for the pageant?",
+      "characters": [
+        "Karen",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "I don't understand, I made a reservation, do you have my reservation?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Manager"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mmm. They're putting a little lemon in the tuna. I love that.",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

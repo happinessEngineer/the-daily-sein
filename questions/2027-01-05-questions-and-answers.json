@@ -1,104 +1,104 @@
 {
-  "gameNumber": 732,
+  "gameNumber": 733,
   "date": "2027-01-05",
   "questions": [
     {
-      "quote": "I could go bumper to bumper with any one else on this planet!",
+      "quote": "Of course, I'm the result of my parents having stayed together, so you never know.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Lippman",
+        "Man",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh yeah, it's working out. And I got a date with that waitress who works at Reggie's.",
+      "quote": "He called 6 times yesterday. What a nightmare it must be to have a real family.",
       "characters": [
         "Kramer",
+        "Nurse",
         "George",
-        "Jerry",
-        "Newman"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, Jerry I'm telling you I have this power. And I have no control over it.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, is this disruptive? You find it hard to work with someone...interrupting?",
+      "quote": "...so I called the litterbug a pig, not you. I like policeman. I wanted to be a policeman.",
       "characters": [
-        "Poppie",
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I suck'em down like Coca-Cola. Well here's to feeling good all the time.  Looks like you've got yourself a little cold there, eh fella?",
+      "characters": [
+        "Elaine",
         "Kramer",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, God, I bumped into Robin Sandusky today, she asked me to have dinner with her and her husband.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, instead, I'm like a detective. I gotta pick up clues, the whole thing is a murder investigation.",
+      "characters": [
+        "George",
+        "Helen",
+        "Laura",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, you gotta take a ride with me later. I borrowed my father's car. '68 GTO.",
+      "quote": "Button fly! Why do they put buttons on a fly? It takes ten minutes to get these things open!",
       "characters": [
+        "George",
+        "Anna",
         "Jerry",
-        "Morty",
-        "Elaine",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Went up to the Cape. Took the kids sailing.  Lisa was a little scared at first, but that kids' gonna be a good sailor someday.",
-      "characters": [
-        "Dan",
-        "George",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Dan"
-    },
-    {
-      "quote": "It's been a rough couple of weeks, ya know I really needed to get away.",
-      "characters": [
-        "George",
-        "Captain",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Let me show you to your table.  Your duck is cooking as we speak. It is so succulent...so succulent!",
-      "characters": [
-        "Russell",
-        "George",
-        "Rava",
-        "Poppie"
-      ],
-      "correctAnswer": "Poppie"
-    },
-    {
-      "quote": "Oh, I was uh, I was waiting downstairs for the jackhammer, thought I'd drop by.",
+      "quote": "Yeah that's a tough one. What are you going to do about that?",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Kruger",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know Bobby, it's very very hard to hit two home runs in one game. Even for Paul O'Neill.",
-      "characters": [
-        "Tim",
-        "Jerry",
         "George",
-        "Kramer"
+        "Man",
+        "Sally"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "It all right if I keep these here for a while? I'm having a New Year's Eve party.",
+      "quote": "So Jerry, my millennium party's really coming together. Will people be able to breathe underwater in the year two-thousand?",
       "characters": [
-        "Jerry",
-        "Steinbrenner",
+        "Gary",
         "Kramer",
-        "Frank"
+        "Jerry",
+        "Tor"
       ],
       "correctAnswer": "Kramer"
     }

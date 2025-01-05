@@ -1,29 +1,79 @@
 {
-  "gameNumber": 759,
+  "gameNumber": 760,
   "date": "2027-02-01",
   "questions": [
     {
-      "quote": "I'm going out with one of the Miss America contestants, you wanna go?",
+      "quote": "So anyway, it's caused a lot of problems. Dan thinks I'm interested in Jerry, he won't let up.",
       "characters": [
         "Elaine",
-        "George",
         "Kramer",
+        "Noreen",
         "Jerry"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "Oh, no, thanks. I can't drink coffee late at night, it keeps me up.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I could go bumper to bumper with any one else on this planet!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...so if you like to tell jokes, and love to make people laugh, stand-up comedy may be the career for you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You what I'll do next time? I'll hide it so nobody can find it.",
+      "quote": "Why? Did she say something to you about why she broke up with me?",
       "characters": [
-        "Newman",
-        "Elaine",
-        "George",
-        "Morty"
+        "Laura",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "George"
     },
     {
-      "quote": "You know what? It sounds like the friend of Elaine's that was hitting on me in the book store.",
+      "quote": "Yes, I told him all about you going and he got all excited and decided to go.",
+      "characters": [
+        "Kramer",
+        "Marla",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "What are you doing here, I though you were going to the airport.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on. Dustin Hoffman in Star Wars. He made a bet he knew he was going to lose just to take you to dinner",
       "characters": [
         "Jerry",
         "Elaine",
@@ -33,72 +83,22 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh Elaine, that's so good to hear. I've been having a few health problems lately.",
-      "characters": [
-        "Elaine",
-        "Frank",
-        "Jerry",
-        "Vivian"
-      ],
-      "correctAnswer": "Vivian"
-    },
-    {
-      "quote": "Guys, hitting is not about muscle. It's simple physics. Calculate the velocity, v, in relation to the trajectory, t, in which g, gravity, of course remains a constant.  It's not complicated.",
-      "characters": [
-        "Kramer",
-        "Darryl",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "As Miss America, I would try and bring an end to world hunger. If every person sacrificed one meal a week, there would be enough to feed the whole world!",
-      "characters": [
-        "Karen",
-        "George",
-        "Elaine",
-        "James"
-      ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "Yes, I will do the opposite. I used to sit here and do nothing, and regret it for the rest of the day, so now I will do the opposite, and I will do something!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Bookman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So? We've always just kind've pecked. This one had a totally different dynamic.",
-      "characters": [
-        "Elaine",
-        "Izzy",
-        "George",
-        "Kruger"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "The only way I could talk him out of it was that I agreed to go and visit the Tunisian desert.",
+      "quote": "Oh, forget it. Pull yourself together. You're making me sick. Be a man!",
       "characters": [
         "Jerry",
         "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Because it's really a pretty good little story. Don't you think?",
+      "quote": "I mean, she's beautiful, right? She's just my type. The dark hair, the full lips.",
       "characters": [
-        "Newman",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Morty",
+        "Jerry",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     }

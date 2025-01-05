@@ -1,106 +1,106 @@
 {
-  "gameNumber": 637,
+  "gameNumber": 638,
   "date": "2026-10-02",
   "questions": [
     {
-      "quote": "Jerry, come on, you're doin' okay now. You should at least take a look at this place. You shouldn't have to live like this.",
+      "quote": "My parents. It's their anniversary. I'm taking them out to dinner and a show tonight. You think we'll hit traffic?",
       "characters": [
-        "Jerry",
-        "George",
+        "Dana",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Aw, I've just got to say it once, everybody else gets to say it, why can't I say it?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Ricky",
-        "George"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "...and I have to tell you, it's exactly what this organisation needed.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "And who were you tryin' to set up, anyway? The mechanic or the manager?",
+      "quote": "All right. As long as you're okay. Because I can't stop thinking about her.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
+        "Tim",
+        "Peterman",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "John Germaine? That is amazing. I was just talking about him upstairs with Elaine.",
+      "quote": "There you go, okay? That's my *other* friend's ticket. You happy now? You got two tickets.",
       "characters": [
+        "George",
         "Elaine",
-        "Katya",
+        "Russell",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The blond with the blue sweatpants! Yeah, I think I've seen her.",
+      "characters": [
         "Jerry",
+        "Puddy",
+        "Noel",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "They're -- They're killing independent George! And they're, they're all in on it! World's are colliding!",
+      "quote": "Well, it's almost six now. Can't we just wait til he goes home?",
       "characters": [
-        "Susan",
-        "Milos",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know it happens to everybody. It happened to Houdini. And he could get out of a trunk under water with his hands in chains! But he had a problem with that. The miracle is that it ever happens.",
-      "characters": [
-        "Gary",
-        "Kramer",
-        "Jerry",
+        "Elaine",
+        "Hoyt",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Wouldn't it be great if you could ask a woman what she's thinking?",
+      "quote": "Ah no no no no no. A better way to reach the bra would be to undo the jacket, then go around the back of the shirt.",
       "characters": [
-        "Jerry",
+        "Ade",
+        "Kramer",
+        "Landis",
+        "George"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "...But I have made a decision.  We will cut the bike down the middle, and give half to each of you.",
+      "characters": [
         "Newman",
-        "Elaine",
-        "Mike"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's the last thing she said to me. She wanted to go there also, but I wasn't in the mood.",
-      "characters": [
-        "Woman",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Kramer",
+        "Bob"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Anyway, as I was lying in the puddle, I-I think I may have found a way for us to get Bonds and Griffey, and we wouldn't have to give up that much.",
+      "quote": "You wouldn't believe it if I told you. In fact, uh, I'm glad you're here. You know, maybe I've been a little rough on ya, huh?",
       "characters": [
+        "Levitan",
+        "Stu",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Levitan"
+    },
+    {
+      "quote": "There's no fights here, Mr. Costanza. This is a minimum security facility.",
+      "characters": [
+        "Jerry",
         "George",
-        "Elaine",
-        "Jerry",
+        "Betsy",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "Grandma Memma's napkins. There's two missing. Elaine took them didn't she?",
+      "characters": [
+        "Kramer",
+        "Rabbi",
+        "Morty",
+        "Holly"
+      ],
+      "correctAnswer": "Holly"
     }
   ]
 }

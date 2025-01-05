@@ -1,106 +1,106 @@
 {
-  "gameNumber": 39,
+  "gameNumber": 40,
   "date": "2025-02-11",
   "questions": [
     {
-      "quote": "\"Heatbreaker, Brewbaker, …\" Hey George, I remember that tune. George? George? Um, what's that ticking. Oh oh. Oh, oooh,…wo wo wo wo . [runs out] fire in the hole!",
+      "quote": "All right, I'll see you after school. I,,m late for Hayman's hygiene.",
       "characters": [
-        "Sally",
-        "Elaine",
-        "Kramer",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "You know you buy a big salad for somebody it would be nice if they knew it.",
-      "characters": [
+        "Frank",
         "Elaine",
         "Jerry",
-        "George",
-        "Sid"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What is that, Boyfriend? I don't understand that. What, what does she think I asked her out for?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Clerk",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's where I come in. Umm, on splat. Uh, you see, Mrs. Sweedler, or is it hospital administrator Sweedler?",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, yeah. Right. Like anybody's ever gonna do this! How did you get me to go along with that? A show about nothing!",
-      "characters": [
-        "Elaine",
-        "Ethan",
-        "Jerry",
-        "Morty"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Huh, yeah.  Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons.",
+      "quote": "Oh, one more thing about the car. Let it warm up for a minute.",
       "characters": [
-        "Elaine",
-        "Sid",
+        "Eddie",
         "Jerry",
-        "Kramer"
+        "Worker",
+        "Jimmy"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh I see....Yessss. Little Miss Candy Bar paid a visit, didn't she?",
+      "quote": "September 21st, first day of Autumn. Leaves changing colours.. Beautiful colors.",
       "characters": [
-        "Elaine",
         "Jerry",
+        "Ellen",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "'Man's best friend'. Jerry, I want something like that on my tombstone.",
+      "quote": "\"Call me. Thirty-six, twenty-four, forty-six. I think I have what you're looking for.\" .",
       "characters": [
-        "Newman",
         "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah. Thanks. Hey, listen, if you ever get a date, maybe the four of us could go out together sometime.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I was moving it across the street, I looked up and I saw Woody Allen and I got all distracted.",
-      "characters": [
-        "Kramer",
         "George",
-        "Elaine",
         "Jerry"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah! You're fine. There's nothing wrong with you. I'm the one who's dying.",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, why did you have the cab come down the street?! We were almost out!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Glenn",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think things were going ok. We were having a nice conversation.",
+      "characters": [
+        "George",
+        "Toby",
+        "Jerry",
+        "Elaine"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I hate this place. I don't know why we came here, I'm never coming back here again.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Then you are entitled to a hundred dollars. That's our policy.",
+      "characters": [
+        "Manager",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Manager"
+    },
+    {
+      "quote": "Well well, if it isn't the first lady of the American Theatre.  What brings you here?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Helen",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

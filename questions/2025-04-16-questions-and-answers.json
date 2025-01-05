@@ -1,106 +1,106 @@
 {
-  "gameNumber": 103,
+  "gameNumber": 104,
   "date": "2025-04-16",
   "questions": [
     {
-      "quote": "So, I'm on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...",
+      "quote": "I'm starving! I can feel my stomach sucking up against my spine.",
+      "characters": [
+        "Jerry",
+        "David",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, Elaine was telling me about this piece of whitefish she had the other day...",
       "characters": [
         "Kramer",
+        "George",
         "Elaine",
-        "Jerry",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh I got it.  That I'm supposed to remember. Where the car is, that's insignificant.",
+      "quote": "Yeah! We uh, went to High School together. Didn't we Jerry? Gee I hope you're not leaving now. We still have a lot of work left to do.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Carol",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, ah then, I ah had to kill him and ah, well the police are still looking for me.",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, he has to play! He can't just not play. We're playing! Look, I gotta see him, how do I get in touch with him?",
-      "characters": [
         "George",
-        "Elaine",
-        "Kramer",
-        "Ray"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Not much more money. But you'll finally get the recognition you deserve.",
-      "characters": [
-        "Estelle",
-        "Izzy",
-        "Steinbrenner",
-        "Morty"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "Yeah I guess. What can I do? I gotta take her with me. Todd introduced us, I'm obligated.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He's actually doing him a favor. It's less money for him to buy food.",
-      "characters": [
         "Morty",
-        "Doctor",
-        "George",
-        "Jerry"
+        "Duncan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Duncan"
     },
     {
-      "quote": "Take it easy. There's plenty of lobsters in the ocean for everyone.",
+      "quote": "Oh, oh, O.K.  You can turn down the air conditioning if you want.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
+        "Estelle",
+        "Elaine",
         "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, no, now look now, Jerry, Jerry, it's no risk. I swear. The Mets have seventy-five games on cable this year..",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Russell",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Five cups chopped porcini mushrooms. Half a cup of olive oil. Three pounds celery.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, in fact we could track down Kramer. I always felt bad about the way he left, you know? That was a mess. I never should have taken back those keys.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So how'd it go with Kevin? Did you, steel-toe his ass back to Kentucky?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Maura",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Really?  Maybe this will become like a cool thing, living with your parents.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, you go out, you get another rye. Of course, it would have to be the same one from Schnitzer's. You put it in the kitchen somewhere and you say Ohh! There it is.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what my greatest moment was, don't you? Nineteen-forty-six. I went to work for Harry Flemming and I came up with the idea for the beltless trenchcoat.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Teller",
+        "Kruger"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Look, I need the keys to your apartment, I gotta take a shower.",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

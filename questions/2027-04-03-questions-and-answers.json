@@ -1,106 +1,106 @@
 {
-  "gameNumber": 820,
+  "gameNumber": 821,
   "date": "2027-04-03",
   "questions": [
     {
-      "quote": "You know, George, just because your life is destroyed, don't destroy someone else's.",
+      "quote": "This guy's a writer, he's a total nut. I think he goes to the same shrink as Elaine.",
       "characters": [
-        "Maryedith",
+        "Elaine",
         "Jerry",
         "George",
-        "Lippman"
+        "Janet"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Is there anything wrong with getting a receipt at a toll booth?",
+      "quote": "Ah!  I've got it! I've got it! We're calling just to say, \"I'm there for you.\"",
       "characters": [
-        "Jerry",
-        "Frank",
         "George",
-        "Kramer"
+        "Elaine",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nothing. I hate everything I have, I really hate it.  I mean, at this point, it's like I can wear something three or four times and that's it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I read somewhere that this Brentano's is the place to meet girls in New York.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jimmy",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, he like you though. Said you reminded him of somebody he knew in Korea.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Eight years have I had this car. Not a scratch on it! Eight years!",
+      "characters": [
+        "Donna",
+        "Elaine",
+        "Jerry",
+        "Frank"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "Well, we've got to do something.  I'm calling Giuliani's headquarters.",
+      "quote": "You know, the corkscrew pasta. It was a Fusilli Jerry. It got stuck in me. Had to go to the proctologist.",
       "characters": [
-        "Kramer",
-        "Frank",
+        "Jerry",
+        "Elaine",
         "George",
-        "Jerry"
+        "Frank"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "The other day after work some girlfriends and I went to a bar for some drinks and there was this crazy mishap and I wound up meeting someone as a result. George...",
+      "quote": "Well, he doesn't even do it exactly the same. He--he--he uses a pinch at the end instead of the *swirl*!",
       "characters": [
-        "Daphne",
-        "Kramer",
-        "Jerry",
+        "Elaine",
+        "Joe",
+        "Estelle",
         "George"
       ],
-      "correctAnswer": "Daphne"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "George what the hell are you doing over there? I told you to mind your own business now stay out of my affairs!",
+      "quote": "Shake is bad, but what if it's the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",
       "characters": [
-        "Jerry",
-        "Woman",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, I eat the whole apple. The core, stem, seeds, everything.",
-      "characters": [
-        "Gary",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'd stayed up all night I'd fixed myself up a little before I'd go out.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know who - isn't here. He was in the early class today.  But I think you made quite an impression on him yesterday.",
-      "characters": [
-        "Jerry",
-        "Joyce",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Joyce"
-    },
-    {
-      "quote": "Well, don't press the panic button. I'm sure that we can still salvage some sauce..",
-      "characters": [
-        "Kramer",
-        "Elaine",
         "Morty",
-        "George"
+        "Frank",
+        "Jerry",
+        "Gavin"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ok, fine. It's going to be very interesting, very interesting if they don't show up tonight. You know my mother made all this Paella.",
+      "quote": "Yeah, but you said this is one of the things that her firm does.",
       "characters": [
-        "Jake",
-        "Kramer",
         "Jerry",
-        "George"
+        "George",
+        "Elaine",
+        "Helen"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

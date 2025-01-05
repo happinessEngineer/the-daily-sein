@@ -1,106 +1,106 @@
 {
-  "gameNumber": 127,
+  "gameNumber": 128,
   "date": "2025-05-10",
   "questions": [
     {
-      "quote": "Hold on! Hol--on! Susie didn't commit suicide!  She was Murdered, by Jerry, Sein-feld!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Mike"
-      ],
-      "correctAnswer": "Mike"
-    },
-    {
-      "quote": "Yeah, we give you the dough, you smash it, you pound it, you fling it in the air. And then you get to put your sauce and you get to sprinkle your cheese, and then- you slide it into the oven.",
-      "characters": [
-        "Kramer",
-        "Bob",
-        "Estelle",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry! I'm gonna find your stuff. I'm gonna solve it, I'm on the case, buddy, I'm on the case.",
+      "quote": "Hey, here you go. 'Hey, Reilly. The zoo called. You're due back by six.'",
       "characters": [
         "Elaine",
         "Kramer",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They wanna have another meeting? They wanna buy it?! They wanna but it?! Oh! I tell you! We're gonna be rich!! What are we gonna get for this? Fifty, sixty thousand?",
+      "characters": [
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm unbelievable at spelling last names. Give me a last name.",
-      "characters": [
         "Kramer",
-        "Doctor",
-        "Jerry",
-        "George"
+        "Izzy"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It's a goose that's had the old switcheroo pulled on it. Hi Sophie, it's me.",
-      "characters": [
-        "Doctor",
-        "Kramer",
-        "Jerry",
-        "Ned"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Shut up! Keep 'em spread! Just make love to that wall, pervert!",
+      "quote": "So d'you think they got shrunk down, or is it just a giant sack?",
       "characters": [
         "Elaine",
-        "George",
         "Jerry",
-        "Kramer"
+        "Helen",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, the way you were wolfing down that popcorn, maybe you ate it.",
+      "quote": "Well, tootle loo. And nice seeing you again Margaret, goodbye Jerry. Have fun. Hehe",
+      "characters": [
+        "George",
+        "Newman",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I mean, it was something we did. Probably about, what? Twenty-five times?",
       "characters": [
         "Jerry",
-        "Noreen",
-        "Kramer",
-        "Elaine"
+        "George",
+        "Jimmy",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Who wants to responsible? When ever anything goes wrong, the first thing they ask is: who's responsible for this?",
+      "quote": "Mr. Pitt, why would you want to hold onto the ropes on the Woody Woodpecker balloon?",
       "characters": [
-        "Morty",
+        "Carol",
         "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Your whole business is based on other drivers. It's a rented car. That's who's driving it, other drivers. Doesn't my credit card cover me or something?",
+      "quote": "I just got here, Ma! I'd like to spend a little time with you.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it's not up my alley! It's one thing if I make it up. I know what I'm doin, I know my alleys! You got me in the Galapagos Islands livin' with the turtles, I don't know where the hell I am.",
+      "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Frank, now listen to me. Two hundred Jewish singles need you. This is your chance to make it all right again.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hey, and by the way, uh, that walkman was broke when you gave it to me.",
       "characters": [
         "Jerry",
-        "George",
         "Kramer",
-        "Owner"
+        "George",
+        "Maura"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

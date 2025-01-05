@@ -1,106 +1,106 @@
 {
-  "gameNumber": 771,
+  "gameNumber": 772,
   "date": "2027-02-13",
   "questions": [
     {
-      "quote": "Hey Jerry. Look at all the towels they gave me! I really hit the jackpot!  Ha, ha, ha.",
+      "quote": "Okay, thank you. Listen Jake, uh, where did you get those eyeglass frames?",
       "characters": [
-        "Newman",
-        "Steinbrenner",
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Newww tuxedo. For the Pinstripe Ball. Steinbrenner is throwing a huge party at Tavern on the Green, heh!",
+      "characters": [
+        "Kramer",
         "George",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No, that's right, I didn't. I take full responsibility for the card not being here. I, uh, . . .",
+      "quote": "Oh, well a lot of the stars from the 70's - they were not as hygienic as they appeared on TV. You take Mannix for example.",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Kruger",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See those wrinkled jeans slung over the chair? Way in the background, out of focus?",
+      "characters": [
+        "Tia",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Tia"
+    },
+    {
+      "quote": "Still killing me from having to get that bike off the wall.  By myself.",
+      "characters": [
+        "Kramer",
+        "Jerry",
         "Elaine",
-        "George"
+        "Peterman"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Speaking of ex's, my old boyfriend came over late last night, and, yada yada yada, anyway. I'm really tired today.",
+      "quote": "I close down today and when I open again it'll be all Pakistani restaurant. Thank you, thank you so much, you're very special person, very special.",
       "characters": [
-        "Woman",
-        "Doctor",
-        "Marcy",
-        "Jerry"
-      ],
-      "correctAnswer": "Marcy"
-    },
-    {
-      "quote": "So someone comes in to buy an old lamp and all of a sudden I'm getting them out of a jam? I could see if I was a pharmacist because a pharmacist knows what's wrong with everybody that comes in.",
-      "characters": [
-        "Kramer",
-        "Michael",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, he'll be looking at us like he's backstage at a puppet show.",
-      "characters": [
-        "Jack",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh! Nuts! Excellent! You know what I love? How there's two nuts named after people. Hazel...and filbert.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Name tags! Name tags! What kind of an idiot thinks anybody would be interested in an idea like that.",
-      "characters": [
+        "Babu",
         "Elaine",
         "Jerry",
-        "Kramer",
         "George"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "I, I think I made my point. I'm sorry if I was a little harsh.",
+      "characters": [
+        "George",
+        "John",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, so you're chewing your apple, you got your enthusiastic hi... Go ahead.",
+      "quote": "Because, I was worried that there might be a situation in which one of us come home with somebody, it could get a little uncomfortable. But, as long as you're okay with it, it's fine with me.",
       "characters": [
+        "Kramer",
+        "Jerry",
         "Elaine",
-        "Diane",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The first upper-body support undergarment, specifically designed for men.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know that, uh, Leslie  is in the clothing business? She's a designer.",
+      "characters": [
+        "Kramer",
+        "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She thinks I'm a nice guy. Women always think I'm nice, but women don't nice.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Milos"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "A bomb in the building, oh, m'god. Quick, everyone under the desk.",
-      "characters": [
-        "Elaine",
-        "Steinbrenner",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Steinbrenner"
+      "correctAnswer": "Kramer"
     }
   ]
 }

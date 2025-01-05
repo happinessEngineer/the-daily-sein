@@ -1,106 +1,106 @@
 {
-  "gameNumber": 159,
+  "gameNumber": 160,
   "date": "2025-06-11",
   "questions": [
     {
-      "quote": "Oh, she's got the hue. So, what's going on with you and Melanie? I mean, I know you're not getting married, but uh, things are happening?",
+      "quote": "Her roommate. I've driven women to lesbianism before but never to a mental institution.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Rick",
+        "Kramer",
+        "Woman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "They're always walkin' around the city. Why not just strap something to them?!",
+      "quote": "Aw, Mr Mandelbaum, I just wanted to come by and tell you how sorry I was that you hurt yourself.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "Clerk"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Come on, you've got the gift. You're the only one that can help me.",
-      "characters": [
-        "Jerry",
+        "Clare",
         "George",
-        "Roy",
-        "Morty"
+        "Wyck"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hehee. W..we could be like the Gatsbys. Didn't they always like, you know, a bunch of people around, and they were all best friends?",
+      "quote": "Unfortunately, I didn't have a partner. I got gonorrhea from a tractor.",
       "characters": [
-        "George",
         "Jerry",
         "Kramer",
-        "Elaine"
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "No sports jacket? I don't need a sports jacket? Writers wear sports jackets.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "John"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Kramer, get the hell off of there. You're not trained to operate this equipment!",
+      "quote": "Oh, yeah. Like last summer. I'm watchin' TV and I saw one of those jet-skis. $4000 later and it's sitting in my garage.",
       "characters": [
-        "Captain",
         "George",
-        "Jake",
-        "Elaine"
-      ],
-      "correctAnswer": "Captain"
-    },
-    {
-      "quote": "Well, h ha ha- if you're happy with her, that's all that matters.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Newman",
-        "George"
+        "Melissa",
+        "Kevin"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kevin"
     },
     {
-      "quote": "The pilot's back on. In fact, Elaine's going out with him tomorrow night.  Listen, Elaine, you know if Russell mentions anything about the pilot, you'll of course tell him how much you liked it...?",
+      "quote": "And so, uh I felt very uncomfortable with him and you know I just blurted out something about your party.",
       "characters": [
-        "Farkus",
-        "Kramer",
         "George",
+        "Marla",
+        "Aaron",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Sorry. But love is spice with many tastes. A dizzying array of textures...and moments.",
+      "quote": "Yes, yes - before they went off the market. I mean, now I've got to re-evaluate my whole screening process. I can't afford to waste any of 'em.",
       "characters": [
-        "Newman",
-        "Kramer",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Are you saying that I could be dating this hair? I mean wi..with you under it?",
-      "characters": [
         "Jerry",
-        "Kramer",
-        "Willie",
-        "Elaine"
+        "Audrey",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, no. No no no no no. I'd have to advise against that. What, do you know this woman a month? Let's see, you're going to be with her seventy-two hours. That's a dating decathlon.",
+      "quote": "Look at you, you're still thinking about it. I'll never feel comfortable.",
       "characters": [
-        "Kramer",
+        "Peterman",
         "Jerry",
-        "Leo",
-        "George"
+        "George",
+        "Lloyd"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, I know I call you too much, right? I mean, I know you're a very busy guy.",
+      "characters": [
+        "Marla",
+        "Raymond",
+        "Doctor",
+        "Joel"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "That looked like milk to me! Jerry my Rods and Cones are all screwed up! Alright, that's it.  I gotta move in with you Jerry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Guy"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

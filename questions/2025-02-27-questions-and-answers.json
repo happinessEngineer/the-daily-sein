@@ -1,104 +1,104 @@
 {
-  "gameNumber": 55,
+  "gameNumber": 56,
   "date": "2025-02-27",
   "questions": [
     {
-      "quote": "Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi.",
+      "quote": "Alright. Okay. Well, uhm, wait here and I'll uh, I'll bring it around.",
       "characters": [
+        "Tony",
+        "Rabbi",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "All I have to do is stick my head out the window.  Which one's suppose to be the funny guy?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Steinbrenner",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "I still don't understand what the problem is having her in the building.",
+      "characters": [
+        "Kramer",
         "George",
         "Elaine",
-        "Kramer",
-        "Fdr"
+        "Man"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, uh, I'll see you boys later.  So uh, what's a guy got to do around here to get a library card?",
+      "quote": "Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us.",
       "characters": [
-        "Kramer",
-        "Morty",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Is she the only girl in the whole world? Why can't you get find your own girl?",
-      "characters": [
-        "Kramer",
-        "Alec",
         "Jerry",
+        "Helen",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "There's no need to deny it, Elaine. I heard every word you said.",
+      "quote": "But in the circus you get to ride around in the train, see the whole planet!",
       "characters": [
-        "Kruger",
+        "Jerry",
         "George",
-        "Kramer",
-        "Peterman"
+        "Elaine",
+        "Morty"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's right down here to the left. I will uh meet you right back here.",
+      "quote": "Well I mean the question isn't even for me it's for a friend.",
       "characters": [
         "Kramer",
-        "George",
-        "Mike",
+        "Lloyd",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I understand, I like good breakfast. Long as you don't wind up trapped in a room with bib overalls and pigtails, been counseled by Dick Gregory.",
+      "quote": "Vvvvup. Right there. I got it. I did this thing on the Ottoman Empire. Like, what was this? A whole empire based on putting your feet up?",
       "characters": [
-        "Elaine",
-        "Leo",
         "Jerry",
-        "George"
+        "Jeannie",
+        "Lippman",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know. I can't believe they're making me take this test.",
+      "quote": "Which market, the, eh, big one, the big market, the big board. Bull market, bear market, you name the market, I'm there.",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, my liver! Why did I drink all those years? Why did I look for love in a bottle?",
+      "quote": "Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Newman",
-        "Mickey"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "You know Ron's Records down on Bleeker? They pay big cash for used records!",
-      "characters": [
-        "Celia",
-        "Jerry",
-        "Newman",
+        "Lippman",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, I am just a T-bone kinda guy. Love that T-bone. In fact, you might as well call me--",
+      "quote": "Not everybody knows what the crop circles are.  Do you know what the crop circles are?",
       "characters": [
-        "Kramer",
         "George",
-        "Keith",
-        "Elaine"
+        "Jerry",
+        "Elaine",
+        "James"
       ],
       "correctAnswer": "George"
     }

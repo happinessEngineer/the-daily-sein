@@ -1,104 +1,104 @@
 {
-  "gameNumber": 772,
+  "gameNumber": 773,
   "date": "2027-02-14",
   "questions": [
     {
-      "quote": "Y'know you try to do some good. You want to be a good person but this is too much to ask.",
+      "quote": "What about you? You were even engaged, and you cut it off just like that.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "Cynthia"
+        "Joel",
+        "Ken",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Come on, come on kitty... ooh...how about that; it worked! Wow, can I borrow that thing for a while?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "We didn't bet on if you wanted to. We bet on if it would be done.",
-      "characters": [
-        "Celia",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're not out there! You can't be, because *I* am out there. And if I see *you* out there, there's not enough voltage in this world to electroshock me back into coherence!",
-      "characters": [
-        "Kramer",
-        "Julianna",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Not the Croat, the lineswoman. That is the most beautiful lineswoman I've ever seen.",
-      "characters": [
-        "Jerry",
-        "Gavin",
-        "Jake",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He's with the touring company of Joseph and the Amazing Technicolor Dreamcoat. He's the guy in charge of the wigs.",
+      "quote": "You heard her. She coveted them. I bet she took them just to spite me. She's probably having a good laugh about it right now.",
       "characters": [
         "Holly",
-        "Kramer",
+        "Elaine",
         "Jerry",
-        "George"
+        "Morty"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Listen. I want you guys to send along those agreements the minute you land. Our boys can't wait to kick your butts!",
+      "characters": [
+        "Stu",
+        "Jerry",
+        "George",
+        "Peterman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, you should care. Cantaloupe like this should be taken out of circulation.",
+      "quote": "Oh, me too. I'll meet you down.  Oh, don't go in, Rachel's getting undressed.",
       "characters": [
-        "Audrey",
+        "Elaine",
+        "Kramer",
+        "Sophie",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!",
+      "characters": [
+        "Elaine",
+        "Kramer",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw right. I know I've been shooting off at the mouth lately; First with that girl whose life you destroyed and.. emm...about George dating a lady Jerry",
+      "characters": [
         "Jerry",
+        "Jack",
+        "Morty",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well No! No, don't go out there, Kramer, they'll hurt you, they'll destroy you. You'll never make it in this town, you're too sensitive like me,",
+      "quote": "We're gonna sell this as a top. Here's the angle: Zelda Fitzgerald, aaaand, somebody in the 20s, wearing this at wild parties, driving all the men crazy … Have it on my desk by the end of the week.",
       "characters": [
-        "George",
+        "Peterman",
         "Elaine",
-        "Jerry",
-        "Helena"
-      ],
-      "correctAnswer": "Helena"
-    },
-    {
-      "quote": "No, that's a fair question. It is, uhm...  Jerry, yeah.  Jerry's a friend of mine.  He uh, he gave it to me. Unbelievable how many addresses of people this guy has.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
+        "Gary",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Alright, you almost ready? Cause Jerry and Kramer are gonna be here any second.",
+      "quote": "A turkey sandwich. A side of slaw, … you want whit e meat or dark?",
       "characters": [
         "Kramer",
-        "Cop",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "To Hawaii. The most sought-after postal route of them all. The air is so dewy-sweet you don't even have to like the stamps.. But it's not to be - So, I'm hanging it up.",
+      "characters": [
+        "Newman",
+        "George",
         "Jerry",
-        "Elaine"
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Remember I was telling you about Gillian, my friend who writes for the L.L. Bean catalogue? I really think you should give her a call.",
+      "characters": [
+        "Susan",
+        "Frank",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Elaine"
     }

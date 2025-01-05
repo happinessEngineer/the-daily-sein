@@ -1,104 +1,104 @@
 {
-  "gameNumber": 148,
+  "gameNumber": 149,
   "date": "2025-05-31",
   "questions": [
     {
-      "quote": "Oh, I'm gonna give you a Royal bearing. Wait a minute, wait a minute. Lemme get a pack of gum here.",
+      "quote": "Oh yeah, we don't want some jerk sitting in front of us, it'll be like, 'Hey, big head, can you move out of the way? I didn't pay a cover charge to stare at your bald spot.'",
       "characters": [
-        "George",
-        "Elaine",
+        "Toby",
         "Jerry",
+        "George",
         "Kramer"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "It was kinda fun.  You know, maybe his name really is J-O-H-N, but he changed it to J-O-N for show business. Well, you know, J-O-N is a lot zippier.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey. Oh, Jerry, listen uh, you know, I saw the rest of that movie, The Other Side Of Darkness? The coma lady wakes up at the end.",
+      "quote": "Well, once you were dead, we couldn't just sit on our hands.  We had to make a move...",
       "characters": [
-        "Jerry",
-        "Joel",
-        "George",
-        "Kramer"
+        "Steinbrenner",
+        "Peterman",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "Yeah, that's what you did...I can't believe I got another session with Izzy Mandelbaum, he's probably makes me box a kangaroo.",
+      "quote": "Oh you wanna switch? I'm sleeping on a love seat. I've got my feet up in the air like I'm in a space capsule.",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Joyce",
+        "Morgan",
         "Jerry",
-        "Jake"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I think that ginger ale at the coffee shop is just Coke and Sprite mixed together. How can I prove it? Ah! Can't, dammit.",
-      "characters": [
-        "George",
-        "Carol",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Drink your soda! Come on! I know you're there, laughing at me. Laughing and lying and laughing! I had to go to Reggies, Jerry! Reggies!",
-      "characters": [
-        "Nina",
-        "George",
-        "Abby",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's not contest. The guy had nothing! The ship went down, he got into a life boat, I mean, come on.",
-      "characters": [
-        "George",
-        "Marla",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You raise the hand, lower the head-- \"I'm sorry, I'm sorry. The buttons are really big on the car. I don't understand it. I haven't read the manual. Ooh!\" You get my drift.",
-      "characters": [
-        "Rachel",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So everyone will know everybody's name. See, people are gonna be a lot friendlier.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, but you gotta order it two days in advance.  You know, I'm gonna call him, I'm gonna order the duck for you.",
-      "characters": [
-        "Waitress",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh yeah. It's a warm and wonderful feeling, Jerry. So what are you doing later?",
+      "quote": "Have you noticed, people don't use straws as much as they used to for some reason.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Mickey",
+        "Kimbrough",
+        "Kruger",
         "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I started to tell her and then all of the sudden, for some reason, I just burst into tears.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, George told me that you left the drink next to Dick's on purpose.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at the big baby!  Hehaha.  Hey, big baby, are you wetting yourself? Maybe it is time for you to be changed.  Hahah.",
+      "characters": [
+        "Ping",
+        "Elaine",
+        "Dana",
+        "Milos"
+      ],
+      "correctAnswer": "Milos"
+    },
+    {
+      "quote": "Or maybe he liked your gift so much, he decided to get me the same thing.  Perhaps it's an homage.",
+      "characters": [
+        "Jerry",
+        "Lanette",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll tell ya where I got it. I got it from the guy you so callously refer to as the Soup Nazi.",
+      "characters": [
+        "Kramer",
+        "Darryl",
+        "George",
+        "Donna"
       ],
       "correctAnswer": "Kramer"
     }

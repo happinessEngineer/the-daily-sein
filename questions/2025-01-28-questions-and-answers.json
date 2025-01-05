@@ -1,106 +1,106 @@
 {
-  "gameNumber": 25,
+  "gameNumber": 26,
   "date": "2025-01-28",
   "questions": [
     {
-      "quote": "Where are you up to, with such a nice present, birthday party?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Woman"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Come on, I'm tellin' you, it's great. I opened up all the windows... the air is cold, the tub is boiling hot... It's like Sweden, man. Sweeeeden!",
+      "quote": "Remember the guy who pretended he had cancer so O would buy him the toupee?",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I hope you think about what you've done here today. And if you want to call and apologize, you know where to reach me.",
-      "characters": [
-        "Jerry",
-        "Joel",
         "George",
-        "Ray"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "I told you not to say anything. You can't go in there, brazenly flaunt the rules and then think I'm gonna share with you!",
-      "characters": [
-        "George",
-        "Susan",
-        "Jerry",
+        "Sara",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "And she didn't say something to you about a certain something?",
+      "quote": "That's cute. That's really cute. Oh! Come on! All right. Bye again.",
       "characters": [
-        "George",
         "Kramer",
-        "Frank",
+        "Elaine",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, but get this, the message said 'call me if you have the time'. Heh heh if I have the time, you get it?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Voice",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I *love* the Drake! I'm looking forward to meeting the Drakette!",
+      "quote": "Would you please just get on with the stupid Bob Saccamano story?!",
       "characters": [
-        "Kramer",
+        "Elaine",
+        "Jack",
         "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why, because you picked out the poision envelopes? That's silly.",
+      "characters": [
         "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's a hell of an organization they're running up there.  I can't understand why they haven't won a pennant in 15 years.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OooH!!! You. you ate these? You sucked on these and put them on the plate?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and you're not going to, because I'm hanging it up. Boys, I'm retiring.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, understudies are a very shifty bunch. The substitute teachers of the theater world.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It was your family that pushed you into banking , it was their dream for you...",
+      "quote": "Hey, hey, hey. I'm getting a vibe here. What, are you unhappy with our arrangement?",
       "characters": [
-        "Jerry",
-        "Newman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Listen. I need you to do me a favor. When's the next time you're gonna see him?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Owner",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, let me ask you a question. How do you cross those wires?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That woman is such an idiot! I was gonna do this whole bit on that bottle - and now I got nothing to talk about.",
-      "characters": [
+        "Steinbrenner",
         "George",
-        "Elaine",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

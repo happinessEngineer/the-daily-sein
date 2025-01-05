@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1020,
+  "gameNumber": 1021,
   "date": "2027-10-20",
   "questions": [
     {
-      "quote": "I didn't know there was a fireplace. A fireplace, that's incredible.",
+      "quote": "All right, shut up the both of you! You're making me nervous. Where is he already? He should've been out of work by now.",
       "characters": [
-        "Attendant",
-        "Frank",
+        "Kramer",
         "George",
-        "Kramer"
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, yeah, thanks.  Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh?  Yo! Where did this come from?",
+      "quote": "That strange Portuguese guy that lives next-door to the incinerator?",
       "characters": [
-        "George",
-        "Donna",
+        "Kramer",
         "Jerry",
-        "Kramer"
+        "Tony",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what am I in this for? You know, I'm getting to a point in my life where I need something more than just.. a good time.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Ping"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yes, hi. Okay, fine, yeah, hold on just a second. Lemme just...  Yeah, I've got it...  Oh! Oh! Yeah, yeah, he'll be there.  Mr. Pitt, you have GOT to stop staring at that poster!",
+      "quote": "Jake, Jake. Take a look.  Aaw, see, you're not the only one who has 'em. I have them too.",
       "characters": [
+        "Kramer",
         "Jerry",
         "Elaine",
-        "George",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey believe me, baldness will catch on. When the aliens come, who do you think they're gonna relate to? Who do you think is going to be the first ones getting a tour of the ship?",
+      "quote": "It was a great sounding laugh too, kind of lilting and feminine--none of those big coarse \"ha's.\" You know those?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Babu"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that woman had it coming to her. Look at my neck, it looks like I had a beard of bees!",
       "characters": [
         "Jerry",
         "Kramer",
-        "George",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now don't tell me to calm down... Get your hands off of me! Why you little...",
+      "characters": [
+        "Sid",
+        "Donald",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Sid"
     },
     {
-      "quote": "I don't believe this. I am not looking up if you're going to do that voice.",
+      "quote": "Yeah. You know what I think? I think you made that whole thing up.",
       "characters": [
-        "Clare",
+        "Driver",
         "Jerry",
-        "Kramer",
-        "Jane"
+        "Frank",
+        "Detective"
       ],
-      "correctAnswer": "Clare"
+      "correctAnswer": "Driver"
     },
     {
-      "quote": "Expecting Newman? That's funny because I just happened upon him down at the Kenny Roger's Roasters.",
-      "characters": [
-        "Kurt",
-        "Jerry",
-        "Leo",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay listen up people. There are plenty of you here, but we've only got two spots to fill. Good luck.",
-      "characters": [
-        "Kramer",
-        "Poppie",
-        "Man",
-        "Jerry"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "So you could call a woman for a date, ask her if she's free for Dinner and a flamenco?",
-      "characters": [
-        "Elaine",
-        "Lanette",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, it's coughing, Jerry. It expells the diseased germs out of the body, into the air.",
-      "characters": [
-        "Betsy",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Did you ever ask an ex-girlfriend to move into your building?",
+      "quote": "Aw! Aw! Oh my back! Oh my back! It's that bar. Who the hell could sleep on that thing?",
       "characters": [
         "George",
-        "Sally",
-        "Woman",
-        "Jerry"
+        "Newman",
+        "Frank",
+        "Morty"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "The problem is I never got my Visa renewal form in the mail. I was expecting it.",
+      "characters": [
+        "Babu",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Babu"
     }
   ]
 }

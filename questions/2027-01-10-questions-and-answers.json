@@ -1,106 +1,106 @@
 {
-  "gameNumber": 737,
+  "gameNumber": 738,
   "date": "2027-01-10",
   "questions": [
     {
-      "quote": "This is insane. You know, I don't even know where she's staying! She, she's not gonna call me, this is unbelievable.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't think I want to meet the people that are in the market for a used van.",
+      "quote": "Oh, it's a beauty! It's got these high-volume aqua-sage jets oscillating and pulsating, soothing your every aching muscle. The water's gonna get over 120 degrees!",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, you missed it, buddy - lot of femininas - some major femininas",
-      "characters": [
-        "Waitress",
-        "Frank",
-        "Maestro",
+        "Woman",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "We're with the FBI. You wanna tell us about your cable hook-up?",
+      "quote": "The man in the cape--I bet you he is mixed up in this! I don't trust men in capes.",
       "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Man"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "Alright, alright, I'll call Heather, you'll get your hat back, I will get a second date. Ha ha ha. Now watch the magic.",
-      "characters": [
-        "Elaine",
+        "Hoyt",
+        "Phil",
         "Kramer",
-        "Salesman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well,  I gotta meet Newman at the pet store. Helping him pick out a turtle.",
+      "quote": "But of course you know I would. I would do anything for you. Anything.",
       "characters": [
-        "Julie",
-        "Ricky",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I had to cancel it. For some reason my wife got it into her head that it was more than just a massage.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Morgan",
-        "Kramer"
-      ],
-      "correctAnswer": "Morgan"
-    },
-    {
-      "quote": "I guess that's a risk you run when you dabble in the flesh trade.",
-      "characters": [
-        "Jerry",
-        "Frank",
+        "Eva",
         "George",
-        "Newman"
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "Well, it doesn't even have to be the general manager. Maybe I could be like, an announcer. Like a color man. You know how I always make those interesting comments during the game.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Haarwood"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He wants to install Kramer in a puppet regime and then wield power from behind the scenes. Preferably from the sauna in the clubhouse.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jack",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ugh, does it have to be Hop Sing's. I kind of had a fight with him.",
+      "quote": "Oh.  Oh, I see.  Interesting.  Well, that's quite a project. Alright, thank you.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
+        "George",
+        "Tim",
+        "Clerk",
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Clerk"
     },
     {
-      "quote": "Anatoly!  Look, it's gonna take a few minutes.. Then, you and the gals can take a load off and watch something on Lifetime.",
+      "quote": "Why not.  If she can't find me, she can't break up with me. And, if we're still goin' out, she has to gooo to the ballll.",
       "characters": [
+        "Jerry",
+        "George",
         "Kramer",
-        "Elaine",
-        "Russell",
-        "Jerry"
+        "Debby"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh I suppose it's O.K. for Leonard Burnstein to be called Maestro because he conducted the New York Philharmonic. So he gets to be called Maestro and I don't.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "Russell"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Well I had to cut the gum out and I had a little trouble getting it even. So why don't you get undressed George.",
+      "characters": [
+        "Janet",
+        "Jerry",
+        "Jack",
+        "Morty"
+      ],
+      "correctAnswer": "Janet"
+    },
+    {
+      "quote": "He's a very good friend of mine, he's kind've like an older brother to me...when things don't go right, he kinda takes it personally.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Darren",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

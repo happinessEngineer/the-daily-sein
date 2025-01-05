@@ -1,104 +1,104 @@
 {
-  "gameNumber": 625,
+  "gameNumber": 626,
   "date": "2026-09-20",
   "questions": [
     {
-      "quote": "He talks about it all the time. Every time he takes it out he goes on and on about how it writes upside down, how the astronauts use it.",
+      "quote": "I got a date with Karen. I don't know what I'm gonna do. Nothing happening down there.",
       "characters": [
-        "Kramer",
-        "Helen",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "More like a dope was giving it to her straight. Another cup of coffee with you, she'll wind up in a convent.",
-      "characters": [
-        "Jerry",
-        "Kramer",
+        "George",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"That's all\"?! That's everything! I don't know what all the rest of it is for anyway!",
-      "characters": [
-        "Elaine",
-        "George",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "We had an incredible phone conversation. We talked for like twenty minutes. I threw away my notes in the middle of the call. You know, I thought she had a great voice timbre. Is it timbre or tamber?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, I don't see how you can sit there eating that and not even offer me any?",
-      "characters": [
-        "Dan",
-        "George",
-        "Newman",
         "Morty"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Men have been popping into my sexual fantasies. All of a sudden I'll be, in the middle.",
+      "quote": "Uhm...I'd like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",
       "characters": [
-        "Sheila",
-        "Frank",
+        "George",
+        "Elaine",
+        "Poppie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"I want you to have this job, of course the Board of Directors is under indictment and will be serving time.\"",
+      "characters": [
+        "George",
+        "Allison",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They were mailboxes, you idiot. I didn't have the heart to tell you.",
+      "characters": [
+        "Jerry",
+        "Carrie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well there is the possibility that you've gone right out of your mind.",
+      "characters": [
+        "Allison",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Who says you gotta have a story? Remember when we were waiting for, for that table in that Chinese restaurant that time? That could be a TV show.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jack",
+        "Tony"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, in fact she said that you could be one of those people that sits in the back and answers the phone.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because most women when they're asked to sign a pre-nup are so offended they back out of the marriage.",
+      "characters": [
+        "Kramer",
+        "Marla",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, that is my apartment. I earned it with 34 years of misery!",
+      "characters": [
+        "Peterman",
+        "Enzo",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "yeah, well I just hope I run into her again ok, cause I will never forget that flinty voice, it is tattooed in my brain if I hear it, watch out So listen what happened with Jane last night?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'm calling dentists all day here, there's nobody working the day before Thanksgiving.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No. She wouldn't say anything. She just kept shaking her head like this",
+      "quote": "You're pretending to live in a janitor's closet, just to get this flounder?",
       "characters": [
         "Jerry",
-        "George",
-        "Woman",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uhm, listen, I really felt bad about what happened, and I, I, I'd really like to apologise. Can I come up?",
-      "characters": [
-        "Elaine",
-        "Bania",
-        "Jerry",
-        "All"
+        "Winona",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

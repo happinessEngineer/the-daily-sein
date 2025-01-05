@@ -1,106 +1,106 @@
 {
-  "gameNumber": 351,
+  "gameNumber": 352,
   "date": "2025-12-20",
   "questions": [
     {
-      "quote": "Rava was standing right next to me. I never told her where I got the statue.",
+      "quote": "I am. The folks are twelve hundred miles away.  I'm basking in the buffer zone.  'Nother piece of pie here!",
       "characters": [
-        "Ray",
-        "Jerry",
+        "Elaine",
         "Kramer",
-        "Frank"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Ray"
+      "correctAnswer": "George"
     },
     {
-      "quote": "You better give me back that bike!  Look at this! Look! Ow. I couldn't even crawl out of bed this morning.",
+      "quote": "Oh, well, I didn't actually go with Ramon. I just bumped into him there.",
       "characters": [
-        "Frank",
         "Jerry",
+        "Elaine",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, pardon me for trying to set you up with a beautiful, intelligent woman.",
+      "characters": [
         "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm tellin' you Jerry I'm gettin' a vibe. If I didn't know better, I'd say the staff completely lost respect for me.",
+      "characters": [
+        "Betsy",
+        "Estelle",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well because I meet a lot of women in this jacket, you know they're attracted to it. I mean why do you think my mother went out with him?",
+      "quote": "You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.",
       "characters": [
-        "Kramer",
-        "Morty",
+        "Tor",
         "George",
-        "Jerry"
+        "Bonnie",
+        "Bania"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Tor"
     },
     {
-      "quote": "Would you excuse me a minute? I'm gonna go to the bathroom. I'll be right back.",
+      "quote": "Oh my god, Lorraine... that's Lorraine from my uncle's office. I'm in big, big trouble.",
       "characters": [
         "George",
+        "Cop",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uhm, hold, hold on a second.  I'm, I'm sorry, I didn't hear what you said.",
+      "characters": [
         "Kramer",
+        "George",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He thought he could buy back that Cadillac for us? He's not getting away with that.",
+      "quote": "Why shouldn't we be able to do that once in a while if we want to?",
       "characters": [
-        "Estelle",
-        "George",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Hey.  I'm going to tell you what I think. I know you don't care what I think, but I'm going to tell you. I think that you are terrific.",
-      "characters": [
-        "Ray",
-        "George",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So it's more of a relationship problem than the final destination of your soul.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Sex... to save the friendship.  Well, if we have to  we have to.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Tom"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, you remember yesterday? Beautiful day... good day to be... out.",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "George",
+        "Lippman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, thanks a lot, two weeks late. Now that costs me thirty-five dollars to see Havana.",
+      "quote": "I always tell everybody about you. Tell everybody to  GO SEE HIS SHOW!  I mean, I'm your biggest fan!",
+      "characters": [
+        "Joel",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "What the hell were you thinking leaving my clubs in that car?!",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Lou",
-        "Jerry"
+        "Jerry",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

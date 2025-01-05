@@ -1,106 +1,106 @@
 {
-  "gameNumber": 197,
+  "gameNumber": 198,
   "date": "2025-07-19",
   "questions": [
     {
-      "quote": "I wish I could believe you. Hey, Elaine, do you have some free time tomorrow afternoon?",
+      "quote": "Uh, this is Costanza, he's our new bra salesman.  He's supposed to start on monday.",
       "characters": [
-        "Wilhelm",
+        "Farkus",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Ohh, damn. I forgot to buy plant food again.. I'll bet I got a coupon for it.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Strange. For new pants, there's noticable wear on the buttocks of those chinos. Wait those are the clothes from the bag!",
+      "characters": [
+        "Kramer",
         "Jerry",
         "Elaine",
-        "Kramer"
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what this means? I'm starting the book tour. First stop : Regis and Kathy Lee.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I can't. I'm meeting Uncle Leo. I saw him shoplifting at the bookstore.",
+      "quote": "Elaine, breaking up is like knocking over a coke machine. You can't do it in one push, you got to rock it back and forth a few times, and then it goes over.",
       "characters": [
+        "George",
+        "Kramer",
+        "Pitt",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe I'll get goin' then. I just remembered I got an appointment to get my, um, tonsils out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Rita",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Jerry. Number One here. Did you go see Izzy at the back specialist?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's new age music. Sounds of the forest. I find it soothing. Hey, look at this! What do you know? A massage table! This is great!",
+      "characters": [
+        "Melissa",
+        "George",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey ,You think that Shelly's upset that I made such a big deal about the pecan.",
+      "characters": [
+        "Jerry",
         "George",
         "Morty",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, uh, before you go, did you talk to Newman about getting that mail outta there?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "ho ho ho ho. You know I only got two weeks left of unemployment. I got to prove I've been looking for a job to get an extension",
-      "characters": [
-        "George",
-        "Frank",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh no, in and out, I made sure of that. And you'll be happy to know I perused the script and it's met with my approval.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "We gotta catch the early-bird. It's only between four-thirty and six.",
-      "characters": [
-        "Jerry",
-        "Raymond",
-        "Kimbrough",
         "Helen"
       ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Yeah, yeah. But what about money? Are you strapped? Do you need a little?",
-      "characters": [
-        "Morty",
-        "George",
-        "Jerry",
-        "Maestro"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": ". . . naw, it's just you thanked HER, and and oh, . . . what's the difference?",
+      "quote": "I haven't been myself lately. I've been snapping at everybody.",
       "characters": [
-        "George",
         "Jerry",
-        "Sally",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So , you have fleas. Maybe you keep your house in a state of disrepair. Maybe you live in squalor.",
-      "characters": [
-        "Newman",
-        "George",
-        "Donald",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Ya know it was somebody told me they thought they saw that thing come out of a limousine.",
-      "characters": [
         "Kramer",
-        "Corinne",
-        "Jerry",
-        "Elaine"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Corinne"
+      "correctAnswer": "Jerry"
     }
   ]
 }

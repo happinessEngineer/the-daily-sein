@@ -1,106 +1,106 @@
 {
-  "gameNumber": 57,
+  "gameNumber": 58,
   "date": "2025-03-01",
   "questions": [
     {
-      "quote": "That old one? Didn't I once miss a flight to Cleveland because of that alarm clock?",
+      "quote": "Okay. But if I'm going to do this, we play by my rules or we don't play at all.",
       "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "George"
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well there's really no point in me staying. I mean you just gonna be...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know what? I could probably do this. What's the difference.",
+      "quote": "No no no, don't interrupt the cycle. The machine is working, it, it knows what it's doing. Just let it finish.",
       "characters": [
         "Jerry",
-        "Elaine",
         "Kramer",
-        "George"
+        "George",
+        "Joyce"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, don't listen to him. I mean, we can't afford a detour. Our budget won't hold it.",
+      "quote": "Oh, this baby loves the slob, loves it, eats it up. Eats the slob. Born in the slob. His father was a mudda'.",
       "characters": [
-        "Newman",
-        "Mickey",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Between you and me I think your country is placing a lot of importance on shoe removal.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Yeah. I picked up this shirt here yesterday. It's completely shrunk. There's absolutely no way I can wear it.",
-      "characters": [
-        "Elaine",
+        "Michael",
         "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Because if you think she's too good for George, you are dead wrong. Dead wrong. Who is she?",
+      "quote": "Uhuh, um you didn't feel uncomfortable spending the whole day at the museum with two complete strangers who were more than twice your age?",
       "characters": [
-        "Jerry",
+        "Monica",
         "Morty",
         "Elaine",
-        "Kramer"
+        "Rula"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, I've considered that.  Look, how do I get in touch with this guy?",
+      "quote": "This stuff doesn't matter to me. See, I'm gonna do the character like me, not like you.",
       "characters": [
-        "Elaine",
+        "Milos",
         "Jerry",
         "Kramer",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "I don't know!  But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, do you think this is funny? ``Why do they call it athlete's foot? You don't have to be an athlete to get it. I mean, my father gets it all the time, and believe me, he's no athlete!''",
+      "quote": "Oh...it's daylight. It won't take you that long. Just make a clean break.",
       "characters": [
-        "Buckles",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Buckles"
-    },
-    {
-      "quote": "Are you even vaguely familiar with the concept of giving?  There's no grace period.",
-      "characters": [
-        "Amy",
         "Jerry",
         "Elaine",
-        "Frank"
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't have a deal! They're two hundred dollars a pop. What do I do?",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Bob",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I've got a tape of 'Fantastic voyage' if you think that would help.",
+      "quote": "I wouldn't want to get lost in here. It smells like a toilet. People are such animals.",
       "characters": [
-        "Kramer",
-        "George",
         "Elaine",
+        "Amy",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Amy"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 913,
+  "gameNumber": 914,
   "date": "2027-07-05",
   "questions": [
     {
-      "quote": "Two hours in front of the entire junior high, grades six through eight. That's six grade, seventh grade--",
+      "quote": "I cannot believe I'm doing this. I never meet people like this. You're not a nut, are you?",
       "characters": [
-        "Katie",
-        "George",
+        "Lippman",
         "Jerry",
-        "Karen"
-      ],
-      "correctAnswer": "Katie"
-    },
-    {
-      "quote": "Orchestra, Row G, dead center, primo! You'll think you died and went to heaven.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I believe that I am about to become the target of a systematic process of intimidation and manipulation, the likes of which you have never -",
-      "characters": [
-        "Emily",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, you really think that Pam would want you to be the father of her children?",
-      "characters": [
-        "Elaine",
-        "Dan",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I slept in really hot rooms and I wanted to kill myself.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, Elaine here was picking up my mail while I was away, because you know that little box can get very full.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "George",
-        "Loretta"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, not anymore. He traded it to me for some Hollywood memorabilia.",
-      "characters": [
-        "Kate",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "How do you make a decision which one to wear? I'd go crazy if I have to decide which sneakers to wear every day.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Michael",
-        "Kramer"
-      ],
-      "correctAnswer": "Michael"
-    },
-    {
-      "quote": "So you were talking,  you're having pleasant conversation,  then all of sudden...",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, he doesn't handle my money, he handles Jerry's money. He just does my taxes.",
-      "characters": [
-        "Susan",
-        "Newman",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't you drag me into this! This is between you and her, and her.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "All right, Honey, one last look, then you have to let Fredo rest in peace.",
+      "characters": [
+        "Phil",
+        "George",
+        "Woman",
+        "Lloyd"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "WHAT ARE YOU LOOKIN' AT? NEVER SEEN A KID IN A BUBBLE BEFORE?",
+      "characters": [
+        "Joel",
+        "Donald",
+        "Jerry",
+        "Alec"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "Alright, listen to this. Remember that guy I was telling you about at the health club?",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. It's piquing hot. It's fresh out of the dryer. Hey Elaine you have to feel my pants.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, your spirit, your, uh, being. The part of you that says, \"Yes, I can!\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey who's your barber, eh? You tell the joke, I cut the hair.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Enzo",
+        "Elaine"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Well, I don't wanna get into the whole physics of carbonation with you here, but you know the sound a can makes when you open it?",
+      "characters": [
+        "Jerry",
+        "Gail",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He is? Listen. When he's finished, send him over to my house.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
     }
   ]
 }

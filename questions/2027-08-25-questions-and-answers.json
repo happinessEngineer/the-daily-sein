@@ -1,106 +1,106 @@
 {
-  "gameNumber": 964,
+  "gameNumber": 965,
   "date": "2027-08-25",
   "questions": [
     {
-      "quote": "Well, you've only got another fifty years or so to go before it'll *all* be over...",
+      "quote": "Jerry, you have tendencies. They're always annoying, but they were just tendencies. But now, if you can't kiss this girl, I'm afraid we're talking disorder.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Tim",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "... Anyway I know you told him you didn't have the hat because you didn't want to see him again. And, more sympathetic I could not be. But, I really do need to have the hat back.",
+      "characters": [
+        "George",
+        "Lippman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "By the way. You know that model that is always in here. She's missing one of her lingerie shots. Have you seen it?",
+      "characters": [
+        "Hoyt",
+        "Morty",
+        "Jerry",
+        "Sheila"
+      ],
+      "correctAnswer": "Sheila"
+    },
+    {
+      "quote": "Hey, I don't care. I'm just telling you to  get rid of that stock, now!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"…well of course I noticed it too with those cannibal breasts and pouty lips. I don't have to tell you she was a knock out….\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So ya know, my friend and I we were going to the movies and we stopped off and bought this cafe latte.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm tucking! Hello? Hello? They hung up on me. They don't know where Kramer is anyway.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, she fell, and then she started screaming, \"My back! My back!\" So, I picked her up and took her to the hospital.",
+      "quote": "You know, that's around the same time I broke up with Lloyd. Y... you don't think that I had anything to do with his breakdown, do you?",
       "characters": [
-        "Driver",
-        "Jerry",
         "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's uh, not bad, it's comin' along. Why? Did you need something.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "George, anything you have to say to her, you can say in front of me.",
+      "quote": "He believes it possesses some extraordinary power over women.",
       "characters": [
-        "Jerry",
+        "Elaine",
         "George",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "oh I completely forgot I want you to see this. The CALVIN KLEIN ad I was telling you about came out today.",
-      "characters": [
-        "Tia",
-        "Puddy",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Tia"
-    },
-    {
-      "quote": "Elaine and her sponges...she's got like, a war chest full of them.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'll fake an illness.  My back! My back! I can't believe, my back.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh, it was okay,. He's coming over later to watch a movie. Hey listen, what's better for your back? Couch cushions or a folding chair?",
-      "characters": [
-        "Jerry",
-        "Wilhelm",
-        "Leo",
-        "Elaine"
+        "Izzy"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No. No. Don't be silly, John, you were very good. You just don't have to try so hard. Good luck, honey.",
-      "characters": [
-        "Jerry",
-        "Estelle",
-        "Steinbrenner",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I've always been lucky. Things just seem to fall right in my lap.",
-      "characters": [
-        "Levitan",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Levitan"
-    },
-    {
-      "quote": "I gotta try and find a way to switch places with him.  It's like a Sigfried and Roy trick.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Tim",
-        "George"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

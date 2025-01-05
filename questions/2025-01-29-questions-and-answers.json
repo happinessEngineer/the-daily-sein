@@ -1,106 +1,106 @@
 {
-  "gameNumber": 26,
+  "gameNumber": 27,
   "date": "2025-01-29",
   "questions": [
     {
-      "quote": "Jerry, are you blind? He's a writer. He said his name was Sal Bass. Bass, Jerry! Instead of salmon, he went with bass! He just substituted one fish for another!",
+      "quote": "Nobody carries wallets anymore. I mean, they went out with powdered wigs. Yeah, see here's what you need. Just a couple of cards and your bankroll. See, keep the big bills on the outside.",
       "characters": [
         "Kramer",
         "George",
-        "Jerry",
-        "Frank"
+        "Elaine",
+        "Bob"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You see, they had to move the cars so the truck could get through, right? But these guys don't trust each other so they got these two nonpartisan drivers to move them.",
+      "quote": "\"Master of the House/Quick to catch your eye/Never wants a passerby to pass him by...\"",
       "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why didn't you ask me? I know a million theater jokes. 'What's the deal with those guys down in the pit?'",
+      "characters": [
+        "Maryedith",
+        "Wilhelm",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Elaine.  I'm telling you Jerry, having a secretary is incredible.  I don't know why I didn't have one before.",
+      "characters": [
+        "George",
         "Elaine",
         "Jerry",
-        "Christie",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "HE's not gonna eat them. He's buying 'em for his Pepsi girlfriend.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "If only she could get fired. Is there any way that could happen? I mean I know how to get myself fired.",
-      "characters": [
-        "Helen",
-        "Carl",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'll tell ya, I think birth control should be discussed in an open forum.",
+      "quote": "Jack is emceeing tomorrow. He's in charge of the whole thing.",
       "characters": [
         "Kramer",
+        "Wilhelm",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I mean, is he allowed to do this? It's discrimination! I'm gonna call the states' attorney office. I really am.",
+      "characters": [
+        "Leo",
+        "Leslie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, yeah, alright, that sounds good, but I still get a tote bag though, right?",
+      "characters": [
+        "Babs",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I want to know what kind of an office this is where you can't leave your pants in the room. You tell me.",
+      "characters": [
+        "Elaine",
         "Morty",
         "George",
-        "Jerry"
+        "Jackie"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Look, I gotta tell ya...I been thinkin' about it, I just don't feel right about letting you into Elaine's apartment.",
+      "quote": "I usually spend Saturday afternoons with Susan. She's gonna want to know what I'm doing. I can't use Jerry, he's in Florida.",
       "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Beth"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, I can't believe it. Let me see that.  That's four and a half points in three days! That's almost half my money!",
-      "characters": [
-        "Morgan",
-        "Jerry",
-        "Elaine",
-        "Jeannie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, they were in from out of town, I thought they would enjoy it.",
-      "characters": [
-        "Newman",
-        "Jackie",
-        "Jerry",
-        "Aaron"
-      ],
-      "correctAnswer": "Aaron"
-    },
-    {
-      "quote": "It says very clearly, 'for your protection, do not give your secret code to anyone.'",
-      "characters": [
-        "Kramer",
-        "Joe",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, Newman uses his mail truck to run fish for China Panda on the weekends.",
-      "characters": [
-        "Kramer",
-        "Estelle",
+        "Maestro",
+        "Wyck",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     }
   ]
 }

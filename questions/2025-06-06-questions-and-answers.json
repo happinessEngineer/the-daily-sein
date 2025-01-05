@@ -1,106 +1,106 @@
 {
-  "gameNumber": 154,
+  "gameNumber": 155,
   "date": "2025-06-06",
   "questions": [
     {
-      "quote": "Let me ask you a question. This, uh, this turkey sandwich here, is that real turkey, or is it a turkey roll? I don't want that processed turkey.  I hate it.",
-      "characters": [
-        "Joel",
-        "Patrice",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Joel"
-    },
-    {
-      "quote": "Oh, no no. Tuesday's uh no good becasue we've got choir practice.",
+      "quote": "Well, he has to play! He can't just not play. We're playing! Look, I gotta see him, how do I get in touch with him?",
       "characters": [
         "Kramer",
+        "Bania",
         "George",
-        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Course we have a deal. They get out of the way of our cars, we look the other way on the statue defecation.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, and you weren't funny last night either. In fact, you got us both so depressed, she asked me to drive her home after dinner.",
+      "characters": [
+        "George",
+        "Michael",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Mmm. They're putting a little lemon in the tuna. I love that.",
-      "characters": [
-        "George",
-        "Peterman",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "OK, I don't wanna go over there and do it, and then come back here and find out there was some little loophole, like I didn't put mustard on it or something...",
+      "quote": "What about drugs? You doing some of that crack cocaine? You on the pipe?",
       "characters": [
         "Elaine",
         "George",
-        "Babu",
-        "Peggy"
+        "Jerry",
+        "Steinbrenner"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "This food ,it has no taste......nothin' I'm gettin' nothin'... It must be the toxic gas from the fumigation......",
+      "quote": "Yeah. Just take 'em out and ride 'em around for about..half an hour.",
       "characters": [
-        "Detective",
         "George",
-        "Valerie",
+        "Jerry",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh, I don't believe this. I forgot to give it back. It belongs to the Friars Club.",
+      "characters": [
+        "Patrice",
+        "Kramer",
+        "Katya",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's this itch. I was watching TV without my shirt on, and one my couch cushions didn't have any fabric on it.",
+      "characters": [
+        "Pitt",
+        "Jerry",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So what's the deal they don't want to have dinner with my parents?",
+      "quote": "Oh, I just, uh, leased a house out in the Hamptons, and I have got to get out there this weekend and sign the papers.",
       "characters": [
-        "Marla",
-        "George",
         "Elaine",
-        "Steinbrenner"
+        "George",
+        "Detective",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, you know Elaine, sometimes you say things just to be nice.",
+      "quote": "It was very traumatic. The last thing I remember is you flinching. Then, everything went black.",
       "characters": [
-        "Jerry",
-        "Izzy",
-        "George",
-        "Ben"
-      ],
-      "correctAnswer": "Ben"
-    },
-    {
-      "quote": "No, I'm not gonna tell her about your shrinkage. Besides, I think women know about shrinkage.",
-      "characters": [
-        "Elaine",
-        "Helen",
-        "Tim",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen M. Klompus, it was really a nice gesture of you to give me the pen, but I don't really need it.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Elaine",
-        "Babs"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I wonder what toilet paper was loike in the 1860's. Did they carry it in rolls in their duffle bags?",
-      "characters": [
-        "Leo",
         "George",
         "Kramer",
-        "Jerry"
+        "Ned",
+        "Elaine"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "And he's growing it in just for me.  It's mine. It's all mine.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

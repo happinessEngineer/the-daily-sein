@@ -1,106 +1,106 @@
 {
-  "gameNumber": 680,
+  "gameNumber": 681,
   "date": "2026-11-14",
   "questions": [
     {
-      "quote": "After you stopped seeing me, I was devastated. I couldn't eat for weeks.",
-      "characters": [
-        "Steinbrenner",
-        "Roy",
-        "Jerry",
-        "Audrey"
-      ],
-      "correctAnswer": "Roy"
-    },
-    {
-      "quote": "I'd like to follow the regular procedures. I don't want any special treatment.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Years. When we were kids, they made it seem like it was right around the corner.",
+      "quote": "Ah, and I got a date with the sales woman. She's got a little Marisa Tomei thing going on.",
       "characters": [
         "George",
-        "Jake",
-        "Elaine",
-        "Frank"
+        "Vivian",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You don't understand, I haven't been together with Rachel for like three weeks. First I was on the road, then my parents show up, I'm getting a little uh backed up.",
+      "quote": "No, but I can tell she's going to. I can sense it. We had this terrible phone conversation. I was so nervous before I called I made up this whole list of things to talk about.",
       "characters": [
-        "Jeannie",
-        "Elaine",
+        "Morty",
         "Jerry",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So, what are you saying? That I'm a bad maid or some kind of a prostitute?",
+      "quote": "Jerry, we got 'im. I'm riding his tail. There's no escape. He's running scared, buddy.",
       "characters": [
-        "Brett",
+        "Tom",
+        "George",
         "Kramer",
-        "Cindy",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "Cindy"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "So you don't take your coat off, and now everyone at NYU thinks I'm gay. Not that there's anything wrong with that...",
+      "quote": "You mentioned George's name to Mayor Dinkins? You discussed George with the mayor of New York?",
       "characters": [
-        "Steinbrenner",
+        "George",
+        "Woman",
+        "Doctor",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, I didn't really think about what I was gonna do with all..",
+      "characters": [
+        "Newman",
         "Jerry",
-        "Susan",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Plus he probably doesn't even know how to program the buttons.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, they're not here. You'll have to dig up your spare set.",
+      "quote": "These are the people that want to talk to you. They got nothing else to do, why not disturb you?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey the woman got you a job. The least you could do is buy her a gift. How about this?",
       "characters": [
         "George",
+        "Jerry",
+        "Dana",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, dating a convicted felon. I don't know how you missed it.",
+      "characters": [
+        "Izzy",
         "Kramer",
-        "Valerie",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I gotta prep. I need a couple of anecdotes, a few you-were-right-abouts. It's a whole procedure. Wasn't Fragile Frankie the one that used to run into the woods every time he got upset?",
+      "quote": "Oh, man, it's spinach! I've been walking around like this all afternoon.",
       "characters": [
         "George",
-        "Karen",
         "Elaine",
-        "Man"
+        "Kate",
+        "Jerry"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey look ..You walk in to this city you got to expect things are gonna stick to your foot. You open in your car and Bing!! Condom.",
-      "characters": [
-        "Attendant",
-        "Farkus",
-        "Kramer",
-        "Poppie"
-      ],
-      "correctAnswer": "Attendant"
-    },
-    {
-      "quote": "Uuh, I can't believe she did this again. That's it! She's off the speed-dial completely!",
-      "characters": [
-        "Maryedith",
-        "Kramer",
-        "Bonnie",
-        "Valerie"
-      ],
-      "correctAnswer": "Valerie"
     }
   ]
 }

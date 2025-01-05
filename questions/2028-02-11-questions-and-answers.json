@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1134,
+  "gameNumber": 1135,
   "date": "2028-02-11",
   "questions": [
     {
-      "quote": "Of course. Because of that wallet. You-you got a filing cabinet under half of your ass.",
+      "quote": "Yeah, I think I've seen you in a club.  You talk about a lot of everyday things, right?",
       "characters": [
-        "George",
         "Kramer",
-        "Anna",
-        "Jerry"
+        "Elaine",
+        "George",
+        "Ellen"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Ellen"
     },
     {
-      "quote": "You know, you could put a fence around these condos, and call it an insane asylum. Nobody would know the difference!",
+      "quote": "Oh, you don't see. You don't see. Well it happened. Believe me.",
       "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well then what do they make appointments for if they can't keep them. Huh, hha. Look if I did that in my business I wouldn't have made a nickel.",
-      "characters": [
+        "Estelle",
         "Morty",
-        "Jerry",
         "George",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Morty"
     },
     {
-      "quote": "Yeah, well I'm thinking about getting out of town with Susan for a few days....Her parents rebuilt the cabin!",
+      "quote": "Aren't those the guys that always go crazy and come back with a gun and shoot everybody?",
       "characters": [
-        "Peterman",
+        "Patrice",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. I'm getting rid of all, all my furniture. All of it! I'm building... levels... with steps... completely carpeted...  with pillows.  Like Ancient Egypt.",
+      "characters": [
         "Kramer",
+        "Jerry",
+        "George",
+        "Tom"
+      ],
+      "correctAnswer": "Tom"
+    },
+    {
+      "quote": "Well, you know, frankly, outside of a sexual relationship, I don't see the point to it. I'm not thrilled with all the handshaking either, but one step at a time.",
+      "characters": [
+        "Jerry",
+        "George",
         "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I tought I picked up a little something. I'm very good at this. Did you pick up anything?",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see I disagree. I'd rather be dating the blind. You know you could let the house go. You could let yourself go. A good looking blind woman doesn't even know you're not good enough for her.",
+      "characters": [
+        "Tim",
+        "Usher",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, you're looking at the new Santa at Coleman's Department store.",
+      "quote": "Do we have a chance? You get me one coffee drinker on that jury, you gonna walk outta there a rich man.",
       "characters": [
-        "Kramer",
+        "George",
+        "Jackie",
         "Jerry",
-        "Danielle",
-        "Lloyd"
+        "Morty"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You know you're infringing on my right to celebrate new holidays..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I can't take my eyes off that lineswoman. The woman is absolutely mesmerizing.",
+      "quote": "You got hookers turning tricks in my car. How's that for starters.",
       "characters": [
-        "Kramer",
         "George",
-        "Bania",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it's obvious, you know. You're carrying a lot of extra baggage up there.",
-      "characters": [
-        "Kramer",
-        "Russell",
+        "Monica",
         "Jerry",
         "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You don't understand, there's a *blurb* about me in this magazine!",
-      "characters": [
-        "George",
-        "Julie",
-        "Kramer",
-        "Wendy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I'm doing it, Jerry. I'm buying the Frogger machine. Now the torch will burn forever.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Doctor",
-        "Bob"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Puke! That's a funny word. Puke.  Puke! Don't have to think about that.",
-      "characters": [
-        "Elaine",
-        "Stu",
-        "George",
-        "Jerry"
       ],
       "correctAnswer": "George"
     }

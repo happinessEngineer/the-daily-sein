@@ -1,106 +1,106 @@
 {
-  "gameNumber": 811,
+  "gameNumber": 812,
   "date": "2027-03-25",
   "questions": [
     {
-      "quote": "You mean my crime of passion? If anyone betrays me, I never forget!",
+      "quote": "I uh, I uh, I arranged for the appropriate accommodations. And then, Knick tickets, floor seats.",
       "characters": [
-        "George",
-        "Leo",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "There's a hue. She's got great eyebrows, women kill to have her eyebrows.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Rudy",
-        "Brody"
+        "Elaine",
+        "Joyce",
+        "Helen",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Woah, woah, woah! What are you telling me for? You really had me going, there! C'mon, sit down.  What do you want to do when you grow up?",
+      "quote": "Hu humm? i suppose we could go to Lincoln Center and I'd be wearing sneakers and jeans and that would be fine too.",
       "characters": [
-        "George",
-        "Jerry",
-        "Sally",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm not his girlfriend. We dated for a while, but things didn't really work out.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, Kramer. K-R-A-M-E-R. Uh, I don't know, wavy? George, how would you describe Kramer's hair?",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "Kramer",
+        "Elaine",
+        "Jerry",
         "George"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I bet this is from that kick from that crazy Joe Davola. You better see a doctor and get some X-rays.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Woman"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "George, Scott's gonna drop by.  He said he never got his boxes.  I'll get the towels.",
+      "quote": "Yeah.  Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",
       "characters": [
-        "Doorman",
-        "Jerry",
-        "Bonnie",
-        "Kramer"
-      ],
-      "correctAnswer": "Bonnie"
-    },
-    {
-      "quote": "Mr. Peterman, Peggy, I.. guess we, should just get this over with.",
-      "characters": [
-        "Tim",
-        "Kramer",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Boy, I don't know about your friend, Jerry. He says some pretty stupid things sometimes.",
-      "characters": [
-        "Maryedith",
         "Elaine",
         "George",
-        "Worker"
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Maryedith"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know what, I'll just uh, I'll just look around for a little while.  I'll just browse around.",
+      "quote": "Possibly, but then shouldn't the outfit only reappear again at the end of the cycle?",
       "characters": [
-        "George",
-        "Kramer",
+        "Diane",
+        "Kate",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, I'm goin' baby. I'm goin.'  It's Jerry's fault. He took out all my good lines. He's such a control freak!",
+      "characters": [
+        "Elaine",
+        "Craig",
         "Jerry",
-        "Puddy"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, no, no! It was years ago - before you met him. And, and I - I got to tell you.. it was very mechanical.",
+      "quote": "… yeah …ha ha. Well you made a long journey from Milan to Minsk.",
       "characters": [
-        "George",
-        "Cheryl",
-        "Frank",
-        "Elaine"
+        "Kramer",
+        "Bette",
+        "Pop",
+        "Carol"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Bette"
+    },
+    {
+      "quote": "Yeeeaaah.  Well..... I've never really felt confident in uh..... one particular aspect.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh! He swears like he thinks I don't believe him. I believe you. I believe you! Oh, he's so funny!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Jerry, enough. I'll do your friend's cancer screening, because I believe in that, but as far as you and I are concerned; it's off.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Enzo",
+        "Sara"
+      ],
+      "correctAnswer": "Sara"
     }
   ]
 }

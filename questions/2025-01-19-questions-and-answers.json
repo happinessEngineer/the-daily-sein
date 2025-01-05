@@ -1,101 +1,101 @@
 {
-  "gameNumber": 16,
+  "gameNumber": 17,
   "date": "2025-01-19",
   "questions": [
     {
-      "quote": "Well you can't tell someone how you feel about their girlfriend until after they stop seeing them.",
+      "quote": "You're a fine person. You're a humanitarian. She's very sexy.",
       "characters": [
         "George",
-        "Jerry",
+        "Gary",
         "Kramer",
-        "Greg"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well it's just that you got so many things with the milk. You got that Bosco bit then you got your Nestlé's Quik bit, by the time you get to Ovaltine--",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
         "Elaine"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Special occassions? It wasn't special when my family visited?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I think I saw him on land a couple times. So how's the job situation goin'?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, well, Elaine's new boyfriend, you know. He's giving me this oversize chest of drawers. It's a Farbman.",
+      "quote": "He couldn't tell an apple from an union and he's your eye witness?",
       "characters": [
+        "Elaine",
         "George",
-        "Matthew",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.",
+      "quote": "Yeah, she puts ten dollars in every card for my birthday, that's why I save them.",
       "characters": [
-        "Kramer",
-        "Darryl",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Okay, George. Come on, let's go. I'm putting it in a garage. The fight's starting in two minutes.",
-      "characters": [
-        "Voice",
-        "Kramer",
         "George",
+        "Carol",
+        "Jerry",
+        "Sheila"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not gonna give you my card unless you tell me what it's for!",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've learned that the new shipment's coming in by boat... which does tend to take a little longer with, you know ,what with the waves and all .. So you'll just have to be a little bit patient .",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "For putting my picture up on that wall! I'm like Richard Dawson down there now. And every person I see engages me in this long, boring, tedious, conversation. I can't even get out of the building!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look I need you to do me a favor. I need you to get me lunch at Pisano's.",
+      "quote": "You know what your problem is? You just have no respect for the mentor/mentor relationship.",
       "characters": [
+        "Abby",
         "Kramer",
-        "Elaine",
-        "Izzy",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Abby"
     },
     {
-      "quote": "No should I [continuity error: in fact he SHOULD from the basketball game]",
+      "quote": "Didn't go out of the house? Didn't take a walk... on Columbus Avenue?",
       "characters": [
-        "Jerry",
-        "Frank",
-        "Gary",
-        "Keith"
-      ],
-      "correctAnswer": "Keith"
-    },
-    {
-      "quote": "She's at that annual Peterman party tonight. You know the one she danced at last year?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Personally I'm a little nervous about going through these things. I'm afraid I'm gonna step through into another dimension.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Susan",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Imagine how sick a person has to be to do something like that.  And these people are all over the place. You never know who's crazy, I could be one of these people.",
-      "characters": [
-        "Bob",
+        "Keith",
         "Jerry",
         "George",
         "Kramer"

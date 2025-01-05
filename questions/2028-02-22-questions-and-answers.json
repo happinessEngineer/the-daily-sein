@@ -1,51 +1,81 @@
 {
-  "gameNumber": 1145,
+  "gameNumber": 1146,
   "date": "2028-02-22",
   "questions": [
     {
-      "quote": "Yeah. He's pretty upset that I broke up with him to go out with you.",
+      "quote": "Okay listen Leo. Your hairless, your scared. When the doctor comes in let me do the talking. Okay.",
       "characters": [
-        "Danielle",
-        "Jerry",
-        "Tim",
-        "Celia"
+        "Bania",
+        "Haarwood",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Danielle"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hello. No she's not here. Yes I will tell her. No I don't know what time she might be coming back. Look I gotta' go. Goodbye. . . . That, that's a long story.",
+      "quote": "Svetlana says she find it in the laundry room, but I think it is a gift from that postman agitator. Where is he?",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Morty",
-        "Elaine"
+        "George",
+        "Elaine",
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "I don't know what to believe! You're eating unions, you're spotting dimes, I don't know what the hell is going on.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ha, Yeah right, hang on, I'll ah, I'll get her for you. he, he, he, he. Seriously, what's up?",
+      "quote": "Oh good. Anyway, I wanted to talk to you about Dr. Whatley. I have a suspicion that he's converted to Judaism just for the jokes.",
       "characters": [
-        "Elaine",
-        "Lippman",
         "Jerry",
-        "George"
+        "George",
+        "Jimmy",
+        "Gail"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Although what if it's one of those hugs where the shoulders are touching, the hips are eight feet apart?",
+      "quote": "It's morning. Thanks for seeing me through the night. I'll make us a pot of coffee, George. Watch her, won't you?",
       "characters": [
-        "Kramer",
+        "Peterman",
         "Elaine",
-        "Emily",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That's why I should date a giving person. If I date a taking person, everyone's taking, taking, taking, no one's giving - it's bedlam.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Karen",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Elaine, you should get out of there. I sabotaged the bagel machine last night. It's going down.",
+      "quote": "Good.  Oh--and Elaine. You know the Baltimore cap you got in your office? Wear it. I'm gonna have a little fun with him.",
       "characters": [
-        "Ray",
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "Peggy"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "W..W..Wa...Wa..Wait..Wait wait.. Now lets videotape your head for the before picture, so we can watch how it grows and stuff. Sit down .....Lean back...A little bit to the right.",
+      "characters": [
+        "Kurt",
         "Kramer",
         "Jerry",
         "George"
@@ -53,52 +83,22 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, if she was a criminal and you had to describe her to a police sketch artist...",
+      "quote": "Ugh. So now we have to rearrange our lives to avoid the doorman?",
       "characters": [
-        "George",
-        "Kramer",
         "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Drop the case? Well, congratulations, that'll save you some money.",
-      "characters": [
-        "Maestro",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Chiles"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "We're gonna sell this as a top. Here's the angle: Zelda Fitzgerald, aaaand, somebody in the 20s, wearing this at wild parties, driving all the men crazy … Have it on my desk by the end of the week.",
+      "quote": "Hey keep your hands to yourself if you know what's good for you.",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Jerry",
+        "George",
         "Peterman",
-        "Jack"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "I'm very disappointed to here you talk like that. You still don't know what makes me tick.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Tom",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Poppy told me to talk to his cousin, he lives down in Little Italy.",
-      "characters": [
-        "Lena",
-        "Frank",
-        "Jerry",
-        "Evelyn"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

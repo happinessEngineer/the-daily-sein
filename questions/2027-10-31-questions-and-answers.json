@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1031,
+  "gameNumber": 1032,
   "date": "2027-10-31",
   "questions": [
     {
-      "quote": "Believe me, we're not entertained. We were just leaving.  Oh, can you grab those empty bottles for me.",
+      "quote": "Do you ever just get down on your knees and thank god that you know me and have access to my dementia?",
       "characters": [
+        "Frank",
         "Jerry",
-        "Kramer",
         "Elaine",
         "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Which part? The renovating the restaurant you don't own part or spending the two hundred million you don't have part?",
-      "characters": [
-        "Kimbrough",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Tell me your impressions, I would love to hear what a young woman thinks of \"The Big Game\".",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Look, I'll go down and talk to this adoption guy and I'll make sure that it all gets worked out.",
-      "characters": [
-        "Ray",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Aw, hoh, oh Deena, thank God.  Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here.",
-      "characters": [
-        "Jerry",
-        "Vandelay",
-        "George",
-        "Toby"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh boy. There's Sue Ellen. She didn't want me at this wedding, but here I am with a bunch of my idiot friends!",
+      "quote": "How long it takes to find a bra? What's going on in there? You ask me to get a pair of underwear, I'm back in two seconds...you know about the uh cup sizes and all? They have different cups.",
       "characters": [
         "Kramer",
+        "Frank",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No one is touching my feet. Between you and me, Elaine, I think I've got a foot odour problem.",
+      "characters": [
         "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "No, no, now look now, Jerry, Jerry, it's no risk. I swear. The Mets have seventy-five games on cable this year..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Waiter",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Elaine is in the bathroom. She's wise to whole red dot thing. She's asking me all kinds of questions.",
+      "quote": "I don't know. I found them in your closet. Ever since Darren left I haven't been able to find anything. He took all my clothes to some cleaners. I'm clueless.  Is that clock right?",
       "characters": [
-        "Kramer",
+        "Jerry",
+        "Helen",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, have you heard the one about the guy in hell with the coffee and the doughtnuts and--",
+      "characters": [
         "George",
-        "Manager",
+        "Karen",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Maybe we should call one of those escort services.  I saw one of them advertised before on the cable station.",
+      "quote": "Well I want to return this jacket and she asked me why and I said for spite and now she won't take it back.",
       "characters": [
-        "George",
-        "Kruger",
-        "Joe",
-        "Steve"
-      ],
-      "correctAnswer": "Steve"
-    },
-    {
-      "quote": "I can't! He's got a big showcase for record producers at his late show tonight. I don't wanna upset him. Aw, what the hell, I'll upset him.",
-      "characters": [
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Jerry",
         "George"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'",
+      "characters": [
+        "Bania",
+        "Elaine",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Not any more. Come on, get your ball, we're leaving. Let's go, let's go.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Poppie",
+        "Patrice"
+      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, it's funny. I mean, you have a big head. Or is it 'cause of your neck?",
+      "quote": "Well, that's it. I'm going back to Putty. No move is worth this.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
-        "Maestro"
+        "Kramer",
+        "Woman",
+        "Doctor"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

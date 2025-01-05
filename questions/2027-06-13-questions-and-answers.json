@@ -1,106 +1,106 @@
 {
-  "gameNumber": 891,
+  "gameNumber": 892,
   "date": "2027-06-13",
   "questions": [
     {
-      "quote": "Nothing... Here, ok I'm on the phone alright? I'm on the phone with someone...",
+      "quote": "So listen, what should I do? I mean if I break up with him now it'll look like I'm abandoning him because of his condition, I'll be ostracized from the community.",
       "characters": [
+        "Elaine",
         "Kramer",
         "George",
-        "Jerry",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "If I didn't do it with you, I would have done it with someone else.",
+      "quote": "All right, look. People seem to like those tip calculators, huh?",
       "characters": [
-        "Jack",
-        "Jerry",
-        "Newman",
-        "Robin"
-      ],
-      "correctAnswer": "Robin"
-    },
-    {
-      "quote": "Y- B-briefly. Now, I gotta find a good place to hide this key. Because if somebody finds this, they hold the key to all my possessions.",
-      "characters": [
-        "George",
-        "Kramer",
+        "Marcy",
         "Elaine",
-        "Jerry"
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Lately, though, I've been, uh, - I've been buying the generic brand of waxed beans. You know, I rip of the label… I can hardly tell the difference.",
+      "quote": "The CIA! Maybe they placed him in there to infiltrate the organization from within.",
       "characters": [
-        "Maestro",
         "Elaine",
         "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "What, you're gonna pass up a wonderful opportunity to put that aloe pusher in her place?",
-      "characters": [
         "George",
-        "Jerry",
-        "Frank",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Blast! There's no way I can handle 8 in addition to my ususal load of one! I'll never get to Hawaii!  I'll be stuck in this apartment building forever!  The dream is dead.",
+      "quote": "Ugh. You wouldn't believe it. My boyfriend dumped me. My friends, who I don't even like, they won't talk to me.  All because I don't like that stupid English Patient movie.",
       "characters": [
-        "Helen",
-        "Melissa",
-        "Morty",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh, man, just *rampant*, **mutant** B.O. The \"O\" went from the valet's \"B\", to the car, to me. It clings to everything. Jerry thinks it's an entity. But I showered and I shampoo'ed, so...",
-      "characters": [
-        "George",
+        "Jerry",
         "Elaine",
-        "Susan",
-        "Jerry"
+        "George",
+        "Stationer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "George, stop worrying about this guy. It wasn't your fault.. Come on, he's not stalking you.",
+      "quote": "You know my parents are coming in and I got some clean up to do , so if you and Potsie are done scheming....",
       "characters": [
-        "Kurt",
-        "Newman",
         "Jerry",
+        "George",
+        "Shelly",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well you're not even a fan. I was at game six - you didn't even watch it.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Kruger",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No no no, you know actually we are friends of a serial killer.",
+      "quote": "You're afraid to sit next to a man. You're a little homophobic, aren't ya?",
       "characters": [
-        "George",
-        "Kramer",
         "Elaine",
-        "Jerry"
+        "Helen",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Great! Well, take a look around. Pick out something you like.",
+      "quote": "Do you know what's going on here? Can't you see what's happened? I've become George.",
       "characters": [
-        "Jerry",
+        "Doctor",
         "Elaine",
-        "Kramer",
-        "Nina"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Nina"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know I got the Alumni magazine. What ever happened to your friend George? I notice I never see his name in there.",
+      "characters": [
+        "Diane",
+        "George",
+        "Dwayne",
+        "Jimmy"
+      ],
+      "correctAnswer": "Diane"
+    },
+    {
+      "quote": "Yeah, yeah, yeah. But then, I said to him, 'Oh yeah? Well, the jerk store called, and they're running outta you.'",
+      "characters": [
+        "Beth",
+        "Joel",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

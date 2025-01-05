@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1004,
+  "gameNumber": 1005,
   "date": "2027-10-04",
   "questions": [
     {
-      "quote": "Ah, ``Rochelle, Rochelle''... \"A young girl's strange, erotic journey from Milan to Minsk\"...",
+      "quote": "Well, it's the style.  Jerry give me the keys.  Well, I guess we're gonna go for a drive now. She really loves that.",
       "characters": [
-        "Clerk",
-        "Bania",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Clerk"
-    },
-    {
-      "quote": "There was nothing I could do. He said he had a Federal Express slip with your signature on it.",
-      "characters": [
-        "George",
-        "Morty",
         "Elaine",
-        "Ben"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And he's growing it in just for me.  It's mine. It's all mine.",
-      "characters": [
-        "Elaine",
-        "Woman",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What was that line again? Something about finding your way in a shadow?",
+      "quote": "He says \"I don't want to sleep alone.\" She says, oh boy, \"love to.\"",
       "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, all right. I'll help you but I will except something in return.",
+      "characters": [
+        "Newman",
         "George",
         "Jerry",
-        "Beth",
-        "Elaine"
+        "Donna"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, a member of my congregation has a timeshare in Myrtle Beach. Perhaps, if you're not too busy, we could wing on down after the High Holidays? Elaine? 'Lainie?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Well, I had to talk to you - I noticed you haven't been returning my calls.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Mike",
+        "Bette"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great!  Nina could go, huh? Jerry, this is great. You and Elaine. Me and Nina.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Rudy"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You should read the letters he's written. He's funnier than the whole bunch of you!  Oh, here's Jack. We should sit down.",
+      "quote": "Oh, and before I forget, I have the checks for the first month, last month's security deposit.  I have seventy-five dollars left in my account.",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Izzy",
-        "Leo"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "Hah, I didn't know people still get married. It's hard today with men and women.",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "George",
-        "Woman"
+        "Bookman",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, what kind of a kiss? Was it a peck? Was it a kiss? Was it a long make out thing?",
+      "quote": "Uh, you know, I just told them what kind people you are and, uh, yada yada yada, that is it.",
       "characters": [
-        "Sid",
-        "Russell",
+        "Elaine",
+        "Toby",
         "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You don't understand. This organ, it's very... schizophrenic.",
+      "characters": [
+        "Jerry",
+        "Marlene",
+        "Elaine",
         "Susan"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, what time is it? Eight thirty? I'll tell you what's on. You got Major Dad, Blossom, very funny programme...",
-      "characters": [
-        "Kate",
-        "Morty",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, alright, That's no good.  Let me try getting them from the bottom.  Just gimme one leg.",
+      "quote": "They are shut. Oh by the way, your friend Seth, he stopped by.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Ray",
-        "Voice"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, I was thinking today. I never liked those Seinfelds anyway, he's an idiot all together.  Ah there's Kramer.",
-      "characters": [
-        "Judge",
-        "Estelle",
         "George",
-        "Kramer"
+        "Kramer",
+        "Salesman"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 864,
+  "gameNumber": 865,
   "date": "2027-05-17",
   "questions": [
     {
-      "quote": "Yeah, an instructional video about how to make your own sausages.",
+      "quote": "I don't know, I don't know, what should we do? We called an ambulance, does anyone know first aid?",
       "characters": [
         "Kramer",
+        "Frank",
         "Jerry",
-        "Sally",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry, look at this closet! Look at this! I'm walking in it!  It's a walk-in. Can you believe it? I'm nuts about this, what do you think?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "On the wagon. Don't you think they broke into a couple of those bottles along the way?",
+      "quote": "By the way, you never said anything to George about Jerry and me, did ya?",
       "characters": [
-        "Jerry",
+        "George",
         "Elaine",
-        "Kramer",
-        "George"
+        "Jerry",
+        "Nina"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Nina"
     },
     {
-      "quote": "You broke up with her just because she cut her hair! how short?",
+      "quote": "It's pretty hot under these lights huh Seinfeld. Pretty....... Hot .",
       "characters": [
-        "Jerry",
-        "Cynthia",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What do you think the dry-cleaner's is your own personal closet!",
-      "characters": [
         "Jerry",
-        "Kramer",
-        "Sally",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Saturday?.. Well, I have a show in Buffalo on Saturday. They're not gonna bust up my apartment, or anything, are they?",
-      "characters": [
-        "Jerry",
-        "George",
         "Newman",
-        "Tim"
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Cold? How are you going to do that? You're not one of those guys.",
+      "characters": [
+        "Maestro",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, sometimes we do actually have to get up early, but a man will *always* trade sleep for sex.",
+      "characters": [
+        "Elaine",
+        "Bob",
+        "Jerry",
+        "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So what, why is that worth twenty-five percent? It's a finders fee. You know what a finders fee is?",
+      "quote": "You've got your degree. They don't care. They just want to see something.",
       "characters": [
+        "Elaine",
+        "Jerry",
         "Morty",
-        "George",
-        "Poppie",
-        "Jerry"
+        "Peterman"
       ],
       "correctAnswer": "Morty"
     },
     {
-      "quote": "Yeah. I love Hampton tomatoes. You know, you can eat 'em like apples. You know it's funny, the tomato never really took on as a hand fruit.",
+      "quote": "Yeah, he's nuts. You wanta bump off a couple of cats.  I know, I know. It's down again.",
       "characters": [
-        "Helen",
-        "George",
         "Jerry",
+        "Elaine",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, after you scarfed up my mutton I had the irresistible urge to make pork chops for you. I said hello to Franco for you.",
+      "characters": [
+        "Seth",
+        "Holly",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Holly"
     },
     {
-      "quote": "Well, what was I supposed to do? Get out of the shower, put on my bathrobe? Go all the way down to the other end? Come all the way back?",
+      "quote": "Well, this is sort of embarrassing, but it's changed my life. The way you analyzed the game? The way you identify the major players? Well it left me breathless. You're a brilliant, brilliant man.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Connie",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, she's a Kramer. And uh, while I was there I uh happened to pick up another juicy little nugget about our friend.",
-      "characters": [
-        "Elaine",
-        "Gary",
         "Jerry",
+        "George",
+        "Milos",
+        "Eva"
+      ],
+      "correctAnswer": "Eva"
+    },
+    {
+      "quote": "No, he left the store early, made a special trip to the distributor and got it.",
+      "characters": [
+        "Jerry",
+        "Lamar",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 967,
+  "gameNumber": 968,
   "date": "2027-08-28",
   "questions": [
     {
-      "quote": "Oh, Jerry, why didn't you tell me his name! Oh my god, he accused me of seeing someone else, he said tell me his name, he said tell me his name!!",
+      "quote": "I'm sorry I can't do this. I can't do it. I can't. It, it's too soon. I don't know you. I can't help you move. I'm sorry. I can't. I just can't.",
       "characters": [
-        "Elaine",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh yeah. Actually, I'm a little disappointed. I kind of had my eye on uncle Leo.",
-      "characters": [
-        "Naomi",
-        "Elaine",
         "Jerry",
-        "Hal"
-      ],
-      "correctAnswer": "Naomi"
-    },
-    {
-      "quote": "Really?  Well, you don't think it had anything to do with what I said, do you?",
-      "characters": [
+        "Elaine",
         "George",
-        "Elaine",
-        "Jerry",
-        "Ray"
+        "Keith"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Great! Great! I actually just had two meaningful intelligent conversations with Corbin Bernsen and George Wendt.",
+      "quote": "These are Cubans.  Maria, poquendo los scientos de estes con gleam.",
       "characters": [
-        "Elaine",
+        "Jerry",
         "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide.",
+      "characters": [
+        "Guy",
         "Jerry",
+        "George",
+        "Ricky"
+      ],
+      "correctAnswer": "Ricky"
+    },
+    {
+      "quote": "You know it must be impossible for a Spanish person to order seltzer and not get salsa.  \"I wanted seltzer, not salsa.\"",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I probably have. Yeah, of course I have. What am I talking about?",
+      "quote": "Yeah, but yesterday, he told Joyce, the aerobics teacher, that he wants to meet me outside here at nine o' clock tonight.",
       "characters": [
         "Jerry",
         "George",
         "Kramer",
-        "Daphne"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "So did you bring the lease?  All right, gee, three years, that kinda seems like a long time.",
+      "quote": "There's a few things in here, ah, peanut butter, cheese, yeah ...",
       "characters": [
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Steinbrenner",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you know, frankly, I don't think she was too concerned about my jacket.",
-      "characters": [
-        "Guy",
-        "George",
-        "Izzy",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, well, my father when I was a kid, he took me to the bank and he lifted me up and he pointed to the teller and he said: 'Sonny boy, take a good look at him, that's gonna be you some day.'",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
+        "Frank",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "There's a hundred different things here.  What's the difference between these two?    You got propylparabin?",
+      "quote": "I don't know. A lot of attitude, like he's better than me, or something.",
       "characters": [
         "George",
-        "Jerry",
-        "Babu",
-        "Estelle"
+        "Elaine",
+        "Kramer",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Newman, how'd it go? Did you get it all delivered?  What happened?",
+      "quote": "I'll tell you what -- you can take me out to dinner sometime.",
       "characters": [
-        "Enzo",
-        "Peterman",
-        "Michael",
+        "Morty",
+        "George",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Ya well, so was uh sacrificing virgins to appease the gods, but we don't do that anymore.",
+      "characters": [
+        "Captain",
+        "Kramer",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Just checking it out. Look at how this thing is made. Can I tell you something? That's a hell of a piece of equipment.",
+      "characters": [
+        "Doctor",
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     }

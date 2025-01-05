@@ -1,106 +1,106 @@
 {
-  "gameNumber": 174,
+  "gameNumber": 175,
   "date": "2025-06-26",
   "questions": [
     {
-      "quote": "Well, I got screwed on the donuts. There were none left. Heh!",
+      "quote": "Kramer, I know what I'm talking about. There's no way FDR wants you to drop dead.",
+      "characters": [
+        "Jerry",
+        "Sidra",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Karate, Jerry. Karate. The lifetime pursuit of balance and harmony.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Leo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Yeah. With all that kissing and the shmoopy, shmoopy, shmoopy, shmoopy, shmoopy out in public like that. It's disgusting!",
       "characters": [
         "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
+        "Kramer",
+        "Steinbrenner",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "The Drake, he found out that the wedding is on the same day as the Super Bowl.  So he wanted to postpone it, they got in a big argument and *phlf* it's over.",
+      "quote": "Believe me, there'd be plenty of women going for these pig-men. Whatever the deformity is there's always some group of perverts that's attracted to it. \"Oo that little tail really turns me on.\"",
       "characters": [
         "Kramer",
-        "Tim",
-        "George",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, it wasn't like that! I didn't even mention you. You know, we were in the garage. You know how garages are. They're conducive to sex talk. It's a high-testosterone area.",
-      "characters": [
-        "Jerry",
         "George",
         "Elaine",
-        "Todd"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, an eighteen-wheeler's no good. Too much overhead. You got permits, weigh-stations, tolls... Look, you're way outta your league.",
+      "quote": "I think these women would be pretty good looking if they weren't wearing glasses.",
       "characters": [
-        "Kramer",
-        "Elaine",
+        "George",
         "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "George knows that you slept with Nina. That's why he was acting so weird.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, but if you called up and described someone, do you think they would know who it was?",
-      "characters": [
-        "Kramer",
-        "Carol",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Don't you think he had to be uh near sighted? I mean know body would paint like that if they could see. It's all out of focus.",
-      "characters": [
-        "George",
-        "Morty",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Oh! Jeez! Well, you've got a maid. It's a whole different world downtown-- different Gap, different Tower Records, and she's a 646.",
-      "characters": [
-        "Kramer",
-        "Jimmy",
-        "George",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, it's going to be! Because I'm going back on strike. Come on Elaine.  It's a walk out!",
+      "quote": "Well I was dropping of the calzone money for the week.... Um shouldn't you be at work by now?",
       "characters": [
-        "Kramer",
-        "Diane",
-        "George",
-        "Poppie"
+        "Susan",
+        "Doctor",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hey. That's a big oven. Huh. Listen. I was wondering if you could do me a favor.",
+      "quote": "Maybe I put it out on your face!  It's just like Ray said. You and Jerry are jealous of our love. You're trying to destroy us.",
       "characters": [
-        "Kramer",
+        "George",
+        "Newman",
+        "Rava",
+        "Todd"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "I don't know if I'd feel comfortable handing out bologna sandwiches in the building..",
+      "characters": [
+        "George",
+        "Jerry",
         "Elaine",
-        "George",
-        "Pam"
+        "Duncan"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great. Jerry, I gotta tell you, I had the BEST TIME with that Nina last night. I - I think I'm in love with her already. You are a great friend.  A great, great friend.",
+      "characters": [
+        "Kramer",
+        "Noreen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They were supposed to be here at 7:30. Call the airlines again.",
+      "characters": [
+        "Jerry",
+        "Valerie",
+        "Jackie",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
     }
   ]
 }

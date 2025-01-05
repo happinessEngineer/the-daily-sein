@@ -1,106 +1,106 @@
 {
-  "gameNumber": 62,
+  "gameNumber": 63,
   "date": "2025-03-06",
   "questions": [
     {
-      "quote": "Na, you're way way way off.. Well, yeah that's the right number but this is an apartment",
+      "quote": "Do you believe the deal we got on this? A big screen TV? At that price?",
       "characters": [
+        "Jerry",
         "Kramer",
-        "Elaine",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Uh huh. Uh huh! I think you spoke to your little friend Rachel, that's what I think.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Bania",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I was throwing up all night. It was like my own personal Crying Game.",
-      "characters": [
-        "Donald",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No! But maybe you wish it was you who was getting married, not him.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
+        "Celia"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I thought that my suggestion was good. And, I think you could've been a little more tactful.",
+      "quote": "If you don't think she's beautiful, there's something wrong with you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Jerry, I didn't want you to know I was out of work. It's embarrassing!",
+      "characters": [
+        "Donald",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I showered! Oh, wait a second... Since I showered, I've been in the car!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a friend of ours on drugs and we're going to confront him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Ron",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, \"Levine\". And I'm Jerry Cougar Mellencamp. Anyway, I admit it was a fairly ridiculous thing to do, but I mean, I mean, obviously we have a little problem here.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Get up boy, get up! We got a problem here! Tough it up. This is for real, you've got to want it...",
       "characters": [
         "Jerry",
-        "Morty",
+        "Izzy",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "When I was a kid, all I ever dreamed of was steering the back of that big hook and ladder.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, what if I got my, nose pierced? That would be pretty freaky.. Oooohhhhaaa!",
+      "characters": [
+        "Kramer",
+        "Wendy",
         "Elaine",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, you know they're making that Woody Allen movie in the block, and all those people and trucks everywhere, when I saw him I must have got a little distracted.",
+      "quote": "'Cause Richie really respects you and he would listen to you.",
       "characters": [
-        "Lena",
-        "Bruce",
-        "Sid",
-        "George"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "Myra and I would like you and Elaine to be the Godparents of Steven.",
-      "characters": [
-        "Stan",
-        "Puddy",
-        "George",
+        "Steinbrenner",
+        "Wilhelm",
+        "Elaine",
         "Peterman"
       ],
-      "correctAnswer": "Stan"
-    },
-    {
-      "quote": "Wait a second. Maybe there is someway we can tempt him and find out...",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ya gotta put on a show, ya always gotta give them a big show. You always have to be 'on' otherwise why would they like me? They'd just go for a better looking guy with more money.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "My service rates went up? You banks are all the same with your hidden fees and your service charges. Well, maybe I'll just take my blood elsewhere, yeah.",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 824,
+  "gameNumber": 825,
   "date": "2027-04-07",
   "questions": [
     {
-      "quote": "Why does it always seem like I'm the only one working at this break-up?",
+      "quote": "Well, Jerry, he doesn't have anything.    Well, but I might have something.",
+      "characters": [
+        "Kramer",
+        "Nurse",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes he was, and you know why? Because he was betrayed by people he trusted. They \"named names\".",
+      "characters": [
+        "Ned",
+        "Voice",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Ned"
+    },
+    {
+      "quote": "Tell you what. You're obviously concerned about your friend's welfare. A few of my students will be observing tomorrow's operation from the viewing gallery. How would you like to watch it with them?",
       "characters": [
         "Jerry",
-        "Jake",
-        "Elaine",
+        "Kramer",
+        "Doctor",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Doctor"
     },
     {
-      "quote": "Just 'cause of that? It's like finding out Mickey Mantle corked his bat!",
+      "quote": "Hey, what's the deal? What was goin' on there? I invite you down here, I have an important show, and she heckles me?!",
       "characters": [
+        "Sid",
         "Kramer",
-        "George",
-        "Jerry",
-        "Darryl"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Harold",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no, no. It's weak. No one's gonna buy it, and you shouldn't be selling it.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Keith",
-        "Jack"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No...no...no, I hate to tell you this. You're not gonna see this woman.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look, I don't know what to tell you, but there's no hat here. I mean, maybe the maid took it, I had people over, but...",
-      "characters": [
-        "Heather",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Heather"
-    },
-    {
-      "quote": "Here! Here! You want a brown sweater?!  You got a brown sweater!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Danielle"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Even if the dialogue did ring true.  Even if somehow somewhere men actually talk like that, what does that have to do with the pants? Doesn't that bother you?",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "George",
+        "Julie",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, right now he's a fact checker for New York Magazine. It's not much, but it has a certain type of quiet dignity.",
+      "quote": "I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?",
+      "characters": [
+        "Estelle",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, they told me that I got more blood, so I guess I owe you again.",
+      "characters": [
+        "Jackie",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, not giving. hoarding. I'm storing it in to a blood bank. Just in case.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well frankly, you can't keep a secret. You know, you'd get two pair, the whole table knows.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Gary"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Did you just roll your eyes at him? Because let me tell you something, if anobody should be rolling their eyes, it is me at him about you.",
       "characters": [
         "Elaine",
         "George",
-        "Bania",
-        "Jerry"
+        "Jerry",
+        "Frank"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I was at Bloomingdale's... waiting for the shower to heat up.",
+      "quote": "I was almost Mr. Coffee. They felt I was a little too relaxed.",
       "characters": [
-        "Beth",
         "Elaine",
         "Jerry",
-        "Kramer"
+        "Kevin",
+        "Steinbrenner"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

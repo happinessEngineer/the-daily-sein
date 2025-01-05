@@ -1,106 +1,106 @@
 {
-  "gameNumber": 568,
+  "gameNumber": 569,
   "date": "2026-07-25",
   "questions": [
     {
-      "quote": "I once told a woman that I don't eat cake 'cause it goes right to my thighs.",
+      "quote": "He's actually doing him a favor. It's less money for him to buy food.",
       "characters": [
-        "George",
-        "Kramer",
+        "Morty",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It was because you hated your father and you would do anything to displease him. Isn't THAT true?",
-      "characters": [
         "George",
-        "Kramer",
-        "Elaine",
         "Newman"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "That's their secret sign! See, Van Buren, he was teh eighth President..  They thought I was a former Van B. Boy!",
+      "quote": "No, no, no! It was years ago - before you met him. And, and I - I got to tell you.. it was very mechanical.",
       "characters": [
-        "Kramer",
+        "Elaine",
         "George",
-        "Russell",
-        "Gina"
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, yes. This pirate trend that she's come up with, Jerry, this-this is gonna be the new look for the 90's. You're gonna be the first pirate!",
+      "characters": [
+        "Jerry",
+        "Craig",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Okay, let's see. The beachhouse. 48 acres... ooh. Southampton. That should fetch a fair price.",
+      "quote": "You must be very proud Mr. Visaki.  And may I say sir they're lovely girls, absolutely lovely girls. It's nice to see such fine upstanding women in gainful employment, Mr. Visaki.",
       "characters": [
-        "George",
         "Kramer",
-        "Wyck",
-        "Elaine"
-      ],
-      "correctAnswer": "Wyck"
-    },
-    {
-      "quote": "Oh, because I called over there a couple of times and the manager didn't like it.",
-      "characters": [
-        "George",
-        "Greg",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I see, well, that's open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Attendant",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Get in a little closer. I can't see the screen door.  Perfect.",
+      "quote": "I did a show for a car dealership and they're getting me a new SAAB.",
       "characters": [
-        "Morty",
-        "Elaine",
         "Jerry",
+        "Helen",
+        "George",
         "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You hear about that kid that was kidnapped the other day in Pennsylvania?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh. No. I can't do this any more. I can't. It's too long.  Quit telling your stupid story, about the stupid desert, and just die already!  Die!!",
+      "quote": "Yeah! I got it . It's in the apartment, but we can't go in there it's being fumigated.",
       "characters": [
-        "Rudy",
+        "Jerry",
         "George",
-        "Monica",
-        "Elaine"
+        "Simon",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "And yet, it's perfectly legal to take a man's soul and crush it out like a stale Pall Mall.",
+      "quote": "We have to go up there now and clean the apartment. It's a good thing her rent was overdue. She'd be rotting up there for a month.",
       "characters": [
-        "Newman",
+        "Lippman",
         "Jerry",
-        "Wilhelm",
-        "Sally"
+        "Elaine",
+        "Harold"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "I know, finally. But George, guess who her boss is. Duncan Meyers.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Sophie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I felt bad about this afternoon, so I got you something.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Different pipes go to different places! You're gonna mix 'em up!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

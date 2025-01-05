@@ -1,104 +1,104 @@
 {
-  "gameNumber": 86,
+  "gameNumber": 87,
   "date": "2025-03-30",
   "questions": [
     {
-      "quote": "Right. Yeah. [fearing the answer] Could I have a small popcorn?",
+      "quote": "This is what they would do in the movies! It's a beautiful thing! It's like a movie! I'm gonna slip him a mickey!",
       "characters": [
+        "Dan",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What's my problem? Punks like you, that's my problem. And you better not screw up again Seinfeld, because if you do, I'll be all over you like a pitbull on a poodle.",
+      "characters": [
+        "Bookman",
         "Jerry",
         "George",
-        "Elaine",
         "Kramer"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "All right Mrs. S. I and my good pal Keith Hernandez will be right back.",
+      "characters": [
+        "Jerry",
+        "Marcy",
+        "Hal",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's not that I don't like you, but, well to be perfectly honest, I'm just having some trouble getting past the face painting.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Eddie",
+        "Carol"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Okay, what about a nice frame? With a picture of another guy in it. Frame says I care for you, but if you wanna get serious, perhaps you'd be interested in someone like this.",
+      "quote": "Okay. Uh, my mother is is going to pay for the sessions. ... Oh,Elaine?",
+      "characters": [
+        "Greg",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe they came back for Chinese food. Y'know Maureen Stapleton, if she gets a craving, she's probably screamin' at those aliens, \"I gotta have a lo mein!\"",
       "characters": [
         "George",
-        "Jimmy",
+        "Jerry",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, Cuban cigars are illegal in this country. That's why I got these guys.",
+      "characters": [
+        "Newman",
+        "Tony",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, you're never gonna find a space on Jerry's block, just put it in a garage.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "Janet"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, really, what is the big deal? We go in there.  We're in there for a while. We come right back out here. It's not complicated.",
+      "characters": [
+        "Jerry",
+        "George",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm very good with sick people. They love me. When my friend Len Nicodemo had the gout, I moved into his hospital room for three days, the doctors were amazed at his recovery.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Rava",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh that's funny? Is that funny? Well tell me if you think this is funny: These fish are dying! They're gasping for oxygen right now! They'll be floating in an hour. Is that funny too?",
-      "characters": [
-        "Elaine",
-        "Brett",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "The recipe was for four to six people; I had to multiply for a hundred and eighty-three people. I guess I got confused.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Noreen",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Let's face it, you get a bunion, where are you going? You're not going to the ear guy.",
+      "quote": "Alright - um, excuse me, hi, could you tell me what kind of law this is.",
       "characters": [
         "George",
-        "Elaine",
+        "Sylvia",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, no, no, no.  This is evolutionary. I been reading this book, on Leonardo de Vinci. See, that means 'from Vinci', d'you know that?",
-      "characters": [
-        "Julianna",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Comming up on the right, if you glance up you can just make out my bedroom window. It's the one that's covered in chicken wire.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "James"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Not a peep. They just cleaned the carpets and left. Call themselves a cult!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look it, gentlemen. The fact remains you still have no proof. This is all speculation and hearsay.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Newman",
-        "Landlord"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     }

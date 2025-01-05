@@ -1,106 +1,106 @@
 {
-  "gameNumber": 517,
+  "gameNumber": 518,
   "date": "2026-06-04",
   "questions": [
     {
-      "quote": "Oh, thank you.  Wow, I've never seen this before..  Oh, they're letters.  Here.",
-      "characters": [
-        "Susan",
-        "Puddy",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Oh, Elaine. You know the way I am – rarely ever thinking of myself. My only concern is the welfare and happiness of those close to me. Sure, it hurts sometimes to give, and give, and give...",
-      "characters": [
-        "Harold",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Really! You know, a lot of restaurants are serving brewed decaf now, too.",
+      "quote": "Oh no no, Mr. Pitt, you mustn't. You have to check with the pharmacy before you combine anything with your heart medicine,",
       "characters": [
         "Elaine",
-        "Bookman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, Elaine but this is beyond news. This is like Pearl Harbor. Or the Kennedy assassination. It's like not even news. It's total shock.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right. So let me ask you a question. Who was the man in the cape?",
-      "characters": [
         "George",
         "Jerry",
-        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh!! Let me ask you a question. Was the movie part of the bet?",
+      "quote": "Yeah?  You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway?",
       "characters": [
-        "Jerry",
-        "Newman",
-        "Kramer",
-        "Hoyt"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right Miss Benes. This doesn't look to serious. You'll be fine.",
-      "characters": [
-        "Doctor",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "Well, Mr. Kramer, your list of short cuts is most impressive.",
-      "characters": [
-        "Captain",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Captain"
-    },
-    {
-      "quote": "And who doesn't serve cake after a meal? What kind of people? Would it kill them to put out a pound cake? Something!",
-      "characters": [
-        "Jerry",
         "Frank",
         "Elaine",
-        "Laura"
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Pilot? So what do you make for something like that? Fifty? Sixty thousand?",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You mean my crime of passion? If anyone betrays me, I never forget!",
+      "characters": [
+        "George",
+        "Leo",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "'Man's best friend'. Jerry, I want something like that on my tombstone.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Jerry",
+        "Sylvia"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, there's no time! Tell him your code! Shout out your code, man!!",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Heather"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Okay, THAT'S IT! \"oki on awa\" Where's my tail? I heard every word you said. You got some nerve.",
+      "characters": [
+        "George",
+        "Frank",
+        "Manager",
+        "Jerry"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "What?...Oh! by the way. What am I going to be in the wedding party?",
+      "quote": "Ok, I'm excited. I just don't happen to like exclamation points.",
       "characters": [
-        "Man",
         "Kramer",
+        "Jake",
         "Jerry",
-        "Elaine"
+        "Morty"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Well what about these nitwits that get on a plane with nothing to read? You know who these people are?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, alright, but no funny business, same deal as last night.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

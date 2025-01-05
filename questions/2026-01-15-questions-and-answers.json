@@ -1,106 +1,106 @@
 {
-  "gameNumber": 377,
+  "gameNumber": 378,
   "date": "2026-01-15",
   "questions": [
     {
-      "quote": "So this ah, woman you plan on hiring, is she going to be in the \"Spokes model\" category?",
+      "quote": "Hey!  ha ha ha ha. Nice sidle, huh? Speaking, of which I think I've got that problem, solved.",
       "characters": [
-        "Kramer",
-        "Waitress",
-        "Alec",
-        "Jerry"
+        "Ade",
+        "George",
+        "Elaine",
+        "Mike"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, this is a lovely apartment. Lovely! My kids are gonna go crazy. I, uh, I wonder if I could see the bathrooms. Preferably one with some paint thinner and, uh, some rags?",
+      "quote": "Ah, then I shall be there. And now, Gentlemen,  if you will excuse me - I must prepare for the symphony.",
       "characters": [
-        "Elaine",
+        "Maestro",
+        "George",
         "Jerry",
-        "Donald",
-        "George"
+        "Announcer"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "And the amazing thing is she eats like there's no tomorra'. I mean I've never seen an appetite like this. Desserts. Everything. I don't know how she does it.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Holly"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Don't worry, Tim.  I didn't come by to yell at you, I didn't come by for that at all.  I just came by to pick up my label maker.  I gave you a label maker and now I would like to have it back.",
+      "quote": "Hey, C'mon! Let's go! I thought we were going to take a steam!",
       "characters": [
+        "Kruger",
         "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry! There is no confusing *that* move with any other move.",
-      "characters": [
-        "Jerry",
-        "Toby",
-        "Elaine",
-        "Nina"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know what, let's put a few cookies in a blender and he could drink it.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
+        "Morty",
         "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "\"Klick! Long fly ball into deep left field over Bell's head . . . O'Neill's rounding second O'Neill going for third, O'Neill rounding . . .",
-      "characters": [
-        "Jerry",
-        "Tv",
-        "Brett",
-        "Puddy"
-      ],
-      "correctAnswer": "Tv"
-    },
-    {
-      "quote": "No! I don't want to save seats. Don't put me through that! I once had the fleece just ripped out of my winter coat in a seat-saving incident!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kevin"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Nothing It's not you. It's me. I have a fear of commitment. I don't know how to love.",
-      "characters": [
-        "George",
-        "Sophie",
-        "Jerry",
-        "Gennice"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Can you believe somebody threw this out? You know I'm going to make a coffee table out of this and surprise Tina.",
-      "characters": [
-        "Kramer",
-        "Mohel",
-        "George",
-        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Jerry, what do you, you wanna, you wanna see the place or not?",
+      "quote": "You want me to moon him? Ooh, let's moon him. Roll up your window. Let's do a pressed ham under glass.",
       "characters": [
+        "Woman",
+        "Kramer",
+        "Jerry",
+        "Sophie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah, yeah. I was a little off last week, huh Jerry -- Yeah but the doctor says it was just a slight concussion",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I felt bad about the spying, so you know, ,I got them tickets to the show.",
+      "characters": [
+        "Jerry",
         "George",
         "Frank",
-        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Exactly. You're not a psycho. You've been very helpful. Thank you very much. Allow me to leave the tip.  Well, I think we proven who the psycho is.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Since when are you treating me to medicine?  What are you doing?  You're stealing this, aren't you?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If the homeless don't like them the homeless don't have to eat them.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

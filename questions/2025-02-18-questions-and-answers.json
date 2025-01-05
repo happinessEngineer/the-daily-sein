@@ -1,104 +1,104 @@
 {
-  "gameNumber": 46,
+  "gameNumber": 47,
   "date": "2025-02-18",
   "questions": [
     {
-      "quote": "You know, Elaine, very often we cannot see the forest for the trees.",
-      "characters": [
-        "Gina",
-        "Ade",
-        "Jimmy",
-        "Rabbi"
-      ],
-      "correctAnswer": "Rabbi"
-    },
-    {
-      "quote": "No, you don't have to challenge that. That's a word. That's a definite word.",
-      "characters": [
-        "Willie",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Look at this place. He's going everywhere, I can't go out of the house at night. I haven't performed in three days. This'll be my first night out of the house since I got back.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Susan",
-        "Noel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You want to give something back? Start with the 20 thousand dollars.",
-      "characters": [
-        "Roy",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I'm glad you're here, so we can get this all straightened out. Would you like a cup of tea?",
+      "quote": "Yeah, he'll be looking at us like he's backstage at a puppet show.",
       "characters": [
         "George",
-        "Kevin",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Whoa, whoa. Now, who's this Joe Mayo everyone's talking about?",
-      "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Lanette"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, no. It was an accident. It really wasn't my fault. It was Jerry.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Right! And these pigeons broke the deal. I will not accept the blame for this!",
-      "characters": [
-        "George",
-        "Greg",
-        "Nina",
-        "Valerie"
+        "Kate",
+        "Phil"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I washed, just not the hand. You wouldn't believe the women at this club. Ohh, man.",
+      "quote": "Frolf, frisbee golf Jerry. Golf with a frisbee. This is gonna be my time. Time to taste the fruits and let the juices drip down my chin. I proclaim this: The Summer of George!",
       "characters": [
         "George",
-        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, the Hizballah has invited me to perform.  You know, it's their annual terrorist luncheon.",
+      "characters": [
         "Jerry",
+        "Kramer",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe you blew us off; we were doing you the favor.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay? So, she's taking about her panties, so, uh.. So, I said, \"You mean the panties your mother laid out for you?\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, like what, Ovaltine? Why do dogs drink out of the toilet? Shopping carts with one bad wheel?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...What makes you think I wasn't reading the Wall Street page? Oh, I know, because I'm the uneducated doorman.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Doorman"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "No, Mickey and I, we can't work it out. You know, I'm thinking of asking that Karen out by myself.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Monica",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole.",
+      "quote": "That's a lot of pressure.  Make love to me.  What am I, in the circus? What if I can't deliver?",
       "characters": [
+        "Newman",
+        "Morty",
         "George",
-        "Doctor",
-        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, Alright, before that, I was in real estate. I quit, because the boss wouldn't let me use his private bathroom. That was it.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     }

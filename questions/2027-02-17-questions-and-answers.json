@@ -1,106 +1,106 @@
 {
-  "gameNumber": 775,
+  "gameNumber": 776,
   "date": "2027-02-17",
   "questions": [
     {
-      "quote": "'Thick lustrous hair is very important to me,' is that what you said?",
+      "quote": "Oh, man! All right, come on. There's got to be something that'll change your mind, FDR. Something..\"  What, you want my kidney?  Mama!..",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Fields. Sidney Fields. *87* years old. *87*. How about your guy?",
       "characters": [
         "Jerry",
-        "George",
+        "Jackie",
         "Elaine",
-        "Puddy"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Now this is remarkable. I'm lounging, and yet, my pants remain perfectly creased.",
+      "quote": "I went out on a couple of dates with this woman, I thought she really liked me, and then things kind of cooled off.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "That's my Chinese food...So George is this your first movie with Elaine?",
-      "characters": [
-        "Kramer",
-        "Elaine",
+        "Eddie",
+        "Jackie",
         "Jerry",
-        "George"
+        "Darren"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Eddie"
     },
     {
-      "quote": "Well, I have lost complete control of my staff. Why did I let George go to that party? I mean, we were having so much fun. We were wining, we were dining, we were dancing.  What?",
+      "quote": "I've always believed in you Cosmo. You know that. So I want you to call that place today and tell then tha you're through.",
       "characters": [
-        "Elaine",
-        "George",
+        "Babs",
         "Jerry",
-        "Woman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And so much personality! But, it doesn't matter what we think. Do you like her?",
-      "characters": [
-        "Jerry",
-        "Joel",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "How hard could it be? You make a little contribution, you have a ceremony. I am going to think about this. I am really going to think about this.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah.  Not that I care, one way or the other, but these doctors today really do amazing things, you know, if you were so inclined. And again, I'm not suggesting.",
-      "characters": [
-        "Abby",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh! yeah I'll make sure he gets the message.  They make wigs out of human hair?  And pay plenty for them.",
-      "characters": [
-        "Carol",
         "Doorman",
-        "Sidra",
+        "George"
+      ],
+      "correctAnswer": "Babs"
+    },
+    {
+      "quote": "That's right. Squeezed an extra twenty-five dollars out of me.",
+      "characters": [
+        "Elaine",
+        "Rudy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Stop it! That's not even a song! I mean, now we're celebrating a sick day?",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I'm not paying the five cents for that stupid recycling thing.",
+      "quote": "Uh, Mrs Allister.  Yeah, uh, just coming Mrs Allister.  Okay, I've gotta get out.",
       "characters": [
+        "Izzy",
+        "Alec",
         "Jerry",
-        "George",
-        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I just got out of a 27-minute shower. I made some good cuts, and I didn't lose anything I needed. Yeah, I think what I kept is even stronger now.",
+      "quote": "All right there you go. It's a '47 cabin all right. So, we'll see you tomorrow.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Jerry",
+        "Kate",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! No! You had wooden teeth! You had wooden teeth! I didn't have wooden teeth, you did!",
+      "characters": [
+        "Bobby",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Eh, anti-fur. I mean, who has the energy anymore? This is more about hanging off the arm of an idiot.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Tor",
+        "Maestro"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

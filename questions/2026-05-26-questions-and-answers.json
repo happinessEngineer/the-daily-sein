@@ -1,106 +1,106 @@
 {
-  "gameNumber": 508,
+  "gameNumber": 509,
   "date": "2026-05-26",
   "questions": [
     {
-      "quote": "Jerry, I think I'm on to something. I think I found your stuff. You know the Englishman who lives down the hall?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Nina"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, wait a minute, wait a minute, that?s not fair, what about George, Susan and Elaine, what do you need me for?",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Um, excuse me, have you see a guy with like a horse face, big teeth, and a, and a pointed nose?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, so what if I don't like it. Is that like the end of the world, or something?",
-      "characters": [
-        "George",
-        "Frank",
-        "Donna",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I am, but that is not the point. You are thirteen, and I am in my early... 20s.",
-      "characters": [
-        "Jerry",
-        "Janet",
-        "Elaine",
-        "David"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No I didn't mean to imply that you did. You're obviously a very well proportioned individual. I was just wondering, have they ever offered you a chair?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Lo..k, if you want to taste mine, you don't have to offer me some of yours.",
+      "quote": "Well, he said it could be cancer, maybe you should get it checked out.",
       "characters": [
         "George",
         "Jerry",
-        "Kramer",
+        "Newman",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know the anxiety you feel on a date?  That's what I have every day now.  My worst nightmare's come true, every day is a date.",
+      "quote": "I don't like you talking about me with your friends behind my back.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "In any other shoe, I lose two inches. I - I can't have a drop down. We were eye to eye, I can't go eye to chin!",
       "characters": [
         "George",
         "Elaine",
-        "Joyce",
-        "Jerry"
+        "Jerry",
+        "Rebecca"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He did not need inspiration… God spoke through his pen. Hu Hu Hu",
+      "quote": "Sorry? Are you kidding? You did me the biggest favor of my life. I spoke to a lawyer, we're suing for millions.",
       "characters": [
+        "Deena",
         "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I tell Alec that I have to go to Paris for an undetermined amount of time. Then all I have to do is buy some post cards and have your parents mail them from Paris.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ronnie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Would you excuse me a minute? I'm gonna go to the bathroom. I'll be right back.",
+      "characters": [
+        "Doris",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, neighbor. That's right. Yeah, why don't we take this boiler out for a shakedown huh?",
+      "characters": [
+        "Doctor",
+        "Jack",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, it was very nice of you to bring the man you're currently sleeping with over to talk to me, but I assure you, I don't have any problem with germs.",
+      "characters": [
+        "Kramer",
+        "Peggy",
+        "Steinbrenner",
+        "Newman"
+      ],
+      "correctAnswer": "Peggy"
+    },
+    {
+      "quote": "It's very nice of you to do this. I've asked several people and they wouldn't even answer me.",
+      "characters": [
+        "George",
+        "Wyck",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm afraid it's your urine, Elaine. You tested positive for opium.",
+      "characters": [
+        "Patrice",
         "Kramer",
         "Elaine",
-        "Testikov"
+        "Peterman"
       ],
-      "correctAnswer": "Testikov"
-    },
-    {
-      "quote": "Is-is that what I said 'no story'? Because Jerry had to tell me later.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Joe",
-        "George"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Peterman"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 392,
+  "gameNumber": 393,
   "date": "2026-01-30",
   "questions": [
     {
-      "quote": "Well, I gotta say that I think that that is a fantastic idea, Feldman!",
+      "quote": "Well, well, well, I'm not treating you to lunch ANYMORE! You had to tell Julie that I made a special point of telling you that I bought you the big salad. Didn't ya'.",
       "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, if you really want to test him out, why don't you try the old Jerry Lewis trick?",
-      "characters": [
-        "Jerry",
-        "George",
-        "David",
-        "Anna"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know Jerry I really like this guy who's playing the butler.",
-      "characters": [
-        "Elaine",
-        "Margaret",
-        "George",
-        "Father"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ah, the tickets are for tonight. So you and Bob can knock off a little early, so you both can get ready.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Peterman",
-        "Wyck"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Oh, you mean like this? So it looks like I'm saying something but I'm not really saying anything at all?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Okay, Latvius was the son of which apostle? And I'll need that in the form of a question.",
-      "characters": [
-        "Rebecca",
-        "Kramer",
-        "Jerry",
-        "Pitt"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Shut up. Shut up!  Hello? No, who's calling? Oh my god, the dog guy. Where have *you* been? Yeah, well you better pick up your dog tonight or he has humped his last leg.",
-      "characters": [
-        "George",
-        "Jerry",
+        "Helena",
+        "Dana",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know I heard her screaming from my apartment? She woke me up a few times.",
+      "quote": "I had a great time at the last one. I was in charge of the music. I turned that mother out.",
       "characters": [
-        "Elaine",
         "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I could let it go for.. say.. a hundred and twenty-five.",
+      "characters": [
         "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "From now on when we pass each other in the hall, I don't know you, you don't know me.",
+      "characters": [
+        "Kramer",
+        "Clerk",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, you know that shoe repair place at the end of the block? Well, if they don't get some business, they're gonna have to shut down and make way for one of those gourmet coffee or cookie stores.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Roy"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Speaking of Jerry, his father is driving me so crazy down at Peterman's.",
+      "characters": [
+        "Woman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You can't have \"a little grace.\" You either have grace, or you...don't.",
+      "characters": [
+        "Landis",
+        "Waitress",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Landis"
+    },
+    {
+      "quote": "You know, for phone numbers, addresses, keep appointments, everything.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Speak now, or we are headed to the Hamptons. It's a two-hour drive. Once you get in that car, we are going all the way... to the Hamptons. All right, you wanna get nuts? Come on. Let's get nuts!",
+      "quote": "...but is there any way that I could possibly have Neil's phone number?",
       "characters": [
         "George",
+        "Kramer",
         "Jerry",
-        "Ethan",
-        "Elaine"
+        "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Twelve dollars? I knew we should have gone to the bakery. I guarantee you they're not getting no twelve dollar cake.",
+      "quote": "But in the zoo, you know, they might, put a woman in there with me to uh.. you know, get me to mate.",
       "characters": [
-        "Elaine",
         "George",
-        "Jerry",
-        "Bob"
+        "Babu",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "George"
     }

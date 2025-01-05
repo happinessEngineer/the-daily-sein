@@ -1,106 +1,106 @@
 {
-  "gameNumber": 225,
+  "gameNumber": 226,
   "date": "2025-08-16",
   "questions": [
     {
-      "quote": "Oh, what's the point? When I like them, they don't like me, when they like me, I don't like them. Why can't I act with the ones I like the same way I do with the ones I don't like?",
+      "quote": "You know, the water pressure's terrible in my building. And she loves a good shower.",
       "characters": [
-        "Bruce",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, no, no, not at all. No, I have always felt that the most important thing in the world is spending time with family.",
-      "characters": [
-        "Karen",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Tsk. Well, I can guess within the hour, and I don't even have to look at the sun.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "They bump you in junior high, the next thing you know you're being bumped in high schools, colleges, trade schools. Before you know it, Letterman's not returning your calls.",
-      "characters": [
-        "Steve",
         "Elaine",
         "George",
-        "Katie"
+        "Jerry"
       ],
-      "correctAnswer": "Katie"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Cause I tell you, frankly, I would like to walk in hear one day and find you sitting down.  That would give me a lot of pleasure. Call me crazy.",
+      "quote": "You know it's interesting, because I called the hospital and they said you were released on Monday.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Harold",
-        "George"
+        "George",
+        "Michael"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nah, nah, it's on me.  Aww, man. Okay, listen guys, I'm gonna be late.  I'll see you, okay?",
+      "quote": "And Billy and Jake and Allison, yes we could have discussed it.",
       "characters": [
-        "Elaine",
-        "Newman",
         "George",
+        "Announcer",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, there's action. There's plenty of action. That damned alien autopsy is stealing all the headlines.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Keith"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right . . . . I once found a hair in my Farina and I freaked out.",
+      "quote": "Let me speak with the head librarian. ... Because it's absurd. An overdue book from 1971? ... This is a joke right? What are you? From a radio station?",
       "characters": [
         "Elaine",
         "Jerry",
-        "Jackie",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So you see, Kramer took it upon himself to say hi to you from me. When in fact it was an unauthorised hi.",
+      "quote": "Well, I knew you'd have an affinity for it, because it's the dance of a very proud people.",
       "characters": [
-        "Newman",
-        "Kramer",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, yeah, that's funny. Hey, you wanna hear something weird? Mr. Pitt eats his Snickers bars with a knife and fork.",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "Kramer",
+        "Gwen"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ladies and gentlemen, our flight time, with stopovers, will be approximately 22 hours.",
+      "quote": "You know, why don't we wait? Because, I'm going out of town tomarrow.",
       "characters": [
-        "Jerry",
-        "David",
+        "Lou",
+        "Mickey",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's not doing well, the doctors don't know what it is. They're baffled.",
+      "characters": [
+        "Elaine",
+        "Roy",
+        "Jerry",
         "Captain"
       ],
-      "correctAnswer": "Captain"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh yeah, sure, sure. So ah, did ya have a good time at the party last night?",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I think I'm getting a little depressed about George's wedding.",
+      "characters": [
+        "Tony",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

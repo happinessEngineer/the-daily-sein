@@ -1,106 +1,106 @@
 {
-  "gameNumber": 157,
+  "gameNumber": 158,
   "date": "2025-06-09",
   "questions": [
     {
-      "quote": "No one's ever written me a letter like this. Maybe I was wrong about her!",
+      "quote": "If not, I can assure you, doctor, that I can make things very unpleasant for you and your staff. If you have one.",
       "characters": [
-        "Newman",
-        "George",
-        "Steinbrenner",
-        "Jerry"
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't think so. I've seen you two together. You make each other miserable. It's kismet.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "Craig"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know what? I think this Ruthie Cohen gave me the wrong change. Didn't I pay with a twenty? I'm sure I paid with a twenty.",
+      "quote": "She reorganizes your closet and shows you how to maximize your closet space. She looked into my closet.",
       "characters": [
-        "Peterman",
         "Kramer",
         "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey George, you want this cup holder mounted on the left, or the right, or the middle, . . .",
+      "characters": [
+        "Conrad",
+        "Jerry",
+        "Kramer",
         "George"
+      ],
+      "correctAnswer": "Conrad"
+    },
+    {
+      "quote": "Elaine, you don't seem yourself today. You seem, if I may say, troubled.",
+      "characters": [
+        "Rabbi",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Hey, at least I'm bringing something to this.  \"Have you seen me?\"  Nope.  Woah, something from Whatley.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Fine. Fine.  Excuse me.  Think I'm gonna forget about this? I haven't forgotten about this. I don't forget that easily!",
+      "quote": "Umph, sorry! But the rules clearly state that you cannot clean the ball unless it's on the green. The rules are very clear about that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't sit on this bus anymore. I think I'll go play with that dog.",
       "characters": [
         "George",
         "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well obviously that was a mistake. You need to forget about Arnie. The important thing is you're moving on.",
-      "characters": [
-        "Peterman",
         "Elaine",
-        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "By the way, you know you're falling way behind on the 'I love you's.'",
+      "quote": "You have to realise this has not been custom-fitted to his scalp.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Ned",
-        "Meryl"
-      ],
-      "correctAnswer": "Meryl"
-    },
-    {
-      "quote": "I could have given you some pointers. I know how to press those buttons buddy.",
-      "characters": [
-        "Kramer",
+        "Salesman",
+        "Winona",
         "Elaine",
-        "George",
-        "Laura"
+        "Maestro"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Salesman"
     },
     {
-      "quote": "Holy cow it's a scorcher. Boy I bet you that guy can cover a lot of court.",
+      "quote": "Yes, yes of course. The Pensky file. Ho ho, can't wait to sink my teeth into that. Wow that Pensky. Well we'll straighten him out.",
       "characters": [
         "George",
-        "Kramer",
-        "Announcer",
-        "Elaine"
-      ],
-      "correctAnswer": "Announcer"
-    },
-    {
-      "quote": "Hey, you know what I think it is? I think it's that East River. I think it might be polluted.",
-      "characters": [
-        "Kramer",
+        "Jerry",
         "Elaine",
-        "Jerry",
-        "George"
+        "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey, why don't you take her to that place in Vermont I was telling you about? You know, that really charming place with the separate faucets for the hot and cold. She'll love it.",
-      "characters": [
-        "George",
-        "Susan",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Different pipes go to different places! You're gonna mix 'em up!",
-      "characters": [
-        "Jerry",
-        "Naomi",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     }
   ]
 }

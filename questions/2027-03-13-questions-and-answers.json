@@ -1,106 +1,106 @@
 {
-  "gameNumber": 799,
+  "gameNumber": 800,
   "date": "2027-03-13",
   "questions": [
     {
-      "quote": "It was a good bit in the '80's, and it's still relatable today.",
+      "quote": "No, it's normal. You're very normal. You're totally normal. Who's this?",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "Newman",
         "George",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So what you are saying is that 90 to 95 percent of the population is undateable?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "See, what they gotta do is loose a plane or a Greenpeace boat in there. See, that would get the triangle going again.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Puddy",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah? Could you help me bring it up to my office, I'm right next door. Pendant Publishing.",
-      "characters": [
-        "Lippman",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "Well I thought this would be more fun so I gave the tickets away.",
-      "characters": [
-        "Estelle",
-        "Kramer",
-        "Jerry",
-        "Patty"
-      ],
-      "correctAnswer": "Patty"
-    },
-    {
-      "quote": "Huh, I think it's a little old-fashioned. Don't you?  Uh, tell her.",
-      "characters": [
-        "Patrice",
-        "Cynthia",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh no, you've got to go downtown, George. It's all downtown. Just like the song says.",
-      "characters": [
-        "Wilhelm",
-        "Kramer",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "If you think I'm looking for someone to just sit at a desk pushing papers around, you can forget it. I have enough headaches just trying to manufacture the stuff.",
-      "characters": [
-        "Estelle",
-        "Kurt",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I hope Carlitto feels better. Ben really wishes he could've helped.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
         "Leo"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You don't need the cufflinks! You have the same name!  'Jerry'!",
+      "quote": "Jerry, Jerry. Lloyd says it's no problem. He's capable of locating the gum.",
       "characters": [
         "Jerry",
-        "Elaine",
+        "George",
         "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Even if this so called mental defective did put something on her leg she's still the one who laughed.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Huh, yeah.  Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons.",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm worried I won't be able to talk to him. He's such a great writer. Frankly, I prefer the company of nitwits.",
+      "characters": [
+        "Julie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Tell him to come down here and get his own packages. You have nothing better to do then worry about his boxes.",
+      "characters": [
+        "Doris",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Doris"
+    },
+    {
+      "quote": "I wish I could take credit for it. It's actually the line my butcher uses when we're chewing the fat. How about that beautiful desk over there?",
+      "characters": [
+        "Beth",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, I don't think it is a Catholic joke. I think it's more of a Raquel Welch joke. What was it? No, I said hand me the buoys.  Bouys!",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "tes, it's very difficult. Few men have the constitution for it. That's why breakups take two or three tries. You gotta build up your immunity.",
+      "characters": [
+        "Morty",
+        "Willie",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, George? What is this?  What is that? No really, what is that?",
+      "characters": [
+        "Keith",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

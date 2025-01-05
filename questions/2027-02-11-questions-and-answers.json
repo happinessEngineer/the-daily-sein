@@ -1,106 +1,106 @@
 {
-  "gameNumber": 769,
+  "gameNumber": 770,
   "date": "2027-02-11",
   "questions": [
     {
-      "quote": "I've gotta go to court, I'll get in trouble. What's the matter with you?",
+      "quote": "Here's the TV.  I know you wanted to watch the Super Bowl.  Do you at least have some towels we could sit on?  It's, like, a four hour game.",
       "characters": [
-        "Vivian",
-        "Woman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "And then, somehow, we started talking about, what if we had sex.",
-      "characters": [
-        "Jerry",
         "George",
-        "Attendant",
-        "Maestro"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm sorry. I thought it was a legitimate charity. I didn't know you'd get audited",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He's crazy. His phone wasn't even hooked up. He just liked ringing that bell.",
-      "characters": [
-        "Noreen",
-        "George",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Well, if she's available now, I'm not gonna let her slip through my fingers this time. Nooope.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Simon"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What is wrong with my hair? Nobody takes better care of their hair than me. You can serve dinner on my head.",
-      "characters": [
         "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Because, I was worried that there might be a situation in which one of us come home with somebody, it could get a little uncomfortable. But, as long as you're okay with it, it's fine with me.",
-      "characters": [
-        "George",
         "Jerry",
-        "Elaine",
         "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "His name was Carlo Costanza. We played together everyday until I was four. If I could just look through your photographs, maybe I could recognize him.",
-      "characters": [
-        "Doorman",
-        "Peterman",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "\"Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah!\"",
-      "characters": [
-        "George",
-        "Frank",
-        "Jack",
-        "Shelly"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I just found a guy who's willing to pay ten thousand dollars for the apartment.",
+      "quote": "No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a sign. Let's just do it.",
       "characters": [
-        "Jerry",
         "Kramer",
+        "Jerry",
+        "Cindy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, isn't it obvious? She doesn't want anybody else to have me!",
+      "characters": [
         "George",
-        "Elaine"
+        "Jerry",
+        "Woman",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I love it!  This is fantastic!  Look at this couch, is this velvet?!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, hold on. I'm, uh, I'm just trying to get a reading on my dashboard compass. Where are my parents?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Lanette",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if you need that ride, just uhm, gimme a call.  Heh. I can meet you at the gate, Jer.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're just trying to take it all back because you're feeling guilty I'm in here.",
+      "characters": [
+        "Kruger",
+        "George",
+        "Jerry",
+        "Patrice"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Your Honor, with the court's permission, we would like to play back that video and enter it into evidence as Exhibit A.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Estelle",
+        "Morty"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Because George has heightened extra sensory perception. FAYGY GET YOUR FINGER OUT OF YOUR NOSE.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Rula"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "Well, that's the most important thing.  Hey how ya doing Fulton! Octane, Butane, Nitrane!  How's he doing?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Phil"
+      ],
+      "correctAnswer": "Phil"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 464,
+  "gameNumber": 465,
   "date": "2026-04-12",
   "questions": [
     {
-      "quote": "Kramer, listen to me. I'm never gonna have a child. If I lose this Frogger high score, that's it for me.",
+      "quote": "What do you think, junior? You think these hands have been soakin' in Ivory liquid?",
       "characters": [
-        "Frank",
-        "Elaine",
-        "George",
-        "Nina"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ha ha. Ok. I'll meet thee in front of your place, 15 minutes.",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Lisi"
-      ],
-      "correctAnswer": "Lisi"
-    },
-    {
-      "quote": "I do... she's got like a jealousy thing. She doesn't like me having fun with anyone but her.",
-      "characters": [
-        "Morty",
-        "George",
-        "Salesman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Why don't you call her agency. Maybe she's been out of town and she didn't get the calls.",
-      "characters": [
-        "Milos",
-        "George",
+        "Seth",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "This you're not goin' to believe. The NYPL says that I took out Tropic of Cancer in 1971 and never returned it.",
-      "characters": [
-        "Jerry",
-        "Ethan",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No , no no no no. Weddings are a great place to meet chicks. I have to be unfettered.",
-      "characters": [
-        "George",
-        "Voice",
-        "Frank",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Blow it off. Remember Poli Sci? How many of those did we go to?",
+      "quote": "I'm calling to let you know that Russell Dalrimple is no longer with this network.",
       "characters": [
-        "Officer",
-        "Jerry",
-        "Susan",
-        "Dana"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, I'm being heckled on stage. People are yelling out Galloogy.",
-      "characters": [
-        "Hanke",
-        "Glenn",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because he thinks I was lying and I want to show him I wasn't.",
-      "characters": [
-        "George",
         "Kramer",
         "Elaine",
+        "Rita",
+        "George"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "So see um, I didn't say that I wanted to rent it, I was just wondering if there were houses there to rent.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Everybody likes pesto. You walk into a restaurant, that's all you hear - pesto, pesto, pesto.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, sure. Of course.  Um, uh, could you hold these? For just a second, just a second.  Here you go, now don't worry about a thing. It's gonna be fine. Here we go. Look at this shine.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I ruined this autographed picture of him that belonged to the Maestro. You think I can go and get his autograph?",
+      "characters": [
+        "Kramer",
+        "Stan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, why don't we stay here? The back booth just opened up.  Now this is a good looking booth.",
+      "characters": [
+        "Gavin",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whoa, this is a beauty. Great cut. It's probably very flattering.",
+      "characters": [
+        "Steinbrenner",
+        "Willie",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Willie"
+    },
+    {
+      "quote": "More like a dope was giving it to her straight. Another cup of coffee with you, she'll wind up in a convent.",
+      "characters": [
+        "Katya",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh. You don't see many guys your age who keep baby pictures of themselves around.  I like it. Consistent with the rest of the house.",
+      "quote": "Get up! The alarm clock didn't go off!  It's 9:15! You're gonna miss the plane! It's 9:15!",
       "characters": [
-        "Sylvia",
         "Jerry",
-        "Morty",
+        "Elaine",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Sylvia"
+      "correctAnswer": "Elaine"
     }
   ]
 }

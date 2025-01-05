@@ -1,104 +1,104 @@
 {
-  "gameNumber": 362,
+  "gameNumber": 363,
   "date": "2025-12-31",
   "questions": [
     {
-      "quote": "Let me ask you something. If you were going out with somebody and if she did that what would, would you do? Would you continue going out with her?",
+      "quote": "John Germaine? That is amazing. I was just talking about him upstairs with Elaine.",
       "characters": [
-        "James",
-        "Elaine",
-        "George",
-        "Jerry"
+        "Peterman",
+        "Diane",
+        "Jerry",
+        "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nonsense!  I have Benes' woderfully imaginative mind to spin my stories. You take back your tales, you vagabond!",
+      "quote": "Wait a second, I know what's happening. The no sex thing is having a reverse effect on you.",
       "characters": [
         "Elaine",
         "George",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Well, let's just say it wouldn't exist without me.  So you two uh, shop at the same store, ?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I tried to get him one but Man-Hands almost ripped my arm out of the socket!",
-      "characters": [
-        "Waitress",
-        "Elaine",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, hey, hey.  I hear you've got some lip reader working for you. You gotta let me use her for one day. Just one day.",
+      "quote": "Whoa! Walking around naked? Ahh... that is not a good look for a man.",
       "characters": [
-        "Jerry",
-        "Newman",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Don't tell me about business! I sold raincoats for thirty-five years!",
-      "characters": [
-        "Morty",
         "Elaine",
-        "Jerry",
-        "Russell"
+        "Patrice",
+        "Jerry"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "All I could think of was when I was looking at her face was; Newman found this unacceptable.",
+      "quote": "Have you seen his act? He's got a twelve-minute bit about Ovaltine. He's a punk, a patsy, a hack.",
       "characters": [
+        "Jerry",
         "Kramer",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. I am happy, and I'll tell ya why -- because the two of you were making me and every one of your friends sick! Right, Elaine?",
+      "characters": [
         "Lippman",
-        "Jerry",
+        "Sally",
+        "Sharon",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You see . You see. You see what I'm talking about. It's all just slipping away. And you're letting it happen.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Rita"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Great.  Oh, by the way, did you get a chance to read the script?",
+      "quote": "Well, they get very hot in the polyester. You know, it's not a natural fibre. I think they would prefer cotton.",
       "characters": [
-        "Frank",
-        "George",
+        "Bob",
+        "Pitt",
+        "Tina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It won't for a while. At least not until after the cast comes off.",
+      "characters": [
         "Jerry",
+        "Kramer",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, look, there's Bobby Eighteen?s father-in-law, Mr Reichman. George and I were just talking about that today, I can?t believe it! That?s the guy who threw George out of the wedding.",
+      "quote": "I don't want to have anything to do with you or your perverted friends.  Ooohh, get away from me! You're horrible.",
+      "characters": [
+        "Landis",
+        "George",
+        "Jerry",
+        "Marla"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Jerry, get menus so when we sit down we can order right away.",
       "characters": [
         "Elaine",
-        "Jerry",
         "George",
-        "Kramer"
+        "Ray",
+        "Margaret"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You leave me no choice! You're the media now as far as I'm concerned!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Newman",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

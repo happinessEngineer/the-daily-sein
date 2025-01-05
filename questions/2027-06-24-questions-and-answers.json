@@ -1,104 +1,104 @@
 {
-  "gameNumber": 902,
+  "gameNumber": 903,
   "date": "2027-06-24",
   "questions": [
     {
-      "quote": "Hey, where's the waiter. Dad, what say we have some red meat tonight. Let's live a little. .",
+      "quote": "This is the letter she wrote to me, she stole it right from the movie!",
       "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well...hum.....we'll just have to do something about that. Won't we.",
-      "characters": [
-        "Leo",
-        "Joel",
-        "Kramer",
-        "Craig"
-      ],
-      "correctAnswer": "Craig"
-    },
-    {
-      "quote": "It won't for a while. At least not until after the cast comes off.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jackie",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "As you can see my references are impeccable. I think I'd be a real asset here. My only concern is, I do take care of my mother. So will there be any late nights?",
-      "characters": [
-        "Ade",
-        "Poppie",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Ade"
-    },
-    {
-      "quote": "Ah, but he called me up and he asked for yours and Elaine's addresses, I'm sure that means I'm invited.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Todd",
-        "Marty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So yesterday, after they took you away, I looked in my mail and I noticed that the mailman accidentally put your Visa renewal in my mail box.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, he's this guy who used to live in the building and they keep calling us to see the baby.",
-      "characters": [
-        "Newman",
-        "Morty",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I should probably get going too. If I don't feed Pequita by seven, she goes all over everything.. take it easy.",
-      "characters": [
-        "Elaine",
         "Kramer",
         "George",
-        "Jerry"
+        "Guy"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Anyway, it's been two years. I mean isn't there like statue of limitations on that?",
+      "quote": "You know, after I have sex with Emily, uh, I don't want her in the bed any more.",
       "characters": [
-        "George",
         "Elaine",
-        "Jerry",
+        "George",
+        "Woman",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I say we leave now, we go to 'Skyburger' and we scarf 'em down.",
+      "quote": "I know the Maestro didn't tell you to take it, he wasn't there.",
       "characters": [
-        "Landlord",
-        "Russell",
-        "Marcy",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Steinbrenner",
+        "Jackie"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Ah, you've selected ... Brown-Eyed Girl? If this is correct, press one.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Receptionist",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "'Kay. I'll uh, I'll see you later. Anybody want some tomatoes?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think there's ever been an appointment in my life where I wanted the other guy to show up.  Wait a second, is that him?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'Cause believe me, I would only say this to you and maybe a psychiatrist, maybe. Well, her nose is a little big.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "In five minutes. He's then going to pick us up, then we're going to pick up Elaine, and Laura is going to meet us there.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not goin to do it? What do you mean, You're not goin to do it?",
+      "characters": [
+        "Elaine",
+        "Wendy",
+        "George",
+        "Steve"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Tsk. Well, I can guess within the hour, and I don't even have to look at the sun.",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Elaine"
     }

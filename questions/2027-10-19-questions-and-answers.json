@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1019,
+  "gameNumber": 1020,
   "date": "2027-10-19",
   "questions": [
     {
-      "quote": "See, we're already off the subject of how I got her number.  All I gotta do is get past the first phone call and I'm home free.",
+      "quote": "Of course I'm all right. I'm here with my girl, Nina. And what better way to pass the time than gabbing with my best friend -- with whom there are no secrets.  Like this. Since the fourth grade.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Newman"
+        "Elaine",
+        "Newman",
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I dunno. I can't ask her now; I've already made out with her. Once you make out with a woman, you can't ask her her name.",
+      "quote": "Moving cars from one side of the street to the other don't take no more sense than putting on a pair of pants. My question to you is who's putting your pants on?",
       "characters": [
-        "Jerry",
+        "Sid",
+        "Susan",
         "George",
-        "Kurt",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Sid"
     },
     {
-      "quote": "Siege mentality, Jerry. They really want me out of here. They've downgraded me to some sort of a bunker. I'm like Hitler's last days here.",
+      "quote": "Jerry, a throat-clear is a non-verbal implication of doubt - he thinks I killed Susan!",
       "characters": [
         "Elaine",
+        "George",
         "Kramer",
-        "Jerry",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, so get this. I get a call this morning from one of the Mets front office guys. They wanna take me out to lunch.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jackie",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, why don't you wait 'til she's not there on her lunch hour and just take it?",
+      "quote": "Jerry, your grandmother gave you this gift. She wants you to spend the money, to have the fun that she can't have. Oh, this is tantamount to a slap in the face.",
       "characters": [
-        "Aaron",
-        "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Long as they don't throw 'em on the field.  Huhu.  Help yourself to some shrimp, I brought enough for everybody.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What happens if the husband dies after the wife, who brings in the clothing in then?",
-      "characters": [
-        "George",
-        "Salesman",
-        "Jerry",
-        "Wilhelm"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Come on ,c'mon i need to taste it. .....Nothin' , Can't even taste a Macanaw.",
-      "characters": [
-        "George",
         "Kramer",
-        "Newman",
-        "Elaine"
+        "George",
+        "Jerry",
+        "Carol"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That's no good. He wouldn't last ten minutes in there. Anyway what can I do, I promised I'd go visit him tomorrow.  It's his birthday. I can't go to the cabin.",
+      "quote": "I told them I was just about to see you.. It's a Festivus miracle!",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Sally"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You gotta jiggle it a little bit. I jiggled it. I jiggled it for fifteen minutes.",
-      "characters": [
-        "Dan",
-        "Kramer",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Naw, that's probably just a dead body son. You see when the mob kills someone they through the body in the river.",
-      "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Father"
+        "Jerry",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Father"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\" That guy was amazing, he could dunk and he was my height...What was his name again?\"",
+      "characters": [
+        "Attendant",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I love full lips. Something you can really put the lipstick on.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Glenn",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Just when I was doing great. I told you God wouldn't let me be successful.",
+      "characters": [
+        "Gavin",
+        "Morty",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He just walked away! And once again I'm standing here like a little man. Well not this time!  You! Dog man!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

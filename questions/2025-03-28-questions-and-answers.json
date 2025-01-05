@@ -1,106 +1,106 @@
 {
-  "gameNumber": 84,
+  "gameNumber": 85,
   "date": "2025-03-28",
   "questions": [
     {
-      "quote": "No, I haven't worn this jacket since I got it back from the dry-cleaner. Maybe we should ask him.",
-      "characters": [
-        "Jerry",
-        "Wilhelm",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Every wake-up call I make is important. You're no more important than any of our guests.",
-      "characters": [
-        "Man",
-        "Hanke",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "We did a crossword puzzle together, *in bed*. It was the most fun I ever had in my entire life. Did you hear me? in my *life*! Y'know?",
-      "characters": [
-        "Kramer",
-        "Clerk",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!",
+      "quote": "And it was around this point that she mentioned the boyfriend?",
       "characters": [
         "Jerry",
         "Elaine",
-        "George",
-        "Sally"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He was not the summer you. Besides, you had a summer me. Whitey Fisk, the guy who snuck you into Last Tango in Paris.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Lloyd",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh! That's good judgment. That's a pile of judgment there. Sure.",
-      "characters": [
-        "Dan",
-        "Elaine",
-        "Glenn",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, don't you see? This world here, this is George's sanctuary. If Susan comes into contact with this world, his world's collide. You know what happens then?",
-      "characters": [
-        "Kurt",
-        "Jerry",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "David, I'm going to hell! The worst place in the world! With devils and those caves and the ragged clothing! And the heat! My god, the heat! I mean, what do you think about all that?",
+      "quote": "Listen, lemme ask you something. When you're with a guy, and he tells you he has to get up early, what does that mean?",
       "characters": [
-        "George",
-        "Peterman",
         "Elaine",
-        "Jerry"
+        "Jerry",
+        "Helena",
+        "Silvio"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, come on. He's just a lonely old man. All old people steal.",
+      "quote": "I mean, we had a deal, Newman. And you were supposed to give my your birthday wish. And now you've wasted it!",
       "characters": [
-        "Jerry",
         "Kramer",
-        "Kruger",
+        "Jerry",
+        "Worker",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "wouldn't it be invisible? I mean, what, are you going to just sense it's in front of the couch?",
+      "quote": "I wish you'd called me earlier, I could have given you my tickets for tonight.",
       "characters": [
+        "Steinbrenner",
+        "Alec",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "A free trip to India. And by the way, you can take off those boots. Everyone knows you're five' six.",
+      "characters": [
+        "Nina",
         "Elaine",
-        "Kruger",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "It's a pretty full house, the lighting guy's name is Lew, he's got a birthday next week.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "I have mourned for three long months! Summer months, too! Anybody could grieve in January! It's time for George to start being George again.",
+      "characters": [
+        "Toby",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'd love to be a Civil War buff. ... What do you have to do to be a buff",
+      "characters": [
+        "Elaine",
+        "Alec",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "God! She's cooking dinner for God! She's yelling and screaming, and the next thing I know, she throws a big can of chocolate syrup all over my new red shirt.",
+      "characters": [
+        "Clerk",
+        "Newman",
+        "Rebecca",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if he fixes my back I'll be happy. . . .  Have you ever had a sexually transmitted disease? That's IT! . . . Here, you got my name, you got my address. That's enough.",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
     }
   ]
 }

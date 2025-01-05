@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1127,
+  "gameNumber": 1128,
   "date": "2028-02-04",
   "questions": [
     {
-      "quote": "Ah, see.  I got the whole night ahead of me.  Boy, that's a nice jacket, huh?",
+      "quote": "Oh, man. Alright, listen. Just tell me something, what are you gonna say?",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, what are you gonna do? Are you gonna live here, or are you gonna move out, or what?",
+      "characters": [
         "George",
+        "Kramer",
+        "Puddy",
         "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I like that! Hey look, will you do me a favor? Will you take my quilt into the cleaners for me, so I can get the discount too?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, your spirit, your, uh, being. The part of you that says, \"Yes, I can!\"",
+      "quote": "So you asked Mr. Seinfeld if he would wear your puffy shirt on the Today Show?",
       "characters": [
-        "Kramer",
+        "Bruce",
+        "Jerry",
+        "Hoyt",
+        "Elaine"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "George. It's the timeless art of seduction. You got to join in the dance. She sends you an enticing photo, you send her one right back.",
+      "characters": [
         "Elaine",
+        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, hey, listen, I'd better circulate..  Happy Chanukah, Tiffany!",
+      "quote": "Way off? Have you been to the motor vehicle bureau? It's like a leper colony down there.",
       "characters": [
-        "Tim",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "What kind of plastic do you think it is? What do you think like that dry cleaning plastic?",
-      "characters": [
-        "Kramer",
+        "Leo",
+        "Lippman",
         "George",
-        "Jerry",
-        "Raymond"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "She's pregnant? Leslie is pregnant?! Oh, see, there is no justice.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Steinbrenner",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, of course I'm taking Allison. This woman is genetically engineered to go to a ball. Tall, blonde, lithe--",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Leo"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jeannie"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.",
-      "characters": [
-        "George",
-        "Steinbrenner",
-        "Kramer",
         "Jerry"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'd look again. So ah, how come you didn't call Jerry about all this?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, I've never seen him but I feel like we have this weirdly intimate relationship. I mean, I'm lying in bed, I'm wearing my nightie,",
+      "quote": "She's from Finland, for crying out loud. Finland! Do you understand?!",
       "characters": [
-        "George",
+        "Ed",
         "Elaine",
-        "Noel",
-        "Alton"
+        "George",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "And that pinkie toe, come on . How adorable is the pinkie toe.",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know what you ought to do? Go see my friend Dwayne at J & T Optical on Columbus Avenue. He'll give you thirty percent off.",
+      "quote": "Do they take money? Everyone takes money. I used to go out with a guy who did it all the time, you just slip him 20 bucks.",
       "characters": [
-        "Jerry",
-        "George",
+        "Deena",
         "Elaine",
-        "Kramer"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

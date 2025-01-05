@@ -1,106 +1,106 @@
 {
-  "gameNumber": 688,
+  "gameNumber": 689,
   "date": "2026-11-22",
   "questions": [
     {
-      "quote": "The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap.",
+      "quote": "I think I understand this. Jay Peterman is real. His biography is not. Now, you Kramer are real.",
       "characters": [
-        "George",
         "Jerry",
-        "Kramer",
-        "Detective"
+        "George",
+        "Elaine",
+        "Izzy"
       ],
-      "correctAnswer": "Detective"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well what difference does it make? They wouldn't lie to us, they're are dear friends.",
+      "quote": "Because great couples always have a great story about how they met. That's why I've never been in a long term relationship. I've never had a good meeting story.",
       "characters": [
-        "Frank",
         "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I said I had a good time and I'd call, but who takes that literally?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I could have had some ice cream. I think that might have calmed down the nachos.",
+      "characters": [
+        "Jerry",
+        "Dana",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It was a cold winter's night in Timbuktu...  Oh! This stinks!  Oh, come on... come on...!...God!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I have to. But I'm gonna need to storyboard this whole thing. Where are my magic markers?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Farkus"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well you got that big comfortable bed and that nice warm quilt.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, hi. I have Anna here. There's something I wanna say to both of you.",
+      "characters": [
+        "Captain",
+        "Elaine",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no! The letter, Newman, it's got exclamation points all over it!",
+      "characters": [
+        "John",
+        "Leo",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "I'm outta the picture. I am outta the picture.  It's only a matter of time now.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Holly",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, they're all through ruining my life. What the hell are they still doing here? Lemme see this pamphlet. Hm. All right, so I'll, uh, get back to you.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Bania",
-        "Receptionist"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So I'm going through the airport and I have to put my bag on that little uh, uh, the uh, that uh, the conveyor belt.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Secretary",
-        "Elaine"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You think you're so damn special because you say 'God bless you'?",
+      "quote": "Nah. It's not good for friends to talk about money, it can affect the friendship.",
       "characters": [
-        "Jerry",
+        "Kelly",
+        "Earl",
         "George",
-        "Michael",
-        "Pitt"
-      ],
-      "correctAnswer": "Michael"
-    },
-    {
-      "quote": "Do you believe the deal we got on this? A big screen TV? At that price?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So I finally stop and say, \"Tatiana, I hope you don't take this the wrong way, but I think it would be best if I left\".",
-      "characters": [
-        "George",
-        "Jerry",
-        "Joel",
-        "Ben"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because I'm not sure and and and correct me if I'm wrong but I think I see ... a nipple.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Vanessa",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Banker! So you're killing yourself because your dreams of becoming a banker have gone unfulfilled. You-you-you-you can't live without being a banker.",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Jerry",
-        "Joe"
-      ],
-      "correctAnswer": "Newman"
     }
   ]
 }

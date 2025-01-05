@@ -1,106 +1,106 @@
 {
-  "gameNumber": 40,
+  "gameNumber": 41,
   "date": "2025-02-12",
   "questions": [
     {
-      "quote": "I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger..  Hey, is anybody listening?!",
+      "quote": "She does a full hour about how you're the devil .I got to go see this thing.",
       "characters": [
+        "George",
         "Elaine",
-        "Kramer",
         "Jerry",
+        "Vandelay"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! Not me pal. I can't keep this up much longer. I'm sick of being single. I'm getting out.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! Step into that spotlight and belt that gonorrhea out to the back row.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Rudy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is not a Metallica concert, it?s an opera alright, a little dignity, a little class, just give me my ticket, I will stand over here and sell it.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Bruce"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But enough about fish, huhuhu. I can discuss other things you know, ah… architecture. Huhu.",
+      "characters": [
+        "Hal",
+        "Jerry",
+        "Lloyd",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It doesn't have to be someone who gets a lot of women. It could be just some guy with a big ass.",
+      "quote": "What is that about leaving after sex? Did I ever leave with you?",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Jackie",
-        "George",
-        "Jerry"
+        "Kramer",
+        "Clerk"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm afraid I have some bad news, Elaine. It appears you will not be accompanying me to Africa.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "I especially enjoy the catalogue, those fanciful narratives really take me away..",
+      "quote": "Made out to the Human Fund.  Oh, damn. I've locked myself out of my office again. Oh well. I'm going home.",
       "characters": [
         "George",
+        "Kruger",
         "Jerry",
-        "Craig",
-        "Ray"
-      ],
-      "correctAnswer": "Craig"
-    },
-    {
-      "quote": "This is so exciting. When are you going to sign the contract?",
-      "characters": [
-        "Helen",
-        "Elaine",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Well, nothing. His part of the story is done.  So I'm waiting for the subway, It's not coming, so I decided to hoof it through the tunnel.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Wilhelm",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So let me get this straight. She saw the floss, you panicked and you told her you liked her.",
-      "characters": [
-        "Lois",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I guess after that many beers he's probably a little groggy anyway.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, yeah. Top floor.  Listen, Frank, have you ever considered wearing something for support? Now, look at this.  Mind you, this is just a prototype.",
-      "characters": [
-        "Jerry",
-        "Daphne",
-        "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Kruger"
     },
     {
-      "quote": "Oh, actually I, uh, I have some very interesting information on that.  You know, uh, this is a co-venture and as...",
+      "quote": "His administration did excel in one department: the hiring of incompetents.",
       "characters": [
-        "Lippman",
-        "Peterman",
+        "Kramer",
+        "Jack",
         "Jerry",
-        "Joel"
+        "Stan"
       ],
-      "correctAnswer": "Lippman"
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Why would I spend seven dollars to see a movie that I could watch on TV?",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, um, before I forget, . . . Cuban cigars. It's a present from my father.",
+      "characters": [
+        "Ade",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
     }
   ]
 }

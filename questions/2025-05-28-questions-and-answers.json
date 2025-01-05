@@ -1,106 +1,106 @@
 {
-  "gameNumber": 145,
+  "gameNumber": 146,
   "date": "2025-05-28",
   "questions": [
     {
-      "quote": "I can't believe you still do that. You know those things are bad for ya.",
+      "quote": "Friends. Yeah! Why not friends? I might like to try that! Like you an' Jerry!",
       "characters": [
-        "Darryl",
         "Jerry",
-        "Brett",
-        "Peterman"
+        "Kevin",
+        "Abby",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kevin"
     },
     {
-      "quote": "Oh, I get it. Why waste time making small talk with the doorman? I should just shut up and do my job, opening the door for you.",
+      "quote": "All right I'll talk to her. If you want to be a ball man go ahead, break the ball barrier.  Hey.",
       "characters": [
-        "Doorman",
-        "Landlord",
         "Jerry",
-        "Rava"
-      ],
-      "correctAnswer": "Doorman"
-    },
-    {
-      "quote": "Well, ELAINE:, There's any number of things I could do. But, I can promise you this, though, this vicious beast will never bother you again. So, what's it going to be?",
-      "characters": [
-        "Kramer",
-        "Jerry",
+        "George",
         "Newman",
-        "Peterman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Excuse me, fine, you don't want me to tuck, put me down for a no-tuck.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Jeannie",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Brett, I'm, I'm really sorry. I didn't mean to hit you in the head with.. an axe.",
+      "quote": "All right, that's it. From now on no more calling out they found it, unless we're sitting in it. Okay?",
       "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Babs"
+        "Jerry",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Two seconds. [To Skycap] Excuse me, my friend and I here, we were having a discussion and we were wondering what you usually get for a tip.",
+      "quote": "You see the beauty of my book is, if you don't have a coffee table, it turns into a coffee table.",
       "characters": [
-        "Kramer",
-        "George",
-        "Jackie",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "on the left--exquisite marble! High ceilings. An' a flush, like a jet engine!  Ha ha!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Jack",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, I see. So your time is more valuable than mine. Is that it? You're a delicate genius!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well you can confine them, you can punish them, you can cram them into the corner, but they're not going away, Jerry.",
-      "characters": [
-        "Eva",
         "George",
         "Kramer",
+        "Frank",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He, uh, he must've been dictating first thing in the morning. \"I want a cup of coffee and a muffin!\"",
+      "quote": "Sir, I just got a call from the terrorist. I told him to call back here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not saying anything, I'm putting it in the vault, I'm locking the vault, it's a vault!",
       "characters": [
         "Jerry",
-        "Peterman",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I?ll tell you what I?ll do. Cause you look like a nice guy, a thousand dollars for the duce.",
+      "characters": [
+        "Kramer",
+        "Jerry",
         "George",
         "Elaine"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no, you're not going out on a high note with me Mr. Kruger!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Toby",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no. I'm not happy, I'm not lucky, and I don't go. If anything I'm sad stop unlucky.",
+      "characters": [
+        "Todd",
+        "George",
+        "Kate",
+        "Jerry"
+      ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have nothing to say to anybody. I'm so uninteresting. I think I'm out of conversation.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Elaine",
+        "Jake"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

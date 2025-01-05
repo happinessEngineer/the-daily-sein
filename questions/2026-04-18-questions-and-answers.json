@@ -1,106 +1,106 @@
 {
-  "gameNumber": 470,
+  "gameNumber": 471,
   "date": "2026-04-18",
   "questions": [
     {
-      "quote": "Jack can afford to give away a pen with all his money. Believe me. He gives me a check for 19.45. He didn't have a Coke. Ho, ho, ho!",
+      "quote": "Oh, the sex is wild but she's got this incredible toy collection and she won't let me near it!",
       "characters": [
-        "Morty",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Sure, the pinky toe is cute! But, I mean, what is it? It's useless! It does nothing. It's got that little nail that is just impossible to cut. What do we need it for?",
-      "characters": [
-        "George",
-        "Helen",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "OK, so then I put it on at home. It looks like I'm carrying twins.",
-      "characters": [
-        "George",
-        "Woman",
+        "Sally",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Sure, sure, sure, sure.  How about these seats? Are these fantastic, huh? Huh? I feel like Lincoln.",
-      "characters": [
-        "Woman",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh great, oh, this is great.  How could you let him take the car?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Sid",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya?",
-      "characters": [
-        "Maryedith",
-        "Jerry",
         "George",
-        "Karen"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "My father gave me four tickets to the Yankee game for Saturday afternoon. Owner's box, first row behind the dugout.",
+      "quote": "George knows that you slept with Nina. That's why he was acting so weird.",
       "characters": [
-        "Jerry",
-        "Nina",
+        "Driver",
         "George",
-        "Helen"
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Nina"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well what happens if I can't play like I was? What about the tour, and all my dreams?",
+      "quote": "I don't know her either.  She makes me fly all the way from Florida for this, and then she criticizes my jacket.",
       "characters": [
+        "George",
         "Elaine",
+        "Morty",
+        "Frank"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hu, good, good,... well if he's calling in a month he's got a prayer!",
+      "characters": [
         "Jerry",
+        "Kramer",
+        "George",
+        "Sheila"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you don't take your coat off, and now everyone at NYU thinks I'm gay. Not that there's anything wrong with that...",
+      "characters": [
+        "Jerry",
+        "Elaine",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, she wants me to like her, if she likes me. But she doesn't like me!",
+      "quote": "You walk over that table, you pick up an eggroll, you don't say anything, you eat it, say 'thank you very much', wipe your mouth, walk away- I give you 50 bucks.",
       "characters": [
-        "George",
+        "Sid",
+        "Kramer",
         "Jerry",
-        "Morty",
-        "Elaine"
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, like the general manager of a baseball team or something.",
+      "characters": [
+        "Elaine",
+        "Melissa",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "\"Oh no, you got to eat before surgery, you need your strength.\"",
+      "quote": "George, forget about the shoes. Want you to do something for me . This handicapped woman had an accident. Somebody gave her a used wheelchair with defective brakes.",
       "characters": [
-        "George",
+        "Frank",
+        "Jerry",
         "Kramer",
-        "Elaine",
-        "Jerry"
+        "Woman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "You go out with a guy one time, you ask him to go upstairs like you're Mae West?  Of course he's gonna try and get you alone for the weekend.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Driver",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why, so he'll go to the interview and he wouldn't know what he's talking about!?!",
+      "characters": [
+        "Lippman",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

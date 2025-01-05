@@ -1,106 +1,106 @@
 {
-  "gameNumber": 113,
+  "gameNumber": 114,
   "date": "2025-04-26",
   "questions": [
     {
-      "quote": "Go to any office building on 7th Avenue and tell me if there's anyone there wearing a thin tie like that. Go ahead!",
+      "quote": "There was no meeting.  But it was quite a meeting. You are looking at the next director of Mets scouting. The only thing is, I have to get fired from the Yankees first.",
       "characters": [
-        "Estelle",
-        "Kramer",
+        "Jack",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Ah those are the pastries, Ray take care of that, I'm going to get Elaine the manuscript.",
-      "characters": [
-        "Kramer",
-        "Secretary",
-        "George",
-        "Rava"
-      ],
-      "correctAnswer": "Rava"
-    },
-    {
-      "quote": "Well, I'm really sorry I gotta run now.  Well, take it easy, huh, George?",
-      "characters": [
-        "Lloyd",
-        "George",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Lloyd"
-    },
-    {
-      "quote": "So, she's the loser of the group. Every group has someone that they all make fun of.. Like us with Elaine.",
-      "characters": [
-        "Ray",
-        "Wendy",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No. I like the ball! This is my One Chance to make a Great Entrance! My whole life! I have never made a great entrance!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
+        "Newman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah! Get in there and give her a call. Pick up the phone and call her!",
+      "quote": "Hey, uh, I'll see you boys later.  So uh, what's a guy got to do around here to get a library card?",
       "characters": [
-        "Jerry",
+        "Morty",
         "Kramer",
-        "Michael",
-        "Elaine"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That would be good too. The idea is combine the this and the that. But this cannot be disturbed.",
+      "quote": "Jerry, I'll tell ya. The first thing I'm gonna do when I get back to Florida is take a shower.",
       "characters": [
-        "Man",
-        "Jerry",
+        "Morty",
         "Elaine",
-        "Deena"
+        "Jerry",
+        "Julianna"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "You know, I'm the one responsible for those crop circles in England.",
+      "quote": "All right look, I am going to have to pay you back later. I don't have my wallet.",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "Elaine",
         "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, George, look at me. Okay, forget about the zipper. ... What's your girlfriend's name?",
+      "characters": [
+        "George",
+        "Dana",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Dana"
     },
     {
-      "quote": "Excuse me...I really... What's happened is that my friend forgot where he parked and if you're not in a big hurry, we'd really appreciate it if...",
+      "quote": "Eh, listen Mr. Kruger, I got a message from Dr. Van Nostrand and he says it might be wise to you to see another doctor about that mole.",
       "characters": [
-        "Kevin",
-        "George",
-        "Woman",
-        "Jerry"
+        "Ava",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, that's Jerry, you don't have to worry about him. Why don't you go across the hall and get started on that mail.",
+      "quote": "Well, I believe there's some legal precedent - Winchell vs. Mahoney,",
       "characters": [
-        "Jerry",
+        "George",
+        "Elaine",
         "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's our store and our mannequin, we can do whatever we want with it.",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "See now that bothers me even more than dying bothers me, cause it's people like you who live to be a hundred and twenty because you're not bothered by it. How could it not bother you?",
+      "characters": [
+        "Duncan",
+        "Attendant",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You gotta get back together with Puddy so I can make this deal.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

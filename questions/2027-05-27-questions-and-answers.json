@@ -1,104 +1,104 @@
 {
-  "gameNumber": 874,
+  "gameNumber": 875,
   "date": "2027-05-27",
   "questions": [
     {
-      "quote": "Elaine, what percentage of people would you say are good looking?",
+      "quote": "That's right. That's why we stopped carrying batteries. Look, I'll be honest with you, we've had a lot of trouble with theft lately - and my boss says I have to make an example to someone.",
       "characters": [
-        "Kramer",
-        "Kimbrough",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, I can't talk to Jerry anymore. Ever since he moved into that apartment he's too much ... like you.",
-      "characters": [
-        "Estelle",
-        "Jerry",
+        "George",
         "Kramer",
-        "George"
+        "Manager"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Manager"
     },
     {
-      "quote": "I've always believed in you Cosmo. You know that. So I want you to call that place today and tell then tha you're through.",
+      "quote": "Wow. Well then my mentor suggested that I move into equities, best move I ever made.",
       "characters": [
+        "Kramer",
         "Elaine",
         "Newman",
-        "Jerry",
-        "Babs"
+        "Woman"
       ],
-      "correctAnswer": "Babs"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "I am not! What you call wasting, I call living! I'm living my life!",
+      "quote": "You see kid, you're being bamboozaled. These capatalist fat cats are inflating the profit margin and reducing your total number of toys.",
       "characters": [
-        "Poppie",
         "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I told you to clean out this garage. I have to put my car in!",
-      "characters": [
-        "Estelle",
-        "Jerry",
-        "Hal",
-        "Kramer"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Same thing. My god, I'm getting married in December, do you know that?",
-      "characters": [
-        "Deena",
-        "Jerry",
-        "Steinbrenner",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hello Joe, listen this is Jerry Seinfeld, I really think there?s been a huge colossal misunderstanding,",
-      "characters": [
         "Kramer",
-        "Jerry",
-        "George",
+        "Doctor",
         "Farkus"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ha.Ha.Ha. ha...You don't have any money. I make more money than you do. ha. ha. ha. Yeah.. give me the papers I'll sign 'em. a pre-nup...",
+      "quote": "Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive.  Now, let's have a look at you.",
       "characters": [
-        "Susan",
         "Jerry",
-        "Beth",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Are, are you sure this is decaf? Where's the orange indicator?",
+      "characters": [
+        "George",
+        "Fdr",
+        "Jerry",
+        "Heather"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Great. You know, Frankie, I was wondering. What if I decided that it's silly to drive a van, because, you know, I live in New York City. Is there maybe some way I could exchange it?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Stupid cigars. You know if I didn't send Nikki over to talk to him they wouldn't be together.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "See, I think people would talk about it at the coffee machines.",
+      "quote": "Oh no, I can't do it. I-I'm not good at these things, I get flustered. Once I tried to bribe an usher at the roller derby, I almost got arrested.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I have this... fun little assignment I think you'll enjoy. There's some reps in from the Houston Astros for talks on that interleague play... and I want you to show them a good time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Off the market? The sponge? No, no...no way. Everybody loves the sponge.",
       "characters": [
         "George",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "bowling! what do you say bowling? bowling's insane! bowling is crazy time",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Frank"
       ],
       "correctAnswer": "George"
     }

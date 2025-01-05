@@ -1,106 +1,106 @@
 {
-  "gameNumber": 36,
+  "gameNumber": 37,
   "date": "2025-02-08",
   "questions": [
     {
-      "quote": "Hey listen... umm, instead of the movie... uh, maybe we'll go back and uh you know...",
+      "quote": "That irreverence, that wit I'd recognize it anywhere. Some charlatan has stolen a Ziggy and passed it off as his own. I can prove it. Quick Elaine, to my archives.",
       "characters": [
-        "George",
-        "Jerry",
+        "Peterman",
         "Elaine",
-        "Kramer"
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, how long you've been seeing her. What's your phone call frequency? Are you on a daily?",
+      "characters": [
+        "Kramer",
+        "Tor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Whatever!!. . . . Oh oh oh this is unbelievable. This is better than my bed at home.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Woman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I mean, it was something we did. Probably about, what? Twenty-five times?",
+      "quote": "Oh, you're welcome. You know I think I ate too much of that garlic.",
       "characters": [
-        "Newman",
-        "George",
-        "Rebecca",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, you know what, maybe we should all chip in for the gift.",
-      "characters": [
-        "Elaine",
-        "Estelle",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So? I'm innocent! I mean you guys believe that I'm innocent, don't you? Jerry? George?",
-      "characters": [
-        "Newman",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Not because he think you stole the money, but mainly because you never thanked him for giving you his aisle seat at Freddy Roman's show.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Evelyn"
-      ],
-      "correctAnswer": "Evelyn"
-    },
-    {
-      "quote": "Oh, this baby loves the slob, loves it, eats it up. Eats the slob. Born in the slob. His father was a mudda'.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well what are we going to do now. If we can't get the babka the whole thing's useless.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hello, Jerry. Say, this yogurt is really something, huh? And it's non-fat! I've been waiting for something like this my whole life! And it's finally here!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Brett",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Like you this donation for 50 bucks and I'd start tearing my clothes off?",
-      "characters": [
-        "Pam",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Looking at cleavage is like looking at the sun, you don't stare at it. It's too risky. You get a sense of it and then you look away.",
-      "characters": [
-        "Jerry",
-        "George",
+        "Katie",
         "Frank",
-        "Elaine"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! That's good judgment. That's a pile of judgment there. Sure.",
+      "characters": [
+        "Kramer",
+        "Jodi",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes yes George. Can you talk to me for a second? Of course you can -- I'm a very accessible man. I just wanted to say you're doing great work on that Canola oil stuff.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Elaine, I don't want you causing any trouble down at that soup stand. I happen to love that soup.",
+      "characters": [
+        "John",
+        "Noel",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.. When he's dead he'll be relieved... Oh by the way Viking Press sent a Fedex for you to my parents. They brought it with 'em.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Play Now thinks I got problems in both legs. My own personal Rascal, Jerry. On the house.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you know that I have been using the same bottle of shampoo for a year? And I shampoo every day.  So, what do you think of my conversation?",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Lippman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

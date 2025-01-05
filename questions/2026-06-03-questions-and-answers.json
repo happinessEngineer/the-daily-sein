@@ -1,106 +1,106 @@
 {
-  "gameNumber": 516,
+  "gameNumber": 517,
   "date": "2026-06-03",
   "questions": [
     {
-      "quote": "Right. So I call her up, I tell her it's me, she gives me an enthusiastic 'Hi!'",
+      "quote": "But now I have my own market research. Actual Japanese viewers, that love the show! I'm gonna talk to Kramer.",
       "characters": [
-        "Morty",
-        "George",
-        "Newman",
-        "Jerry"
+        "Gary",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.",
+      "quote": "...and, and 'maybe' she'll see me when she gets there, does this woman intend to spend time with me?",
       "characters": [
-        "Frank",
-        "George",
+        "Doctor",
+        "Elaine",
         "Jerry",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "OK, fine. 'What do I have to do to put you in this van today?'",
+      "quote": "You know what the temperature in Florida is today? Eh? Seventy-nine. That's almost eighty. Yeah, I read someplace the life expectancy in Florida is eighty-one and in Queens, seventy-three.",
       "characters": [
-        "Elaine",
-        "George",
-        "James",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "The adoption agent seems to feel that Arnie has a violent temper.",
-      "characters": [
-        "Beth",
-        "Elaine",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Beth"
-    },
-    {
-      "quote": "I suppose I could just pull this out and walk around like this and you wouldn't care?",
-      "characters": [
-        "Susan",
-        "Wilhelm",
         "Jerry",
+        "Wilhelm",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Ah, so, ah, flower shows and, shopping for pretty bows, and then back to her place, strip down to bra and panties for a tickle fight?",
+      "quote": "Like a \"Hey your mother is uglier than Hazel. Hazel really puts your mother to shame\"",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Jane",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.",
-      "characters": [
+        "Babu",
         "George",
-        "Frank",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Look at where we are!  He's not stopping! He just keeps going and going and going!  We're not in the first row?",
+      "quote": "I would like to dip my bald head in oil and rub it all over your body. [No reaction] You don't understand! It's a miracle! You don't understand because you don't speak English!",
       "characters": [
         "George",
-        "Elaine",
         "Kramer",
-        "Jerry"
+        "Frank",
+        "Susan"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "When my mother was abducted by the Communists, she was with child...",
+      "quote": "Wouldn't it be great if you could ask a woman what she's thinking?",
       "characters": [
-        "Detective",
+        "Sidra",
         "Kramer",
-        "Poppie",
-        "Daphne"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Poppie"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm not interested in the X-Rays. I want my money back. Somebody stole my wallet. I had $225 in there.",
+      "quote": "All right, All right. Lets get down here. You really want to get out of this thing ?",
       "characters": [
+        "Sylvia",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So it was a good party, huh? Oh... you're welcome, you're welcome...  They loved the TV, *loved* it!",
+      "characters": [
+        "Aaron",
         "Elaine",
         "Jerry",
-        "George",
-        "Morty"
+        "George"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, calm down, maroon Golf. He thinks I cut him off. He accelerated.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is George Costanza, I'm calling for my test results. Negative? Oh, my God. WHY! WHY! WHY? What? What? Negative is good? Oh, yes of course! How stupid of me. Thank you. Thank you very much.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

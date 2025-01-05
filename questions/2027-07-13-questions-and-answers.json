@@ -1,106 +1,106 @@
 {
-  "gameNumber": 921,
+  "gameNumber": 922,
   "date": "2027-07-13",
   "questions": [
     {
-      "quote": "Hey I'll get married if I have to. Al Netchie will think twice before he opens his mouth about me again.",
+      "quote": "And it's a waste of my talent. It's just a little burning. Mickey, he got bacterial meningitis.",
       "characters": [
-        "George",
-        "Jerry",
-        "Peterman",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I can't believe you all made me leave before the end of the game.",
-      "characters": [
-        "Mike",
         "Kramer",
         "Jerry",
+        "Stu",
         "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Neither did you, that's how he got caught. We sent in four notes from two doctors.",
+      "characters": [
+        "Elaine",
+        "Sally",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why is everyone talking about \"The English Patient, it's so romantic\".  God, that movie stunk!",
+      "quote": "Ten minutes? That's kooky talk. Hey Elaine, how long do you spend in the shower?",
       "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Jackie"
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, hi. I-I'm Jerry Seinfeld. I'm movin' in. I saw your name on the buzzer - You must be Kessler.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I got a great idea for a cologne. The Beach. You spray it on and you smell like you just came home from the beach",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah ha, well, I really wouldn't know about that. I don't watch much TV. I like to read. So what do you do, a lot of that \"did you ever notice?\" this kind of stuff.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know what? I think this Ruthie Cohen gave me the wrong change. Didn't I pay with a twenty? I'm sure I paid with a twenty.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"Well, what am I gonna do for a date.?...Oh! do you know that ..hemmm! blond guy who's always at the exercycle at the health club?\"",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Carol"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That's being scored a triple for Paul O'Neill with a throwing error charged to Martinez.",
+      "quote": "You know, when I first met you, Kramer, you used to wear jeans all the time.",
       "characters": [
-        "Tv",
-        "Kramer",
-        "Wilhelm",
-        "Elaine"
-      ],
-      "correctAnswer": "Tv"
-    },
-    {
-      "quote": "Maybe he was going to say \"Of course I have to check with my associates.\"",
-      "characters": [
-        "Kramer",
         "George",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Wait a second, wait a second, what coming in, what woman is coming in?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Allison"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I think I saw him on land a couple times. So how's the job situation goin'?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Great. Uh, you know what? Why don't you put it in the car so I don't toss it in that dumpster?",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Corinne",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, George, because of society. So how did the big meeting turn out?",
-      "characters": [
-        "Frank",
-        "George",
-        "Kramer",
+        "Man",
+        "Emily",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, see those two women over there? I almost dated the one on the right. She's in the closet business.",
+      "quote": "I'll tell you what. Why don't we just get a couple of dishes and we'll just share 'em.",
       "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "Newman",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

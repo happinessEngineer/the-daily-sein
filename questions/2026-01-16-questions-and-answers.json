@@ -1,106 +1,106 @@
 {
-  "gameNumber": 378,
+  "gameNumber": 379,
   "date": "2026-01-16",
   "questions": [
     {
-      "quote": "No I can't I've got some stuff to do then I've got to meet Keith at my apartment at three. I'm helping him move.",
+      "quote": "You heard me. So he packed it up and split for the coast. La-La Land. L.A.",
       "characters": [
-        "Jerry",
-        "George",
-        "Gail",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Now my sense of it is that you're probably wasting time working piecemeal, first cleaning one area, then another.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Rick",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, he like you though. Said you reminded him of somebody he knew in Korea.",
-      "characters": [
-        "Elaine",
-        "Peterman",
         "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, sometimes people won't go in a place, if they don't see anyone else in there.",
-      "characters": [
-        "Elaine",
+        "Craig",
         "George",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hmm, that job sounds like it might be worth a year's free haircuts. And a comb.",
-      "characters": [
-        "Newman",
-        "George",
-        "Officer",
-        "Jerry"
+        "Newman"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "\"It's a long journey from Milan to Minsk…\"  wait wait. Hold it stop,  I'm sorry, I have to start it over, my shoelace.  I can't do it like this. Please let me start over.  Please.  Please. . . .",
+      "quote": "Look, we're not gonna be that long anyway... we have to get to the \"party\"!",
       "characters": [
-        "Gennice",
-        "George",
-        "Jack",
-        "Kramer"
-      ],
-      "correctAnswer": "Gennice"
-    },
-    {
-      "quote": "Ehh.  Remember that summer at Dairy Queen where I cooled my feet in the soft-serve machine?",
-      "characters": [
-        "George",
         "Jerry",
         "Elaine",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Okay, come on boys, come on in here. George, this is Herb and Dan.",
+      "quote": "This friend of Susan's is staying with us for two weeks...Now am I wrong or is that excessive?",
       "characters": [
-        "Steinbrenner",
-        "George",
-        "Man",
-        "Elaine"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "What is it about sex that just disrupts everything? Is it the touching? Is it the nudity?",
-      "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Susan",
+        "Corinne",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm meeting him for lunch at Chadway's around the corner, do I have to break up with him face to face or can I just wait and do it over the phone?",
+      "quote": "What I want to do is put it on the air. 13-episode commitment. Start it off on Wednesday night, build up an audience. This show needs time to grow. I love that Kramer guy.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kimbrough"
+      ],
+      "correctAnswer": "Kimbrough"
+    },
+    {
+      "quote": "And you have also brought with you, another bra,  exactly like, the one that she so flagrantly exhibited herself in!",
+      "characters": [
+        "Pop",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Uhn-uh-uhn - Uhn-uh-uhn - - veeer, veeer, veeer, veeer, veeer, veeer, veeer, veeer… A-Ha ha! Mission accomplished! Back to base, Joe.  dee, de-de, de-de-de-de-de",
+      "characters": [
+        "Jerry",
+        "George",
+        "Captain",
+        "Marla"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you're very welcome. So, I guess I better get going. Gotta meet mother a t the Guggenheim. Sure you don't want to go?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Julie",
+        "Estelle"
+      ],
+      "correctAnswer": "Julie"
+    },
+    {
+      "quote": "I tried to tear it from the side, you can't get a good grip here. You gotta do it like a bag of chips.",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Gavin",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? I give out my number to just about every customer who comes in here.",
       "characters": [
         "Kramer",
-        "Morty",
+        "Elaine",
         "George",
-        "Elaine"
+        "Naomi"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "YEAH!! UGH!!! ARG!!! ... I am afraid we're going to have to stop.",
+      "characters": [
+        "Jerry",
+        "Dana",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Dana"
     }
   ]
 }

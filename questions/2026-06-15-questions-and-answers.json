@@ -1,106 +1,106 @@
 {
-  "gameNumber": 528,
+  "gameNumber": 529,
   "date": "2026-06-15",
   "questions": [
     {
-      "quote": "I'm okay. I'm fine. I'm wonderful. I never felt better in my whole life.",
+      "quote": "Actually, the seat next to me was empty, so, there was no problem at all.",
       "characters": [
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Jerry",
-        "George"
+        "Sally"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Sally"
     },
     {
-      "quote": "Well, I think of you as part of my family. You've come to be like a daughter to me and I want to make sure you're taken care of after I'm gone.",
+      "quote": "I used to share that same outlook. But now, I have so many things to occupy my mind. For instance, the atom.",
       "characters": [
-        "Pitt",
         "George",
         "Elaine",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Pitt"
-    },
-    {
-      "quote": "I must've had at least eight in my mouth. I couldn't talk. I couldn't talk!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What a sale, huh? And how about that store, delivering it tonight? We're gonna be swimming in 'thank you's...",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Cynthia"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh hey, by the way. Do you want a box 'a, Cuban cigars? I smoked one last night. I got nauseous.",
-      "characters": [
-        "George",
-        "Helen",
-        "Jerry",
-        "Elaine"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So chasing little kids huh? You're in a lot of trouble mister.",
+      "quote": "Uh, well, we, uh, we had to leave early. There was a, uh, slight monetary discrepancy regarding the bill.",
       "characters": [
-        "Bania",
-        "Deena",
-        "Kramer",
-        "Officer"
-      ],
-      "correctAnswer": "Officer"
-    },
-    {
-      "quote": "Oh, sure. Of course, you're entitled. Who doesn't want this, that, and the other?",
-      "characters": [
+        "Ed",
         "George",
         "Elaine",
-        "Jerry",
-        "Sally"
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Great streak of luck I'm having.  First, Kramer almost beat me at Risk but I narrowly escaped, and then Tim Whatley gives me his Super Bowl ticket.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Newman",
+        "Susan"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Actually, you know I just remembered I promised this comedy club that I'd do a set tonight, so, terribly sorry.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Holly",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm sorry I don't have a square to spare, now if you don't mind",
+      "quote": "You've got a good eye, there. I see you've noticed the uni-body construction. I'm Rick. Are you looking to buy or to lease?",
       "characters": [
+        "Salesman",
         "George",
-        "Bob",
-        "Frank",
-        "Jane"
+        "Farkus",
+        "Jerry"
       ],
-      "correctAnswer": "Jane"
+      "correctAnswer": "Salesman"
     },
     {
-      "quote": "'Cause I'm on a special diet, and the doctor said I can't have any fat.",
+      "quote": "Nobody can be in here for 48 hours, I got my parents in town.",
       "characters": [
-        "George",
         "Jerry",
-        "Maryedith",
-        "Elaine"
+        "George",
+        "Morty",
+        "Newman"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So anyway, he sings, he dances. And do you know what he's gotten into now? He is cooking! He does a crepe...",
+      "quote": "Banker! So you're killing yourself because your dreams of becoming a banker have gone unfulfilled. You-you-you-you can't live without being a banker.",
       "characters": [
         "George",
-        "Mickey",
-        "Woman",
+        "Gary",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, I'm getting rid of all my furniture. All of it. And I'm going to build these different levels, with steps, and it'll all be carpeted with a lot of pillows. You know, like ancient Egypt.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Russell",
         "Kramer"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, Jerry is going to be here any second, and then this line is going to start moving, and we're going to end up in the front row.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

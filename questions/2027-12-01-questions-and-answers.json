@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1062,
+  "gameNumber": 1063,
   "date": "2027-12-01",
   "questions": [
     {
-      "quote": "Put everyone on alert, check all the area hospitals, clinics, shelters, we've gotta find that kid.",
+      "quote": "Goodnight. Oh, Jer, by the way, the woman we gave a ride to earlier tonight,",
       "characters": [
         "Jerry",
-        "Newman",
-        "George",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "you said \"step off\"? wow, that is too much hey..huh hey  Tony, I huh, I just had this brainstorm for us. Can you guess what it is?",
-      "characters": [
         "George",
         "Kramer",
-        "Jerry",
-        "Maestro"
+        "Keith"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Keith"
     },
     {
-      "quote": "Are you often on business trip? Nice...oh, hey nice ice-bucket.",
+      "quote": "Yeah! Get in there and give her a call. Pick up the phone and call her!",
       "characters": [
-        "Puddy",
         "George",
-        "Jackie",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, man. You know, you're crazy. You're a good looking guy. What do you want to walk around like that for?",
-      "characters": [
+        "Raymond",
         "Kramer",
-        "Elaine",
-        "Clare",
-        "George"
+        "Frank"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What do you mean stole? It's my bread. They didn't eat it. Why should I leave it there?",
+      "quote": "*I* think that *you* think that a certain *something* is not all that it could be, when in fact it is is all that it *should* be, and *more*!",
       "characters": [
-        "Frank",
-        "Naomi",
-        "Manager",
+        "Elaine",
+        "Kramer",
+        "George",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I must've had at least eight in my mouth. I couldn't talk. I couldn't talk!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
         "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, flowers. You didn't have to do that. I mean, the dinner, and the play, and the hansom cab ride.",
+      "characters": [
+        "George",
+        "Valerie",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "He'd be perfect for my movie. This is a once-in-a-lifetime opportunity.  I gotta go over there, I gotta give him a copy of my treatment.",
+      "characters": [
+        "Poppie",
+        "Jerry",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what this funeral's gonna wind up costing me? Oh boy!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Do you know what happens to a butter-based frosting after six decades in a poorly ventilated English basement?",
+      "characters": [
+        "Jerry",
+        "Hanke",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "What does he do with all that fat? Does he just jump up and down on it? Does he gouge it like Killer Kowalski?",
+      "characters": [
+        "Hoyt",
+        "Kramer",
+        "Saleswoman",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Between you and me I think your country is placing a lot of importance on shoe removal.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Frank"
       ],
       "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Yeah, I'm here to pick up my new plates. My name is Kramer. Cosmo Kramer.",
-      "characters": [
-        "Mickey",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Beautiful lineswoman. Alright listen uh I'm going to go to the concession stand and get some real sunblock. You want anything? Jerry?  Jerry?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Bania",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know she was behind the idea. She was going to champion the show. That's what I was bring her up there to tell you. And she liked me.",
-      "characters": [
-        "Hanke",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look, she slammed into a parked car! She took no responsibility for mutilating the property of a stranger, then she sped off like a criminal!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, how about this? All right, we get married March 21st, the first day of Spring.",
-      "characters": [
-        "George",
-        "Chiles",
-        "Kruger",
-        "Deena"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 253,
+  "gameNumber": 254,
   "date": "2025-09-13",
   "questions": [
     {
-      "quote": "Shhh! Listen, you gotta do me a favor. Give me your wallet. I'll give it back to you later.",
+      "quote": "She goes to these lengths to entice you and your only response is \" Gee I really like your picture. Would you like to go out on a date with me please. \"",
       "characters": [
-        "Attendant",
-        "Susan",
+        "George",
         "Kramer",
+        "Jerry",
+        "Valerie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, we watching the movie, or are we still talking?  Okay, c'mon. Let's go.",
+      "characters": [
+        "Abby",
+        "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, with so many people in the world deprived and unhappy, it doesn't seem like it would be fair to be cheerful.",
+      "quote": "You're all over the dial! You don't know what you want! I've never seen you stay on anything for more than 5 seconds. Gimme that.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Brody"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "George, I just got off a twenty-three hour plane ride. I'm too tired to even vomit at the thought.",
-      "characters": [
-        "George",
+        "Newman",
         "Elaine",
-        "Beth",
-        "Jerry"
+        "Jerry",
+        "Stu"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Just, just tell him about the picture. What's the matter with you? Stop it.  Yes, are you still there? Look I'm sorry about that. All right there's an 8:30 and a 10:15showing.",
+      "quote": "Who ever thought the first thing somebody wants on a plane is a peanut?",
       "characters": [
         "Elaine",
-        "Kramer",
+        "Waitress",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no. You can't get her anything better than me. Whatever I spend, you have to spend half.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I, uh, um, wa, wa, What did I do? ... Where are you going?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Janet",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The city's a toilet. When's the last time you saw my little Adam?",
+      "characters": [
+        "Carol",
+        "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Carol"
     },
     {
-      "quote": "I mean it's a terrible mistake, I mean he thinks I ruined some deal of his at NBC, I don't know anything about any deal at NBC.",
+      "quote": "So I'm curious. What'd you tell Mrs. Costanza that changed her mind?",
       "characters": [
-        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Deena",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told him to meet us here in ten minutes. How long has it been?",
+      "characters": [
+        "Landis",
         "Hal",
-        "Kramer",
-        "Kate"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "hey where were you last night? I looked for you, I didn't see you",
-      "characters": [
-        "Elaine",
         "George",
-        "Jerry",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well I put a bet down for ya on tonight's game. Yeah, if the Knicks beat the Pacers by more than thirty-five? It pays ten to one. Oo-oo! That's some sweet action!",
+      "quote": "Uh, well, I'll tell you what. Um, I'll give you a check, and then this person can pay me back.",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Greg",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ah, well, yes Kramer. So, a coffee table book about coffee tables. Where did you come up with this idea?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Regis",
-        "Elaine"
-      ],
-      "correctAnswer": "Regis"
-    },
-    {
-      "quote": "Yeah, but this is different , this is like ,you know, semi digested food stuff. You know the next stop is the stomach and you can take it from there.",
-      "characters": [
-        "Jerry",
-        "Gary",
         "George",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Why, because you picked out the poision envelopes? That's silly.",
-      "characters": [
-        "Jerry",
-        "Mickey",
-        "Kramer",
-        "Elaine"
+        "Newman",
+        "Bania",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

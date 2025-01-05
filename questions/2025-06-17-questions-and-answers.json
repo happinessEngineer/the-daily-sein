@@ -1,106 +1,106 @@
 {
-  "gameNumber": 165,
+  "gameNumber": 166,
   "date": "2025-06-17",
   "questions": [
     {
-      "quote": "Oh all right, this is really dumb, really stupid. We've been doing this silly, dumb voice.",
+      "quote": "I'm very nervous about this. I've never spoken to a mental patient before.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How are you feeling, Adam?  Elaine!  This is our pediatrician, Ben Feffa.",
       "characters": [
         "Jimmy",
         "Jerry",
+        "Carol",
+        "Peterman"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "No! I don't want to save seats. Don't put me through that! I once had the fleece just ripped out of my winter coat in a seat-saving incident!",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
-        "Kramer"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You see what's going on here? You're attracted to him because he can't remember anything about you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ha ha, nonsense, George. Besides it gives me a chance to tell you about my latest trip to Burma where I discovered a very unusual corduroy.",
-      "characters": [
-        "Jerry",
-        "Ned",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Yeah, and this is just the Upper West Side. Wait until I get to the Village, then you're gonna see a magic show.",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Danielle",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Excuse me Miss Weaver, OH! My god it is you! I.. I've seen your show six times..",
+      "quote": "Oh, how I've waited for this moment. But alas, my heart belongs to another man's wife, and I have given the coat to her.",
       "characters": [
         "Newman",
         "Elaine",
-        "Tim",
-        "Jerry"
+        "Jerry",
+        "Frank"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "So Whatley sayd to me, \"Hey, I can make Catholic jokes, I used to be Catholic.\"",
+      "quote": "So, then you asked yourselves, \"Isn't there something more to life?\"",
       "characters": [
-        "Debby",
-        "Jerry",
-        "George",
-        "Kate"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, well uh, okay I'm there with, uh, Woody, you know, I'm at this bar and, uh, I'm sit-- you know it's Woody Allen, did I mention that?",
-      "characters": [
-        "Kramer",
-        "Kruger",
+        "Joe",
         "Elaine",
-        "Jack"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So she just left the office - didn't say a word to you about anything?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Allison"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Chunnel , is playing at the Paragon 84th Street cinema in the main theater at 9:30 PM.",
-      "characters": [
-        "Kramer",
-        "Morty",
-        "George",
-        "Izzy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well I'll tell you what I think. I think she saw you with that piece off and was devastated. You blew it boy. You really blew it. And you had to ruin it for him. Didn't you?",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I, I think that's my button.  You know, I've been looking all over for it. Did, did you find it here?",
-      "characters": [
-        "Elaine",
-        "George",
         "Jerry",
         "Kramer"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, you almost ready? Cause Jerry and Kramer are gonna be here any second.",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nice meeting you. Ah, I gotta run, Elaine. I'll see you later.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Darryl"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "Oh all right, this is really dumb, really stupid. We've been doing this silly, dumb voice.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, she slammed into a parked car! She took no responsibility for mutilating the property of a stranger, then she sped off like a criminal!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

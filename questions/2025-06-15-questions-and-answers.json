@@ -1,106 +1,106 @@
 {
-  "gameNumber": 163,
+  "gameNumber": 164,
   "date": "2025-06-15",
   "questions": [
     {
-      "quote": "Kramer, are you still on this? I've seen gymnasts. I know what they do. It's not going to make any difference.",
+      "quote": "Aah! the minute I saw this girl, we just clicked. She's got such a nice face. hummmm her eyes, her mouth, nose",
       "characters": [
         "Jerry",
-        "Rula",
         "Kramer",
-        "Mohel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Fluff and Fold. The only way to live.  I drop it off. I pick it up. It's a delight.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Kramer, Kramer! I got big trouble with the - with the Van Buren Boys.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I told him I didn't take his Chuckle. I don't eat that gooey crap!",
-      "characters": [
-        "George",
-        "Joel",
-        "Driver",
-        "Kramer"
-      ],
-      "correctAnswer": "Driver"
-    },
-    {
-      "quote": "Yeah, and there's a space opening up, and I could get it for you. You just have to pay the tax on it. It'd be like, fifty a month.",
-      "characters": [
-        "Gary",
-        "Jerry",
-        "Elaine",
+        "Susan",
         "George"
       ],
-      "correctAnswer": "Gary"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm having a little trouble with all this. I mean all I ever wanted to do is sing. Now I'm the focus of this big media frenzy.  Nobody in the show will even talk to me.",
+      "quote": "And, um, it was quite good. In fact, you even incorporated me into the show. I'm not actually a performer. Although, my parents felt I had talent..",
       "characters": [
-        "Gennice",
+        "George",
+        "Jodi",
+        "Landis",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag?  This is the signal, Jerry, this is the signal!",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well, lemme know when you get something in there and I will.",
+      "characters": [
         "George",
         "Elaine",
-        "Todd"
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Gennice"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "[quickly whispering] I resent that you said that! That's directed at *me*, isn't it?!",
+      "quote": "Yeah. Really.  Hey, you know what? Maybe I could talk about that on the show.",
       "characters": [
-        "Steinbrenner",
-        "Peterman",
+        "Rebecca",
+        "George",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I have no patience for lactose. And I won't stand for it. Um, I'll be right back.",
+      "quote": "Uptight? Let's all just have a big pee party. Hey everybody, grab a bucket. We're going up to Jerry's. It's a pee party.",
       "characters": [
-        "Lloyd",
+        "Rudy",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hate those couples. I could never bee one of those couples. There are no bald woman around. You know?",
+      "characters": [
         "George",
+        "Kramer",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "For example, now, I call you whenever I'm inclined and vice versa.",
+      "quote": "This McKigney guy had a few good years..  How could you forget to turn off an iron?",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "Meryl",
+        "Newman",
         "George",
-        "Morty"
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "On the wagon. Don't you think they broke into a couple of those bottles along the way?",
+      "characters": [
+        "Kramer",
+        "Bonnie",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, Bogambo - they've been in the neighborhood for 48 years. Now, come on, Jerry. You've gotta have a pair of shoes in need of a cobblin.'",
+      "quote": "Well she got up to the line of scrimmage, didn't like the looks of the defense and changed the play.",
       "characters": [
-        "Elaine",
+        "Attendant",
+        "George",
         "Jerry",
-        "Pop",
-        "Kramer"
+        "Tony"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

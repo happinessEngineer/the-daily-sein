@@ -1,106 +1,106 @@
 {
-  "gameNumber": 614,
+  "gameNumber": 615,
   "date": "2026-09-09",
   "questions": [
     {
-      "quote": "Yes, it was purple, I liked it, I don't actually recall considering the buttons.",
+      "quote": "Well I'm sure you have secrets from me. I don't know anything about your cycles.",
       "characters": [
         "George",
-        "Deena",
-        "Kramer",
-        "Morty"
+        "Elaine",
+        "Bob",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, yeah. We'll get back to you.  Let's get this baby home.",
+      "quote": "The only way out of this is if Leo breaks up with his girlfriend and has to move back into the apartment and then they would have to go back to Florida.",
+      "characters": [
+        "Testikov",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I feel like I'm talking fast but it's very hard to tell.",
+      "characters": [
+        "Kramer",
+        "Brett",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They lied to me about selling the car. I'll lie to them about buying it back. They think they can dump six grand on me? Think again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I said, I said: 'Get outta here! No story? Is that what I said?'",
+      "characters": [
+        "Jerry",
+        "Bruce",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ha! Elaine, shiks-appeal is a myth, like the Yeti, or his North American cousin, the Sasquatch.",
       "characters": [
         "George",
-        "Frank",
-        "Jerry",
+        "Rabbi",
+        "Alton",
+        "Jerry"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "No. No. No. It's for oil tankers. All I need to do is fill some sort of rubber container with oil and then drop it to see whether or not it can restrain the impact.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Newman",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Twenty-five percent, you say? No way! It's like 4 to 6 percent. It's a twenty to one shot.",
+      "quote": "Well, they have to give up some time, they can't stay out there all night?",
       "characters": [
-        "Frank",
+        "Mickey",
         "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"To the victor goes the spoils.\" What are you going to do tonight?",
-      "characters": [
-        "George",
-        "Peterman",
-        "Jerry",
+        "Kramer",
         "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well so what. I mean you played first base. I mean they always put the worst player on first base. That's were they put me and I stunk.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kevin"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I'm not leaving the premises without tote bags. I was promised tote bags and tote bags I shall have.",
+      "quote": "Lupe. That's very nice, very nice. Listen, are you going to be making up the bed in the morning?",
       "characters": [
-        "Kramer",
-        "Alec",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, you should just go back to the optical store and ask Dwayne if he knows the name of the owner of the dog.",
-      "characters": [
-        "Jerry",
-        "Donald",
-        "George",
-        "Jackie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "The Rosses have started up a foundation, Jerry, and I have to sit on the board of directors.",
-      "characters": [
-        "George",
+        "Kimbrough",
         "Elaine",
         "Kramer",
-        "Newman"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, it doesn't seem to be coming in so good over here. Or here.",
+      "quote": "We had a funny guy with us in Korea. Tailgunner. They blew his brains out all over the Pacific. There's nothing funny about that.",
       "characters": [
-        "Kramer",
+        "Alton",
+        "Elaine",
         "Jack",
-        "Jerry",
-        "Elaine"
+        "George"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh. Oh. Yeah, sure. Here. Uh, sit down. Uh, uh, cheese, there?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Alton"
     }
   ]
 }

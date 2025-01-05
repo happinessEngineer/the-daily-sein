@@ -1,106 +1,106 @@
 {
-  "gameNumber": 494,
+  "gameNumber": 495,
   "date": "2026-05-12",
   "questions": [
     {
-      "quote": "Well... now I know this sounds touristy, but I'd just love to go on one of those five-hour boat rides around Manhattan.",
+      "quote": "The Rosses have started up a foundation, Jerry, and I have to sit on the board of directors.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Laura"
-      ],
-      "correctAnswer": "Laura"
-    },
-    {
-      "quote": "Well this type of things is very common when you're in show business.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Guard",
-        "Driver"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, that ending was *so* obvious. I would have figured it out anyway. I didn't need you to tell me that stupid twist.",
-      "characters": [
-        "George",
-        "David",
         "Newman",
-        "Kramer"
+        "Elaine",
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "David"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Just a quick sidebar here -- are you in anyway authorized to give raises?",
+      "quote": "All right, Puddy, listen, and listen good: I need to know the name of that mechanic that walks around here. Big guy, a liar. Short name. Sam? Moe? Sol?!",
       "characters": [
-        "Jerry",
+        "Attendant",
         "George",
         "Elaine",
-        "Kramer"
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I did not bare myself deliberately, but I tell you, I wish now that I had!  Because it is not me that has been exposed, but you! For I have seen the nipple on your soul!",
+      "quote": "In fact, she's come up with a new one that is going to be the big new look in men's fashion.. It's a, a puffy shirt.  Well, yeah, it - it's all puffy. Like the pirates used to wear.",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Morty",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "The thing is, even if we go back by the car, and there's nobody there, how do we know they're not all hiding, waiting for us?",
-      "characters": [
-        "Jerry",
-        "Deena",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, here, uh, why don't you give us a call and maybe we can develop a series.",
-      "characters": [
-        "Frank",
         "Kramer",
-        "George",
-        "Stu"
-      ],
-      "correctAnswer": "Stu"
-    },
-    {
-      "quote": "The turbo quadramatic transmission offers you the power and prestige to propel you well into the 21st century.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well you know, if it's enough already and I just wanna get some sleep.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Alton",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I was able to finagle two more tickets to \"My Fair Lady\" and I thought why not ask Morty and Helen.",
+      "quote": "Fifteenth , Yes last day for the Macanaws. I can still make it. Wait.. Newman...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Usher",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's one hell of a gig.  Hey, look, I got something for you. The Ori-dent!",
       "characters": [
         "Elaine",
-        "Jerry",
+        "Susan",
         "George",
-        "Aaron"
+        "Jerry"
       ],
-      "correctAnswer": "Aaron"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Rimsky -- great great book if I may say so sir. I almost read the whole thing.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, Julie, Julie, don't insult me. You know, what difference does it make who pays for lunch. It's totally meaningless.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bania",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't have any quarters for the dryer. Anyway this is better. And it's more convenient.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Father",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, he uh, he wants to uh, quit the exporting and uh, focus just on the importing. And it's a problem, because she thinks the exporting is as important as the importing.",
+      "characters": [
+        "Wyck",
+        "Jackie",
+        "George",
+        "Rudy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can't do it. I'm on an unbelievable birthday-wish hot streak! My last five birthday wishes came true.",
+      "characters": [
+        "Kramer",
+        "Izzy",
+        "Karen",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
     }
   ]
 }

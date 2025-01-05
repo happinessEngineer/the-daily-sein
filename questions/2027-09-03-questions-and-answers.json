@@ -1,106 +1,106 @@
 {
-  "gameNumber": 973,
+  "gameNumber": 974,
   "date": "2027-09-03",
   "questions": [
     {
-      "quote": "Oh, Elaine just called, she won't be joining us. Not to worry, I'll tell the maitre'd it'll just be the three bulls.",
+      "quote": "You know, I've seen you around the club. My name's Sidra. This is Marcie.",
       "characters": [
-        "Kramer",
-        "Sophie",
-        "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "She's not... and the guy just took off.  Don't say anything to anybody.",
-      "characters": [
-        "George",
-        "Announcer",
-        "Elaine",
+        "Susan",
+        "Helen",
+        "Sidra",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Sidra"
     },
     {
-      "quote": "George, you didn't have to do this. I'm president of a big company. I can afford to buy you coffee.",
+      "quote": "You think that could be a coincidence George? Is that possible?",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Jack",
-        "George"
+        "Jerry",
+        "Nina",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "To Hawaii. The most sought-after postal route of them all. The air is so dewy-sweet you don't even have to like the stamps.. But it's not to be - So, I'm hanging it up.",
+      "quote": "Well, if I hear an anguished \"oink\", I'm outta here. I-I don't see any pig-men. Look  Human, human, human...   Wait a second!",
       "characters": [
-        "Donna",
         "Jerry",
-        "Newman",
+        "George",
+        "Peterman",
+        "Father"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe I'm having trouble getting rid of Super Bowl tickets.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's no big deal. It's just some guy who's been running around Riverside park-pffff. You know, cutting people's heads off.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I might tell her that I love her. I came this close last night, then I just chickened out.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Carol",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, what are you gonna do? Are you gonna live here, or are you gonna move out, or what?",
+      "quote": "Y'know I remember when I was a kid growin up, kids would make fun of my name like you wouldn't believe-- \"Jerry Jerry Dingleberry\", and-hu \"Seinsmelled\"...",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Abby",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, come on, come on. I?ll guarantee 140. What do you have to lose?",
-      "characters": [
         "Frank",
         "George",
-        "Kramer",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm going to a poetry reading with PATRICE: First time poets, in a burnt out building, down by the docks, Supposed to be good.",
+      "quote": "Ah!! I found a quarter. Anybody want there clothes heated up?",
       "characters": [
-        "Morty",
-        "Jerry",
+        "Susan",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Do you know how much that comes to? That's a nickel a day for 20 years. It's going to be $50,000",
-      "characters": [
-        "Peggy",
-        "George",
-        "Jerry",
+        "Estelle",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Because the next day in the offices, people gather around the water coolers to talk about it, right?",
+      "quote": "The appeal of the posse? The posse has tremendous appeal. Get away from the job, camp out, you're with your friends... Come on, it's a week-long game of hide-and-seek on horseback.",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
+        "Lloyd",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't even question my instincts, because my instincts are honed.  Look at that.",
+      "characters": [
+        "Jerry",
+        "Michael",
+        "Steinbrenner",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I knew this was going to happen. I just made a delicious casserole, but now it won't keep because I have no Tupperware.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

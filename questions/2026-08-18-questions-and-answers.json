@@ -1,104 +1,104 @@
 {
-  "gameNumber": 592,
+  "gameNumber": 593,
   "date": "2026-08-18",
   "questions": [
     {
-      "quote": "Yeah, like Diane Fosse. You know she's the only person that's ever been accepted into gorilla society. And you know, once those gorillas accept you, you got it made in the shade.",
+      "quote": "Hey, you know what? Newman sent me an invitation already, to his party.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Glenn",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, a Curly. The boys played three sailors who find a baby, the baby's been kidnapped and the police think that they did it.",
-      "characters": [
-        "Helena",
-        "Elaine",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Helena"
-    },
-    {
-      "quote": "I think this is the same one I gave him.  He recycled this gift.  He's a regifter!",
-      "characters": [
+        "Jerry",
         "George",
         "Elaine",
-        "Patty",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Do you want me to call the super? He was an Israeli commando.",
+      "quote": "Hmmm,..to tell you the truth they haven't manufactured that one for a number of years. I might have couple of boxes left in our warehouse in New Jersey. I'd have to check.",
       "characters": [
-        "Kramer",
-        "Rula",
-        "Jerry",
+        "Driver",
+        "Clerk",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Rula"
+      "correctAnswer": "Clerk"
     },
     {
-      "quote": "Guys, there's no doubt that the pay is good. But I don't just know if I see myself working with ice cream.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Hanke",
-        "Elaine"
-      ],
-      "correctAnswer": "Hanke"
-    },
-    {
-      "quote": "No, no, no it doesn't. No joy no joy whatsoever. Just the whole think makes me . . sick.",
+      "quote": "Check it out. Rain and sleet may not stop them, but let's see them get by... these bricks.",
       "characters": [
         "Elaine",
-        "Ed",
+        "Kramer",
         "George",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The Samaritans were an ancient tribe - very helpful to people.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I spend that much on after shave. Yes, I buy and sell men like myself every day. Now, I assume that there's a waterfall grotto?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not stealing it.  They owe me ten dollars.  They stole from me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't understand it. I was with her last night in my apartment; it was very romantic. Y'know with that fake wood wallpaper, the atmosphere is *fabulous* in there, now. It's like a ski lodge.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What are you doing? That's Witchy Woman. That could be our song.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Audrey"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Great!  Nina could go, huh? Jerry, this is great. You and Elaine. Me and Nina.",
+      "quote": "Yeah, Jimmy why don't you wait outside, you know, play with something.",
       "characters": [
-        "Elaine",
         "George",
-        "Rebecca",
+        "Helen",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Um, I'd like to but a bunch of us from the islands, we'll be getting together.",
+      "quote": "Look at hose babies [hands]. They're prunes. I saw Conrad going up to oyur place.",
       "characters": [
-        "Frank",
-        "Jerry",
+        "Kramer",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Fields. Sidney Fields. *87* years old. *87*. How about your guy?",
-      "characters": [
-        "Kramer",
-        "Lippman",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, I'm on first and first. How can the same street intersect with itself? I must be at the nexus of the universe.",
-      "characters": [
-        "Jerry",
-        "Leo",
-        "Kramer",
-        "George"
+        "Lou",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     }

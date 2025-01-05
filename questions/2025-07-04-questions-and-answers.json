@@ -1,104 +1,104 @@
 {
-  "gameNumber": 182,
+  "gameNumber": 183,
   "date": "2025-07-04",
   "questions": [
     {
-      "quote": "Oh, I just want to you know I'm retracting our dinner invitation.",
+      "quote": "You know, if it was a regular salad I wouldn't have said anything. But you had to have the BIG SALAD.",
       "characters": [
-        "Frank",
-        "Elaine",
-        "Marcy",
-        "George"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Oh, yeah, yeah, I'm fine, I'm fine.  Hey, we made the paper. Eh? Look at this- page 2, sports section... we're all in the picture.",
-      "characters": [
-        "Kramer",
-        "Frank",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Flash of lightning Elaine I just realized why I like this cartoon so much.",
-      "characters": [
-        "Christie",
-        "Jerry",
-        "Voice",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "well, I'm sure we'll come up with something. What do you say you and I order ourselves a pie? Do you like Lorenzo's?",
-      "characters": [
         "Elaine",
-        "Peterman",
-        "George",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Thousand.  Six hundred and twenty thousand.  The horror, the horror.   The wife keeps giving us dirty looks.  Are you sure you gave him the right directions?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
+        "Valerie",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Why don't you just tell me the name of the movie you've selected.",
+      "quote": "I spoke to a cab driver. For five bucks, he turned me on to the Rockaway Boulevard shortcut.",
       "characters": [
         "Kramer",
         "George",
-        "Rita",
-        "Brett"
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh no. No. I don't want to sit in the back. I'll be left out of the conversation.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I once told a woman that I don't eat cake 'cause it goes right to my thighs.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, look at this one! It's saying, 'I'm a coffee table, put some coffee on me! Oh, the hotter the better, that's what I'm here for!'",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "Toby",
+        "Jerry"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Oh.  I talked to Arthur Jobanian.  Yeah, the Drake's wedding?  That's off.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "And I was looking good, too. I had a nice, new shirt on, I'm wearing *your* jacket...",
+      "quote": "Oh, well, if you repeat the name of the gift, you can't possibly like it.",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "George",
         "Elaine",
-        "Attendant"
+        "Jerry",
+        "Sheila"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "They like it outside, so I kept them in a cage on the terrace...then I found them dead in a pool of water!",
+      "quote": "Yeah, and I got about ten feet down and I felt this tremendous pressure on my mask. Like my eyeballs were being sucked out of their sockets.",
       "characters": [
+        "Harold",
         "Jerry",
-        "Karen",
-        "Elaine",
-        "Kruger"
+        "George",
+        "Helen"
       ],
-      "correctAnswer": "Karen"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I 've looked everywhere , even under the couch but all I could find were the stupid Chunky wrappers. I couldn't....",
+      "quote": "Yeah, you're looking at the new Santa at Coleman's Department store.",
       "characters": [
+        "Kramer",
         "Elaine",
         "Jerry",
-        "Kramer",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Their grieving time is a luxury I can't afford. I'm calling Beth tonight, and if you want a clean shot at David, I suggest you do likewise.",
+      "quote": "What kinda great friend are you? How do you go from snubbing to kissing?",
       "characters": [
-        "George",
         "Jerry",
-        "Karen",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
     }

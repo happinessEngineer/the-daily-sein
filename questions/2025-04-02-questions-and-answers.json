@@ -1,106 +1,106 @@
 {
-  "gameNumber": 89,
+  "gameNumber": 90,
   "date": "2025-04-02",
   "questions": [
     {
-      "quote": "Hey, Tim. Quick question. Is it normal for your teeth to make noises, like a hissing or a chirping?",
+      "quote": "I don't care about the sauce. It came in this funny little bottle, and there was a guy on the label that looked exactly like Charles Grodin.",
       "characters": [
-        "Jack",
+        "Jerry",
         "George",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "There's a Costanza in Tuscany?  Did he look like me? Did you talk to him?",
-      "characters": [
-        "Frank",
         "Elaine",
-        "Kramer",
-        "Jerry"
+        "Kramer"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, listen, when this guy calls, if you could just give him my real number..",
+      "quote": "Yeah. Let's uh, go to your place. Because I, threw out all my dishes.",
       "characters": [
+        "Carol",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, Marcelino wants us to sell him Little Jerry Seinfeld.",
+      "characters": [
+        "Kramer",
         "Elaine",
         "Jerry",
-        "Peterman",
-        "Morty"
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's funny. I mean, you have a big head. Or is it 'cause of your neck?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Greg",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yea they're taking one, the travel agent is trying to set something else up for them.",
+      "quote": "I'll tell you when you can go. Wait, wait, wait, Wait-- now, now, now. No, no, no. Go, go! No, no. Wait-- now, now! Now! Jerry! Go--ahh...",
       "characters": [
-        "Jerry",
-        "Joyce",
+        "Jake",
         "George",
-        "Elaine"
+        "Bania",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Elaine, if I could say a word here about Jewish people. That man in no way represents our ability to take in a nice piece of juicy gossip and keep it to ourselves.",
+      "quote": "Well, apparently NYU is very enthusiastic about their students getting some real world corporate experience.",
       "characters": [
-        "Jerry",
-        "Jackie",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "See her tonight. See her tomorrow. Go. Knock yourself out. She's too crazy for me.",
-      "characters": [
+        "Susan",
         "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well let me ask you this. What exactly did you say when you asked her out?",
+      "characters": [
+        "Gavin",
+        "Bania",
         "George",
-        "Steinbrenner",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh yeah, we don't want some jerk sitting in front of us, it'll be like, 'Hey, big head, can you move out of the way? I didn't pay a cover charge to stare at your bald spot.'",
+      "quote": "Hey listen, I was wondering if either one of you guys would be interested in doing some work for the Big Brother program? I'm kinda running the local chapter. What do you say George?",
       "characters": [
-        "Glenn",
-        "Kramer",
-        "Jerry",
-        "Toby"
-      ],
-      "correctAnswer": "Toby"
-    },
-    {
-      "quote": "Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us.",
-      "characters": [
+        "Alec",
         "George",
-        "Newman",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Alec"
     },
     {
-      "quote": "Well, if they don't let you be my editor on this book, I'll go to another publisher. It's that simple.",
+      "quote": "Hello. Yeah, hi, this is Jerry Seinfeld calling for James Kimbrough. Hello? Hi? Uh huh, really, uh, no problem, definitely, ok, buhbye. That was James Kimbrough.",
       "characters": [
-        "Morty",
         "Jerry",
-        "Elaine",
-        "Rava"
+        "Sally",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Rava"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I've been saving it for the plane. I never miss the Sunday sports section.",
+      "quote": "Look at this. They make a point of saying on the menu, \"No egg white omelets.\" Look at that.",
       "characters": [
-        "Lippman",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Wilhelm",
+        "Abby",
+        "Elaine"
       ],
-      "correctAnswer": "Lippman"
+      "correctAnswer": "Jerry"
     }
   ]
 }

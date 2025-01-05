@@ -1,106 +1,106 @@
 {
-  "gameNumber": 605,
+  "gameNumber": 606,
   "date": "2026-08-31",
   "questions": [
     {
-      "quote": "Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft...  Of course, they handled my tattoo removal lawsuit.",
+      "quote": "let me go. let me go. Because I haven't talked to my mother in five years. We just don't see eye to eye. I don't even want to get into my childhood. I'm still carrying a lot of pain. A LOT of pain.",
       "characters": [
         "George",
-        "Newman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "[studying his jacket] Oh man! Look at this! I sat in gum. Oh, by the way, you owe me seven fifty.",
-      "characters": [
-        "Roy",
+        "Izzy",
         "Kramer",
-        "Alec",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'll tell you what's insane: the price that I could get you on a new desktop computer.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know. She..She's having some problems with this guy she's seeing.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, Jerry I'm telling you I have this power. And I have no control over it.",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "Woman",
-        "Estelle"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, you haven't heard, she's going to live with her grandparents in Redding Pennsylvania.",
+      "quote": "Look, sorry doesn't cut it. We're running a ball club here George. You've got to pay attention.",
       "characters": [
+        "Wilhelm",
         "Jerry",
         "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I hope so. I can't take him living with me much longer. He makes this kasha, it stinks up the whole house.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Raymond",
         "George"
       ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "A woman with a sexy voice like yours its hard to believe your waking up alone.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Well, it's obvious, you know. You're carrying a lot of extra baggage up there.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no - I'm so sorry, it's the Moops. The correct answer is the Moops.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well I'm going down to visit my sister in Virginia next Wednesday, for a week, so I can't park it.",
+      "quote": "Well, h ha ha- if you're happy with her, that's all that matters.",
       "characters": [
-        "Sid",
+        "Elaine",
         "George",
-        "Jerry",
-        "Harold"
+        "Newman",
+        "Morty"
       ],
-      "correctAnswer": "Sid"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Thirty years ago, we came to an agreement. It was the only way I could get some rest.",
+      "quote": "Well we're sitting here together. Why wouldn't you think that.",
       "characters": [
-        "Frank",
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's no big deal Jerry. We'll just meet him at the bubble boy's house.",
+      "characters": [
         "Elaine",
         "Jerry",
-        "Peterman"
+        "Morty",
+        "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I want to know what kind of an office this is where you can't leave your pants in the room. You tell me.",
+      "quote": "Well, maybe he doesn't have a \"get outta here\" kind of personality.",
       "characters": [
-        "Morty",
-        "Frank",
-        "George",
-        "Naomi"
+        "Wilhelm",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, funny. Yeah, I never heard that before.  So, you goin' to the funeral?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

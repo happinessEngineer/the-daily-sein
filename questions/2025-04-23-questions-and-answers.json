@@ -1,106 +1,106 @@
 {
-  "gameNumber": 110,
+  "gameNumber": 111,
   "date": "2025-04-23",
   "questions": [
     {
-      "quote": "They've opened up a whole new market. Medication for the well.",
+      "quote": "Well, we gotta get it washed ....Ah, the keys are locked inside!",
       "characters": [
         "Jerry",
         "Kramer",
         "Elaine",
-        "Wyck"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I told you I don't like these sponges, they're too small! I want a big sponge!",
+      "quote": "Well, I still like the Bloomingdale's executive training program for him.",
       "characters": [
-        "George",
-        "Corinne",
-        "Harold",
-        "David"
-      ],
-      "correctAnswer": "Harold"
-    },
-    {
-      "quote": "Okay, I'm done. I'll be back in the morning, when he's close to finish with his story.",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "What are you doing? Don't tell a woman she looks like a man and George doesn't want to hear his girlfriend looks like me and frankly neither do I",
-      "characters": [
+        "Leo",
         "Jerry",
         "Elaine",
-        "George",
-        "Helena"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So you're angry that this bizarre carpet cabal made no attempt to abduct you?",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Guy",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Cheap fabric, and dim lighting. That's how you move merchandise.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Hello? Yeah, the defroster's the one on the bottom, just slide it all the way over. You're welcome.",
-      "characters": [
-        "Nina",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm sorry - I have to say, I'm a little disappointed, I thought it would be a lot nicer.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, you know, we're screening that tonight at the Alex. Do you think that I could wear that to promote the theatre?",
-      "characters": [
-        "Bruce",
-        "George",
-        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That's nice. Listen, Kramer, you know, if you ever want to have kids you shouldn't wear briefs. Boxers are much better for your sperm count.",
+      "quote": "Two hundred seats on a plane, I gotta wind up next to Yukon Jack and his dog Cujo. Shut up! One more day and you are pound bound!",
       "characters": [
-        "Elaine",
+        "Jerry",
+        "George",
+        "Keith",
+        "Lamar"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What idea? I just said something. I didn't know you were going to listen to me.",
+      "characters": [
         "George",
         "Jerry",
+        "Babs",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your order is ready. Three calzones and one shirt and jacket.",
+      "characters": [
+        "Elaine",
+        "Worker",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "*Fusilli* Jerry! It's made from Fusilli pasta. See the microphone?",
+      "characters": [
+        "Maura",
+        "Kramer",
+        "George",
+        "Maestro"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All you got is instant coffee? Why don't you get some real coffee?",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you think that's coming on a little too strong? .. Isn't that like a turn off?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've been doing a lot of thinking. This might be my chance to start giving something back.",
+      "characters": [
+        "Wendy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the very fact that you oppose this makes me think I'm onto something.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Marla",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

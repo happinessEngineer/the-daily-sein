@@ -1,106 +1,106 @@
 {
-  "gameNumber": 462,
+  "gameNumber": 463,
   "date": "2026-04-10",
   "questions": [
     {
-      "quote": "She came down from Juno by sleigh, she was in the Iditarod. Got to the finish line, just kept going. She's got the dogs with her in the hotel room.",
+      "quote": "Well I've been going with him for 12 years. I can't switch. I'd hurt his feelings.",
       "characters": [
         "Jerry",
-        "Fdr",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I am NOT paying Glenn off to get out of this relationship. Wh-what am I supposed to do, just walk into his hovel, and hand him... well, how much do you think it would be?",
-      "characters": [
         "Elaine",
-        "Ray",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No George, it's so funny. We saw this cab driver's picture, right?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
+        "Helen",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, as long as I'm up. Dad, I got you a birthday present. Here. Happy Birthday.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"You know that just admitting a man is handsome doesn't necessarily make you a homosexual.\"",
+      "quote": "So what's been going on around this dump? How's your fiancee?",
       "characters": [
-        "George",
-        "Karen",
         "Elaine",
-        "Jerry"
+        "George",
+        "Beth",
+        "Susan"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What is that bubbling sound? Are you making your tomato sauce?",
+      "quote": "I don't know. I couldn't see. I couldn't look down because of my neck.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, yes, I did. But, you know, I was watching it on CNN, and they covered it so well I thought, \"Why knock my brains out?\"",
-      "characters": [
-        "Jerry",
         "George",
-        "Kramer",
+        "Daphne",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, if he's doing that bad, maybe he's in line for another promotion.",
+      "quote": "We were talking about our lives and we both kind of realized we're kids. We're not men.",
       "characters": [
-        "Frank",
         "Kramer",
         "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What's the deal with Aquaman? Could he go on land, or was he just restricted to water?",
+      "quote": "Oh No, wait a second... Wait a second... I-I don't know the name of this woman in the bathroom, so when she comes out, you introduce yourself and then she'll be forced to say her name.",
       "characters": [
-        "Elaine",
+        "Kramer",
+        "Jerry",
         "George",
-        "Tor",
-        "Jerry"
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, if you must know, shhhe, was my fiancée, Susan. May she rest in peace.",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Steinbrenner",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "The best in the world.  Which means I'm better than just number one.",
+      "quote": "I'm just waiting for my friend George, we worked out together.",
       "characters": [
-        "Izzy",
+        "Glenn",
         "Jerry",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm not a phony an' I don't want anything to do with this guy.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Rick"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, those civil servants who risk their lives really got it made.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
         "Kramer"
       ],
-      "correctAnswer": "Izzy"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? What? Who? Me-me-me? I made an impression? What impression?",
+      "characters": [
+        "Jerry",
+        "Gina",
+        "Elaine",
+        "Tim"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

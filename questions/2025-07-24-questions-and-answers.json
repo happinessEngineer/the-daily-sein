@@ -1,106 +1,106 @@
 {
-  "gameNumber": 202,
+  "gameNumber": 203,
   "date": "2025-07-24",
   "questions": [
     {
-      "quote": "In fact she said that looks aren't even that important to her...",
+      "quote": "\"Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table.\"",
       "characters": [
+        "Kramer",
+        "Peterman",
         "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, she's loaded.  She's the heiress to the O'Henry candy bar fortune.",
+      "characters": [
+        "Elaine",
         "George",
-        "Nina",
-        "Elaine"
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Here, check out this view.  If you lean out this window, you can see the river.",
+      "quote": "It cannot not be funny! Now come on, let's stay with it, we gotta finish this today.",
       "characters": [
-        "George",
-        "Morty",
-        "Kramer",
-        "Bonnie"
-      ],
-      "correctAnswer": "Bonnie"
-    },
-    {
-      "quote": "I'm sorry I can't do this. I can't do it. I can't. It, it's too soon. I don't know you. I can't help you move. I'm sorry. I can't. I just can't.",
-      "characters": [
-        "Harold",
         "Jerry",
-        "Michael",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What do you mean? The engagement is off, we get the TV back. That's business.",
+      "quote": "I don't know, just standing there with a box, holding it by the little string.",
       "characters": [
+        "Jerry",
         "George",
-        "Kramer",
         "Elaine",
-        "Owner"
+        "Doctor"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!",
+      "quote": "Well, I got that root canal tomorrow morning. It'll be easier if I go home.",
       "characters": [
+        "Steinbrenner",
         "Kramer",
-        "Frank",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Listen you're just imagining things. He doesn't know a thing. Now come on. Pull yourself together.",
-      "characters": [
-        "Kramer",
-        "Nina",
-        "Frank",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm here to clean the carpets. Most of the world is carpeted. And, one day, we will do the cleaning.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "They just don't know what street to take. You remember that time I got us to Yankee Stadium in rush hour in fifteen minutes?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah. You know what I think? I think you made that whole thing up.",
-      "characters": [
-        "Kramer",
-        "Driver",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Driver"
-    },
-    {
-      "quote": "Dad, it's me. Hey, listen, I was at Fortunoff's the other day, and, you know what, you were right.",
+      "quote": "Oh, I think so, and I can prove it. You see, I was doodling on the bill and uh, so if you have a twenty in there with big lips on it... well,  that's mine. Would you mind opening up the register?",
       "characters": [
         "George",
-        "Doctor",
-        "Jerry",
+        "Izzy",
+        "Steve",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Nothing. I'm sure \"Jon\" probably mispelled his own name. I know sometimes I spell Jerry with a G...and an I!",
+      "quote": "No, it isn't!  it's not true. You're a wonderful, wonderful boy. Everybody likes you. It's impossible not to like you. Impossible. Morty?",
       "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "Helen"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Helen"
     },
     {
-      "quote": "I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.",
+      "quote": "Your name's Benes, your hair, and you kept taking me to those Spanish restaurants.",
       "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Elaine"
+        "Darryl",
+        "Farkus"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Darryl"
     }
   ]
 }

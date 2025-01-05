@@ -1,106 +1,106 @@
 {
-  "gameNumber": 7,
+  "gameNumber": 8,
   "date": "2025-01-10",
   "questions": [
     {
-      "quote": "My parents. It's their anniversary. I'm taking them out to dinner and a show tonight. You think we'll hit traffic?",
+      "quote": "Wait a minute. You mean you get five cents here, and ten cents there. You could round up bottles here and run 'em out to Michigan for the difference.",
       "characters": [
-        "Jerry",
-        "George",
+        "Kramer",
         "Elaine",
-        "Kramer"
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Jerry, I left you a pair right here... C'mon. There, put on those boots.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, George. Jerry. Listen, I just got sober, so I've been going through the Twelve Steps.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Clerk",
+        "Hanke"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Did I tell you that story's relatable?! That was a great show! That is why I'm bringing it back to NBC.",
+      "characters": [
+        "Estelle",
+        "Captain",
+        "Newman",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, it's a cake party. It's the third one today. I didn't realize how hooked I got on that 4:00 sugar rush.",
+      "quote": "No no you didn't ...Hundred dollars.. I get a hundred dollars.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Elaine",
-        "Joe"
+        "Kramer",
+        "Frank",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "So it was a good party, huh? Oh... you're welcome, you're welcome...  They loved the TV, *loved* it!",
-      "characters": [
-        "Jane",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because, it's part of our relationship, it's an indication of trust. We're not supposed to keep secrets from one another.",
+      "quote": "Oh no-no, it's okay. *comment from transcriber: yeah, she doesn't want to be paid, didn't she send the bill?*",
       "characters": [
         "Susan",
-        "Ramon",
-        "George",
-        "Peterman"
+        "Jerry",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Susan"
     },
     {
-      "quote": "Okay, well, he had this idea of a pizza place where you make your own pie!",
+      "quote": "Um, yes this is my friend Jerry. Um, he accompanied me, ya know , single women in a big city can be dangerous, so…",
       "characters": [
-        "Kramer",
-        "Ray",
         "George",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "Sally"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Come on.. Come on. Yes!  There's one!  I wish I don't drop dead!!",
+      "quote": "Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow .",
       "characters": [
         "George",
-        "Man",
-        "Brody",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, we don't have any in stock right now but I would be happy to order it for you. Just give me your phone number and when it comes in I'll give you a call. You're name is?",
-      "characters": [
-        "Stationer",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Stationer"
-    },
-    {
-      "quote": "Well, it's these people-- they go swimmin' in the winter. They're terrific, I just took my first swim today. Brrrrrrr! It's invigorating....",
-      "characters": [
-        "Kramer",
-        "Steve",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, I know, but I can't drive anybody anywhere until I go down to the motor vehicle bureau and get my new plates.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, that woman had it coming to her. Look at my neck, it looks like I had a beard of bees!",
-      "characters": [
         "Jerry",
         "Kramer",
-        "Elaine",
-        "George"
+        "Manny"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Beth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and she's going to find I'm a moron. You know, people think I'm smart, but I'm not smart.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

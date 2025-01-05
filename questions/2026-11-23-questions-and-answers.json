@@ -1,106 +1,106 @@
 {
-  "gameNumber": 689,
+  "gameNumber": 690,
   "date": "2026-11-23",
   "questions": [
     {
-      "quote": "Oh... Boy this garage is going to cost a fortune. You know how long we were here?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey George, you know what? I think this crest is different. It's got a moose on it.",
-      "characters": [
-        "Elaine",
-        "Carol",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She's not there. She left. She must've waited and left because those people wouldn't get off the phone.",
+      "quote": "Oh, I'm gonna give you a Royal bearing. Wait a minute, wait a minute. Lemme get a pack of gum here.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Mickey"
+        "Elaine",
+        "Guy",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know, throughout this whole thing, she always kept a smile on her face.",
+      "quote": "So you're bringing Danny Tartabull to the fundraiser tonight.",
       "characters": [
-        "Jerry",
+        "Eva",
         "Kramer",
-        "Elaine",
-        "George"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I gotta find a way to work this out, I love that apartment.  It's so cozy, I'm ensconced in velvet.  You know, if it were socially acceptable--",
-      "characters": [
-        "George",
-        "Kramer",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, I don't know. I couldn't hear anything. You, you talked the whole movie.",
+      "quote": "Oh. Well, there's nothin' more sophisticated than diddlin' the maid and then chewin' some gum.",
       "characters": [
         "Kramer",
-        "Newman",
-        "George",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Seinfeld. I made a reservation for a mid-size, and she's a small. I'm kidding around, of course.",
-      "characters": [
-        "Puddy",
+        "Rudy",
         "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, I just picked up the Cubans at the bus station.  What's going on!?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Because the judge decreed he'd become my butler, not my friend's butler.",
+      "quote": "Hey, Silvio, just out for a little stroll in my favorite fur coat.",
       "characters": [
+        "Simon",
+        "George",
         "Kramer",
-        "Lloyd",
-        "Maestro",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, well, if you had never taken your keys back from Kramer, he never would have taken his back from you and given 'em to me, in which case I wouldn't have had to take mine back from her.",
+      "quote": "Did you know he was so worried about losing more hair if he had to get chemo treatment, I bought him an unlimited gift certificate at the Hair Team For Men, just to put his mind at ease?",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Puddy",
-        "Elaine",
+        "Sally",
         "George"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A quick question-- did she by any chance have a 212 phone number?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, let me. Heh. Let me just eh.. check an', make sure I have the right man--ha! Heh, heh, heh! Seems--oh! I, oh!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Who cares about eyebrows? Is she sweet? I like sweet. But not too sweet, you could throw up from that.",
+      "characters": [
+        "George",
+        "Susan",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I just remembered, th-th-there's this Chinese restaurant out near Yankee Stadium, that puts flyers on all the cars.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Maryedith"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh it's my pleasure. I love these. In fact I got one at home. It's perfect when you just want to throw something on.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

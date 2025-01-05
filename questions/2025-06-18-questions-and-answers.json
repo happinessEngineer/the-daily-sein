@@ -1,104 +1,104 @@
 {
-  "gameNumber": 166,
+  "gameNumber": 167,
   "date": "2025-06-18",
   "questions": [
     {
-      "quote": "Jerry, it's like the feeling is palpable. You think it could have something to do with the party?",
+      "quote": "Yes, I will, George. I'll have to stick my chin on top of the seat.",
       "characters": [
+        "Lloyd",
+        "Landlord",
         "Jerry",
-        "George",
-        "Sally",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The doctors thought he had cancer, but the surgery revealed he never actually had it.",
+      "quote": "Well, buddy,  he's taking the case!  Jackie Chiles is right on it!  Right on it, he's all over it!",
       "characters": [
-        "George",
-        "Peterman",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "...But, barring any unforeseen developments, gentlemen, I think we're sitting on a winner.",
-      "characters": [
-        "Farkus",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Farkus"
-    },
-    {
-      "quote": "And then, the evil ogre took back the magical keys from the handsome young prince.",
-      "characters": [
+        "Alton",
         "Kramer",
-        "Elaine",
         "George",
-        "Melissa"
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, I wanted to talk about how we have nothing to talk about.",
+      "quote": "Come on up. . . . I never heard of this. You've got to fast for three days to take an ulcer test. How you gonna do that?",
       "characters": [
-        "Dan",
+        "Conrad",
+        "Jeannie",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake.",
+      "characters": [
+        "Clare",
         "Elaine",
-        "Woman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I love the chop sticks. I, I personally prefer a fork but they look very nice.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I don't wanna get into the whole physics of carbonation with you here, but you know the sound a can makes when you open it?",
-      "characters": [
-        "Rabbi",
-        "Jerry",
-        "George",
-        "Gennice"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He moves them from one side of the street to the other so you don't get a ticket.",
-      "characters": [
-        "Jerry",
         "Morty",
-        "George",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I really didn't pay much attention, I'd just come from buying a speedboat.",
+      "quote": "Teddy Padillac. Long time, no see.  What've you got in a push-button mini.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Wyck",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I dunno. Since the last one. Oh, here she is. You wanna meet her?",
       "characters": [
         "George",
-        "Man",
+        "Kramer",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I'm taking this lace out. It came undone and touched the floor of a men's room. That's the end of that.",
+      "quote": "Hmm-hmm, not by a long shot. I'm calling up the Rosses and inviting them up to my non-existent place in the Hamptons. Then we'll see who blinks first.",
+      "characters": [
+        "Marlene",
+        "Leo",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because if you are, you shouldn't. There's nothing available in that development.",
+      "characters": [
+        "George",
+        "Steve",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ladies and gentlemen, our flight time, with stopovers, will be approximately 22 hours.",
+      "characters": [
+        "Captain",
+        "George",
+        "Rava",
+        "Elaine"
+      ],
+      "correctAnswer": "Captain"
+    },
+    {
+      "quote": "I am very excited about this date! We're goin' to Hunan Balcony!",
       "characters": [
         "Jerry",
-        "Leo",
-        "George",
-        "Elaine"
+        "Alton",
+        "Fdr",
+        "George"
       ],
       "correctAnswer": "Jerry"
     }

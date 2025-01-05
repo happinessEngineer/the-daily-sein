@@ -1,104 +1,104 @@
 {
-  "gameNumber": 66,
+  "gameNumber": 67,
   "date": "2025-03-10",
   "questions": [
     {
-      "quote": "Hey Deena, come on, give us a hug.  Oh my gosh, you look as pretty as you did back in high school.",
+      "quote": "What come on?  Have you ever dated a woman that worked in your office?",
       "characters": [
         "Kramer",
-        "Elaine",
         "Jerry",
+        "Morty",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You only went in front first 'cause you saw me backing up and you didn't have room to parallel park!",
+      "quote": "She looks like something out of an old high school yearbook. You should say something to her.",
       "characters": [
+        "Peterman",
         "Elaine",
-        "George",
-        "Julie",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh, I'm just selling some of Dad's things,  that's what he would have wanted.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hunh, You know, it's the damnedest thing. I went out the window again to, to get a cup of coffee...",
-      "characters": [
-        "George",
-        "Jack",
-        "Jerry",
-        "Gary"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah well, it's about time one of us drew a line in the sand.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
+        "Morty",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't care much for the beach. I freckle. . . . Is that a,..",
+      "quote": "Mr Har-harwood. Well, what an unexpected surprise to have you back at the Alex Theatre.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Four hours in this chop and I'm a full inch taller. . . . Giddyup.",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, you said it.  Uh, excuse me, Mr Wilhelm. Uh, do you really think... Well, is this downtown trip really necessary, you know, for the project?",
       "characters": [
         "George",
         "Jerry",
         "Kramer",
+        "Nurse"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, yeah, it's me and him. I might have a whole new career on my hands, huh?",
+      "characters": [
+        "Jack",
+        "Helena",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, how come nothing ever happened between you and Nina?  Is there a problem with her? Is she a man?",
+      "characters": [
+        "Toby",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I parked in front of that restaurant . As soon as this race is over I got to go to the airport.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now see? Just saying beg doesn't make it a real beg. You gotta put some beg into it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Alton",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And a slice of pepperoni pizza and a large soda and three times a week I will require a canolie.",
+      "characters": [
+        "Kruger",
+        "Tim",
+        "Elaine",
         "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "I can't believe that you're doing all this just to sell some stupid raincoats.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Helen"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Well, I uh, maxed out my credit cards, and I don't have enough cash for a hotel room. So...",
-      "characters": [
-        "Jerry",
-        "Jack",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But we do owe him a debt of gratitude because by not fixing the crack in the sidewalk, he put Mrs Ziven out of commission for a few weeks.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Jack"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "I just heard that a postman spotted a rickshaw down in Battery Park.",
-      "characters": [
-        "Newman",
-        "Elaine",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "Newman"
     }

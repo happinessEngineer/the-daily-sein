@@ -1,31 +1,51 @@
 {
-  "gameNumber": 235,
+  "gameNumber": 236,
   "date": "2025-08-26",
   "questions": [
     {
-      "quote": "Hmm, that's surprising. All right, what else? You got the cups in the front, two loops in the back. All right, a guess that's about it.",
+      "quote": "Well, if they make squeeze mustard, doesn't it stand to reason that they make squeeze ketchup?",
       "characters": [
-        "Frank",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Manager",
+        "George",
+        "Helen"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "We had a funny guy with us in Korea. Tailgunner. They blew his brains out all over the Pacific. There's nothing funny about that.",
+      "quote": "I don't know of this is the house. I don't see Jerry's car anywhere.",
       "characters": [
         "Elaine",
         "Kramer",
-        "George",
-        "Alton"
+        "Phil",
+        "George"
       ],
-      "correctAnswer": "Alton"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, she's 10 times better than that awful Amber girl that you were with.",
+      "quote": "George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.'",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. He's disgusting! Besides, I'll take any chance I can to talk to her.",
       "characters": [
         "George",
+        "Jerry",
+        "Greg",
+        "Elaine"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "This is so exciting. When are you going to sign the contract?",
+      "characters": [
+        "Newman",
         "Helen",
         "Jerry",
         "Elaine"
@@ -33,74 +53,54 @@
       "correctAnswer": "Helen"
     },
     {
-      "quote": "Great streak of luck I'm having.  First, Kramer almost beat me at Risk but I narrowly escaped, and then Tim Whatley gives me his Super Bowl ticket.",
+      "quote": "No, go ahead. Look at this place. I can't wait to get it cleaned.",
       "characters": [
         "Elaine",
-        "George",
-        "Bania",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh yeah, she's a great laugher, Jerry.  Really, really great!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "O-kay ... well then your teeth are green for a different reason. You just gotta stop carrying these, okay? Just ... just mouth wash.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Maryedith"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, pardon me for trying to set you up with a beautiful, intelligent woman.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Are you kidding? He can do every move I've ever done! Do you know what a good mechanic is worth? You can't compare that to sex.",
-      "characters": [
-        "George",
-        "Poppie",
-        "Jerry",
-        "Connie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Thank you very much, that's great- >click< Oh! Hold on a sec, I got a call on the other line. >click click< Hello?",
-      "characters": [
-        "Jerry",
-        "Lippman",
-        "George",
-        "Kelly"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Eight years have I had this car. Not a scratch on it! Eight years!",
-      "characters": [
-        "Newman",
         "Kramer",
-        "Frank",
-        "Elaine"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're not around women. You don't know how important a man's hair is.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, it's amazing Peterman hasn't fired that dolt. She practically ran the company into the gro-ound.",
+      "characters": [
+        "Silvio",
+        "George",
+        "Jerry",
+        "Peggy"
+      ],
+      "correctAnswer": "Peggy"
+    },
+    {
+      "quote": "You know, Jerry has one of those every time he bombs on stage.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry. I don't know if you've noticed, but lately, I've been drifting, aimlessly?",
+      "characters": [
+        "Kramer",
+        "Holly",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

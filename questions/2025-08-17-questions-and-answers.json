@@ -1,69 +1,69 @@
 {
-  "gameNumber": 226,
+  "gameNumber": 227,
   "date": "2025-08-17",
   "questions": [
     {
-      "quote": "Whatever. Believe me, if I wasn't involved right now, I wouldn't mind being set up. Something tells me she's a knockout.",
+      "quote": "Yeah, you knew he had a cold. How'd you expect him to blow his nose? YEA!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah I really had some guts back then. Why don't we do it again?",
       "characters": [
         "George",
         "Jerry",
-        "Frank",
-        "Peterman"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, go in there and talk to her. She's not going to put 'em on the glass.",
+      "quote": "Well, now what are we gonna do?  See? This is why you should get a fax and a Xerox.",
       "characters": [
         "Kramer",
-        "Marlene",
+        "Christie",
+        "Jerry",
+        "Vanessa"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, in the year two-thousand, we'll all be on speed-dial. You'll just have to think of a person, they'll be talking to you. It'll be like, wup  getting a call here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But if you wait, they won't let you back in! Visiting hours are almost over!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Two hours later he checks into Smither's clinic. I talked to the doctor yesterday. He's doing great on the rehab. He's hooked on Pez. He's eating them like there's no tomorrow.",
+      "characters": [
+        "George",
+        "Lamar",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Elaine! You found the clubs. That's wonderful news. Where are they?",
-      "characters": [
-        "Peterman",
-        "Morty",
-        "Leo",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Hey! Is that Peter? ...I can't believe it. Get me a cup of Decaf.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I still don't know how you spotted that dime. I think you planted it. Plus I had to pay that vet bill for the stupid dog. I don't know how that guy got my name.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Fdr",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "With the orange hair, and the big clown shirt with the ruffles...",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, don't wander too far, I'll meet you back here in fifteen minutes.",
+      "quote": "Blow it off. Remember Poli Sci? How many of those did we go to?",
       "characters": [
         "Jerry",
         "Kramer",
@@ -73,34 +73,34 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I really hate people who do that. I hope you don't let him get away with it.",
+      "quote": "Hey, wait a second. You know, we could share a cab. They're playing at the same Cineplex.",
       "characters": [
-        "Sheila",
-        "Elaine",
-        "Sid",
-        "Jerry"
-      ],
-      "correctAnswer": "Sheila"
-    },
-    {
-      "quote": "Ohmygod! Lippman could see this! He thinks I was visiting my father! Oh my g-I make up one little white lie and they put my picture in the paper!",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "George",
-        "Earl"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Pull yourself together. Your going in there soldier! That's an order!",
-      "characters": [
-        "Susan",
-        "George",
-        "Elaine",
-        "Jerry"
+        "Tv",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Here's the book. Don't let anybody see it. Don't let anything happen to it.",
+      "characters": [
+        "Jerry",
+        "Audrey",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Awe there making faces at me cause I've had a couple of cafe lattes. But I'm entitled to them. I can have as many cafe lattes as I want, that was the settlement.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

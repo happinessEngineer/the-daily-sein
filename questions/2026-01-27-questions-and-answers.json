@@ -1,106 +1,106 @@
 {
-  "gameNumber": 389,
+  "gameNumber": 390,
   "date": "2026-01-27",
   "questions": [
     {
-      "quote": "Hey, I'm sorry, I- you know, I, I thought you knew.  You got any meat?",
+      "quote": "Wow, well, I guess you don't have any advice for me on how to win the case?",
       "characters": [
+        "Kramer",
         "George",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!…",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You should've just had dinner with your uncle tonight and gotten in over with. It's just a movie.",
+      "characters": [
+        "Elaine",
+        "Frank",
         "Kramer",
-        "Sally"
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I wanna get my hair cut I've gotta go now. Call me when you get home. I wont be there, but leave a message so I know you called.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Lanette",
+        "George"
+      ],
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "Man, 2.9 percent financing on a Toyota Onedun . That was my idea too!",
+      "characters": [
+        "Ping",
+        "Father",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Anyway, let me tell you why I called. When I took over here last month, I reviewed what was in development,and it was pretty much same old, same old.",
+      "quote": "Ah. You know, uh..I'm engaged.  Yep, gettin' married in fifty years.",
       "characters": [
-        "Kimbrough",
-        "Jerry",
-        "Mel",
-        "Elaine"
-      ],
-      "correctAnswer": "Kimbrough"
-    },
-    {
-      "quote": "She's an... etymologist. You know, bees, flies, gnats. W-What about you?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All you got is instant coffee? Why don't you get some real coffee?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Guy",
-        "Steve"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well , as I said this type of thing is very common in show business",
-      "characters": [
-        "Elaine",
         "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, the remote! Okay, I'm just gonna put it on top of the television...",
-      "characters": [
+        "Jerry",
         "Elaine",
-        "George",
-        "Noel",
-        "Jerry"
+        "Mary"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I know. No awkward pauses. Probably the reason we never fooled around..",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, I was thinking if you're not busy, maybe I can get my meal today?",
+      "quote": "What?...Oh! by the way. What am I going to be in the wedding party?",
       "characters": [
         "Elaine",
-        "George",
-        "Newman",
-        "Bania"
+        "Jerry",
+        "Kramer",
+        "Rabbi"
       ],
-      "correctAnswer": "Bania"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "This is a fantastic place! I always thought it was a meat packing plant!",
+      "quote": "It's right in the explosion scene. So if you could just...leave me a little window. You know, my, uh, my aunt had a thing removed with a laser. All right, I don't want to interrupt your meal, so...",
       "characters": [
-        "George",
+        "Kramer",
+        "Elaine",
         "Jerry",
-        "Helen",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh...it's daylight. It won't take you that long. Just make a clean break.",
+      "quote": "So you would choose your last meal based on the method of execution?",
       "characters": [
-        "George",
         "Jerry",
-        "Katie",
-        "Elaine"
+        "Glenn",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "What, you know what, the keys. I want the keys. You've lost your key privileges.",
+      "characters": [
+        "Jerry",
+        "Fred",
+        "Elaine",
+        "Monica"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

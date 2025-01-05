@@ -1,104 +1,104 @@
 {
-  "gameNumber": 463,
+  "gameNumber": 464,
   "date": "2026-04-11",
   "questions": [
     {
-      "quote": "Don't be ridiculous!  I mean, why would anyone wanna sleep...",
+      "quote": "Yes I am. We had a verbal contract. If we can't take each other at our word, all is lost.",
       "characters": [
-        "Elaine",
-        "Loretta",
-        "George",
-        "Fred"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, everything's goin' great except, basically, I'm payin' for sex.",
-      "characters": [
-        "Jerry",
-        "Jack",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Damn it, Elaine. That wasn't Zach. That was the yam-yam. Now, he is going cold turkey.  And you will be at his side.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "No, I'm just getting over an allergy attack. This guy I'm going out with...",
-      "characters": [
-        "George",
-        "Jerry",
         "Kramer",
+        "Sally",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, Kramer, I am in big. big, big trouble. I need a cake that looks like this.",
+      "quote": "That's it, that's it! I warned you kids. I told you not to play in front of my house. This time, I'm keepin' it. And you're not getting back your rock either!",
       "characters": [
         "Elaine",
         "George",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What, Come in - come in - Come in Miss Benes! That is if you can spare a minute from your busy schedule! And you bring guest for my entertainment?",
+      "quote": "You know, you could've just given me Neil's number. You..you didn't have to take me out to dinner.",
       "characters": [
+        "George",
         "Elaine",
-        "Testikov",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Testikov"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hey, have you seen all these new commercials for indigestion drugs? Pepcid AC, Tagemat HB.",
+      "quote": "No I can't. I gotta pick up Elaine. I'm taking her to this Kennedy auction.",
       "characters": [
         "Jerry",
-        "Joel",
-        "Morty",
+        "Steve",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I was just in the neighborhood visiting my mother so I thought I'd drop by and say, \"Hello\".",
+      "quote": "I tried putting her hands there  but she pulls it away immediately, she's not into it.",
       "characters": [
-        "Kramer",
-        "Elaine",
+        "Peterman",
         "George",
-        "Lloyd"
+        "Kramer",
+        "Jerry"
       ],
-      "correctAnswer": "Lloyd"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, like any man would ever look at me, come on, I?m gonna... get out of here.",
+      "quote": "I mean, how is that easier? I mean, then you would owe me twelve fifty instead of me owing you seven fifty.",
       "characters": [
-        "George",
-        "Jerry",
+        "Bob",
         "Elaine",
-        "Kramer"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I mean, it's not fair. I've been going there for 7 years. She's been there 3 weeks.",
+      "quote": "Ah, here we go... apple pie! Best apple pie in the city.  Mmm, delicious. I'm not waiting for you. Take some.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Greg",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what I think it is? I think it's that East River. I think it might be polluted.",
       "characters": [
         "George",
-        "Sid",
         "Elaine",
+        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's too tanned. It's the middle of the winter, she's like a carrot.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's like I'm Neil Armstrong. I turn around for a sip of Tang and you jump out first.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     }

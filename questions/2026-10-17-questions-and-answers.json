@@ -1,106 +1,106 @@
 {
-  "gameNumber": 652,
+  "gameNumber": 653,
   "date": "2026-10-17",
   "questions": [
     {
-      "quote": "Woah, back it up, back it up. Beep, beep, beep. Tractor story?",
+      "quote": "So you won't believe what happened with Whatley today. It got back to hime that I made this little dentist joke and he got all offended. Those people can be so touchy.",
       "characters": [
-        "Corinne",
-        "Jerry",
         "Elaine",
+        "Steve",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Out.  Wow. I spend so much time trying to get their clothes off, I never thought of taking mine off.  Alright, Hey come on, get out of here, Dophne gonna be here any minute.",
+      "quote": "Well, it's my stomach. I think there must have been something in the pasta primavera I had for lunch.",
       "characters": [
-        "Peggy",
-        "Kramer",
+        "Bania",
         "George",
-        "Frank"
+        "Russell",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Russell"
     },
     {
-      "quote": "Oh! Well, we have quite a few to pick from  They're arranged in order of price , the most expensive are in the front.",
-      "characters": [
-        "Puddy",
-        "Kramer",
-        "Jerry",
-        "Clerk"
-      ],
-      "correctAnswer": "Clerk"
-    },
-    {
-      "quote": "No, no, no. Out of the question. I was over there today. He's got the good spot in front of the good building in the good neighbourhood. I know he's not gonna wanna move.",
+      "quote": "Can you believe somebody threw this out? You know I'm going to make a coffee table out of this and surprise Tina.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
+        "Patty",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, maybe I could bribe one of those women that hand out the towels in the powder room.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, he left the store early, made a special trip to the distributor and got it.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Helen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know! I couldn't understand a word she was saying! I was just nodding!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kruger",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I played with him every day until the age of four - and then we separated.",
+      "quote": "We can exchange keys so we can come in and out. Oh, this is going to be great!",
       "characters": [
         "Frank",
+        "Elaine",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So go ahead pigeons. hu hu hu. Laugh it up. I'm getting in my car now and the last I heard ... we have NO DEAL!",
+      "characters": [
         "Kramer",
+        "Father",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, wrong attitude. you're not bringing that trash into my house.",
+      "quote": "Take his *records*? Do you realize how valuable that record collection is?",
       "characters": [
-        "Dana",
-        "George",
+        "Tim",
         "Elaine",
-        "Izzy"
+        "Marcy",
+        "Jerry"
       ],
-      "correctAnswer": "Izzy"
+      "correctAnswer": "Tim"
     },
     {
-      "quote": "What's this? Can't I leave this place for a second?  Can I help you?",
+      "quote": "Oh no, no,. no. I had to fish around in the evidence room for it. You know, they're all preoccupied, trying to hunt down this new psycho-serial killer, the Lopper. All right, I'll see ya.",
       "characters": [
-        "Elaine",
         "Kramer",
+        "Mickey",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, my father used have a huge collection of big band records.",
+      "characters": [
+        "Valerie",
+        "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, can't you incorporate one unselfish act in your daily routine?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. The only think that saved him is that he accidentally flashed their secret gang sign.",
+      "characters": [
+        "Kramer",
+        "Keith",
+        "Elaine",
+        "Robin"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

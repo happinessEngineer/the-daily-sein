@@ -1,106 +1,106 @@
 {
-  "gameNumber": 935,
+  "gameNumber": 936,
   "date": "2027-07-27",
   "questions": [
     {
-      "quote": "Well, anything I can do to help, um...she's a wonderful girl. Very smart. Very eh...crafty.",
+      "quote": "Well Jerry's gonna be the best man and Kramer's gonna be the usher so what am I gonna be?",
       "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey. You know, do I have a case for you guys to do on L.A. Law.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "George",
-        "Salesman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm trying to get out of this Big Brother program. So when you get to Paris  all you have to do is drop 'em in any mailbox.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Salesman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What do you mean 'my own words'? Whose words are they gonna be?",
-      "characters": [
-        "Pam",
         "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You ma, know I've been thinking. I want you to quit that matron job.",
+      "characters": [
+        "Elaine",
+        "Doctor",
         "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, no. No. No. No. No. Nothing. I'm fine. Everything's fine. Fine. Just get a little nervous on the weekends, that's all. Could I, uh, could I get a glass of water?",
+      "quote": "Hey, look at the high score--\"G.L.C.\" George Louis Costanza. That's not you, is it?",
       "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Mickey"
+        "Elaine",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes of course go ahead. My guess is you're going to like this very much.",
+      "quote": "Elaine, I feel a cold coming on. Could you get me a cold pill from the medicine cabinet?",
       "characters": [
-        "Landis",
-        "Jerry",
         "Kramer",
+        "Helen",
+        "Jerry",
+        "Pitt"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "I don't believe you. If you can put your pants on, you can move those cars.",
+      "characters": [
+        "Sid",
+        "George",
+        "Rita",
+        "Peterman"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Nothing. Please. I'll tell you the truth - the whole thing sounds pretty stupid to me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Oh, right! Hey, it was great seeing you again. I love your outfit.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There are plenty of things you can do, there's chess and uh uh mah jong,",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Hoyt",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, don't they make a counter offer? How can they just cancel the whole deal like that? What kind of a maniac is this guy? I mean he just, he says no, and that's it?",
+      "characters": [
+        "Steinbrenner",
+        "Ben",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That's my hand towel! I use that on my face, hands and chest! That's where the hives are coming from! It's not from Dr. Sitarides, it's from Dr. Van Nostrand!",
+      "quote": "It was unbelievable. You're right the jokes kept bouncing off her like superman.",
       "characters": [
-        "Stationer",
-        "George",
-        "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, come on, wait a second, this whole thing is ridiculous. How do I even know she wears the same size?",
-      "characters": [
-        "Elaine",
-        "Margaret",
-        "Darryl",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I mean I met her three times. I don't even know her last name.",
-      "characters": [
-        "Leo",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "'Scarsdale surprise'. That's the musical about that Scarsdale diet doctor murder.",
-      "characters": [
-        "Patrice",
         "Newman",
         "George",
+        "Mel",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

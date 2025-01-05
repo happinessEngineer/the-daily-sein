@@ -1,106 +1,106 @@
 {
-  "gameNumber": 949,
+  "gameNumber": 950,
   "date": "2027-08-10",
   "questions": [
     {
-      "quote": "Well, it's not that. I just, you know, I thought that we were both uh...",
+      "quote": "Anyway, I'm a new man, and I'm looking towards the future. Clean, dirty, whatever.",
       "characters": [
-        "Jackie",
-        "Kramer",
         "Elaine",
+        "Sally",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hello Darren, this is Jerry from Jerry's office. . We're going to be three for lunch.  What do you mean he's already left?",
+      "characters": [
+        "George",
+        "Helena",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, I got news for you, if we're making this movie, we gotta get a table immediately.",
+      "characters": [
+        "Katie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at this, look at the hair on the back of my neck. It's all bramble, see it's like thicket back there. Look, I need somebody to shave it for me, huh?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's playing a recital this week at the McBierney School. You wanna hear her play? I got two extra tickets, you and Elaine could go...",
+      "characters": [
+        "Marlene",
+        "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Some taxidermy that's been in my family for generations, my Tony, my... military discharge.",
-      "characters": [
-        "Karen",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "If you do dance, the cooks want to know - so they can be brought out of the kitchen. They missed it last year.",
-      "characters": [
-        "Kramer",
-        "Waiter",
-        "George",
-        "Helen"
-      ],
-      "correctAnswer": "Waiter"
-    },
-    {
-      "quote": "ouhhh -- I had Uma Therman's number written on that stub. I lost Uma's number.",
+      "quote": "No, next Wednesday. If it was tonight, I would've said tonight.",
       "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You don't understand. I went on a successful pocket diet, and I want to keep that weight off.",
-      "characters": [
-        "Frank",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay... but there's no cake or anything, if that's what you're looking for.",
-      "characters": [
         "Kramer",
         "Jerry",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ah, sweet elixir. It's fragrant nectar a soothing balm for the soul.",
+      "quote": "So he just gets soup. He wants to save the meal. So now I got to do it all over again.",
       "characters": [
-        "Kramer",
         "Jerry",
         "George",
-        "Ray"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "Ahh, too bad you got a little, George Costanza thing going on.",
-      "characters": [
-        "Steinbrenner",
-        "George",
-        "Landis",
-        "Jerry"
+        "Peterman",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, wait a minute, wait a minute, don't tell me, don't tell me. It starts with a . . . Duncan Meyers. Oh, wow, this is something. I haven't seen you guys in what, twenty years?",
+      "quote": "I told Cynthia we'd double with her and Bania Saturday and then catch his act.",
       "characters": [
-        "Kramer",
+        "Joel",
+        "Jerry",
         "Elaine",
-        "George",
-        "Jerry"
+        "Abby"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Abby"
     },
     {
-      "quote": "Well, what are we going to do about Paris? I mean are we actually going to get back on this plane?",
+      "quote": "Oh, George brought home movies of his boyhood trip to Michigan.",
       "characters": [
-        "Elaine",
+        "Jerry",
+        "Hal",
         "Kramer",
-        "Salesman",
-        "Jerry"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

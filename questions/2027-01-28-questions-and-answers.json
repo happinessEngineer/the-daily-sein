@@ -1,106 +1,106 @@
 {
-  "gameNumber": 755,
+  "gameNumber": 756,
   "date": "2027-01-28",
   "questions": [
     {
-      "quote": "No. I like a good comedy. You know, like a Neil Simon? You like Neil Simon?",
+      "quote": "Well we're gonna be here a while so take a seat.  You know if it hadn't been for that secretary of yours...I said sit down!  Are you deaf Bradley?! I said sit down!",
       "characters": [
-        "Peterman",
-        "George",
-        "Nina",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well that's how my five-year old eats. He's a very picky eater.",
-      "characters": [
-        "Poppie",
-        "Elaine",
-        "Jackie",
-        "Julianna"
-      ],
-      "correctAnswer": "Julianna"
-    },
-    {
-      "quote": "You know you're not supposed to drink while you're keeping a secret!  Is there anything else?",
-      "characters": [
-        "Elaine",
         "Mickey",
         "George",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Mickey"
     },
     {
-      "quote": "Well one day somebody's going to sleep on that thing and we'll get sued.  I hope this doctor knows what he's doing.",
+      "quote": "Jean-Paul?  Hey Jean-Paul? Jean-Paul?  Jean-Paul?! Oh man...  Oh...machine.",
       "characters": [
-        "Vanessa",
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What am I, a--a bulimic, chain-smoking, stenographer from Staten Island?",
+      "characters": [
+        "Carol",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Going to Houston. It's a publisher's convention.  Can I have my sports section?",
+      "characters": [
+        "Lippman",
         "Jerry",
         "George",
-        "Morty"
+        "Frank"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Lippman"
     },
     {
-      "quote": "Ya' ever dream in 3-D? It's like the boogeyman is comin' right at you.",
+      "quote": "No, no, no, I sensed something. I did sense something. I perceived a possibility Jerry.",
       "characters": [
-        "Nana",
         "Elaine",
-        "Loretta",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well ahh. I was trying to get to my seat and I had to step over someone and I kind of got pushed and it spilled on me.",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, I'm not riffing. I'm ignoring! Do you understand the difference?",
-      "characters": [
-        "Susan",
-        "Vanessa",
+        "Lamar",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Anyway, you know why I didn't ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.",
+      "quote": "Well I started out working in mortgage bonds, but I just found that so limiting.",
       "characters": [
         "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I told him he'd never make it. He was up all night! Oh my god...Kramer?",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "Woman",
-        "George"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.",
+      "quote": "Well, take it. I'm sure as Hell not going to give it to my family.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Aaron",
-        "George"
+        "Sid",
+        "George",
+        "Peterman",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "They're men with jobs, Jerry! They wear suits and ties. They're married, they have secretaries.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. I'm gonna try givin' them fifty-five dollars each...  What do you think?",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You are having problems with your boyfriend and I am meeting you to discuss the situation.",
+      "characters": [
+        "George",
+        "Captain",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

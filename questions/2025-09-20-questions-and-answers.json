@@ -1,104 +1,104 @@
 {
-  "gameNumber": 260,
+  "gameNumber": 261,
   "date": "2025-09-20",
   "questions": [
     {
-      "quote": "It's a one-time fee. A hundred and fifty bucks. Why live like this?!",
+      "quote": "So, ah then, I ah had to kill him and ah, well the police are still looking for me.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Jerry",
+        "Stu",
+        "Cindy",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It was very traumatic. The last thing I remember is you flinching. Then, everything went black.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Estelle"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, you know... the friend meeting the new woman. I feel like I'm getting fixed up for a friendship.",
+      "quote": "No, Can't be...For instance I remember when we first met, we had a great conversation.",
       "characters": [
         "George",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Ah hah. Well, listen. You would be wise to keep your distance from him.",
+      "quote": "Elaine, bald men, with no jobs, and no money, who live with their parents, don't approach strange women.",
       "characters": [
-        "Peterman",
-        "Estelle",
+        "Janet",
+        "George",
+        "Morty",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I should have quitted at double or nothin'. Travelers checks acceptable?",
+      "characters": [
+        "Earl",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Yeah, I can't eat dessert either. The sugar makes my ankles swell up, and I can't dance.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Toby",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's an... etymologist. You know, bees, flies, gnats. W-What about you?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am not O'Brien! I am not O'Brien! I'm not O'Brien! Ask anyone! Jerry?! Jerry?!!",
+      "characters": [
+        "Kramer",
+        "Ronnie",
         "George",
         "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There was a dog in front of the building and it spooked me. I couldn't come in until he left.",
+      "characters": [
+        "Bania",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He knows how to read. And he also knows finishing an entire book doesn't prove anything. And get this: he's into architecture.",
+      "quote": "Aah, hey.  If this works out, forget about it. Vacations together, movies together, dinner together. It..it's almost as good as if I didn't get married.",
       "characters": [
-        "George",
         "Kramer",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Now I don't believe this. That guy owes me big time. I got him off sugar! Look, I'm gonna go down there with you right now.",
+      "quote": "Alright break it up, break it up. Come on, just cut it out now",
       "characters": [
-        "Rick",
+        "Jerry",
+        "Kramer",
         "George",
-        "Rudy",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Alright, you know I'm supposed to go on this special tour today with George's girlfriend.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I'm no genius but, according to my calculations he should be here in a few seconds.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know. So why do we need two people in the show that can't act?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Woman",
-        "Landlord"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, trust me, that one was doing more harm than good. Don't forget to use the Plax too.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

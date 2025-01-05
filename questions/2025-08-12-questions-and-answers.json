@@ -1,106 +1,106 @@
 {
-  "gameNumber": 221,
+  "gameNumber": 222,
   "date": "2025-08-12",
   "questions": [
     {
-      "quote": "Haven't been in the lab yet. But I am birth control shopping today.",
+      "quote": "Hey Jerry, th...  George, you decided to get a rug! Good for you, Jack!",
       "characters": [
-        "Elaine",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry, can't you incorporate one unselfish act in your daily routine?",
-      "characters": [
+        "Gary",
         "George",
-        "Elaine",
-        "Helen",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Gary"
     },
     {
-      "quote": "Not with that big glass window looking out into the hall. I'd love a good nap. That's the only thing getting me out of bed in the morning. I'll see ya'.",
+      "quote": "What are you talking? Jeffrey works for the parks department!",
       "characters": [
-        "Jerry",
         "George",
+        "Morty",
+        "Noel",
+        "Doctor"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "\"Dear Henry, last night with you was bliss. I fear my.. orgasm  has left me a cripple. I don't how how I shall ever get back to work..  I love you madly, John.  P.S. Loved the cabin.\"",
+      "characters": [
         "Kramer",
-        "Jimmy"
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No. I need a guy that can rig a Frogger machine so that I can move it without losing power, 'cause I have the high score. H-hello?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "How can you say that I still like you, when I didn't even say hi to you?",
+      "quote": "Okay, I'm done. I'll be back in the morning, when he's close to finish with his story.",
       "characters": [
         "Elaine",
         "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Elaine, I need you to do me a big favor. I need you to go down to the Diplomat's Club and meet Bridget for me. I'm going to be late.",
+      "characters": [
+        "Jerry",
         "Kramer",
+        "Elaine",
         "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I don't keep pecans in the house so I didn't think it'd be a problem.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Shelly"
-      ],
-      "correctAnswer": "Shelly"
-    },
-    {
-      "quote": "George and I just signed up with the Senior Citizen's Volunteer Agency. Same thing Elaine's doing.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, well, I didn't do much. I just sat in the sauna. You know, it was more like a Jewish workout. I'll see ya.",
+      "quote": "Pst.  Wilkinson's got a bite on a new one. Petramco Corp. Out of, uh Springfield. I think. They're about to introduce some sort of a robot butcher.",
       "characters": [
-        "George",
         "Kramer",
+        "David",
         "Jerry",
-        "Tim"
+        "George"
       ],
-      "correctAnswer": "Tim"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Must be one of those rich, spoiled handicapped people, who didn't want to do any work, and just wanted to sit in her wheelchair and take it easy.",
+      "quote": "No, I'll be seeing you.  \"Good morning, good morning..\"  Have you ever gotten up in the morning and felt it's great to be alive? That every breath is a gift of sweet life from above?",
       "characters": [
+        "Father",
         "George",
-        "Kramer",
-        "Jerry",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "The appeal of the posse? The posse has tremendous appeal. Get away from the job, camp out, you're with your friends... Come on, it's a week-long game of hide-and-seek on horseback.",
+      "quote": "Yes, because my previous vomit was also June 29th... 1972. That's why during the '80 vomit, I was yelling to George: \"Can you believe it? I'm vomiting on June 29th again.\"",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Keith",
+        "Steve"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I bought a bunch of bunion stories from Newman - but they all stink!",
+      "quote": "What does he want from me? I didn't do anything. See this is all Elaine's fault. She took off to Europe with his psychiatrist. He probably can't get his medication. Now I got some nut after me.",
       "characters": [
-        "Margaret",
         "Jerry",
-        "George",
-        "Kramer"
+        "Kramer",
+        "Tim",
+        "Morty"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

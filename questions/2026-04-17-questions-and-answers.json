@@ -1,106 +1,106 @@
 {
-  "gameNumber": 469,
+  "gameNumber": 470,
   "date": "2026-04-17",
   "questions": [
     {
-      "quote": "He's serving Mexican, Italian, Chinese. He's all over the place. That's why no one's going in.",
+      "quote": "Could you fill these out for me please? And um, Elaine, you'll be seeing Julianna…",
       "characters": [
+        "Elaine",
         "George",
+        "Jerry",
+        "Receptionist"
+      ],
+      "correctAnswer": "Receptionist"
+    },
+    {
+      "quote": "I got a guarantee on that watch. Give it to me, I'll take it back to where we got it.",
+      "characters": [
+        "Morty",
+        "Jerry",
         "Kramer",
-        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, the Curtis, why don't you come in?  Father Curtis, good guy. Oh, which reminds me, did you hear the one about the Pope and Raquel Welch on the lifeboat, huh? I'll tell you later.",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Right. I don't have it on me. Allison, this is Susan. Susan, Allison.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean look at this. Every waitress working here has the same proportions. Wouldn't you say?",
+      "characters": [
+        "Tia",
+        "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, no it's that guy. He's really been bugging me about the jacket.",
+      "quote": "Aahh! You're great,It's great, It's so great to see a show that's  about something.",
       "characters": [
         "Jerry",
-        "Lippman",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah. God, I can't tell you how I feel! I mean, I feel *so* *good*! I *really* feel good. The strange thing is, I mean, I haven't even met the woman yet.",
-      "characters": [
         "Newman",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I saw you looking at your watch. You want to leave? Go ahead.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Gina",
+        "Greg"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "Listen, there is something really suspicious about this guy. Every time Mr Peterman tries to assign him any work, he says he can't hear, and it all gets dumped on me.",
+      "characters": [
+        "George",
+        "Kramer",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "A woman that hates me this much comes along once in a lifetime.",
+      "quote": "I am sorry. It looks like the claim has been red flagged. Your under investigation.",
       "characters": [
-        "Kramer",
         "George",
         "Jerry",
+        "Attendant",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Attendant"
     },
     {
-      "quote": "You see the idea is for a rubber ball inside the tanker so if it crashes, the oil won't spill out.",
+      "quote": "No, not really. I'm just saying this to you because I like to hear myself talk. Yes, really!",
       "characters": [
-        "George",
-        "Elaine",
         "Jerry",
+        "George",
+        "Dan",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey, grown-up.  Oh my god, there she is. Go ahead, go ahead.  Let's go, let's go. All right what are they saying?",
-      "characters": [
-        "Kramer",
-        "Rick",
-        "Jerry",
-        "George"
-      ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "\" Hmm! Oh! Yeah. I'll tell you who is an attractive man; Gorge Will.\"",
-      "characters": [
-        "George",
-        "Susan",
-        "Fred",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I suspect that this guy I'm seeing might be drinking but I can't smell it.",
-      "characters": [
-        "Celia",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "There's the giant ball of oil. Clare's right underneath that thing. Clare! Hello-o-o-o! Hello-o-o-o! Hello-o-o-o!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "They don't actually have to squeeze his head to get him to say 'holy cow', do they?",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

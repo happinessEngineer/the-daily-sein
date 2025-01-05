@@ -1,11 +1,11 @@
 {
-  "gameNumber": 971,
+  "gameNumber": 972,
   "date": "2027-09-01",
   "questions": [
     {
-      "quote": "The roommate will then offer her friend the requisite sympathy even as part of her cannot help but feel somewhat flattered by her inclusion in the unusual request.",
+      "quote": "Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?",
       "characters": [
-        "Babs",
+        "Officer",
         "Jerry",
         "George",
         "Elaine"
@@ -13,92 +13,92 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I wish you'd called me earlier, I could have given you my tickets for tonight.",
+      "quote": "Well, I hear three distinct sounds. A low rumple...followed by a metallic 'squink'...",
       "characters": [
-        "Alec",
+        "Betsy",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I would. It's just, you know, I just ate a whole pot roast.",
+      "characters": [
+        "Tony",
         "George",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Alec"
-    },
-    {
-      "quote": "Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something.  Oh, please, come on.. it was nothing.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And it's their anniversary Friday night. I could send them for a hansom cab ride. Y -- you think they'd like that?",
-      "characters": [
-        "Emily",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That is it! Mary Hart's voice, don't you see? There's something about Mary Hart's voice that's giving you seizures. Just like, just like, just like that woman in Albany!",
+      "quote": "Jerry, I think I bought too much at that price club. I don't have any room for it all.",
       "characters": [
-        "Tor",
-        "Elaine",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, and you're not going to, because I'm hanging it up. Boys, I'm retiring.",
-      "characters": [
-        "Elaine",
-        "George",
+        "Ray",
         "Jerry",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, I could probably shoot him from here. I'd be doing us both a favor.",
+      "quote": "You know Jack, you've got a hell of a nerve taking that kid's pen.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
+        "Conrad",
+        "Jake",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Don't they have any closer friends. They're level jumping on our friendship.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I know what he is. I recognized him. You didn't even notice him.",
+      "quote": "Kramer says it's up to the cat now.  It'll be on your conscience.",
       "characters": [
-        "George",
-        "Kramer",
+        "James",
+        "Jack",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh no, I can't do it. I-I'm not good at these things, I get flustered. Once I tried to bribe an usher at the roller derby, I almost got arrested.",
+      "quote": "Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley.",
       "characters": [
-        "Susan",
+        "Kramer",
         "George",
-        "Ray",
-        "Elaine"
+        "Chiles",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, you know what they say. Lucky in love, Unlucky with fruit.",
+      "quote": "Hello Elaine? Patty Lawrence had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?",
       "characters": [
-        "Hoyt",
+        "Elaine",
         "Jerry",
-        "Beth",
+        "George",
         "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So there you are. You've got a nice girl and a clean apartment.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Ronnie"
       ],
       "correctAnswer": "Jerry"
     }

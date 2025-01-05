@@ -1,106 +1,106 @@
 {
-  "gameNumber": 655,
+  "gameNumber": 656,
   "date": "2026-10-20",
   "questions": [
     {
-      "quote": "Frank, I wanna tell you how sorry I am to hear about you and Estelle separating.",
+      "quote": "All right come on in. ... Just wait over HERE! Just wait here and I'll get it for you. ... Kramer this is Tia.",
       "characters": [
-        "Farkus",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Farkus"
-    },
-    {
-      "quote": "Yeah. Not only that, this is what she said to me, \"Can we change the subject?\"",
-      "characters": [
-        "George",
-        "Donna",
+        "Kramer",
         "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "And then in the fifth inning, why did you take off on the pop fly?",
-      "characters": [
-        "George",
         "Jerry",
-        "Salesman",
-        "David"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm not goin' along. I can just see you in Berlin in 1939 goose- stepping past me: \"C'mon Jerry, go along, go along...\"",
-      "characters": [
-        "Woman",
-        "George",
-        "Jerry",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Wow. Well, don't you sweat it. You can use my car any time you want to.",
+      "quote": "Hello... Oh hi Patty, thanks for calling me back. I-I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Ya, Okay, bye.",
       "characters": [
-        "Kramer",
-        "Kurt",
-        "Jackie",
+        "Steinbrenner",
+        "Elaine",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "NOTHING LEFT! That's why I'm trying to get that vacuum cleaner. Because somebody's going to grab it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Puddy"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Don't you see what Whatley is after? Total joke telling immunity. He's already got the two big religions covered, if he ever gets Polish citizenship there'll be no stopping him.",
+      "quote": "Well, it might not be hell but you're gonna run into some bad dudes.",
       "characters": [
-        "Greg",
-        "Jerry",
-        "Darren",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, that's him. He just came home. ... Uh, the door [Jerry pushes his door against Kramer's entrance]",
-      "characters": [
-        "Jerry",
+        "Elaine",
         "George",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Remember the guy who pretended he had cancer so O would buy him the toupee?",
-      "characters": [
-        "George",
-        "Susan",
-        "Kramer",
+        "Peterman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Saving lives? The whole profession is; eh, just put some aloe on it.",
+      "quote": "Yeah, but you gotta order it two days in advance.  You know, I'm gonna call him, I'm gonna order the duck for you.",
       "characters": [
+        "Bania",
         "George",
         "Jerry",
-        "Elaine",
-        "Frank"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Why not? Pay is good. I got dental, private access to one of the great handicapped toilets in the city.",
+      "quote": "I told them to meet me in front of my building at six-fifteen.",
       "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Bania"
+        "Kramer",
+        "Elaine",
+        "Fred"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, the tenant association has decided to hear my side of the story. So, uh, I gotta kinda get ready. I'll see ya.",
+      "characters": [
+        "Testikov",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, who do you think you're going? Do you think that they have big picnic tables there?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Is that important, really? What is this, a police investigation? The woman's been through enough. She has to relive the experience now?!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, say, I wanted a side order of fruit but I didn't see it on the men",
+      "characters": [
+        "Guard",
+        "Elaine",
+        "Jerry",
+        "Nana"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

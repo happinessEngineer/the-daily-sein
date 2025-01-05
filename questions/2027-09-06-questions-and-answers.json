@@ -1,104 +1,104 @@
 {
-  "gameNumber": 976,
+  "gameNumber": 977,
   "date": "2027-09-06",
   "questions": [
     {
-      "quote": "All right, nice work.  Where's Uma's number? The moisturizer smudged out the phone number.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "John",
-        "Helen"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Dump him. I can't be with someone who doesn't break up nicely. I mean, to me, that's one of the most important parts of a relationship.",
+      "quote": "Why is nice bad? What kind a of sick society we are living in, when nice is bad?",
       "characters": [
         "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "That's right, you heard me. Get out! You are ruining this whole experience for me!",
-      "characters": [
-        "Father",
-        "George",
         "Jerry",
-        "Jackie"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "How do you like that? Can I turn now? Is this over? No, I can't, I can't. I'm stuck.",
+      "quote": "It's too late. We bought a condo at Del Boca Vista. We're leaving tonight.",
       "characters": [
-        "Jackie",
+        "Frank",
+        "Jerry",
         "George",
-        "Peterman",
+        "Lloyd"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Pendant! Those bastards. Well all right, boys. We'll go to that Pakistani restaurant on 46th Street. You're not afraid of a little spice, are you?",
+      "characters": [
+        "Duncan",
+        "Alton",
+        "Woman",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Alton"
     },
     {
-      "quote": "That reminds me of the Hatian Voodoo rattle torture! You haven't gone over to their side have you?",
+      "quote": "No, no. Not mooching. 'Cos at the end of the week, you add 'em all up, and you give me the bill.",
       "characters": [
-        "Peterman",
-        "George",
-        "Jerry",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Yeah, that was grandma Memma's also. She bought it on her trip to Europe in 1936. Jerry, I'm thrilled you like my mutton. I was afrais you only ate . . . salad.",
-      "characters": [
-        "Holly",
+        "Joe",
         "George",
         "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "Holly"
-    },
-    {
-      "quote": "You know the police, they found another victim of the Lopper in Riverside Park. I saw the photo, and it looked a lot like you.",
-      "characters": [
-        "Woman",
-        "George",
-        "Frank",
-        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Look, I was nice enough to give you the picture. I don't like what I wrote. I don't want it up there. Now please just give it back to me.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Enzo"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "David, this has been the worst month of my life and if I never see you again it'll be too soon.",
+      "quote": "You better give me back that bike!  Look at this! Look! Ow. I couldn't even crawl out of bed this morning.",
       "characters": [
         "Elaine",
-        "Karen",
-        "Jerry",
-        "Morgan"
+        "Kramer",
+        "Clerk",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I told them to meet me in front of my building at six-fifteen.",
+      "quote": "George, Scott's gonna drop by.  He said he never got his boxes.  I'll get the towels.",
       "characters": [
-        "Farkus",
-        "Tim",
-        "Hal",
+        "Bonnie",
+        "Kramer",
+        "Jerry",
         "George"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "Oh, is this disruptive? You find it hard to work with someone...interrupting?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm very nervous. I'm auditioning to be in the Actor's Studio tonight.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Mohel",
+        "Jerry"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Yes! And I put him up to it, because I'm sick! I'm the one that needs help.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Tony",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh my gosh, I just had a great idea. She could come to the party tomorrow and read Gwen's lips for me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     }

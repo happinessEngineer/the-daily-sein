@@ -1,106 +1,106 @@
 {
-  "gameNumber": 262,
+  "gameNumber": 263,
   "date": "2025-09-22",
   "questions": [
     {
-      "quote": "You know, all these years, I've always wanted to see the two of you get back together.",
+      "quote": "She works for PBS, I met her when I agreed to do that pledge drive.",
       "characters": [
-        "Kramer",
-        "George",
+        "Salesman",
         "Elaine",
+        "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know George, it struck me today me that a Communistpipeline into the vast reservoir of Cuban baseball talent could be thegreatest thing ever to happen to this organization.",
-      "characters": [
-        "Kramer",
-        "Steinbrenner",
-        "Newman",
-        "Susan"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "'Cause it's signals, Jerry, it's signals!  Don't you- all right. Did she even ask you, what you were doin' tomorrow night, if you were busy?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Babu",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I think what he's trying to say is that he's having a heart attack.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "We have to keep going - all the way back to the dealership. That was the plan.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Rick",
-        "Aaron"
-      ],
-      "correctAnswer": "Rick"
-    },
-    {
-      "quote": "Would you hang on just a second, son? George, what are you talking about?",
-      "characters": [
-        "Kramer",
-        "Gina",
-        "Frank",
-        "Hanke"
-      ],
-      "correctAnswer": "Hanke"
-    },
-    {
-      "quote": "He met with Elaine, and I asked him what happened, and he yada yada'd me. I mean, could he be having an affair?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Beth",
-        "Enzo"
-      ],
-      "correctAnswer": "Beth"
-    },
-    {
-      "quote": "So what am I in this for? You know, I'm getting to a point in my life where I need something more than just.. a good time.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What? What? Did you go down there?  Did he tell you what's gonna happen?  How long were you there?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's my pleasure. Be good.  You know, I actually might not use them on Friday either so I'll let you know.",
+      "quote": "Now, each of you is here because you're the best at what you do.",
       "characters": [
-        "Alec",
-        "Noreen",
+        "Karen",
+        "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Alec"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, I shouldn't go out with a friend of yours. I foresee messiness.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Patrice",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well Stubs has already sold it to some guy who's kid's in the hospital .",
+      "characters": [
+        "Kramer",
+        "Announcer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Huh? Ha. 200. You know, I've always wanted one of these things.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I wasn't going to say anything, but then I could see that he wasn't going to open his mouth.",
+      "characters": [
+        "George",
+        "Carol",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like.",
+      "characters": [
+        "George",
+        "Dan",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "Eh, we had a little fight about the move. I took her to this other place. I think they might be trying to screw me.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "To do what?! Work in a post office? Is that what you want me to do?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Driver",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Momma. Just talk to her, George. The doctor seems to think it helps.",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
     }
   ]
 }

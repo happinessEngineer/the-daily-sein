@@ -1,106 +1,106 @@
 {
-  "gameNumber": 946,
+  "gameNumber": 947,
   "date": "2027-08-07",
   "questions": [
     {
-      "quote": "You're supposed to just take a peek after a poke. You were like you just put a quarter into one of those big metal things on top of the Empire State Building.",
+      "quote": "O'Henry?  That's one of our top-selling candy bars.  It's got chocolate, peanuts, nougat, it's delicious, scrumptious, outstanding!  Have you been to a doctor?",
       "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Farkus"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I've been doing a lot of thinking. This might be my chance to start giving something back.",
-      "characters": [
-        "George",
-        "Simon",
-        "Buckles",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "God, there are still people who have trouble with an interracial couple.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Toby",
-        "Darryl"
-      ],
-      "correctAnswer": "Darryl"
-    },
-    {
-      "quote": "That's why I should date a giving person. If I date a taking person, everyone's taking, taking, taking, no one's giving - it's bedlam.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it was that woman across the street.  You know, you better be careful, buddy. She's gonna get you next.",
-      "characters": [
-        "Jerry",
+        "Jackie",
         "George",
         "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You have no idea what an idiot is. Elaine just gave me a chance to get out and I didn't take it.  This is an idiot.",
+      "characters": [
+        "Voice",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm gonna call the cops. That?s what I?m doing, I?m calling the cops.",
+      "characters": [
+        "Ned",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure! ... Okay... Don't worry, I'm taking MY car! ... okay... okay, see you later... bye...",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I'll bet you are! They told us he was poisoned! Something in his food.",
+      "quote": "I'm out! Fantastic apartment right across from mine, huh. I can't wait for you to see it.",
       "characters": [
-        "Leo",
-        "Patrice",
+        "Corinne",
+        "Elaine",
         "Jerry",
-        "Phil"
+        "George"
       ],
-      "correctAnswer": "Phil"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'll tell you when you can go. Wait, wait, wait, Wait-- now, now, now. No, no, no. Go, go! No, no. Wait-- now, now! Now! Jerry! Go--ahh...",
+      "quote": "George, frankly, I'm getting a little tired of hearing about her.",
       "characters": [
-        "Elaine",
         "Kramer",
+        "Jerry",
+        "Audrey",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Ah! Jerry I've been around long enough to know when I'm being worked.",
+      "characters": [
         "George",
-        "Jerry"
+        "Kramer",
+        "Elaine",
+        "Buckles"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah that's it. All right, I'm going to go down to the precinct. I'm going to have lunch with Lou.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Corinne",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well come on. That's $182 right there. I don't think that's anything to sneeze at.",
+      "quote": "Look, I don't know what to tell you, but there's no hat here. I mean, maybe the maid took it, I had people over, but...",
       "characters": [
-        "Jerry",
-        "Marla",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, I can't believe it myself sometimes. You have to start thinking in terms of \"we\". Ugh, it's a very stressful situation.",
-      "characters": [
-        "Laura",
-        "Testikov",
-        "Elaine",
+        "Heather",
+        "Nina",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Laura"
+      "correctAnswer": "Heather"
     },
     {
-      "quote": "Yeah, I want to see if there's anything I can do.. maybe get him another job.. maybe I'll hear of something.",
+      "quote": "What are you doing? We're going out for dinner in ten minutes.",
       "characters": [
-        "George",
-        "Kramer",
-        "Doorman",
-        "Jerry"
+        "Elaine",
+        "Rava",
+        "Jerry",
+        "Frank"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

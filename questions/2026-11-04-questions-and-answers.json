@@ -1,102 +1,102 @@
 {
-  "gameNumber": 670,
+  "gameNumber": 671,
   "date": "2026-11-04",
   "questions": [
     {
-      "quote": "Come on, We're two intelligent people here. We can figure this out. Now we got a dog and a cat in an office.",
+      "quote": "What about the skin? I need a good cheek, I like a good cheek.",
       "characters": [
-        "Kramer",
-        "Susan",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh yeah? This woman was selling them at this crazy party I was at last night. You'll appreciate this. Snapple?",
-      "characters": [
-        "Elaine",
-        "Doctor",
-        "Jack",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey Todd. Let me ask you a question. Um. Was this whole date thing just a way of asking me out?",
-      "characters": [
-        "Kramer",
         "George",
-        "Jerry",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "Herb"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'll never forget that laugh for the rest of my life. [exits]",
-      "characters": [
-        "Noel",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Noel"
-    },
-    {
-      "quote": "Hey, hey. Wha... wait... what, you're gonna leave it there? That's like half a pound of turkey!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, let me get a coat. I think I'll uh try a sport jacket and scarf thing, you know, like an unemployed actor.  Ahh, haven't worn this one in a long time.",
+      "quote": "Mr Wilhelm, listen. You've been abducted! Please, Mr Wilhelm, you gotta listen to me!",
       "characters": [
         "Kramer",
-        "Jerry",
         "Elaine",
-        "Landis"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because if there's any doubt at all I...I feel we should cultivate it.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
+        "Holly",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm a great clicker!  Great instincts. How dare you impune my clicking.",
+      "quote": "He was not the summer you. Besides, you had a summer me. Whitey Fisk, the guy who snuck you into Last Tango in Paris.",
       "characters": [
         "Jerry",
-        "Russell",
-        "Kramer",
-        "Morty"
+        "Elaine",
+        "Estelle",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, yeah, I did, but she's a tough nut. How d'ya like the tuxedo. It's a rental but I've had it for fifteen years. All right, eh.",
+      "quote": "Me? Oh no, but I'd love to have a baby, I mean, I can't wait to have a baby. I'm just dyin' to have a baby.",
       "characters": [
-        "Susan",
-        "George",
+        "Elaine",
+        "Helen",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait, wait, Mr Steinbrenner. George doesn't deserve any of the blame for what happened in the parking lot today, sir. If there's anyone to blame here, it's me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Faking? What makes you think that I have time to see doctors, take X-rays, make appointments, when there's absolutely nothing wrong with me? What kind of a person would do a thing like that?",
+      "characters": [
         "Jerry",
+        "Wilhelm",
+        "George",
         "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Good, as a matter of fact. I almost had my own show in Japan.",
+      "characters": [
+        "Jackie",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I understand, I like good breakfast. Long as you don't wind up trapped in a room with bib overalls and pigtails, been counseled by Dick Gregory.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, you got that straight!  Hey, Elaine, try the beef - because that's realy au jus sauce, huh.  Real au jus sauce!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Newman",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "\"Yeah! They isolate the muscles. The muscle has to grow....or die.\"",
+      "quote": "You're cut of the loot. Stubs gave me 200 dollars for the autographed birthday card that was inside.",
       "characters": [
+        "George",
         "Jerry",
-        "Rebecca",
         "Elaine",
         "Kramer"
       ],

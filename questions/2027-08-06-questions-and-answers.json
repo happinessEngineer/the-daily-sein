@@ -1,106 +1,106 @@
 {
-  "gameNumber": 945,
+  "gameNumber": 946,
   "date": "2027-08-06",
   "questions": [
     {
-      "quote": "Because of the Giant game! I told you, It went overtime! You know what those seats are like. They're very unforgiving.",
+      "quote": "I know, and then you say to yourself, \"From this moment on, I'm not gonna waste any more of it.\" But then you go, \"How? What can I do that's not wasting it?\"",
       "characters": [
-        "Kramer",
-        "George",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Who is he not to tell you about his life-threatening illness?",
-      "characters": [
+        "Elaine",
         "Jerry",
-        "Newman",
         "Kramer",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well there is the possibility that you've gone right out of your mind.",
+      "quote": "Not fast food, good food quickly. Hey, next time lunch'll be on me, huh Jer.",
+      "characters": [
+        "Seth",
+        "Jerry",
+        "Marcy",
+        "Elaine"
+      ],
+      "correctAnswer": "Seth"
+    },
+    {
+      "quote": "Let's get the check.  Is this uh considered signing? Do you do this when you want the check?",
+      "characters": [
+        "Jerry",
+        "Julianna",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I traded it to my sausage press. Look how thin that is, see that's all surface area. The taste has nowhere to hide.",
+      "characters": [
+        "Nana",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, yeah, yeah we could. You know, ah, Kramer, the next time you talk to her, find out if she knows Kelly, from Monk's. I wanna know if she really has a boyfriend.",
       "characters": [
         "Kramer",
         "George",
-        "Elaine",
-        "Attendant"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Nothing doing. Jerry, I didn't do anything. It's the monkey that should be apologizing to me.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Karen",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Will you stop worrying? Jackie's going to get us off. He never loses. How about when he asked that cop if a black man had ever been to his house. Did you see the look on his face?",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Salesman",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "And this.  Cosmo here. Yeah, un-huh, no, no, no, no, I'll help. Yeah, Firestorm's good. I saw it yesterday. Yeah well my buddy Jerry , ah, he's seen it twice. You want to talk to him? Here --",
+      "quote": "This is the thing where you go and you have to make your own pizza?",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
+        "George",
+        "Aaron",
+        "Newman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, I was just at this recital and Jerry put a Pez dispenser on my leg and I started laughing.",
+      "quote": "Yeah. Oh, yes, yes, he was very helpful.  Uhm, because, you know, Art and I were getting into this whole thing about his business. Uhm, you know he's an importer-exporter.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Doctor",
-        "Jerry"
+        "Jerry",
+        "Harold",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I work for the Director of Madison Square Garden. It's great! I can get free tickets to any sporting in New York. Anyway, she's a very luck woman. Enjoy the race.",
+      "quote": "Maybe this is what the pilot should be about, vomiting on somebody's vest.",
       "characters": [
-        "Kramer",
-        "Rita",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Rita"
-    },
-    {
-      "quote": "I have no medical evidence to back me up but, something happened during the operation that staved off that infection. Something beyond science. Something perhaps, from above...",
-      "characters": [
-        "Doctor",
         "Elaine",
-        "Kurt",
-        "Jerry"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "We sat there for twenty minutes, chewing, staring at each other in a defunct relationship.",
-      "characters": [
-        "Gino",
-        "Stationer",
-        "George",
+        "Ned",
         "Jerry"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "By the time the race was over I had won. I was shocked nobody had noticed the head start.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lou",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, alright listen. Forget about The Gap because we are through!",
+      "characters": [
+        "Attendant",
+        "Leo",
+        "Elaine",
+        "Keith"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

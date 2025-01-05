@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1065,
+  "gameNumber": 1066,
   "date": "2027-12-04",
   "questions": [
     {
-      "quote": "Oh! Rimsky -- great great book if I may say so sir. I almost read the whole thing.",
+      "quote": "We all want the hand. Hand is tough to get. You gotta get the hand right from the opening.",
       "characters": [
-        "Duncan",
-        "George",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know it may sound shocking. But, I just can't stop myself from... wanting you.",
-      "characters": [
-        "Steinbrenner",
+        "Vanessa",
         "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You're swimming in the East River? The most heavily trafficked overly contaminated waterway on the eastern seaboard?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "George is right. Those people will try to get away with murder. Believe me. They're all crooks.",
-      "characters": [
-        "Morty",
-        "George",
-        "Kramer",
-        "Dan"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Religion, my friend, that's what happened to me. Because, I have just been informed that it's going to cost Elaine the sum of five thousand dollars to get the apartment upstairs.",
+      "quote": "Well I, I can't believe this. I know Phil, he, he's a good friend of mine. We play softball together. How could this be?",
       "characters": [
         "Jerry",
+        "Russell",
         "Kramer",
-        "Elaine",
-        "Morgan"
+        "Mickey"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No no, look. I'll tell you what -- they're having a sale right.",
+      "quote": "Could we get a little more?  Aghh... You know ever since this new owner took over, the service here is *really* slow.",
       "characters": [
-        "George",
-        "Susan",
+        "Elaine",
         "Kramer",
-        "Jerry"
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on. I don't want to tag along with George and Susan. If you're there it'll be a better group.",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "Elaine",
+        "Doris"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your name is a good name, Costanza. Sounds like it's stands for something, they'll believe us.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Take a look at this card. Tell me if you notice anything unusual about it.",
+      "characters": [
+        "Milos",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, so we're going to get the wine and we'll pick you up here in ten minutes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Harold",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What are you doing? You're making more than I am. A secretary cannot make more than her boss.",
+      "quote": "Lesbian wedding. How do they work bride and groom out, what do they flip a coin?",
       "characters": [
-        "Ray",
-        "Helen",
+        "Hanke",
         "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hi, I got some friends inside, I gotta get a message to 'em. Mind if I walk through real quick?",
-      "characters": [
-        "George",
-        "Waiter",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wow! Coming out of the shower... It's a good thing they gave you that washcloth to cover yourself up... What is this an ad for?",
+      "quote": "Hey, Elaine, you have got to buy this new electric toothbrush I just got - the Ori-dent.",
       "characters": [
         "Jerry",
-        "Morty",
-        "Jane",
-        "Betsy"
+        "Rita",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Because I'm like ice, buddy. When I don't like you, you've got problems.  Oh, is this for the fight?",
+      "quote": "Oh, it was very funny. There was one great scene with the chef - what was his name?",
       "characters": [
         "George",
-        "Gail",
-        "Helen",
+        "Dan",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

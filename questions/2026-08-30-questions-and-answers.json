@@ -1,106 +1,106 @@
 {
-  "gameNumber": 604,
+  "gameNumber": 605,
   "date": "2026-08-30",
   "questions": [
     {
-      "quote": "No, no. C'mon, put something else on. It's early, let's go out.",
-      "characters": [
-        "Mohel",
-        "Kramer",
-        "Darryl",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look Jerry, the show isn't about the circus, it's about watching freaks.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I know it's a big problem.. she puts like four pieces in her mouth, it's ridiculous, I don't think we're gonna be able to get together on Saturday night",
-      "characters": [
-        "George",
-        "Jerry",
-        "Detective",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, yeah. Where the people eat the plant life. The edible foliage tour.",
-      "characters": [
-        "Jerry",
-        "Mickey",
-        "Estelle",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I parked in front of that restaurant . As soon as this race is over I got to go to the airport.",
+      "quote": "Nothing, nothing. I'm just taking an interest in what you...do.",
       "characters": [
         "Elaine",
-        "Landlord",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There's an easy move: go from screwin' you behind your back to screwin' you right to your face.",
-      "characters": [
-        "Kramer",
-        "Hal",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, look. Here's the work order with everything that broke. Just kind of bring it up at the right time and find out.",
-      "characters": [
-        "Morty",
         "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well it?s very flattering. How did you get these tickets, I heard they're impossible to get.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "His phone's been disconnected, but I was able to obtain an address - 1324 Amsterdam Avenue, apartment 4D.  Now, I did my job.  May I have the car keys, please?",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I got fifty right here in the cupboard. How about Bisquik? Pimento. Gherkin. Sauce. Maxwell House.",
+      "quote": "Hey, why don't you take her to that place in Vermont I was telling you about? You know, that really charming place with the separate faucets for the hot and cold. She'll love it.",
       "characters": [
-        "Morty",
-        "Kramer",
         "Elaine",
+        "Jerry",
+        "Kramer",
+        "Julianna"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, all right, one more time, one more time! What was the exact phrasing of the request?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Guys, there's no doubt that the pay is good. But I don't just know if I see myself working with ice cream.",
+      "characters": [
+        "Hanke",
+        "Mohel",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Do you realize in the entire history of western civilization no one has successfully accomplished the Roommate Switch? In the Middle Ages you could get locked up for even suggesting it!",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Rudy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why doesn't *he* pick you up after the operation. He's got the car with the bench seats that you like.",
+      "characters": [
+        "Karen",
+        "Doctor",
+        "George",
         "Jerry"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How long have you been waiting to squeeze that into a conversation?",
+      "characters": [
+        "Jerry",
+        "Ned",
+        "Kramer",
+        "Newman"
+      ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I'm a little hungry. You wouldn't happen to have any of that mango left?",
+      "characters": [
+        "Detective",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What's the matter with you? I just wanted to see how tall she was.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What am I gonna do with all these sandwiches?! Will you take them home? Give them to someone in your building?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

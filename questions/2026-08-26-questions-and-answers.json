@@ -1,106 +1,106 @@
 {
-  "gameNumber": 600,
+  "gameNumber": 601,
   "date": "2026-08-26",
   "questions": [
     {
-      "quote": "Hi.  I was running late and I didn't have a chance to drop off my stuff before I came over.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Jodi",
-        "George"
-      ],
-      "correctAnswer": "Jodi"
-    },
-    {
-      "quote": "The girls for poker night. You know, Joanne, Renee, Winona...",
+      "quote": "Oooh, you're getting an air conditioner for Amy.  Amy doesn't like the temperature up here. She's a little hoooot.",
       "characters": [
         "Elaine",
+        "Gary",
         "George",
-        "Evelyn",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Damn that George, I told him I don't want this stuff around here anymore...",
+      "quote": "Girls.  There's girls right here in the store.  Look, look, there's one over there.  Look, there's another one.  Soon as I walk outside there'll be girls out there.  What's the matter?",
       "characters": [
-        "Rabbi",
-        "Man",
+        "Kramer",
         "Jerry",
-        "George"
+        "Maestro",
+        "Alec"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Excuse me, could you tell me where I could find, like, women's moisturizer lotions?",
+      "quote": "So, has the summer of George already started or are you still de-composing?",
       "characters": [
+        "Elaine",
         "Kramer",
-        "Emily",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Relationships are difficult. It's very hard to stay together-",
+      "quote": "This is what I like, see? You come home and your parents are in your bed!",
       "characters": [
-        "Elaine",
-        "Bruce",
         "Jerry",
-        "Estelle"
+        "Elaine",
+        "Susan",
+        "Kramer"
       ],
-      "correctAnswer": "Bruce"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I just went to get popcorn... Ugh... [shakes more popcorn] I just went to get popcorn, okay? And and and somebody took my seat, and my coat is in there!",
+      "quote": "Oh, yeah. That's why they call it a Stairmaster. You get up there and you stare.",
       "characters": [
-        "Rick",
         "Kramer",
-        "George",
-        "Elaine"
+        "Jerry",
+        "Russell",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh.  Oh, I see.  Interesting.  Well, that's quite a project. Alright, thank you.",
+      "quote": "Oh! He said that! Can you imagine what he'll do if he sees me with you! He'll think I?m the one who ruined his deal at NBC and took away his girl, he'll put a kibosh on me!",
       "characters": [
-        "Clerk",
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See what doctor Gene prescribes, huh?  Oh, here, look at that. Weekend At Bernies Two. Now, that's an hilarious premise.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm sure we're all aware of the flaws and biases of standardized tests..",
+      "characters": [
         "George",
         "Kramer",
+        "Jerry",
         "Newman"
       ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "George"
     },
     {
-      "quote": "GEORGIE! CONGRATULATIONS! Oh, my god. I haven't seen you since it happened. I'm so happy for you.",
+      "quote": "Where is that noise? It's traveling up my spine! Into my Brain!",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Bania",
-        "Jerry"
+        "Jerry",
+        "George",
+        "Testikov"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Testikov"
     },
     {
-      "quote": "Ah, see, now I've been thinking a lot about what happened and I feel horrible.  Listen, I want to give you a ticket back.",
+      "quote": "Oh, I can't believe it. Let me see that.  That's four and a half points in three days! That's almost half my money!",
       "characters": [
         "Jerry",
-        "Elaine",
         "Kramer",
-        "Tim"
+        "Nina",
+        "George"
       ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "I don't know, I have to think about it.  I need a nonpartisan mirror.",
-      "characters": [
-        "Elaine",
-        "Gennice",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

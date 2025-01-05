@@ -1,106 +1,106 @@
 {
-  "gameNumber": 977,
+  "gameNumber": 978,
   "date": "2027-09-07",
   "questions": [
     {
-      "quote": "Your order is ready. Three calzones and one shirt and jacket.",
+      "quote": "I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger..  Hey, is anybody listening?!",
       "characters": [
-        "Worker",
         "George",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Worker"
-    },
-    {
-      "quote": "Hey George, what d'you like better? The bro, or the mansiere?",
-      "characters": [
-        "Frank",
-        "Kramer",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Don't you understand the very thought, the very idea, I'll never be comfortable again.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Frank",
         "Jack"
       ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "It's a letter from the Immigration Bureau, it's Babu's Visa renewal application form. They must have put it in my mailbox by mistake.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Jackie",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
       "quote": "Maybe instead of trying to satisfy two of your needs, how about satisfying one of somebody else's.",
       "characters": [
-        "Steve",
-        "Kramer",
+        "Jerry",
+        "Aaron",
         "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh no. Don't tell me. You're gambling again, aren't you? Oh you weak, weak man. Where are you?",
+      "quote": "This is not good. World's are colliding! George is getting upset!",
       "characters": [
+        "George",
+        "Jerry",
+        "Holly",
+        "Lloyd"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, I'll get ya a Mounds bar. Keep the engine running.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I am lying down. I am trapped under a funky mattress. I gotta go get a doctor or at least come over and roll this thing off of me.",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "Kramer",
-        "George",
-        "Jerry",
-        "Newman"
+        "Susan"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I'm serious, Elaine. I went to medical school, but I still have to pass my licensing exam.",
+      "quote": "You know what you ought to do? Go see my friend Dwayne at J & T Optical on Columbus Avenue. He'll give you thirty percent off.",
       "characters": [
-        "Ben",
         "Jerry",
-        "George",
-        "Elaine"
+        "Jack",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Ben"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Stop it! That's not even a song! I mean, now we're celebrating a sick day?",
+      "quote": "Oh yeah, he was drinking something, it started to come out of his nose.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You can't pick up anything with these! There's no absorption!",
+      "characters": [
+        "Harold",
+        "George",
+        "Ed",
+        "Jerry"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "And I think he's been telling his friends. I got invitations to six more Bar Mitzvahs.",
       "characters": [
         "Jerry",
-        "Announcer",
         "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I traded it to my sausage press. Look how thin that is, see that's all surface area. The taste has nowhere to hide.",
+      "quote": "Jerry, we're friends! We can't do that, it would ruin our friendship.",
       "characters": [
         "Kramer",
-        "George",
-        "Elaine",
-        "Woman"
+        "Woman",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So you ready for the assembly tomorrow? You know what you're gonna say about the Yankees?",
-      "characters": [
-        "Rabbi",
-        "George",
-        "Lippman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

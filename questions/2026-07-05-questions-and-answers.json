@@ -1,106 +1,106 @@
 {
-  "gameNumber": 548,
+  "gameNumber": 549,
   "date": "2026-07-05",
   "questions": [
     {
-      "quote": "No, no, I think I agree with you. I mean, all this talk about having babies.",
+      "quote": "Jerry, a gift not enjoyed is like a flower that doesn't blossom.",
       "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Kevin"
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Kevin"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Sure, I fix. But you gotta make sure you no tell anybody. He's a little crazy. I don't know what he'd do if he found out I touch Jerry's hair.",
+      "quote": "Another productive meeting. By the way, I saw that English Patient film last night. It was extraordinary.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Right, well I'm sorry, all right. I guess I was just thinking of myself.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Gary",
+        "Jerry"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Look, I don't like people talking about my shoes behind my back, okay? My shoes are my business. The two of you shouldn't have been looking at some fifteen year-old's cleavage anyway!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What?! They're stealing the name?! That's my name, I made it up!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Huh. Well, it all sounds pretty good. There's only one flaw in it: They're roommates. She'd have to go out with me behind Sandy's back. She's not gonna do that.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Gino",
-        "George"
-      ],
-      "correctAnswer": "Gino"
-    },
-    {
-      "quote": "Now, you better tell me where Kramer is, or are we gonna have to do this the hard way?",
-      "characters": [
-        "Kramer",
-        "Rabbi",
-        "George",
-        "Jerry"
+        "Lloyd",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, sure. I mean, after all, you were almost my, uh... OK, I gotta go.",
+      "quote": "Now my sense of it is that you're probably wasting time working piecemeal, first cleaning one area, then another.",
       "characters": [
-        "Alec",
+        "Steinbrenner",
+        "Jerry",
+        "Worker",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it's Sharon from NYU. I'm just calling to tell you that I'm not going to play up that angle we talked about and I'm sorry.",
+      "characters": [
         "George",
+        "Hallie",
+        "Jerry",
+        "Sharon"
+      ],
+      "correctAnswer": "Sharon"
+    },
+    {
+      "quote": "Nine hundred. Do I hear a thousand? Ladies, he is a Harvard graduate.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So Sherry, what do you remember about that day at the library?",
+      "characters": [
         "Kramer",
+        "Elaine",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, that happened to Lomez, so he blew his neighbor's circuit.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Clare",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, well a lot of the stars from the 70's - they were not as hygienic as they appeared on TV. You take Mannix for example.",
-      "characters": [
-        "Newman",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I think I can say, barring some unforeseen incident, that you will have a very bright future here at E.D. Granmont.",
-      "characters": [
-        "Farkus",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Farkus"
-    },
-    {
-      "quote": "Well, you just joked yourself right out of that commercial, didn't you, munjamba?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Estelle",
-        "Saleswoman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Listen. I massage who I want, when I want. I don't submit to forcible massage.  I'm getting out of here.",
-      "characters": [
-        "Jerry",
-        "Jodi",
-        "Jane",
-        "George"
-      ],
-      "correctAnswer": "Jodi"
-    },
-    {
-      "quote": "Yes. You know the uh flood, and the uh lepers, and the commandments and all that.",
-      "characters": [
-        "George",
-        "Jerry",
-        "John",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 760,
+  "gameNumber": 761,
   "date": "2027-02-02",
   "questions": [
     {
-      "quote": "Oh, wait a second, I'll ask her.. that's a great idea.  Drake wants to know if we want to come out to Minneolis this afternoon, since we missed the partly last night, to maybe get something to eat?",
+      "quote": "Oh, yeah. You know why? Because it's dinner time. And you know what you do at dinner?",
       "characters": [
-        "Peterman",
-        "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh my god, Lorraine... that's Lorraine from my uncle's office. I'm in big, big trouble.",
-      "characters": [
-        "Monica",
         "Jerry",
-        "George",
+        "Kramer",
+        "Receptionist",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh come on Jerry. How hard is it to act. You say something, I'll pretend it's funny.",
+      "quote": "But, but of course they didn't do it, the police had made an awful mistake.",
       "characters": [
-        "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
+        "Helena",
+        "Regis",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Helena"
     },
     {
-      "quote": "Listen, when I give you the signal, I want you to turn this water on full blast.",
+      "quote": "Oh, you can have mine. I'll ship it out to you.  But what about that big apartment on West End Avenue?",
       "characters": [
         "Elaine",
+        "Jerry",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Alright. Alright, alright. You come in tomorrow, we'll find something for you to do.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Elaine",
-        "Kramer"
+        "Carol"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I look just like him. I. Me.  This! This is what her boyfriend looks like. How is that possible?",
+      "quote": "Okay, George. Come on, let's go. I'm putting it in a garage. The fight's starting in two minutes.",
       "characters": [
         "Jerry",
-        "Bania",
-        "Rabbi",
-        "George"
+        "Elaine",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, fine. It's going to be very interesting, very interesting if they don't show up tonight. You know my mother made all this Paella.",
+      "characters": [
+        "George",
+        "Frank",
+        "Clerk",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Blood over there, sausages over here. I'm living in a slaughter house.",
+      "quote": "Oh, I'm glad you're here, so we can get this all straightened out. Would you like a cup of tea?",
       "characters": [
-        "George",
         "Kramer",
-        "Elaine",
+        "George",
+        "Duncan",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, I think I know where this is going, and I am going somewhere else.",
+      "quote": "You might've if I'd stayed. So you know what? I got served with papers today. Ping is suing me. I need your virgin as a witness. You better be nice to her.",
       "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "Valerie"
+        "Lena",
+        "George",
+        "Steinbrenner"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'm all for awkward pauses. Fix me up with her.. Wait a minute, Nina just saw me in my Timberlands! Now I have to wear them every time I see her.",
+      "quote": "You know, I've been thinking. I cannot envision any circumstances in which I'll ever have the opportunity to have sex again. How's it gonna happen? I just don't see how it could occur.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Morty",
+        "Kramer",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It's the life force. I saw a show on the mollusk last night. Elaine, the mollusk travels from Alaska to Chile just for a shot at another mollusk. You think you're any better?",
+      "quote": "\"Hey! Hey! Watch it.!... You're drooling all over the floor. How much Novocaine did that guy give you.\"",
       "characters": [
-        "Jerry",
-        "Babu",
         "Elaine",
+        "Jerry",
+        "Bania",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I think of you as part of my family. You've come to be like a daughter to me and I want to make sure you're taken care of after I'm gone.",
+      "characters": [
+        "Doorman",
+        "Pitt",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Pitt"
     }
   ]
 }

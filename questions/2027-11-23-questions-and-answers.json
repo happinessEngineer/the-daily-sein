@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1054,
+  "gameNumber": 1055,
   "date": "2027-11-23",
   "questions": [
     {
-      "quote": "Me Too! And he's Dying Jerry! If Relationship George walks through this door, he will Kill Independent George! A George, divided against itself, Cannot Stand!",
+      "quote": "I know, I know. Listen, your stuff has to be done by now, why don't you just see if it's dry?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's no need to deny it, Elaine. I heard every word you said.",
       "characters": [
         "George",
-        "Frank",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "That's my candy line-up! Where are all my cards?! They're - they're all on the floor!",
+      "characters": [
+        "George",
+        "Estelle",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I saw her last week, she looked healthy and peaceful, but...she knew...",
+      "quote": "Excuse me, I'm sorry to bother you, I noticed that you have a textbook on tape. May I ask where you got that?",
       "characters": [
-        "Kramer",
         "George",
+        "Elaine",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I didn't make these bagels.  Yeah, they're day-olds. The homeless won't even touch them.  Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test.",
+      "characters": [
+        "George",
+        "Kramer",
         "Jerry",
-        "Elaine"
+        "Wilhelm"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hi, is George back from the cockfight yet? You know, I gotta thank him, he changed my life.",
+      "quote": "Yeah, wrong attitude. you're not bringing that trash into my house.",
       "characters": [
-        "Glenn",
         "Jerry",
-        "Newman",
-        "Kurt"
-      ],
-      "correctAnswer": "Kurt"
-    },
-    {
-      "quote": "Why doesn't *he* pick you up after the operation. He's got the car with the bench seats that you like.",
-      "characters": [
-        "George",
-        "Kramer",
+        "Morgan",
         "Elaine",
         "Izzy"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Izzy"
     },
     {
-      "quote": "You're right. Why must there always be a problem? You'd think just once I could get a break. God knows I earned it with that score!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Don't worry.  Kramer! Kramer!... It's Jerry!... Jerry!... From next door!... Never mind where I am!... Yes, Jerry Seinfeld!...",
+      "quote": "Woah, woah, woah! What are you telling me for? You really had me going, there! C'mon, sit down.  What do you want to do when you grow up?",
       "characters": [
         "Kramer",
-        "Morty",
+        "Newman",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Alright I'll uh, I'll call her at home.  Go ahead, it's all yours.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Lou",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You might have the job, but you'll never know it. What kind of company is it?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Morty",
-        "Rudy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, if you saw me naked, I wouldn't want to ride back in the same car with you either.",
+      "quote": "Oh, please! I took you back. You know it, I know it, Vegetable Lasagna here knows it.",
       "characters": [
         "Kramer",
         "Elaine",
-        "Peterman",
-        "Lippman"
+        "Steinbrenner",
+        "Farkus"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Look, I really appreciate your coming, but if you wouldn't mind - try not to say too much.",
+      "quote": "Well, this'll be a very interesting experiment to see if Kramer says something. You sure you wanna go through with this?",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "Poppie",
         "George",
-        "Kate"
+        "Jerry",
+        "Tv"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, Newmie. Um, I know how you feel about me, and I have to tell you, I'm quite flattered.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Steven",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

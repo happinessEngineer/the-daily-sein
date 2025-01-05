@@ -1,106 +1,106 @@
 {
-  "gameNumber": 573,
+  "gameNumber": 574,
   "date": "2026-07-30",
   "questions": [
     {
-      "quote": "Train was so crowded. I had to sit in the seat facing the wrong way.",
+      "quote": "I'm sorry. This is what comes from living under a Nazi regime.",
       "characters": [
-        "Mel",
-        "George",
         "Kramer",
-        "Rachel"
-      ],
-      "correctAnswer": "Rachel"
-    },
-    {
-      "quote": "I don't have a spare set. All my keys say 'do not duplicate'.",
-      "characters": [
         "Jerry",
         "Elaine",
-        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "People don't say \" God bless you \" as much as they used to. Have you noticed that?",
+      "quote": "Hey, you like sending out catalogs!? How do you like gettin' 'em back!?",
       "characters": [
         "George",
+        "Susan",
         "Jerry",
-        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I'm a *woman*.  Ba-ba-ba-boom-chicka-boom-chicka-boom-boom- boom.",
+      "characters": [
+        "Jerry",
+        "Poppie",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Y'know there are tribes in Indonesia where if you keep your coat on in somebody's house, the families go to war!",
+      "quote": "Yeah. Thanks. So, I'm gonna get tested again later, hopefully I'll get my job back and I will be on my way to Africa.",
       "characters": [
-        "George",
-        "Nina",
+        "Elaine",
         "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You don't try to. You do it! Fifty-one percent of all turns are right turns. You know that? 'Try to.'",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Tony"
-      ],
-      "correctAnswer": "Tony"
-    },
-    {
-      "quote": "Well, it's the damnedest thing. The cat dies. So she comes back into town, she finds the cat lying on the carpet stiff as a board.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Newman",
-        "Carol"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, no no no, Cynthia's just a successful businesswoman who's taken me under her wing.",
-      "characters": [
-        "Jerry",
-        "Woman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Dad, that other car cut us off! They had swastikas all over it... They were hurling racial epiphates at us... I could have been killed!",
-      "characters": [
-        "Roy",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Good. 'Cause Dad can make some people a little uncomfortable.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Helen",
-        "Kurt"
+        "Receptionist"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You can't have \"a little grace.\" You either have grace, or you...don't.",
+      "quote": "You're not a little anything, Newman.  So just pack it up and move it out of here.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Gavin",
+        "Joel"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, I gotta tell you something, but you cannot tell Susan.",
+      "characters": [
+        "Peterman",
+        "Ron",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke \"the covenant of the keys.\"",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Toby",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I dunno. It's like, if one of 'em dies, the other one wants to bench press the casket.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "C'mon George relax . Just because they look alike doesn't mean you're secretly in love with Jerry.",
       "characters": [
         "George",
         "Kramer",
-        "Jerry",
-        "Landis"
+        "Steinbrenner",
+        "Elaine"
       ],
-      "correctAnswer": "Landis"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nope, the cop says it's my word against his. There's nothing they can do.",
+      "characters": [
+        "Mary",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

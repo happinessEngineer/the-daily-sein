@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1068,
+  "gameNumber": 1069,
   "date": "2027-12-07",
   "questions": [
     {
-      "quote": "Wow. You're so pious. I really respect that. You know when you die, you're gonna get some special attention.",
-      "characters": [
-        "Elaine",
-        "Holly",
-        "Kramer",
-        "Dan"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "These pretzels are making me thirsty.  Boy, these pretzels are making me thirsty.",
+      "quote": "So George. Remember when I told you Nikki gets whatever she wants. We are at the movies last night. It's sold out. Nikki goes and talks to the manager. Right in.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, yeah, well, because of the cane. You should see the bathroom they gave me!",
-      "characters": [
-        "Audrey",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, it's fantastic. I love the people over there. They- they treat me so great. You know they think I'm handicapped, they gave me this incredible office, a great view.",
-      "characters": [
+        "Darryl",
         "George",
-        "Helen",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Um, you know I'm starting to think that maybe lobster isn't the way to go.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Kimbrough",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Frank, now listen to me. Two hundred Jewish singles need you. This is your chance to make it all right again.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What are you kidding? We look great! You know what this pudding needs? The skin on the top, you know like your mother used to make it on the stove.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Hal"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Elaine, do you think I would go willy-nilly into a situation so obviously fraught with potential complications?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Father",
-        "Jerry"
+        "Susan"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Boy, I am really surprised at you.  You are the last person I figured would do something like this. I mean, George, yeah, I can see that. Even Jerry. But not you, Elaine...",
+      "quote": "Oh, you have a policy!  The delicate genius has a policy! George heads for the door.",
       "characters": [
+        "Kramer",
         "Jerry",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't go by the audience that night. It was late. They were terrible.",
+      "characters": [
+        "Harold",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Like what? I'm bald? What is it specifically? Is, is there an odor I'm not aware of?",
+      "characters": [
+        "Kramer",
         "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, didn't those people just come in? I believe we were ahead of them.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He said he didn't care. Oh, God I love that place. Hey, have you seen other dermatologist?",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Assistant to the travelling secretary.  I'm uh, working on the project.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people.",
+      "characters": [
+        "Doorman",
+        "Elaine",
+        "Helen",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So, George told me that you left the drink next to Dick's on purpose.",
+      "quote": "Thanks for the card. I loved it. Gosh it made me feel good. You know, word has it that you were the brains behind the whole thing.",
       "characters": [
-        "Farkus",
+        "Noreen",
+        "Newman",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "She calls you today and she doesn't make a plan for tomorrow? What is that? It's Saturday night!",
+      "characters": [
         "George",
         "Jerry",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     }
   ]
 }

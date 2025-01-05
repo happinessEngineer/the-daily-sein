@@ -1,106 +1,106 @@
 {
-  "gameNumber": 158,
+  "gameNumber": 159,
   "date": "2025-06-10",
   "questions": [
     {
-      "quote": "Now, fellas, fellas.. easy. You wouldn't want to beat up on one of your own.",
+      "quote": "Yeah. I had to spend two hours at dinner last night with that specimen.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "James",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What do you mean, 'what is it?' It's a country right next to Belgium.",
-      "characters": [
-        "Bania",
         "Jerry",
         "George",
-        "Stu"
+        "Cynthia",
+        "Worker"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know I was supposed to see this five years ago. I was in a Chinese restaurant with George and Elaine and got all screwed up trying to get a table and I missed it.",
+      "quote": ". All right , just give me my car and let me get the hell out of here.",
       "characters": [
+        "Daphne",
         "Elaine",
-        "Jerry",
-        "Frank",
-        "Janet"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I said, I said: 'Get outta here! No story? Is that what I said?'",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Kramer",
-        "George"
+        "George",
+        "Lloyd"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "hmm I love this artificial flavoring I like it better than butter I think it's more consistent",
+      "quote": "Yeah! like the big toe is like the captain of the toes, but sometimes the toe next to the big toe gets so big that there's like a power struggle and the second toe assumes control of the foot.",
       "characters": [
-        "Jerry",
-        "Puddy",
-        "Doctor",
-        "George"
+        "George",
+        "Kimbrough",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, maybe he doesn't have a \"get outta here\" kind of personality.",
+      "quote": "Yeah. Nice to meet you too and I'm gonna call you about that massage.",
       "characters": [
-        "Susan",
-        "Elaine",
-        "Sara",
+        "Karen",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "Elaine, up until a moment ago, I was convinced that I was on the receiving end of one of the oldest baker's grift in the books--The Entenmann's shim-sham.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Puddy",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I'm baby-sitting! Vivian asked me to raise him if she doesn't make it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Rava",
+        "Meryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That knife, it nicked your jugular. You know Jerry, when somebody yells 'heads up', you're not supposed to actually look up.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Sid",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.",
+      "characters": [
+        "Bania",
+        "George",
+        "Kramer",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Well, I'm doing the PBS show, so during the show they're gonna be running the Ken Burns baseball thing. So I thought if I could get a baseball player to come on the show with me...",
+      "characters": [
+        "Gavin",
+        "George",
+        "Woman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Just do it like a Band-Aid. One motion. Right off!  She is sexy though. Don't you think?",
+      "quote": "So you're just hiring new people now? That's your job, to hire people?",
       "characters": [
-        "Pitt",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Is that so unforgivable? Is that like breaking a commandment? Did God say to Moses thou shalt not pick?",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Jackie",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No no no, they're talking the West Side Highway, at this time of day that's insane. They're heading straight into gridlock. Oh, those fools.",
-      "characters": [
-        "Jerry",
-        "Karen",
+        "Abby",
         "Kramer",
+        "Kruger",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He's never guiled. You know some women keep a lot of important papers in their, uh, pocket books. Like for example oh, someone else's personal financial papers.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Matthew",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kruger"
     }
   ]
 }

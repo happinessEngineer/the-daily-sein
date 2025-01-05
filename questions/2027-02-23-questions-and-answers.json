@@ -1,106 +1,106 @@
 {
-  "gameNumber": 781,
+  "gameNumber": 782,
   "date": "2027-02-23",
   "questions": [
     {
-      "quote": "Look, I don't want anything to go wrong. If this woman votes to impeach me, I'll be a laughing stock.",
+      "quote": "Alright, you know what this is gonna do? He's gonna be upset because you didn't call him and we're not gonna get those tickets for Friday night.",
       "characters": [
-        "Nina",
-        "Jerry",
-        "George",
-        "Morty"
+        "Gary",
+        "Kramer",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Whatever it takes, for as long as it takes me, where ever it takes me as long as it takes you away from me!",
-      "characters": [
-        "Kramer",
-        "George",
-        "Roy",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh good, good, come in. Come in, welcome. I'm George. And this is Jerry, over there, on the phone, that's Jerry. And you are, um?",
+      "quote": "Well, it's a tough decision. I have to wear these every day. I'm deciding on a new face.",
       "characters": [
         "George",
+        "Kate",
         "Jerry",
-        "Kramer",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I asked because you were the mailman, you would know the neighbourhood.",
+      "quote": "Ate? What? What the hell are you talking about? Now you listen to me, you get out of that apartment this instant. If you screw this up for me I swear....",
+      "characters": [
+        "George",
+        "Kramer",
+        "Rachel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ok, oh, you see this socket it's probably connected to her apartment. So what we'll do, we'll take this paper clip and bend it so it'll short out the entire circuit. Here you go...",
+      "characters": [
+        "Naomi",
+        "Babu",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What did we ever do to them?  I want to know what we did them!",
+      "characters": [
+        "Estelle",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Oh, well uh, okay I'm there with, uh, Woody, you know, I'm at this bar and, uh, I'm sit-- you know it's Woody Allen, did I mention that?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Never! You hate him because he's doing more with your name than you ever will! Yah-yah!",
+      "characters": [
+        "Heather",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I did a number on him, it was a thing of beauty, you really had to have been there to appreciate it.",
       "characters": [
         "Elaine",
         "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, you are the couch tonight, young lady. You were all over my side.",
+      "quote": "You don't need the air conditioner. So, you have your speech all ready?",
       "characters": [
-        "Connie",
+        "Jerry",
+        "George",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here.",
+      "characters": [
+        "Jerry",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Everyone, I wanna propose a toast to ten great years at Rick Barr Properties.",
-      "characters": [
-        "Levitan",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Levitan"
-    },
-    {
-      "quote": "Sorry, George, our Chinese food just came. Talk to you later.",
-      "characters": [
-        "Sylvia",
-        "Frank",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "I am in your hands.  Well! Oh, good night, Jerry.  Kenneth will take you home.",
-      "characters": [
         "George",
-        "Elaine",
-        "Jerry",
-        "Karen"
+        "Steinbrenner"
       ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "Hey, Seinfeld. I'd appreciate it if you'd stop using obscenities around my son, huh?",
-      "characters": [
-        "Owner",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Owner"
-    },
-    {
-      "quote": "Eh, I can't. I gotta go down to the foundation. I'm interviewing high schoolers for the Susan Ross.. scholarship.",
-      "characters": [
-        "Kramer",
-        "Puddy",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Steinbrenner"
     }
   ]
 }

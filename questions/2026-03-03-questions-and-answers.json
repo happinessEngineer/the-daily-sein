@@ -1,106 +1,106 @@
 {
-  "gameNumber": 424,
+  "gameNumber": 425,
   "date": "2026-03-03",
   "questions": [
     {
-      "quote": "I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-",
-      "characters": [
-        "Abby",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What am I doing? I'm on a date with this guy because he didn't remember me? He's demented, listen to him...",
+      "quote": "Yeah, well, H&H wouldn't let us use their bath room while we were picketing. It put a cramp on our solidarity.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George! Forget Bozo, George. Bozo's out. He's finished. It's over for Bozo.",
-      "characters": [
-        "Robin",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Robin"
-    },
-    {
-      "quote": "Well, I ah, gotta give him something. Come on, where's that tape I shot?",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Jerry, look at this sport jacket. Is this a jacket to wear to an anniversary party?",
+      "quote": "You know, I really like those new jeans Jerry was wearing. He's really thin.",
       "characters": [
-        "Chiles",
-        "Kramer",
-        "Helen",
-        "Jerry"
+        "Tor",
+        "Elaine",
+        "George",
+        "Susan"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Hey, look at the high score--\"G.L.C.\" George Louis Costanza. That's not you, is it?",
+      "quote": "So, if you have any idea for like a TV show for yourself, well, we'd just love to talk about it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Stu",
+        "Susan"
+      ],
+      "correctAnswer": "Stu"
+    },
+    {
+      "quote": "Morty Seinfeld. I cut velvet for forty years with Harry Altman.",
+      "characters": [
+        "Woman",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Your damn right you screwed up. Where the hell did you get that damm balm anyway?",
+      "characters": [
+        "Jackie",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "You know you should be a lot more careful crossing the street like that, otherwise you could die.. If that bothers you.",
+      "characters": [
+        "Jeannie",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jeannie"
+    },
+    {
+      "quote": "What time does your flight get in? Six? All right, that gives us six hours. Then I'll meet you at the diplomat's club. I'll be the one without the big red sash. Okay, see you tonight.",
       "characters": [
         "Jerry",
-        "Kramer",
         "George",
+        "Elaine",
+        "Alec"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Boy, a month in Europe with Elaine.  That guy's coming home in a body bag.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well we're hoping that if perhaps that the catalog is a little funnier,people won't be so quick to return the clothes ha ha....For example.. I..I really do....Well I love this one",
+      "quote": "Yeah, I'm against AIDS. I mean, I'm walking, aren't I? I just don't wear the ribbon.",
       "characters": [
+        "Landis",
+        "Sylvia",
         "George",
-        "Elaine",
-        "Newman",
-        "Hoyt"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "A bra is for ladies. I'm talking about a support undergarment specifically designed for men.",
-      "characters": [
-        "Kramer",
-        "Jackie",
-        "Elaine",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'm at the health club and while I'm in the pool, some guy walks off with my glasses. Who steals prescription glasses?",
+      "quote": "I think I'm getting tired of it. I mean is that all it does? Hello? La-la-la?",
       "characters": [
-        "Helen",
-        "George",
-        "Jerry",
-        "Kramer"
+        "Carol",
+        "Frank",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "We had a little fight this afternoon.  Let's bury the hatchet. We smoke um peace pipe.",
-      "characters": [
-        "Kramer",
-        "Gennice",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

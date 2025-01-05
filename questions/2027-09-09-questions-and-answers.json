@@ -1,106 +1,106 @@
 {
-  "gameNumber": 979,
+  "gameNumber": 980,
   "date": "2027-09-09",
   "questions": [
     {
-      "quote": "So when somebody has B.O., the \"O\" usually stays with the \"B\". Once the \"B\" leaves, the \"O\" goes with it.",
+      "quote": "You're not gonna believe what I got in the mail. Invitation to Sue Ellen Mischke's wedding.",
       "characters": [
+        "Jerry",
+        "Tawni",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it was, but then I just couldn't decide if he was really sponge-worthy.",
+      "characters": [
+        "Jerry",
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "Woman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, 'don't hang around and let your troubles surround you. There are movie shows...'",
-      "characters": [
-        "Jerry",
         "George",
-        "Darryl",
-        "Jake"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "No. Now I'll always have this doubt about the car. What, your jaw still hurts?",
+      "quote": "I don't know where the rabbi got that. Ya know I never said that. I said \"I've never seen you looser\".",
       "characters": [
         "Elaine",
         "George",
+        "Patty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know, I know Jerry.. but it's The Plazaaa... I've never stayed there .It'll be like a little vacation",
+      "characters": [
+        "Bookman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Elaine, your taking this totally the wrong way. That's not what Ii intended.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Hal"
+    },
+    {
+      "quote": "...And then, right after the All-Star Break, we, we just swept the Orioles. Four games. In Baltimore.  So... yeah.",
+      "characters": [
+        "George",
         "Jerry",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "If I do it again, that extends my payment book another two weeks.",
+      "quote": "He's the guy we're the buying the chair for, remember? It was your suggestion.",
       "characters": [
+        "George",
+        "Jake",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe how much we did this afternoon. I have friends who this would've be their whole life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
         "Newman",
-        "George",
-        "Jerry",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "And what if I don't make the plane? You'll have already left. Then what will I do?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "Ed"
-      ],
-      "correctAnswer": "Ed"
-    },
-    {
-      "quote": "Oh no no no, if you must know, I would rather be with her than go to the game.",
+      "quote": "I've got a tape of 'Fantastic voyage' if you think that would help.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'll let her down easy. All right.  Well, hi Olive.  No, no. No more of that. There's something I have to tell you.",
-      "characters": [
         "Frank",
-        "Kramer",
-        "Rita",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, forget it. Pull yourself together. You're making me sick. Be a man!",
-      "characters": [
-        "Susan",
-        "Stu",
-        "Jerry",
-        "Kramer"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, boy, look at this. Hong Kong's outlawed the rickshaw. See, I always thought those would be perfect for New York.",
+      "quote": "You know George, growing up as a boy in Costa Rica, I heard a rumor that momma had taken a lover. Perhaps Bosco was this man's name.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "yeah there's no toilet paper in here, I usually check but would you mind?",
-      "characters": [
-        "Jerry",
+        "Rudy",
+        "Peterman",
         "George",
-        "Bob",
-        "Jane"
+        "Sid"
       ],
-      "correctAnswer": "Jane"
+      "correctAnswer": "Peterman"
     }
   ]
 }

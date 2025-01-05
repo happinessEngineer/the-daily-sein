@@ -1,106 +1,106 @@
 {
-  "gameNumber": 185,
+  "gameNumber": 186,
   "date": "2025-07-07",
   "questions": [
     {
-      "quote": "Jerry, the anger, it just melts right off. Serenity now. Look at this. Serenity now!",
+      "quote": "What? So what? It's a nipple. A little round circular protuberance. What's the big deal? See everybody's got them. See I got them.",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Believe it or not, Paul was convinced I was having an affair because somebody kept calling and hanging up whenever he answered! What kind of a sick person calls and hangs up over and over?",
-      "characters": [
-        "George",
-        "Noreen",
         "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Noreen"
-    },
-    {
-      "quote": "Didn't you tell 'em I got the bill of sale? That proves I paid for it.",
-      "characters": [
-        "Sally",
-        "Elaine",
+        "George",
         "Jerry",
-        "George"
+        "Valerie"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Here's one. I borrowed Puddy's car and all the presets on his radio were Christian rock stations.",
+      "quote": "Well, you don't want too much grace or you won't be able to stand.",
+      "characters": [
+        "Pitt",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "Yeah. You know, I think Elaine is a wonderful woman. You two are gonna make a wonderful couple.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jodi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is that creaking, its like I'm in the hold of a ship. Gotta relax.",
       "characters": [
         "Jerry",
-        "Farkus",
+        "Aaron",
+        "Elaine",
+        "Rava"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We have to keep going - all the way back to the dealership. That was the plan.",
+      "characters": [
+        "George",
+        "Jerry",
         "Kramer",
-        "Elaine"
+        "Rick"
+      ],
+      "correctAnswer": "Rick"
+    },
+    {
+      "quote": "Well you know George. It's not good enough to get there. You gotta make good time.",
+      "characters": [
+        "Jerry",
+        "Receptionist",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I know this doesn't seem like work to any of you, if you could perhaps conduct your psychopath convention down the hall, I could just get a little personal space.",
+      "quote": "Well, you know, we were just talking, and uh she mentioned how you're buying your shoes now at Botticelli's.",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Now look, we're going to stop at the shoe maker right now. You gotta get some lifts for your shoes.",
-      "characters": [
-        "Kramer",
         "George",
-        "Elaine",
-        "Jerry"
+        "Newman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He's giving away what's left! I gotta go home and get a big pot!",
-      "characters": [
-        "Newman",
-        "Stu",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "So he just gets soup. He wants to save the meal. So now I got to do it all over again.",
+      "quote": "Yeah, hey listen, I can't. It's gonna be taking us out of our way.",
       "characters": [
         "Jerry",
-        "Steinbrenner",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, but I can't say anything because Kramer wasn't supposed to tell me.",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "George",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ohhh Jerry.  They're priceless. They've never been played with.",
+      "quote": "Ah,  \"It was damp and chilly afternoon, so I decided to put on my sweatshirt!\"",
       "characters": [
-        "Steve",
-        "Jerry",
-        "Celia",
+        "George",
+        "Lippman",
+        "Morty",
         "Elaine"
       ],
-      "correctAnswer": "Celia"
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "These proofs look pretty good. Oh. Can I move this? Yup. I think this will work.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Brett",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

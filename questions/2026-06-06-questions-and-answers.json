@@ -1,106 +1,106 @@
 {
-  "gameNumber": 519,
+  "gameNumber": 520,
   "date": "2026-06-06",
   "questions": [
     {
-      "quote": "So you won't believe what happened with Whatley today. It got back to hime that I made this little dentist joke and he got all offended. Those people can be so touchy.",
+      "quote": "Do you know the last time I wore this thing? Six years ago, when I made that toast at Bobby Leighton's wedding.",
       "characters": [
         "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "...F, E, L, D.  Well, I think you're wrong.  Alright, you have a lucky day, too.",
-      "characters": [
-        "Kramer",
-        "Estelle",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I will - don't worry.  In fact, I'll have her bring up a whole case of the stuff. It'll be really heavy. Let's see if she likes sitting on a plane with a big box on her lap!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Wendy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it might not be hell but you're gonna run into some bad dudes.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Bania",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you know, I'm packing for Puerto Rico, I need to borrow your bathing suit.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Can I have the address of that garage sale? Okay, thank you very much.  I found Mom and Pop, they're sellin' my sneakers!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And what if we go up there? What are you going to say to her?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Dollar Eighty-Nine. Why is this a dollar eighty-nine? Why is there no haggling in this country?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
+        "Fred",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Thank god you're home. I'm wiped out. I drop my car at Jiffy Park and I forgot to take my apartment keys off the ring. So you got my spare?",
+      "quote": "You know, funerals always make me think about my own mortality and how I'm actually gonna die someday. Me, dead. Imagine that.",
       "characters": [
-        "Jerry",
-        "Woman",
-        "George",
-        "Kramer"
+        "Elaine",
+        "Hanke",
+        "Newman",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "It strikes me a lot of guys are doing that kind of humor now.",
+      "quote": "Well, well, well, Mr. Seinfeld! That must have been so frightening! When you confronted that guy, in Queens! Now, let's just see if I've got this scenario right.",
       "characters": [
-        "George",
         "Jerry",
         "Elaine",
+        "George",
         "Kramer"
       ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Will the defendants please rise. And how do you find, with respect to the charge of criminal indifference?",
+      "characters": [
+        "Vandelay",
+        "Clerk",
+        "George",
+        "Maura"
+      ],
+      "correctAnswer": "Vandelay"
+    },
+    {
+      "quote": "Speak now, or we are headed to the Hamptons. It's a two-hour drive. Once you get in that car, we are going all the way... to the Hamptons. All right, you wanna get nuts? Come on. Let's get nuts!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "That's uh, KL5-8383. Are you calling them soon because, they keep very strange hours.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That was two years ago, remember? 'Jeh-Ree, you gotta see the Bay-Bee! You gotta see the Bay-Bee!'",
+      "characters": [
+        "Elaine",
+        "George",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can't call here, it's a coffee shop. I mean what am I going to say to him?",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It certainly should be. It's nobody's damn business! But they really would like to know.",
+      "characters": [
+        "Kramer",
+        "Sid",
+        "Jodi",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The only thing between him and us is a thin layer of gabardine... Kramer, say it isn't so.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

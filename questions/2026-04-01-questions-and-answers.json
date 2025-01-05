@@ -1,106 +1,106 @@
 {
-  "gameNumber": 453,
+  "gameNumber": 454,
   "date": "2026-04-01",
   "questions": [
     {
-      "quote": "Oh the baby's fine. They just took him to the hospital as a precautionary measure. But look at me. I'm the one who's hurt.",
+      "quote": "I said: \"So, what do you think?\". And he said, \"Gabardine?\". And I said, \"Yeah.\" That was it.",
       "characters": [
-        "Carl",
+        "Brody",
         "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, right!  Right! Hey, hey.. I love the floors in here. It's like a gymnasium in here! Try and guard me! (Dribbles an imaginary ball",
-      "characters": [
         "George",
-        "Elaine",
-        "Stu",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You are gonna love this car. Even if you don't like Jon Voight.",
-      "characters": [
-        "Frank",
-        "Steve",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I've never actually done it but if I really wanted to I could probably get one from my friend Roy, the dentist.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, I don't think so Jerry. You see they gave me my job back.",
-      "characters": [
-        "Ramon",
-        "Jerry",
-        "Jackie",
         "Kramer"
       ],
-      "correctAnswer": "Ramon"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yes, in fact she told me that she wishes she was the one getting married.",
+      "quote": "What physical characteristic would you say is common to all of them?",
       "characters": [
-        "Frank",
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Rabbi"
+        "Lamar"
       ],
-      "correctAnswer": "Rabbi"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right. Okay, tell me what you think about this idea: Extend the doors on the toilet stalls at Yankee Stadium all the way to the floor.",
+      "quote": "If there's anything you can do to get us a table we'd really appreciate it.",
       "characters": [
-        "Kramer",
-        "Frank",
-        "George",
-        "Carol"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "This is what you used to build me up? This is where you got all that stupid katra stuff?",
-      "characters": [
-        "Brett",
-        "Levitan",
+        "Jerry",
+        "Toby",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Alright, just get yourself together... I dunno if I can be friends with you anymore after this display.",
+      "quote": "That would be an interesting sociological experiment. You know, Kramer has his father's band. He'd loan it to you.",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
-        "Newman"
+        "Jackie",
+        "Cynthia"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He said, \"We've got five hundred shows to choose from. Why should we give two guys, who have no idea, and no experience, more money?\"",
+      "quote": "This is a huge project involving lots of numbers and papers and folders.",
+      "characters": [
+        "Kruger",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it's a lovely song.  \"How do you solve a problem like Maria?...\"",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I, uh, I disagree. You've, uh, you've been living in America too long.  You've forgotten what it's like to have no oranges.",
       "characters": [
         "Jerry",
-        "Morty",
-        "Susan",
+        "George",
+        "Elaine",
+        "Jimmy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And what about yooou?!?  Tryin' to bilk an innocent bystander out of a family fortune, built on sweat and toil, manufacturing quality O'Henry candy bars, for honest, hard-working Americans!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Susan"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah..... He caught me So here's what I want you to do. Come back with me to the store and we'll pretend to look at the coat.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, listen while we're here why don't we do a little shirt shopping?",
+      "characters": [
+        "Elaine",
+        "Meryl",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

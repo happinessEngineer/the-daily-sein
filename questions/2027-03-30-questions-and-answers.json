@@ -1,104 +1,104 @@
 {
-  "gameNumber": 816,
+  "gameNumber": 817,
   "date": "2027-03-30",
   "questions": [
     {
-      "quote": "Do you think this is such a good idea, with you being on the verge of this big promotion?",
+      "quote": "Right. Kramer and I saw it last night. Spock dies, they wrap him up in a towel, and they shoot him out the bowel of the ship in that big sunglasses case.",
       "characters": [
         "Jerry",
-        "Hanke",
-        "Kramer",
-        "George"
+        "Morty",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ugh. So now we have to rearrange our lives to avoid the doorman?",
+      "quote": "Why do I get pesto? Why do I think I'll like it? I keep trying to like it, like I have to like it.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
-        "Bob"
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I'll tell you this, you can forget about me going to that bachelor auction.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "OK, I don't wanna go over there and do it, and then come back here and find out there was some little loophole, like I didn't put mustard on it or something...",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hold on. Hold on. Wait a minute. How am I gonna get the rye bread into the apartment?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Radar detector? I've never seen you go over twenty miles an hour. You're like the Grand Marshall of the Rose Bowl Parade. It's a Wizard organizer.",
-      "characters": [
-        "Gary",
-        "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So you're telling me instead of them being happy to see me, they're going to be upset because I didn't bring anything. Ttst --You see what I'm saying?",
+      "quote": "You know what? It sounds like the friend of Elaine's that was hitting on me in the book store.",
       "characters": [
         "Jerry",
         "George",
         "Elaine",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "See those wrinkled jeans slung over the chair? Way in the background, out of focus?",
-      "characters": [
-        "Daphne",
-        "George",
-        "Jerry",
-        "Tia"
-      ],
-      "correctAnswer": "Tia"
-    },
-    {
-      "quote": "I can't. He's been on my case about not paying attention. Besides, it's too late, I already told him I heard him.",
-      "characters": [
-        "George",
-        "Marla",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, yes, he's very proud of his work in the big game. So you've never uh, met him before?",
-      "characters": [
-        "Jack",
-        "Kramer",
-        "Jerry",
-        "Newman"
+        "Doctor"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, don't worry. I'm gonna show you, and you'll never be the same.",
+      "quote": "Oh, come on! You've dated women with nosejobs, what's the difference?",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what's the problem? Now come on George. I told the big man you were moving on this. Now, don't let him down!",
+      "characters": [
+        "Ray",
         "George",
-        "Joe"
+        "Elaine",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "What kind of a sick, demented person wants another person's glasses?",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You think that dentists are so different from me and you? They came to this country just like everybody else, in search of a dream.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Slaughtered. Wiped the floor with 'em and  not only that, the money was unbelievable.",
+      "quote": "Now that's a complaint. ...Hello Sally, yeah this is Jerry,I just wanted to leave you a message that I caught your little piece on TV and..",
       "characters": [
+        "Elaine",
         "Jerry",
-        "George",
-        "Morty",
-        "Joel"
+        "Kramer",
+        "Jackie"
       ],
       "correctAnswer": "Jerry"
     }

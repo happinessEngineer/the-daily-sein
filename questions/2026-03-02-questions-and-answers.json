@@ -1,106 +1,106 @@
 {
-  "gameNumber": 423,
+  "gameNumber": 424,
   "date": "2026-03-02",
   "questions": [
     {
-      "quote": "Look at this guy, he's like a cat burglar. He thinks if he goes through real slow the machine won't detect him.",
+      "quote": "Mike. You say you're a bookie? You take a bet an' then you can't pay? I don't know, Mike, to me it sounds a little, how you say.. \"Phony\"?",
       "characters": [
-        "George",
-        "Helen",
         "Jerry",
+        "Amy",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Children? Who said anything about children? I don't want to have children.",
+      "quote": "Yeah, isn't that just like him?  You know, he has to be the only one who has 'em.",
       "characters": [
+        "Mickey",
+        "Jerry",
         "George",
-        "Jerry",
-        "Newman",
-        "Pam"
-      ],
-      "correctAnswer": "Pam"
-    },
-    {
-      "quote": "Hello. Oh, hi mom.  What? Oh my... He didn't?! He couldn't!  Alright, I will.  Okay, bye.",
-      "characters": [
-        "Leo",
-        "Jerry",
-        "Kramer",
-        "Gary"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "ya....Yes!....Yes! it's back I can taste again.  Hey! What's the date today?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Bobby"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I hope you rot in that suit. Look I'm gonna get you for this. I don't know how, but I'm gonna get you. You are going to pay!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Bob"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you know, we were playing a game and, you know, I was pitching, and I was really throwing some smoke. And Joe Pepitone, he was up, and man that guy, you know, he was crowding the plate.",
-      "characters": [
-        "Kramer",
-        "Morty",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You think I'm going to spend my life with somebody because he can get me a deal on a box of nails?",
-      "characters": [
-        "Carrie",
-        "George",
-        "Patrice",
-        "Jerry"
-      ],
-      "correctAnswer": "Carrie"
-    },
-    {
-      "quote": "Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.",
-      "characters": [
-        "Kramer",
-        "Peterman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "And now he's gone. I'm sure he's looking for the car. Five minutes, that's all. I just want to find him.",
-      "characters": [
-        "Kramer",
-        "Susan",
-        "Heather",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "well I don't know if there's gonna be any place to eat up there",
+      "characters": [
+        "Kramer",
+        "Toby",
+        "Carl",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, sweet elixir. It's fragrant nectar a soothing balm for the soul.",
+      "characters": [
+        "Ray",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Elaine, if I could say a word here about Jewish people. That man in no way represents our ability to take in a nice piece of juicy gossip and keep it to ourselves.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm afraid we'll start talking, and I'll gonna wind up going partners with him.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't see why's she more self-conscious about that than her toe thumbs.",
+      "characters": [
+        "Woman",
+        "Elaine",
+        "Hallie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "June 14, 1987.... Mets Phillies. We're enjoying a beautiful afternoon in the right field stands when a crucial Hernandez error to a five run Phillies ninth. Cost the Mets the game.",
+      "characters": [
+        "Newman",
+        "Abby",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell her I bumped into you, I'm giving you a ride uptown.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I put my half a can here on the tab. Why, what's your beef?",
+      "characters": [
+        "Newman",
+        "Kurt",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

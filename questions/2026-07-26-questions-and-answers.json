@@ -1,106 +1,106 @@
 {
-  "gameNumber": 569,
+  "gameNumber": 570,
   "date": "2026-07-26",
   "questions": [
     {
-      "quote": "Oh, now, come on. Look at these boys. If they were any more Cuban, Castro would've smoked them himself. Huh.",
+      "quote": "Twice! And Dembrow doesn't even know you. His son happens to live on your floor.",
       "characters": [
-        "Peterman",
-        "Kramer",
-        "George",
+        "Izzy",
+        "Elaine",
+        "Morty",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Oh, no, no, no...you sit right here...I will get you a nice snack.",
+      "quote": "This guy from my old neighborhood. Lloyd Braun. He's a big advisor to Mayor Dinkins. He thinks he's so cool.",
       "characters": [
-        "Jerry",
-        "George",
-        "Doorman",
-        "Milos"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes! And then the handsome young prince was cast out into the cruel, cruel world.",
-      "characters": [
+        "Enzo",
         "Elaine",
-        "Attendant",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I've had yours, I'm telling you - this one is ten times better. Don't you believe me?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Joel",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ninety-four years old. I found her yesterday. She didn't have her wig on. It was horrifying.",
-      "characters": [
-        "Jerry",
-        "Harold",
-        "Waitress",
-        "Kramer"
-      ],
-      "correctAnswer": "Harold"
-    },
-    {
-      "quote": "The story is the foundation of all entertainment. You must have a good story otherwise it's just masturbation.",
-      "characters": [
-        "Elaine",
-        "Newman",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "How did you get out of the apartment? I didn't see you leave.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Monica"
-      ],
-      "correctAnswer": "Monica"
-    },
-    {
-      "quote": "They're reorganizing the staff, and I'm on thin ice with this guy as it is.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Doctor",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Now what the Hell do I care about Al Jolson. I'd just assume her you sing \"Mammy\". Heh heh heh...",
+      "quote": "Oh, hey, listen, by the way - I'm hosting a little get-together tonight in honor of my little financial upturn..",
       "characters": [
         "Kramer",
-        "Jerry",
+        "Newman",
         "George",
-        "Ron"
+        "Rava"
       ],
-      "correctAnswer": "Ron"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Why don't you talk to her about how there's nothing to talk about?",
+      "quote": "I'm bored. She's boring, I'm boring, we're both boring. We got out to eat, we both read newspapers.",
       "characters": [
-        "Morty",
-        "Bob",
+        "George",
+        "Kramer",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you something. When you go into a store, does it bother you that they make the security guard just stand there all day?",
+      "characters": [
+        "Sid",
+        "George",
         "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Of course I'm back. Why wouldn't I be back? My mother's in the hospital, I'm going to pay her a visit.",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, see, it's... businessmen taking siestas. You know, it's the, uh, the Urban Sombrero.",
+      "characters": [
+        "Jerry",
+        "Christie",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I said to him, \"I really appreciate this, but I just got my period.\" And so, I asked him to come in, he came in--",
+      "characters": [
+        "Cynthia",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "See, this is what Jerry's doesn't understand. We can see each other. We can see each other every day, but it doesn't mean we are back together.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, Elaine.  Yeah, well, things just didn't work out like I thought they would.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Glenn",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
     }
   ]
 }

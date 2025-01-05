@@ -1,106 +1,106 @@
 {
-  "gameNumber": 187,
+  "gameNumber": 188,
   "date": "2025-07-09",
   "questions": [
     {
-      "quote": "I'll tell you something, if I'd own a company, my employees would love me. They'd have huge pictures of me up on the walls and in their home, like Lenin.",
+      "quote": "Calm down Brett, okay. You could have a concussion. Calm down.  'Desperado, mmm-mm-mmm. You better...'",
+      "characters": [
+        "Gina",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I don't want anything to go wrong. If this woman votes to impeach me, I'll be a laughing stock.",
+      "characters": [
+        "Morty",
+        "Todd",
+        "Jerry",
+        "Carol"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "ha ha well I know something about getting to first base. And I know you'll never be there.",
       "characters": [
         "Kramer",
         "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You asked for a piece of gum because you thought your breath smelled like hummus.",
+      "quote": "I just stopped by to thank you. That risk management stuff you wrote for me? It's killer!",
       "characters": [
+        "Bania",
         "Jerry",
-        "Janet",
-        "Jake",
-        "Alec"
+        "Elaine",
+        "Stan"
       ],
-      "correctAnswer": "Janet"
+      "correctAnswer": "Bania"
     },
     {
-      "quote": "You know what Milos, I don't even care about the money. I just feel like I was taken by the worst tennis player I...",
+      "quote": "Ahh. I can't go to the movies like this. Do you mind if we go back to my apartment, so I can change?",
       "characters": [
+        "Christie",
+        "Kramer",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "So you're having sex and then all of a sudden, you just blurt out \"I'm giving you a raise.\"",
+      "characters": [
+        "Captain",
         "George",
-        "Newman",
-        "Sally"
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Deal. Here's your problem. You're making just the muffin tops. You've gotta make the *whole* muffin. Then you... Pop the top, toss the stump. Taste.",
+      "quote": "And you can tell the players that I reimburse the trainer for the cigarettes and the dive checks.",
       "characters": [
         "Elaine",
+        "Kramer",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Yeah, I don't read much myself,  well you know besides the paper. Yeah a lot of people read to relax, not me. You know what I do?",
+      "characters": [
+        "George",
+        "Driver",
+        "Kimbrough",
+        "Jerry"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "What keeps the water in there? I mean, why doesn't it disappear?",
+      "characters": [
         "Newman",
+        "Lippman",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I know. I can tell. It's one of my powers. Why, did you ever fake?",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "How long do you think this will take. I have a millllioooon things to do.",
-      "characters": [
-        "Karen",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't know why you want to play man-to-man when you could play a zone.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Say you're getting intimate with a woman uh, you don't want her fumbling and struggling back there.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, wait a minute, wait a minute. They're gonna be telling us how their dates went. Are we gonna share that information?",
-      "characters": [
-        "Joel",
-        "Elaine",
-        "Jerry",
-        "Tina"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, wouldn't it be funny if Paul an' Noreen broke up because o' you kept hangin' up on him?",
-      "characters": [
-        "Kramer",
-        "Rula",
-        "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Even if you're not gonna soap up, at least pretend for my benefit. Turn the water on, do something.",
-      "characters": [
-        "Kramer",
-        "Eddie",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 341,
+  "gameNumber": 342,
   "date": "2025-12-10",
   "questions": [
     {
-      "quote": "Ah, Mary, we've been eating a lot of your husband's uh yogurt at the yogurt place - does that have any fat in it?",
+      "quote": "Oh, come on, Jerry. If everybody knew everybody, we wouldn't have the problems we have in the world today. Well, you don't rob somebody, if you know their name!",
       "characters": [
-        "George",
+        "Kramer",
         "Jerry",
-        "Kramer",
-        "Newman"
+        "Puddy",
+        "Frank"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "All right. Look. Now, you promised you're gonna be a little more flexible on the nothing idea, okay? Jsut a little.",
+      "quote": "Jerry, I'm sorry to bother you, but you always said you'd be there for me.",
       "characters": [
-        "George",
-        "Kramer",
-        "Stu",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Who says you gotta have a story? Remember when we were waiting for, for that table in that Chinese restaurant that time? That could be a TV show.",
-      "characters": [
-        "Jackie",
-        "Russell",
-        "Jack",
+        "Morty",
+        "Beth",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Beth"
     },
     {
-      "quote": "Are you aware that I'm being charged for Tuesday's appointment? I had to take my mother to the chiropodist.",
+      "quote": "Vandelay Industries, Kel Varnsen speaking. May we help you? ... Oh Hi Keith. Na, I was just jokin' around",
       "characters": [
-        "George",
         "Jerry",
+        "George",
+        "Frank",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Babu? Babu...[waves Babu to come to table] Babu...you know, I got to tell you, I never do this, but the shrimp, it's just, it's a little stringy. You have any chicken?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm gonna get your picture, and you're gonna participate in my program.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because I'm not sure and and and correct me if I'm wrong but I think I see ... a nipple.",
+      "characters": [
         "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because they're Jujyfruit. I like them. I didn't know it would start a chain reaction that would lead to the end of Pendant Publishing.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "It's break up by association. Besides, she's mad at me anyway because of my birthday present.",
+      "quote": "Oh, you are? I guaranty you, Lupe is going to tuck your covers in.",
       "characters": [
-        "George",
-        "Kelly",
-        "Vanessa",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah! Look at me! I was free and clear! I was living the dream! I was stripped to the waist, eating a block of cheese the size of a car battery!",
-      "characters": [
-        "George",
-        "Pop",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Of course I remembered. You reminded me everyday for two months. Oh, the card.",
-      "characters": [
-        "Helena",
-        "Toby",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm trying. I can't get a grip. My hand's had kind of a bad week.",
-      "characters": [
+        "George",
         "Elaine",
-        "George",
-        "Newman",
+        "Clerk"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think I'm going to spend my life with somebody because he can get me a deal on a box of nails?",
+      "characters": [
+        "Emily",
+        "Elaine",
+        "Carrie",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Carrie"
     },
     {
-      "quote": "Five thousand dollars? She doesn't have five thousand dollars!",
+      "quote": "Well, it'll gonna mix up with the water, and then by the end of the cycle it'll be a solid block!",
       "characters": [
         "George",
+        "Morty",
         "Jerry",
-        "Kramer",
-        "Meryl"
+        "Kramer"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know why. There's a one-second clip of me in the opening credits of some Japanese comedy show.",
-      "characters": [
-        "Jerry",
-        "Leo",
-        "Marla",
-        "John"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

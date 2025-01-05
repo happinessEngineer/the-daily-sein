@@ -1,106 +1,106 @@
 {
-  "gameNumber": 905,
+  "gameNumber": 906,
   "date": "2027-06-27",
   "questions": [
     {
-      "quote": "He was in Chicago, the flight was overbooked, wouldn't let him on the plane. He kept screaming how he had to get to Madison Square Garden.",
+      "quote": "What am I going to do now? I can't live without Susan. I gotta get her back. How? How, am I gonna get her back?",
       "characters": [
-        "Elaine",
         "Kramer",
-        "Doctor",
-        "Jerry"
+        "George",
+        "Jerry",
+        "Noreen"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm uh, I'm meeting James here. He's bringing over your jacket.",
+      "quote": "Jerry, it's like the feeling is palpable. You think it could have something to do with the party?",
       "characters": [
         "George",
         "Kramer",
-        "Gary",
+        "Morty",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right You really want to know?...It all started when she told met hat...she was the voice on your tape recorder.",
+      "quote": "The best in the world.  Which means I'm better than just number one.",
       "characters": [
-        "Elaine",
+        "George",
         "Kramer",
         "Jerry",
-        "George"
+        "Izzy"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Why did you tell this crazy guy that Kramer didn't invite him to his party?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kimbrough",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[mockingly] \"Please hurry\". Look at you. Look at what you've become.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wow. That's great! When it comes out, I'll have to get someone to ghost read it.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Manager"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My father left us when I was 9 so I guess that is why i have such a fear of abandonment.",
+      "characters": [
+        "Michael",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well this is not like a park bench where you just come in and sit down. It's a business.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     },
     {
       "quote": "Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.",
       "characters": [
+        "George",
         "Jerry",
         "Elaine",
-        "Kramer",
-        "George"
+        "Carol"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Or maybe he liked your gift so much, he decided to get me the same thing.  Perhaps it's an homage.",
+      "quote": "Kramer, I want my money back for this suit. You're nancy-boy cream leaked all over the pockets -- Suits ruined.",
       "characters": [
-        "George",
-        "Jerry",
+        "Bania",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What is that about leaving after sex? Did I ever leave with you?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I said I would never eat here again.. But, I, I.. he had to know I was kidding.",
-      "characters": [
-        "Elaine",
-        "George",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You wouldn't believe what this guy put away at Nathan's. Look at what we won!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Don't worry Kramer is going to take care of everything. See,, I got you Pineapple. I saw Beaches last night for the fourth time  \"You are the wind…\"",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Poppie"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "See? Finally, *finally* I get to meet a man who pillages and plunders! I'm so lucky.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Leslie",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Bania"
     }
   ]
 }

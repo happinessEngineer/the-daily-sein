@@ -1,104 +1,104 @@
 {
-  "gameNumber": 762,
+  "gameNumber": 763,
   "date": "2027-02-04",
   "questions": [
     {
-      "quote": "Karate, Jerry. Karate. The lifetime pursuit of balance and harmony.",
+      "quote": "Bad dog! Bad dog! You go outside! Outside!! What do you want from me? Tell me! Money, you want money? I'll give you money, how much?!",
       "characters": [
         "Jerry",
+        "George",
         "Elaine",
-        "Lippman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well yeah, yeah. He could build the rocket, but-but he's still stupid for double-parking and blocking somebody in.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy! What a story! I'm speechless. Speechless. I have no speech.",
+      "characters": [
+        "George",
+        "Lisi",
+        "Dan",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I thought they wore gloves and helmets, you know, like \"American Gladiators.\"",
+      "characters": [
+        "Sandi",
+        "Jerry",
+        "Abby",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "N..no, no. You can't leave me.  Marry me! I'll burn myself. I'll burn my parents!",
+      "quote": "What do you mean you will? That's a bad idea. Jerry is a very private person.",
       "characters": [
-        "George",
+        "Julie",
         "Kramer",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, you spoiled, spoiled man. Do you now how much mental energy I expend just trying to picture women naked?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Stan",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh, uh, yeah. Actually, the, uh, I-I bumped my elbow on a desk and uh injured something an.. now it sort of moves involuntarily.",
-      "characters": [
-        "George",
-        "Bania",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ben Cantwell. 85. Huh... You think we'll make it to that age?",
-      "characters": [
-        "Elaine",
-        "Fdr",
-        "George",
-        "Debby"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I thought you saw that before. How come you're watching that again?",
-      "characters": [
-        "Susan",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Oh he's not my boyfriend. It's that bald guy with the glasses, who's always here with them. He's trying to get me in trouble.",
-      "characters": [
-        "Kelly",
-        "Helena",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kelly"
-    },
-    {
-      "quote": "Hey, we got ten thousand deposit bottles here. I mean, this guy could be going to Arkansas.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Kramer",
+        "Fred",
         "George"
       ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Anyway there was all this tension. I asked her if she wanted to go out to dinner and she said \"no, maybe we could get together for lunch.\" You know what that means.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Mickey",
-        "Jerry"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I think the damage is probably already done.  All right! I'll get that. Well, maybe she just practices good hygiene.",
+      "quote": "No, believe me it's not good. I'll mail you a new one with something really funny written on it.",
       "characters": [
-        "Carrie",
-        "Elaine",
+        "Jerry",
+        "George",
         "Kramer",
-        "Jerry"
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen uh, you want some leftovers? I made some African food. There's, yambalas and uh, sambusa.",
+      "characters": [
+        "Kramer",
+        "Fred",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, it's three-thirty in the morning. I'm at a cockfight. What am I clinging to?",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm afraid the problem with Zach is more serious. He's back on the horse, Elaine. Smack. White palace. The Chinaman's nightcap.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Doorman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "She's right in my building! Right above me! Every time I come in the building, I'm gonna have to sneak around like a cat burglar.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

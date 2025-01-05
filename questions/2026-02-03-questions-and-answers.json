@@ -1,106 +1,106 @@
 {
-  "gameNumber": 396,
+  "gameNumber": 397,
   "date": "2026-02-03",
   "questions": [
     {
-      "quote": "You can do better than me. You could throw a dart out the window and hit someone better than me. I'm no good!",
+      "quote": "That doesn't punish me. It punishes Elaine! And cruelly, I might add.",
       "characters": [
-        "Elaine",
-        "Babu",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know... I don't know. Five thousand... let me just take one more look at it.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Bookman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ha ha ha ha ha!$219,000! Lubeck, you glorious titwillow. You just made me a profit of $190,000.",
-      "characters": [
-        "Newman",
-        "Peterman",
+        "Harold",
+        "Tim",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Installing your Clarkman garbage disposal. Dismantle latch hasp beneath main drainage lot. Oh, come on, Clarkman.",
-      "characters": [
-        "Kurt",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What a surprise.  Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Tor",
-        "Ben"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, that's right, right, right. And uh you mentioned that uh, you didn't get a G.I. Joe. You had an…",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, I'm sorry. I can't hurt a dog. I can't hurt a dog. I can't.",
-      "characters": [
-        "Morgan",
-        "Sally",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I got to pay this Todd Gack guy $300 bucks just so he has some excuse to see Elaine again without asking her out.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Kruger"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you know, grace is a tough one. I like to think I have a little grace...not as much as Jackie -",
-      "characters": [
-        "George",
-        "Lloyd",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I guess everyone here enjoys giving the old screwgie, huh?! You're all doin' a hell of a job!  Ho, ho. What I would do with you..",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"So, uh, what's your son doing now, Dr. Stevens?\" \"Oh, he's a public fornicator. Yes, he's a fine boy...\"",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So we're in the room and she's trying to get me to kiss her right in front of him.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are there big coincidences and small coincidences, or just coincidences? Well?! Well?!",
+      "characters": [
+        "Rava",
+        "Elaine",
+        "Alec",
+        "George"
+      ],
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "That's different. I didn't have feelings for those people. But you, you'll backslide",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Milos"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He didn't get to finish it. His uncle came in. We almost got caught.",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Brett",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Take it easy, I've been through a million of these negotiations.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Well, what am I supposed to tell him? How much there is for him to live for? Why should I lie to him?",
+      "characters": [
+        "Kramer",
+        "Shelly",
+        "Jerry",
+        "Gavin"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I couldn't believe it. Uh, I mean I thought I was entering a \"magical world\" of sensual delights, but it was just so ordinary. I mean, there was nothing gymnastic about it.",
+      "characters": [
+        "George",
+        "Peterman",
+        "James",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you doing? We're going out to dinner in ten minutes.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

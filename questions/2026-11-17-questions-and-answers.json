@@ -1,106 +1,106 @@
 {
-  "gameNumber": 683,
+  "gameNumber": 684,
   "date": "2026-11-17",
   "questions": [
     {
-      "quote": "Well, why don't *you* go, and I could save the seats. You said you didn't like saving anyway.",
+      "quote": "Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because this world is your sanctuary and if that world comes into contact with --",
-      "characters": [
-        "Jerry",
+        "Kimbrough",
         "George",
-        "Newman",
-        "Elaine"
+        "Jerry",
+        "Steinbrenner"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "I can't believe I missed Kramer. You know he asked me to go with him to California.",
+      "quote": "What you need is a translator to go in the shop with you and tell you what they're saying.",
       "characters": [
-        "Sandi",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What are we supposed to do? What do you do on a situation like this? Should we call a lawyer, should we call the police?",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Nobody hit anything off. She just gave me the box.  What the hell are you doing?",
-      "characters": [
-        "Kramer",
         "Elaine",
-        "Jerry",
-        "Kevin"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, right, let's go. Jerry, let's go, it's time to eat. We're going to dinner.",
-      "characters": [
-        "Helen",
-        "Katya",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Oh yes, of course. TV Guide, magazines, everything. You know, I would have picked up your mail, your box is right next to mine.",
-      "characters": [
-        "Babu",
-        "George",
-        "Hal",
-        "Jerry"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "Make way! I've got-I've got a runner here! Get outta the way! Make way! Make way! Make way, it's a contender!",
-      "characters": [
-        "Rita",
-        "Vivian",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "That's the one. A big Hollywood so-and-so optioned it for a movie.",
+      "quote": "Don't be ridiculous. Now, if you'll excuse me, I have to go to fill my freezer with my own blood.",
       "characters": [
-        "Elaine",
+        "George",
         "Kramer",
-        "Jerry",
-        "George"
+        "Rebecca",
+        "Waitress"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "\"....Maybe you were still under the gas.Maybe you were hallucinating you're coming out of the gas but you were still under the gas.\"",
+      "quote": "Oh ah, again with the Edward Scissorhand. How can you have hand like a scissor, huh? Show me one person who's got hand like a scissor.",
       "characters": [
+        "Enzo",
+        "Morty",
         "Elaine",
-        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Anyway, I think everything else is okay. Unless of course she's faking.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He just went in. You know, I think he was wearing my Hounds-Tooth jacket.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Where is this guy?!  I hate this!  I shoulda brought something to read..  \"Cancer in labratory animals\".. huh.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
         "George",
-        "Jane"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I bought a bunch of bunion stories from Newman - but they all stink!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know. You get to a certain point, you wanna know about your roots.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about the breathing, the panting, the moaning, the screaming?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Clare",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

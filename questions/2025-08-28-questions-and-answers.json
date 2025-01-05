@@ -1,106 +1,106 @@
 {
-  "gameNumber": 237,
+  "gameNumber": 238,
   "date": "2025-08-28",
   "questions": [
     {
-      "quote": "Nah, I guess I should really get moving on this, huh? I'm gonna go.",
+      "quote": "Elaine, that's what mail is. Without bills, magazines and junk mail, there is no mail.",
       "characters": [
-        "Todd",
+        "George",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, Play Now is through playing. They turned the heat way up in my office. They tried to sweat me out.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Marcy",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh, good. You know, you might wanna try eating it with one of these.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Estelle",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Me neither. I love the previews. In fact I enjoy being in the theatre cut up. Last week after a preview, I yelled out 'Must miss'.",
-      "characters": [
         "Elaine",
-        "Jerry",
-        "George",
-        "Laura"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Why does Radio Shack ask for your phone number when you buy batteries? I don't know.",
-      "characters": [
-        "Kramer",
-        "Estelle",
-        "Jerry",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What are you like a sadist? No matter how bad somebody feels, you can make 'em feel worse. I bet you're rooting for a tumor.",
-      "characters": [
-        "Jerry",
-        "Steve",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, hey did I see you on TV at the Ranger game? Were those your seats right behind the glass?",
-      "characters": [
-        "George",
-        "Gina",
-        "Newman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"One hundred percent Cotton Dockers. If they're not Dockers, they're just pants\"",
+      "quote": "I'm talking about the pig man. I went into the wrong room and there he was.",
       "characters": [
         "Jerry",
-        "Receptionist",
-        "Kramer",
-        "Pitt"
+        "Elaine",
+        "Raymond",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, I didn't do anything. I was never informed. … YOU CAN ALL GO STRAIGHT TO HELL…. You see that? You see what I am going through?",
+      "quote": "Oh, don't be ridiculous! Is that what you wanted to talk to me about? [Gives him the $35] Here.",
       "characters": [
+        "Susan",
         "Kramer",
-        "Frank",
-        "Gennice",
-        "Elaine"
+        "Elaine",
+        "Frank"
       ],
-      "correctAnswer": "Gennice"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Of course, the plane cake with the sweet brown crumbs on the top.",
+      "quote": "Yeah.  I'll get it, I'll get it! Take it easy, why are you so tired?",
+      "characters": [
+        "Hal",
+        "Owner",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey did you notice they moved where they do the interview on Jeopardy now?",
       "characters": [
         "Elaine",
-        "Susan",
+        "Jerry",
         "George",
-        "Gina"
+        "Landis"
       ],
-      "correctAnswer": "Gina"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know exactly what's gonna happen tonight. I'm gonna try and act like I'm not impressed, he's gonna see right through it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Seth"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine? Guess what. I've decided to Form a Charitable Foundation, in Susie's honor. And as Susie's best friend, I want you to be involved.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yes, in fact she told me that she wishes she was the one getting married.",
+      "characters": [
+        "Jerry",
+        "Jackie",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Well, do you want to go out for a walk, get a cup of coffee...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Shoes? Shoes?! Shoes?! Shoes weren't invented till the fourth century! People walked around for thousands of years without them!  I got this. Let's go!",
+      "characters": [
+        "Elaine",
+        "Landlord",
+        "Kramer",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

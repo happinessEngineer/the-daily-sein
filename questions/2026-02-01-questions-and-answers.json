@@ -1,106 +1,106 @@
 {
-  "gameNumber": 394,
+  "gameNumber": 395,
   "date": "2026-02-01",
   "questions": [
     {
-      "quote": "I actually like ponies. I was just trying to make conversation. What time's your game?",
+      "quote": "I think she should withdraw. She's the breaker, he's the breakee. He needs to get on with his life.",
       "characters": [
         "Jerry",
         "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'll tell you what I'm looking at: the next condo president of Del Boca Vista, Phase Three.",
+      "quote": "George, I'll tell you what I'd like you to do. I, I'd like you to drop everything.",
       "characters": [
-        "Morty",
+        "Wilhelm",
+        "George",
+        "Alec",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Gino, you've outdone yourself this time. This is the best haircut I've ever had.",
+      "characters": [
+        "Man",
         "Jerry",
-        "George",
-        "Frank"
+        "Wilhelm",
+        "Kramer"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Man"
     },
     {
-      "quote": "Listen, Jerry can you do me a favor?  Could you, go into the room with me to visit him because ah, I don't want him to think that I'm, y'know... interested.",
+      "quote": "I'd stayed up all night I'd fixed myself up a little before I'd go out.",
       "characters": [
         "Elaine",
         "Kramer",
-        "Frank",
-        "Wyck"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It's the perfect cover for a money laundering operation . No one can keep track of all those kids with the little orange boxes of change.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Peterman",
-        "Puddy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Doctor gave me a relaxation cassette. When my blood pressure gets too high, the man on the tape tells me to say, 'Serenity now!'",
-      "characters": [
         "George",
-        "Kramer",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Oh, they're staring. They know we're on a date. They're making fun. Come on. It's embarrassing.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, it's what John Wilkes Booth yelled out when he shot Lincoln.",
+      "quote": "Ooh, I gotta check my machine. I'm waiting to hear about an interview. Doubleday is looking for somebody to replace Jackie Onassis.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm on a winning ball club, Jerry. They probably wanna pick my brains.",
       "characters": [
         "Jerry",
-        "Noel",
+        "George",
         "Kramer",
-        "George"
+        "Simon"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I really can not comprehend how stupid people could be sometimes. Can you comprehend it?",
+      "characters": [
+        "George",
+        "Rick",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's an inter-office envelope. It get passed around all over the office.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean you can't go? There's two really girls sitting at the counter eating grilled cheese. Cheese, George! Cheese!",
+      "characters": [
+        "Betsy",
+        "Leslie",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright then, I guess I can accept a little Jerry, if it gets me a  lot of Elaine.",
+      "quote": "Tell it to the audience.  Here,  I made some bologna sandwiches.",
       "characters": [
-        "Jerry",
-        "Newman",
-        "Morty",
+        "Ramon",
+        "Christie",
+        "Estelle",
         "Kramer"
       ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Yuh, yes. I intend to Your Honor. And then, on the afternoon of September 10th, you received a phone call did you not?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "No. Thanks. I have a headache. Can you just get me an aspirin?",
-      "characters": [
-        "Pitt",
-        "Jerry",
-        "George",
-        "Celia"
-      ],
-      "correctAnswer": "Celia"
+      "correctAnswer": "Estelle"
     }
   ]
 }

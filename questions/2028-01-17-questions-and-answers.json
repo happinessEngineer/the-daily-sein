@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1109,
+  "gameNumber": 1110,
   "date": "2028-01-17",
   "questions": [
     {
-      "quote": "Seems like you're better at fake relationships than real ones.",
+      "quote": "Yeah, that's a good idea. I'll tell you what chuckles, I give you permission to sublet my room right now.",
       "characters": [
-        "George",
-        "Manager",
+        "Elaine",
         "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why? No, that'll make great dinner party conversation. We'll read the letters at the dinner table.",
+      "quote": "So Biff wants to be a buff? ... Well sleeping less than 18 hours a day would be a start.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Rabbi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't. I'm meeting Uncle Leo. I saw him shoplifting at the bookstore.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Long Island?!?! I thought I was gettin' advice from a Chinese woman!!",
+      "characters": [
+        "Keith",
+        "Lippman",
+        "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "I'm alone, and it's my second day. You know, I don't even think we have that flavor so... George, really, enough, ok? You know, I-I admitted I was wrong, so what more do you want from me?",
+      "characters": [
+        "Kramer",
+        "Hanke",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Hanke"
+    },
+    {
+      "quote": "Oh! but I do. There's probably fleas crawling all over your little snack bar.",
       "characters": [
         "Newman",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the time I'm through with her mouth, she'll be able to eat off it. Is it safe to drink bleach if you dilute it?",
+      "characters": [
         "Jerry",
-        "Lanette",
+        "Elaine",
+        "Stu",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see, my dear, all certified mail is registered, but registered mail is not necessarily certified.",
+      "characters": [
+        "Morty",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hello? Yeah, the defroster's the one on the bottom, just slide it all the way over. You're welcome.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No! Pick it up more in the front! It's got to be higher! Higher! Make a wall! A wall!",
-      "characters": [
-        "Kramer",
-        "Sandi",
-        "George",
-        "Stan"
-      ],
-      "correctAnswer": "Sandi"
-    },
-    {
-      "quote": "You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, Elaine was telling me about this piece of whitefish she had the other day...",
-      "characters": [
-        "Morgan",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I think you're making too much of this. IQ tests don't mean anything.",
+      "quote": "All right, fine. I don't care. If the plane crashes, everybody in first class is going to die, anyway.",
       "characters": [
-        "Monica",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Monica"
-    },
-    {
-      "quote": "I'm gonna go meet Danielle.  There's a new Neil in town!  Hahaha!",
-      "characters": [
-        "Ben",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, why would I assume. I never assume. Leads to assumptions.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Morty",
-        "Woman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Sorry, it was my aunt's birthday and she makes such a big deal about it.",
-      "characters": [
-        "Cheryl",
-        "Gary",
-        "Jerry",
-        "Mickey"
-      ],
-      "correctAnswer": "Cheryl"
-    },
-    {
-      "quote": "Ha ha. Everything's timed out to perfection, Jerry. Slippery Pete's got the Frogger running on battery power, the truck will be there any minute, and Kramer's taped out the loading zone.",
-      "characters": [
         "George",
-        "Elaine",
-        "Susan",
-        "Jerry"
+        "Enzo",
+        "Susan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     }
   ]
 }

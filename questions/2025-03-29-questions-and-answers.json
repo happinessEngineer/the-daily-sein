@@ -1,104 +1,104 @@
 {
-  "gameNumber": 85,
+  "gameNumber": 86,
   "date": "2025-03-29",
   "questions": [
     {
-      "quote": "Once I find a barber I stick with him. I almost went to barber school. I always felt I had a talent for it.",
+      "quote": "Well, I tasted it at the one downtown. It's got a remarkable texture. You'd never know it was non-fat.",
       "characters": [
         "Kramer",
-        "Bob",
+        "Susan",
         "George",
-        "Newman"
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah. Hey, you know, I gotta go get these tomatoes. You wanna go for a ride?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Twelve dollars? I knew we should have gone to the bakery. I guarantee you they're not getting no twelve dollar cake.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No! Jerry!  Cable boy, cable boy.. What have you done to my little cable boy?..",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Exactly! Because neither one of us can't handle a woman all by ourselves.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh come on, George, please put it in a garage. I don't want to spend an hour looking for a space.",
+      "characters": [
+        "Elaine",
+        "Mickey",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I don't, never have, anything I read was already open.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Carrie"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "Well Elaine, when you're shopping on Madison Avenue, you don't want to skip on the, swank.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Maybe they came back for Chinese food. Y'know Maureen Stapleton, if she gets a craving, she's probably screamin' at those aliens, \"I gotta have a lo mein!\"",
+      "quote": "Oh, small world. So little people can have not little people children?",
       "characters": [
         "Jerry",
-        "George",
-        "Elaine",
-        "Helen"
+        "Kramer",
+        "Daphne",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I- I'm pretty sure I left it eh, behind the cushion of the chair ... accidentally.",
+      "quote": "Hey, Silvio, look at Jerry here, prancing around in his coat with his purse. Yup, he's a dandy. He's a real fancy boy.",
       "characters": [
-        "George",
-        "Audrey",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I can tell you this. If I am not in front of my house at six-fifteen, when my parents get there, they will put me on an aggravation installment plan that will compound with interest for decades.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Kramer",
-        "Jimmy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What? Was she just so crazy in love with you that she just couldn't take it anymore? Or..?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, and before I forget, I have the checks for the first month, last month's security deposit.  I have seventy-five dollars left in my account.",
-      "characters": [
-        "Jerry",
-        "Steinbrenner",
-        "Farkus",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George, don't give him any money for that. It'll cost you less to keep it another day, rewind it and bring it back tomorrow. Don't give him the satisfaction.",
-      "characters": [
+        "Buckles",
         "George",
         "Jerry",
-        "Carrie",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, no, I didn't say you could keep it. You see I don't give away tupperware.",
+      "quote": "Yeah well Jerome, I, happen to be flying him in on my frequent flyer miles.",
       "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Just my luck, y'know... just when he's getting thin and attractive. Y'know Jerry, you should buy some of his art. That would really lift his spirits.",
-      "characters": [
-        "Worker",
         "Kramer",
+        "Elaine",
         "George",
-        "Elaine"
+        "Woman"
       ],
       "correctAnswer": "Elaine"
     }

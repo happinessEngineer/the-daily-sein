@@ -1,106 +1,106 @@
 {
-  "gameNumber": 763,
+  "gameNumber": 764,
   "date": "2027-02-05",
   "questions": [
     {
-      "quote": "I know the D is the biggest. I've based my whole life on knowing that the D is the biggest.",
+      "quote": "No, I fake limp on my right. This is a real limp because I sprained my ankle.",
       "characters": [
-        "George",
         "Kramer",
-        "Jerry",
+        "Frank",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Why don't you give me the twenty, and I'll stop and get change, and then you and I can... uh... you-know, settle.",
+      "quote": "That?s what I?ll do, I?ll just call him and tell him, I?ll tell him. That?s all I?ll do. He's a human being, I?ll talk to him. He'll understand. Right?",
       "characters": [
-        "Kruger",
-        "Newman",
-        "George",
-        "Marcy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know what you're getting all riled up about. There are probably a million Costanzas-",
-      "characters": [
-        "George",
-        "Frank",
-        "Tom",
+        "Gail",
+        "Mickey",
+        "Rudy",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, but if I take you to your door, then I have to go all the way around Central Park West, back to Columbus, you know it's all one way...",
+      "quote": "So Adam, I just talked to your father, and, apology accepted.",
       "characters": [
+        "Morty",
+        "Fred",
         "George",
-        "Kramer",
-        "Jerry",
-        "Wendy"
-      ],
-      "correctAnswer": "Wendy"
-    },
-    {
-      "quote": "Somehow? You've had an hour and twenty minutes sleep in three days!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Earl",
         "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, but you're still not allowed. These seats are very expensive.",
-      "characters": [
-        "Attendant",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Attendant"
-    },
-    {
-      "quote": "Well, I felt bad about this afternoon, so I got you something.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought, \"No no no. No. Do not be afraid of this man.\"",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, I'm starting to get a little nervous about this lunch.",
+      "quote": "Hey, get out of here...hey officer, he's fooling around back here.",
       "characters": [
-        "Kramer",
-        "George",
+        "Salesman",
         "Jerry",
+        "George",
         "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, hello. Here you are as promised. You see, I'm a man of my word.",
+      "characters": [
+        "Simon",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Simon"
+    },
+    {
+      "quote": "Yeah. Hey, wait a second, you know, good news for you too. Susan's best friend, Hallie? Broke up with her boyfriend.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Wilhelm"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I dunno. Since the last one. Oh, here she is. You wanna meet her?",
+      "quote": "Am I?  Do you think I would have bought this dress if I looked like this at Barney's?",
       "characters": [
+        "Jerry",
+        "Elaine",
         "Kramer",
+        "Milos"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, here I guess, an' uh, uh I went out and picked up a paper.",
+      "characters": [
+        "Jerry",
+        "Raymond",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's what you did...I can't believe I got another session with Izzy Mandelbaum, he's probably makes me box a kangaroo.",
+      "characters": [
         "Elaine",
         "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "My father was a lobsterman. He got up every morning at four and came home every night stinking of brine! He sent me through law school with the lobsters he caught!",
+      "characters": [
+        "Michael",
+        "Jane",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
     }
   ]
 }

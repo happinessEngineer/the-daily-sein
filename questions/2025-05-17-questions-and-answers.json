@@ -1,49 +1,9 @@
 {
-  "gameNumber": 134,
+  "gameNumber": 135,
   "date": "2025-05-17",
   "questions": [
     {
-      "quote": "Did you wrench it? Did you jam it? Maybe you squeezed it. Turned it...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Darryl"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So what if they have a lobster. Suddenly you're a shell-fish connoisseur.",
-      "characters": [
-        "Estelle",
-        "Jerry",
-        "George",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Dag Gavershole Plaza huh?  Pendant Publishing, that's books right?  Miss?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Driver"
-      ],
-      "correctAnswer": "Driver"
-    },
-    {
-      "quote": "Now is that considered a nut, because I know the cashew is a legume.",
-      "characters": [
-        "Elaine",
-        "Toby",
-        "Guy",
-        "Jerry"
-      ],
-      "correctAnswer": "Guy"
-    },
-    {
-      "quote": "They don't consider it stolen, if you wilfully give the guy the keys.",
+      "quote": "I know he once went from West 81st Street to Kennedy Airport in 25 minutes.",
       "characters": [
         "Jerry",
         "George",
@@ -53,52 +13,92 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He believes it possesses some extraordinary power over women.",
+      "quote": "Alright, this is what ya gotta do: I need ya to go out to the parking lot at Yankee Stadium, take the flyers off my car.",
       "characters": [
+        "Elaine",
+        "Susan",
         "Jerry",
-        "Woman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Because I'm a *woman*.  Ba-ba-ba-boom-chicka-boom-chicka-boom-boom- boom.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Wide open, I was wide open underneath! I had three inches on that guy. You two were hogging the ball.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Teller",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, is he still mad at you for crashing his Thanksgiving party?",
-      "characters": [
-        "Jerry",
-        "Salesman",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "But in the zoo, you know, they might, put a woman in there with me to uh.. you know, get me to mate.",
+      "quote": "Where the cartoon candy's dancing and the Milk Dud's playing the banjo?",
       "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well my buddy works in an appliance store and he got us thirty percent off.",
+      "characters": [
+        "Kramer",
         "Jerry",
         "George",
-        "Harold",
         "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Now! Now, George! Turn on the faucet! George, turn on the faucet! Hoochie mama! Hoochie mama! Hoochie mamamaaaaa!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Donald",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, take you for example. Now, you're very attractive, but you got a big waist.",
+      "characters": [
+        "Kramer",
+        "Meryl",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well it's been quite a night I could sure use a cup of coffee.",
+      "characters": [
+        "Jerry",
+        "Abby",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Elaine. George, when momma said 'Bosco' she must have been trying to communicate something, a legacy, a dying wish perhaps.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Alright, there you go. She's gonna get the jacket back.  So, let's go get some coffee, huh?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.  Not that I care, one way or the other, but these doctors today really do amazing things, you know, if you were so inclined. And again, I'm not suggesting.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
+        "Morty"
       ],
       "correctAnswer": "George"
     }

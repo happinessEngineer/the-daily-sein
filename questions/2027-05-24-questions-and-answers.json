@@ -1,106 +1,106 @@
 {
-  "gameNumber": 871,
+  "gameNumber": 872,
   "date": "2027-05-24",
   "questions": [
     {
-      "quote": "But that's a one-way street coming this way. Besides, how am I gonna get all the way over there?",
+      "quote": "Um, yeah...I think my wife and I'll have a little more coffee.",
       "characters": [
-        "Elaine",
-        "Frank",
+        "Jerry",
+        "Kramer",
         "George",
-        "Jerry"
+        "Stu"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Once again, Antonio, I can't even begin to say how deeply, deeply sorry I am about everything. The job, the cat..  the lamp.",
+      "quote": "Well, you know, I was thinking about what you said before, and...you're right, I've never really been a couple, so...if that's the rule, then I'm gonna go by the rule.",
       "characters": [
-        "Tv",
-        "George",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right. So, you hold out your money, speak your soup in a loud, clear voice, step to the left and receive.",
-      "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, no no. That skips a generation. The baldness gene comes from your grandfather.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Maryedith",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What could I do? She said there might be something for me at Doubleday. Oh wouldn't that be great I wouldn't have to work for Mr. Pitt anymore.",
+      "quote": "Jerry? Jerry, tell them that funny story you were telling me--",
       "characters": [
-        "Mike",
-        "Jerry",
+        "Elaine",
         "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Shut up! Keep 'em spread! Just make love to that wall, pervert!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'm learning a lot about you tonight George. I've never seen you like this.",
-      "characters": [
-        "Karen",
-        "Elaine",
-        "Babu",
-        "Morty"
-      ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "I don't get you. Who goes on vacation without a job? What do you need a break from getting up at eleven?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What's the matter with you? I'm talking! So, Jerry, you know anyone who needs an apartment?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Frank",
-        "Harold"
-      ],
-      "correctAnswer": "Harold"
-    },
-    {
-      "quote": "Going backstage is the worst. Especially when they stink. You know that's a real problem.",
+      "quote": "Coulda fixed me up with Marisa Tomei. She said I was just her type!",
       "characters": [
         "George",
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Kimbrough"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I know what it means, but what does being a shiksa have to do with it?",
+      "quote": "Yeah, and you can forget about watching TV while you're eating.",
       "characters": [
-        "Elaine",
+        "George",
         "Kramer",
         "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I am never saying 'I love you' again unless they say it first.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Leo",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because she's not returning it until she gets the money back for the hospital bill.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Russell"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey you kids know tunes; see if this song rinSTEINBRENNER a bell, \"Heartbreaker , . . . \"",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Seinfeld. I made a reservation for a mid-size, and she's a small. I'm kidding around, of course.",
+      "characters": [
+        "Kramer",
+        "Tia",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

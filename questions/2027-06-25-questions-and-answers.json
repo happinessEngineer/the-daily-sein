@@ -1,106 +1,106 @@
 {
-  "gameNumber": 903,
+  "gameNumber": 904,
   "date": "2027-06-25",
   "questions": [
     {
-      "quote": "You know, I've been thinking. I cannot envision any circumstances in which I'll ever have the opportunity to have sex again. How's it gonna happen? I just don't see how it could occur.",
+      "quote": "You want me to roll six thousand of these?! What, should I quit my job?!",
       "characters": [
+        "Jackie",
         "Elaine",
         "Kramer",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Remember? That's why you put off doing the closets. You said you were going to Berlin for a while.",
+      "quote": "She's not a novelty act, George. Where you hire her out for weddings and bar mitzvas.",
       "characters": [
-        "Jerry",
+        "Kramer",
         "Elaine",
-        "Marla",
-        "Kramer"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Marla"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "This is a huge project involving lots of numbers and papers and folders.",
+      "quote": "George?  I don't have a lot of experience with this acting stuff. But from what I can gather, they're a little touchy about being told how to say the lines.",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're on a different flight. They're scheduled to land in a half hour, only at Laguardia.",
       "characters": [
         "Elaine",
         "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know I know this sounds a little arrogant but I never thought she would find anyone she would like better than me. Ya know, I guess I had my chance and that's that.",
+      "quote": "Excuse me, I've got a maniac stalking me, I'm not staying in the city.",
       "characters": [
-        "Peterman",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, Play Now has all kinds of different rubber balls. Why don't we test your bladder system at my office?",
-      "characters": [
-        "Morty",
+        "Kramer",
         "George",
         "Jerry",
-        "Leo"
+        "Glenn"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Obviously, Mr. Peterman, there's something wrong with this test. I don't take opium. Let me take another one, please? I'll call the doctor right now, I'll take a pop urine test.",
+      "quote": "Yes, yes, I definitely waited. But let me say this: Once he passes on that option, that 'God bless you' is up for grabs.",
       "characters": [
-        "Beth",
+        "George",
+        "Elaine",
         "Jerry",
-        "Newman",
+        "Winona"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, they should've taken care of Castro when they had the chance. Like we did in Guatamala in 'fifty-three.",
+      "characters": [
+        "Leo",
+        "George",
+        "Pam",
+        "Alton"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "Ah. You see, the man who was the butler, uh, had gotten into a car accident with Jerry, and because he didn't have any insurance, the judge decreed that the man become Jerry's butler.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All right. All right. I'll tell ya what I'm gonna do, I will give you double what you paid for it.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
-        "Nana"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey hey hey hey, we're starving here! We've been waiting here for ten minutes already!",
+      "quote": "I guess I've been hanging on to them for so long cuz i couldn't accept the fact that Dad was really gone forever",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Susan",
-        "Joel"
-      ],
-      "correctAnswer": "Joel"
-    },
-    {
-      "quote": "Because he made a big deal about how I understand everything immediately. That's what impressed him.",
-      "characters": [
-        "George",
-        "Doctor",
-        "Newman",
-        "Jerry"
+        "Jerry",
+        "Father",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well, I couldn't stop thinking about how everyone was enjoying the lobster so much an' well I thought I little taste wouldn't hurt, huh?",
+      "quote": "It was on CNN  This Chinese doctor Zeng Zau. has discovered a cure for baldness.",
       "characters": [
-        "Karen",
-        "Rachel",
-        "Pam",
+        "Elaine",
+        "Kramer",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Rachel"
+      "correctAnswer": "George"
     }
   ]
 }

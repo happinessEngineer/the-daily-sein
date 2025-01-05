@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1035,
+  "gameNumber": 1036,
   "date": "2027-11-04",
   "questions": [
     {
-      "quote": "Yes! As a matter of fact! David Putty won't do the move anymore.",
+      "quote": "Ok, thanks. Come on in for a second.  This is my brother, Ricky. He's home from college for the weekend.",
       "characters": [
-        "Rachel",
+        "George",
+        "Kramer",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Are you kidding? That's very significant! If he was interested in me, he'd want my germs! He'd just crave my germs!",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey. Hey, this is for you.  It's from.. uh, Susan's roommate, Sally.",
+      "characters": [
+        "Elaine",
         "Jerry",
+        "George",
+        "Ned"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You see Elaine, Billy was a simple country boy. You might say a cockeyed optimist, who got himself mixed up in the high stakes game of world diplomacy and international intrigue.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I have to dribble, if I give it to you, you just shoot. You're a chucker.",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about Saturday nights? Do you have to ask her out, or is a date implied?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, you wouldn't believe what it's like down there. Taxicab drivers are insane. You know, everybody is in a hurry.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It is the forced socializing. I mean, just because we work in the same office, why do we have to act like we're friends?",
+      "characters": [
+        "Jerry",
+        "George",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I, uh, I like to think of this as my conference room. Yeah, it has a more formal atmosphere, you know, with the shelves, and the furniture.",
+      "quote": "Oh, I get it. Why waste time making small talk with the doorman? I should just shut up and do my job, opening the door for you.",
       "characters": [
-        "Celia",
-        "George",
+        "Doorman",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It helps to control the direction regardless of the operator's tremors or spasticity.",
-      "characters": [
-        "Lippman",
-        "Salesman",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "My place? NO, no, no. I hate my place. I don't wanna go back to my place.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Farkus"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He'd be perfect for my movie. This is a once-in-a-lifetime opportunity.  I gotta go over there, I gotta give him a copy of my treatment.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Bob"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "George, I would like to thank you for the greatest four days I ever spent in my life.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Wilhelm",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Brody, c'mon. He's just kidding. He's a joke maker. Tell him, Jerry.",
-      "characters": [
-        "Julianna",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Of course I'm all right. I'm here with my girl, Nina. And what better way to pass the time than gabbing with my best friend -- with whom there are no secrets.  Like this. Since the fourth grade.",
-      "characters": [
-        "George",
-        "Doctor",
-        "Jerry",
-        "Woman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Would you let go of my arm?! I'm trying to drive, you're getting us both killed!",
-      "characters": [
-        "Jeannie",
-        "Doctor",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Doorman"
     },
     {
-      "quote": "You can say what you want about me but I'll be damned if I'm going to stand here while you insult my toothbrush.",
+      "quote": "In the dark room? Uh no, no thank you. Not right now. I'm a day person!... Are you all right?",
       "characters": [
-        "George",
-        "Jerry",
-        "Keith",
-        "Wilhelm"
+        "Elaine",
+        "Kramer",
+        "Man",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

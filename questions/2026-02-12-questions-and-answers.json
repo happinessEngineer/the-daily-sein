@@ -1,106 +1,106 @@
 {
-  "gameNumber": 405,
+  "gameNumber": 406,
   "date": "2026-02-12",
   "questions": [
     {
-      "quote": "Alright, that's not gonna work, it's not gonna work. Let me just think for a second here.",
+      "quote": "Well I was lost, I never saw the first one. By the way, you mind if I watch it here?",
       "characters": [
-        "Steinbrenner",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well... Frankly, I thought, you know, I was gonna kinda' be like the apparatus.",
-      "characters": [
+        "Jerry",
+        "Carl",
         "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, ninety four percent of communications is non-verbal. Here watch.",
+      "quote": "Well, you should have seen it. It was quite a scene over there.",
       "characters": [
         "Jerry",
         "Elaine",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You very very good man, you do everything for me. My family and I can never thank you enough for everything you do.",
+      "characters": [
+        "Karen",
         "George",
-        "Kramer"
+        "Babu",
+        "Hoyt"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "I'm only charging $37.50, plus you get a pizza bagel and desert.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Nah, the only one I could ask is Elaine, and I can't ask her.",
+      "quote": "So, we're talking, and I don't like to go too long before I ask them out, I wanna get it over with right away, so I just blurt out, \"What are you doing Saturday night?\"",
       "characters": [
-        "Greg",
-        "Jerry",
+        "Keith",
         "Kramer",
+        "Jerry",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "If we could just harness this power and use it for our own personal gain, there'd be no stopping us.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kate",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe you can strike one up with the prince of darkness as you burn for all eternity.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Frank",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Care? Forget about care. Love. They have to love the characters. Otherwise, why would they keep tuning in?",
+      "quote": "Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole.",
       "characters": [
-        "Morty",
-        "Woman",
+        "George",
+        "Elaine",
         "Jerry",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hmm-hm. Your home, Mister Costanza. Just make sure he gets his medicine six times a day and keep his tail elevated.",
+      "characters": [
+        "Steven",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I thought we might reminisce a little more. You know Duncan and I were just taking about the big race.",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, if it was a regular salad I wouldn't have said anything. But you had to have the BIG SALAD.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Why can't two people go and do something without it being a date?",
-      "characters": [
-        "Mike",
-        "Susan",
-        "Abby",
-        "Todd"
-      ],
-      "correctAnswer": "Todd"
-    },
-    {
-      "quote": "Excuse me, I've got a maniac stalking me, I'm not staying in the city.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Worker"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They, uh... said you were with some guy who was wearing a cape?...",
-      "characters": [
-        "George",
-        "Mickey",
-        "Bob",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

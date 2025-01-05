@@ -1,104 +1,104 @@
 {
-  "gameNumber": 616,
+  "gameNumber": 617,
   "date": "2026-09-11",
   "questions": [
     {
-      "quote": "A poppy seed! It must have been in the chicken. Oh, I'm dead. I'm going to the doctor's in a half an hour.",
-      "characters": [
-        "Rabbi",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What, are you kidding? I should you loaning you money!  But I'm not.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Leo",
-        "Estelle"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "Oh that's good, that's good. Make the eyes, uh, what's that nut?",
+      "quote": "Camera, curtains, lights - This is it, we'll hit the heights - Oh what heights we'll hit - On with the show this is it!",
       "characters": [
         "Kramer",
-        "Susan",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I came home one night, and I tripped over one of Jerry's toys.  So I took out my belt just to threaten him, and I got a glimpse of myself in the mirror.",
-      "characters": [
         "Jerry",
-        "Kramer",
         "Morty",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why don't you find a doctor that doesn't know your difficult.",
+      "quote": "Why do you have to be so suspicious of every one. This is a great man Zeng Zau, he wants to help bald people.",
       "characters": [
         "Kramer",
-        "Jimmy",
         "George",
-        "Audrey"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "The walking date is a good date. You don't have to look right at the other -person.",
+      "quote": "She probably gets that impression because you're cool. You're under control. Like me. Nothing wrong with that.",
       "characters": [
-        "Rula",
+        "George",
+        "Mickey",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're a back-up, you're a second-line, a just-in-case, a B-plan, a contingency!",
+      "characters": [
+        "Peterman",
         "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I would just love to take you down to the shop where I got it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ray",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "I had him for Hygene. Remember his teeth. It was like from an exhumed corpse.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Maestro",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She's not concerned about the security guard. What kind of a person is this? I'm marrying a person who doesn't care that this man has to stand here 8 hours a day when he could easily be sitting.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gail",
+        "Stu"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I think, you know, she was, like, crying, and he was consoling her, and then, she, uh, just got into his car, and they just drove away.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah I did. He was very talented. He was, ah just, I don't know a little too...",
+      "characters": [
+        "Elaine",
+        "Helen",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Are you kidding? They can't cancel that show on me now, it's too late for me to book anything else for that weekend. Alright, alright ... okay, bye.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Noel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You think she thinks I have a beautiful face, or is she just saying that?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, hey. Me. Talking. You know, between you and me, I always thought Kramer was a bit of a doofus, but he believed in me. *You* did not. So as I see it, he's not the doofus. *You* are the doofus.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Elaine",
-        "Wendy"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "But I have to have them by one o'clock. He's very regiment about his meals.",
+      "quote": "Oh no, in and out, I made sure of that. And you'll be happy to know I perused the script and it's met with my approval.",
       "characters": [
-        "Frank",
+        "Kramer",
+        "Elaine",
         "George",
-        "Mickey",
-        "Kramer"
+        "Gina"
       ],
       "correctAnswer": "George"
     }

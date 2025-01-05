@@ -1,106 +1,106 @@
 {
-  "gameNumber": 538,
+  "gameNumber": 539,
   "date": "2026-06-25",
   "questions": [
     {
-      "quote": "Maybe it's not even stupidity. Maybe it's just a blatant disregard for basic human decency. Yeah this how dictator's start. Do you think Mussolini would circle the block six times looking for a spot?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Carrie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, then, you've just got to fire her! Don't even think about it - there's no two ways about it.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, Mr. Kramer is in a meeting with Mr. Lohmase and he didn't want to miss anything.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Darren"
-      ],
-      "correctAnswer": "Darren"
-    },
-    {
-      "quote": "Just a game. He's so humble. Don't forget what you wrote in the epilogue, the fate of the world depends on the outcome of this game.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Kramer",
-        "Tim"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "Hey, say, you know, we haven't even discussed George's engagement yet.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah.  There she is...Miss - yes, room 417 please? Karen Hanson?",
-      "characters": [
-        "Puddy",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Pst.  Wilkinson's got a bite on a new one. Petramco Corp. Out of, uh Springfield. I think. They're about to introduce some sort of a robot butcher.",
+      "quote": "Kramer! It's Silvio! Open up, I need to talk to you! I can see you through the reverse peephole.",
       "characters": [
         "Kramer",
+        "Silvio",
         "George",
-        "Frank",
         "Jerry"
       ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "Yeah I guess. So you wanna meet at that place at seven thirty?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Huh, so I had it all along. How d'you like that?  I guess I owe that cashier an apology.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh, Jer, well you know, I was cookin' and I, I uh, I came in to get this spatula...and I left the door open, 'cause I was gonna bring the spatula right back!",
+      "quote": "I don't think George has ever thought he's better than anybody.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Brett",
+        "Jack"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Who's going to bomb you. An airline for all the stupid little peanut jokes.",
       "characters": [
         "Kramer",
-        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can I say one thing to you? And I say this with an unblemished record of staunch heterosexuality.",
+      "characters": [
+        "Susan",
+        "Elaine",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Kramer, you know what? There, there isn't a light there, in the ladies' room.",
+      "characters": [
         "George",
-        "Nina"
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"There's a lot of money in this.. He's got a proven sales method\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah. Every which way. Couldn't crunch the numbers. It drove me crazy.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah. Yeah. You know the odds of me being anyone's type?! I have never been anyone's type, but apparently, this Marisa Tomei loves funny, quirky, bald men.",
+      "quote": "Hey, pistol-packin mama, you swing that gal around, Allemande left with the old gray hag, around and around you go. Yee-ha!!",
       "characters": [
         "Jerry",
+        "Elaine",
         "George",
-        "Frank",
-        "Estelle"
+        "Kramer"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "After the Giant game I realized that this--this problem isn't going away.",
-      "characters": [
-        "Jerry",
-        "Joel",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Joel"
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 217,
+  "gameNumber": 218,
   "date": "2025-08-08",
   "questions": [
     {
-      "quote": "Yeah, doctor. I'm going to have to wait in that little room all by myself, aren't I?  I better take this. I hate the little room.  \"Oh, hello, Doctor.\"",
+      "quote": "Actually, the importer's right in Chinatown. I'll introduce you to him, you can get it whenever you want.",
       "characters": [
-        "Peterman",
-        "Tim",
+        "Jerry",
+        "Lloyd",
+        "Rula",
+        "Elaine"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "What, are you kidding? Opening night Pavarotti and Pagliacci. Ha, we're gonna clean up!",
+      "characters": [
+        "Jerry",
+        "Hal",
         "George",
-        "Jerry"
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, I got news for ya, its nice to be involved with somebody who?s interested in something other than nick at night. Now he?s got a grip on reality, he's happy, he's well adjusted.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What about the Coast Guard? Seems like a lot of pride there, a lot of tradition.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Boy - I'm really surprised at Elaine - that whole phone business - she should know better than that.",
+      "quote": "I mean, what compels a seemingly normal human being to do something like that?",
       "characters": [
-        "Kramer",
-        "Bob",
+        "Elaine",
+        "George",
+        "Pop",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It looked just like the jacket I brought in to be dry-cleaned. He complimented me on it.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Karen",
+        "Kelly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know.  Just, things seem a little more exciting when you're around. That's all.",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What are you getting to be too much of a big shot now to give me a call? I don't hear from you anymore!",
+      "characters": [
+        "Leo",
+        "Susan",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Leo"
     },
     {
-      "quote": "I don't want soup. I can make my own soup. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds celery.\"",
-      "characters": [
-        "Elaine",
-        "George",
-        "Leslie",
-        "Margaret"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Um, hi! Hi. I called earlier about getting the yogurt tested.",
-      "characters": [
-        "Woman",
-        "Kramer",
-        "Simon",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Do you want to be able to get it out or do you want to not be able to get it out?",
+      "quote": "Ohh! You know, and sometimes she'll go,  \"Hello, Jerry?\" And I'll go, \"Oh, hi Marlene.\" And then it's \"Jerry...\"",
       "characters": [
         "Jerry",
         "Kramer",
-        "Estelle",
+        "Newman",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "...Ahh. You don't plan to hit these balls with that racquet, do you?",
+      "quote": "You know, everybody listens to the Chinese. I mean, look at the fortune cookie. You couldn't get away with that in any other restaurant.",
       "characters": [
-        "Harold",
-        "Estelle",
-        "Toby",
-        "Milos"
-      ],
-      "correctAnswer": "Milos"
-    },
-    {
-      "quote": "I don't know, 120, 130…Then they sent some guys to sandblast for 6 hours. Tomorrow they are putting in asbestos.",
-      "characters": [
-        "George",
         "Elaine",
-        "Peterman",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Mike. You say you're a bookie? You take a bet an' then you can't pay? I don't know, Mike, to me it sounds a little, how you say.. \"Phony\"?",
-      "characters": [
         "Kramer",
-        "Elaine",
         "Jerry",
         "Frank"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!",
-      "characters": [
-        "Frank",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Federal Express?! Is she out of her mind? Why didn't she just ship it?!",
-      "characters": [
-        "Steinbrenner",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

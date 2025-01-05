@@ -1,106 +1,106 @@
 {
-  "gameNumber": 210,
+  "gameNumber": 211,
   "date": "2025-08-01",
   "questions": [
     {
-      "quote": "Right after we get off the phone, then you go and tell her that?! Well, of course she knows it was me who complained! Now I'm responsible for this woman's quitting. Oh, this is unbelievable!",
-      "characters": [
-        "Rabbi",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So you're denying him the scholarship just because he wants to be a city planner?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Audrey",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'd like to have a kid. Of course, you have to have a date first... Remember my friend, Adam, from Detroit?",
+      "quote": "I dunno , I'm gonna ask Shelley ,but she still might be upset from the masticated pecan incident.",
       "characters": [
         "Jerry",
-        "Newman",
-        "Kramer",
+        "Elaine",
+        "Conrad",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You put a label on something, then ten minutes later it would peel right off.  It was the worst gift I ever got.",
+      "quote": "Jerry, what are you doing? George tells me you're gonna throw your set?",
       "characters": [
-        "Milos",
         "Jerry",
+        "Donna",
         "Kramer",
-        "Tim"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "Oh, it be so. I'm out there, Jerry, an' I'm lllovin' every minute of it!!!",
-      "characters": [
-        "Kramer",
-        "Alton",
-        "Elaine",
-        "Salesman"
+        "Rita"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I can't call her now. It's too soon. I'm planning a Wednesday call.",
+      "quote": "Oh, just great. I found out that Vivian has some kind of medical problem and if the worst happens she wants me to take care of Jimmy.",
       "characters": [
-        "Kramer",
-        "Craig",
+        "Elaine",
         "George",
+        "Mike",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "How can she go with a guy like that , he's a mess... I just don't see them together at all",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ethan",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Ethan"
     },
     {
-      "quote": "Well, I think you're wrong about that.  [Elaine walks past the window again, glancing in] And ah now if you'll excuse me, I'd really like to get started, please.",
+      "quote": "Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye.  Great news! Yeah, the strike has been settled. I'm going back to work.",
       "characters": [
-        "Wilhelm",
-        "Jerry",
-        "Darren",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey Bania, the dinners off. The ticket's no good. The numbers are all smudged out.",
-      "characters": [
-        "Kramer",
         "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, I'm tellin' you, Elaine doesn't know whatta hell she's doin'! I gotta take over this whole operation!",
+      "characters": [
+        "Man",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I work for the Director of Madison Square Garden. It's great! I can get free tickets to any sporting in New York. Anyway, she's a very luck woman. Enjoy the race.",
+      "characters": [
+        "Rita",
+        "Susan",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Rita"
     },
     {
-      "quote": "The broken window, Klompus never fixed it. They just walked right in.",
+      "quote": "Well, the tomato's an anomaly. So successful with the ketchup and the sauce, but you can't find a good one.",
       "characters": [
-        "Jerry",
-        "Elaine",
         "Kramer",
+        "Doctor",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Fine, okay. It's just, I've never seen a beautiful lady reading 'the Guide' so far away from a TV. You must really like television.",
+      "quote": "Uh, yeah, uh, no. Newman, uh, I heard that you found a fur coat in a tree. And, I believe that it belongs to a friend of mine, and I'd like to give it back to him.",
       "characters": [
         "Kramer",
+        "George",
         "Elaine",
-        "Ricky",
-        "Jerry"
+        "Debby"
       ],
-      "correctAnswer": "Ricky"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Just a game. He's so humble. Don't forget what you wrote in the epilogue, the fate of the world depends on the outcome of this game.",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Tim"
     }
   ]
 }

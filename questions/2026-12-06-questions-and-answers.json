@@ -1,106 +1,106 @@
 {
-  "gameNumber": 702,
+  "gameNumber": 703,
   "date": "2026-12-06",
   "questions": [
     {
-      "quote": "They're all off the project. They were boring. George, you are my main man.",
+      "quote": "But you know... not in the building. Really, I feel terrible about this. My intentions were good. What can I do? Tell me.",
       "characters": [
+        "Marla",
+        "Jerry",
+        "George",
+        "Detective"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, we've had it with you. Understand? We love you like a son, but even parents have limits.",
+      "characters": [
+        "Frank",
         "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Maybe you should call the airline, they might know where he is.",
+      "characters": [
+        "Marlene",
+        "Ethan",
+        "Elaine",
+        "Lois"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, not for me. A little too delightful. Well, George and Jane should be almost there by now.",
+      "characters": [
+        "Jerry",
         "Gary",
-        "Jerry",
-        "Kruger"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Kruger"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You do realize, of course, these are illegal in your country.",
+      "quote": "All right, you not gonna go I?m not gonna go, I?m gonna call the whole thing off.",
       "characters": [
-        "Man",
         "Elaine",
+        "Kramer",
         "Jerry",
-        "Kramer"
+        "Hal"
       ],
-      "correctAnswer": "Man"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I got to get downtown and buy that suit. The store opens in twenty minutes.",
+      "quote": "Don't despair, my friend.  I won't allow your love to go unrequited. Not like mine.",
       "characters": [
-        "Elaine",
-        "Steve",
         "Jerry",
+        "Newman",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "No I can't. I gotta pick up Elaine. I'm taking her to this Kennedy auction.",
+      "quote": "Well, they are arranged according the price. And as I recall...",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Leo",
-        "Brett"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, once I didn't have dinner until, like 9:00 o'clock, that was pretty rough.  Hey, do me a favour will ya'? Throw out my garbage for me.",
-      "characters": [
-        "Elaine",
-        "Kramer",
+        "Clerk",
         "George",
+        "Bania",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Clerk"
     },
     {
-      "quote": "Well, I don't need to do it. It's not like a habit or anything.",
+      "quote": "I don't know it was weird. Crazy printing. I don't know who it was from.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Puddy",
-        "Newman"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "So it's like going to Idhao and eating carrots. I like carrots, but I'm in Idhao, I want a potato.",
-      "characters": [
-        "Elaine",
         "George",
-        "Jerry",
-        "Jodi"
+        "Peterman",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I really don't wear the kind of shoes that have to be cobbled.",
+      "quote": "Yeah, the woman I grew up with in Maryland, she moved here last year...",
       "characters": [
+        "Darren",
         "Elaine",
-        "Naomi",
-        "George",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "It was on CNN  This Chinese doctor Zeng Zau. has discovered a cure for baldness.",
-      "characters": [
-        "Steinbrenner",
-        "Newman",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I was chewing gum with Lloyd Braun, and he was bragging about the peepshow you gave him at the Alex.",
+      "quote": "Yeah, and you know what she told me? She said her first order of business is to put my coffee table book into the bookstores as soon as possible.",
       "characters": [
         "Elaine",
-        "George",
         "Jerry",
-        "Kramer"
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

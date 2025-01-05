@@ -1,106 +1,106 @@
 {
-  "gameNumber": 869,
+  "gameNumber": 870,
   "date": "2027-05-22",
   "questions": [
     {
-      "quote": "Of course it's a good idea, it's my idea. I conceived this whole project two years ago.",
+      "quote": "Just keep the lights down and your eyes closed. I'll be back.",
       "characters": [
         "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, I've been trying to jam stuff in the box, like you told me, but sometimes it says, like, \"Photographs - Do not bend\".",
+      "quote": "A bomb in the building, oh, m'god. Quick, everyone under the desk.",
       "characters": [
-        "George",
-        "Jerry",
-        "Conrad",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jake, Jake. Take a look.  Aaw, see, you're not the only one who has 'em. I have them too.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, when I first met you, Kramer, you used to wear jeans all the time.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Doctor"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "They're good around the house -- and they're good for outside.",
-      "characters": [
-        "Morty",
-        "Nina",
-        "George",
-        "Tina"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Oh great, put it all on the Peterman account with the other stuff.",
-      "characters": [
-        "George",
+        "Steinbrenner",
+        "Frank",
         "Elaine",
-        "Jerry",
-        "Kramer"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "Oh, no. No. We're good. Let's get goin'. Alright.  Watch it, funny man.",
+      "quote": "You have to stand tough sir. That's why I had to hang up the phone.",
       "characters": [
-        "Conrad",
         "George",
-        "Newman",
+        "Jerry",
+        "Kramer",
         "Morty"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You'd really like him, you know, I can't wait to get on that boat.",
+      "quote": "My mom's down in Florida. She's got uh one of those condos. Hot down there in the summer. You ever been down there?",
       "characters": [
-        "Marlene",
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm really sorry, but you can see why I'd make a mistake like that.",
+      "characters": [
         "Jerry",
         "Kramer",
-        "Laura"
+        "Elaine",
+        "Newman"
       ],
-      "correctAnswer": "Laura"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Your father won a thousand dollars at the track last week, and he gave you a hundred, and you were supposed to give fifty dollars to your sister.",
+      "quote": "You know, the stupidest guy in my fraternity became an architect - after he flunked out of dental school!  Contratulations, young man.",
       "characters": [
+        "Wyck",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "\"Coccoon II: The Return\". I guess they didn't like it up there.",
+      "characters": [
+        "Jerry",
+        "Newman",
         "Kramer",
-        "Elaine",
-        "Frank",
-        "Nana"
+        "Elaine"
       ],
-      "correctAnswer": "Nana"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You could read the paper through the whole thing if you want.",
+      "quote": "Hello? Yes. Uh-huh. Ya. Oh, really? Okay, thank you very much. Bye-bye.  Well, the yogurt verdict is in.  Fat!",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Bania",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's a hue. She's got great eyebrows, women kill to have her eyebrows.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let me ask you a question. If you named a kid Rasputin do you think that would have a negative effect on his life?",
+      "characters": [
+        "Jerry",
+        "Poppie",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

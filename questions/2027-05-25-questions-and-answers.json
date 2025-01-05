@@ -1,106 +1,106 @@
 {
-  "gameNumber": 872,
+  "gameNumber": 873,
   "date": "2027-05-25",
   "questions": [
     {
-      "quote": "I didn't have a deal! They're two hundred dollars a pop. What do I do?",
+      "quote": "I mean it's hard enough to meet a woman you dislike, much less like.",
       "characters": [
-        "Jerry",
-        "George",
-        "Haarwood",
-        "Alec"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't care about the sauce. It came in this funny little bottle, and there was a guy on the label that looked exactly like Charles Grodin.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Kruger"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I have a receipt for a rental car with your signature. Including a report with some damage to the rear seat. It seems the spring was so compressed it completely collapsed the right side..",
-      "characters": [
-        "Cop",
-        "Jerry",
-        "Salesman",
-        "Elaine"
-      ],
-      "correctAnswer": "Cop"
-    },
-    {
-      "quote": "You stuck your hand out, so I shook it. I don't know about a pact. Anyway, you should be happy you're engaged. You're getting married.",
-      "characters": [
-        "Jack",
-        "Morty",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "you would not believe what just happened to me in the bathroom",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body.",
-      "characters": [
-        "Pitt",
-        "Jerry",
-        "Farkus",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I can't believe you're hoarding sex moves. I'm out there rubbing two sticks together. You walk around with a zippo.",
-      "characters": [
-        "Jerry",
-        "Mickey",
-        "Tv",
+        "Lena",
+        "Gary",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "We gotta find that rickshaw. You check the sewers and dumpsters. I'll hit the soup kitchens, bakeries, and smorgasbords.",
+      "quote": "Boy, you got a lot of stuff here. . . . Dad, what are you doing?",
       "characters": [
-        "Rabbi",
-        "Kramer",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "That's incredible. Six months ago you were taking messages for your mother.",
-      "characters": [
-        "Mickey",
-        "Puddy",
+        "Elaine",
+        "Frank",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, there's only one way to settle this.  One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe..",
+      "quote": "Jerry , this is a miracle of nature that exists for a brief period. It's like the Aurora Borealis.",
       "characters": [
-        "Kramer",
-        "Newman",
+        "Detective",
         "George",
-        "Peterman"
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "who do you think she is? how dare she? you want me to get the manager? too bad they don't have those old ladies walking around with flashlights anymore we'd flush her out",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Milos",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why can't two people go and do something without it being a date?",
+      "characters": [
+        "Todd",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "But you were just grabbing on to them to save your life. If you were drowning and I threw you a life preserver, you think you could tell me if it was an inflatable?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, she uh, probably just wanted to be able to keep tabs on you.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey there Mr. Too big to come to my shows. I just came back from  Whoooooooo.....I'm on my way to an audition still waiting for that big break.",
+      "characters": [
+        "Sally",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "What's the difference? Look at it! Do you see the size of this shirt?!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Lippman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're gonna get back together, anyway. It's thousands of dollars!",
+      "characters": [
+        "Morty",
+        "Pam",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

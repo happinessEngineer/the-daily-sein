@@ -1,106 +1,106 @@
 {
-  "gameNumber": 661,
+  "gameNumber": 662,
   "date": "2026-10-26",
   "questions": [
     {
-      "quote": "Okay next bachelor is number, um 124 on your program. He's uh, he's a high school graduate.",
+      "quote": "Okay. A little later, we're gonna be talking with animal expert, Jim Fowler.",
       "characters": [
-        "Jerry",
+        "Puddy",
         "Elaine",
-        "Lois",
-        "Newman"
+        "Bania",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hold on a second I got another call. Hello? Yeah, he'll call you back.",
+      "quote": "It's a one-time fee. A hundred and fifty bucks. Why live like this?!",
       "characters": [
+        "Elaine",
         "Kramer",
         "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I can't trust him, he gets insane. I won't enjoy myself. That's right, Farfel, I'm talking about you!",
+      "characters": [
+        "Kramer",
         "George",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, I don't want your business and from this moment you're banned from the store, you're banned!",
+      "quote": "I thought you said they had a good time, is there anything else you're keeping from me?",
       "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Joe"
-      ],
-      "correctAnswer": "Joe"
-    },
-    {
-      "quote": "Your son could never afford that car. We all saw his act, last year, at the playhouse. He's lucky he can pay his rent!",
-      "characters": [
-        "Jack",
-        "Darren",
-        "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "Well, it's my medical opinion, that you're making a big mistake. And it's going in my chart.",
-      "characters": [
-        "Elaine",
-        "Kruger",
-        "Rabbi",
+        "Bania",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Anyway, I think it would be great to get away after all this.",
+      "quote": "Hey, Tim. Quick question. Is it normal for your teeth to make noises, like a hissing or a chirping?",
       "characters": [
-        "Elaine",
+        "George",
+        "Kramer",
+        "Bookman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you talking about, that's seventy-five bucks! I'm not working, I can't afford that.",
+      "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "Audrey"
+        "Elaine"
       ],
-      "correctAnswer": "Audrey"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I've never heard of anything like this. I mean, it's almost as if I was hitch-hiking and she says \"Well, this is as far as I can take you.\"",
+      "quote": "So how about that guy wearing sweat pants? I mean did he do that for the part or does he walk around like that?",
+      "characters": [
+        "Jerry",
+        "Melissa",
+        "Kramer",
+        "Beth"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "So, get this: Mister Peterman is finally letting me do some real writing. He's got this book deal, for his autobiography. He's gonna let me ghost write it.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Lippman",
+        "George",
+        "Kramer",
         "Newman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Jerry,  aaya - what are you doin' tomorrow? I want you to come by the set.",
+      "quote": "That's right I don't like , I never like her from the get-go.",
       "characters": [
+        "Kramer",
+        "Jerry",
         "George",
-        "Elaine",
-        "Enzo",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "We can exchange keys so we can come in and out. Oh, this is going to be great!",
+      "quote": "Almost. Couldn't get the girl go out with me the second time.",
       "characters": [
         "George",
+        "Newman",
         "Kramer",
-        "Jerry",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'd go, but Long Island, it's so far out, it smacks of desperation.  The whole party, everyone's gonna be saying to me, \"You came all the way out from Manhattan for this?\"",
-      "characters": [
-        "Jerry",
-        "George",
-        "Steinbrenner",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

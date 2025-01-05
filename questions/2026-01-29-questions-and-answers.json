@@ -1,106 +1,106 @@
 {
-  "gameNumber": 391,
+  "gameNumber": 392,
   "date": "2026-01-29",
   "questions": [
     {
-      "quote": "I'm glad I cut you off, because black Saab rules! So long, jackass!",
+      "quote": "Alright. I'm ready.  You know, I still don't understand - why do you want to move back in with your parents?",
       "characters": [
-        "Kramer",
         "George",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It was in the back of the room on the left, she must have been sitting right in front of it.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Hoyt",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You mean, you didn't know you were doing any of these things?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Salesman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no. That's from, uh, Star Trek III... The Search for Spock.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Salesman",
-        "Father"
+        "Rula",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It doesn't matter, it doesn't matter, it doesn't matter. Um. Oh, here's one: race.",
+      "quote": "Well, that's because you don't know how to follow through correctly.",
       "characters": [
-        "Kramer",
         "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "George",
+        "Jerry",
+        "Carrie",
         "Kramer"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's cold out, and I didn't bring my own. Jerry! God forbid I should borrow one from Holly. It might have belonged to grandma Memma. Thanks for mutton.",
+      "quote": "Oh, right!  Right! Hey, hey.. I love the floors in here. It's like a gymnasium in here! Try and guard me! (Dribbles an imaginary ball",
       "characters": [
-        "Kramer",
-        "Estelle",
-        "Gary",
+        "George",
+        "Jerry",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What d'you think is the matter? I've been assigned to work on Kramer's coffee table book.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Ron",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Mr Har-harwood. Well, what an unexpected surprise to have you back at the Alex Theatre.",
+      "quote": "She wants to keep it quiet. She... thinks we have a real future together.",
       "characters": [
-        "Elaine",
         "George",
-        "Jerry",
-        "Kramer"
+        "Kramer",
+        "Gary",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, George brought home movies of his boyhood trip to Michigan.",
+      "quote": "Well this is it. The food is atrocious, but the busboys are the best in the city.",
       "characters": [
-        "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
+        "Estelle",
+        "Leo",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's better than eating it alone in the restaurant, like some loser.",
+      "quote": "All right. So, he caught me in a cleavage peek, so big deal. Who wouldn't look at his daughter's cleavage? She's got nice cleavage.",
       "characters": [
-        "Ron",
+        "George",
+        "Morty",
+        "Vanessa",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "..except that the dude plays the showroom and I'm stuck doing food and beveridged!",
+      "characters": [
+        "Morty",
         "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why Rachel had to drive back with Michael and Carol.",
+      "characters": [
         "Jerry",
+        "Kramer",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who is more important to you, her or me? I like you, she doesn't. Who are you gonna pick?",
+      "characters": [
+        "Karen",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Karen"
     }
   ]
 }

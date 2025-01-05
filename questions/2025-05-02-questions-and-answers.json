@@ -1,106 +1,106 @@
 {
-  "gameNumber": 119,
+  "gameNumber": 120,
   "date": "2025-05-02",
   "questions": [
     {
-      "quote": "C'mon. Wilkinson's got millions invested in this stock. It's gone up three points since I've been watching it.",
+      "quote": "You buy a jar of Folger's Crystals, you put it in the cupboard, you forget about it. Then later on when you need it, it's there. It lasts forever. It's freeze-dried. Freeze-dried Crystals.",
       "characters": [
+        "Bookman",
         "George",
         "Jerry",
-        "Kramer",
-        "Elaine"
+        "Wyck"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Bookman"
     },
     {
-      "quote": "I don't know, but I gotta do this more often.   Ooh, there's my ride, finally.",
+      "quote": "Here is latest draft. I see you next week. Same time, same day.  On time please.",
       "characters": [
-        "Steve",
-        "Newman",
+        "Testikov",
+        "George",
+        "Ramon",
+        "Jerry"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "Actually, I'm gonna need someone to look after him tomorrow evening.",
+      "characters": [
+        "Marla",
         "Jerry",
+        "Bania",
+        "Vivian"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": ". Hi this is Bob from the Andover Shop. I'm trying to reach Craig Stewart. He left this number.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Oh! euh.. Yeah We just can't go to the supermarket to get some candy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Steve"
-    },
-    {
-      "quote": "One of your guys - Kip, or Ned, short name - stole my Twix candy bar!",
-      "characters": [
-        "Newman",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "\"You know, I've never heard anyone talk the way you do. It's very unusual.\"",
-      "characters": [
-        "Michael",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well you know there is an unusual number of people in this country having sex with AMPUTEES!  . . . Penthouse forum, newspaper, gum, Clark Bar.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "She's playing a recital this week at the McBierney School. You wanna hear her play? I got two extra tickets, you and Elaine could go...",
-      "characters": [
-        "George",
-        "Susan",
-        "John",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, listen, I've changed my mind about this whole thing. I don't want cable.",
+      "quote": "Yeah! Yeah!..Staten Island . What about my clothes ,how do I get the rest of the clothes?",
       "characters": [
         "Jerry",
         "Kramer",
+        "George",
+        "Sara"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aw, c'mon Kramer, this is ridiculous. I'm not gonna put these on.",
+      "characters": [
+        "Jerry",
         "Elaine",
-        "Margaret"
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "you know, just by conversing, you can really learn a lot about a person.",
+      "quote": "Well, yeah, I did, but she's a tough nut. How d'ya like the tuxedo. It's a rental but I've had it for fifteen years. All right, eh.",
       "characters": [
         "Elaine",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, nothing. How could you not give a thank you wave? Hey buddy! Where's my thank you wave?",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Newman",
-        "Frank"
+        "Babu",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Elaine! Where's Susie? I want her to head up our new Fingerless Glove Division.",
+      "quote": "Hey, I'm under fire here.  I'm under heavy fire here, boy.  Jeez! That was a five-iron!",
       "characters": [
         "George",
         "Kramer",
-        "Wendy",
-        "Peterman"
+        "Poppie",
+        "Helen"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Which audition, the music video, the horror movie, the exercise tape or the infomercial?",
+      "characters": [
+        "Jerry",
+        "Receptionist",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Receptionist"
     }
   ]
 }

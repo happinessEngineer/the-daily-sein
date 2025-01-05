@@ -1,106 +1,106 @@
 {
-  "gameNumber": 850,
+  "gameNumber": 851,
   "date": "2027-05-03",
   "questions": [
     {
-      "quote": "I'll tell you what's up. My stepmother is violently ill, so I hit the button for poison control and I get you!",
-      "characters": [
-        "Jerry",
-        "Receptionist",
-        "Waitress",
-        "Valerie"
-      ],
-      "correctAnswer": "Valerie"
-    },
-    {
-      "quote": "Oh you may stray, but you'll always return to your dark master, the cocoa bean.",
+      "quote": "I was supposed to pick up Newman at the zoo twelve hours ago.",
       "characters": [
         "Kramer",
-        "Harold",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It's probably so the woman has one last chance to change her mind.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, if you were blind, what do you think the worst part of it would be?",
-      "characters": [
         "Jerry",
-        "Nurse",
-        "Deena",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I think I'd really like to be a city planner.  Why limit myself to just one building, when I can design a whole city?",
-      "characters": [
-        "Rachel",
-        "Steinbrenner",
-        "Steven",
-        "George"
-      ],
-      "correctAnswer": "Steven"
-    },
-    {
-      "quote": "Never mind, never mind. I need you to do me a favour. Uhm, remember what we were talking about at the coffee shop earlier?",
-      "characters": [
         "George",
-        "Kramer",
-        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "...shell. And fondled his muscled heart. He embibed her glistening spell...just before the other shoe...fell.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Receptionist",
-        "Jerry"
-      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What about the woman who's been drugged and taken advantage of?",
+      "quote": "Hoh, here he is. This is the man I wanted you to see. Izzy Mandelbaum. He's eighty years old, but strong as an ox.  Watch this.",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Helen",
         "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Ah, just a couple of gals out on the town, shopping and gabbing.",
+      "characters": [
+        "Kramer",
+        "Russell",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Right. Yeah. [fearing the answer] Could I have a small popcorn?",
+      "characters": [
+        "Jerry",
+        "Driver",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Because she's not returning it until she gets the money back for the hospital bill.",
+      "quote": "But first, we're talking with, Jerry.  Okay, Jerry, uh, you uh, you drugged a woman in order to play with her toy, collection. How do you feel about that?",
       "characters": [
-        "Morty",
-        "George",
         "Elaine",
+        "Kramer",
+        "Frank",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, you're not gonna get caught. Look, let me get him. Man, it's the nineties, it's Hammer time! Come on, just let me get him.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Pretty impressive--\"Serious boyfriend '92 to '95.\" Owns her own car.. \"Favorite president: James Polk!\"",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well we're sitting here together. Why wouldn't you think that.",
+      "quote": "Oh, come on! What am I gonna do? She's going to eat me alive.",
       "characters": [
-        "Gavin",
-        "Elaine",
-        "Nikki",
+        "Kramer",
+        "George",
+        "Shelly",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay. you sit here. Now I need the baby. Bring me the baby. I need the baby!",
+      "characters": [
+        "Mohel",
+        "Puddy",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "It's like watchin' a couple of hyenas goin' through the garbage.",
+      "characters": [
+        "Sid",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Sid"
     }
   ]
 }

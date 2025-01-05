@@ -1,106 +1,106 @@
 {
-  "gameNumber": 917,
+  "gameNumber": 918,
   "date": "2027-07-09",
   "questions": [
     {
-      "quote": "George's girlfriend, Elaine thinks she looks like me but I think it's as you would say,kookie talk.",
+      "quote": "If only you could put your mind to something worthwhile. You're like Lex Luthor.",
       "characters": [
+        "Kramer",
+        "Mary",
         "Jerry",
-        "Peterman",
-        "George",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh no no, Mr. Pitt, you mustn't. You have to check with the pharmacy before you combine anything with your heart medicine,",
-      "characters": [
-        "Elaine",
-        "George",
-        "Sheila",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I mean if one of your close friends had a baby and I left you a message about it, I would use an exclamation point.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It's not my fault! I wasn't going to do anything until you got her all juiced up with your story about having the affair with the matador!",
+      "quote": "Oh, I got stamped at the reggae lounge last night. Yeah, I'm going back there tonight, you know, I'm not gonna pay another cover charge.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Elaine",
+        "Mickey",
         "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What is this. It's like you're selling movie tickets back here.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sophie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I am under direct orders from Mr Wilhelm. So if you have a problem with that, maybe you should just take it up with him.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Gino"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "…See, Steinbrenner is like the first guy in, at the crack of dawn.  He sees my car, he figures I'm the first guy in…",
+      "quote": "Hey, you know what's weird? I think I had a dream about you last night.",
       "characters": [
-        "Jerry",
+        "Greg",
         "George",
-        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "Hey Deena, come on, give us a hug.  Oh my gosh, you look as pretty as you did back in high school.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Morty",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I told her we'd all go out afterwards, okay? And don't applaud when she stops playing the first time. It's not over yet.",
+      "quote": "Yeah. She should be commending me for treating everyone like equals.",
       "characters": [
-        "Jerry",
-        "George",
-        "Aaron",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Why don't we get them a couch?  We'll rent a U-haul -- we'll bring 'em a nice sectional.",
-      "characters": [
-        "George",
-        "Guy",
-        "Maura",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I love that bathroom. It's got that high, high toilet. I feel like a gargoyle perched on the ledge of a building.",
-      "characters": [
-        "Deena",
-        "Kramer",
+        "Audrey",
+        "Sophie",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, no, no...condoms are for single men. The day that we got engaged, I said goodbye to the condom forever.",
-      "characters": [
-        "Elaine",
-        "Michael",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know. But I'd like to try that earpiece on, see if it's real.",
+      "quote": "All right, why don't you just take a good, hard look at what your life will be like if I'm not around?",
       "characters": [
         "George",
+        "Elaine",
+        "Attendant",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let me ask you ; Had she been exposed to any kind of inexpensive glue?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Poppy told me to talk to his cousin, he lives down in Little Italy.",
+      "characters": [
         "Jerry",
         "Elaine",
-        "Kate"
+        "George",
+        "Newman"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

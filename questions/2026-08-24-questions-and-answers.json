@@ -1,106 +1,106 @@
 {
-  "gameNumber": 598,
+  "gameNumber": 599,
   "date": "2026-08-24",
   "questions": [
     {
-      "quote": "You're not a doctor. You shouldn't even have books like this.",
+      "quote": "Oh, Mrs Hamilton, this is a very bad time. I've got Valerie on the other line. Just a second.",
       "characters": [
-        "Kramer",
+        "Tim",
         "George",
-        "Marcy",
+        "Raymond",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, you can be young and bitter, just maybe not as bitter as I'm gonna be ten years from now, but I'm bitter. Anyway, don't tell anyone.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jack",
-        "Cynthia"
-      ],
-      "correctAnswer": "Cynthia"
-    },
-    {
-      "quote": "Not impolite...it's stupid, that's what it is. You gotta be stupid to do something like that!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Well, I'll tell you what I'll do, you know. If you wanna do it out of town...okay. But not in the city.",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Elaine",
-        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I like that! Hey look, will you do me a favor? Will you take my quilt into the cleaners for me, so I can get the discount too?",
+      "quote": "Jerry? I have to tell you something. This is the dullest moment I've ever experienced.",
       "characters": [
+        "Elaine",
+        "George",
         "Kramer",
+        "Harold"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight.",
+      "characters": [
         "George",
         "Jerry",
-        "Elaine"
+        "Kramer",
+        "Carrie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm afraid so. And that's just the tip of the iceberg. I've been asking around - they didn't even have any kids.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It'll have to be a night job anyway. You don't normally work after dinner, do you?",
+      "quote": "Yes, your secretary faxed me the copy. Would you like to look it over?",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Julie",
         "Elaine",
-        "George"
+        "Eva"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Eva"
     },
     {
-      "quote": "What, do you think they just crack their knuckles and come out?",
+      "quote": "\"Do not bend\".  Just crease, crumple, cram.. you'll do fine.  Hello?.. This is he. I don't understand.. very well.",
       "characters": [
+        "Tv",
         "Jerry",
         "George",
-        "Jackie",
-        "Diane"
+        "Newman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "No. Just chitchat, movies, current events, regular stuff. You know Sandi--",
+      "quote": "So I think we should just forget the whole deal, and go back to being friends.",
       "characters": [
         "George",
+        "Estelle",
         "Jerry",
-        "Bruce",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "There is no coma etiquette. You see that's the beauty of the coma, man. It doesn't matter what you do around it.",
+      "quote": "... Uh, go ahead, yeah.  Alright uh... Yeah, yeah, okay... I look forward to it too.  Eh, hah, okay. So long.",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "George",
         "Kramer",
-        "Betsy",
-        "George"
+        "Ken"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, uh equivalency. A high school equivalency program graduate.  He's uh, self-employed. He's... I don't know, six foot three, 190 pounds, he likes, uh... fruit, and he just got uh, a haircut.",
+      "quote": "Oh beautiful! Look at that, the dream space right in front of Jerry's building. Huh? Dreams can come true, what did I tell you?",
       "characters": [
-        "Elaine",
         "George",
-        "Man",
+        "Kramer",
+        "Maryedith",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We don't have any feta. How about cottage cheese and Egg Beaters?",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Helen"
     }
   ]
 }

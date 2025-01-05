@@ -1,106 +1,106 @@
 {
-  "gameNumber": 729,
+  "gameNumber": 730,
   "date": "2027-01-02",
   "questions": [
     {
-      "quote": "Move it in. Move in everybody. Get your shrimp here. Shrimp on special today!",
-      "characters": [
-        "Kramer",
-        "Steinbrenner",
-        "Bette",
-        "Jerry"
-      ],
-      "correctAnswer": "Bette"
-    },
-    {
-      "quote": "Yes! I mean, if she thinks that's me she's under a complete misapprehension. That was not me, Jerry. That was not me.",
+      "quote": "Wait a minute Jerry, there's a bigger issue here. If you go through that wall and become one of those guys I'll be left here on this side. Take me with you.",
       "characters": [
         "George",
+        "Puddy",
         "Jerry",
-        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Like an animal. Because of her, I have to sit here like an animal! Serenity now! Serenity now!",
+      "quote": "Well, what was I supposed to do? Get out of the shower, put on my bathrobe? Go all the way down to the other end? Come all the way back?",
       "characters": [
-        "Frank",
+        "Susan",
+        "Elaine",
         "George",
-        "Gavin",
-        "Jerry"
+        "Helena"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I don't know, my bathing suit? That's a little familiar, I don't want your...your boys down there.",
+      "quote": "There's girls everywhere.  I go out of my apartment, there's girls in the elevator.  They're in cafeterias, subways, so what?",
       "characters": [
+        "Jane",
+        "Elaine",
         "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well now it's not gonna be original! It's gonna lose all its cachet!",
+      "quote": "His phone's been disconnected, but I was able to obtain an address - 1324 Amsterdam Avenue, apartment 4D.  Now, I did my job.  May I have the car keys, please?",
       "characters": [
-        "Man",
-        "Kramer",
+        "Frank",
+        "Elaine",
         "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah, I'm alright. Oh, by the way, the car hit a pothole and now it's making a clanking noise.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No Don't get the camera , we don't need the camera. Listen I know your skeptical , but I really believe in the Chinese.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What is this? Did you ever get the feeling like you've had a haircut but you didn't have one? I'm all itchy back here.",
+      "quote": "I know. The only way to fix it now, is to get a whole new photo of Kruger.",
       "characters": [
         "Jerry",
         "George",
-        "Kramer",
-        "Frank"
+        "Gino",
+        "Bania"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "She's like a district attorney. If it's not the truth, I'll break under the cross. I actually have to do it.",
+      "quote": "No, car accident. He was trying to adjust his toupee while he was driving and he lost control of the car.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you find it odd that as soon as he leaves, the couch gets stolen? Maybe he's setting me up!",
       "characters": [
         "Elaine",
-        "Morgan",
+        "Jack",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.",
+      "quote": "Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!",
       "characters": [
-        "Jerry",
-        "Doctor",
-        "All",
-        "George"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "I know what you were trying to do. Nobody does it better than me.",
-      "characters": [
-        "George",
+        "Milos",
         "Elaine",
-        "Kramer",
-        "Vandelay"
+        "Jerry",
+        "Frank"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, it's from China. Go ahead, try a piece. Tell me that's not the most delicious gum you've ever tasted.",
-      "characters": [
-        "Lloyd",
-        "George",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Lloyd"
+      "correctAnswer": "Frank"
     }
   ]
 }

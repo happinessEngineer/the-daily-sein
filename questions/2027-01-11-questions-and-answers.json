@@ -1,106 +1,106 @@
 {
-  "gameNumber": 738,
+  "gameNumber": 739,
   "date": "2027-01-11",
   "questions": [
     {
-      "quote": "Because when you join that team it's not a whim. He likes his team. He's set with that team.",
+      "quote": "Did I tell you I ran into her last week? Ho-ho, she looked great.",
       "characters": [
-        "Elaine",
-        "Robin",
         "George",
+        "Susan",
+        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really John Mollika, they guy that used to bartend at the Comedy Club. How's he doing?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Bania"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I didn't catch his name, but then he went running into the park.",
+      "quote": "Never been a big fan. [coughing] Um..you know what? Has anyone ever told you you look exactly like Al Pacino? You know, \" Scent Of A Woman.\" Who-ah! Who-ah!",
       "characters": [
-        "George",
         "Elaine",
         "Kramer",
-        "Peterman"
+        "George",
+        "Janet"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"Hey! Hey! Watch it.!... You're drooling all over the floor. How much Novocaine did that guy give you.\"",
+      "quote": "Wait a second. Wait a second. You're right. I had both of them.",
       "characters": [
         "George",
-        "Kramer",
+        "Wyck",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Inka-dink, a bottle of ink, the cork fell out, and you stink.",
+      "quote": "Let me ask you something. When's the last time you went skiing?",
       "characters": [
-        "Jerry",
+        "Peterman",
         "Kramer",
-        "Doctor",
-        "Morty"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nah, nah, it's uh, it's a long story. Just uh, try to get it up.",
+      "quote": "Oh, I had it perfectly timed out: the Grand Central, the Van Wyck! You destroyed my whole timing!",
       "characters": [
-        "Celia",
-        "Eddie",
+        "Kramer",
         "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No! Jerry!  Cable boy, cable boy.. What have you done to my little cable boy?..",
+      "quote": "Excellent.  So, did you buy that electric toothbrush I was telling you about?",
       "characters": [
+        "George",
         "Kramer",
-        "Gary",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, I was sitting at the reception desk, I was looking pretty hot. I was wearing my sling back pumps.",
+      "quote": "He wants to meet you? I'll tell you what. I'll show up. He doesn't know we're friends. I'll pretend I haven't seen you since High School. I'll back up the story.",
       "characters": [
+        "George",
+        "Jerry",
         "Elaine",
-        "Morty",
-        "Kramer",
-        "George"
+        "Gino"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well, he nods. And I think he understands me, he seems to enjoy it when I read to him.",
+      "quote": "Hi mom. So, what's happening with uncle Leo? Is he paying you?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, do you think they just crack their knuckles and come out?",
       "characters": [
         "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No I didn't. I said \"sweep\". Let's sweep together, you know with a broom. Cleaning up.",
-      "characters": [
-        "Doctor",
-        "Gwen",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Gwen"
-    },
-    {
-      "quote": "Tonight I want you to sleep on this. Toughens the vertebrae.  What in holy hell? Sausages? Is this your diet?",
-      "characters": [
-        "Keith",
-        "Man",
         "Kramer",
-        "Izzy"
+        "George",
+        "Newman"
       ],
-      "correctAnswer": "Izzy"
+      "correctAnswer": "Jerry"
     }
   ]
 }

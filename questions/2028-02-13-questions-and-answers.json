@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1136,
+  "gameNumber": 1137,
   "date": "2028-02-13",
   "questions": [
     {
-      "quote": "I mean we can put a man on the moon but we're still basically very stupid. The guy who's car this is? He could be one of the guys that built the rocket. You see what I'm saying?",
+      "quote": "Oh, I am sorry.  I'm supposed to meet my boyfriend here. He looks just like you.",
       "characters": [
+        "Elaine",
         "George",
         "Jerry",
-        "Elaine",
-        "Maestro"
+        "Danielle"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "That's the Commando 450, I don't sell that one. What about thi-",
+      "characters": [
+        "George",
+        "Morgan",
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Well, that's great.  And, uh, I'll be very interested to hear the diagnosis.",
+      "characters": [
+        "Cop",
+        "Lloyd",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Well you know, if you were sitting right next to her you'd have to console her no matter what.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, after talking to you, we realised we may not have much time left.",
+      "quote": "Yeah, well, ah, I'll tell you, uh Regis... actually, this is a true story. I umm I was skiing at the time.",
       "characters": [
-        "Jerry",
+        "Saleswoman",
         "Kramer",
-        "Estelle",
-        "Elaine"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "The woman's movement just can't seem to make any progress in the world of bribery, can they?",
+      "quote": "You know what I mean - pork, sausage,  A-deek-a-deek-a- deek th-th-th-that's all folks.",
       "characters": [
-        "Heather",
+        "Jerry",
+        "Elaine",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "yeah without a doubt, I'm down  oh hey how're you doing? Jane this is my neighbor Kramer",
+      "characters": [
         "Kramer",
         "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm afraid I'm just not interested in how I present myself. If those kind of superficialities are important to you, this probably isn't gonna work.",
+      "quote": "I'm going to surprise Joey, I?ve never been to his apartment so I?m just going to 'pop in'",
       "characters": [
-        "George",
-        "Puddy",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, what if I got my, nose pierced? That would be pretty freaky.. Oooohhhhaaa!",
-      "characters": [
-        "Elaine",
+        "Marcy",
         "Jerry",
-        "George",
-        "Milos"
+        "Elaine",
+        "Newman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Office Christmas gift. I tell you, this Human Fund is a gold mine!",
+      "quote": "Oh, you're not gonna cop a girl's phone number off an AIDS charity list!",
       "characters": [
-        "George",
-        "Elaine",
         "Jerry",
-        "Lippman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah.  Hey, look at this. 'Pinter Ranawat'.. I wonder if he's related to that guy I dated, Peter Ranawat..",
-      "characters": [
-        "Newman",
+        "Jackie",
         "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, still her father didn't have to throw me out like that, he could have just asked me to leave. The guy had me in a headlock! Susan's not going tonight you know.",
-      "characters": [
-        "Maestro",
-        "Elaine",
-        "Ramon",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Really.  Hey, you know what? Maybe I could talk about that on the show.",
+      "quote": "Why, because I threw the card out? How long was I supposed to save it?",
       "characters": [
-        "Jerry",
-        "George",
-        "Peterman",
-        "Elaine"
+        "Elaine",
+        "Wyck",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Y'know my cousin knows the producer. I may get to go backstage and meet Olympia Dukakis.",
-      "characters": [
-        "George",
-        "Woman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Woman"
     }
   ]
 }

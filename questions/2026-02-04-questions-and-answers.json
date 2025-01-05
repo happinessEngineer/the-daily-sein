@@ -1,106 +1,106 @@
 {
-  "gameNumber": 397,
+  "gameNumber": 398,
   "date": "2026-02-04",
   "questions": [
     {
-      "quote": "Oh, what do you know, you have no breast touching experience.",
+      "quote": "I can't believe that you're doing all this just to sell some stupid raincoats.",
       "characters": [
-        "Ellen",
-        "Jerry",
-        "Izzy",
-        "Elaine"
+        "George",
+        "Kramer",
+        "Helen",
+        "James"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Helen"
     },
     {
-      "quote": "No, it's uh, not that see,. It's about a little boy in a hospital. I was wondering if you could do something to lift his spirits.",
+      "quote": "Yeah, I washed, just not the hand. You wouldn't believe the women at this club. Ohh, man.",
       "characters": [
-        "Elaine",
+        "Daphne",
+        "George",
         "Kramer",
-        "Rebecca",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That is so old. Why don't you show up at her door in a wood horse?",
+      "quote": "Oh Elaine, that's so good to hear. I've been having a few health problems lately.",
       "characters": [
-        "Peterman",
-        "George",
+        "Vivian",
         "Kramer",
-        "Jerry"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Vivian"
     },
     {
-      "quote": "It is a horrible company. There's no management what so ever. I could go hog wild in there.",
+      "quote": "Well, I'll tell you this, though - I am never doing.. that , again.",
       "characters": [
-        "Jerry",
-        "George",
+        "Elaine",
+        "Kramer",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Diabolical. He thought of everything. He was setting me up from day one!",
+      "characters": [
         "Dana",
-        "Elaine"
+        "George",
+        "Jerry",
+        "Patrice"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, unless I pull down on this statuette and a hidden wall opens up, we have checked every square inch of this apartment!",
+      "quote": "Ohhh Jerry.  They're priceless. They've never been played with.",
       "characters": [
+        "Celia",
+        "Frank",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "The only way I could talk him out of it was that I agreed to go and visit the Tunisian desert.",
+      "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, it's not the size of the opponent, Elaine, it's, uh, the ferocity.",
+      "quote": "Boy I had a helluva time finding that air-conditioner. I looked everywhere. I completely forgot where I hid it. You know where it was?",
       "characters": [
-        "Joe",
         "Kramer",
         "George",
-        "Elaine"
+        "Nurse",
+        "Bobby"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Let me call him back... Hello? Who is this? Donna Chang? Oh, I'm sorry, I must o' dialed the wrong number.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know this is not the first time this has happened to me. I always carry water because of my condition. It dehydrates me. It's a vicious cycle.",
+      "quote": "Pre-prediction. You'll be calling me to ask if you can come and visit him before the month is out.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "Helen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, well, lemme know when you get something in there and I will.",
-      "characters": [
-        "Jerry",
+        "Steinbrenner",
         "Newman",
-        "Valerie",
+        "Gavin"
+      ],
+      "correctAnswer": "Gavin"
+    },
+    {
+      "quote": "So, what do you think? Your old man can look pretty good when he wants to, huh?",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well... what do we have here? Perhaps Miss Benes could explain why a Jerry Seinfeld signed for this package  at the exact same time the couch was stolen.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Doorman"
-      ],
-      "correctAnswer": "Doorman"
+      "correctAnswer": "Frank"
     }
   ]
 }

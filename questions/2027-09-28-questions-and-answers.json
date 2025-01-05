@@ -1,106 +1,106 @@
 {
-  "gameNumber": 998,
+  "gameNumber": 999,
   "date": "2027-09-28",
   "questions": [
     {
-      "quote": "Oh, hi. I-I'm Jerry Seinfeld. I'm movin' in. I saw your name on the buzzer - You must be Kessler.",
+      "quote": "What are you talking about? That marriage ended six months ago. She's already remarried.",
       "characters": [
+        "Morty",
+        "Puddy",
         "Jerry",
-        "George",
-        "Newman",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, Mrs Allister.  Yeah, uh, just coming Mrs Allister.  Okay, I've gotta get out.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Corinne"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, I don't think we should tell George we saw Jane topless.",
+      "quote": "And then assuming the strike is resolved, on April 14th, we, ah, play the Angels. So let's clear a floor at the Anaheim Hotel.",
       "characters": [
-        "Enzo",
-        "Aaron",
+        "George",
+        "Steve",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's no good. He wouldn't last ten minutes in there. Anyway what can I do, I promised I'd go visit him tomorrow.  It's his birthday. I can't go to the cabin.",
+      "characters": [
+        "Kramer",
+        "Beth",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hello. George, come in. Come in I've heard an awful lot about you. Please sit down.",
+      "quote": "\"...'cause that's what you need to do to prove I'm not going to leave you. I'm sick and tired of running from places and people and relationships. You want me, that fight for me, becau-\"",
       "characters": [
-        "Dana",
-        "Jerry",
         "George",
+        "Jerry",
+        "Frank",
         "Elaine"
       ],
-      "correctAnswer": "Dana"
-    },
-    {
-      "quote": "That's not the test. Contact is the test, if it moves, as a result of contact.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Bob",
-        "George"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I think yes, yes. You like the idea of telling people you're driving Jon Voight's car.",
+      "quote": "Yeah. Now I can break up with him. He's clean, and I'm the office hero.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Lippman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"Hey, by the way, did you ever call that guy from the health club.?\"",
-      "characters": [
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
+        "Leo",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.",
+      "quote": "I cancelled. Hal sent a mattress to my apartment. The nerve of that guy.",
       "characters": [
-        "Stan",
         "George",
+        "Jerry",
+        "Elaine",
+        "Jodi"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well so what. I mean you played first base. I mean they always put the worst player on first base. That's were they put me and I stunk.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Voice",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What?  Wh... what're you talking about? I'm not the one with the problem.  Lloyd Braun was in the nuthouse, not me.",
+      "characters": [
+        "George",
+        "Jack",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, I think you'll find out soon enough.  Aren't you going to get that?",
+      "quote": "Well, as I say, the pink-eye made my vision...quite blurry...",
       "characters": [
-        "Kramer",
-        "Bob",
-        "Sidra",
+        "Jerry",
+        "George",
+        "Sid",
         "Elaine"
       ],
-      "correctAnswer": "Sidra"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Alright, are we ready? Come on, let's get this show on the road.",
+      "quote": "George, of course, of course it can wait until march if that is what you want.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Keith",
-        "Tim"
+        "Detective",
+        "George",
+        "Susan"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Susan"
     }
   ]
 }

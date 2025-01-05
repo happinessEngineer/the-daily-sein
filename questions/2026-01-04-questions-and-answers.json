@@ -1,106 +1,106 @@
 {
-  "gameNumber": 366,
+  "gameNumber": 367,
   "date": "2026-01-04",
   "questions": [
     {
-      "quote": "I worked a club in Dallas one time and they couldn't afford to pay me so they gave me these. Oh, I can't wear these!  They look ridiculous!",
+      "quote": "No!  Hey! Hey! I see you! That is my Twix!  Oh, ha, ha! Ho, ho!",
       "characters": [
-        "Wyck",
+        "Michael",
+        "Elaine",
         "George",
-        "Kramer",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohhhh, what are you doing? Kramer, it's a tape! I taped the game, it's one o'clock in the morning! I avoided human contact all night to watch this.",
+      "characters": [
+        "Newman",
+        "Clerk",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, they go off for the ride, by the time they come back the bread is there.",
+      "quote": "No. I like the ball! This is my One Chance to make a Great Entrance! My whole life! I have never made a great entrance!",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Milos"
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh well, that's, uh, thatís just because we're, uh, standing on opposite sides.",
+      "quote": "Listen, I heard that Lassie #3 is buried around here. I'm gonna go check it out.",
       "characters": [
+        "Elaine",
         "Jerry",
         "George",
-        "Elaine",
-        "Rula"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't understand this. Why wouldn't you want to get something that's better if I'm telling you it's better? And it's not a little better - it's much better.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Pitt",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You'll get your tape. But here's what I'm gonna need. I'm gonna need three cameras, two on the floor, one in the balcony. And I want headsets for the guys runnin' 'em. I wanna be able to talk to 'em.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I was just watching them film yesterday and some guy just asked me.",
-      "characters": [
-        "Jerry",
-        "Jake",
-        "Kramer",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Aw! Aw! Oh my back! Oh my back! It's that bar. Who the hell could sleep on that thing?",
+      "quote": "So these people can go back home and tell their friends they saw a real New York mugging. It'll give them a thrill.",
       "characters": [
-        "George",
-        "Jerry",
-        "Morty",
+        "Karen",
+        "Kramer",
+        "Peterman",
         "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I have no power Do you understand? I need hand. I have no hand.",
+      "quote": "Ah, yes. Well this certainly looks like a lot of words. In record time. I'm very impressed ... with both of you.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Come on.. Come on. Yes!  There's one!  I wish I don't drop dead!!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Joel"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where are they already? I don't see them anywhere... I got my bags, I'm ready to go.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay next bachelor is number, um 124 on your program. He's uh, he's a high school graduate.",
       "characters": [
         "Newman",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah!  How 'bout this? How about, he's thinking of quitting the exporting, and just focussing in on the importing. And this is causing a problem, because, why not do both?",
-      "characters": [
-        "Kramer",
-        "Morgan",
         "Elaine",
-        "Jerry"
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hmmm,..to tell you the truth they haven't manufactured that one for a number of years. I might have couple of boxes left in our warehouse in New Jersey. I'd have to check.",
+      "quote": "Yeah, I gotta tell Jerry we're here. I gotta go to the bathroom.",
       "characters": [
-        "Clerk",
-        "Elaine",
+        "Waitress",
+        "George",
         "Jerry",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "Elaine"
     }
   ]
 }

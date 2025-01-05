@@ -1,106 +1,106 @@
 {
-  "gameNumber": 281,
+  "gameNumber": 282,
   "date": "2025-10-11",
   "questions": [
     {
-      "quote": "Every word out of my son's mouth now is *beep*, *beep*, *beep*.  You know what he said to me five minutes ago? Where's my *beep*ing cupcake?",
+      "quote": "I think you absolutely have to say something to this guy. Confront him.",
       "characters": [
-        "Kramer",
-        "Frank",
-        "Maryedith",
-        "Corinne"
-      ],
-      "correctAnswer": "Maryedith"
-    },
-    {
-      "quote": "But I saw you push the women and children out of the way in a mad panic! I saw you knock them down! And when you ran out, you left everyone behind!",
-      "characters": [
+        "Jackie",
         "Jerry",
-        "Robin",
-        "George",
-        "Loretta"
-      ],
-      "correctAnswer": "Robin"
-    },
-    {
-      "quote": "Oh I got in, I had to break the window with a rock and then I got my hand all cut up reaching in.",
-      "characters": [
-        "Susan",
-        "Kramer",
-        "Jack",
-        "Newman"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "Oh it's a orgiastic feast for the senses. The want and the festival, the sites, sounds, and colors an mmmummumm mumm",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Gary",
+        "Joe",
         "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I told her I liked her. Why? Why did I tell her I like her? I have this sick compulsion to tell women how I feel. I like you I don't tell you.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, you not gonna go I?m not gonna go, I?m gonna call the whole thing off.",
+      "quote": "I know. You know, whenever I'm on a date I feel people can tell.",
       "characters": [
-        "Nurse",
-        "Jackie",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I am going to Montreal tomorrow and they sell them dirt cheap.",
-      "characters": [
-        "Todd",
-        "Jerry",
-        "George",
-        "Sid"
-      ],
-      "correctAnswer": "Todd"
-    },
-    {
-      "quote": "Yeah.  What makes you think anyone would want to go to a circumcision?",
-      "characters": [
-        "Elaine",
-        "George",
         "Kramer",
+        "Elaine",
+        "Bania",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right. I'll tell you what. If it's going to make you feel any better you can see me naked.",
+      "quote": "Yeah, I told her to call me here and to tell anyone who answers the phone to ask for a balding, stocky man with glasses. I better tell him I'm expecting a call.",
       "characters": [
         "George",
         "Kramer",
-        "Wilhelm",
-        "Elaine"
+        "Steinbrenner",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Every night at six-thirty. The nurse was gorgeous.. then I got a look at the patient..  I was going nuts.",
+      "quote": "If there's any doubt, I do a leave-behind. Keys, gloves, scarf -- I go back to her place to pick it up... date number two.",
       "characters": [
+        "Kramer",
+        "Daphne",
         "Elaine",
-        "Helen",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway it's kind of a fluke thing but uh I'll be leaving for Paris in two days. I will send you a postcard when I get there.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What about you, George? Have you written anything we might know?",
+      "characters": [
+        "Russell",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Oh, I wanted to talk to you--I'm sorry, I--didn't know you...  had company.  Hiya, I'm George.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm not surprised. I really let him have it, Jerry. He has no business being in your audience if you didn't want him there.",
+      "characters": [
+        "George",
+        "Alec",
+        "Kramer",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Why did we invite him? Stupid, stupid. when he asked for a ticket, I should have said no. I'm gonna go chew him out.",
+      "characters": [
+        "Steinbrenner",
+        "Kate",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "I went to podiatry school because I like feet. I chose to work with feet.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
     }
   ]
 }

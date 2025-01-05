@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1092,
+  "gameNumber": 1093,
   "date": "2027-12-31",
   "questions": [
     {
-      "quote": "Yeah, drove away.. You know, I said 'Hello' to him. You know, he's - he's-",
+      "quote": "Of course. Of course it got done. Things get done all the time, I understand.  Don't worry, your job'll be waiting for you when you get back.  Get better George. Get better!",
       "characters": [
-        "George",
-        "Jerry",
-        "Helen",
+        "Steinbrenner",
+        "Tor",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "Alright, then, it's like a boring book, but you gotta finish it.",
+      "quote": "My friend Bob Sacamano had shock treatments. But his synapses were so large, it had no effect.",
       "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Elaine"
+        "Morgan",
+        "Woman",
+        "Peterman",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Love the Label Baby, baby.  You know those things make great gifts, I just got one of those for Tim Whatley for Christmas.",
+      "quote": "You know, I'm starting to get a little nervous about this lunch.",
       "characters": [
-        "Elaine",
-        "Man",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, fine. If you wanna keep talking about it, we'll talk about it.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "Elaine",
-        "Jackie"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "I mean, is he allowed to do this? It's discrimination! I'm gonna call the states' attorney office. I really am.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Toby"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know how easy it is for dead people to travel? It's not like getting on a bus. One second.  It's all mental.",
-      "characters": [
-        "Jerry",
         "George",
         "Elaine",
-        "Peterman"
+        "Kramer",
+        "Hal"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "A crazy clown is after you? Oh that?s rich. Now clear the entrance so people with tickets can get through.",
+      "quote": "Well, I don't know if I lost track of time - or what, but the next think I knew..",
       "characters": [
-        "Usher",
-        "Tor",
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's not as if Susan's pregnant. You've already postponed The wedding. Who knows if you'll ever get married.",
+      "characters": [
+        "Carrie",
+        "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Usher"
+      "correctAnswer": "Carrie"
     },
     {
-      "quote": "I'm sorry Karen. I know I care for you, but I just can't stand when someone doesn't like me.",
+      "quote": "You just  tear it off, and vvvvrrrpppp you got a new one right here. Then you're gone.",
       "characters": [
-        "Kramer",
-        "Susan",
         "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, my friend told me about this great place in Vermont.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at that woman feeding her baby greasy, disgusting, coffee shop corned beef hash. Isn't that child abuse?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Beth",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, yeah, I'm familiar with some of his writing.  Alright,  look, we gotta get back to work. We just had a big breakthrough here.",
+      "characters": [
+        "Anna",
+        "Kramer",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, tell him you're concerned about it and he should see someone else.",
+      "characters": [
+        "Rava",
+        "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, what are you doing?! Watch where you're driving, man!  Don't mess with the Devils, buddy. We're number one, we beat anybody! We're the Devils! The Devils!! Haaaa!!!",
-      "characters": [
-        "Puddy",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "Well what about that number Susan B. Anthony wore to the 19th Amendment party. Hnuh. Eye yye yye.",
-      "characters": [
-        "Lena",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
     }
   ]
 }

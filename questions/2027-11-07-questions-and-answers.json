@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1038,
+  "gameNumber": 1039,
   "date": "2027-11-07",
   "questions": [
     {
-      "quote": "\"Well I'll tell you I'm looking forward to my appointment on Thursday. I might even get there a few minutes early.\"",
+      "quote": "You know, my insurance doesn't cover this? The whole thing is a total loss!",
       "characters": [
+        "Frank",
+        "Gennice",
+        "Carol",
+        "Morty"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Rugged? The man's a goblin. He's only been exposed to smoke for four days. By the time this case gets to trial, he'll be nothing more than a shrunken head.",
+      "characters": [
+        "George",
         "Jerry",
-        "Susan",
-        "Elaine",
+        "Jackie",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jackie"
     },
     {
-      "quote": "Uh, I'm sorry. I'm afraid the worst of it is it's someone you know. Jerry Persheck.",
+      "quote": "Quite a dilemma. You know, I have a bit of a dilemma of my own.",
       "characters": [
         "Elaine",
-        "Daphne",
-        "Farkus",
-        "George"
-      ],
-      "correctAnswer": "Daphne"
-    },
-    {
-      "quote": "Uncomfortable? How does you think I feel?.. Hey let me ask you something, how much did you pay for that ticket?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But I am wearing the ribbon. He is wearing the ribbon. We are all wearing the ribbon! So why aren't you going to wear the ribbon!?",
-      "characters": [
-        "Peterman",
         "George",
-        "Bob",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "Anyway, I called him back... I told him I had to go visit my father in the hospital in Maryland.",
-      "characters": [
-        "Bania",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, everybody would know everybody. It would be like a small town.",
-      "characters": [
-        "Tv",
-        "Keith",
-        "Elaine",
+        "Joel",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh...yeah...uh you've never met my wife, Meryl? Meryl Seinfeld.",
+      "quote": "Well anyway, the, uh... the stone is up, I paid my respects, guess that's it.",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Cindy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What?  Wh... what're you talking about? I'm not the one with the problem.  Lloyd Braun was in the nuthouse, not me.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "George"
+        "Elaine",
+        "Estelle"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Umph, sorry! But the rules clearly state that you cannot clean the ball unless it's on the green. The rules are very clear about that.",
+      "quote": "Bottom of the eighth, score tied at one apiece. Two and one to Paul O'Neill.",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "Rachel",
+        "Tv"
+      ],
+      "correctAnswer": "Tv"
+    },
+    {
+      "quote": "Well, uh..  \"What is this stuff? Why do we need this stuff?.. And why do they make it so small..?\"",
       "characters": [
         "Kramer",
-        "Frank",
-        "Elaine",
-        "Salesman"
+        "George",
+        "Gary",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well I, uh, I'm not sure how you pronounce it or anything, but I, uh, I believe it's Ménage à Trois?",
+      "quote": "Alright, well if you change your mind, we'll wind up as Isabella's probably around seven.",
       "characters": [
-        "George",
         "Jerry",
-        "Kramer",
+        "Russell",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I only went in front first 'cause I could make it in front first and if you pull out I'll show you!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Great, its yours. I can't stand the sight of it. Elaine, here's the car keys.",
+      "characters": [
+        "Jerry",
+        "Marty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, you see, that's terrible. The problem is, that curtain is no security-- there really should be a locking door.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

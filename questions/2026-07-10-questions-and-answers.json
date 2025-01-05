@@ -1,106 +1,106 @@
 {
-  "gameNumber": 553,
+  "gameNumber": 554,
   "date": "2026-07-10",
   "questions": [
     {
-      "quote": "Oh, w-what are you saying? So we're not going to go in there anymore?",
+      "quote": "I don't know. Maybe they gave out fig leaf clumps to all the soldiers.",
       "characters": [
         "Jerry",
-        "George",
+        "Elaine",
         "Kramer",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, Lou.  You've got a lot going for you. You're um ... you're spontaneous. You're, symmetrical. You're, uh, ...  Ehh - you're very quick, aren't ya. Um, It's just that your...",
+      "quote": "Oh well nothing wrong with that. Gotta make those big bucks. . . . money money money money money money money . . . ha ha ha ha ah . . . are you a communist?",
       "characters": [
-        "Elaine",
         "Jerry",
-        "George",
-        "Nikki"
+        "Gennice",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I feel like I got a B12 shot. This is like a taste explosion!",
+      "quote": "I just pray Kruger doesn't realize that it's gone until this guy can fix it up.",
       "characters": [
-        "Kramer",
         "Elaine",
         "Jerry",
-        "George"
+        "George",
+        "Danielle"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, tell me about it. These things have ruined me for Braille.",
+      "quote": "Deh-deh-deh-deh-  All right, show's over. I'm goin' to the beach.",
       "characters": [
-        "Man",
-        "Jerry",
+        "Kramer",
+        "Elaine",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't do it.  Look what they did to my boy, They massacred my boy.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Worker",
         "Kramer"
       ],
-      "correctAnswer": "Man"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "We just bought an apartment on Riverside Drive. Bernard Goetz's mother used to live there.",
+      "quote": "So listen Elaine, when we get up to the door, you , you hold the cake box.",
       "characters": [
-        "George",
-        "Leslie",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Leslie"
-    },
-    {
-      "quote": "Well, Lloyd's a very industrious fellow. I'm sure he can accomplish anything he sets his mind to.",
-      "characters": [
-        "Detective",
-        "Elaine",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "Audrey",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I can't do this! I can't do it. I have tried. I'm here. It's impossible.",
-      "characters": [
-        "Helen",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You don't eat Oreos?  The way you break them open? You're  ~ practically having sex with them.",
-      "characters": [
-        "Kramer",
-        "Ramon",
-        "Tony",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I thought Jerry didn't want that couch, because of the stain?",
-      "characters": [
-        "George",
-        "Peterman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So you're having sex and then all of a sudden, you just blurt out \"I'm giving you a raise.\"",
+      "quote": "The gardener did a nice job planting the rose bushes, didn't he dear?",
       "characters": [
         "Jerry",
         "George",
-        "Kramer",
-        "Morty"
+        "Elaine",
+        "Wilhelm"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Dammit! I got another call. Uh, hang on, don't hang up Jerry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I'm percolating, Jerry. I'm telling you, I have never felt so fertile. I'm mossy, Jerry. My brain is mossy. Listen to this idea.  A restaurant that serves only peanut butter and jelly.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Elaine",
+        "Ellen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, a Curly. The boys played three sailors who find a baby, the baby's been kidnapped and the police think that they did it.",
+      "characters": [
+        "Morty",
+        "Helena",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Helena"
     }
   ]
 }

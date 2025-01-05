@@ -1,29 +1,59 @@
 {
-  "gameNumber": 1063,
+  "gameNumber": 1064,
   "date": "2027-12-02",
   "questions": [
     {
-      "quote": "The type that doesn't return phone calls. I knew we shouldn't have done this, it was a bad idea in the first place, I told you!",
+      "quote": "Well by now, you think people would be a little more open minded.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...When you pierce the skin of a piece of fruit, you've bought the whole fruit. Not a third of an apple, not a half of a banana...",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, so she and \"Triangle Boy\" can go out to fancy restaurants.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, I'm just saying you didn't really go to medical school, you went to podiatry school. Which I'm sure is very grueling in it's own way.",
       "characters": [
         "George",
+        "Elaine",
         "Kramer",
-        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's no watch ... I threw it in the garbage can on the street. It didn't keep good time. My parents gave it to me, but I didn't like it.  So don't mention it again, okay!",
+      "characters": [
+        "Donald",
+        "Kramer",
+        "Phil",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's like watchin' a couple of hyenas goin' through the garbage.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Sid"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "Sure, Beth, these things happen.  So, have you told many.. people yet?",
+      "quote": "First of all, you're not even supposed to have Elaine's keys. You're supposed to give 'em back to her, so she can give 'em back to me, because she has mine. So technically, those are my keys.",
       "characters": [
         "George",
         "Kramer",
@@ -33,74 +63,44 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Kramer, I'm helping my parents move into their new condo. I'm gonna be busy.",
+      "quote": "I don't care. Look, Lloyd doesn't know what he's up against. This is nothing to me.  My whole life is a lie.",
       "characters": [
         "Jerry",
         "George",
-        "Puddy",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, let's uh, change the subject, ah.  Now, uh you and uh, Jerry dated for a while. Tell us ah ... what was that like?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "That's all there is to it. By Christmas day I will be Brother Costanza.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
+        "Kramer",
+        "Puddy"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well I was just trying to be supportive, you know. I knew you were upset.",
+      "quote": "It's a trick I just learned from Kramer. It keeps a crease in the pants.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Boxers! How do you wear these things!! Look at that--they're baggin' up, they're rising in! An' there's nothing holding me in place! I'm flippin'! I'm floppin'!",
-      "characters": [
+        "Jerry",
         "George",
-        "Elaine",
-        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "\"Well ,what happens when you show up . He'll see that you're not.?\"",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Donna"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Maybe it just wanted to change positions? You know, shift to the other side.",
-      "characters": [
-        "Jerry",
-        "Waiter",
-        "Elaine",
-        "Ned"
-      ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm trying to get out of this Big Brother program. So when you get to Paris  all you have to do is drop 'em in any mailbox.",
+      "characters": [
+        "Hal",
+        "Kramer",
+        "George",
+        "Glenn"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, Elaine. The toll road of denial is a long and dangerous one. The price? Your soul. Oh, and by the way, you have til' 5:00 to clear out your desk. You're fired.",
+      "characters": [
+        "Wilhelm",
+        "Peterman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
     }
   ]
 }

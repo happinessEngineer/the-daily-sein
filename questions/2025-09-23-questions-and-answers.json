@@ -1,106 +1,106 @@
 {
-  "gameNumber": 263,
+  "gameNumber": 264,
   "date": "2025-09-23",
   "questions": [
     {
-      "quote": "Yeah, but if you still look closely you can see ah, a little bump where the nose use to be. huhuhuhu.",
+      "quote": "All right, you know she's got that laugh. What did you say? It's like Elmer Fudd sitting on a juicer?",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hmm ah. I'm not going through this every week, I tell you that right now. And what are these? Plums? What is that?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Secretary"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What's wrong? I'll tell you what's wrong. I just committed adultery!",
-      "characters": [
-        "Elaine",
-        "Mike",
         "George",
+        "Lippman",
+        "Jack",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So you're saying, his girl, his car, his clothes, it's all up for grabs. You can just loot the coma victim.",
+      "quote": "Oh, Elaine. My boy's a man today. Can you believe it? He's a man.",
       "characters": [
-        "Newman",
+        "Doctor",
+        "George",
+        "Lippman",
+        "Elaine"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "I know what it means, but what does being a shiksa have to do with it?",
+      "characters": [
+        "George",
         "Kramer",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry asked me to meet his girlfriend here. Did you here about his plane in Ithaca?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Jake"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "So maybe I'll go down there and watch, uh? She'll be there, ,maybe.",
+      "quote": "Why would you take me to a Spanish restaurant because I'm black?",
+      "characters": [
+        "Darryl",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Darryl"
+    },
+    {
+      "quote": "I'll have the porterhouse medium rare, baked potato with sour cream,",
       "characters": [
         "Kramer",
-        "Eddie",
+        "George",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "Alright, look, we're pulling too much weight. He's getting away from us here.  Take the wheel.",
+      "characters": [
+        "Kramer",
+        "Newman",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "3.. I don't know what that is.. where's my damn preview channel?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Cleaver, I once had cleaver as a kid. I was able to lift a car.",
+      "quote": "What is this? Did you ever get the feeling like you've had a haircut but you didn't have one? I'm all itchy back here.",
       "characters": [
         "George",
-        "Newman",
-        "Jerry",
-        "Betsy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "yeah yeah what is it with you and Tony? what are you? it's like his sidekick now?",
-      "characters": [
-        "Wilhelm",
-        "Babu",
-        "George",
+        "Elaine",
+        "Haarwood",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All right, but this is it, this is the last favor, we're even!",
+      "quote": "Now, you know you're supposed to take these things before you get sick?",
       "characters": [
-        "Buckles",
+        "George",
+        "Elaine",
         "Kramer",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uncle Leo? This case is closed pending further evidence. Jerry.",
+      "characters": [
+        "Newman",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you something, if I'd own a company, my employees would love me. They'd have huge pictures of me up on the walls and in their home, like Lenin.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Sharon",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

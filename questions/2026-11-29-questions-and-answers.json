@@ -1,104 +1,104 @@
 {
-  "gameNumber": 695,
+  "gameNumber": 696,
   "date": "2026-11-29",
   "questions": [
     {
-      "quote": "Yeah that's a tough one. What are you going to do about that?",
+      "quote": "Fortunately, I still have George here to help me through this.",
       "characters": [
-        "Doctor",
-        "Karen",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "George",
+        "Estelle",
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Since when do you know how to write? I never saw you write anything.",
+      "quote": "Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.",
       "characters": [
         "Newman",
         "Kramer",
-        "Elaine",
-        "Estelle"
+        "Doctor",
+        "Elaine"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Doctor"
     },
     {
-      "quote": "We waited fifteen minutes for this. Tst - YOU SELL ME A CAKE WITH A HAIR ON IT. Then you want me to wait? . . . What are you doing  you're gonna wait now?",
+      "quote": "Me? No no no, you. You're gonna tell him. I'm not gonna tell- Noo.",
       "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Hanke",
+        "Frank",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Time like what? I'm hungry. My stomach doesn't know that Kramer's wanted.",
+      "quote": "So you want to take a ride with me out to Jersey? I'm gonna try to sell the van to a lot.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This watch, this watch could've paid for their whole trip.  This ring, this ring is one more dinner I could've taken them out to.  Water, they need some water",
+      "characters": [
+        "Aaron",
+        "Jerry",
+        "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "No, just plug it in and the Commando 8 does the rest.  I'll seal that up later, right?",
       "characters": [
         "Kramer",
-        "George",
         "Jerry",
-        "Cynthia"
+        "George",
+        "Alton"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's right, Choochie. Let's see how Bania does without the cushy timeslot.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that pear shaped loser was me! And I was in that photo, until I broke in here, stole the photograph and airbrushed myself out of there!",
+      "characters": [
+        "George",
+        "Jake",
+        "Karen",
+        "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Talk? Did I talk? It - you're darn right I talk to her! We talked up a storm - and I concluded from the basis of these talks that this isn't anybody you should be talking to.",
+      "quote": "I mean, batteries have gone dead before, aren't they prepared for that?",
       "characters": [
-        "Jerry",
         "George",
-        "Peterman",
-        "Elaine"
+        "Elaine",
+        "Officer",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "See? See the way they are?! We're - we're still best friends, right?",
-      "characters": [
-        "Susan",
-        "Jerry",
-        "Nurse",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, Kramer. Okay uh, why don't we start the bidding. Do I hear, um, five bucks?",
+      "quote": "All right, but this is it, this is the last favor, we're even!",
       "characters": [
         "Jerry",
         "Elaine",
         "George",
         "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Okay. Come on. Give the guy his money. What -- what are you doing?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Carol"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He was made of wood and in the rain he would swell up and then split.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Audrey",
-        "Mohel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, if you don't bring a guest they save a catering. You should be able to buy a cheaper gift.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Susan",
-        "George"
       ],
       "correctAnswer": "Jerry"
     }

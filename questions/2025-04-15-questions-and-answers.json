@@ -1,106 +1,106 @@
 {
-  "gameNumber": 102,
+  "gameNumber": 103,
   "date": "2025-04-15",
   "questions": [
     {
-      "quote": "Well, uh, act..actually, I haven't seen it. So, I couldn't tell you whether I liked it, or whether it really sucked.",
+      "quote": "You know we should really order, the service is so slow here, by the time you get anything...",
+      "characters": [
+        "Bob",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, Jerry! How are ya? I thought you were going to the movies.",
       "characters": [
         "Elaine",
-        "Sally",
+        "George",
         "Jerry",
-        "Newman"
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey Jerry. Number One here. Did you go see Izzy at the back specialist?",
+      "quote": "Good for you! What kind of a sick lowlife would do a thing like that? You know those people, you know they're mentally disturbed.",
       "characters": [
-        "Jackie",
+        "Helen",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "'Cause I'm an idiot! You may think you're an idiot, but with all due respect, I'm a much bigger idiot than you are.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
-        "Morty",
-        "Stu"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Well, alright, so you don't like the face painting, I just won't paint it anymore.",
-      "characters": [
-        "Puddy",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "To be honest with you. Nobody really knows. He seems to have disappeared.",
-      "characters": [
-        "Joel",
-        "Rita",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Rita"
-    },
-    {
-      "quote": "Oh, they don't have phones out of town? Why do people say they're too busy. Too busy. Pick up a phone!! It takes two minutes. How can you be too busy?",
-      "characters": [
-        "George",
-        "Woman",
-        "Morty",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So call her up and tell her to bring you another one. She'll be delighted to talk to you.",
+      "quote": "Hey, Jerry, what was the name of the exterminator who fumigated your apartment when you had fleas?",
       "characters": [
         "Kramer",
-        "Elaine",
+        "Buckles",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I think she should withdraw. She's the breaker, he's the breakee. He needs to get on with his life.",
+      "quote": "Yeah, he's got a real horse face.  Here, look at this! It's the guy with the dog!  Hey! Hey! You down there! Remember me? I had to get shot because of your stupid dog!",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Nana",
-        "Jackie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "W..W..Wa...Wa..Wait..Wait wait.. Now lets videotape your head for the before picture, so we can watch how it grows and stuff. Sit down .....Lean back...A little bit to the right.",
-      "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "Morty"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Out? Oh no, I've been to four other places, you're the only ones that have had it.",
+      "quote": "Elaine, there's much you don't understand about the Jewish religion. For example, did you know that rabbis are allowed to date?",
       "characters": [
+        "Elaine",
         "Kramer",
         "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "Hey, uh, before you go, did you talk to Newman about getting that mail outta there?",
+      "characters": [
+        "Jerry",
+        "Lippman",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, listen, do me a favor. Set your mental alarm for 6:30 and gimme a call.",
+      "quote": "I love these pastries. You know, in Scandinavian mythology, the pastries were the food of the gods.",
       "characters": [
-        "Jerry",
+        "George",
         "Elaine",
         "Kramer",
-        "Rula"
+        "Ray"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yes! You don't understand. I'm living with Ethel Merman without the talent.",
+      "characters": [
+        "Poppie",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

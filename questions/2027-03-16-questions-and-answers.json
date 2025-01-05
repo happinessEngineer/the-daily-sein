@@ -1,106 +1,106 @@
 {
-  "gameNumber": 802,
+  "gameNumber": 803,
   "date": "2027-03-16",
   "questions": [
     {
-      "quote": "Oh, come on! Hey, Newman didn't even give her that! No, that's not even a woman's coat. It's a man's!",
+      "quote": "The reverse peepholes. Silvio said I'm an agitator and I'm out of the building.",
       "characters": [
-        "Kramer",
-        "Keith",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well I started out working in mortgage bonds, but I just found that so limiting.",
-      "characters": [
-        "Woman",
+        "Jerry",
         "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Well, it would take a hell of a lot. Because a friend is something you earn.",
-      "characters": [
         "Elaine",
-        "Jerry",
-        "Woman",
         "Newman"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "It's got a few more miles on it, but the previous owner was John Voight.",
-      "characters": [
-        "Salesman",
-        "Joel",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "We should probably get one for Elaine, too, right George?  George?",
+      "quote": "You are paying a woman to come to your house and sleep with you.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "George",
-        "Morty"
+        "Alec",
+        "Celia",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "This guy's a writer, he's a total nut. I think he goes to the same shrink as Elaine.",
+      "quote": "Um, it was, uh...\"Next Stop Pottersville.\"  Uh, do you know when they're giving out the passes?",
       "characters": [
-        "George",
-        "Frank",
+        "Estelle",
         "Jerry",
-        "Kramer"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Babu? Babu...[waves Babu to come to table] Babu...you know, I got to tell you, I never do this, but the shrimp, it's just, it's a little stringy. You have any chicken?",
+      "quote": "Blonde hair, remember? Glasses?  Have you totally blocked out the entire time we were a couple?",
       "characters": [
-        "Regis",
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Lean your head back. Open your mouth!  Open your mouth! Open it! Open it!",
+      "characters": [
         "George",
-        "Jack",
+        "Newman",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Please, if he's found guilty, please be kind to him. He's a good boy.",
+      "quote": "So listen, I'm going to crab a bite to eat at Sardi's. You wanna go?",
       "characters": [
-        "Steinbrenner",
-        "Mary",
-        "George",
-        "Estelle"
+        "Frank",
+        "Kramer",
+        "Woman",
+        "George"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, I don't know. I mean, I talked to him and, blah blah blah, he asked about you guys and, da da da da da, more questions, bleh bleh bleh....",
+      "quote": "What do you know. You've never worked in an office.  See, George, you've worked in an office. Jerry thinks I'm over reacting but you understand, ... LUNCH!",
       "characters": [
-        "Patrice",
-        "Elaine",
+        "George",
+        "Joe",
         "Kramer",
-        "Toby"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Listen, you go over to the ticket counter, I'm going to go stop in the gift shop and pick up a copy of Time magazine. There's supposed to ba blurb about Jerry in it and I think he mentioned my name!",
+      "quote": "Fleas? Bwa ha ha ha ha .That's preposterous. How can I , give you fleas. Now if you don't mind...",
       "characters": [
+        "Newman",
         "Jerry",
-        "Russell",
-        "Lippman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well I'm feeling a little disoriented. It's just weird for me not to have an advisor.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "It's out of our way. Why can't we pick up something at Lord's? It's right over here.",
+      "characters": [
+        "Estelle",
+        "Frank",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Estelle"
     }
   ]
 }

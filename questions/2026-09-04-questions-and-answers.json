@@ -1,106 +1,106 @@
 {
-  "gameNumber": 609,
+  "gameNumber": 610,
   "date": "2026-09-04",
   "questions": [
     {
-      "quote": "Because he think I live here. Remember when we shared a cab, and he dropped me off out in front? He's picking me up.",
+      "quote": "Um. I just realized. Ya' never gave me back the change from the tolls.",
       "characters": [
-        "Sid",
-        "Kramer",
         "Elaine",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You're fresh  You're very fresh. You seem very fresh to me. You're very vital. I couldn't take you any fresher.",
-      "characters": [
-        "George",
-        "Morty",
-        "Jerry",
-        "Elaine"
+        "Helen",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I've seen MOST of it. I guess my favorite would have to be, uh... Chapter 2. Have you ever seen that?",
+      "quote": "Yeah, well I'm thinking about getting out of town with Susan for a few days....Her parents rebuilt the cabin!",
       "characters": [
-        "George",
         "Kramer",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, well, now you kids don't go out and try that. You stay in school!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know what? it's better than Elaine's, too. I gotta give her a call.",
-      "characters": [
-        "Driver",
-        "Mike",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, I don't know, but the key problem is solved. I hid it at Phil's...",
+      "quote": "All right ladies and gentlemen. Welcome to the Peterman Reality Tour...",
       "characters": [
-        "Puddy",
-        "Kramer",
+        "Monica",
         "George",
-        "Jerry"
+        "Guard",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I mean how can I be with someone that doesn't laugh. It's like ... well it's like something!",
+      "quote": "Sample?  Newman. Uh, I was there but I was just dropping off a book.",
       "characters": [
-        "Susan",
-        "Jerry",
         "Elaine",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "Woman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ah!! I found a quarter. Anybody want there clothes heated up?",
+      "quote": "Let's say it comes down to me and one other guy. He's got a nice quiet suit, and I'm whooshing all over the place! Who do you think he's gonna hire?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Receptionist"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Go ahead. Seems like a reasonable question, is all I'm saying. I would've asked her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Waitress"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Eggs are eggs. That is very profound.  By the same token you could say fish is fish. Ha ha ha, I don't think so.  Listen Dophne",
+      "characters": [
+        "Katie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am ready to skate up a-- ha, ha, ha...Why are you wearing that?",
+      "characters": [
+        "Elaine",
+        "Greg",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So.ehmmmm. so, do you have any ideas when the Nicole Millers are coming in?",
       "characters": [
         "Kramer",
         "George",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Who ever thought the first thing somebody wants on a plane is a peanut?",
+      "quote": "Oh he's not my boyfriend. It's that bald guy with the glasses, who's always here with them. He's trying to get me in trouble.",
       "characters": [
-        "Phil",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, senator, I'd just like to know, what you knew and when you knew it.",
-      "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
+        "Kelly",
+        "Kramer",
+        "Duncan"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kelly"
     }
   ]
 }

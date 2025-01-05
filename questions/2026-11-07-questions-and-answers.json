@@ -1,106 +1,106 @@
 {
-  "gameNumber": 673,
+  "gameNumber": 674,
   "date": "2026-11-07",
   "questions": [
     {
-      "quote": "Well, I didn't count on my mechanic pulling a Mary-Beth Whitehead, did I?",
+      "quote": "You know, I'm the one responsible for those crop circles in England.",
       "characters": [
-        "Waitress",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But you were just grabbing on to them to save your life. If you were drowning and I threw you a life preserver, you think you could tell me if it was an inflatable?",
-      "characters": [
-        "Steinbrenner",
-        "Newman",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's a pot pourri. May I, uh, may I show you the master bedroom?",
-      "characters": [
-        "Kramer",
         "George",
+        "Harold",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How did she do it? She's like Meryl Streep this woman. And I had to work the equipment. I'm not unskilled, I'm in the union. If she'd at least told me, maybe I could have done something about it.",
+      "characters": [
         "Elaine",
+        "Peterman",
+        "Woman",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know the difference between a dentist and a sadist don't you?",
-      "characters": [
-        "Man",
-        "Elaine",
-        "Jerry",
-        "Audrey"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Fortunately, I still have George here to help me through this.",
+      "quote": "I couldn't raise a kid? Come on, I love bossing people around.",
       "characters": [
-        "Glenn",
         "Elaine",
+        "Doctor",
         "Jerry",
-        "Peterman"
+        "Connie"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, it's no big deal. It's just some guy who's been running around Riverside park-pffff. You know, cutting people's heads off.",
+      "quote": "I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Donna"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, I can't remember the last time I called a woman without being nervous. I, usually, I'm pacing all over the room, I'm...",
-      "characters": [
-        "Jimmy",
-        "Newman",
         "George",
-        "Tim"
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Ohh.. thank you.  Huh..  Wha-- why does a toothbrush come in such a big box?",
+      "quote": "I needed them to help me break my fall! If it hadn't been for them, I could have really injured myself!",
       "characters": [
+        "Helen",
         "George",
-        "Bania",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Maybe this is what the pilot should be about, vomiting on somebody's vest.",
+      "quote": "They should call it round tine. You know what I'm talking about.",
       "characters": [
+        "Puddy",
         "George",
-        "Kramer",
-        "Frank",
-        "Jerry"
+        "Jerry",
+        "Mickey"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.",
+      "quote": "This is a person I like, it's not \"How to score on spring break\".",
       "characters": [
         "George",
-        "Kramer",
+        "Susan",
         "Jerry",
-        "Elaine"
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Believe it or not, Paul was convinced I was having an affair because somebody kept calling and hanging up whenever he answered! What kind of a sick person calls and hangs up over and over?",
+      "characters": [
+        "Noreen",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "Eduardo, Carochio! That's good. That's very good. Kind of just rolls of the tongue. I wonder where on the upper west side a single girl might meet a matador? Perhaps Zabars? Or Les Pizza!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Levitan",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, what time is it? Eight thirty? I'll tell you what's on. You got Major Dad, Blossom, very funny programme...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

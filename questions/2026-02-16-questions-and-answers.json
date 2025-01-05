@@ -1,106 +1,106 @@
 {
-  "gameNumber": 409,
+  "gameNumber": 410,
   "date": "2026-02-16",
   "questions": [
     {
-      "quote": "Remember when we were standing there and she mentioned it? I made a mental note of it.",
+      "quote": "I won fifty bucks! Boy, this is great. Too bad Elaine's not here.",
       "characters": [
+        "Jackie",
         "Jerry",
-        "George",
-        "Morty",
-        "Kramer"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well, I'm sorry, but the Alex is a family theatre, not one of your swing joints.",
+      "quote": "It's like some pod landed from another planet and took your body. Don't fall asleep Elaine.",
       "characters": [
+        "Jerry",
+        "Elaine",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's so amazing getting to see Monica Seles playing in the finals.",
+      "characters": [
+        "Maura",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excellent film. In fact Quinn said he never felt so good as when he left a note after smacking into a car.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Newman",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, because the meats are divided into a class system. You got Pastrami and Corned Beef in one class and Salami and Bologna in another. That's not right.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, that girl I was gonna call for a date, she was unlisted...and now here's her number.",
-      "characters": [
-        "Jerry",
-        "Stationer",
-        "George",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Where am I going to find a Mohel?  Motels, models... How do you find a Mohel?",
+      "quote": "And I have a lot more control. I have one shirt going for 10 minutes at 325 degrees.",
       "characters": [
-        "Puddy",
-        "Kramer",
+        "Elaine",
+        "Lippman",
         "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I think I can say, barring some unforeseen incident, that you will have a very bright future here at E.D. Granmont.",
+      "characters": [
+        "Kramer",
+        "Farkus",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Oh, no. I'd never part with this card for anything in the world.",
+      "characters": [
+        "Jerry",
+        "Bobby",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bobby"
+    },
+    {
+      "quote": "You know I often wonder what you'll be like when you're senile.",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "Newman",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Here's your ketchup back. You know, I had the hardest time trying to get some out. I mean, I just kept pounding and pounding on the bottom of it. Do you have any trouble?",
+      "quote": "How did you get out of the apartment? I didn't see you leave.",
       "characters": [
+        "Monica",
         "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, man, look at this mess!  You know what's gonna happen if they see this?",
-      "characters": [
-        "Bania",
-        "Jerry",
-        "Elaine",
-        "Nana"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's standard. Has she left you one of those messages where she uses up the whole machine?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Tommy Tune is a very good dancer.  You ever see Tommy Tune dance?",
-      "characters": [
-        "Babu",
-        "Frank",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Yeah. He just got a job at a condom factory in Edison. Look at this, he gave me a gross.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Mel",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Monica"
+    },
+    {
+      "quote": "Miss Wilkie, your tobacco company has turned this beautiful specimen, into a horrible twisted freak.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
     }
   ]
 }

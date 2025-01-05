@@ -1,104 +1,104 @@
 {
-  "gameNumber": 72,
+  "gameNumber": 73,
   "date": "2025-03-16",
   "questions": [
     {
-      "quote": "I can't believe you're moving out.  Kramer, is this true? Is it really happening? It's ... it's like a dream.",
+      "quote": "Hey! So what's the deal with brunch, I mean that if it's a combination of breakfast and lunch. How comes there's no lupper or no linner.",
       "characters": [
-        "Estelle",
+        "Jeannie",
         "Elaine",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "I once saw this thing on T.V. with people who are terminally ill. And they all believed the secret of life is just to live every moment.",
-      "characters": [
-        "Morty",
-        "Carol",
-        "George",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jeannie"
     },
     {
-      "quote": "Is this it? Is this how it ends? It can't- it can't end like this.",
+      "quote": "I took over his route. And boy, were there a lot of dogs on that route.",
       "characters": [
-        "Maestro",
         "Kramer",
+        "George",
         "Jerry",
-        "Elaine"
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, what about my hands? I don't see how your hands are any better than my hands.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Just give it to the Portuguese guy, and he... puts it in the incinerator.",
+      "quote": "Yeah, but you're supposed to be a compassionate person! That cares about poor people! You look like you're gonna.. swing in on a chandelier!",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Dana",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Huh? Ha. 200. You know, I've always wanted one of these things.",
-      "characters": [
-        "Elaine",
         "George",
-        "Newman",
-        "Steinbrenner"
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Two? Sure kid, yeah. But then you gotta promise you'll do something for me.",
+      "quote": "Oh, yeah, yeah, I'm fine, I'm fine.  Hey, we made the paper. Eh? Look at this- page 2, sports section... we're all in the picture.",
       "characters": [
         "George",
+        "Peterman",
         "Jerry",
-        "Susan",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Uh. Ah, if you don't mind my asking, could you tell me where you got your glasses?",
+      "quote": "Did you see the way she pointed at the check? She gave me the finger.",
       "characters": [
         "Elaine",
         "George",
-        "Wendy",
+        "Bania",
         "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I think Poppie's got some problems. There's a whole other thing going on with Poppie. So how did you leave it?",
-      "characters": [
-        "Jerry",
-        "Hanke",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "A free truck? Oh boy, that completely changes our cost structure. Our G and A goes down fifty percent.",
+      "quote": "No.  But I did run into somebody you might be interested in, a Mr. Jon Voight, the actor?",
       "characters": [
-        "Jackie",
-        "Morty",
+        "Keith",
         "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I just wish I could figure out if this guy is trying to keep me out of Tuscany.",
+      "quote": "Jerry, you're like Rosa Parks. You opened the door for all of us. I can't wait till the next time someone heckles me.",
+      "characters": [
+        "Ronnie",
+        "Elaine",
+        "Betsy",
+        "George"
+      ],
+      "correctAnswer": "Ronnie"
+    },
+    {
+      "quote": "It is a horrible company. There's no management what so ever. I could go hog wild in there.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the way you were wolfing down that popcorn, maybe you ate it.",
       "characters": [
         "Jerry",
-        "Frank",
-        "Sid",
-        "Elaine"
+        "Joe",
+        "Peterman",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     }

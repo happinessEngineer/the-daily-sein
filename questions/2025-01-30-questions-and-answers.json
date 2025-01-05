@@ -1,106 +1,106 @@
 {
-  "gameNumber": 27,
+  "gameNumber": 28,
   "date": "2025-01-30",
   "questions": [
     {
-      "quote": "Oh well there's a bathroom in the coffee shop just next door.",
+      "quote": "The carpet sweeper is the biggest scam perpetrated on the American public since One Hour Martinizing.",
       "characters": [
-        "Carol",
-        "Jerry",
         "Elaine",
-        "Silvio"
+        "Jackie",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Carol"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "All right, I think we've covered my act. Now you get out there and stink it up with everybody else.",
+      "quote": "You think I should come clean? What d'you think, you think I Should confess?",
       "characters": [
-        "Alton",
+        "Kramer",
+        "Elaine",
         "Newman",
-        "George",
-        "Jerry"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I am not O'Brien! I am not O'Brien! I'm not O'Brien! Ask anyone! Jerry?! Jerry?!!",
+      "quote": "Hey, hey. Me. Talking. You know, between you and me, I always thought Kramer was a bit of a doofus, but he believed in me. *You* did not. So as I see it, he's not the doofus. *You* are the doofus.",
       "characters": [
+        "Newman",
         "Jerry",
+        "Farkus",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, you're right, you're right.  Alright, maybe he's not interested, but you still know him - can't you just ask him?",
+      "characters": [
         "George",
-        "Elaine",
+        "Kruger",
+        "Todd",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, all right, all right! I'll give him the discount, just put that thing away! This squares us.",
-      "characters": [
-        "Dwayne",
-        "Janet",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Dwayne"
-    },
-    {
-      "quote": "So you've got him standing by the elevator like a dope! What happens when he sees her?",
-      "characters": [
-        "Helen",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Oh those places have the stupidest names. Like, uh, \"Back in \", or \"Good Vertibrations\".",
-      "characters": [
-        "Elaine",
-        "George",
-        "Lamar",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right, you know she's got that laugh. What did you say? It's like Elmer Fudd sitting on a juicer?",
+      "quote": "That's right! He never apologized to me for saying that I would stretch out the neck hole of his sweater.",
       "characters": [
         "George",
-        "Kramer",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh my God. I just remembered where I left my retainer in second grade. I'll see ya.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Peterman",
+        "Waitress",
+        "Kelly",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Boy, you really got it all, I'm sure Helen \"Girlie\" Brown would be very proud of you.",
+      "quote": "You know it happens to everybody. It happened to Houdini. And he could get out of a trunk under water with his hands in chains! But he had a problem with that. The miracle is that it ever happens.",
       "characters": [
         "Jerry",
+        "Sid",
         "Elaine",
-        "Doorman",
-        "George"
+        "Katya"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You, I guess, you don't remember me.. but we actually, kind of um.. went out.. a couple of years ago.. once.. remember?",
+      "quote": "Well, you know they're making that Woody Allen movie in the block, and all those people and trucks everywhere, when I saw him I must have got a little distracted.",
       "characters": [
-        "Jimmy",
-        "Jerry",
         "Kramer",
-        "George"
+        "Elaine",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I take an eye test; I flunk it, the next thing you know I am swinging to the sweet sounds of risk management.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Brett"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, that's a deal. That's a terrible deal. I don't want to go out to dinner with him. I'd rather make my own suit.",
+      "characters": [
+        "Jerry",
+        "Glenn",
+        "Kate",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Queensboro Plaza.  This stop is famous for its gyros, you want one?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Vivian"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

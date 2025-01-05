@@ -1,106 +1,106 @@
 {
-  "gameNumber": 618,
+  "gameNumber": 619,
   "date": "2026-09-13",
   "questions": [
     {
-      "quote": "Well you're lucky he was able to get you this appointment. You know what the waiting list is for this guy?",
+      "quote": "Oh right, right! The blue sweatpants! Gees, it's too bad you can't say anything because of Angela.",
       "characters": [
-        "Elaine",
+        "Jackie",
         "Jerry",
-        "Frank",
-        "Helen"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "George"
     },
     {
-      "quote": "If there's any doubt, I do a leave-behind. Keys, gloves, scarf -- I go back to her place to pick it up... date number two.",
+      "quote": "You know I've been thinking, why is Kramer getting twenty-five percent?",
       "characters": [
-        "George",
-        "Elaine",
         "Jerry",
+        "Kramer",
+        "Helen",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": ": \"Master of the house/Keeper of the inn...\"  This is huge! When did this happen?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know with all do respect I would think it's right up your alley.",
+      "quote": "Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry, Jerry.",
       "characters": [
+        "Newman",
         "Jerry",
         "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'm a great clicker!  Great instincts. How dare you impune my clicking.",
+      "characters": [
+        "Jerry",
         "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, boy I was up to four in the morning watching the Omen trilogy.",
+      "quote": "You? Wh...what're you doing here? You work at this building too?",
       "characters": [
-        "George",
+        "Morty",
+        "Jerry",
         "Kramer",
-        "Newman",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So he gets out of the car, I say, \"Hey buddy! I saw you hit that car!\" So he says to me, \"What are ya gonna do about it?\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are there terrorists on the plane? A hotel fire. Is that it? Malaria? Yellow fever? Lupus? Is it Lupus?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well thanks to you and your little comment there to David and Beth. Jerry and I are in prime pouncing position to scoop these two up  before they know what hit em.",
+      "quote": "That's the stupidest idea I ever heard. Sentenced to be a butler.  Ping, what happened?",
       "characters": [
         "George",
-        "Wilhelm",
+        "Bette",
         "Jerry",
         "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah exactly. Anyway I've got to go over there and return it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "Susan"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So what could I do? I couldn't go through with it. She threatened to kill herself.",
-      "characters": [
-        "Brett",
-        "George",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I gotta get to Fowler. I know that he would take this squirrel off my hands. It's practically bionic!",
-      "characters": [
-        "Alec",
-        "George",
-        "Jerry",
-        "Katya"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "OooH!!! You. you ate these? You sucked on these and put them on the plate?",
-      "characters": [
-        "Kramer",
-        "Jake",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, I understand. This could be a tough thing to deal with. The important thing is that you have a partner who's supportive.",
-      "characters": [
-        "Sophie",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Sophie"
-    },
-    {
-      "quote": "What about you, George? Have you written anything we might know?",
-      "characters": [
-        "Russell",
-        "Kramer",
-        "George",
-        "Farkus"
-      ],
-      "correctAnswer": "Russell"
     }
   ]
 }

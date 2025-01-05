@@ -1,106 +1,106 @@
 {
-  "gameNumber": 177,
+  "gameNumber": 178,
   "date": "2025-06-29",
   "questions": [
     {
-      "quote": "Yeah? ...oh really?...oh... how about that?... Right down a hill huh? Okay! Alight! Bye!",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "He's not idiotic. He's the Wiz. And nobody beats him. Nobody...",
-      "characters": [
-        "George",
-        "Helena",
-        "Sid",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Do? Do? Hey, I'm doing what I do. You know, I've always done what I do. I'm doing what I do, way I've always done and the way I'll always do it.",
+      "quote": "George, I wouldn't get too excited about this stuff, you know, things have a way of evening out.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, I see. So, you put up a sign so you can do whatever you want? You're not a part of society.",
-      "characters": [
-        "Willie",
-        "Jerry",
+        "Peterman",
         "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, by the way, tomorrow night, Paull O'Neill has to catch a fly ball in his hat.",
+      "quote": "I think the chair is a fantastic gift idea. But I never heard of this Joe Mayo. And frankly, it sounds made up.",
       "characters": [
         "Kramer",
-        "Marlene",
-        "George",
-        "Driver"
+        "Lena",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh my God! Jerry! My friend, Kim called - David and Beth got separated last night!",
+      "quote": "Oh it be.  You got any other friends you want to set me up with?",
       "characters": [
         "Elaine",
-        "Jerry",
+        "Bania",
         "George",
+        "Bette"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Napoleon? Who's he to have a cake? He was a ruthless war monger. Might as well get Mengele.",
+      "characters": [
+        "Lippman",
+        "Jerry",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, listen I gotta get to the pier. The ferry traffic is really bad around four thirty. Look, I still got the key to your apartment and I'll get it back to you as soon as I can.",
+      "quote": "Yes they did. I was covering. Elaine has been deported back to Scotland.",
       "characters": [
-        "Kramer",
-        "George",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, I don't know. Maybe you haven't. You know, not everybody's seen a massage table.",
-      "characters": [
-        "George",
         "Elaine",
-        "Frank",
-        "Kramer"
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, apparently, the week after that, you buzzed up some Jehova's Witnesses and they couldn't get them out of the building.",
+      "quote": "So Klompus has the key, but the jerk couldn't open it up. All you gotta do it jiggle it  jus get it in there  jigg jigg jiggle reiggle",
       "characters": [
-        "Tina",
+        "Morty",
         "George",
         "Kramer",
-        "Elaine"
+        "Jackie"
       ],
-      "correctAnswer": "Tina"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Good shake. Perfect shake. Single pump, not too hard, you know, doesn't have to prove anything, but, you know, firm enough to know he was there.",
+      "quote": "Well how do you even know it's hers? Maybe it belonged to Carol. Did you see a name on the tube?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah... Hey, Drake, what ever happens, I am sure it'll be for the best.",
       "characters": [
         "George",
-        "Kramer",
-        "Newman",
+        "Salesman",
+        "Tony",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, tell you what I'm gonna do. I'm gonna take down your check anyway.",
+      "characters": [
+        "Marcelino",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Marcelino"
+    },
+    {
+      "quote": "Heh, haa. And that's no good. I've tried it straight, Jerry. We've all seen the results. For me, sick is the only way to go.",
+      "characters": [
+        "Karen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

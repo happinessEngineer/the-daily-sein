@@ -1,106 +1,106 @@
 {
-  "gameNumber": 241,
+  "gameNumber": 242,
   "date": "2025-09-01",
   "questions": [
     {
-      "quote": "Oh yes. I know all about his little performance in the break room.",
+      "quote": "Here's what you do: you bring a lightweight jacket, that way the sun comes out, you play the jacket off the sweater.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "Donald"
+        "Susan",
+        "Elaine",
+        "Stan"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Stan"
     },
     {
-      "quote": "Hey, don't forget Sunday, okay? You and George are coming, right? Hotel Westbury, eight o'clock.",
+      "quote": "Well, your tip is four dollars and thirty-six point six six six six cents.",
       "characters": [
         "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, he said it could be cancer, maybe you should get it checked out.",
-      "characters": [
-        "Eva",
         "Jerry",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, we're, uh, foolin' around there.. you know, it's getting a little passionate..  and, uh, she starts with the dirty talking.",
-      "characters": [
-        "George",
-        "Sara",
-        "Stationer",
-        "Jerry"
+        "Russell"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Uh no. Look at this. Okay yeah this looks good and I like what your wearing.",
+      "quote": "The alternative media, Jerry. That's where you hear the truth.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm going to the hospital to see Fulton. I'm not even saying hello, I'm going right into material.",
       "characters": [
         "George",
-        "Helen",
+        "Elaine",
+        "Jerry",
+        "Ralph"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah.. look at this, Mickey. These pants are fallin' apart, huh?",
+      "characters": [
+        "Elaine",
         "Kramer",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why did I think there was a Rubber Man? There's Elastic Man... Plastic Man...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, so did I. You know what? I bet it was the engagement. I've shown I can go all the way.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's mine. That's my smell. Jerry you've got to get that model to get me an appointment with CALVIN KLEIN.",
+      "characters": [
+        "Tim",
+        "Kramer",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, well, well, Mr. Seinfeld! That must have been so frightening! When you confronted that guy, in Queens! Now, let's just see if I've got this scenario right.",
+      "quote": "Those eyebrows could use a trimming, you ever mention that to him?",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "Morty",
         "George",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "TV Elaine. She wants to get together and talk about the part.",
-      "characters": [
-        "Duncan",
-        "Kramer",
-        "Mike",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "They're all the same. You go, you sit, you eat popcorn, you watch. I'm sick of it.",
+      "quote": "Yeah, last night. Oh, come on... Men *have* to get up early some time...",
       "characters": [
         "Elaine",
-        "George",
-        "Hal",
+        "Kramer",
+        "Steinbrenner",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They assign you a specific disease and you act out the symptoms. It's an easy gig.",
-      "characters": [
-        "Hanke",
-        "Kramer",
-        "Mickey",
-        "George"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "Elaine, I can see, not sayin' hello. She's very--what's the word--uh, supercilious.",
-      "characters": [
-        "Matthew",
-        "Jerry",
-        "Katie",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Elaine"
     }
   ]
 }

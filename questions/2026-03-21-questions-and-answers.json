@@ -1,106 +1,106 @@
 {
-  "gameNumber": 442,
+  "gameNumber": 443,
   "date": "2026-03-21",
   "questions": [
     {
-      "quote": "Daphne. I have to tell you something, this is very difficult...",
+      "quote": "Just once I would like to tell someone they stink. You know what? I doidn't like the show. I didn't like you. It just really stunk. The whole thing…real bad. Stinkaroo. Thanks for the tickets though.",
       "characters": [
-        "Morty",
-        "Waitress",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I have noticed she does tend to go to the bathroom right after we finish eating.",
-      "characters": [
-        "Maryedith",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know they told me that they wanted me to walk down the block carrying this bag of groceries.",
-      "characters": [
-        "Jack",
+        "Carol",
         "George",
         "Jerry",
-        "Kramer"
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well what's the difference -- Come on  -- were like Cain and Able.",
+      "characters": [
+        "Kramer",
+        "Allison",
+        "George",
+        "Man"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Wait a minute, that's my ticket!  You didn't even want to go.",
+      "quote": "It is amazing after years of training how one can contort one's body. Of course, it is only useful in gymnastics.",
       "characters": [
-        "Joyce",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Tawni",
+        "Katya",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Katya"
     },
     {
-      "quote": "Squire's walking stick. I had to write about it for the catalogue.",
+      "quote": "Ohh.. that's too bad.. Susan thought we'd really get along - I guess because we're both wacko!  You know what, um..  You have to give this to them for me. Okay? Here.  It's a wedding present.",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Sally",
         "George",
-        "Peterman"
+        "Jerry",
+        "Stu"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Sally"
     },
     {
-      "quote": "I don't think you wanna get hurt. Because if you wanna get hurt I can hurt you. Now, just back off.",
+      "quote": "You know, they say ostrich has less fat, but you eat more of it.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Bob"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "What? Yeah.. you're right!.. All I have to do is call him up, and sit with him, and show him that it doesn't bother me. You know, laugh it off.. or jam a fork into his forehead.",
-      "characters": [
-        "Kramer",
-        "Elaine",
+        "Landlord",
         "Jerry",
         "George"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can you hear yourself? Can, can, do you know what you're saying?!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Jerry, You know what just hit me? I was thinking -- What size suit are you?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "Kramer"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "You're through, Soup Nazi. Pack it up. No more soup for you. Next!",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Jerry",
+        "Sid"
+      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, it's unbelievable. Every time you use it you feel like you just came from the dentist!",
+      "quote": "Oh, right. I hope you have a good oral surgeon because that can be very serious.  Hey, look at naked people.",
       "characters": [
-        "Peterman",
-        "Jerry",
-        "George",
-        "Ping"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, I'll give you a sportin' chance. I'll take Ithaca.",
-      "characters": [
+        "Kramer",
         "George",
         "Jerry",
-        "Stu",
-        "Earl"
+        "Elaine"
       ],
-      "correctAnswer": "Earl"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, you better laugh 'cause I'm being reviewed. Leonard Christian's gonna be there.",
+      "quote": "I thought you hated air conditioning. You've never had an air conditioner.",
       "characters": [
-        "George",
-        "Helen",
-        "Stan",
-        "Jerry"
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "Doctor"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

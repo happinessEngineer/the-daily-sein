@@ -1,106 +1,106 @@
 {
-  "gameNumber": 556,
+  "gameNumber": 557,
   "date": "2026-07-13",
   "questions": [
     {
-      "quote": "Kramer, I just want to thank you again for last night, you really saved me.",
+      "quote": "Yeah, but if I take you to your door, then I have to go all the way around Central Park West, back to Columbus, you know it's all one way...",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "Mohel",
+        "Clerk",
         "George",
-        "Rachel"
+        "Wendy"
       ],
-      "correctAnswer": "Rachel"
+      "correctAnswer": "Wendy"
     },
     {
-      "quote": "Hey look, I just chalked down the message. I didn't know I was required to capture the mood of each caller.",
+      "quote": "how did I know you were here? Something drew me here. This is phenomenal.",
       "characters": [
-        "Frank",
-        "Jerry",
-        "Jake",
+        "George",
+        "Dwayne",
+        "Steve",
         "Kramer"
-      ],
-      "correctAnswer": "Jake"
-    },
-    {
-      "quote": "That's good stuff, and you can never have too much ice. Alright, I'll tell you what I'll do. You can co-host the party with me, under one condition. No Jerry. Jerry is not invited.",
-      "characters": [
-        "Newman",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Ohhh, maaan!! It's over! The Kramer name is finished! I'm never goin' to procreate--",
-      "characters": [
-        "Jerry",
-        "Laura",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It failed here! Because, here, every time you turn on a TV, all you see is four morons sitting round an apartment, whining about their dates!",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm going to call Gino, you're going to see him, and we're going to get that haircut fixed up.",
+      "quote": "Well why should that be? Oh, I have an idea. I have an idea. No call the day after that.",
       "characters": [
-        "Kramer",
+        "Announcer",
+        "Jerry",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do you want me to paint you something? I'd love to paint you some- thing!",
+      "characters": [
+        "Newman",
+        "Gary",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "But I'm keeping it. As much as I hate the idea of being a van guy, it's much better than hanging out here with the nocturnal dirt people.",
+      "quote": "I told I had a bus transfer that was only good just for another hour.",
       "characters": [
-        "Kramer",
+        "Steinbrenner",
         "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I've been thinking about her, I just cashed some of her checks.",
+      "quote": "No, I can't. What if I meet a woman? I'd always be worried about that first moment where I'd take it off and see that look of disappointment on her face.",
       "characters": [
         "Jerry",
-        "Mickey",
-        "Jack",
-        "Emily"
+        "Morty",
+        "Frank",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I've tried. We don't have it. But maybe the two of us, working together at full capacity, could do the job of one normal man.",
+      "quote": "Well, maybe because we were sitting in the right field stands cursing at him in the bullpen all game.",
       "characters": [
+        "Ellen",
         "Kramer",
         "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait `til I get my hands on that George. I am gonna *pull* that big hood over his little head... tie the strings, and suffocate. You remember that Panama hat? That was nothing.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So? We've always just kind've pecked. This one had a totally different dynamic.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And one more thing, you really think we need the exclamation point? Because, it's not \"Top of the Muffin *TO YOU!!!*\"",
+      "characters": [
+        "George",
+        "Frank",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I, uh, just think it's a little unusual. Two people to sit on one side...and leave the other side empty.",
-      "characters": [
-        "George",
-        "Jack",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     }
   ]
 }

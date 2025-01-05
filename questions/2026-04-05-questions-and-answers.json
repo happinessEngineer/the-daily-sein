@@ -1,106 +1,106 @@
 {
-  "gameNumber": 457,
+  "gameNumber": 458,
   "date": "2026-04-05",
   "questions": [
     {
-      "quote": "So what? I'll start talking to him, you know, casual, and I'll work my way around to it.",
+      "quote": "Well it was worth it.  I'll be  right  back . Where are you going?",
       "characters": [
         "Jerry",
-        "Leo",
-        "Marcy",
+        "Sid",
+        "George",
+        "Tawni"
+      ],
+      "correctAnswer": "Tawni"
+    },
+    {
+      "quote": "Well, you know, Poppie's over at my place. Tonight's the big night. I'm gonna make the first test pizza at the restaurant.",
+      "characters": [
+        "Ron",
+        "Kramer",
+        "Jerry",
+        "Sally"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what, why don't you read this book and let's just see if you can explain it to me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No keys. And I been calling the city all day. Course there's not really a number to call if you wanna make a pothole.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Um, it was, uh...\"Next Stop Pottersville.\"  Uh, do you know when they're giving out the passes?",
+      "quote": "So my parents get home, they open the door, my father flicks the light on, the whole place is cleaned out, everything.",
       "characters": [
+        "Kramer",
+        "Jerry",
+        "Salesman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lookit. He knew I was gonna use the machine next, he didn't wipe his sweat off. That's a gesture of intimacy.",
+      "characters": [
+        "George",
         "Elaine",
-        "Russell",
-        "Laura",
-        "Rudy"
+        "Kramer",
+        "Tim"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, Mayor Dinkins set this up for you. You know what kind of a doctor this must be if Dinkins knows him?",
+      "quote": "Kramer? Have you seen George, around? I can't get a hold of him.",
       "characters": [
-        "Wyck",
-        "Frank",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Alright alright, goodbye.  I don't think we are gonna make that flight.",
-      "characters": [
-        "Morty",
+        "Allison",
+        "Roy",
         "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Hey, if you got any juice left, you might wanna roll by the big showcase tonight.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Peterman",
         "George"
+      ],
+      "correctAnswer": "Allison"
+    },
+    {
+      "quote": "No I meant the bald cure. We were talking about the bald cure.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Todd"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ok, ok, fine! It's changed, it's not really the point. Anyway, I'm thinking of making a big move.",
+      "quote": "Listen M. Klompus, it was really a nice gesture of you to give me the pen, but I don't really need it.",
       "characters": [
         "Jerry",
-        "Morty",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Let me tell you who did, uh, buy it...um we pitched this story to Russell Dalrymple, the president of NBC, and he ate it up with a spoon.",
-      "characters": [
-        "George",
         "Kramer",
-        "Jerry",
-        "Gary"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Kramer, y'know, guys like you, with no conscience, don't know what it's like for guys like me. I'm in the unfortunate position of having to consider people's feelings.",
-      "characters": [
-        "Celia",
-        "Jerry",
         "George",
-        "Kramer"
+        "Melissa"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes yes George. Can you talk to me for a second? Of course you can -- I'm a very accessible man. I just wanted to say you're doing great work on that Canola oil stuff.",
+      "quote": "There was cleavage in the area. That's a reflex -  - cleavage-poke, cleavage-poke...",
       "characters": [
-        "Steinbrenner",
-        "Father",
+        "Doctor",
+        "George",
         "Jerry",
-        "Kramer"
+        "Toby"
       ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "At the funeral, give or take. You know, deep down, I always kinda felt that they blamed me for Susan's death.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Leo",
-        "George"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

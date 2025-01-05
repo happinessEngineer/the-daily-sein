@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1116,
+  "gameNumber": 1117,
   "date": "2028-01-24",
   "questions": [
     {
-      "quote": "Well, you know, to be honest sir -- my, my new secretary Ade, came up with that one.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Ray"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "There's still some overlap between the needle and the slash below the \"E\".",
+      "quote": "YES! YOU'RE DAMN RIGHT YOU SHOULD!  Fight for her, Jerry, she's sure as hell fighting for you!",
       "characters": [
         "Kramer",
         "George",
-        "Jerry",
-        "Wilhelm"
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Good one. Very funny. You're very funny, Jerry. That's what I always tell people.  Jerry Seinfeld's a funny guy!",
+      "quote": "But if you think about it...26 teams, 162 games a season, you'd think eventually an entire team would get wiped out.",
       "characters": [
-        "Todd",
+        "George",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I'm REFRESHED. I finally found a way to sleep in my office. Under the desk. I lie on my back. I tuck in the chair. I'm invisible.",
+      "characters": [
         "Kramer",
-        "Doctor",
+        "Jerry",
+        "Morty",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He never watched a door before, Mrs Payton, he didn't know how to do it.  You know, he's a comedian, Mrs Payton, they don't know how to do anything.",
+      "quote": "They're for protection, Jerry. Can you tell where I'm lookin'?",
       "characters": [
         "George",
-        "Jerry",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What do you mean you felt the material? What, with your fingers like this?",
-      "characters": [
-        "Wilhelm",
-        "Kramer",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Jerry, it's three-thirty in the morning. I'm at a cockfight. What am I clinging to?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Puddy",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "\"George, don't make me get tough with you.\" Whu, hu, hu, hu huuuu  Who says that? She is really cool. What do you think? You think she likes me?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Newman",
+        "Silvio",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "They'll make you a \"Big Salad.\" What do you think, they're the only one's that make a \"Big Salad\"?",
+      "quote": "How could we not hear anything? What's with this Russel? What's he doing?",
       "characters": [
         "George",
-        "Jerry",
         "Kramer",
-        "Elaine"
+        "Lippman",
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You don't mind that I got your number off the AIDS walk list?",
+      "quote": "He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.",
       "characters": [
-        "George",
+        "Jerry",
+        "Steve",
         "Kramer",
-        "Estelle",
-        "Jerry"
+        "Harold"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, you know what? Newman sent me an invitation already, to his party.",
+      "quote": "So, it's ya nothing. Forget it, forget it, I just find it curious.",
       "characters": [
-        "Kramer",
+        "Keith",
+        "Jerry",
         "George",
-        "Elaine",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know they changed the name from Hundred-Thousand-Dollar bar to Hundred-Grand?",
+      "characters": [
+        "Jerry",
+        "Woman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Elaine, listen, I was talking to a friend about this dog business. Do you realize this is gonna be on our permanent records? Are you aware of this?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just came from the podiatrist. I have a mole on my foot. I've got a little gangrene, they're probably gonna have to amputate.",
+      "characters": [
+        "Michael",
+        "Manager",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
     }
   ]
 }

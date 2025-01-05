@@ -1,106 +1,106 @@
 {
-  "gameNumber": 814,
+  "gameNumber": 815,
   "date": "2027-03-28",
   "questions": [
     {
-      "quote": "We could go to one of those uh cappuccino places. They let you just sit there.",
+      "quote": "That's all I needed to know. So you actually swim in this thing?",
       "characters": [
-        "Elaine",
+        "George",
+        "Hal",
         "Jerry",
-        "George",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Hal"
     },
     {
-      "quote": "Yes, it is exciting! All right, this is gonna be my new face.",
+      "quote": "Now look here, see it's right here: Gloria Vanderbilt Collection.",
       "characters": [
-        "Helen",
         "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh! I made a friend when I was in Europe, okay?! And we've been in touch, and Sandra told Lippman!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Gail",
-        "Steve"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Right. I was looking for something different. Something that would have people talking at the water coolers.",
-      "characters": [
-        "Kimbrough",
         "Jerry",
-        "George",
-        "Babu"
-      ],
-      "correctAnswer": "Kimbrough"
-    },
-    {
-      "quote": "What's going on? You're the man of the hour, That's what's going on.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Babu",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'll tell you what the big advantage of homosexuality is. If you're going out with someone your size, right there you double your wardrobe.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Melissa",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, she's free.  Hi, I called before, uh, my car got smashed.",
-      "characters": [
-        "Carrie",
-        "Elaine",
-        "Jerry",
-        "Hal"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Regards don't mean anything. I mean, it's not like I said hi. Hey, the fact is...  I shouldn't say anything.",
-      "characters": [
-        "Debby",
-        "Celia",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Debby"
-    },
-    {
-      "quote": "Well my buddy works in an appliance store and he got us thirty percent off.",
-      "characters": [
-        "Jerry",
-        "Wilhelm",
         "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Sorry buddy, this is the \"Hamlet\" of diseases. Severe pain, nausea, delusions, it's got everything.",
+      "quote": "Well, if we're all set to go, why don't you two hop aboard and let me show you a little taste of old New York...the way it once was. Oh, happy anniversary. On, Rusty!",
       "characters": [
         "Kramer",
+        "Jimmy",
         "George",
-        "Mickey",
-        "David"
+        "Jerry"
       ],
-      "correctAnswer": "Mickey"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Cheryl, can I ask you a legal question? Um, I'm being sued.",
+      "characters": [
+        "Elaine",
+        "Buckles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ah, see.  I got the whole night ahead of me.  Boy, that's a nice jacket, huh?",
+      "characters": [
+        "Kramer",
+        "Patrice",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, twice what you're payin' here, but it's a great building. It's two bedrooms!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They owe me for those ducks. They were flown in from Newfoundland.",
+      "characters": [
+        "Poppie",
+        "Maestro",
+        "Jerry",
+        "Landlord"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "When my mother was abducted by the Communists, she was with child...",
+      "characters": [
+        "Morty",
+        "Chiles",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "You know what? I think I'm gonna do that! She came down to where I work, I'll go down to where she works!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's amazing. We, we both have dates on the same night. I can't remember the last time that happened.",
+      "characters": [
+        "Maura",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

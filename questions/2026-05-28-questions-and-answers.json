@@ -1,106 +1,106 @@
 {
-  "gameNumber": 510,
+  "gameNumber": 511,
   "date": "2026-05-28",
   "questions": [
     {
-      "quote": "He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.",
+      "quote": "Marisa Tomei's sitting home, Elaine! Wh..why didn't you tell me that Katy was friends with Marisa Tomei?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, you've got Danielle. Forget about Neil. You've out-Neiled him.",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Guy"
+        "Michael",
+        "Elaine",
+        "Man"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No. You have a good lunch. But I'll meet you back here for the movie.",
+      "quote": "Forget about smelling the car. Smell the valet. Go to the source...",
       "characters": [
-        "Sheila",
+        "Susan",
+        "Elaine",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Sheila"
-    },
-    {
-      "quote": "You've got a good eye, there. I see you've noticed the uni-body construction. I'm Rick. Are you looking to buy or to lease?",
-      "characters": [
-        "George",
-        "Melissa",
-        "Salesman",
-        "Jerry"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "Oh, man! All right, come on. There's got to be something that'll change your mind, FDR. Something..\"  What, you want my kidney?  Mama!..",
-      "characters": [
-        "George",
-        "Newman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I noticed people staring at my head because they like what they see.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Peterman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I don't know … he's got some valuable antiques, He's worried they'll break something.",
+      "quote": "Oh, you looking good. You look strong. You one fine-looking sexy lady.",
+      "characters": [
+        "Leo",
+        "Chiles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "I wish I was taller, that's, that's, that's nice. that's real.",
+      "characters": [
+        "Mickey",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Well um, I was just curious if I were interested in availing myself of your services, um, what exactly would you do?",
       "characters": [
         "Elaine",
-        "Jerry",
-        "David",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Right, we're both big Mickey Mantle fans, and we love the name. It's very unusual.",
-      "characters": [
-        "Ken",
-        "Newman",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Ken"
-    },
-    {
-      "quote": "You walk over that table, you pick up an eggroll, you don't say anything, you eat it, say 'thank you very much', wipe your mouth, walk away- I give you 50 bucks.",
-      "characters": [
-        "Lippman",
-        "Jerry",
+        "George",
         "Kramer",
-        "Elaine"
+        "Puddy"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I mean what if, what if, this this guy has got all my money. Plus he has got some Kramer's money with him. This guy could write checks to himself right out of my account.",
+      "quote": "You know, maybe if you hadn't been sitting there pontificating about what a great parker you were, you might have got the space.",
       "characters": [
-        "Jerry",
+        "Daphne",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, there's this rabbi in my building. You've met him. Very nice man.",
+      "characters": [
+        "Kramer",
         "Elaine",
         "George",
-        "Detective"
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, you know you gotta get permission from me. I'm the super. Who said you could do that?",
+      "quote": "All right. How 'bout this one: let's say you're abducted by aliens.",
       "characters": [
-        "Silvio",
-        "George",
         "Jerry",
-        "Elaine"
+        "Morty",
+        "Guard",
+        "George"
       ],
-      "correctAnswer": "Silvio"
+      "correctAnswer": "Jerry"
     }
   ]
 }

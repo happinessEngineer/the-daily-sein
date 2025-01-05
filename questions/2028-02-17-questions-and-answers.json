@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1140,
+  "gameNumber": 1141,
   "date": "2028-02-17",
   "questions": [
     {
-      "quote": "What about you? You were even engaged, and you cut it off just like that.",
+      "quote": "All right. So, what theatre you wanna go to tonight? We got 61st and 3rd or 84th and Broadway.",
       "characters": [
-        "George",
         "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, no, I was just thinking out loud I don't want my picture on a card.",
-      "characters": [
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
+        "George",
+        "Morty"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Sure. You're an emotional person. People don't take you seriously.",
+      "quote": "What do you mean you don't like it? How could you not like it?",
       "characters": [
         "Jerry",
+        "Elaine",
         "George",
-        "Marcy",
-        "Woman"
+        "Darryl"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know I don't mind if somebody's funny, but I no like the funny business.",
+      "quote": "Under the circumstances, I don't really feel that we should be in business together.",
       "characters": [
-        "Enzo",
+        "Russell",
+        "Manny",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Yeah, wait here. Come on, sit down. What's the matter with you?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Noreen",
+        "Landlord"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know I never though he would be able to recreate the experience of actually knowing him, but this is pretty close.",
+      "characters": [
+        "George",
+        "Elaine",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Enzo"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, that's my bike! Along the sidewalk comes a happy-looking Newman, pedalling the Schwinn for all he's worth. He rings the bell.",
+      "quote": "Alright the administrator's on the third floor. I'll meet you guys back at the car.",
       "characters": [
-        "Kramer",
         "Jerry",
         "Elaine",
-        "Landis"
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "When my uncle said to him, 'the president's been shot' Oswald winked at him and said, 'I'm gonna go catch a movie'?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Rabbi"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The woman across the street has nothing on, nothing on, nothing on..",
+      "quote": "Oh, well, you wouldn't want that because you always have to remain friends!",
       "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Alright, we'll talk about this a little later. Are you an actor?",
-      "characters": [
-        "Kramer",
-        "Bonnie",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. They can't really chase ya!",
-      "characters": [
-        "Kramer",
-        "Morty",
+        "Nina",
+        "Peterman",
         "Elaine",
+        "Stan"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Oh, finding a Mohel is a piece of cake. Any idiot can find a Mohel. I have to hold the baby while they do it. That's a tough job. How would you like that?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm sorry, Jill. I'm going to have to take this call. Jerry, what's the emergency?",
+      "quote": "Well we should at least tell them what happened. They might be very late if they make it at all.",
       "characters": [
-        "Wilhelm",
+        "Kevin",
         "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Is everybody ready? Didn't I tell you I wanted you to wear the cardigan?",
-      "characters": [
-        "Bania",
         "George",
-        "Kramer",
-        "Chiles"
+        "Susan"
       ],
-      "correctAnswer": "Chiles"
+      "correctAnswer": "Susan"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 666,
+  "gameNumber": 667,
   "date": "2026-10-31",
   "questions": [
     {
-      "quote": "I fell asleep in the hot tub and the heat pump broke. Water went down to 58 degrees. I can't get my core temperature back up!",
+      "quote": "Pretty chintzy, huh? Considering the money she makes.. She's a big executive for Federal Express.",
       "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh Elaine, we're doing some really very interesting things right now. We've got some very exciting pilots for next season. We have one with a bright young comedian, Jerry Seinfeld.",
-      "characters": [
-        "Elaine",
-        "Russell",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Russell"
-    },
-    {
-      "quote": "Uh, you are kidding me. How am I supposed to get to this meeting?",
-      "characters": [
-        "Elaine",
-        "Frank",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well I am actually going to have a secretary and I get to do the interview.",
-      "characters": [
-        "Noreen",
         "Kramer",
-        "Rebecca",
-        "George"
+        "Jerry",
+        "Lippman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.",
+      "quote": "Hey, look at this, c'mere. There's a naked woman across the street.",
       "characters": [
+        "Kramer",
         "George",
-        "Kramer",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "Yeah, on one hand he's smart with rockets and on the other hand he's dumb with parking. . . . It's cold out here huh?",
-      "characters": [
-        "Kramer",
-        "Doorman",
-        "Elaine",
-        "George"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Do you know what happens to a butter-based frosting after six decades in a poorly ventilated English basement?",
+      "quote": "Oh, hang onto that thought - I'm rinsing a sweater, I left the water running.  Hey, Jerry, can you get me a towel out of my bedroom closet?",
       "characters": [
-        "Susan",
-        "Kruger",
+        "Lena",
+        "George",
         "Jerry",
-        "Peterman"
+        "Elaine"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Lena"
     },
     {
-      "quote": "That's insulting! Ted Danson makes eight hundred thousand dollars an episode.",
+      "quote": "I gotta try and find a way to switch places with him.  It's like a Sigfried and Roy trick.",
       "characters": [
         "George",
-        "Kramer",
-        "Elaine",
-        "Audrey"
+        "Joe",
+        "Morty",
+        "Sally"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, from what I can piece together, our friend here met a gentleman.",
+      "quote": "Now, Mrs. Choate, would you please tell the court what happen the evening of January 4th.",
       "characters": [
+        "Elaine",
         "George",
+        "Hoyt",
+        "Jerry"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Kramer, I just want to thank you again for last night, you really saved me.",
+      "characters": [
+        "Rachel",
         "Elaine",
         "Jerry",
-        "Kramer"
+        "George"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "So you ready for the assembly tomorrow? You know what you're gonna say about the Yankees?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah! Hey--hey guys! Elaine, sit down. These are a couple o' my friends. Uh, this is Gene. And this guy, we.. just call \"Feldman!\"",
+      "quote": "Ya it used to be right in the middle of single Jeopardy and now they do it right after single Jeopardy.",
       "characters": [
-        "Jerry",
+        "George",
         "Elaine",
-        "Kramer",
-        "Kevin"
+        "Rabbi",
+        "Jerry"
       ],
-      "correctAnswer": "Kevin"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll just talk to Jerry when he gets back.  Oh. Mrs. Ross, Mr. Ross.",
+      "characters": [
+        "Laura",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

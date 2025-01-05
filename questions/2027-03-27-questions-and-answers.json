@@ -1,106 +1,106 @@
 {
-  "gameNumber": 813,
+  "gameNumber": 814,
   "date": "2027-03-27",
   "questions": [
     {
-      "quote": "Doesn't sound like you're friends to me. If you were friends you'd-you'd ask her for the number. Do you know where this other one works?",
+      "quote": "See, I told you I wasn't funny all the time.  Hey George, look, I'm not funny now.",
       "characters": [
         "Elaine",
+        "George",
         "Jerry",
-        "Morty",
         "Kramer"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't understand it. I was with her last night in my apartment; it was very romantic. Y'know with that fake wood wallpaper, the atmosphere is *fabulous* in there, now. It's like a ski lodge.",
+      "quote": "I see,  \"I pulled the lever on the machine, but the Clark bar didn't come out!\" Exclamation point?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Oh, nothing much. You know, I went over to Jerry's. Talked to Jerry. Um, could I talk to you for a minute?",
       "characters": [
         "George",
-        "Kramer",
-        "Jerry",
-        "Earl"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You see? We were made for each other.  It's amazing. If I reach out and touch her breast right not, she'd scream and throw me out of the car. But at this time tomorrow, I could touch it all I want.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Christie",
-        "George"
+        "Rudy",
+        "Izzy",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh, Jerry, uh, I was wandering, would it be possible – and if it's not, fine – for me to stay here tomorrow night too?",
+      "quote": "I... I think I'm... I'm having trouble swallowing. I can't... I can't swallow.",
       "characters": [
-        "Wilhelm",
-        "Jerry",
+        "Poppie",
         "George",
-        "Laura"
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Laura"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, this you're not gonna believe. I found out why I was testing positive for opium. Poppy seeds!",
+      "quote": "You call me fatso one more time; you're going to be walking back.",
       "characters": [
-        "Elaine",
+        "Newman",
         "Jerry",
-        "Naomi",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, sure. Of course, you're entitled. Who doesn't want this, that, and the other?",
+      "characters": [
+        "Pam",
+        "Jerry",
+        "Kramer",
         "George"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So get this: we're in the park today Alex goes wild for this hairless dog.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't understand, Elaine. I don't want to be overanxious. If he wants to see me he has my number, he should call.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Ben",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You remember that next door neighbor of mine, the apartment that always smells like potatoes?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Guy",
+        "Kramer"
+      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I knew you'd have an affinity for it, because it's the dance of a very proud people.",
+      "quote": "What is wrong with my hair? Nobody takes better care of their hair than me. You can serve dinner on my head.",
       "characters": [
         "George",
-        "Tina",
+        "Elaine",
         "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You think Manya showed up during the game and put a hex on me?",
-      "characters": [
-        "Elaine",
-        "Gennice",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well you know George. It's not good enough to get there. You gotta make good time.",
-      "characters": [
-        "George",
-        "Simon",
-        "Elaine",
-        "Newman"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, I'm goin' there today. In fact you should see this house keeper he's got. She's from Senegal [and, ala Carson] Wild, Wild, Stuff...",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What, you're gonna take her word over mine? I'm your best friend!",
-      "characters": [
-        "George",
-        "Frank",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

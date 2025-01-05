@@ -1,61 +1,31 @@
 {
-  "gameNumber": 53,
+  "gameNumber": 54,
   "date": "2025-02-25",
   "questions": [
     {
-      "quote": "Well I just got it. Spector gave it to me , he's giving everything away...becoming a minimalist.",
+      "quote": "...'s very emasculating, he doesn't know the nature of our relationship. You're there approving new clothes.....That's a girlfriend job! How dare he!!",
       "characters": [
-        "Brett",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hi, we're from the United Volunteers, we've come to pick up the TV.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "As much as I'd like to see the two of you living it up in a warm, tropical, setting, I, I would just miss you too much.  So, I've decided, I want you to stay.",
-      "characters": [
-        "George",
-        "Woman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "\"I don't know but I was spitting out and rinsing like there was no tomorrow.\"",
-      "characters": [
-        "Gary",
         "Jerry",
         "Kramer",
-        "Elaine"
+        "Elaine",
+        "Brett"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm not a very religious person but I do feel as if I'm in need of some guidance here.",
+      "quote": "Yeah, yeah. You must have squirted a piece of pulp in it too.",
       "characters": [
-        "Puddy",
-        "George",
+        "Newman",
         "Jerry",
-        "Elaine"
+        "Frank",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm wearin' a little hat, I'm jumpin' through fire.. They're puttin' their little alien heads in my mouth..",
+      "quote": "I suppose if I had suggested Liam Neeson Day, you'd all be patting me on the back.",
       "characters": [
-        "Audrey",
+        "Jerry",
         "Kramer",
         "Elaine",
         "George"
@@ -63,42 +33,72 @@
       "correctAnswer": "George"
     },
     {
-      "quote": "No. No. No. No. No. I don't really have a phone. In fact, I - I really don't have an apartment. I kinda sleep around.",
+      "quote": "Who's gonna send money to my sister in Virginia? Her little boy needs surgery on his foot. Now he'll be walking around with a limp because you can't park a few cars.",
       "characters": [
-        "Estelle",
-        "Kramer",
+        "Toby",
+        "Helen",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "So, I was sitting at the reception desk, I was looking pretty hot. I was wearing my sling back pumps.",
+      "characters": [
         "George",
+        "Ben",
+        "Ned",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "And you can't cast aspersions on someone just because they're wearin' a cape... Superman wore a cape... An' I'll be damned if I'm gonna stand here an' let you say something bad about him.",
+      "quote": "The hands of a man. It's like a creature out of Greek Mythology, I mean, she was like part woman, part horrible beast.",
       "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "Wilhelm",
+        "Morty",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Uh, well, It's a very private matter, but it's extremely urgent.",
+      "quote": "And your crab legs, and a thing of cheese. The Triple-A guy said I was this close to sucking a muffin down the carburetor. What were you thinking?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm telling you, something's going on. I can feel it, sense it.",
       "characters": [
         "George",
+        "James",
         "Jerry",
-        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, that's just Jane driving home to New York in the middle of the night.",
+      "quote": "Oh, see that's not fair. We-We were here ahead of all these people.",
       "characters": [
+        "Kramer",
+        "Levitan",
         "George",
-        "Elaine",
-        "Officer",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! Come on, you told them you're from out-of-town just so you could stay in a hotel room.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

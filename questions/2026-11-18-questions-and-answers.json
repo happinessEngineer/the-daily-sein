@@ -1,104 +1,104 @@
 {
-  "gameNumber": 684,
+  "gameNumber": 685,
   "date": "2026-11-18",
   "questions": [
     {
-      "quote": "Well, I'll tell you, Stacey. It's a lot of hard work. But, it comes fairly easy to me. Some people write symphonies. This is my gift.",
+      "quote": "No wait, I gotta go in here and pick up Mr. Pitt's tennis recquet.",
       "characters": [
+        "Craig",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, he did. You know, after that, he had a nervous breakdown? Had to spend a few months in an institution.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If you do dance, the cooks want to know - so they can be brought out of the kitchen. They missed it last year.",
+      "characters": [
+        "Jerry",
+        "Rebecca",
+        "Waiter",
+        "Elaine"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "So, George, what are you doing now? I hear you got some kinda television, writing - thing?",
+      "characters": [
+        "Shelly",
+        "Ron",
+        "Testikov",
+        "Jerry"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "Oh, no no. Tuesday's uh no good becasue we've got choir practice.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "With you two guys at the helm. The last piece of the puzzle is in place.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, maybe if I didn't have so many people in my apartment all the time I'd be able to get some work done.",
+      "characters": [
+        "Man",
         "Kramer",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yea, ya..ya know I feel terrible about Joey but it's jus..it's a great business opportunity. I-I don't even know how long I'm gonna be away for.",
+      "characters": [
+        "Jerry",
         "George",
-        "Poppie"
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh!  Do you know what this means, it's like working with Tolstoy!",
+      "quote": "Now listen. I just don't know how a person, with everything we now know about pre-natal care can put a cigarette in her mouth.",
       "characters": [
+        "Darren",
         "Elaine",
-        "George",
-        "Silvio",
+        "Estelle",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh yeah? Well, maybe I'll go out there and knock a few balls around with him. You know, show him a thing or two..",
+      "quote": "Wait a second... wait a second!!  The letter, that's the letter!",
       "characters": [
         "Jerry",
-        "Newman",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It's unbelievable. You know what else is unbelievable? I picked up the check. She didn't even offer. She ended it. The least she could do is send me off with a sandwich.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, that's it. I'm going back to Putty. No move is worth this.",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "Jerry",
-        "Mike"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "The door? Why would I go out the door? The window's right here.",
-      "characters": [
-        "Susan",
-        "Puddy",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because I could get uromycitisis poisoning and die - that's why.",
-      "characters": [
-        "Frank",
-        "Maestro",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, I know she's mad at me, but I really have to speak with her.",
-      "characters": [
-        "Elaine",
-        "Nikki",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Assistant to the General Manager!!  Do you know what means?!?  He'd could be askin' my advice on trades!  Trades, Jerry, I'm a heartbeat away!",
-      "characters": [
-        "Elaine",
-        "Rava",
-        "George",
-        "Tor"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes! Step into that spotlight and belt that gonorrhea out to the back row.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Rebecca"
+        "Morty",
+        "Lisi"
       ],
       "correctAnswer": "Jerry"
     }

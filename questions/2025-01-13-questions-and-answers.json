@@ -1,106 +1,106 @@
 {
-  "gameNumber": 10,
+  "gameNumber": 11,
   "date": "2025-01-13",
   "questions": [
     {
-      "quote": "I don't understand, I made a reservation, do you have my reservation?",
+      "quote": "So, Simon is definitely going back now. He's meeting me here to return my keys.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Susan",
-        "Gwen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Listen, could you mail those to me? Or bring them by my building, it's 129 West 81st St.",
-      "characters": [
-        "Kramer",
-        "Christie",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry, come on. Don't get upset about it. There's always next spring. Now will you excuse me for a moment. Serenity nooooooooww!",
-      "characters": [
-        "George",
-        "Jake",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ah, I think I'm on the outs with Brett. I got shushed during Desperado.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Pop",
+        "Newman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Alright, you know what, uhm... I just wanna take my car, and I'm gonna bring it someplace else.",
+      "quote": "Well, last night she told me that she liked you. Not you, the disturbed you, so I had to tell her the truth.",
       "characters": [
-        "Elaine",
-        "Leo",
-        "Jerry",
-        "Mickey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He's over there in the overcoat. If you could just kind of put a scare into him.. You know, set him straight..",
-      "characters": [
-        "Owner",
-        "Kramer",
-        "Donna",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "If every instinct you have is wrong, then the opposite would have to be right.",
-      "characters": [
-        "Elaine",
-        "Betsy",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I've had bedroom naked, I've had walk-to-the-bathroom naked... I have never had living-room naked.",
-      "characters": [
-        "Wilhelm",
         "George",
+        "Frank",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, Honey, one last look, then you have to let Fredo rest in peace.",
+      "quote": "Oh, no no no -- We bought the wine here before, but now, you know we're bl-blocked in by some car double parked and we're just waiting for the guy to pull out.",
       "characters": [
-        "Phil",
-        "Kramer",
-        "Frank",
-        "Rebecca"
-      ],
-      "correctAnswer": "Phil"
-    },
-    {
-      "quote": "ha ha well I know something about getting to first base. And I know you'll never be there.",
-      "characters": [
-        "Gwen",
         "George",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah yeah, don't you know they used pastrami in that movie 9? weeks? Remember the pastrami scene?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know what you're getting all riled up about. There are probably a million Costanzas-",
+      "characters": [
+        "George",
+        "Hoyt",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I did invite you. Your invitation must've gotten ... lost in the mail.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "A.A. It's one of the Twelve Steps. Step number Nine is you have to apologize to anyone you've ever wronged.",
+      "characters": [
+        "Elaine",
+        "Nina",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I just want you to know I'm there for you. Course now I'm here for you, but when i'm not here for you, i'm there for you.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is he doing? Is he getting coffee? I think he's getting coffee.!",
+      "characters": [
+        "Jerry",
+        "Guy",
+        "Mickey",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No Jerry! I - I need that chicken, I gotta have that chicken. Now you leave those roasters alone. Kenny never hurt anybody.",
+      "characters": [
+        "Vivian",
+        "Estelle",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

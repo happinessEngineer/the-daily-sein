@@ -1,106 +1,106 @@
 {
-  "gameNumber": 401,
+  "gameNumber": 402,
   "date": "2026-02-08",
   "questions": [
     {
-      "quote": "Elaine, bald men, with no jobs, and no money, who live with their parents, don't approach strange women.",
+      "quote": "Not our \"all the way\", their \"all the way.\" I got the stink of responsibility on me.",
       "characters": [
-        "Elaine",
         "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "\"...'cause you don't even make the slightest effort to offer happiness still know that I love you!!\"",
-      "characters": [
-        "Morty",
-        "Sally",
-        "Jerry",
-        "George"
+        "Elaine",
+        "Sid"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, you're in a relationship with a woman you don't like, and you're having an affair with a woman that won't have sex with you.",
+      "quote": "As you will see, the candy bar is paid for, and yet, remains dangling in the machine.  Hey, it's gone. Where is my Twix?  What?! That guy's eatin' it!",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Estelle",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It is a big deal. You're supposed to serve cake after a meal. I'm sorry. It's impolite.",
-      "characters": [
-        "Elaine",
         "George",
-        "Kramer",
-        "Estelle"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Yeah, and I - I heard you got on their good side. Now, what'd you do?",
-      "characters": [
-        "George",
-        "Susan",
-        "Elaine",
-        "Mickey"
+        "Manny"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Pretty chintzy, huh? Considering the money she makes.. She's a big executive for Federal Express.",
+      "quote": "\"Well\"? We've been dating for three months. Between you and me, and.. anyone else you want to tell.",
       "characters": [
         "Jerry",
-        "Morty",
+        "Elaine",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-",
+      "characters": [
+        "George",
+        "Elaine",
+        "Man",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I've never heard of anything like this. I mean, it's almost as if I was hitch-hiking and she says \"Well, this is as far as I can take you.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know the only reason I'm doing this is because you took Audrey to the hospital.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well you know in college they used to call me the little bulldog.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, car accident. He was trying to adjust his toupee while he was driving and he lost control of the car.",
+      "quote": "You know, it is so sad, all your knowledge of high culture comes from bugs bunny cartoons.",
       "characters": [
         "Kramer",
-        "George",
-        "Tom",
+        "Elaine",
+        "Newman",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, wha -- I, uh -- uh, we were kind of, uh, talking to each other, weren't we?",
+      "quote": "Well, actually, we did date for a while, but... it's really not relevant here.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Connie",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Does she care? No. Does anyone ever display the slightest sensitivity over the problems of a fellow individual? No. No. A resounding no!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Alec",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't even know what they think. That's why I'm in therapy.",
-      "characters": [
-        "George",
-        "Woman",
         "Peterman",
-        "Jerry"
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, actually, he, um, doesn't really like to do... everything.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Leslie"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

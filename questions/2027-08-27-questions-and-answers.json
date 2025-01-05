@@ -1,106 +1,106 @@
 {
-  "gameNumber": 966,
+  "gameNumber": 967,
   "date": "2027-08-27",
   "questions": [
     {
-      "quote": "Fine. Steal the battery. Now, all right, here is the Frogger. This is the front door, and this is the outlet.",
+      "quote": "Every wake-up call I make is important. You're no more important than any of our guests.",
       "characters": [
+        "Jerry",
         "George",
         "Kramer",
-        "Fred",
-        "Sharon"
+        "Man"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Man"
     },
     {
-      "quote": "Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that \"Atomic Sub\" card.",
+      "quote": "You heard me young lady, get in the car.  And you, you should know better. I don't want you infecting my staff.",
       "characters": [
-        "George",
+        "Kramer",
         "Jerry",
-        "Elaine",
-        "Maura"
+        "Newman",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, Planet 9 From Outer Space is playing tomorrow night. One show only.",
+      "quote": "What about Thursday night? I mean they're playing the Sonics.",
       "characters": [
-        "Jerry",
         "Elaine",
         "George",
-        "Steinbrenner"
+        "Joel",
+        "Frank"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Joel"
     },
     {
-      "quote": "Well, I can't argue with that, but the fact remains... I was completely...  Mulva!",
+      "quote": "Well, that's it! Tonight's the night. I'm getting one. No \"if and's or but's\".",
       "characters": [
-        "Newman",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Sure. You know, Rhisa. I've always found you... very attractive.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "and this whole justice league, Batman, Green Lantern, Wonder Woman. You mean to tell me Superman can't cover everything?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Woman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Channel eleven? Forgive me for trying to class up this place, for trying to have the Yankees reach another strata of society that might not watch channel eleven.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "\"...'cause that's what you need to do to prove I'm not going to leave you. I'm sick and tired of running from places and people and relationships. You want me, that fight for me, becau-\"",
-      "characters": [
-        "Kramer",
-        "George",
+        "Morty",
         "Estelle",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, no, no, no, no. Because I'm picturing 'French Connection', kind of thing. You know? Sort of a Popeye Doyle chase through the city!",
+      "quote": "I just remembered, I gotta be someplace. Yuh-hu-hur, that's enough. Pop. Pop, put down the wrench, Pop.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It would have been nice if someone told me about it. I just think you could have said something. That's all.",
+      "characters": [
+        "Sid",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you eating my peanut butter out of the jar with your disgusting index fingers? This is a sickening display.",
       "characters": [
         "Jerry",
+        "George",
+        "Russell",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure, sure, sure, sure.  How about these seats? Are these fantastic, huh? Huh? I feel like Lincoln.",
+      "characters": [
+        "Jerry",
+        "George",
         "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wha-- oh!  Oh, god!  That is the THIRD time today I have done that! BLAAAH!  Grabbing news- papers... I'm just tugging at 'em...",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "Kramer",
-        "George"
+        "Doctor"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh yeah, she called a little earlier. She's coming over to check out lost and found.",
+      "quote": "Yes I know. I just-- I can't get you out of my mind. Ever since that-- that day in the restaurant when we met...",
       "characters": [
+        "Kramer",
+        "Elaine",
         "Jerry",
-        "Toby",
-        "George",
-        "Kramer"
+        "Russell"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Russell"
     }
   ]
 }

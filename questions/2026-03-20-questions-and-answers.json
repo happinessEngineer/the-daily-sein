@@ -1,106 +1,106 @@
 {
-  "gameNumber": 441,
+  "gameNumber": 442,
   "date": "2026-03-20",
   "questions": [
     {
-      "quote": "Uncle Leo! I just met an old acquaintance of yours.  You remember Buddy. He just told me quite a story about you and Grandpa at the track.",
+      "quote": "Well, he gave me the morning off, I was doing a little... shopping. How did this happen?",
       "characters": [
-        "Morty",
         "Elaine",
-        "George",
+        "Newman",
+        "Helen",
         "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "OK, just a second lets not lose our heads here. Kramer you know you are always welcome in my home but as far as Mr. Johnson is concerned, that's another story.",
+      "characters": [
+        "Diane",
+        "George",
+        "Jerry",
+        "Lou"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I meet this women, Sheila. She works down at the one hour photo pace. She's got this incredible smile. Like she's got extra teeth or something",
+      "quote": "Uh, no uh, someone offered Harold and Manny five thousand for the apartment. I'm sure they'd just as soon give it to you, but you'd have to come up with that money.",
       "characters": [
         "Kramer",
+        "Frank",
         "George",
-        "Donna",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They look like keys, George. They look exactly like keys.  \"What do they look like.\"",
-      "characters": [
-        "Rabbi",
-        "Jerry",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go.  Three dollars, no change. You want one?",
+      "quote": "Hi! Hey, look at this - I just got a citation in the mail for my work with shut-ins.",
       "characters": [
-        "George",
         "Elaine",
-        "Jerry",
+        "Lena",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Lena"
     },
     {
-      "quote": "Alright, fine. Fine. Go ahead.  Cut the stupid thing in half.",
+      "quote": "Where's your bathroom scale?  Oh my god, I've gained seven pounds.",
+      "characters": [
+        "Elaine",
+        "Captain",
+        "Stan",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, that kinda brings us to why I'm here. You got eleven minutes?",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Woman",
+        "Joe",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Why don't you sit down, Poppie? You're still recuperating.  What, are you tired, Poppie?",
+      "quote": "Ben Cantwell. 85. Huh... You think we'll make it to that age?",
       "characters": [
-        "Elaine",
-        "Michael",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Because before you know it he'll be having lunch with him. You know how these interoffice politics work.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Newman",
+        "Jack",
+        "Susan",
+        "Waiter",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright, this one is about 8 years old. Not a scratch on it, it was owned by some lady who only used it to go from the bathroom to the kitchen and to feed her cat.",
+      "quote": "Wow! That's the astronaut pen. I heard about that. Where did you get it?",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Salesman",
-        "Levitan"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "No, no, no, I sensed something. I did sense something. I perceived a possibility Jerry.",
-      "characters": [
+        "Landis",
         "George",
-        "Cop",
-        "Kramer",
-        "Elaine"
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Would you just keep an eye out for this woman. She's about ye high and eh, she doesn't swing her arms when she walks.",
+      "characters": [
+        "Elaine",
+        "Jane",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, yeah, that's right. Those new kitchen cabinets. How is that coming?",
+      "quote": "Raincoats?  You think you're gonna sell those old crappy raincoats? That's garbage.",
       "characters": [
         "Kramer",
-        "Julie",
+        "Jack",
         "Elaine",
-        "George"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jack"
     }
   ]
 }

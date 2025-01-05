@@ -1,106 +1,106 @@
 {
-  "gameNumber": 955,
+  "gameNumber": 956,
   "date": "2027-08-16",
   "questions": [
     {
-      "quote": "Morty, doesn't that watch look like the one that we gave Jerry.",
-      "characters": [
-        "Driver",
-        "Newman",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft.",
-      "characters": [
-        "Manny",
-        "Rudy",
-        "Jerry",
-        "Tim"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It can't be the nudity. I never got into these terrible fights and misunderstandings when I was changing before gym class.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I used to share that same outlook. But now, I have so many things to occupy my mind. For instance, the atom.",
+      "quote": "You know what? You're right. These reports, they can wait a couple of hours. Whadda say we go out tonight? Any place you want.",
       "characters": [
         "George",
         "Elaine",
-        "Kramer",
-        "Susan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That book has been on a wild ride. George took it into the bathroom with him and-",
-      "characters": [
         "Jerry",
-        "Tony",
-        "George",
-        "Puddy"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What for? This man was nice enough to see you. He did me a personal favor.",
+      "quote": "Well it can't be any worse than the pointless drivel we normally churn out.",
       "characters": [
-        "Leo",
-        "Kramer",
-        "Helen",
-        "Morty"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "That is a Schwinn Stingray! And it's the girl's model! Oh, I always wanted one of these when I was little.",
-      "characters": [
-        "Elaine",
-        "Frank",
-        "Steve",
-        "Carl"
+        "Vivian",
+        "Hanke",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That's the Commando 450, I don't sell that one. What about thi-",
+      "quote": "Hey, you know what? This is all your mail. They're puttin' it in my box now.",
       "characters": [
-        "Salesman",
         "Jerry",
-        "George",
-        "Keith"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "I don't know. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds of celery, chopped parsley...\"",
-      "characters": [
-        "Rick",
-        "Brett",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, Newman. What do I have to do to get you to stop pulling the strings for Kramer?",
-      "characters": [
-        "Elaine",
         "Kramer",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello… yeah… yes it is… really… ah, ah… Could you hold on a second?  Hey listen to this, some woman found an electronic organizer, my name was in it, she wants me to help her track down the owner.",
+      "characters": [
+        "Jerry",
+        "Donna",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you've only got another fifty years or so to go before it'll *all* be over...",
+      "characters": [
+        "Deena",
+        "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A matador! Well, well, well. Uno momento por favor. Pray tell, what was the young man's name?",
+      "characters": [
+        "Helen",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeahhh, am I imagining this?  Found this little cutie in the pocket.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes! Yes. You know. She didn't know about Pasteurization. He didn't know anout Fumigation. But they made it work!",
+      "characters": [
+        "Gary",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, for all I know this guy went out of his way to not invite you. How am I gonna feel if I show up with an uninvited, unwelcome intruder?",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Ned"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? But, it's a little bit slow out there it rained last night.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Guy"
     }
   ]
 }

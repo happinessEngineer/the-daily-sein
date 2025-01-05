@@ -1,104 +1,104 @@
 {
-  "gameNumber": 995,
+  "gameNumber": 996,
   "date": "2027-09-25",
   "questions": [
     {
-      "quote": "Look I'm sorry about before....I mean I'm sure I'll learn to like her, Jerry",
+      "quote": "Oh, Mr. Lippman you forgot your handkerchief. Mr. Lippman, you forgot your handkerchief. It's on my desk.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no no it's not about postponing. I just think the first day of Spring is the perfect day to get married. You know, Spring! Rejuvenation! Rebirth! Everything is blooming all the …",
+      "characters": [
+        "Jack",
+        "Jerry",
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is much better. And frankly, in Memphis, we think that other sauce as  kind of a joke.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Hey! Is that Peter? ...I can't believe it. Get me a cup of Decaf.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, I'm sorry, but the Alex is a family theatre, not one of your swing joints.",
       "characters": [
         "Kramer",
-        "Jerry",
         "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'm just gonna get my jacket, I'll meet you downstairs. What's the matter, did you call?",
+      "quote": "Jerry Seinfeld. My best friend. He can explain all of this.  Jerry.",
       "characters": [
         "Jerry",
         "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, we're kind of in the middle of something here. Would you mind coming back later?",
+      "characters": [
         "Peterman",
-        "George"
+        "Newman",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, my wife couldn't make it today. She's got something with her mother... Who knows what's going on with her. Don't let any one kid you, it's tough.",
+      "quote": "Everyone in my family's creative. And even though I'm working as an accountant now I'd really like to eventually live exclusively on my pappe-ay mache-ay hats",
       "characters": [
-        "Jerry",
+        "Ed",
         "Elaine",
         "Kramer",
-        "George"
+        "Patrice"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Patrice"
     },
     {
-      "quote": "Yeah... Hey, Drake, what ever happens, I am sure it'll be for the best.",
+      "quote": "Ok, fine. I'll go back... You know, our goal should be a society *without* *classes*! [She goes through the curtain to, ick, *coach*] Do you realise that the people up here are getting *cookies*!",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "John",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Me? You see what he did here, you see how he tried to sneak into my space?",
-      "characters": [
-        "Jeannie",
-        "Betsy",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The way I remember it, Cain, he was a successful doctor, but when he took this special formula, he became Mr. Able.",
-      "characters": [
-        "Tim",
         "Jerry",
-        "Kramer",
-        "Jack"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry, he want me to fix him up with Marisa Tomei. I am not gonna be a part of this!",
-      "characters": [
-        "Hanke",
-        "Chiles",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Please, we can't find our car. Please drive us around the parking lot to find our car. My fish are dying.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Hal",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "There was a man, he was trying to get into my apartment last night. He was jiggling the doorknob for twenty-five minutes.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
+        "Ruby",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, I finally got to see Dr. Kazarian. He said it was really bad.",
+      "quote": "She does a lot of abstract stuff. In fact she's painting Kramer right now.",
       "characters": [
-        "Herb",
         "George",
-        "Debby",
-        "Jerry"
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

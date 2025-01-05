@@ -1,106 +1,106 @@
 {
-  "gameNumber": 959,
+  "gameNumber": 960,
   "date": "2027-08-20",
   "questions": [
     {
-      "quote": "Elaine, see this T-shirt, six years I've had this T-shirt. It's my best one, I call him… Golden Boy.",
+      "quote": "They had more than some monies. Many, many monies. And they planned to give a sizable portion of their estate to you and Susan after the wedding.",
       "characters": [
+        "Newman",
         "Kramer",
-        "Testikov",
+        "Vandelay",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "So let me get this straight. She saw the floss, you panicked and you told her you liked her.",
+      "characters": [
+        "George",
+        "Susan",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Still killing me from having to get that bike off the wall.  By myself.",
+      "quote": "And when is Brother Costanza planning on telling Mother Costanza?",
       "characters": [
-        "Jerry",
         "Elaine",
+        "Kramer",
         "George",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah. I'm getting rid of all, all my furniture. All of it! I'm building... levels... with steps... completely carpeted...  with pillows.  Like Ancient Egypt.",
-      "characters": [
-        "Kramer",
-        "Tom",
-        "Jerry",
-        "Gary"
-      ],
-      "correctAnswer": "Tom"
-    },
-    {
-      "quote": "Hey, hey, hey, hey. You know what would make a great coffee table book? A coffee table book about coffee tables! Get it?",
-      "characters": [
-        "Kramer",
-        "Morty",
-        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Pre-prediction. You'll be calling me to ask if you can come and visit him before the month is out.",
+      "quote": "All right, George. I'm gonna tell you. But I just wanna make sure, before---",
       "characters": [
+        "Rudy",
         "George",
-        "Gavin",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Gavin"
-    },
-    {
-      "quote": "He, uh, had to go to LA. There's a problem on the set of Blossom.",
-      "characters": [
-        "George",
-        "Carol",
-        "Rita",
-        "Elaine"
-      ],
-      "correctAnswer": "Rita"
-    },
-    {
-      "quote": "How do people fast? Did Ghandi get this crazy? I'm gonna walk around, see what dishes look good.",
-      "characters": [
-        "Sally",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, no pop-in, no \"in the neighborhood,\" no \"I saw your light was on.\" And the best part is, if things go really well...",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Anaheim Hotel.  You may want to reconsider. I believe they only have room service until 10 P.M. and then it's only finger foods.",
-      "characters": [
-        "Ade",
-        "Sharon",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Ade"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I get the feeling when lesbians are looking at me, they're thinking: \"That's why I'm not heterosexual\".",
+      "quote": "What are we supposed to do? What do you do on a situation like this? Should we call a lawyer, should we call the police?",
       "characters": [
+        "Elaine",
         "Kramer",
-        "Chiles",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, it was just Kramer...apparently I killed Miss Rhode Island's doves with a bucket of water last night.",
+      "characters": [
+        "Simon",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come.",
+      "characters": [
+        "Dan",
+        "Joel",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "He never even called Ed Roydlick. They were looking for someone!",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "We have no need to speak. We communicate with deep soulful looks.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And what if I don't make the plane? You'll have already left. Then what will I do?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Kelly",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
     }
   ]
 }

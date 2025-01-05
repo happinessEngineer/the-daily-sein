@@ -1,106 +1,106 @@
 {
-  "gameNumber": 894,
+  "gameNumber": 895,
   "date": "2027-06-16",
   "questions": [
     {
-      "quote": "Jerry, how come you didn't say hello to me the other day, huh?!",
+      "quote": "Come on. What's the big deal? Just gonna put a little concrete in the washing machine.",
       "characters": [
-        "Jerry",
         "Kramer",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "I guess it would be nice if you called all the ticket holders if the game was going to be rained out.",
-      "characters": [
         "George",
-        "Frank",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's it. What you want one George? I can get one for you. No problem. Jerry, you want one? They're delicious. My pleasure.",
-      "characters": [
-        "Mickey",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Peterman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh I can't believe-- why don't you get rid of that piece of junk.",
+      "quote": "Oh, man. You know what... they got the fudge on the bottom-- y'see? That enables you to control your fudge distribution as you're eatin' your ice cream.",
       "characters": [
+        "Elaine",
         "Jerry",
         "George",
-        "Morty",
-        "Attendant"
+        "Pam"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's right in the explosion scene. So if you could just...leave me a little window. You know, my, uh, my aunt had a thing removed with a laser. All right, I don't want to interrupt your meal, so...",
-      "characters": [
-        "Newman",
-        "Jack",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just got here, Ma! I'd like to spend a little time with you.",
-      "characters": [
-        "George",
-        "Ruby",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Anyway ... So John told me that Richie is in town from Los Angeles and he's really messed up on drugs. So I told him that he should do an intervention.",
+      "quote": "Is that so unforgivable? Is that like breaking a commandment? Did God say to Moses thou shalt not pick?",
       "characters": [
         "Elaine",
-        "Man",
+        "Todd",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no. Don't do it. Don't do it! For my sake! God knows I don't ask you for much!  Now, come on. Please, Jerry. Please! I'm beggin' ya! Please!  Come on! Please!",
+      "characters": [
+        "Kramer",
         "Jerry",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Uh, well, listen. I feel really horrible about trying to keep you two apart and I just wanted to apologize.",
+      "quote": "Well, I found this rope and I kept tugging on it, and all these lobsters came up.",
       "characters": [
-        "Cop",
-        "Newman",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, I can't believe you're dropping out, too. So now Kramer and I have to pay for the entire gift?",
-      "characters": [
-        "Susan",
+        "Helen",
         "George",
-        "John",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey Kramer, my parents are gonna have to move back to Florida, isn't that great?",
+      "quote": "Oh come on, we're gonna start doing this now? I can't be taking all your dry-cleaning in!",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Keith"
+        "Ron",
+        "Kramer",
+        "Leo"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh my god. Yes, you close with the swirl. There's a progression there. I told you to write it down.",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "Detective",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What a surprise.  Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no more cockfighting. Let's just sell him to Marcelino the cockfighter and be done with it!",
+      "characters": [
+        "Kramer",
+        "Wilhelm",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "…Then, the last person to leave is Wilhelm.  He sees my car, he figures I'm burning the midnight oil.  Between the two of them, they think I'm working an 18 hour day!",
+      "characters": [
+        "Wyck",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

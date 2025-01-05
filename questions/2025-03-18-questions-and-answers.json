@@ -1,106 +1,106 @@
 {
-  "gameNumber": 74,
+  "gameNumber": 75,
   "date": "2025-03-18",
   "questions": [
     {
-      "quote": "\"You know.. You really shouldn't brush 24 hours before seeing the dentist.\"",
+      "quote": "Do you hold the neck together with one hand, or are you just letting it flap in the breeze?",
       "characters": [
-        "Elaine",
+        "Wilhelm",
         "Jerry",
-        "Peterman",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I am never saying 'I love you' again unless they say it first.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, it didn't quite work out, and now I've got nothing for them to do.",
-      "characters": [
-        "Elaine",
-        "Steinbrenner",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No Jerry, it is out of the question. You know what sex does to a friendship, it kills it.",
-      "characters": [
-        "Susan",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, fine. I'll drive the 3 hours each way, 6 hours all together, and take 'em off myself!!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
+        "Holly",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, it was overheating. You should take better care of that thing.",
+      "quote": "I was doing standup comedy in Kennebunkport Maine. ??? night club. The stage was on a cliff and the audience was throwing all the comics off.",
       "characters": [
-        "George",
-        "Kramer",
+        "Newman",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I've been to a few of em. If you uh start to get woozy later, which is quite common, stay close to me. I'll get you through it.",
-      "characters": [
         "Frank",
-        "Kramer",
-        "George",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "We have to make the flight, we're with a charter group. If we don't the trip is off.",
+      "quote": "Ninety-four years old. I found her yesterday. She didn't have her wig on. It was horrifying.",
       "characters": [
+        "Jerry",
+        "Harold",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Harold"
+    },
+    {
+      "quote": "Are - are you dense? I said I wanted you to drop dead. Now.. drop dead!",
+      "characters": [
+        "Fdr",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Fdr"
+    },
+    {
+      "quote": "We are gathered her today to unite this couple in holy... matrimony.",
+      "characters": [
+        "Jerry",
+        "Father",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Hey, Jerry!! How's it going?! You gonna join us for dinner? The duck here's the best. The best, Jerry.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Dana",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Hey, she wants me to dress uh \"smart casual.\" What uh, what is that?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jake"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. There ya go. That's Beef-A-Reeno.  I'm so keen-o On Beef-A-Reeno What a delicious cuisine-o Fit for a king and queen-o! Yeah. Eat up. I got thirty four more cans.",
+      "characters": [
+        "Kramer",
         "George",
         "Jerry",
-        "Kramer",
-        "Helen"
+        "Detective"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I see you're still sticking with the denim.  Do you have that card that I gave you?",
+      "quote": "Hold it, hold it...Look your gonna need the jaws of life to get out of those things.",
       "characters": [
+        "Kramer",
+        "Anna",
         "Elaine",
-        "Peterman",
-        "Helen",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Don't you see what's going on here? He set us up. He's playing all these mindgames.",
+      "quote": "I've worn one once and I really think it did something for me.",
       "characters": [
-        "Elaine",
+        "Jerry",
         "George",
-        "Kramer",
-        "Peterman"
+        "Attendant",
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

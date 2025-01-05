@@ -1,49 +1,89 @@
 {
-  "gameNumber": 635,
+  "gameNumber": 636,
   "date": "2026-09-30",
   "questions": [
     {
-      "quote": "I don't get this Scissorhands. What, is he supposed to be like a super hero, like Green Lantern or somebody? What's with this guy?  Just asking.",
+      "quote": "No, no. I don't wanna say it out loud. Kills the spontaneity. You know, Gleason, he never rehearsed.  'Kay, go 'head, do it.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Regis",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Blow out the candles! Blow out the candles, I said! Blow out the damn candles!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Susan",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Nah, I got it from a guy on the street. It was, like, fifty bucks.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Deena"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Busy. Don't give me busy. Who's not busy? I'm busy, we're all busy, everybody's busy. All right, tell me, what's kept you so busy?",
+      "quote": "What the *Hell* is going on here? How do you *lose* a human being?!",
+      "characters": [
+        "Doorman",
+        "Elaine",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "If I have this much influence over her, why don't I just call her an' tell her to get back together with him--that's aalll!",
       "characters": [
         "Elaine",
-        "Newman",
+        "George",
         "Kramer",
-        "George"
+        "Tony"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A divorce? Oh, so you can marry her and give her the discount?",
+      "characters": [
+        "George",
+        "Meryl",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Meryl"
+    },
+    {
+      "quote": "Alright that's it.  So you get rid of me and now the two of you are going to sleep together?",
+      "characters": [
+        "George",
+        "Susan",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You follow your katra, and you can do anything.  Now get out of here.",
+      "quote": "What's been going on out there? I've been standing here 20 minutes.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Ellen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ohh yeah. A wise man once taught me the Healing power of the body's natural pressure points.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just wanted to talk to him for a minute, but I'll come back.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, the library is kind of a cool place when it's closed.",
       "characters": [
         "Elaine",
         "Jerry",
@@ -53,54 +93,14 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Uh huh. Well uh, I'll give you a call, and thanks for the fish. By the way, you know why fish are so thin?",
+      "quote": "We're taking Elaine to dinner. She's got to start the fast again. Um, you want to go?",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, well, send them in. Send the little tykes in. … little people .. pony express … wow,",
-      "characters": [
-        "Steinbrenner",
-        "Kramer",
+        "Phil",
+        "Conrad",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "George, you've been wearing those boots since I met you. You're not gonna wear them to the wedding, are you?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Lippman",
-        "Nina"
-      ],
-      "correctAnswer": "Nina"
-    },
-    {
-      "quote": "So, he made an appointment for me to see Dinkins' doctor. He's just trying to humiliate me.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Eva"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well that was a really stupid thing! You know what's going to happen now?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Doctor",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

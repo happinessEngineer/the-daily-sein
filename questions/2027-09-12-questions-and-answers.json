@@ -1,106 +1,106 @@
 {
-  "gameNumber": 982,
+  "gameNumber": 983,
   "date": "2027-09-12",
   "questions": [
     {
-      "quote": "My friend Bob Sacamano had shock treatments. But his synapses were so large, it had no effect.",
+      "quote": "She's at it as you get. Imagine bumping into her on the street in five years with a husband. And she tells me he's a sculptor, they live in Vermont...",
       "characters": [
+        "Peterman",
+        "Elaine",
+        "Diane",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no she can't tell. It's a perfect match. Beautiful job.",
+      "characters": [
+        "Frank",
+        "Keith",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay, Jerry, now when the glee club's finished singing, George goes on, then you.",
+      "characters": [
+        "Katie",
+        "George",
         "Kramer",
-        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "I guess we are just going to have to teach him to wear the ribbon!",
+      "characters": [
+        "Bob",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Thank you very much... Well, then go out and smell the car; see which smells worse.",
+      "characters": [
+        "Jerry",
+        "Keith",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, I couldn't stop thinking about how everyone was enjoying the lobster so much an' well I thought I little taste wouldn't hurt, huh?",
+      "characters": [
+        "Elaine",
+        "Kate",
+        "Kramer",
+        "Rachel"
+      ],
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Audrey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The add said that the bank's gonna pay a hundred dollars if you are not greeted with a hello",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Uh-m, uh I'm so sorry Roy, but actually, we are going to the, Poconos on Friday, right honey?",
+      "quote": "No you can't.  Now let's cut the ball, sister! You think I don't know about you swapping spit with somebody yesterday on Columbus Avenue?",
       "characters": [
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Manny",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I know, I know. But some how she explained it to me and I couldn't say no.",
-      "characters": [
         "Elaine",
-        "Mike",
-        "George",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "But if you think about it...26 teams, 162 games a season, you'd think eventually an entire team would get wiped out.",
+      "quote": "I was quoting him. Why would I be insulted? I'm never insulted. You could call me baldy, dump soup on my head. Nothing insults me.",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You see? You see? Smart people think this is funny and you want to know why? 'Cause I wrote it.",
-      "characters": [
-        "Kramer",
+        "Morty",
         "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, it's about time. We thought you were gonna wind up on the street.  What is it you're doing, exactly?",
-      "characters": [
-        "George",
-        "Newman",
-        "Jerry",
-        "Shelly"
-      ],
-      "correctAnswer": "Shelly"
-    },
-    {
-      "quote": "Suze? I actually had a little thing with her for a while.  Her too.",
-      "characters": [
-        "Jerry",
-        "Announcer",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, well, he was probably just getting anxious to start his vacation.",
-      "characters": [
-        "Elaine",
-        "Susan",
-        "George",
-        "Rabbi"
-      ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "And I would love to. Nothing would please me more. But, unfortunately, the guy retired and moved to Singapore.",
-      "characters": [
-        "Jerry",
-        "Beth",
-        "George",
-        "Ray"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "Or I could sleep in the park? You could knock these walls down, make it an eight room luxury suite.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 711,
+  "gameNumber": 712,
   "date": "2026-12-15",
   "questions": [
     {
-      "quote": "He said, 'Who's the moron in the blue jacket who's got the street all screwed up?'",
+      "quote": "When you sent me the-the bill for the dry-cleaning. I thought the show didn't have a chance.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that interests me very much Mr. Farkus.Very much indeed, sir.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Marla"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no.  I explained the whole thing to him, he was fine with it.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, but they got the chocolate. We'll be going in with lesser babka.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "...But, you must promise That you will abide by my decision, no matter how unjust it may seem to either of you. Do I have your word?",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh, Kevin...you can go on and on about how you don't want kids...and it sounds, it sounds really nice, but...the truth is, I don't know if you mean it or not.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kate"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, look. I'm going to be honest. I'm very interested in the van.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "A big dinner with dessert. But I've got till the end of the month.",
       "characters": [
         "Kramer",
-        "George",
         "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I told you already it's very boring you know I think I got a little too much garlic, can I have a piece of gum",
-      "characters": [
-        "Jane",
-        "Elaine",
-        "Joe",
-        "Kramer"
-      ],
-      "correctAnswer": "Jane"
-    },
-    {
-      "quote": "Okay. So, is there any song that you feel very strongly about?",
+      "quote": "Are we going to be sitting here when we're sixty like two idiots?",
       "characters": [
         "Jerry",
+        "Elaine",
         "George",
-        "Kramer",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Now I can break up with him. He's clean, and I'm the office hero.",
+      "quote": "You dated her. Give me some inside information. Anything I can use!",
       "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, well, so what? Laughter - what is that? I mean, what is the point of opening your mouth and going \"Ha, ha!\"? What is that? \"Ha, ha!\"?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Estelle"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm looking for a new suit. I can't find anything I like. That's a nice suit.",
-      "characters": [
-        "Bania",
-        "George",
-        "Jerry",
-        "Joel"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Here's what I'm proposing. We eliminate all this. The hangers, the bar, the shelves. And in its place install a series of hooks. We'll put everything on hooks.",
-      "characters": [
-        "Marla",
-        "George",
-        "Bania",
-        "Kramer"
-      ],
-      "correctAnswer": "Marla"
-    },
-    {
-      "quote": "All right. All right. Give me a tsate. Mmm! Oh God, I gotta sit down. What happened? Where's my armoire?",
-      "characters": [
-        "Kramer",
+        "Newman",
         "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "But enough about fish, huhuhu. I can discuss other things you know, ah… architecture. Huhu.",
-      "characters": [
-        "Raymond",
-        "Jackie",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know my driver's waiting, I really should get running. Good to see you guys again.",
-      "characters": [
-        "Jack",
-        "Jerry",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Newman"
     }
   ]
 }

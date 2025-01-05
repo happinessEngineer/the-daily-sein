@@ -1,106 +1,106 @@
 {
-  "gameNumber": 621,
+  "gameNumber": 622,
   "date": "2026-09-16",
   "questions": [
     {
-      "quote": "You know this whole place is going vrrrrrrrrrrrrt, downhill. I could have come in here last week with a bad plum but I let it go.",
+      "quote": "Thirty-six.  What's the signal?  Howbout this?  Chicken wing?  No, no, no, I got a better one.  Head patting.",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So, I'm gonna steal another one, and then return it. That way, everything is even.",
-      "characters": [
+        "Joel",
         "Jerry",
         "George",
-        "Karen",
-        "Kramer"
+        "Jimmy"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"Hey look. Hank's got a new boyfriend. Jimmy's not threatened by Hanks sexuality ... Jimmy's happy for Hank.\"",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Jimmy",
-        "George"
-      ],
-      "correctAnswer": "Jimmy"
-    },
-    {
-      "quote": "Well, this is the Jerry Seinfeld that only I know. I can't believe I just told you that.",
-      "characters": [
-        "Jerry",
-        "Jack",
-        "George",
-        "Phil"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, I'm thinking of putting in na tropical fish tank right here.",
+      "quote": "Yeah, she had this great black and white dress, with a scoop neck. She looked like some kinda superhero.",
       "characters": [
         "Estelle",
-        "George",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Because since you've been playing God with the front door, I've been tryin' to smooth things out, Jerry. In fact, I was just hanging out at his place.",
+      "quote": "Um, all right, um, uh, I'll call 'ya. I'll call you and we'll talk on the phone. A telephone communiqué. Every thing is fine ok, uh, fine, .. [exits]",
       "characters": [
+        "George",
         "Jerry",
-        "Saleswoman",
-        "Susan",
+        "Seth",
         "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean it's gotten to the point where I'm flirting with operators on the phone. I almost made a date with one.",
+      "characters": [
+        "Michael",
+        "Bob",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boxers! How do you wear these things!! Look at that--they're baggin' up, they're rising in! An' there's nothing holding me in place! I'm flippin'! I'm floppin'!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Kruger"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "'Maybe you know some little places to go, where they never close...'",
+      "quote": "You got less than sixty seconds. That's like dismantling a time bomb. What got into you?",
       "characters": [
-        "Elaine",
-        "Matthew",
+        "Steinbrenner",
+        "George",
         "Jerry",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "God! She's cooking dinner for God! She's yelling and screaming, and the next thing I know, she throws a big can of chocolate syrup all over my new red shirt.",
+      "quote": "Let me ask you something. Could you tell if teeth marks on someone's arm matched teeth marks on a pencil?",
       "characters": [
+        "Helen",
+        "Jerry",
         "George",
-        "Eva",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, alright. Just let me finish my coffee... then we'll watch 'em go slice this fat bastard up.",
+      "characters": [
+        "Noreen",
         "Kramer",
+        "Frank",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The sea was angry that day my friends… like an old man trying to send back soup in a deli!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Kramer, I think perhaps you've overlooked one of the key aspects of this activity. It's ball *boys*, not ball men. There are no ball men.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Newman",
-        "George"
-      ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I'm just getting over an allergy attack. This guy I'm going out with...",
+      "characters": [
+        "Elaine",
+        "Fred",
+        "Ricky",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, man, just *rampant*, **mutant** B.O. The \"O\" went from the valet's \"B\", to the car, to me. It clings to everything. Jerry thinks it's an entity. But I showered and I shampoo'ed, so...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Pitt",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 784,
+  "gameNumber": 785,
   "date": "2027-02-26",
   "questions": [
     {
-      "quote": "I put Canadian quarters in the washing machine.  I gotta be out by the end of the month.",
+      "quote": "I gotta get to Fowler. I know that he would take this squirrel off my hands. It's practically bionic!",
       "characters": [
-        "Valerie",
-        "Jerry",
         "George",
-        "Elaine"
+        "Milos",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, wait a minute, wait a minute. They're gonna be telling us how their dates went. Are we gonna share that information?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, y'know we took the old man's records over to Ron's and he tried to *screw* us so we got in a fight.",
+      "quote": "There could be more than one O'Brien on a plane who ordered a limo.",
       "characters": [
-        "Janet",
-        "George",
         "Jerry",
-        "Kramer"
+        "Kramer",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "And weren't there a feats of strength that always ended up with you crying?",
+      "quote": "It was just an innocent comment! I didn't know she had a pony!",
       "characters": [
-        "Helen",
+        "Kramer",
+        "Roy",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"No ,Elaine and I we're just discussing whether I could admit a man is attractive.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well! I can't spend the rest of my life coming into this stinking apartment every ten minutes to pore over the, excruciating minutia, of every, single, daily event..",
+      "characters": [
+        "Elaine",
+        "Lippman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, your widower story's tested through the roof.  When are you getting out of there?",
+      "characters": [
+        "Elaine",
+        "Kramer",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "See? You know your father. He can't get a write to the penny, but that's why he was such a good president.",
+      "quote": "What are you talking about? What was I supposed to hide it somewhere?",
       "characters": [
-        "Kramer",
+        "Beth",
+        "Morty",
         "George",
-        "Jack",
-        "Babu"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "You were completely right. I sleep so much better when I'm alone.  And you scream in your sleep.",
-      "characters": [
-        "Emily",
-        "Toby",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Emily"
-    },
-    {
-      "quote": "No. When I shoo squirrels away, I always say \"get out of here\". I never ever throw things at them and try to injure them like other people.",
-      "characters": [
-        "Jerry",
-        "Janet",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know my parents are coming in and I got some clean up to do , so if you and Potsie are done scheming....",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Man"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I would like to know what my name's doin in this creep's organizer to begin with.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Some guy. Some guy? Neil! I have got to find out how he could get a girl like Danielle.",
-      "characters": [
-        "Wilhelm",
-        "George",
-        "Celia",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "I did invite you. Your invitation must've gotten ... lost in the mail.",
+      "quote": "Hah, I didn't know people still get married. It's hard today with men and women.",
       "characters": [
-        "Newman",
+        "Woman",
         "Kramer",
-        "Jerry",
-        "George"
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "We cold play \"Sorry!\" We cold play \"Steal the Old Man's Bundle.\"  Maybe I can get an extension cord and hang myself.  What kind of perfume is that you're wearing?",
+      "characters": [
+        "Elaine",
+        "Daphne",
+        "Jerry",
+        "Nana"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

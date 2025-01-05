@@ -1,106 +1,106 @@
 {
-  "gameNumber": 636,
+  "gameNumber": 637,
   "date": "2026-10-01",
   "questions": [
     {
-      "quote": "Yeah, hold on. I'm, uh, I'm just trying to get a reading on my dashboard compass. Where are my parents?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Guard",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, man, it's spinach! I've been walking around like this all afternoon.",
+      "quote": "He met with Elaine, and I asked him what happened, and he yada yada'd me. I mean, could he be having an affair?",
       "characters": [
         "George",
-        "Marcy",
-        "Elaine",
+        "Beth",
+        "Morty",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Beth"
     },
     {
-      "quote": "Every summer you guys went to camp together. I was jealous. Felt like he was the summer me.",
+      "quote": "You know, I don't know the exact pronunciation but I believe its Manage A Trois.",
       "characters": [
+        "Mike",
+        "Jerry",
         "George",
-        "Fred",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, you're tall - she's tall I'm tall. What's the difference who's tall. We're all tall.",
-      "characters": [
-        "Sally",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "...Over the balcony, bounced off some respirator thing *into* the patient!",
-      "characters": [
-        "George",
-        "Simon",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh no. That's impossible. I'd rather lie to him for the rest of my life that go through that again. He was crying. Tears. Accompanied by mucus.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, we think it would be a nice touch for the Foundation literature. Do you have a favorite poet, George?",
-      "characters": [
-        "Wyck",
-        "Jerry",
-        "Doctor",
-        "George"
-      ],
-      "correctAnswer": "Wyck"
-    },
-    {
-      "quote": "Hey, I know what we can do. I've got a friend who works over at the police station. He's a composite artist.",
+      "quote": "Jerry, are you aware that adult diapers are a six hundred million dollar a year industry?",
       "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Russell"
+        "Jerry",
+        "Frank",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "'Cause I'm an idiot! You may think you're an idiot, but with all due respect, I'm a much bigger idiot than you are.",
+      "quote": "Well, let me tell you something. I'm taking this kid to the top. To the top, Jerry! We're going for the crown, and you can't stop her!",
       "characters": [
         "Jerry",
         "George",
-        "Chiles",
-        "Darryl"
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, you know you have a hole in your sneaker there. What is that canvas?",
+      "characters": [
+        "Receptionist",
+        "Elaine",
+        "Jodi",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I gotta tell ya, I have a bad association with the name Alex.",
+      "quote": "What if he tells John? Then John's gonna think that I think that we're hot and heavy. I don't want John thinking that I'm hot and heavy if he's not hot and heavy.",
       "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Kramer"
+        "Elaine",
+        "Steinbrenner",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, nothin' much. I went over to jerry's, uh, talked to Jerry.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't mean to be funny there. Why don't you check the TV guide. I think uh, Holocaust is on.",
+      "characters": [
+        "Morty",
+        "Gail",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ade, I have to tell you, I, I have never met anybody so ... efficient.",
+      "characters": [
+        "Jerry",
+        "Vivian",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

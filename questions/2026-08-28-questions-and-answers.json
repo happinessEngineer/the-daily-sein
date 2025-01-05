@@ -1,106 +1,106 @@
 {
-  "gameNumber": 602,
+  "gameNumber": 603,
   "date": "2026-08-28",
   "questions": [
     {
-      "quote": "......laugh , everything's nice and at the end of the night I go for a little contact. I get the PULL BACK. This woman said the filthiest things I've ever heard in my life. I get the Pull Back.",
+      "quote": "I got it. We'll kidnap him . and we'll drop him off Upstate and this way he won't bother you anymore and he won't get hurt.",
       "characters": [
-        "Jerry",
-        "Frank",
+        "Kramer",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's the idea. That's what's clever about it, that they're not talking about the pants.",
-      "characters": [
-        "Puddy",
-        "Kramer",
-        "Man",
-        "Donna"
-      ],
-      "correctAnswer": "Donna"
-    },
-    {
-      "quote": "Oh trust me. He's a bad seed. He's a horrible seed. He's one of the worst seeds I've ever seen.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Tony"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright. So, get a load of this. This guy, Fred Yerkes, remembers every little thing about that night except me.",
-      "characters": [
-        "Ellen",
-        "Kramer",
-        "Father",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, I know champagne, limos, cigars. WHAT happened to the papers?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Stu",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, it was, but then I just couldn't decide if he was really sponge-worthy.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right, look. I'm getting the Chow Fung. You don't have to have any.",
-      "characters": [
-        "Jack",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All he has to do now is count his blessings, say a prayer, and he's done. Do you believe this?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Noel"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Now are you just sayin' you want to have fun or do you reallllly want to have fun?!",
-      "characters": [
-        "George",
-        "Ned",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You're not the only one improving yourself. I worked out with a dumbbell yesterday. I feel *vigorous*.",
+      "quote": "I hope you rot in that suit. Look I'm gonna get you for this. I don't know how, but I'm gonna get you. You are going to pay!",
       "characters": [
         "George",
+        "Bob",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Ha ha. Ok. I'll meet thee in front of your place, 15 minutes.",
+      "characters": [
+        "Lisi",
         "Kramer",
         "Jerry",
-        "Frank"
+        "Doorman"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Lisi"
+    },
+    {
+      "quote": "Hey.  He doesn't even know where you live.. Who told you to give him your business card?..  That's Elaine.  Kramer..  George wants to know when you want to look for the cat again.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jackie",
+        "Kate"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Go to any office building on 7th Avenue and tell me if there's anyone there wearing a thin tie like that. Go ahead!",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Yes!! Yes, that's what they do! They live in the bathroom! All right, what are we going to do? We are going to get our money back, right?",
+      "characters": [
+        "Danielle",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Beautiful women. You know they could get away with murder. You never she any of them lift anything over three pounds. They get whatever they want whenever they want it. You can't stop them.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Herb"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't understand, I haven't been together with Rachel for like three weeks. First I was on the road, then my parents show up, I'm getting a little uh backed up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, somebody better move these cars, you're making a commotion.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sid",
+        "Newman"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I love when they touch your arm. I can't get enough of that. Why is that?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Tony"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

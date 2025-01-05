@@ -1,106 +1,106 @@
 {
-  "gameNumber": 862,
+  "gameNumber": 863,
   "date": "2027-05-15",
   "questions": [
     {
-      "quote": "Well, what am I supposed to tell him? How much there is for him to live for? Why should I lie to him?",
+      "quote": "Allright, I gotta head back right away, I'll-I'll -- I gotta figure something out here.",
       "characters": [
-        "Newman",
+        "Morty",
+        "Elaine",
         "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, that's Sergeant Tierney. Nice officer. You want to meet her?",
-      "characters": [
-        "Kramer",
-        "Lou",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Lou"
-    },
-    {
-      "quote": "Let me just say this. It is inhumane to make a man stand on his feet, in one spot for eight hours a day. Why shouldn't he have a chair?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Noreen"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Bania can I talk to you for a second? How's everything going?",
-      "characters": [
-        "Jerry",
-        "Pitt",
-        "Kramer",
         "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah! But it never works. You know we're supposed to be there by two o'clock. We should take a cab.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey Elaine.  I'm telling you Jerry, having a secretary is incredible.  I don't know why I didn't have one before.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Peterman",
-        "Kramer"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah. Oh, here, wait wait  Ah, maybe you could ah, use this  Ah, here, it's a electronic organizer...",
+      "quote": "So where are they already, it's a quarter to twelve, they should be back by now, what did they do?",
       "characters": [
         "Elaine",
-        "Jake",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hello.  Oh, hi Nana.  What? Oh. Oh, alright, okay. Don't worry about it.  Okay, I'll see you later. Alright, bye.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Woman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well why don't you get a hold of it and change what you don't like.",
-      "characters": [
-        "Babu",
-        "George",
-        "Elaine",
+        "Fred",
         "Jerry"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, oh, you know what that is? I um, went claming the other day and I forgot to hose off my boots.",
+      "characters": [
+        "Kramer",
+        "Helena",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Did you know Marisa Tomei won an Oscar for that? Boy, she's beautiful, don't you think? I wish I looked like that.",
+      "characters": [
+        "George",
+        "Susan",
+        "Stationer",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Excuse me...I really... What's happened is that my friend forgot where he parked and if you're not in a big hurry, we'd really appreciate it if...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No!  Hey! Hey! I see you! That is my Twix!  Oh, ha, ha! Ho, ho!",
+      "quote": "Apparently Peggy--down in Design?--got into a liiiittle bit of a Tiff yesterday with somebody named, \"Susie\"?",
       "characters": [
-        "George",
-        "Glenn",
+        "Kramer",
+        "Peterman",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "They don't nap. They make it their home. They urinate in there!",
+      "characters": [
         "Jerry",
-        "Helen"
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Ha ha ha ha ha!$219,000! Lubeck, you glorious titwillow. You just made me a profit of $190,000.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Peterman",
+        "Cindy"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I was going to, but then I found out that the auto club has this free locksmith service, so I signed up.  Just waiting for the membership to kick in.",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "Morty",
+        "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "All day tomorrow? We had a month and a half to come up with something and we didn't do anything.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 562,
+  "gameNumber": 563,
   "date": "2026-07-19",
   "questions": [
     {
-      "quote": "I offered him cigarettes,  but his stupid mother is hanging around. She won't let him have any.",
+      "quote": "Hey, look, there's Bobby Eighteen?s father-in-law, Mr Reichman. George and I were just talking about that today, I can?t believe it! That?s the guy who threw George out of the wedding.",
       "characters": [
         "Jerry",
-        "Mickey",
-        "Kramer",
-        "Michael"
+        "George",
+        "Maryedith",
+        "Elaine"
       ],
-      "correctAnswer": "Mickey"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "oh is it two-ply? cause it it's two-ply I'll take one ply, one ply, one puny little ply, I'll take one measly ply",
+      "quote": "Mr. Peterman, Peggy, I.. guess we, should just get this over with.",
       "characters": [
+        "Kramer",
         "Elaine",
-        "George",
-        "Estelle",
-        "Morty"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, right, right, right, right, right, right, right, the hit and run. Well. Actually, the guy went into Queens.",
+      "quote": "What are you starting with me for? You know this is my crazy time o' year?!",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "George",
         "Elaine",
-        "Helen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, two hundred, but that's as high as I can go. I really think you're being unreasonable here!",
-      "characters": [
-        "Lois",
-        "George",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So he starts to get up He spots the Pez dispenser on the coffee table",
-      "characters": [
-        "Kruger",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, I'm going to get that watch back for you by tomorrow, buddy. You see.",
-      "characters": [
-        "Landis",
-        "Jerry",
-        "Kramer",
-        "George"
+        "Beth"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, come on, come on, come on.  \"George, Elaine and I went to see Chunnel ... with Jerry.\" Love?",
+      "quote": "No! I'm lefty, can't go right. What about women? Do they go left or right?",
       "characters": [
+        "Newman",
+        "George",
         "Jerry",
-        "Aaron",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She wants my shoes? What kind of person is this? Alright! She is not getting 'em!",
+      "characters": [
         "Elaine",
+        "Helen",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Those are my coats. I saved them, I stored them, I've been waiting years for this pay off.",
+      "quote": "Yeah. Either way, we need to get into your apartment and do a safety check.",
       "characters": [
-        "Morty",
-        "Rabbi",
         "Jerry",
+        "John",
+        "Carol",
         "George"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "John"
     },
     {
-      "quote": "Look, it doesn't necessarily mean anything yet, it just means he was sniffing.",
+      "quote": "So, I'm thinking of putting in na tropical fish tank right here.",
       "characters": [
-        "Tawni",
-        "Steinbrenner",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Frank",
+        "Amy",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "George, frankly, I'm getting a little tired of hearing about her.",
+      "quote": "You come to a parking lot, you write it down. How hard is that?",
       "characters": [
-        "Karen",
+        "Kramer",
         "George",
-        "Jerry",
-        "Kramer"
+        "Testikov",
+        "Jerry"
       ],
-      "correctAnswer": "Karen"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wha-You never see him. He sidled me again in my office. I was sitting there making Cup-A-Soup singing that song from \"The Lion King\".",
+      "characters": [
+        "Glenn",
+        "Elaine",
+        "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I gotta go to the Dixieland Deli to pick up Mr. Pitt's security pass for the parade.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

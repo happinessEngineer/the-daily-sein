@@ -1,106 +1,106 @@
 {
-  "gameNumber": 117,
+  "gameNumber": 118,
   "date": "2025-04-30",
   "questions": [
     {
-      "quote": "It was all an act, Jerry. They conned us, and they scored, big time.",
+      "quote": "Your head. I can't see out the back.  Little more..  ..Little more.  Thank you.",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "Driver",
         "George",
-        "Kramer"
+        "Elaine",
+        "Kimbrough"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Driver"
     },
     {
-      "quote": "Who's going to bomb you. An airline for all the stupid little peanut jokes.",
+      "quote": "Well, this is it. I'm really gonna do something about my life, you know? You know, I think I'm gonna call Melanie again. So what if she shushed me. GEORGE:, I am really gonna make some changes.",
       "characters": [
+        "Peterman",
+        "George",
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just don't think it's such a great idea for you to sit here.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Michael"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "My fault? Your Nana is missing because she's been passing those bum checks all over town and she finally pissed off the wrong people.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
         "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, that's the way I express myself. How are you gonna make it in this business if you can't take it?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Toby"
-      ],
-      "correctAnswer": "Toby"
-    },
-    {
-      "quote": "Oh, right! Hey, it was great seeing you again. I love your outfit.",
-      "characters": [
-        "Jerry",
-        "Marcy",
-        "Kramer",
-        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know what I'm going to do? I'm going to run around the stadium and close all the windows. That's where I'm going, pal. And I'll tell you something else. I'm very nervous.",
+      "quote": "Kenny! There you are. Jay Shermak and Stu Crespi from NBC. Listen, Kenny. Really funny out there.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Dan",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "I was hoping you know, that you might be interested in... changing teams?",
-      "characters": [
-        "Elaine",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So, if you have any idea for like a TV show for yourself, well, we'd just love to talk about it.",
-      "characters": [
-        "Newman",
         "Jerry",
-        "George",
+        "Susan",
         "Stu"
       ],
       "correctAnswer": "Stu"
     },
     {
-      "quote": "The ocean called. Running outta shrimp. Outta shrimp!  Oh! Yes! That's what I shoulda said!  Dammit!",
+      "quote": "This is a place of business. I told you never to come in here. Serenity now!",
+      "characters": [
+        "Frank",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Kramer, you're gonna leave these chairs here for two and a half years?!",
+      "characters": [
+        "Marcy",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that would give him some height, be able to check things out. With a back or without.",
+      "characters": [
+        "Elaine",
+        "Rava",
+        "Mike",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's not really a mental institution. It's more like a depression clinic. She went out to Woodhaven and checked herself in. I'm, I'm sick over this.",
       "characters": [
         "George",
+        "Sid",
         "Jerry",
-        "Kramer",
-        "Kevin"
+        "Helen"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey listen... umm, instead of the movie... uh, maybe we'll go back and uh you know...",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Dan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Children? Who said anything about children? I don't want to have children.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Pam",
+        "Elaine"
+      ],
+      "correctAnswer": "Pam"
+    },
+    {
+      "quote": "Front first, that's how you park when you're pulling a bank job.",
+      "characters": [
+        "Elaine",
+        "Conrad",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

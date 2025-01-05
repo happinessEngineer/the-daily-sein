@@ -1,104 +1,104 @@
 {
-  "gameNumber": 178,
+  "gameNumber": 179,
   "date": "2025-06-30",
   "questions": [
     {
-      "quote": "All right I'll talk to her. If you want to be a ball man go ahead, break the ball barrier.  Hey.",
+      "quote": "I mean it's a terrible mistake, I mean he thinks I ruined some deal of his at NBC, I don't know anything about any deal at NBC.",
       "characters": [
-        "Elaine",
         "George",
-        "Tim",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, he and I starting joking that when she falls asleep her stomach stays awake all night and talks to me.",
+      "characters": [
+        "Julie",
+        "Stan",
+        "Newman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Daddy, there's, um, there's something that we have to talk to you about..",
+      "quote": "He's a cube. Anyway, he got married six months ago. He told me ever since he's been wearing a wedding band, women have been coming on to him everywhere he goes.",
       "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "\"This holiday season a donation has been made in your name to the Children's Alliance.\"?",
-      "characters": [
-        "Waiter",
-        "Wilhelm",
-        "George",
-        "Jerry"
+        "Jerry",
+        "Stu",
+        "Joel",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, he is your butler. You can give him any order you want. That's what butlers do.",
-      "characters": [
-        "George",
-        "Tom",
-        "Jerry",
-        "Lloyd"
-      ],
-      "correctAnswer": "Tom"
-    },
-    {
-      "quote": "No breaks. I fell reborn, I'm like a Phoenix rising from Arizona.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Babu"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "\"Well women do it.\" I'll tell you what. I'll pick you up a sundress and a parasol and you can just  sashey your pretty little self around the town square.",
-      "characters": [
-        "Maestro",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Two hours later he checks into Smither's clinic. I talked to the doctor yesterday. He's doing great on the rehab. He's hooked on Pez. He's eating them like there's no tomorrow.",
+      "quote": "Oh no, you've got to go downtown, George. It's all downtown. Just like the song says.",
       "characters": [
         "Elaine",
         "Kramer",
-        "George",
-        "Jerry"
+        "Announcer",
+        "Wilhelm"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Wilhelm"
     },
     {
-      "quote": "Oh, hey, uh, listen, Jerry, uh, laundry's pilin' up there. You might want to tell your girlfriend. Mmm. Yeah.",
+      "quote": "Hey. This wallpaper is *very* good. My place looks like a ski lodge!",
       "characters": [
-        "Jerry",
-        "Katie",
         "George",
+        "Puddy",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, I got the tools. I got the pillows. All I need is the lumber.",
+      "quote": "Hey, George, do me a favour. If they make you an offer, whatever it is.  Just take it!",
       "characters": [
-        "Frank",
+        "Mike",
         "George",
-        "Kramer",
-        "Guy"
+        "Donna",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I don't know... h- how long have you been shaving your head for?",
+      "quote": "Oh, Elaine. You know the way I am – rarely ever thinking of myself. My only concern is the welfare and happiness of those close to me. Sure, it hurts sometimes to give, and give, and give...",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nevertheless, Elaine. The House, of Peterman is in Disorder. First thing tomorrow morning I want to see you, Peggy, and, Susie right here, in my office.",
+      "characters": [
+        "Peterman",
+        "Susan",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Kramer, what happened to the building?! The electricity went out!",
       "characters": [
         "Elaine",
+        "Steinbrenner",
         "George",
-        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and I got you a cord of wood, so you won't have to burn 'em.",
+      "characters": [
+        "Jack",
+        "Elaine",
+        "Jerry",
+        "Phil"
       ],
       "correctAnswer": "Elaine"
     }

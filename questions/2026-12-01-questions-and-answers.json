@@ -1,106 +1,106 @@
 {
-  "gameNumber": 697,
+  "gameNumber": 698,
   "date": "2026-12-01",
   "questions": [
     {
-      "quote": "Eggs are eggs. That is very profound.  By the same token you could say fish is fish. Ha ha ha, I don't think so.  Listen Dophne",
+      "quote": "Jerry, George. [To Kramer] So, did you ask him about the records?",
       "characters": [
-        "Julie",
+        "Newman",
+        "George",
         "Jerry",
-        "Frank",
+        "Dana"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "They got a billion people over there and he found a relative.",
+      "characters": [
+        "George",
+        "Landlord",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The show! Forget about the show! We should take the idea to a different network",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh? You know my last boyfriend, he had a real kroner comprehension problem. Know what I mean? A real cement head.",
+      "quote": "You know I hate to raise a crass financial concern but was there any information as to the where abouts of my PAPERS!",
+      "characters": [
+        "Bania",
+        "Kramer",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I mean don't you think that he was probably called Maestro while he was conducting, not in social situations. I mean his friends probably just called him Lenny.",
       "characters": [
         "Elaine",
-        "Morty",
-        "George",
-        "Jerry"
+        "Rava",
+        "Kramer",
+        "Newman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Right here, George. In here.  Try opening this up. You'll find the biggest dating scene in the world.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"Yeah,yeah yeah yeah! I've seen these.....they sorta ..they make your legs..stronger.\"",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Besides, Steven Koren has the highest of aspirations. He wants to be  an architect.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Eva",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Your friend is been accused of being a serial killer. I think that qualifies.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You must be very proud Mr. Visaki.  And may I say sir they're lovely girls, absolutely lovely girls. It's nice to see such fine upstanding women in gainful employment, Mr. Visaki.",
+      "quote": "Well, I'm gonna go to the cigar stores. I'm gonna see if I can sell that Indian.",
       "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I slipped - and fell in the mud. Ruining the very pants I was about to return.",
-      "characters": [
         "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Bania"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah. Never seen anyone so bored. I'm working like a dog here. Give me a moan. *Something*. I'd settle for a belch, for god's sake. All right, come on, let's have it.",
+      "quote": "Don't you see what this says? How can you possibly like somebody ,if you think they look like this?",
       "characters": [
+        "George",
+        "Newman",
         "Elaine",
-        "Woman",
-        "Jerry",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I like Jon Voight. Just seems like kind've a strange reason to buy a car, because he might have driven it.",
+      "quote": "Yeah, well, Elaine's new boyfriend, you know. He's giving me this oversize chest of drawers. It's a Farbman.",
+      "characters": [
+        "Glenn",
+        "Kramer",
+        "Morty",
+        "Man"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Um, you know I'm starting to think that maybe lobster isn't the way to go.",
       "characters": [
         "George",
+        "Kramer",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Marlene"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, Jerry can you do me a favor?  Could you, go into the room with me to visit him because ah, I don't want him to think that I'm, y'know... interested.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

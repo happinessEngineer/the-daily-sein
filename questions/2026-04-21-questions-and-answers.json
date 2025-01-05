@@ -1,104 +1,104 @@
 {
-  "gameNumber": 473,
+  "gameNumber": 474,
   "date": "2026-04-21",
   "questions": [
     {
-      "quote": "Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?",
+      "quote": "Well then what do they make appointments for if they can't keep them. Huh, hha. Look if I did that in my business I wouldn't have made a nickel.",
       "characters": [
-        "Jerry",
+        "George",
+        "Wilhelm",
+        "Newman",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "My place? NO, no, no. I hate my place. I don't wanna go back to my place.",
+      "characters": [
+        "Ron",
+        "George",
         "Kramer",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Because Elaine, that's the one that goes 'wee-wee-wee all the home.'",
-      "characters": [
-        "Babu",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Every woman on the face of the earth has complete control of my life. And yet, I want them all.. is that irony?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Estelle",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Excuse me, did you say turbo? Saab turbo nine-thousand? Is it...  midnight blue?",
+      "quote": "No, no. I wanted the one in the little bottle with that guy on it that looks like Charles Grodin!",
       "characters": [
-        "Woman",
-        "Jerry",
-        "Kramer",
-        "Doctor"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "And get this - I'm working in Atlantic City this weekend, and she's going to be down there for the pageant.",
-      "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Morty"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Vodka, cigarettes, fireworks.  What kind of a sick woman brings this to a fifteen year old?",
+      "quote": "Listen carefully. My mother has never laughed. Ever. Not a giggle, not a chuckle, not a tee-hee.. never went 'Ha!'",
       "characters": [
         "Elaine",
-        "Kramer",
         "Jerry",
-        "Woman"
+        "Peterman",
+        "George"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, it's getting late. You've cleaned up the car. You've made all your phone calls. Why are you still here?",
+      "quote": "It wouldn't stop beeping, in the car so Testikov, through it out the window.",
       "characters": [
-        "Jack",
         "Elaine",
-        "Kramer",
+        "George",
+        "Maestro",
         "Jerry"
       ],
-      "correctAnswer": "Jack"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "So lemme ask you this: how long would you say I have to put in now because of, you know, last night.",
+      "quote": "Yeah, I just got a call. I yell 'Cartwright! Cartwright!', just like that. Nobody came up, I hang up.",
       "characters": [
-        "Jerry",
+        "Elaine",
         "George",
-        "James",
-        "Morty"
+        "Celia",
+        "Bruce"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Bruce"
     },
     {
-      "quote": "Okay. you sit here. Now I need the baby. Bring me the baby. I need the baby!",
-      "characters": [
-        "Jerry",
-        "Mohel",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Mohel"
-    },
-    {
-      "quote": "It is the forced socializing. I mean, just because we work in the same office, why do we have to act like we're friends?",
+      "quote": "I know. It's Mickey Mantle's number. So not only is it an all around beautiful name, it is also a living tribute.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Kramer",
+        "George",
+        "Ron"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I feel like a huge weight's been lifted off my shoulders. I... I... I feel happy! Kramer, I don't know how to thank you!",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Jerry",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There's Jean-Paul! He's up front! He's leading!  Go Jean-Paul!",
+      "characters": [
+        "Joe",
+        "Doctor",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! It's not a good thing! It's a bad thing! Do you know what this is like? To have no control over a relationship? And - and you feel sick to your stomach all the time? Do you know what that's like?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Usher",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     }

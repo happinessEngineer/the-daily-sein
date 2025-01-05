@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1142,
+  "gameNumber": 1143,
   "date": "2028-02-19",
   "questions": [
     {
-      "quote": "We have to go up there now and clean the apartment. It's a good thing her rent was overdue. She'd be rotting up there for a month.",
+      "quote": "Nah, we need a medical dictionary! If a patient gets difficult, you quone him.",
       "characters": [
-        "George",
-        "Kramer",
-        "Harold",
-        "Maura"
+        "Peterman",
+        "Elaine",
+        "Testikov",
+        "Kramer"
       ],
-      "correctAnswer": "Harold"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What happened to the rules? Remember? Sleeping over was optional.",
+      "quote": "You know, Elaine, you're the bear claw in the garbage bag of my life.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Glenn",
+        "Elaine"
+      ],
+      "correctAnswer": "Glenn"
+    },
+    {
+      "quote": "Well, it better not. Paid for the whole year. So, should I pick those up later?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, they forgot to deliver your paper today. Why don't you just grab that one.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Oh, yeah, yeah. I'm Cosmo Kramer. Yeah, I had an appointment to annul my living will.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "Ronnie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "These old guys, they're up at 4 a.m., by two thirty they're wiped.  How did we get back onto you?!",
       "characters": [
         "Kramer",
         "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, it's our sense of humor that sustained us as a people for 3000 years.",
+      "quote": "Oh yeah, very funny. And it wouldn't be impolite to laugh at his antics.",
       "characters": [
-        "Tim",
-        "Jerry",
-        "Lippman",
-        "Elaine"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "Listen, I got news for ya, its nice to be involved with somebody who?s interested in something other than nick at night. Now he?s got a grip on reality, he's happy, he's well adjusted.",
-      "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ya, or if you're ever on Fifth Avenue here in New York City, you could get some there.",
-      "characters": [
         "Jerry",
-        "George",
-        "Owner",
-        "Jackie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, it's strange, because he's such an honest mechanic.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Mickey"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'd give him 24 hours to get out of it. They can't get out of it in 24 hours, it's a land rush.",
-      "characters": [
         "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
+        "Newman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, maybe Kramer is right, some people should just give up . I have.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Izzy",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yes, yes I am. The icing on the cake would be getting that landmark status from the City. We're hoping Lloyd Braun can pull a few strings.",
-      "characters": [
-        "Barry",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh! I tell you what. How about if I come back here first and I clean everything up and I open up the windows and if you're still not satisfied we can switch apartments for the night.",
+      "quote": "Anyway, I just wanted you to know, that I'm going to do everything I can to make sure the party responsible is made to be responsible or something very close to that.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Ned",
-        "Jackie"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"You find you need to use a lot of obscenities at the dentist.",
+      "characters": [
+        "Julianna",
+        "Jerry",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You think I don't know, Assman?!! To think I almost split the profits on the Manssierre with you.",
+      "characters": [
+        "Rula",
+        "Woman",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

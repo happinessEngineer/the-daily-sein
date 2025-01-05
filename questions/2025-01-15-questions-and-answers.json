@@ -1,106 +1,106 @@
 {
-  "gameNumber": 12,
+  "gameNumber": 13,
   "date": "2025-01-15",
   "questions": [
     {
-      "quote": "George. Thanks for coming down to talk to me. I wanted to see you right away, but my hours here aren't very flexible. I just started yesterday.",
+      "quote": "It's a story about love , deception ,greed , lust and.... unbridled enthusiasm .",
       "characters": [
-        "Hanke",
-        "George",
         "Kramer",
-        "Landis"
+        "Jerry",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Hanke"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "So, George took my slicer down to Kruger and they're smoothing it out for me.",
+      "quote": "I remember you donated to some volcano thing on our first date.",
       "characters": [
-        "Tony",
+        "Frank",
         "George",
         "Kramer",
-        "Susan"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, do you believe I got Happy New Yeared today? It's February.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mrs. Wilkie, from the tobacco company called me. We had a little pow-wow.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "The woman had an orgasm under false pretences. That's sexual perjury.",
+      "quote": "Har-harwood, Jerry. He was the assistant wardrobe man on Spartacus. Some fascinating insights into the production.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Shelly",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I just wanted to tell you that I really enjoyed Fair Game. I thought it was just brilliant.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Leo",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I don't want. So, just tell me what I owe you for your trouble..",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know what they say. Lucky in love, Unlucky with fruit.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I just pray Kruger doesn't realize that it's gone until this guy can fix it up.",
+      "quote": "Oh, well, I really think I'm falling for you... [opens the playbill and flips five pages till he finds and reads autograph] .....Joseph Puglia...",
+      "characters": [
+        "George",
+        "Woman",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "I once told a woman that I really enjoy spending time with my family.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Izzy",
-        "George"
+        "George",
+        "Elaine",
+        "Morty"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "You're something. So anyway, when they were in my house before, I didn't offer them anything to drink.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, Babe, your boss called. You owe five bucks for a balloon bouquet. Yeah, he says you can just give it to him tomorrow when you see him.",
-      "characters": [
-        "Karen",
-        "Jerry",
-        "Puddy",
-        "George"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "Maybe we should get married. Maybe everything we need is right here in front of us. Jer... let's do it.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why do you keep bringing up the bubble boy. You don't have to mention the bubble boy?  I know about the bubble boy. I'm aware of the bubble boy. Why do you keep reminding me about the bubble boy?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, you got any extra furniture down there? I need some more stuff to fill that extra bedroom with the walk-in closet.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Owner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Her father is so religious, I'm just amazed that he's letting you see her again after that Schindler's List make-out session.",
-      "characters": [
-        "Morty",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
     }
   ]
 }

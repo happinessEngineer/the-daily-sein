@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1090,
+  "gameNumber": 1091,
   "date": "2027-12-29",
   "questions": [
     {
-      "quote": "She's not a novelty act, George. Where you hire her out for weddings and bar mitzvas.",
+      "quote": "Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft...  Of course, they handled my tattoo removal lawsuit.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Susan",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes I'd like to speak with Dr. Siegel... it's about Roy Kordic's condition...",
+      "quote": "Ohh, we've heard a lot about you!  It is so sweet of you to take her out.",
+      "characters": [
+        "Melissa",
+        "Kramer",
+        "Estelle",
+        "Jackie"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "Huh? Well, I'm gettin' out of town. I'm gonna visit Madeline for the weekend. You know, this place is lookin' kinda messy. What happened to Cindy?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Your boyfriend reads the Daily Worker? What is he? A communist?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. Exactly. So I imagine at some point somebody's going to offer me some cantaloupe?",
       "characters": [
         "Elaine",
-        "Chiles",
+        "Jerry",
         "George",
-        "Jerry"
+        "Duncan"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Elaine, who among us hasn't snuck into the break room to nibble on a love newton?",
+      "quote": "Yeah, I know, but he's a big fan of the genre. You know I'd consider it a personal favor to me.",
       "characters": [
-        "Jerry",
-        "Bania",
-        "Susan",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Oh yeah, yeah I heard, Marvin Kessler. Boy, that makes you think. If he could go...",
-      "characters": [
-        "Jerry",
-        "Rava",
-        "Frank",
+        "Nina",
+        "Elaine",
+        "Jackie",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Why not.  If she can't find me, she can't break up with me. And, if we're still goin' out, she has to gooo to the ballll.",
+      "quote": "Hey What are you doing in my car? Hey!Hey!Hey! Where you going.",
       "characters": [
-        "Elaine",
         "Kramer",
+        "Jerry",
         "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're late again, Costanza, so listen up. Starting tonight, we're having a little sales contest. The loser gets fired, the winner gets a Waterpik.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Frank",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "Oh yeeah.. well , Big smoker... I  gave it up for a while but it was too tough. Y' know.....I got no will power.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know about that. Hold on  Hello...Hi  ya last night I had a good time too  Really? that's so funny he's here right now.",
-      "characters": [
-        "Beth",
-        "Jerry",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Beth"
-    },
-    {
-      "quote": "Oh it's my pleasure. I love these. In fact I got one at home. It's perfect when you just want to throw something on.",
+      "quote": "Of course she treats skin cancer. That's how I met her, she was doing a skin cancer screening at Peterman. That's what dermatologists do.",
       "characters": [
         "Elaine",
         "George",
-        "Jack",
-        "Leo"
+        "Rick",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Seeing Maura. Apparently, I was unable to break up beyond a reasonable doubt.",
+      "quote": "They made me buy it.. A hundred bucks this thing cost me.  How dare they?! I got news for you, if it wasn't for the toilet, there would be no books.",
       "characters": [
+        "Herb",
+        "Elaine",
         "George",
-        "Kramer",
-        "Jerry",
-        "Greg"
+        "Jerry"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "They're ladies' glasses! You know all you need is that little chain around your neck so you can wear 'em while you're playing Canasta.",
-      "characters": [
-        "Todd",
-        "Morty",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

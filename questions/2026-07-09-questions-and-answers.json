@@ -1,106 +1,106 @@
 {
-  "gameNumber": 552,
+  "gameNumber": 553,
   "date": "2026-07-09",
   "questions": [
     {
-      "quote": "Ya know, why don't ya, open those pants, it's gonna be a lot easier that way.",
+      "quote": "Oh, I told him he'd never make it. He was up all night! Oh my god...Kramer?",
       "characters": [
-        "Jerry",
-        "Elaine",
         "George",
-        "Raymond"
-      ],
-      "correctAnswer": "Raymond"
-    },
-    {
-      "quote": "This is a person I like, it's not \"How to score on spring break\".",
-      "characters": [
-        "Bonnie",
         "Jerry",
-        "Ruby",
-        "Kramer"
+        "Kramer",
+        "Doctor"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, it's fantastic. We were out in front of the post office today, and not one person went in.",
-      "characters": [
-        "Jerry",
-        "Mickey",
-        "Kramer",
-        "Morgan"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You see what's going on here? You're attracted to him because he can't remember anything about you.",
+      "quote": "I mean, come on.  No, the stupidest thing you ever said was when you said Steve Kroft from Sixty Minutes is the same guy from *Seals and Croft*.",
       "characters": [
         "Elaine",
-        "Kramer",
         "Jerry",
-        "Morgan"
+        "Jack",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, yeah. That- that's, uh, okay, So, uh, I'd like to buy a couple of boxes of those from you, yeah?",
+      "quote": "Oh yeah, it's working out. And I got a date with that waitress who works at Reggie's.",
       "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right Bubble Boy. Let's just play... Who invaded Spain in the 8th century?",
-      "characters": [
-        "George",
-        "Elaine",
         "Kramer",
+        "Michael",
+        "Elaine",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know, I've been lyin' about my income for a few years. I figured I could afford a fake house in the Hamptons.",
+      "characters": [
+        "George",
+        "Harold",
+        "Russell",
+        "Tony"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Boy.. imagine.. liking wigs to the point it becomes a career choice.",
+      "quote": "Well, not really. After all, she did get together with George Peppard. I mean, Fred.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh man, if I don't get that black paint off the City's gonna go ape. I don't wanna lose my baby!",
-      "characters": [
-        "Frank",
-        "Newman",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I couldn't help but notice that you have quite a library in there.",
-      "characters": [
+        "Elaine",
         "Jerry",
-        "Estelle",
-        "Jackie",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Cook? No, I don't know any cooks. I don't know anything about cooking!",
+      "quote": "Boy can you think of what went through my mind when I saw there wasn't going to be enough room under that desk for me and my babies.",
       "characters": [
-        "Evelyn",
-        "Gary",
-        "Frank",
+        "Steinbrenner",
+        "Jerry",
+        "Attendant",
         "Elaine"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Daddy, there's, um, there's something that we have to talk to you about..",
+      "characters": [
+        "Salesman",
+        "Susan",
+        "Ben",
+        "Herb"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "I know. I just sort of leaned on it so it would look like it was mine.",
+      "characters": [
+        "Puddy",
+        "Conrad",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, take it! Take it!.. An' stop calling me \"Nip\"!  It was an accident! Well.. well.. it's gotta be somewhere. Look under his mattress.",
+      "characters": [
+        "Kramer",
+        "Margaret",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You think you're going to the other side with \"Hi\"? You're not going to make it.",
+      "characters": [
+        "Aaron",
+        "Kruger",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

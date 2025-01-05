@@ -1,106 +1,106 @@
 {
-  "gameNumber": 985,
+  "gameNumber": 986,
   "date": "2027-09-15",
   "questions": [
     {
-      "quote": "Why?! Because you were stabbed, and.. got coffee thrown in your face, and.. uh..",
-      "characters": [
-        "Sid",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Those unions.  Okay. Sports,...movies. What about a talk show host?",
+      "quote": "Hey, by the way, if anybody wants an inside tour of the zoo, Siena works there as a trainer.",
       "characters": [
         "George",
-        "Jerry",
-        "Morty",
-        "Raymond"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What, he can't jump out of the chair? How long does that take? Here look at this.  Here, watch.  Criminals. Boom. I'm up.  Stop It! Stop It! Stop It!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Billy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "This McKigney guy had a few good years..  How could you forget to turn off an iron?",
-      "characters": [
-        "Dwayne",
+        "Meryl",
         "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "If you had given me my mail last week when I got home, this whole thing never would have happened.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Great, its yours. I can't stand the sight of it. Elaine, here's the car keys.",
-      "characters": [
-        "Sid",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No Don't get the camera , we don't need the camera. Listen I know your skeptical , but I really believe in the Chinese.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Newman",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah. This friend of a friend knows this banker guy, he's, I don't know, 30 years, unbelievably gorgeous, of course he's gay.",
+      "quote": "I don't think it's so bad. People should wear name tags. Everyone would be a lot friendlier. \"Hello, Sam.\" \"How are you doing, Joe?\"  Hey, your arm. It moved again. I thought you said it went away.",
       "characters": [
-        "Kramer",
+        "Frank",
+        "Keith",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, I signed up for a food delivery service, Now We're Cookin'. That's a play on words. You know, they're faxing me the menus from some restaurants.",
+      "characters": [
         "George",
-        "Elaine"
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "HEY MA WHAT THE HELL DO I GOT TO DO TO GET SOME FOOD AROUND HERE? I'M STARVIN'. AND IF IT'S PEANUT BUTTER, I'M GONNA SHOVE IT IN YOUR FACE.",
+      "characters": [
+        "Testikov",
+        "Donald",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "Hey, black Saab. Looks like that building cut you off! Ha ha ha! See ya around!",
+      "characters": [
+        "Lamar",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Lamar"
+    },
+    {
+      "quote": "Hey! Come here a second. I want you to know something. You are not gonna get away with this!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "How could we not hear anything? What's with this Russel? What's he doing?",
+      "quote": "Yes they *eat* them. They don't put them next to vital organs in their abdominal cavity!",
       "characters": [
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I know what you're going through. Women. Who knows what they want?",
-      "characters": [
-        "Shelly",
-        "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know if you people are aware of this, but I am one clever chickadee.",
+      "characters": [
+        "Sid",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A bra is for ladies. I'm talking about a support undergarment specifically designed for men.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe you're moving out.  Kramer, is this true? Is it really happening? It's ... it's like a dream.",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

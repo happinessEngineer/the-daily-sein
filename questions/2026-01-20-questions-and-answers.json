@@ -1,104 +1,104 @@
 {
-  "gameNumber": 382,
+  "gameNumber": 383,
   "date": "2026-01-20",
   "questions": [
     {
-      "quote": "She comes out of the bathroom, I'm in up to my wrist. You should have seen the look on her face.",
+      "quote": "Yeah, she's something else. Hey, so what happened? Did you hold your ground or...uh…",
       "characters": [
+        "Jerry",
+        "Frank",
         "George",
-        "Kramer",
-        "Elaine",
-        "Morty"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "What are you talking about? What was I supposed to hide it somewhere?",
+      "quote": "Well, ELAINE:, There's any number of things I could do. But, I can promise you this, though, this vicious beast will never bother you again. So, what's it going to be?",
       "characters": [
         "Morty",
         "Newman",
-        "Jerry",
+        "Cynthia",
         "George"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "So Kramer what am I supposed to do? If I don't have that fur hat by four o'clock they're gonna take me down like Nixon.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yes! A more offensive spectacle I cannot recall. Anyway I just really came up to get some detergent.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "George",
-        "Newman"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "I had him for Hygene. Remember his teeth. It was like from an exhumed corpse.",
+      "quote": "No, not billiard..  Not billiards.. it was.. Come on, already. Come on..",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "When we were little girls Grandma Memma would take us to a matinee and then dinner here.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Holly",
+        "Kramer"
+      ],
+      "correctAnswer": "Holly"
+    },
+    {
+      "quote": "I don't know. He wouldn't tell me his phone number, where he worked... I'll bet he's in a relationship.",
       "characters": [
         "Elaine",
+        "George",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ma, I know this may be hard for you to understand but I am sure there are many people who do not like me.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Fdr",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, it's normal. You're very normal. You're totally normal. Who's this?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Bradley!  It's very important that you sit down  Now for the last time,  Try again to Sit Down!  Sit down you big stupid Ape!",
+      "quote": "Sue Ellen sends me an invitation, one week before her wedding in India. Tst, I'll show her...",
       "characters": [
-        "Jerry",
         "Kramer",
-        "Jake",
-        "Mickey"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "I'm stuck here, editing the stupid catalogue, because of stupid Bob Grossberg.",
-      "characters": [
+        "Bania",
         "Elaine",
-        "Harold",
-        "George",
-        "Kramer"
+        "Margaret"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Are you kidding? I lie every second of the day. My whole life is a sham!",
+      "quote": "I don't know, honey. What do you want to get? [in babying voice] I want you to get anything you want...'cause I love you so much. I want you to be happy. Okay, sweetie?",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "Newman",
         "George",
-        "Kramer"
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The bathroom door. I remember someone had played tic-tac-toe on it, and the X's won; they went diagonally from the top left to the bottom right.",
+      "characters": [
+        "Fred",
+        "Driver",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "She has this in addition to Epstein-Barr. It's like Epstein-Barr with a twist of Lyme disease.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Fred",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no, no, not at all. No, I have always felt that the most important thing in the world is spending time with family.",
+      "characters": [
+        "Susan",
+        "George",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "George"
     }

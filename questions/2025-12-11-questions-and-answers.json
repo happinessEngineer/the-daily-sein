@@ -1,106 +1,106 @@
 {
-  "gameNumber": 342,
+  "gameNumber": 343,
   "date": "2025-12-11",
   "questions": [
     {
-      "quote": "Oh, well, then I can't accept your testimony. Maybe if you had seen her naked.",
+      "quote": "Yeah, but they let me go on and on all about the Hamptons, they never said a thing! You don't let somebody lie when they know you're lying. You call them a liar!",
       "characters": [
+        "George",
+        "Vanessa",
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "Aaron"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, yeah. I see the irony. All right. What about this? What if I can find some way to break up with her so that she'll still like me and it doesn't affect the deal.",
-      "characters": [
-        "Morty",
-        "Joe",
-        "Kramer",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "From the grind. I mean, who needs it? I mean, I've accomplished everything I've set out to do.",
+      "quote": "All right! You're foolin' around with your maid. That is a wise decision.",
       "characters": [
+        "Kramer",
+        "Stu",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm just gonna heat this up. Make a little hot-tub for Little Jerry.",
+      "characters": [
+        "George",
         "Jerry",
         "Elaine",
-        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Eh, the whole business has changed. It's all about money now. The sad thing is it's the kids that suffer.",
+      "quote": "Now that's a great looking shirt!  Aye Captain!  Yeah! I'm glad I ironed it. It's perfect.  Look at it! It's fantastic!",
       "characters": [
-        "Daphne",
         "Kramer",
-        "Jerry",
-        "George"
+        "Rebecca",
+        "Winona",
+        "Celia"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Have I been picking at it? No. You know. It's just wear and tear.",
+      "quote": "Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.",
       "characters": [
-        "George",
-        "Jerry",
+        "Noel",
+        "Lois",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because if I watch it at my apartment I feel like I'm not doing anything. If I watch it here, I'm out of the house; I'm doing something.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Eva"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Listen, lemme ask you a question. What if I got a cup of coffee with her?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He lost all that cash. It was the only way I could give it back to him, otherwise he wouldn't accept it.",
-      "characters": [
-        "Newman",
-        "George",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, Queensboro Plaza.  This stop is famous for its gyros, you want one?",
+      "quote": "Sixteen hundred dollars? That's all? *Ooh*, they are ripping me off.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Ethan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There's gotta be more to life than this. What gives you pleasure?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Bookman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Really? And Debby told me that she fell in love with him because he has all this perspective!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought that my suggestion was good. And, I think you could've been a little more tactful.",
+      "characters": [
+        "Worker",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "This is not the point.  The point is, you just can't have the bike.",
       "characters": [
         "Jerry",
         "Kramer",
-        "George",
-        "Levitan"
+        "Susan",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, you didn't rewind it. There's a $2.00 charge for not rewinding.",
-      "characters": [
-        "Jerry",
-        "Woman",
-        "Clerk",
-        "George"
-      ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "Elaine"
     }
   ]
 }

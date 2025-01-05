@@ -1,106 +1,106 @@
 {
-  "gameNumber": 778,
+  "gameNumber": 779,
   "date": "2027-02-20",
   "questions": [
     {
-      "quote": "Hmm. Looks like a minor concussion. Let me see what I can do to relieve the swelling.",
+      "quote": "Your whole business is based on other drivers. It's a rented car. That's who's driving it, other drivers. Doesn't my credit card cover me or something?",
       "characters": [
         "Jerry",
+        "Dan",
         "George",
-        "Elaine",
-        "Doctor"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "he's not a mimbo, he's an exciting, charismatic man he just happened to have a perfect face",
-      "characters": [
-        "Clerk",
-        "Harold",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, no, no. I'm not happy, I'm not lucky, and I don't go. If anything I'm sad stop unlucky.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Sally"
+        "Doorman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Then who the hell said you couldn't have any? I mean what the hell do I care whether you have sponge cake?",
+      "quote": "She's Romanian. What am I gonna talk to her about, Ceausescu?",
       "characters": [
-        "Morty",
-        "Jerry",
-        "Helen",
-        "Kramer"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Because men think if women are grabbing and clawing at each other there's a chance they might somehow kiss.",
-      "characters": [
-        "George",
         "Elaine",
-        "Jerry",
-        "Darryl"
+        "Gina",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Now look here, see it's right here: Gloria Vanderbilt Collection.",
+      "quote": "Jerry, the anger, it just melts right off. Serenity now. Look at this. Serenity now!",
       "characters": [
-        "Jackie",
         "Jerry",
-        "George",
-        "Kramer"
+        "Kramer",
+        "Holly",
+        "Helen"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, no Elaine, stay. Lubeck here is the world's foremost appraiser of vintage pastry.",
+      "quote": "We're double dating tonight, and if we wear the same shirt we'll look like idiots.",
       "characters": [
-        "Elaine",
-        "George",
+        "Mickey",
         "Jerry",
-        "Peterman"
+        "Michael",
+        "Tor"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Mickey"
     },
     {
-      "quote": "I don't know. I couldn't see. I couldn't look down because of my neck.",
+      "quote": "Pat Buckles, ladies and gentlemen. Another round of applause for Pat Buckles!",
       "characters": [
-        "Elaine",
+        "Announcer",
+        "Newman",
         "Jerry",
-        "Kramer",
-        "Newman"
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Announcer"
     },
     {
-      "quote": "It's like I didn't even know him. He's like a totally different person.",
+      "quote": "Yes it is. She just took credit for my salad. That's not right.",
       "characters": [
+        "Steinbrenner",
+        "George",
+        "Tim",
+        "Alton"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, let's turn off the lights, get some real 'movie atmosphere.'",
+      "characters": [
+        "Jerry",
         "Kramer",
         "George",
+        "Nina"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well. I've encouraged her to go back into the Army... There she'll get the structure an' the discipline she needs right now... And she'll have qualified officers telling her what to do...",
+      "characters": [
         "Jerry",
+        "Newman",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Maybe you should call the airline, they might know where he is.",
+      "quote": "Bailed? C'mon, you knew I wanted to be a comedian. Besides, we had some good time. Remember Tropical Storm Renee?",
       "characters": [
         "Elaine",
+        "Detective",
         "Jerry",
-        "Kramer",
-        "Rudy"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So? I'm innocent! I mean you guys believe that I'm innocent, don't you? Jerry? George?",
+      "characters": [
+        "Ray",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

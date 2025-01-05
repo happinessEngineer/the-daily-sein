@@ -1,106 +1,106 @@
 {
-  "gameNumber": 245,
+  "gameNumber": 246,
   "date": "2025-09-05",
   "questions": [
     {
-      "quote": "Well, you know Jake, you should learn to use them. Like the way I'm talking right now, I would put an exclamation points at the end of all these sentences! On this one! And on that one!",
+      "quote": "Oh, like any man would ever look at me, come on, I?m gonna... get out of here.",
       "characters": [
-        "George",
-        "Kramer",
+        "Morgan",
         "Elaine",
-        "Gina"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Elaine? Guess what. I've decided to Form a Charitable Foundation, in Susie's honor. And as Susie's best friend, I want you to be involved.",
+      "quote": "See her tonight. See her tomorrow. Go. Knock yourself out. She's too crazy for me.",
       "characters": [
-        "Peterman",
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe they thought you looked too smart to be brainwashed?",
+      "characters": [
+        "Bookman",
+        "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "No!!! The reason he's the iron man is because he goes out there and plays every game. Wash!!! Spin!!! Rinse!!! Spin!!! You take that away from him, you break his spirit!",
+      "quote": "Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now.",
       "characters": [
+        "Jane",
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Look Ramon, you're, you're a nice guy. But I, I actually only have three friends. I really can't handle any more.",
+      "quote": "Jerry,  aaya - what are you doin' tomorrow? I want you to come by the set.",
       "characters": [
-        "Jerry",
-        "Abby",
-        "Leo",
-        "Fred"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He went crazy from one note. He couldn't get it out of his head. I think it was an A. He kept repeating it over and over again. He had to be institutionalized.",
-      "characters": [
-        "Jerry",
-        "Frank",
+        "Darryl",
+        "Newman",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I tell you. If you were hitch-hiking, you'd never get into a car with someone with a hairdo like that.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, alright, fine.  You sit there and you watch while Newman takes over the world.  But he'd be a horrible leader.  And you know who's gonna suffer?  The little people; you and George.",
-      "characters": [
-        "Kramer",
-        "Peterman",
-        "Elaine",
-        "Father"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ohh boy. Well, I gotta meet Elaine and run some errands. So..",
+      "quote": "Would you like a Pepto-Bismol? I keep them in my wallet...!   Do you think he liked it?",
       "characters": [
-        "Hanke",
-        "Elaine",
         "Kramer",
-        "Jerry"
+        "Jerry",
+        "Kevin",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who wants to responsible? When ever anything goes wrong, the first thing they ask is: who's responsible for this?",
+      "characters": [
+        "Jerry",
+        "Helena",
+        "Kramer",
+        "Rebecca"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, it's nice to meet you. Well, I'm outta here, see you guys.",
+      "quote": "Oh boy, that looks great. I can't believe you're giving him this.",
       "characters": [
-        "Fred",
-        "George",
+        "Elaine",
         "Kramer",
-        "Babu"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Fred"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Excuse me.  Doris would like to borrow red your pocketbook to go with her shoes.  The shoes have to match the pocketbook.  What's she doing? Yoga?",
+      "quote": "He used to be in the pajama business. I used to be able to get pajamas for free. I used to come over and get pajamas all the time!",
       "characters": [
-        "George",
-        "Elaine",
-        "Jack",
-        "Waiter"
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Leo"
       ],
-      "correctAnswer": "Jack"
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "This is America! I don't have to wear anything I don't want to wear!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Lisi",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

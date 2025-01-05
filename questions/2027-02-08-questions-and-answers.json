@@ -1,106 +1,106 @@
 {
-  "gameNumber": 766,
+  "gameNumber": 767,
   "date": "2027-02-08",
   "questions": [
     {
-      "quote": "That's how waitress types express derision. They don't want to get their mouths dirty.",
-      "characters": [
-        "Bania",
-        "Pop",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, that's the way Russell is. He doesn't like to play games.",
-      "characters": [
-        "Elaine",
-        "Susan",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "I'll expect that tape by three o'clock tomorrow.  May I borrow this?",
-      "characters": [
-        "Brody",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Brody"
-    },
-    {
-      "quote": "Umm, I'm not actually going straight to home, I have to first stop at the eh...circus, you know with all the...clowns.",
+      "quote": "Look at this. Boy, one minute Elliot Gould is sitting on you and the next thing - you're yesterday's trash.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Carol"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't think you will. As a matter of fact I'll save you the trouble. I'll do it myself.",
-      "characters": [
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, but you said this is one of the things that her firm does.",
+      "quote": "All right, all right. What. What. You tell me; I'll do anything. Come on, Doc, tell me.",
       "characters": [
-        "George",
         "Elaine",
-        "Jerry",
-        "Carol"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Just take 'em out and ride 'em around for about..half an hour.",
-      "characters": [
         "George",
-        "Elaine",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Wait a second. Think about it. He's not showing up. Wait till you see the line of cabs, its like forty-five minutes long. You said he's in Chicago.",
+      "quote": "I was squinting! Remember that drive from Wortsborough?  I was spotting those raccoons.",
       "characters": [
-        "George",
-        "Gino",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "How about: You've been diagnosed as a multiple personality. You're not even you. You're Dan.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ya and also I'm afraid that people in that state are finally going to tell me what they really think of me. You know they got nothing to lose what do they care?",
-      "characters": [
         "Brett",
         "Elaine",
-        "George",
-        "Babu"
+        "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Every time we go out to eat the minute we we're done eating she's runnin to the bathroom.",
+      "characters": [
+        "Maestro",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I don't do \"bits.\" I'm a prop comic. Dammit, I can't find my water gun. I can't go on without my water gun.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Ronnie",
+        "Elaine"
+      ],
+      "correctAnswer": "Ronnie"
+    },
+    {
+      "quote": "Well, for me it's a step up. It's like moving from Iceland to Finland.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George I've just reading this thing in the paper, it's unbelievable!",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hello? Yes, I need an ambulance at one twenty nine west Eighty-first Street, apartment five-A.",
+      "characters": [
+        "Elaine",
+        "Aaron",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The way I remember it, Cain, he was a successful doctor, but when he took this special formula, he became Mr. Able.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "…And then Julianna asked me if I wanted to join her here in the office.",
+      "characters": [
+        "Raymond",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Raymond"
     }
   ]
 }

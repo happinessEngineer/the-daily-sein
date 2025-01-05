@@ -1,104 +1,104 @@
 {
-  "gameNumber": 350,
+  "gameNumber": 351,
   "date": "2025-12-19",
   "questions": [
     {
-      "quote": "It's my apartment, Eldridge! The Stalkholm may not have sunk ya, but I will! Ha, ha, ha!",
+      "quote": "No, you're not a divorcee. Youÿre just separated. You're---you're a separatee.",
       "characters": [
-        "George",
         "Elaine",
-        "Jerry",
-        "Tawni"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's totally inappropriate. It's lewd, lascivious, salacious, outrageous!",
-      "characters": [
-        "Woman",
-        "Leslie",
-        "Elaine",
-        "Jackie"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Alright, you know what we should do? We should go to the movies. Get away from this script for a while..",
-      "characters": [
         "George",
         "Jerry",
-        "Elaine",
-        "Marcelino"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Nobody wants to go on a three hour bus tour of a totally unknown person's life.",
-      "characters": [
-        "Jerry",
-        "Steinbrenner",
-        "George",
-        "Puddy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Her scalp was clean. She had a nice skull. There just wasn't a lot of hair on it.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Newman",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, what happened? I thought Cheryl was gonna help Babu get his Visa.",
+      "quote": "All because of this creepy new guy at work. He just - he just comes out of nowhere and he's right next to you!",
       "characters": [
-        "Peggy",
+        "Morty",
         "Jerry",
-        "Guy",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at this sparkle.  Mrs. Enright!  Mrs. Enright! Mrs. Enright!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine said I could stay with her another month until Tina gets back. What are you thinking about?",
+      "characters": [
+        "Mike",
+        "Morty",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "Audrey"
+    },
+    {
+      "quote": "I'm unbelievable at spelling last names. Give me a last name.",
+      "characters": [
+        "George",
+        "Seth",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, there may be a problem with the phone, hold on. >click click<",
+      "characters": [
+        "Estelle",
+        "Elaine",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, my closet is packed to the gills, I'm afraid to open the door. Just for a few months. It'll make all the difference in the world.",
+      "quote": "Oh! Taht's judgment. Yes, yes. Judgment with earrings on. Yeah.",
       "characters": [
-        "Buckles",
+        "Frank",
         "George",
         "Jerry",
-        "Elaine"
+        "Kramer"
       ],
-      "correctAnswer": "Buckles"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "C'mon Morty, it's been broken for six months already. What the hell are you doing?",
+      "quote": "Yeah, I know Jerry will tell you that The Wrath of Khan is the better picture, but for me, I always...",
       "characters": [
-        "Herb",
-        "Jerry",
+        "Estelle",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Herb"
-    },
-    {
-      "quote": "Um, listen, you're a mechanic. Could you help me install a garbage disposal?",
-      "characters": [
-        "Kramer",
-        "Jack",
-        "Lippman",
-        "George"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I should have let her have it! I held back because of Kramer.",
+      "quote": "You said, no matter what you do or say, I'm not to give you the number.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Morty",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nah, did you hear the end? I couldn't remember what I was trying to say, that whole thing about the, uh...",
       "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Bania"
+        "Kramer",
+        "Sophie"
       ],
       "correctAnswer": "Jerry"
     }

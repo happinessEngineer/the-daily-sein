@@ -1,106 +1,106 @@
 {
-  "gameNumber": 143,
+  "gameNumber": 144,
   "date": "2025-05-26",
   "questions": [
     {
-      "quote": "Elaine, have you noticed George was acting strange the whole flight?",
+      "quote": "I was screamin' at hecklers all night. The last time I open for a rodeo.",
       "characters": [
-        "Jerry",
-        "Tom",
-        "Wilhelm",
-        "Buckles"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I mean, the whole thing is ironic. Think of it: Here the guy is nice enough to give you a box of very fine Cuban cigars..",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen, you're lucking I'm not asking for a whole refund.  You gave me ladies' frames!",
-      "characters": [
-        "Morty",
+        "Holly",
         "Elaine",
-        "Jerry",
-        "George"
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? M-Maura, what are you doin' here? I ended this relationship... twice!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Kruger",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm going to psyche myself into it like those people that just walk across the hot coals.",
+      "quote": "You remember Peter. remember I told you how he went to the track that one time and he was yelling at this jockey and the jockey got off the horse and started chasin' him.",
       "characters": [
         "Jerry",
         "George",
-        "Newman",
-        "Marla"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Kramer, there may be a problem with the phone, hold on. >click click<",
-      "characters": [
-        "George",
-        "Ray",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Of course. She's got a great body, buddy. All right, I'm gonna go upstairs, I'll be right back.",
-      "characters": [
-        "George",
-        "Mickey",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Tell me what you're wearing tomorrow. I'll help you lay it out on the bed.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "George"
+        "Lippman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Your boyfriend reads the Daily Worker? What is he? A communist?",
+      "quote": "Ah, you know. I'm supposed to meet, eh, someone -- I'll, I'll wait for them outside.",
       "characters": [
+        "Jerry",
+        "Gina",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's crazy. His phone wasn't even hooked up. He just liked ringing that bell.",
+      "characters": [
+        "Frank",
+        "Jerry",
         "Kramer",
+        "Lloyd"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Of course, they're giving a testimonial for your father. You could do your comic routines.",
+      "characters": [
+        "Jake",
+        "George",
+        "Helen",
+        "Stan"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "So, she went out with you on a first date.. and it was her birthday?",
+      "characters": [
         "George",
         "Jerry",
-        "Sophie"
+        "Peterman",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Uh-Oh-ah, by the way Mr. Testikov um, do you remember the other day when we were in the limo and ah, my organizer started making noise and you threw it out the window?",
+      "quote": "Well, Kevin, maybe I have a little doubt. I mean, nothing is a hundred percent.",
       "characters": [
-        "Jerry",
-        "Tim",
         "Elaine",
-        "Kramer"
+        "Jerry",
+        "George",
+        "Newman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No. You have to have bills. Paper money. You can't pay with this.",
+      "quote": "Now is that considered a nut, because I know the cashew is a legume.",
       "characters": [
-        "Beth",
-        "Newman",
-        "Worker",
-        "Jerry"
+        "Guy",
+        "Jerry",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Worker"
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "Hello? I can take an hour off your hands. Give the kids a chance to see a real live Yankee.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Danielle",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

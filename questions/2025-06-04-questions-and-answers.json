@@ -1,106 +1,106 @@
 {
-  "gameNumber": 152,
+  "gameNumber": 153,
   "date": "2025-06-04",
   "questions": [
     {
-      "quote": "Yes George, I did. Come in, come in. George, the wordaround the office is that you're a Communist.",
+      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. You know? They can't really chase ya!",
       "characters": [
-        "Steinbrenner",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left.",
-      "characters": [
-        "Kramer",
-        "Gavin",
-        "Chiles",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, you know, like when someone opens something up and they go, \"Oh. Tube socks.\"  What are you gonna do about it?",
-      "characters": [
-        "Kramer",
-        "Landis",
+        "Sid",
+        "Elaine",
         "Jerry",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But Iiii never heard her Cries for Help.  An' nowww.. Susie is gone.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Peterman",
-        "Jerry"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Well, actually, it's kind of a funny story because she has this amazing toy collection and last night I finally got to play with them.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Alec",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, well, I'm staying out of this one. This is between them. I am not getting involved.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Celia",
-        "Beth"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Good thinking, Kruger. Until you pin me, George, Festivus is not over!",
+      "quote": "Would you believe when I was 18, I had a ssssilver dollar collection?",
       "characters": [
-        "Frank",
-        "Hanke",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Saleswoman",
+        "Lippman",
+        "Frank"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "What are you doing out there?! You're holding up the production of the movie! We can't shoot and Woody, he's really mad at you.",
+      "quote": "Well, you had a good run, what was it 75, 80 years? Wreaking havoc, making everybody nervous.",
       "characters": [
         "Jerry",
-        "George",
-        "Lisi",
-        "Kramer"
+        "Elaine",
+        "Newman",
+        "Heather"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, I found a better way to humiliate myself. There was this guy, and we had a few too many..",
+      "quote": "George, I just got off a twenty-three hour plane ride. I'm too tired to even vomit at the thought.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Four hundred dollars? What are you nuts? Someone will pay more.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Manny"
+      ],
+      "correctAnswer": "Manny"
+    },
+    {
+      "quote": "I didn't want to tell you this, but usually he hates everyone.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, there was so much snow. The roads were closed. I really appreciate it - you picking me up. Thanks again.",
       "characters": [
         "Elaine",
         "Kramer",
-        "Steinbrenner",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, what's another million, give or take. I get off where and when I wanna get off.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you told Kramer it's okay to put the cable in during the shower! Jerry, look,, look! They've eaten everything.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Michael",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, no, no. He knows how to talk to these people. No-one's gonna take advantage of Georgie.",
+      "quote": "The point is I'm going to be taking this lie detector test and that needle's going to be going wild.",
       "characters": [
-        "Elaine",
-        "Morty",
-        "Ruby",
-        "George"
+        "George",
+        "Jerry",
+        "Matthew",
+        "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
     }
   ]
 }

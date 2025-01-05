@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1005,
+  "gameNumber": 1006,
   "date": "2027-10-05",
   "questions": [
     {
-      "quote": "Allright, I gotta head back right away, I'll-I'll -- I gotta figure something out here.",
+      "quote": "Yeah, yeah. Anyway, uh...we're going into business together. Remember that idea I had a few years ago about the pizza place where you make your own pizza?",
       "characters": [
         "Kramer",
-        "Morty",
         "George",
-        "Jerry"
+        "Jerry",
+        "Janet"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, it's all swollen. I think I may have chipped a tooth when I fell yesterday.",
+      "quote": "Every time you're with that Kramer, something happens... He's a real trouble maker!",
       "characters": [
-        "Morty",
-        "Jerry",
+        "Estelle",
         "George",
-        "Kramer"
+        "Ron",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Moths are a discourage to my business, all it takes is one moth to lay eggs. You know what happens to the larvae? They hatch and they're everywhere.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Rudy",
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "They try to push you into using their cleaning crew, with all their so-called maintenance equipment.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright - come on - come on now, people. Let's face it, we're not all going to agree on anything. Why don't we all just go to Paris?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright, uh, take it down to the end of the block. Make a controlled turn, and bring her back. Let's see what you've got! Ok? Ready, and go!",
+      "quote": "I tell ya, there's some people, they just wear a ribbon and they think they're doin' something? Not me. I talk the talk, and I walk the walk, baby.  I'll be right back.",
       "characters": [
+        "Estelle",
+        "Jerry",
         "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh no no no, this is no joke. O'Brien's coming in from Chicago, Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Doris"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "you would not believe what just happened to me in the bathroom",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And that failure to become a banker was eating at you. Eating-eating-eating at you inside.",
+      "characters": [
         "Newman",
-        "Kevin",
-        "Frank"
+        "Kramer",
+        "Morty",
+        "George"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "Um, do you want to do this now, or do you want to wait until we get in the car?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, if I could get this Coco woman down to Kruger, they wouldn't be able to call me Koko anymore because Kruger would never allow 2 Kokos.",
-      "characters": [
-        "Kimbrough",
-        "George",
-        "Wilhelm",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I have nothing to say to anybody. I'm so uninteresting. I think I'm out of conversation.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Seth",
-        "Owner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, one more thing about the car. Let it warm up for a minute.",
+      "quote": "This is gonna be the easiest money I've ever made in my life.  So, my fried, Joyce, is teaching an aerobics class. I'm gonna go tonight.",
       "characters": [
         "Jerry",
-        "Newman",
+        "Morty",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, well I uh got lots of other stuff to show you too. Wait till you see the plum job that I landed.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Did you ever see her lose her temper. I was once late cause I bought a Panama hat -- she grabbed it by the brim, pulled it down so hard my head came right through the top of it.",
-      "characters": [
-        "Frank",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah.  I am taking over South America and there ain't nothing you can do about it.",
-      "characters": [
-        "Kramer",
-        "Announcer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

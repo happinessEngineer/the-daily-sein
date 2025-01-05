@@ -1,106 +1,106 @@
 {
-  "gameNumber": 206,
+  "gameNumber": 207,
   "date": "2025-07-28",
   "questions": [
     {
-      "quote": "I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...",
+      "quote": "Yes, yes I will! I'm gonna make people feel my gonorrhea, and feel the gonorrhea themselves.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So then I drive all the way up to the country club and then I find out they got a tournament goin' on. Do you mind if I smoke?",
       "characters": [
         "George",
         "Elaine",
-        "Steinbrenner",
+        "Cop",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "My neck is killing me. Right in this spot. Very tender over here.",
+      "quote": "Hey, when you order from the waitress, get her to point to the menu. I want to see what finger she uses.",
       "characters": [
         "George",
-        "Farkus",
-        "Helena",
-        "Jerry"
+        "Elaine",
+        "Kramer",
+        "Receptionist"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wooo, you know what you just did? You let a burglar in the building.",
+      "characters": [
+        "Nurse",
+        "Steve",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "David",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I started riding these trains in the forties. Those days a man would give up their seat for a woman. Now we're liberated and we have to stand.",
+      "quote": "Look at this. There's no spaces here.  Excuse me, are you gettin' out?",
       "characters": [
-        "Woman",
+        "Enzo",
         "Kramer",
-        "Frank",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "What, you don't think I can attract beautiful, intelligent women?",
+      "quote": "You know how hard it was for me to get that appointment for you? You can't just walk in on this guy. He did me a personal favor.",
       "characters": [
+        "Elaine",
         "George",
-        "Susan",
-        "Maestro",
+        "Leo",
+        "Kramer"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Oh! yeah. The Nicole Millers ...hemm.. Well the funniest thing.",
+      "characters": [
+        "Kramer",
+        "Craig",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Craig"
+    },
+    {
+      "quote": "Actually she doesn't even know about the toys. I gave her the wrong kind of medicine and I, guess she passed out!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Take it easy, I've been through a million of these negotiations.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Kramer, I don't wanna stop and talk with everyone, every time I go in the building. I just wanna nod and be on my way.",
-      "characters": [
-        "Jerry",
-        "Russell",
-        "Naomi",
-        "Kramer"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You had a date? You went out with my butler? Who said you could go out with my butler?",
+      "quote": "I'm sorry, Jill. I'm going to have to take this call. Jerry, what's the emergency?",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Eh, listen Mr. Kruger, I got a message from Dr. Van Nostrand and he says it might be wise to you to see another doctor about that mole.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "OK fine.  I did like that little Calvin Klein number right by the elevator. You know the little ...",
-      "characters": [
-        "Elaine",
-        "Attendant",
         "George",
-        "Jackie"
+        "Elaine",
+        "Kramer",
+        "Morty"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, I think I will go upstairs. I can check my machine.",
-      "characters": [
-        "Elaine",
-        "Carol",
-        "Melissa",
-        "Jerry"
-      ],
-      "correctAnswer": "Carol"
     }
   ]
 }

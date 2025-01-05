@@ -1,106 +1,106 @@
 {
-  "gameNumber": 334,
+  "gameNumber": 335,
   "date": "2025-12-03",
   "questions": [
     {
-      "quote": "I don't remember, but it certainly wasn't this. Look at this cartoon in the New Yorker, I don't get this.",
+      "quote": "Anything you wish. I'll tell you a little secret about zip codes: They're meaningless!",
       "characters": [
-        "Jackie",
-        "George",
+        "Jerry",
         "Elaine",
-        "Jerry"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, listen, I just want you to know that I was more than willing to stick it out with Joel Rifkin.",
+      "quote": "Busboys are always changing jobs. That's the business. I know. I work with these guys. I tallk to them in the kitchen at the comedy clubs.",
       "characters": [
-        "Jerry",
-        "Susan",
-        "Woman",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Do you have to do that? Jerry, don't do that, that is so annoying.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, don't worry about it. Once he passes the test, you'll have sex again, and you'll be fine.",
-      "characters": [
-        "Sally",
+        "Babu",
         "Elaine",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh. Oh, hi, hi. Hi. Nice to meet you.  What're you having, veal?",
+      "quote": "Jerry wake up to reality. It's a military thing. They're probably creating a whole army of pig warriors.",
       "characters": [
-        "Abby",
-        "Jackie",
+        "George",
         "Kramer",
+        "Estelle",
+        "Harold"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, the quailifications for this scholarship were suppose to be.. largely academic.",
+      "characters": [
+        "Aaron",
+        "George",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Wait a second! I never baited a hook with a rye before. Your hook is too small. This is for, like, a muffin. All right. Take it away.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Attendant",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why should she like me? Who am I? Huh, there's a million people to like.",
+      "characters": [
+        "Maryedith",
+        "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, he'll be here. By the way, Elaine,  thank you for laying out for the Arabian mocha java.",
+      "quote": "You know, Lloyd, I-I've been to the doctor  there's really nothing they can do.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "James",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, the tenant association has decided to hear my side of the story. So, uh, I gotta kinda get ready. I'll see ya.",
-      "characters": [
-        "Wilhelm",
-        "Kramer",
         "George",
-        "Jerry"
+        "Kramer",
+        "Estelle"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I think you're getting a little pudding under the skin yourself.",
+      "quote": "He's serving Mexican, Italian, Chinese. He's all over the place. That's why no one's going in.",
       "characters": [
-        "Elaine",
-        "Rebecca",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, alright! We'll buy her a wheelchair! Wheelchairs, engagement presents.. IT NEVER ENDS!",
-      "characters": [
-        "Elaine",
+        "Jerry",
+        "Kramer",
         "Newman",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, are you crazy? It's a traumatic thing to be thrown up on.",
+      "characters": [
         "George",
-        "Jack"
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "And you know what else? He picked up that woman in the coffee shop.",
+      "quote": "You know, sometimes those guys don't make it back.  I'm really hungry.",
       "characters": [
+        "Frank",
+        "Woman",
         "Elaine",
-        "Kramer",
-        "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

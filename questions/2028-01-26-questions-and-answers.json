@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1118,
+  "gameNumber": 1119,
   "date": "2028-01-26",
   "questions": [
     {
-      "quote": "But in the circus you get to ride around in the train, see the whole planet!",
+      "quote": "Now, lookit, this plane leaves at 10:15. We're getting up at about eight. That gives us enough time, right?",
       "characters": [
+        "Elaine",
+        "George",
+        "Dana",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Here I personally made you a cold chicken sandwich. It's not even on the menu.",
+      "characters": [
+        "Waitress",
+        "Jackie",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Waitress"
+    },
+    {
+      "quote": "Ah. I'm watching my height. My doctor doesn't want me to get any taller. So you're Miss, uh...",
+      "characters": [
+        "Newman",
+        "Kimbrough",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Aaaah! Enough lying! The lying is through! C'mon, Jerry, the masquerade is over. You're thin, late thirties, single...",
+      "characters": [
+        "George",
         "Jerry",
-        "Saleswoman",
-        "Willie",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, this guy Leonard Christian's gonna be there tomorrow night.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Mickey",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "The courthouse. You gotta go with me to the courthouse. I'm contesting a ticket today.",
+      "quote": "The broken window, Klompus never fixed it. They just walked right in.",
       "characters": [
-        "Newman",
         "Jerry",
-        "Herb",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh, you looking good. You look strong. You one fine-looking sexy lady.",
-      "characters": [
-        "George",
+        "Morty",
         "Kramer",
-        "Chiles",
-        "Jerry"
-      ],
-      "correctAnswer": "Chiles"
-    },
-    {
-      "quote": "\"Elaine once tried to convert one but Elaine's not going through that again.\"",
-      "characters": [
-        "Jerry",
-        "Voice",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well good, good. Take it off you're going to wear it out already. It's for special occasions this thing.",
+      "quote": "You know this whole thing never would have happened if you hadn't bailed out on me at the restaurant.",
       "characters": [
-        "Waitress",
         "George",
         "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You think the person you were talking to is him? That's not even close to him. He's funny, Jerry's funny.",
+      "quote": "Yeah. He went down at the Beackman, he tried to lam, but they cheesed him.",
       "characters": [
+        "Susan",
         "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Algae,… obviously plankton, hmhm. I don't know what else I could tell ya, ah, Oh I-I just got back from a trip to the Galapagos Islands, I was living with the turtles.",
+      "characters": [
+        "Officer",
         "Kramer",
         "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I didn't ruin anything. He looked like an idiot. He did, and it made him act like a jerk.",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Newman",
         "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You yelled that time at the movies. That's why you're not getting the baby.",
-      "characters": [
-        "Kramer",
-        "Janet",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Your nickname's Koko? One of the girls down at the maid service is named Coco.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Cindy",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Cindy"
-    },
-    {
-      "quote": "That damn delicatessen that - that is last time they screw up one of my orders.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh yeah, sure, sure. So ah, did ya have a good time at the party last night?",
-      "characters": [
-        "Jerry",
-        "Wilhelm",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "Elaine"
     }

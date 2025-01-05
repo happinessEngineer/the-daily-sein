@@ -1,106 +1,106 @@
 {
-  "gameNumber": 344,
+  "gameNumber": 345,
   "date": "2025-12-13",
   "questions": [
     {
-      "quote": "You know, you have the slowest elevator in the entire city. That's hard to get used to when you're in so many other fast ones.",
+      "quote": "I can't believe you still do that. You know those things are bad for ya.",
       "characters": [
-        "Russell",
+        "Newman",
+        "Kramer",
         "Jerry",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Depends on how nice the person was. But you gotta figure, even Oswald took forty-five minutes.",
-      "characters": [
-        "Jerry",
-        "Brett",
-        "George",
-        "Seth"
+        "Fred"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, sure sure, he wants to. It's very kind of you. Yeah, Jerry, he appreciates it. Don't you, Jerry?",
+      "quote": "You know I'm enjoying it very much. I think my coworkers are really taking to me.",
       "characters": [
-        "Kramer",
+        "Jerry",
         "George",
-        "Jerry",
-        "Elaine"
+        "Jack",
+        "Steinbrenner"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, one question does come to mind. Have you considered just...asking them what happened to the briefcase?",
+      "quote": "Jerry, let me tell you something, \"A man without hand is not a man.\" I got so much hand I'm coming out of my gloves. I got to thank Kramer.",
       "characters": [
+        "Puddy",
         "Elaine",
-        "Jerry",
-        "Earl",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hello Archie, Veronica, Mr. Weatherbee. . . . Is this Don Matingly's signature?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Bruce"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I know, and then you say to yourself, \"From this moment on, I'm not gonna waste any more of it.\" But then you go, \"How? What can I do that's not wasting it?\"",
-      "characters": [
         "George",
-        "Gavin",
+        "Laura"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I was, but the one I thought was Julie turned out to be Karen.",
+      "characters": [
         "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ate? What? What the hell are you talking about? Now you listen to me, you get out of that apartment this instant. If you screw this up for me I swear....",
+      "quote": "I just want the both of you to know how much you mean to me, and I love you both very, very much.",
       "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I'm sorry, I require twenty-four hours notice for a cancellation. Now, as I see it, you owe me seventy-five dollars.",
+      "characters": [
+        "Helen",
         "Jerry",
         "George",
+        "Peggy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, Yes. It worked. Sister Roberta I've still got time to catch her.",
+      "characters": [
         "Elaine",
-        "Jack"
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, I can't begin to tell you how much I hate that commercial.",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, you could come by my office later, I could work on it for you a little.",
+      "quote": "Because she came down to the club and heckled me! Give her a taste of her own medicine!",
       "characters": [
-        "Ed",
-        "Aaron",
-        "Wendy",
-        "Jerry"
-      ],
-      "correctAnswer": "Wendy"
-    },
-    {
-      "quote": "I'm not getting on a regular plane now - I'm all psyched up to go on a private jet. No way I'm getting on a regular plane.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Clerk",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What do you mean Wednesday? I though we had tickets to the Knick game Wednesday. We got seats behind the bench! What happened? We're not going?",
-      "characters": [
-        "George",
         "Kramer",
-        "Jackie",
-        "Elaine"
+        "Jerry",
+        "Peterman",
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'VE FOUND A HAIR!!! Yes  Hey, come here, come here ,take a look at this.",
+      "characters": [
+        "Craig",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 239,
+  "gameNumber": 240,
   "date": "2025-08-30",
   "questions": [
     {
-      "quote": "Hey, stop kidding me. He's a doctor. He's a very good doctor.",
-      "characters": [
-        "Elaine",
-        "Noreen",
-        "George",
-        "Tor"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Tuesday has no feel. Monday has a feel, Friday has a feel, Sunday has a feel....",
+      "quote": "I'm not bragging, I happen to have a very keen lesbian eye.  Hi, how ya doin.'",
       "characters": [
         "George",
-        "Man",
+        "Michael",
         "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Well she got up to the line of scrimmage, didn't like the looks of the defense and changed the play.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Joel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I talked to my sponsor, and, uh, I've thought it over, and, you know, my apology at the coffee shop was sarcastic, and rude, and you deserve much better.",
-      "characters": [
-        "Hanke",
-        "Kramer",
-        "Stu",
-        "Newman"
-      ],
-      "correctAnswer": "Hanke"
-    },
-    {
-      "quote": "That's what Willie Loman told Biff before his interview, in 'Death of a salesman'.",
-      "characters": [
-        "Kramer",
-        "Woman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, how are we gettin' to Scott Drake's party on Saturday night?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, I had what you might call a little encounter this morning.",
+      "quote": "You're going to that again? Why? Just to do that stupid line?",
       "characters": [
+        "Jerry",
         "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
+        "Sidra"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm telling you the guy's a drunk, he's probably on a bender.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I was kind of, hehehe, short on material and I, um, I put them in the book anyway.",
+      "characters": [
+        "George",
+        "Marcy",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I can't believe you called me a chucker. No way I'm a chucker, I do not chuck, never chucked, never have chucked, never will chuck, no chuck!",
+      "quote": "You couldn't pay me enough to go to the beach on a weekend. I mean it's hard enough...",
       "characters": [
-        "Kramer",
-        "George",
+        "Tim",
         "Elaine",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "That was in the past, Jerry. As it happens, New York Magazine just judged his kitchen to be one of the cleanest in the city. They got a duck there, you think you died and went to heaven.",
+      "quote": "No, sure sure, he wants to. It's very kind of you. Yeah, Jerry, he appreciates it. Don't you, Jerry?",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Newman",
-        "Carrie"
+        "George",
+        "Kramer",
+        "Tony"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "And a slice of pepperoni pizza and a large soda and three times a week I will require a canolie.",
+      "quote": "I got rejected by a bald woman. A bald woman rejected me. Heh, you like that one? A woman with no prospects and no *hair*, told me that I wasn't her type. Apparently *baldy* likes a slimmer guy.",
       "characters": [
-        "George",
-        "Newman",
-        "Elaine",
-        "Jerry"
+        "Kramer",
+        "Testikov",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, hey, hey.  I hear you've got some lip reader working for you. You gotta let me use her for one day. Just one day.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rachel",
+        "Newman"
       ],
       "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well one day somebody's going to sleep on that thing and we'll get sued.  I hope this doctor knows what he's doing.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey look ,you know, you're the one who's locked out. I'm letting you stay here. You're wearing my bathrobe. You should adapt to me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Laura"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

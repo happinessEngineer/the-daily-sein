@@ -1,106 +1,106 @@
 {
-  "gameNumber": 6,
+  "gameNumber": 7,
   "date": "2025-01-09",
   "questions": [
     {
-      "quote": "No, Mickey and I, we can't work it out. You know, I'm thinking of asking that Karen out by myself.",
+      "quote": "Well, of course you don't. You don't have a proper workstation. I'll fax you over my catalogue.",
       "characters": [
+        "Rabbi",
         "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
+        "Brett",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Brett"
     },
     {
-      "quote": "Didja hear what happened? The mentor saw my act. She dumped me.",
+      "quote": "To cease and desist on behalf of my client, Jerry Seinfeld. Signed ; Crybaby Jerry Seinfeld's Lawyer. Ok but I got two words for you Jerry Seinfeld......You",
       "characters": [
+        "Donna",
         "George",
-        "Elaine",
-        "Jerry",
-        "Bania"
+        "Kramer",
+        "Sally"
       ],
-      "correctAnswer": "Bania"
+      "correctAnswer": "Sally"
     },
     {
-      "quote": "Did Jane's finance kidnap Sydney and take her to Las Vegas? And if so, did she enjoy it?",
+      "quote": "That's ridiculous, I want to return it. What's the difference what the reason is.",
       "characters": [
-        "Lou",
-        "George",
-        "Jerry",
-        "Kelly"
-      ],
-      "correctAnswer": "Lou"
-    },
-    {
-      "quote": "Oh my God, Hyannisport? With the Kennedys? Who else is up there? Is Rose up there?!",
-      "characters": [
-        "Elaine",
-        "Izzy",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "George, I've always fantasized about jumping into bed with you.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "George",
-        "Loretta"
-      ],
-      "correctAnswer": "Loretta"
-    },
-    {
-      "quote": "And ... I could really live without the tribal music ... and the make out sessions in the living room",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ma! Again with the ketchup? Don't they have 'em in the plastic squeeze containers?",
-      "characters": [
-        "Leo",
         "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "Yeah, see that's why I hate it. So, come on, you going to go?",
-      "characters": [
-        "Helen",
         "George",
-        "Jerry",
-        "Kramer"
+        "Steinbrenner"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I cannot believe I'm doing this. I never meet people like this. You're not a nut, are you?",
+      "quote": "You know, she'd be better off making a sandwich at home and bringing it in.  Hello, ah, George will you excuse me.",
       "characters": [
-        "Jerry",
-        "Naomi",
-        "Elaine",
-        "Newman"
+        "Steinbrenner",
+        "Kramer",
+        "Patty",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "You told me? You pushed this whole thing on me, it was your idea!",
+      "quote": "Right, can we go? 'Cause I'm double-parked, I'm gonna get a ticket.",
       "characters": [
-        "George",
         "Elaine",
-        "Kramer",
-        "Donna"
+        "Jerry",
+        "George",
+        "Morty"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sperry Rand Building. 14th floor, Morgan Apparel. Mention my name - she'll give you the key.",
+      "characters": [
+        "Worker",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Boy, that looks like an allergic reaction. Have you been wearing a fake beard?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Come on lets go. I got the helmet. Lets get the radar detector.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Have you seen the waitresses in there lately? I never had so much coffee in my life.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "One more thing, Benes, regarding sexual activity: Strictly prohibited, but if you absolutely must, do us all a big favour. Do it in the tub.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Receptionist",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

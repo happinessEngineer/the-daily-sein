@@ -1,106 +1,106 @@
 {
-  "gameNumber": 774,
+  "gameNumber": 775,
   "date": "2027-02-16",
   "questions": [
     {
-      "quote": "That you had ice cream all over your face. They were talking about how funny you looked.",
+      "quote": "Jerry, have you ever seen the movie The Other Side Of Darkness?",
       "characters": [
-        "Kramer",
-        "Newman",
+        "Jack",
         "George",
-        "Elaine"
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What you saw in that van was a natural expression of a man's love for his lady.",
+      "quote": "Yeah, on one hand he's smart with rockets and on the other hand he's dumb with parking. . . . It's cold out here huh?",
       "characters": [
-        "Frank",
         "Jerry",
-        "Wilhelm",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, nothing. It's no skin off my hide if people like to look. I just didn't see what the big attraction was.",
+      "characters": [
+        "Peterman",
+        "Marlene",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Marlene"
     },
     {
-      "quote": "All right! Yeah.. Courtside.. Whoa! Don't let this girl get away..",
+      "quote": "Oh, actually, I really prefer to sit here. I don't hear very well out of this ear  so, I always try to sit to the right of people.",
+      "characters": [
+        "Betsy",
+        "Newman",
+        "Peterman",
+        "George"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "We've been trying to get it out of him for ten years. What is it?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jake"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry! I need you to get another picture of man-hands. I'm beggin' you!",
       "characters": [
         "Jerry",
         "George",
         "Kramer",
         "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "We found traces of a certain toxic adhesive commonly found in very low priced envelopes.",
-      "characters": [
-        "Doctor",
-        "Kramer",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "I admire Morty and Helen going to France. We should take a trip, maybe a cruise.",
-      "characters": [
-        "Frank",
-        "Susan",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "There putting in a lost and found because of me. There's a time limit but still.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Sally",
-        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah. Yeah, that's it. Because everybody laughs at Jerry here in America.",
+      "quote": "I don't know, what were you doing opening her medicine cabinet?",
       "characters": [
-        "Ricky",
-        "Karen",
-        "Kramer",
+        "Wilhelm",
+        "Jerry",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No.  But I did run into somebody you might be interested in, a Mr. Jon Voight, the actor?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ohh..  Ori-dent - that electric toothbrush I've heard so much about..",
-      "characters": [
-        "Melissa",
-        "Jackie",
-        "Helen",
-        "Maestro"
-      ],
-      "correctAnswer": "Maestro"
-    },
-    {
-      "quote": "Excuse me. 'scuse me, weren't you told to stop using that hose?",
-      "characters": [
-        "Detective",
-        "Elaine",
-        "Lippman",
-        "George"
-      ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Hey, you know you gotta get permission from me. I'm the super. Who said you could do that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "I will - don't worry.  In fact, I'll have her bring up a whole case of the stuff. It'll be really heavy. Let's see if she likes sitting on a plane with a big box on her lap!",
+      "characters": [
+        "Mickey",
+        "George",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

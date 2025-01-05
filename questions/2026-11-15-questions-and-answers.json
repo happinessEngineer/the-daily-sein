@@ -1,106 +1,106 @@
 {
-  "gameNumber": 681,
+  "gameNumber": 682,
   "date": "2026-11-15",
   "questions": [
     {
-      "quote": "Yeah?  You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway?",
+      "quote": "That woman is such an idiot! I was gonna do this whole bit on that bottle - and now I got nothing to talk about.",
       "characters": [
-        "George",
-        "Lippman",
-        "Elaine",
-        "Rula"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "I won fifty bucks! Boy, this is great. Too bad Elaine's not here.",
-      "characters": [
-        "Abby",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He does.  In fact we're looking for another girl if you know anyone.",
-      "characters": [
-        "Woman",
-        "Waitress",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Waitress"
-    },
-    {
-      "quote": "Well he really seemed to have his hands full if you know what I mean.",
-      "characters": [
-        "Kramer",
-        "Newman",
         "Jerry",
-        "Vanessa"
+        "Doctor",
+        "Levitan",
+        "Kramer"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, yeah, yeah. I was a little off last week, huh Jerry -- Yeah but the doctor says it was just a slight concussion",
+      "quote": "Alright, listen, I've changed my mind about this whole thing. I don't want cable.",
       "characters": [
-        "Sally",
+        "Elaine",
         "Kramer",
-        "Rava",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh come on Jerry, you're wrong. People they want to watch freaks. This is a \"can't miss.\"",
+      "quote": "Wait a second... My jacket! I wore that in the car! The Beast!",
       "characters": [
-        "Newman",
-        "Frank",
+        "Morty",
         "Jerry",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "A rule is a rule. And let's face it. Without rules there's chaos.",
+      "quote": "What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?",
       "characters": [
-        "Kramer",
         "Jerry",
         "Elaine",
-        "George"
+        "George",
+        "Helena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.",
+      "quote": "You told her? How could you tell her? I told you not to say anything.",
       "characters": [
-        "Eva",
-        "Elaine",
-        "Carl",
-        "George"
+        "George",
+        "Wendy",
+        "Jerry",
+        "Susan"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I have a private matter to discuss with my fellow tenants.  If you don't mind?",
+      "quote": "Hey, wait a second. Wait a second. ! Celebrate! How about some champagne?",
       "characters": [
         "Jerry",
         "Newman",
-        "George",
-        "Kramer"
+        "Harold",
+        "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I mean it's only a six month probation, it's a slap on the wrist.",
+      "quote": "Just my luck, y'know... just when he's getting thin and attractive. Y'know Jerry, you should buy some of his art. That would really lift his spirits.",
       "characters": [
         "Elaine",
-        "Sandi",
-        "Morty",
-        "Newman"
+        "Kramer",
+        "Jerry",
+        "Doctor"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "\"Elaine once tried to convert one but Elaine's not going through that again.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So I know this guy. I'm getting all my sneakers at a discount now.",
+      "characters": [
+        "Dana",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

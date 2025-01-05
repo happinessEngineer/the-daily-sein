@@ -1,104 +1,104 @@
 {
-  "gameNumber": 672,
+  "gameNumber": 673,
   "date": "2026-11-06",
   "questions": [
     {
-      "quote": "Maybe it was your fault. It wasn't my fault. I can tell you that.",
+      "quote": "Why don't you get someone else from the office to go get Pisano's for you?",
       "characters": [
+        "Elaine",
         "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How could he not be? Living in that cramped little apartment. And outdated furniture, so terribly... un-Karl Farbman-like.",
+      "characters": [
         "Kramer",
-        "Frank",
-        "Bania"
+        "Elaine",
+        "Ken",
+        "Brett"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "How do you just walk into a house and take a TV Guide? How does she expect you to watch TV?  Am I just supposed to turn it on and wander aimlessly around the dial?",
+      "characters": [
+        "Maura",
+        "Lippman",
+        "Bob",
+        "Frank"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "I've been trying to leave this group for 10 years. Vaya con dios.",
+      "quote": "What, you are comparing me to Biff Loman, very encouraging. The biggest loser in history of American literature.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Susan",
+        "Poppie",
+        "Russell",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, my shampoo. Yeah, it is Pantene, I got a free sample in with my junk mail.",
+      "quote": "Look at you! You run like a girl! Run like a man! Lift your knees!",
       "characters": [
-        "Pam",
-        "Peterman",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Pam"
-    },
-    {
-      "quote": "Oh, no no no...no more banks. I'm keeping my blood in my freezer with...my money!",
-      "characters": [
-        "Jerry",
-        "Maestro",
-        "Kurt",
+        "Elaine",
+        "Alec",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ooh, I've got stump troubles. The Sanitation Department won't get rid of them all, I can't get a truck to haul this stuff until next week. Meanwhile, I'm sitting on a mountain of stumps.",
+      "quote": "I'll tell you when it happened. When that floss came flying out of my pocket.",
       "characters": [
         "Jerry",
-        "Newman",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No I can't. I can't die with dignity. I have no dignity. I want to be the one person who doesn't die with dignity. I live my whole life in shame. Why should I die with dignity?",
-      "characters": [
-        "Carol",
-        "George",
-        "Jerry",
-        "Dana"
+        "Bania",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You already have an in. You have the same first name!...  'Jerry'!",
+      "quote": "Oh! Well, we have quite a few to pick from  They're arranged in order of price , the most expensive are in the front.",
       "characters": [
         "George",
-        "Nurse",
+        "Elaine",
+        "Doctor",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "It was your family that pushed you into banking , it was their dream for you...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I don't know why you had to rent a car. We would have picked you up.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Why don't they open up an entire store for the back? Call it, \"Just Back.\" All back; No front. You walk in the front, you're immediately in the back.  Look, Elaine, tie carwash.",
+      "characters": [
+        "George",
+        "Ron",
         "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Shhhhh. If you want to get in, there's very little time.  Sweetheart..  No, no, no. That ought to cover it.  Just a second. Just a... let me jus-peek...  Come on, come on, come on...",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You want a picture like that on a Christmas card? I can do that for you. ...",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Let me ask you something. When's the last time you went skiing?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Rula",
-        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

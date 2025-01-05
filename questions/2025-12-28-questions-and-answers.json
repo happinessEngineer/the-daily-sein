@@ -1,104 +1,104 @@
 {
-  "gameNumber": 359,
+  "gameNumber": 360,
   "date": "2025-12-28",
   "questions": [
     {
-      "quote": "Oh, Elaine.  Yeah, well, things just didn't work out like I thought they would.",
+      "quote": "That is what Mr. Steinbrenner wants. He wants, everyone, ta, twirl around.",
       "characters": [
-        "Tim",
-        "Jerry",
-        "Kruger",
-        "George"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "Hey Elaine if a guy wanted to end a relationship with you . What could he do?",
-      "characters": [
-        "Brett",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wha-- oh!  Oh, god!  That is the THIRD time today I have done that! BLAAAH!  Grabbing news- papers... I'm just tugging at 'em...",
-      "characters": [
-        "Elaine",
-        "Hanke",
-        "Jerry",
-        "Audrey"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Quite a dilemma. You know, I have a bit of a dilemma of my own.",
-      "characters": [
-        "Elaine",
-        "Kramer",
+        "Marla",
         "George",
-        "Landis"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, yeah, the flower guy. Listen, I know this all sounds a little crazy, but...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
+        "Wilhelm",
+        "Estelle"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, those aren't for New Year's. Those are my everyday balloons.",
+      "quote": "Um, hi! Hi. I called earlier about getting the yogurt tested.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
-        "Ellen"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh yeah, I've been known to drink a beer or two. But then again, I've been known to do a lot of things.  Cigarette?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So as a result of your test being free of opium, I am reinstating you.",
-      "characters": [
-        "George",
-        "Celia",
-        "Peterman",
-        "Jerry"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Who's got a tissues? I need more tissues! Look at this thing. It's my phone finger!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
+        "Russell",
+        "Tony",
         "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Gee, I just didn't expect it from the way you've been acting.",
+      "characters": [
+        "Helen",
+        "Jane",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I didn't know you meant *hold* it, I thought you meant hold it.",
+      "quote": "Well I am actually going to have a secretary and I get to do the interview.",
       "characters": [
         "Jerry",
+        "Doctor",
         "George",
-        "Mickey",
-        "Kramer"
+        "Driver"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I mean it's only a six month probation, it's a slap on the wrist.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm a comedian. Oh, let me get that.  You've been so helpful.",
+      "characters": [
+        "Lena",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes it is. I find the pastrami to be the most sensual of all the salted cured meats. Hungry?",
+      "characters": [
+        "Vivian",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "The last thing this guy's qualified to give a tour of is reality.",
+      "characters": [
+        "Frank",
+        "George",
+        "Sandi",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know George they are doing wonderful things at mental institutions these days. I'd be happy to set-up a meet and greet.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Kruger"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And who were you tryin' to set up, anyway? The mechanic or the manager?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Salesman",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     }

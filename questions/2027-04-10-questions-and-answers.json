@@ -1,104 +1,104 @@
 {
-  "gameNumber": 827,
+  "gameNumber": 828,
   "date": "2027-04-10",
   "questions": [
     {
-      "quote": "You're not gonna believe what I got in the mail. Invitation to Sue Ellen Mischke's wedding.",
+      "quote": "O.K., Danny, take a swing.  N-No! No! No! You're opening up your shoulder.",
       "characters": [
-        "Elaine",
-        "Gino",
-        "Jerry",
-        "George"
+        "George",
+        "Morty",
+        "Alton",
+        "Ed"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I never heard of anyone would turned down an apartment because of a weak shower spray.",
+      "quote": "Yeah--I just remembered, I'm gonna have to cancel my acupuncture class.",
       "characters": [
-        "Estelle",
-        "Woman",
-        "Peterman",
+        "Donna",
+        "Receptionist",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "I'll get him to see a real doctor. You just stay away from this.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ahh, Steinbrenner gave 'em to us, in honour of Phil Rizzuto being inducted into the Hall of Fame.",
+      "characters": [
+        "Newman",
+        "Vanessa",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It was a very nice sweater. Take a look at his neck, not to mention the melon sitting on top of it. I don't know if I'd trust him with a v-neck.",
+      "quote": "Because we had a buyer, and we couldn't get a free flight until now.",
       "characters": [
-        "Hanke",
+        "Morty",
+        "George",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Frank"
       ],
-      "correctAnswer": "Hanke"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Well, they were humiliated. I mean after the impeachment, my father left office in disgrace.",
+      "quote": "We went out for coffee last night and he offered me a ticket.",
       "characters": [
         "Jerry",
-        "Kate",
+        "Kramer",
         "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I lost them. I can usually come up with one good comment during a meeting but by the end it's buried under a pile of gaffs and bad puns.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Fred"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, it was dangling! There were only two left in the machine! He must've bought one, and gotten both.",
+      "characters": [
+        "Lisi",
+        "Elaine",
+        "Heather",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, she was trying to call George last night, she got me, we spoke for an hour and she changed her mind!!!",
+      "quote": "Ah, don't worry about a thing. In twenty minutes that place'll be swarming with mailmen. We'll be back on the street by lunch.",
       "characters": [
-        "George",
-        "Donna",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Donna"
-    },
-    {
-      "quote": "We are gathered her today to unite this couple in holy... matrimony.",
-      "characters": [
-        "Father",
+        "Newman",
         "Jerry",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Father"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Ah, the drunken make-out. An office classic. Did you end up xeroxing anything?",
+      "quote": "Yes, yes. Very smooth, super smooth. No, but I really wanna attack this thing, you know. Sink my teeth into it. So I was just wondering... what do you think would be the very best way to get started?",
       "characters": [
-        "Elaine",
+        "Sid",
         "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I'm sorry. Well, George, I tried to put the good word in for you with Siena, but I don't think she heard me. You know, left ear?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I can't. He loves me. He says I'm his most loyal customer. Plus he's right there on the corner. I'd have to pass him every day when I go by.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Steinbrenner wants everyone in the front office to give a lecture in their area of business expertise.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
+        "Morty",
+        "Waiter"
       ],
       "correctAnswer": "George"
     }

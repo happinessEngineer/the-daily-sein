@@ -1,106 +1,106 @@
 {
-  "gameNumber": 21,
+  "gameNumber": 22,
   "date": "2025-01-24",
   "questions": [
     {
-      "quote": "You've got insurance. You tell them that the car was stolen, and then you get another one free.",
+      "quote": "I don't know about you, but I'm getting a hankering for some doublemint gum. Alright, I'm dropping you off at work, right?",
       "characters": [
-        "Sally",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Mike",
+        "Karen",
+        "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nothing, I'm gonna finish watching The Other Side Of Darkness.",
+      "quote": "I haven't seen it yet, but it's a two-bedroom, it's on the uh, west 83rd, 'bout a half block from the park?",
       "characters": [
+        "Conrad",
+        "Newman",
         "Kramer",
-        "Lamar",
-        "Jerry",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I got three kitchens going. I got brisket going at Newman's, I got kugel working at Mrs. Zamfino's, this is kreplach. Here, try some of this.",
+      "quote": "Well yes I did that's true. A couple of a guys I knew in the coastguard told me about her.... and I sensed that she had the anger and intensity that I needed to make this film work.",
       "characters": [
-        "Elaine",
         "George",
+        "Jerry",
         "Kramer",
         "Newman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, hi! I'm Pam. You must be Kramer.  Jerry's told me a lot about you.  Well, I'm supposed to meet Jerry, it's my day off. I work in a bookstore.",
-      "characters": [
-        "Pam",
-        "George",
-        "Jerry",
-        "Connie"
-      ],
-      "correctAnswer": "Pam"
-    },
-    {
-      "quote": "Yeah, so we thought if you had any of those big, y'know, old-fashioned useless records, y'know, just... lyin' around--",
-      "characters": [
-        "Lippman",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "...And it gets worse. The team working on the statue in Lafayette Square kind of over-smoothed it. They ground the head down to about the size of a softball, and that spells trouble.",
+      "quote": "No. Pizza man was here. Maybe some fall off. He's going bald.",
       "characters": [
         "Morty",
-        "Elaine",
-        "Jerry",
-        "Kruger"
-      ],
-      "correctAnswer": "Kruger"
-    },
-    {
-      "quote": "Miss Wilkie, your tobacco company has turned this beautiful specimen, into a horrible twisted freak.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jackie",
+        "Gino",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Jackie"
+      "correctAnswer": "Gino"
     },
     {
-      "quote": "No, I'm staying here for the weekend. I'm getting a break from my roommate.",
+      "quote": "I think that I was in that theatre. That, that was really funny.",
       "characters": [
+        "Valerie",
+        "Peterman",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Valerie"
+    },
+    {
+      "quote": "It's all a bunch of cheapskates in there anyway. People sitting around reading the newspaper attached to huge wooden sticks Trying to save a quarter, ooh,",
+      "characters": [
+        "Puddy",
+        "Woman",
         "Jerry",
-        "Julie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, man! It's my father's wallet! The one he thought they stole at the doctor's office that time.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Come on, we'll go and talk to him, and we'll straighten this thing out.",
+      "quote": "You know, you know what's great about our relationship?...It's not about looks.",
       "characters": [
+        "George",
+        "Marcelino",
         "Kramer",
-        "Jerry",
-        "Mickey",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know I went to the hospital today, and I saw the woman, you know, and the wheelchair is totalled, we gotta get her another one!",
+      "characters": [
+        "Kurt",
+        "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I change I change. Two weeks ago I tried a soft boiled egg. Never liked it before. Now I'm dunkin a piece of toast in there and I'm loving it.",
+      "quote": "So lemme ask you this: how long would you say I have to put in now because of, you know, last night.",
       "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Elaine"
+        "Kramer",
+        "George",
+        "Hanke"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

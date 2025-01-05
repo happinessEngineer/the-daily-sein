@@ -1,106 +1,106 @@
 {
-  "gameNumber": 812,
+  "gameNumber": 813,
   "date": "2027-03-26",
   "questions": [
     {
-      "quote": "I'm not giving you the satisfaction. I'm gonna watch it again...",
+      "quote": "The whole thing was taking out of context. It was a joke.  That's probably Uncle Leo.",
       "characters": [
-        "Babu",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, no. I wanted the one in the little bottle with that guy on it that looks like Charles Grodin!",
-      "characters": [
+        "Rabbi",
         "Kramer",
         "Jerry",
-        "Elaine",
-        "Frank"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I got him Yankee's tickets! He got me a piece of paper saying \"I've given your gift to someone else!\"",
+      "quote": "What? Calling people I hardly know, and demanding they return expensive gifts, that's my \"thing\"?",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Steve",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just don't think you should go alone. Can't you wait till after my set?",
-      "characters": [
-        "George",
+        "Farkus",
         "Kramer",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Nuh! Okay Jerry, how about if Mike fixes your truuunk, we call it even, an' this way, nobody has to get hurt.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Maura"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I mean, if we're gonna be friends, we gotta be able to talk about other people.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Salesman",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, you're not a divorcee. Youÿre just separated. You're---you're a separatee.",
+      "quote": "Well, as far as I know, he bumped his arm into a door and it's kind of got this involuntarily movement. Some sort of a  spasm. So, anyway, you're a..you're a big advisor to Dinkins, huh?",
       "characters": [
-        "George",
-        "Kramer",
-        "Pitt",
-        "Cop"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Listen Jerry. With all due respect, Bania's voice is the voice of a new generation. My generation.",
-      "characters": [
-        "Maryedith",
-        "Elaine",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He does not like you. And all indications are he does not like Drake's Coffee Cake.",
-      "characters": [
-        "Gina",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Gina"
-    },
-    {
-      "quote": "I was, I had to leave. She lit some vanilla incenses. The smell drove me nuts, all I could think about was food, I had to get out of there. We need some pudding here! Pudding!",
-      "characters": [
-        "George",
-        "Rebecca",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What's to think about? If Putty says it's what it is, it's what it is. He's not gonna cheat you.",
-      "characters": [
         "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
+        "Raymond"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I hear the fella owns a couple of racehorses. You know, trotters, like at Yonkers.",
+      "quote": "Actually it was great. I met an Englishman, and we really, hit it off.",
+      "characters": [
+        "Elaine",
+        "Maestro",
+        "Jerry",
+        "Eva"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But it's just a friendly game. Why do you have to be such a stickler?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Russell",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what, I urge you to take it up with him. Go ahead, give him a call, he'll tell you what I'm doing here.  Then you can tell me.",
       "characters": [
         "Helen",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Gwen",
+        "George"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Buhner was a good prospect, no question about it. But my baseball people love Ken Phelps' bat.  They kept saying 'Ken Phelps, Ken Phelps'.",
+      "characters": [
+        "Steinbrenner",
+        "Hoyt",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 570,
+  "gameNumber": 571,
   "date": "2026-07-27",
   "questions": [
     {
-      "quote": "Well, I ran out to apologize to a virgin and I crossed against the light and I knocked over the delivery boy.",
+      "quote": "Thank you, but, unfortunately, I have much larger problems to fry. My wife, she has no respect for Milos anymore.",
       "characters": [
-        "George",
-        "Jerry",
+        "Milos",
         "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh! Hi!  I'm Donna Chang.  I just spoke to your mother before.",
-      "characters": [
-        "Elaine",
-        "Donna",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Donna"
-    },
-    {
-      "quote": "The problem is I never got my Visa renewal form in the mail. I was expecting it.",
-      "characters": [
-        "George",
-        "Babu",
-        "Bonnie",
-        "Kramer"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "The uh, the shoe laces that you bought me, they uh, they worked out well.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No. No more questions. Just figure it out for yourself and get it done.",
-      "characters": [
         "Jerry",
-        "Peterman",
-        "George",
-        "Alec"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I wanna tell you. This is one of the most thoughtful gifts anyone's ever given me.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Morty",
         "Peterman"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Milos"
     },
     {
-      "quote": "Hey Jerry, look at this. My seat's got a memory, in case somebody moves it. I could be in prison for five years. I come out, my seat goes right back to where I like it.",
+      "quote": "Yeah, but, Jackie Chiles, he put a restraining order on me.  I'm not allowed within two hundred feet of his office. I couldn't even give him his Christmas present.",
       "characters": [
-        "George",
-        "Jerry",
-        "Morty",
-        "Waiter"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Yeah, it's being framed right now. I don't even know what it costs.  Not, uh, too expensive, is it?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Wilhelm",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, you are? I guaranty you, Lupe is going to tuck your covers in.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it seems that due to the vagaries of the production parameters of this fragmenting of the audience to the cable television, carnivals, water parks...",
-      "characters": [
-        "Elaine",
+        "Newman",
         "George",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Of course. C'mon Georgie, you wanna tell me. It's eating you up inside. Sing it, sister.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, it was purple, I liked it, I don't actually recall considering the buttons.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know as far as I'm concerned, this whole thing is George's fault",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "David"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "The Dominicans are rolling them too tight.  Uhm, well, that's why you gotta get real Cubans.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I gust met Uma Therman. She's giving me her telephone number. Uma Jerry, Uma.",
+      "characters": [
+        "Kramer",
+        "Jeannie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Make-up sex? You have to have that right after the fight, we're way past that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry have you ever seen any of those impressionist paintings?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, you're better off sitting around here, reading comic books, and eating spaghetti at two in the morning..",
+      "characters": [
+        "Elaine",
+        "Worker",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

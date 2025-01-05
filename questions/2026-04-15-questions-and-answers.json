@@ -1,106 +1,106 @@
 {
-  "gameNumber": 467,
+  "gameNumber": 468,
   "date": "2026-04-15",
   "questions": [
     {
-      "quote": "I guess we are just going to have to teach him to wear the ribbon!",
+      "quote": "Well, we looked at your EKG's, ran some tests, did a complete work-up.",
       "characters": [
-        "Elaine",
+        "Doctor",
         "Jerry",
-        "Kramer",
-        "Bob"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "What are we, John Dillinger? How did this get to be the crime of the century? It's not like we stuck a broomstick in her spokes and she went flying...",
-      "characters": [
-        "Jerry",
-        "Estelle",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I remember he made you wear a jock on your head for a whole class. And the straps were hangin' down by his ,...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
+        "Susan",
         "Kramer"
       ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "A call for one, you know I thought I've heard everything. I've never heard a relationship being affected by a punctuation.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Beth"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, he doesn't know. See, I hid it without tellin' him. So, uh,  Phil won't be compulsively looking for it like some people... You!",
+      "quote": "Yeah, it's a pleasure doin' business with a gentleman like yourself.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I don't believe in it. I'm taking a stand against all this over thanking.",
+      "characters": [
+        "Kramer",
+        "Craig",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Helen really seemed to respond to Renoir. I think she really connected to the way he painted children.",
+      "characters": [
+        "Brett",
+        "Aaron",
+        "Nina",
+        "James"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "OK fine.  I did like that little Calvin Klein number right by the elevator. You know the little ...",
+      "characters": [
+        "George",
+        "Newman",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I called him all the way up to my office, so I had to tell him something important. So I promoted him.",
+      "characters": [
+        "Doris",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now listen Porter, you know your mother and I love you very much. But sometimes people fall out of love. Now give me a big hug.",
       "characters": [
         "Jerry",
-        "Winona",
-        "George",
+        "Nana",
+        "Leo",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I actually have a friend in the Immigration Department who owes me a big favor. You're very lucky.",
+      "quote": "Awright, lemme just say this. Ten thousand dollars, alright, and now I'm going below what you wanted to pay. You have your dinner, have your veal, or whatever it is. Enjoy...",
       "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Cheryl"
-      ],
-      "correctAnswer": "Cheryl"
-    },
-    {
-      "quote": "Oh! Modelling! What's that like? Fun? Ha ha.  Stupid! Stupid! Stupid!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Alec",
+        "Detective",
+        "Mike",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, you owe me. I got you into Actor's Studio. They thought what we did was the scene.",
+      "quote": "Well, it'll be a couple of years before he's completely bald. Those'll be good times.",
       "characters": [
+        "Elaine",
         "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, hem ,if you'll excuse me I think I'll just go to the ladies room.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Shelly"
-      ],
-      "correctAnswer": "Shelly"
-    },
-    {
-      "quote": "Jerry I'm so glad we switched apartments. It was a perfect solution.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "George",
+        "Brett",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "When you ask someone about their relationship and they touch their face, you know it's not going too well. Go ahead ask me how it's going with somebody.",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

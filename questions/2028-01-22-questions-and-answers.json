@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1114,
+  "gameNumber": 1115,
   "date": "2028-01-22",
   "questions": [
     {
-      "quote": "He could be eating a gyro, he wouldn't offer me anything. It's a sickness.",
+      "quote": "Anyway there's at least four of them, and they're all huge. And one is bigger than the next. It's like a Russ Meyer movie.",
       "characters": [
-        "Jerry",
+        "Kramer",
         "George",
-        "Newman",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'm cheap? You think I'm CHEAP? How could you say that to me? I can't believe this. How could you say that to me?",
+      "quote": "I really should get going. Y'know, I..I wanna be home in case Neil calls.",
       "characters": [
         "Kramer",
+        "Estelle",
         "Jerry",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "And as we speak, she's generously writing PBS a check for fifteen hundred dollars!",
-      "characters": [
-        "George",
-        "Bania",
-        "Jane",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, I'm sorry, I...I hate to be one of those people, but we're right in the middle of this thing...I can't hear.",
-      "characters": [
-        "Ken",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come.",
-      "characters": [
-        "George",
-        "Dan",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Dan"
-    },
-    {
-      "quote": "Remember that guy who took my jacket. The one I found at my mother's house.",
-      "characters": [
-        "Kramer",
-        "Helen",
-        "Doctor",
-        "Raymond"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah. You buy me a meal -- you can't get a better deal than that",
-      "characters": [
-        "Bania",
-        "Rabbi",
-        "Testikov",
-        "Jerry"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like.",
-      "characters": [
-        "Elaine",
-        "Doctor",
-        "Valerie",
-        "Dan"
-      ],
-      "correctAnswer": "Dan"
-    },
-    {
-      "quote": "If he beats me, I'll not only give you a raise, I'll send you to Hawaii for two weeks.",
+      "quote": "I am such a Huge whale fan. These marine biologists were showin' how they communicate with each other with these squeaks and squeals, what a fish!",
       "characters": [
         "Kramer",
         "George",
         "Jerry",
-        "Duncan"
+        "Seth"
       ],
-      "correctAnswer": "Duncan"
+      "correctAnswer": "George"
     },
     {
-      "quote": "What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?",
+      "quote": "Well my friend,  it may be time to consider the dreaded apparatus.",
+      "characters": [
+        "Elaine",
+        "Landis",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, she's fascinated with Greenland. She enjoys teasing animals, banlon, and seeing people running for their lives. She loves throwing garbage out the window, yet she's extremely dainty.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I can't help you. You're gonna have to get them some place else.",
       "characters": [
         "George",
-        "Elaine",
-        "Lanette",
+        "Stu",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I was thinking, I mean, I'm not really doing that much this weekend, and I thought, well, huh, what the hell, maybe I'll come down there and hang out a little.",
+      "characters": [
+        "Elaine",
+        "Earl",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "But it takes forty-five minutes to get there. That'll only leave me five minutes to get to the plane.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Cook? No, I don't know any cooks. I don't know anything about cooking!",
+      "characters": [
+        "Frank",
+        "George",
+        "Morty",
+        "Hanke"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So, anyway, effective immediately, Miss Benes will return to her old position, at her original salary...",
+      "characters": [
+        "Peterman",
+        "George",
+        "Ned",
+        "Jane"
+      ],
+      "correctAnswer": "Peterman"
     }
   ]
 }

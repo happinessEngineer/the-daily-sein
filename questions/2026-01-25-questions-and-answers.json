@@ -1,106 +1,106 @@
 {
-  "gameNumber": 387,
+  "gameNumber": 388,
   "date": "2026-01-25",
   "questions": [
     {
-      "quote": "Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!",
+      "quote": "I was locked out of my apartment, I'm just trying to get my keys.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Everybody knows. y'know George told me he thinks you're totally cute and everything.",
-      "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Milos"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Are you kidding? People love it. There's something about the clip clop, clip clop. They're nuts for it.",
-      "characters": [
-        "Man",
-        "Kramer",
         "Elaine",
-        "Jerry"
+        "Levitan"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, it's either that or we stay here, near you, and just sit on the money. What do you think we should do, Georgie?",
+      "quote": "But, unfortunately I will be out of town with my lady-friend and therefore unable to bid on the lot. I was hoping maybe you would go in my stead.",
       "characters": [
-        "Estelle",
         "George",
-        "Salesman",
+        "Jake",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "David, I'm going to hell! The worst place in the world! With devils and those caves and the ragged clothing! And the heat! My god, the heat! I mean, what do you think about all that?",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "I'm sure she would apologize if she could. Probably somebody is holding her back against every fibre in her being.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jackie",
-        "Jerry"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What are you talking about, I don't know Jeffrey. Oh so this is why you brought me up here?",
-      "characters": [
-        "Amy",
-        "Kramer",
-        "Jerry",
-        "Wendy"
-      ],
-      "correctAnswer": "Amy"
-    },
-    {
-      "quote": "What's a young man like you want to move cars for? You don't work?",
-      "characters": [
-        "Tim",
-        "George",
-        "Jerry",
-        "Sid"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "Now, George, you don't have to cover for him any more. He's going to be gone soon and I'm going to recommend you for his job.",
-      "characters": [
-        "Wilhelm",
-        "Patty",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "I can't believe it! You were *huge*! Like blubber! I couldn't even get my arms around you...",
+      "quote": "Yeah, I'll hold on. Hey George, did you see a piece of paper I had on the nightstand here, like crumpled up, like a napkin?",
       "characters": [
         "Elaine",
-        "Kramer",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Two hundred seats on a plane, I gotta wind up next to Yukon Jack and his dog Cujo. Shut up! One more day and you are pound bound!",
-      "characters": [
         "Jerry",
-        "Elaine",
-        "Wilhelm",
-        "Matthew"
+        "Newman"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.",
+      "characters": [
+        "Frank",
+        "Manny",
+        "Morgan",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I don't know. Once he leaves the building, he's out of my jurisdiction.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "When you cough, there are thousands of unseen muscles that suddenly spring into action. It's like watching that fat guy catch a cannonball in his stomach in slow motion.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm going on record right now that that was my last kiss hello. I am getting off the kiss program with her.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well--Noreen listened to you like George's mother listened to the Chinese.",
+      "characters": [
+        "George",
+        "Darren",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, she lives right around the corner. You could take it here or go to the coffee shop.",
+      "characters": [
+        "Wendy",
+        "George",
+        "Jerry",
+        "Rabbi"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

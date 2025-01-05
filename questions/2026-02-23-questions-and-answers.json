@@ -1,106 +1,106 @@
 {
-  "gameNumber": 416,
+  "gameNumber": 417,
   "date": "2026-02-23",
   "questions": [
     {
-      "quote": "What, at this place? It would destroy my whole profit margin.",
+      "quote": "This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?",
       "characters": [
         "George",
         "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look, just tell him you had sex with his wife. That'll kill him.",
+      "characters": [
+        "Elaine",
+        "George",
         "Kramer",
-        "Elaine"
+        "Aaron"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Her birthday's comin' up, see, so I decided to get her a little present.",
+      "quote": "That poor priest. He was just visiting from El Salvador. Now he's gone completely loco.",
       "characters": [
         "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Really? You never slipped one past the goalie in all these years??... Boy, I'm surprised. You've slept with a lot of women!",
+      "quote": "Wa, uh, thank you sir, you know I am not quite sure I'm right for it.",
       "characters": [
-        "Jack",
-        "Secretary",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. I think it might have something to do with those checks.",
-      "characters": [
-        "Kramer",
-        "Lippman",
-        "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, I can't believe you're bringin' in an extra bed for woman that wants to sleep with you. Why don't you bring in an extra guy too?",
-      "characters": [
-        "George",
-        "Sally",
-        "Helen",
-        "Jerry"
+        "Kruger",
+        "Elaine",
+        "Celia",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people.",
+      "quote": "She just has to say the complaint was related to a dental problem.",
       "characters": [
-        "Cynthia",
-        "Elaine",
+        "Roy",
+        "Kramer",
         "George",
-        "Kramer"
+        "Jerry"
+      ],
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "Well, I don't really have any money. But it says right here, 'interesting trades considered'.",
+      "characters": [
+        "Gino",
+        "Kramer",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?",
+      "quote": "Oh, tell me about it. These things have ruined me for Braille.",
       "characters": [
+        "Man",
         "Jerry",
         "Kramer",
-        "Mickey",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Man"
     },
     {
-      "quote": "Anyway, thanks for having me back, and sorry about the misunderstanding.",
+      "quote": "No, no no. That skips a generation. The baldness gene comes from your grandfather.",
       "characters": [
-        "Ray",
-        "Jerry",
+        "Kramer",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So, the show would be about my real life. And one of the characters would be based on you.",
-      "characters": [
-        "Jerry",
-        "Puddy",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Not necessarily. Why don't you take back the couch you gave me?",
-      "characters": [
-        "Mike",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Winona",
+        "Jerry"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh huh. Uh huh! I think you spoke to your little friend Rachel, that's what I think.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Rabbi"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, Mr. Costanza, what I want you to do is to come to the shop with me and tell me what they are saying. You do speak Korean?",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

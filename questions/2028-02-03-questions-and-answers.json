@@ -1,103 +1,103 @@
 {
-  "gameNumber": 1126,
+  "gameNumber": 1127,
   "date": "2028-02-03",
   "questions": [
     {
-      "quote": "No, no Kramer. I don't want you to do that. You can't do that.",
+      "quote": "Elaine, who among us hasn't snuck into the break room to nibble on a love newton?",
       "characters": [
         "Kramer",
-        "Steinbrenner",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, that's right. I got 'em all. Cold cucumber, corn and crab chowder, mulligatawny.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Izzy",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, the shut-ins, that's nice. You know, they're a very eccentric group. Because they're shut in. Of course, they're not locked in, they're free to go at anytime.",
-      "characters": [
+        "Peterman",
         "Jerry",
-        "Morty",
-        "George",
-        "Elaine"
+        "Russell"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Hi. You know, Kramer gave me the armoire and it is so beautiful. I'm mean, I just can't tell you how much I appreciate it.",
+      "quote": "Jerry, you're not in show business. You don't know what these people are like.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right, shut up the both of you! You're making me nervous. Where is he already? He should've been out of work by now.",
-      "characters": [
-        "Regis",
         "Jerry",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Now I know who you are! You're a comedian. I've seen you, it's driving me crazy.",
-      "characters": [
-        "Carol",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Carol"
-    },
-    {
-      "quote": "I cannot believe Lindsay's still seeing you after that \"Breakfast at Tiffany's\" thing.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Kelly",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, Jerry, this is a piece of junk.  How are you gonna be the executor of my living will?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
+        "Announcer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So listen Elaine, when we get up to the door, you , you hold the cake box.",
+      "quote": "Right. I mean, we're on a subject. Why does it have to be changed?",
       "characters": [
+        "Elaine",
+        "George",
         "Jerry",
-        "Ethan",
-        "Jackie",
-        "Kramer"
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute? He's picking up the van tonight? This is perfect. I'll drive Rhisa to someplace romantic. Then when my father slides the door open, I'm in the van kissing his brother's daughter.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that was a long time ago. How about if I just erase it. Now about that rash......",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Jerry, I'm trapped under my desk. Steinbrenner is in the room. You got to help[ me.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Hal",
+        "Daphne"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes.",
+      "characters": [
+        "Helena",
+        "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Oh, it's my parents. My father came up to see a back specialist.",
+      "characters": [
+        "Newman",
+        "Marlene",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Said I'm not good looking enough for her. Not good looking! Jerry, look at me, look at my face, huh, am I beautiful? George, am I beautiful?",
+      "quote": "Do you know what day this is? Because I know what day this is, they know what day this is, so I was wondering if you know what day this is!",
+      "characters": [
+        "Ray",
+        "Bob",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Yeah, well, I can't have this hanging over my head. It's bad mojo.",
       "characters": [
         "Kramer",
-        "Gennice",
         "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 56,
+  "gameNumber": 57,
   "date": "2025-02-28",
   "questions": [
     {
-      "quote": "Uh, yeah, yeah. Here it is, Brody. One copy of Cry Cry Again.",
+      "quote": "Alright. Alright, alright. You come in tomorrow, we'll find something for you to do.",
       "characters": [
-        "Lou",
-        "Jerry",
+        "Jane",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I started to tell her and then all of the sudden, for some reason, I just burst into tears.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Gina",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Dustin Hoffman in Star Wars!?! Short Jewish guy against Darth Vader. I don't think so.",
-      "characters": [
-        "Newman",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, do you know what they do to dogs at the pound? They keep them there for a week and then if nobody claims them, they kill them.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Teller",
+        "Morty",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "We're all the way in the front row. Why couldn't we sit in the special seats?",
+      "quote": "Oh god, oh god. Okay, let's not panic. Let's just get to the hospital...",
+      "characters": [
+        "Carol",
+        "Frank",
+        "Elaine",
+        "Ken"
+      ],
+      "correctAnswer": "Ken"
+    },
+    {
+      "quote": "Come on, We're two intelligent people here. We can figure this out. Now we got a dog and a cat in an office.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Tor",
+        "Elaine",
         "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah but there's a problem. I found a tube of a fungicide in her medicine cabinet.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Wouldn't it just bounce back and forth between your cornea and the mirror, faster and faster, getting more and more intense, until finally-",
+      "quote": "I don't know, I just can't. Nobody in my family can pay for parking, it's a sickness. My father never paid for parking; my mother, my brother, nobody. We can't do it.",
       "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Forget the shower! The shower's out. Move it! Put your clothes on! Put your clothes on!  Where are you going?",
+      "characters": [
+        "Audrey",
         "Elaine",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "George, this is Aunt May, and Father Jessup. Oh, and that's my brother, Timmy.  This is my boyfriend, George.",
+      "characters": [
+        "Betsy",
         "Kramer",
+        "Doctor",
+        "Lloyd"
+      ],
+      "correctAnswer": "Betsy"
+    },
+    {
+      "quote": "That's my nipple. My nipple's exposed. I sent this card to hundreds of people! My parents. My boss. Uh, Nana and Papa.",
+      "characters": [
+        "George",
+        "Rudy",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I do, but it's three o'clock and then I'm flying right back and meeting Bridget at the Diplomat's Club in the airport.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "'The lights are much brighter there. You can forget all your troubles, forget all your cares, just go...'",
+      "quote": "Why are they using so many colors? And the numbers go up to forty.",
       "characters": [
-        "George",
-        "Conrad",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I'm flattered that you would both appeal to my wisdom, but unfortunately, my friendship to each of you precludes my getting involved. What you need is an impartial mediator.",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Herb"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ooh, I gotta check my machine. I'm waiting to hear about an interview. Doubleday is looking for somebody to replace Jackie Onassis.",
-      "characters": [
+        "George",
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You've got 'shiksappeal'. Jewish men love the idea of meeting a woman that's not like their mother.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Deena",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

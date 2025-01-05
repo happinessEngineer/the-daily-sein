@@ -1,106 +1,106 @@
 {
-  "gameNumber": 805,
+  "gameNumber": 806,
   "date": "2027-03-19",
   "questions": [
     {
-      "quote": "Alright, I got, uh, you come in, you say \"Hi\", and I say \"Hello\".",
+      "quote": "Because, it's part of our relationship, it's an indication of trust. We're not supposed to keep secrets from one another.",
       "characters": [
+        "Elaine",
+        "George",
         "Jerry",
-        "Vanessa",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No, see, we didn't have ponies. I'm sure at that time in Poland, they were very common. They were probably like compact cars..",
+      "characters": [
+        "George",
         "Kramer",
-        "Elaine"
+        "Joel",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I just can't believe at the way people are. What is it with humanity? What kind of a world do we live in?",
+      "quote": "Now you say something else and they won't yell at me 'cause they thought I was checking with you.",
       "characters": [
+        "Mike",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I don't think she is a multiple sneezer, because she sneezed again later, and it was also a single.",
+      "characters": [
+        "Farkus",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Chamberlind, you could hold his head in nthe toilet, he'd still give you half of Europe.",
+      "characters": [
+        "Morty",
         "George",
         "Elaine",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right. Don't change me. Susan. Don't change me. Ya know there are a lot of woman that would love to be in your position right now.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh come on Jerry, its opening night, black tie, Pagliacci! The great clown, the great sad tragic clown, like you.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Morty",
-        "Earl"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, one cannot help[ but wonder what brings you into a crummy little coffee shop like this.",
+      "quote": "Why don't you get a pair of white shoes, move down to Miami Beach and get the whole thing over with?",
       "characters": [
         "Jerry",
         "George",
-        "Ellen",
+        "Kramer",
+        "Landis"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? The two of you workin' in that garage is like a steel cage death match.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Have I been picking at it? No. You know. It's just wear and tear.",
+      "characters": [
+        "James",
+        "Woman",
+        "Jerry",
         "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "..except that the dude plays the showroom and I'm stuck doing food and beveridged!",
+      "quote": "Yeah? ...oh really?...oh... how about that?... Right down a hill huh? Okay! Alight! Bye!",
       "characters": [
+        "George",
         "Frank",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, I'm sure you are. I'm sure you are very close friends. Very close.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Sophie",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, now. It's gonna take a few days and my parents are gonna be back. I gotta have it back before them!",
-      "characters": [
-        "George",
-        "Landlord",
-        "Kramer",
+        "Russell",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "Say those are some nice pants. I got a pair just like them at home.",
+      "quote": "Yeah, you remember yesterday? Beautiful day... good day to be... out.",
       "characters": [
-        "Newman",
-        "Tawni",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Oh, get the swordfish. Best swordfish in the city. The best, Jerry.",
-      "characters": [
-        "Bania",
+        "Kramer",
         "George",
-        "Newman",
+        "Jackie",
         "Jerry"
       ],
-      "correctAnswer": "Bania"
+      "correctAnswer": "Jerry"
     }
   ]
 }

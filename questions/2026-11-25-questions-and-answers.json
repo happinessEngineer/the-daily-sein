@@ -1,106 +1,106 @@
 {
-  "gameNumber": 691,
+  "gameNumber": 692,
   "date": "2026-11-25",
   "questions": [
     {
-      "quote": "Hey! What're you watching?  Only You? That's another Marisa Tomei movie, and you've seen that one too.  What, d'you have a thing for her?",
-      "characters": [
-        "Susan",
-        "Jerry",
-        "Joe",
-        "George"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Well somebody had to. You know, just because a person's a smoker, that doesn't mean he's not a human being.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Toby"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You just  tear it off, and vvvvrrrpppp you got a new one right here. Then you're gone.",
+      "quote": "No. No more questions. Just figure it out for yourself and get it done.",
       "characters": [
         "Elaine",
-        "Jerry",
+        "Kramer",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you ask me, they have no business living amongst us. Vile, USELESS BEASTS . . .",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No, no, no... Just a *tiny* bit... It's not even *frontal* nudity. It's... *sidal* nudity...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, but nothing happens on the show. You see, it's just like life. You know, you eat, you go shopping, you read.. You eat, you read, You go shopping.",
+      "characters": [
+        "Elaine",
+        "Guy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on! I thought you're a pro! That's part of the show.",
+      "characters": [
+        "Brett",
+        "Jerry",
+        "Toby",
+        "George"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "I'm cold too. At least you've got a coat. Let's get in the car.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "Betsy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "There is no small. [flash of perky inspiration] Child-size is small.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Clerk",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Clerk"
     },
     {
-      "quote": "No, I, uh, um, wa, wa, What did I do? ... Where are you going?",
+      "quote": "He moves them from one side of the street to the other so you don't get a ticket.",
       "characters": [
-        "Poppie",
-        "Elaine",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, if it's all time, then there's no contest. It begins and ends with Brezhnev.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Carol"
+        "Enzo",
+        "Newman",
+        "Carol",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ladies and gentlemen, this  is Steven Koren. His G.P.A. is a solid 2.0! Right in that meaty part of the curve - not showing off, not falling behind.",
+      "quote": "Okay. So, I'm dating Art Vandelay. What is the problem we're discussing?",
+      "characters": [
+        "Brett",
+        "Elaine",
+        "Wendy",
+        "Toby"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah. Forget about all that. First thing is first. Warranty information. Name, we know that. Uh, hobbies. Skiing, racquetball...",
       "characters": [
         "George",
-        "Kramer",
-        "Rula",
+        "Jerry",
+        "Driver",
         "Elaine"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, you know, I was thinking about what you said before, and...you're right, I've never really been a couple, so...if that's the rule, then I'm gonna go by the rule.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Fred",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's only for three days. Today's over and we have tommorow. We leave on Sunday. It's one day, really.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Mickey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, you might want to stick around Jerry. Mr. Thomassoulo picked the wrong man to hire because he was fake handicapped.",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "George",
-        "Stan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Seriously... I want to experience everything she's experienced.",
-      "characters": [
-        "Elaine",
-        "Sandi",
-        "Kruger",
-        "Helen"
-      ],
-      "correctAnswer": "Sandi"
+      "correctAnswer": "Elaine"
     }
   ]
 }

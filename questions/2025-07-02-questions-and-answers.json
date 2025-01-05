@@ -1,106 +1,106 @@
 {
-  "gameNumber": 180,
+  "gameNumber": 181,
   "date": "2025-07-02",
   "questions": [
     {
-      "quote": "You are the Queen of Confrontation. You're my new hero. In fact, you've inspired me. I'm gonna call George about something right now.",
+      "quote": "So Whatley sayd to me, \"Hey, I can make Catholic jokes, I used to be Catholic.\"",
       "characters": [
-        "Elaine",
-        "Jerry",
         "Kramer",
-        "Sid"
+        "Newman",
+        "Jerry",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Sorry I can't be so flip about this kind of thing. You know, after what happened to Pop.",
+      "quote": "You what I'll do next time? I'll hide it so nobody can find it.",
       "characters": [
-        "Deena",
+        "Jerry",
+        "Morty",
+        "George",
+        "Abby"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What if I like him? I'm going to start out lying to this guy?",
+      "characters": [
         "Elaine",
-        "Jerry",
-        "Fdr"
-      ],
-      "correctAnswer": "Deena"
-    },
-    {
-      "quote": "Oh yes, yes. Very beautiful girl, very beautiful. Is your girlfriend?",
-      "characters": [
-        "Captain",
-        "Bruce",
-        "Steinbrenner",
-        "Elaine"
-      ],
-      "correctAnswer": "Bruce"
-    },
-    {
-      "quote": "Right, so, I called my friend, you know - the one who set us up - I found out, he's a bad-breaker-upper.",
-      "characters": [
-        "Seth",
-        "Jack",
-        "Jerry",
-        "Elaine"
+        "George",
+        "Detective",
+        "Ned"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Because I spent my money on the Clapgo D-29. It's the most impenetrable lock on the market today. It has only one design flaw. The door...  ...MUST BE CLOSED!!",
+      "quote": "How do people fast? Did Ghandi get this crazy? I'm gonna walk around, see what dishes look good.",
       "characters": [
-        "Jerry",
+        "Elaine",
         "George",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Am I happy Beth left me? Of course not. Do I hope to pick up the pieces and move on? Absolutely",
-      "characters": [
-        "Kramer",
-        "David",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "David"
-    },
-    {
-      "quote": "Good. Cause if this is a lie, if this is a joke, if this is your idea of some cute little game… we're finished!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Newman",
+        "Frank",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right. So, he caught me in a cleavage peek, so big deal. Who wouldn't look at his daughter's cleavage? She's got nice cleavage.",
+      "quote": "Ok, everybody, uh...I have an announcement to make. From now on, I will be known as-",
       "characters": [
         "George",
         "Jerry",
         "Kramer",
-        "Steinbrenner"
+        "Peterman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Because she came down to the club and heckled me! Give her a taste of her own medicine!",
+      "quote": "I can't go anywhere, I have to wait here for Tatiana's call. Let me just check.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Hoyt",
-        "Emily"
+        "George",
+        "Puddy",
+        "Katie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes. It will go by like that.",
+      "characters": [
+        "Helen",
+        "Morty",
+        "Morgan",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, it was a whirlwind. They whisked us backstage, the media is sworming, champagne is flowing...whooo! I can't describe how great it is to win.",
+      "quote": "Hi, is George back from the cockfight yet? You know, I gotta thank him, he changed my life.",
       "characters": [
         "George",
-        "Jerry",
-        "Jeannie",
+        "Kevin",
+        "Kurt",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Kurt"
+    },
+    {
+      "quote": "Because the woman who got hit in the head with it found my name, called me up, and we met!",
+      "characters": [
+        "Wilhelm",
+        "Laura",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the new area code. They've run out of 242s, so all the new numbers are 646.",
+      "characters": [
+        "Kramer",
+        "Hal",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 904,
+  "gameNumber": 905,
   "date": "2027-06-26",
   "questions": [
     {
-      "quote": "The last thing this guy's qualified to give a tour of is reality.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Susan",
-        "Noel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're not crazy. Jerry does wear glasses. He just forgot 'em, that's all.  Not crazy.",
+      "quote": "Oh well there's a bathroom in the coffee shop just next door.",
       "characters": [
         "Elaine",
-        "George",
         "Jerry",
+        "Ed",
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Me, either. Wait a second. Wait a second. Maybe it's that yogurt.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, Mr. Kramer, looks like you're in the hole $3200... Will that be cash or check?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Earl",
-        "Newman"
-      ],
-      "correctAnswer": "Earl"
-    },
-    {
-      "quote": "Aah!  The nerve of that guy! Taking back that pen. Well that's it for them.",
-      "characters": [
-        "Morty",
-        "Russell",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Well--Noreen listened to you like George's mother listened to the Chinese.",
-      "characters": [
-        "Tim",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?",
+      "quote": "Sorry, it was my aunt's birthday and she makes such a big deal about it.",
       "characters": [
-        "Kramer",
-        "Jerry",
         "George",
-        "Estelle"
+        "Jerry",
+        "Michael",
+        "Cheryl"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Cheryl"
     },
     {
-      "quote": "All right, remember: no rust-proofing. Commit to nothing. If you have to speak - mumble.",
+      "quote": "Well it's all taken care of. I filed a report. An investigation is underway.",
       "characters": [
+        "Elaine",
+        "Matthew",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. Hmm. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...",
+      "characters": [
+        "Jackie",
+        "Elaine",
         "Kramer",
-        "George",
-        "Jerry",
-        "Sally"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I start off with curls. That's good for the bicep.  I do 10 reps, 2 sets.",
+      "quote": "Well...there's no logical explanation. All right. Well, shall we go home?",
       "characters": [
-        "Peterman",
-        "Bania",
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ahahaha. Well that's the positive thing about getting sick, you get to lose weight.",
+      "characters": [
+        "Elaine",
+        "Wilhelm",
         "Jerry",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Bania"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "We'll move his teeth, it happened to my uncle, the sugar revived him.",
+      "quote": "Oh, Okay... well thanks a lot... sorry again about you and the Drake...",
       "characters": [
-        "Tia",
-        "George",
-        "Laura",
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well what do you think? They put the statue on a giant raft and a tugboat pulled it all the way from France?",
+      "characters": [
+        "Kramer",
+        "Ed",
+        "Man",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes. Well, be that as it may, if you could just find it in yourself to give it up.",
+      "quote": "And you must....look exactly like Jerry. You don't see this; you're like twins .. WOoooohhhhh!!! this is eerie.",
       "characters": [
+        "Newman",
         "George",
-        "Mary",
-        "Frank",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

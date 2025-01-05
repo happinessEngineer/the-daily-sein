@@ -1,104 +1,104 @@
 {
-  "gameNumber": 866,
+  "gameNumber": 867,
   "date": "2027-05-19",
   "questions": [
     {
-      "quote": "How could you do that to Mr Mandelbaum? You should be ashamed of yourself.",
+      "quote": "Well, cause we were just saying we were going to ask you to come up to the country with us this weekend.  Susan's father has a cabin up there.  But, eh, all right, well.",
       "characters": [
-        "Helen",
-        "Kramer",
-        "Celia",
-        "Elaine"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "You keep a perfect crease by not sitting in them before the performance.",
-      "characters": [
-        "Elaine",
+        "Frank",
+        "Mickey",
         "Jerry",
-        "Maestro",
         "George"
       ],
-      "correctAnswer": "Maestro"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'd be happy to get you some if that's what you're driving at.",
+      "quote": "Hey, I'm sorry, you had your buffer zone for many years. It's my turn to live, baby.",
       "characters": [
         "George",
         "Kramer",
         "Jerry",
-        "Brett"
-      ],
-      "correctAnswer": "Brett"
-    },
-    {
-      "quote": "He's gonna get a muffin and then he'll walk us outside. This is a great way to go through life.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
-        "Nina"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That chick's whacked. We're history.  I just left out a couple of things: uh, rust-proofing…",
-      "characters": [
-        "Puddy",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "These Dominicans really know their way round a crepe. Look at that. It's like they're rolling a double corona.",
-      "characters": [
-        "Jerry",
-        "Noel",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Actually, the importer's right in Chinatown. I'll introduce you to him, you can get it whenever you want.",
-      "characters": [
-        "Lloyd",
-        "Seth",
-        "Donna",
         "Elaine"
       ],
-      "correctAnswer": "Lloyd"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So you're telling me, because you're getting free parking, I gotta pretend this guy had cancer when he didn't?",
+      "quote": "It's stuck on a piece of cloth here. I can't get the cloth out.",
       "characters": [
         "George",
         "Jerry",
-        "Elaine",
+        "Kurt",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What is this? What are we doing? What in god's name are we doing?",
+      "characters": [
+        "Tim",
+        "Puddy",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "They were shooting the Sports Illustrated swim suit issue right in the hotel pool.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Lois",
-        "Peterman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well so she mentioned that she had a son, and then for some reason, I launch into the story about the kid from Pennsylvania who was abducted.",
+      "quote": "Well it's not my fault. Seinfeld can't drive. How hard is it to follow somebody?",
       "characters": [
         "Elaine",
+        "Jackie",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me…ge ge ge",
+      "characters": [
         "Jerry",
-        "Frank"
+        "Kevin",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now why would a junior high school want to screw with my head?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Cop",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's great Kramer... So-So, anyway, tell us what's involved in being a Godparent.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Greg",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You didn't think I was really going to give you a suit, did you?",
+      "characters": [
+        "Bania",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "You know, if we bring Elaine in, it's going to be so many people to keep track of. It's gonna be too hard, I'll forget where everybody's standing, you, me, Kramer, the butler, it's too much.",
+      "characters": [
+        "Susan",
+        "Morty",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

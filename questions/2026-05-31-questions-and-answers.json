@@ -1,103 +1,103 @@
 {
-  "gameNumber": 513,
+  "gameNumber": 514,
   "date": "2026-05-31",
   "questions": [
     {
-      "quote": "Maybe you could have sex with her again and then take it back.",
+      "quote": "Oh, come on, man! Well, I'll tell you what, if you do this, I'll give you that walkman you're always asking about.",
       "characters": [
         "George",
-        "Jerry",
-        "Elaine",
-        "Jackie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Not that it was that nice of a jacket. I mean it didn't fit him that well. To me there's just something about a monster in a blazer. It shows at least he's making an effort.",
-      "characters": [
-        "Evelyn",
-        "Elaine",
-        "George",
+        "Kramer",
+        "Steinbrenner",
         "Jerry"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Here's my card. I'm in real estate, so, if you're ever looking for something bigger, something nicer..  ..maybe not right now. Anyway..",
+      "characters": [
+        "George",
+        "Cheryl",
+        "Jerry",
+        "Tony"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm going to a poetry reading with PATRICE: First time poets, in a burnt out building, down by the docks, Supposed to be good.",
+      "characters": [
+        "George",
+        "Tim",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is terrible. What is this, ginger? I hate ginger. I can't understand how anyone can eat ginger.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And, it is already in the school paper. They cancelled Rick James.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Katie"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Yeah, it's from China. Go ahead, try a piece. Tell me that's not the most delicious gum you've ever tasted.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Jerry",
+        "Simon"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Oh I can't. They revoked my membership. Newman too. You know, we can't go anywhere near there.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nah, I don't go for these non-refundable deals. I can't commit to a woman. I'm not going to commit to an airline.",
+      "quote": "Oh, so important. So what are you doing uh Thursday night? You wanna have dinner?",
       "characters": [
         "Jerry",
-        "Katya",
+        "Newman",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "These Kramer stories are unusable!  I mean, some of them aren't even stories!  Look, this is a list of things in his apartment!",
+      "quote": "You should have been born in August. Your parents would have been well-advised to wait.",
       "characters": [
+        "Tor",
         "Elaine",
-        "Jerry",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't return fruit. Fruit is a gamble. I know that going in.",
-      "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Betsy"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Tor"
     },
     {
-      "quote": "Do you think it's effeminate for a man to put clothes in a gentle cycle?",
+      "quote": "I had a great time tonight Carrie. And I am going to call you as soon as I get home.",
       "characters": [
-        "Jerry",
+        "Karen",
         "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Pamela?! Awright, I tell you what. You look like nice people, I'm gonna help you out. You want a beautiful name? Soda.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Peterman",
-        "Stan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I always tell everybody about you. Tell everybody to  GO SEE HIS SHOW!  I mean, I'm your biggest fan!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Valerie",
-        "Joel"
-      ],
-      "correctAnswer": "Joel"
-    },
-    {
-      "quote": "Hey you know when Superman saves someone no one asks if he's trying to hit on her!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Lippman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But, but I'm disturbed! I'm depressed! I'm inadequate! I got it all!!",
-      "characters": [
-        "Amy",
-        "Kramer",
-        "Elaine",
+        "Salesman",
         "George"
       ],
       "correctAnswer": "George"

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 788,
+  "gameNumber": 789,
   "date": "2027-03-02",
   "questions": [
     {
-      "quote": "but..why, it wasn't my fault, I .. you asked me a sandwich, I .. I make such delicious sandwiches Elaine",
+      "quote": "You could read the paper through the whole thing if you want.",
       "characters": [
-        "Mickey",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's our store and our mannequin, we can do whatever we want with it.",
-      "characters": [
-        "Saleswoman",
-        "Jerry",
-        "Bania",
-        "George"
-      ],
-      "correctAnswer": "Saleswoman"
-    },
-    {
-      "quote": "Well you know ahh, they don't allow outside drinks in the movie theater. So I had to put it in my shirt and sneak it in.",
-      "characters": [
-        "Bania",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ok. Good. And Kramer, you're in charge of taping off the loading zone.",
-      "characters": [
-        "Jake",
-        "George",
         "Jerry",
-        "Lanette"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's a spanish dish. It's a moulage of fish, an meat with rice. Very tasty.",
-      "characters": [
-        "George",
-        "Simon",
-        "Mary",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes...Ye..Yes..That's right...You see ,Billy Mumphrey was a simple country boy. Some might say a cockeyed optimist, who got caught up in the dirty game of world diplomacy and International intrigue.",
-      "characters": [
-        "Frank",
-        "Elaine",
         "Kramer",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Actually, the only place she always looked good was in that back booth over there.",
+      "quote": "You know what woman I always thought you looked like; Leena Horne.",
       "characters": [
-        "Rabbi",
-        "Elaine",
         "Jerry",
-        "Helen"
+        "Aaron",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Detective"
+      ],
+      "correctAnswer": "Detective"
+    },
+    {
+      "quote": "He was down at the other end. So he yells out, \"Ready, On your mark, Get set, \" and I was so keyed up I just took off. By the time he said go I was ten yards ahead of everybody.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Lanette",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So the spit could have only come from the front and to the right.",
+      "quote": "All right, I'll see ya Bill. All right, I got room for two, but the only thing I have is in the non-filter section.  Hey.",
       "characters": [
+        "Kramer",
+        "Jerry",
         "George",
-        "Saleswoman",
-        "Elaine",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What do you mean, I got? You didn't give him his Visa application.",
+      "quote": "Because important things go in a case. You got a skull for your brain, a plastic sleeve for your comb, and a wallet for your money.",
       "characters": [
+        "Jerry",
         "Elaine",
         "George",
-        "Nana",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So get this. Peterman has his henchmen forcefully eject me from the book signing like I'm some kind of a maniac.",
+      "quote": "Here. I write it down.  \"One cupcake.\" And then I put it in the bowl.  There. Very simple.",
       "characters": [
-        "Kramer",
-        "Craig",
+        "Roy",
+        "Jackie",
         "Jerry",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me. I'm sorry to make you do this, but I got stuck in the aisle and the flight attendant wouldn't let me get through. There's no way to get around that cart...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Mm?  Oh, hi. Oh, yeah, yeah, yeah. We met uh, skiing that time. You're uh, married to the eye guy.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rava",
+        "Doorman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, the old switcheroo is you poison your drink then you switch it with the other person's.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

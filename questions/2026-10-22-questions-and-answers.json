@@ -1,106 +1,106 @@
 {
-  "gameNumber": 657,
+  "gameNumber": 658,
   "date": "2026-10-22",
   "questions": [
     {
-      "quote": "What's with this airline? What are you, cutting out the drinks now?",
+      "quote": "[rubbing his eyes hoping the nightmare will end] Okay, I get your point!",
       "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know but I thought that maybe you could mention how I apologized then encouraged you to stick with it.",
-      "characters": [
-        "Jerry",
         "George",
         "Elaine",
-        "Kramer"
+        "Tom",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Can you believe it? It's happening! It's finally happening! I'm free!!",
+      "quote": "rush? you want a rush? drop a ball on your toe my friend, talk about a rush, you'll be throbbing, you'll see visions",
       "characters": [
-        "George",
-        "Kramer",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know, she lives right around the corner. You could take it here or go to the coffee shop.",
-      "characters": [
-        "Rudy",
-        "Kramer",
+        "Maestro",
+        "Todd",
         "George",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, look at this one by the bus stop. Jerry, come here. Take a look at this.",
+      "quote": "We have plenty of time, too. This jury could be out for days.",
       "characters": [
-        "Jake",
         "Kramer",
-        "Jerry",
-        "Elaine"
+        "George",
+        "Elaine",
+        "Chiles"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Chiles"
     },
     {
-      "quote": "The woman she's \"lesbianing\" with? Susan told me she's *never* been with a guy.",
+      "quote": "I might tell her that I love her. I came this close last night, then I just chickened out.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Susan",
+        "Anna",
+        "Peterman",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know what I would like to do? I would really like to have sex with a tall woman. I mean really tall. Like a like a giant Like six five.",
+      "quote": "Oh.  Hey, George, thanks again for getting me those Yankee tickets.",
       "characters": [
         "George",
-        "Morty",
-        "Frank",
-        "Ray"
+        "Jerry",
+        "Tim",
+        "Secretary"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Tim"
     },
     {
-      "quote": "Um. I just realized. Ya' never gave me back the change from the tolls.",
+      "quote": "That's my hand towel! I use that on my face, hands and chest! That's where the hives are coming from! It's not from Dr. Sitarides, it's from Dr. Van Nostrand!",
       "characters": [
-        "George",
-        "Frank",
-        "Elaine",
-        "Lippman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, we've thought about this in a variety of ways. But the basic idea is I will play myself-",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Lloyd",
+        "Jerry",
+        "Manager",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Relax man. There's enough juice here to keep us all fat and giggley.",
+      "quote": "I think it moved. Oh my god, I think it moved. Yeah, give me the big piece. I'll see you later.",
       "characters": [
-        "Marcy",
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Elaine? Put me down for some of that art. 1,900 dollars worth.",
+      "characters": [
         "George",
         "Jerry",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well why wouldn't you start with George? You think she's too good for George?",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Quone\"? No, I'm afraid that I'm going to have to challenge that.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Katie"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

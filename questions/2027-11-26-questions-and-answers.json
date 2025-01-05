@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1057,
+  "gameNumber": 1058,
   "date": "2027-11-26",
   "questions": [
     {
-      "quote": "Surprisingly, no. I'm freee, I'm unfettered...  Feel like a naked innocent boy rrroamin' the countryside!!",
+      "quote": "My dad was a cook during the Korean War. Something very bad happened, ever since you can't get him near a kitchen.",
       "characters": [
+        "Elaine",
         "Jerry",
         "George",
-        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah she asked for your number, I think she's gonna get in touch with you.",
+      "quote": "First of all you don't even know technically that I went. That's for starters. I mean I could've been pouring a bottle of water out there. You don't know.",
       "characters": [
         "Jerry",
-        "Kramer",
         "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"Okay...So you were violated by two people while you were under the gas. So What? You're single.\"",
+      "quote": "From the grind. I mean, who needs it? I mean, I've accomplished everything I've set out to do.",
       "characters": [
-        "Wilhelm",
+        "Jerry",
         "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, I met someone at this party, and I know where she works, but I don't know her name.",
-      "characters": [
-        "All",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I sold raincoats in the garment centre for thirty-eight years. In nineteen forty-nine...",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight.  He's been stabbed.",
-      "characters": [
-        "Waiter",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Waiter"
-    },
-    {
-      "quote": "She stole twenty dollars from me.  Yeah, I might've gotten it back, but Lloyd Braun interfered!",
-      "characters": [
-        "George",
-        "Rabbi",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Bookman? The library investigator's name is actually, Bookman?",
-      "characters": [
-        "Kramer",
-        "Jake",
-        "Jerry",
-        "Salesman"
+        "Rabbi"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Look, why don't you do everybody a favour, and just get out of this building?  Nobody wants you here. Nobody!",
+      "quote": "That's more you than you've ever been. Hey, what is with the pink lining?",
       "characters": [
-        "Mary",
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "George"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Mary"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Did you see that? That-that pigeon didn't move! I had to swerve to get out of the way! I saved that pigeons life!",
+      "quote": "Uh, No, no, no.. you go ahead. I gotta get my thoughts together.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Landis",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, well, look at you. It?s a little skimpy there isn't it?",
+      "characters": [
+        "Jerry",
+        "Milos",
+        "Kramer",
+        "Bania"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I - I got ta tell you, Mister Peterman.. I don't think I see a whole book here.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It was a good bit in the '80's, and it's still relatable today.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right.  Let's check out the clock. Notch good... 6:50... volume check.  What kinda music you wanna wake up to? Top 40, classical...",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Leo",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well no not yet, you gotta buy french stamps  I-I'll reimburse you of course.",
       "characters": [
         "George",
-        "Brett",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Jodi",
+        "Kramer"
       ],
       "correctAnswer": "George"
     }

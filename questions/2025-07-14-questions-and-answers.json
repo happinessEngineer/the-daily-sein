@@ -1,104 +1,104 @@
 {
-  "gameNumber": 192,
+  "gameNumber": 193,
   "date": "2025-07-14",
   "questions": [
     {
-      "quote": "You always have to know everything that's going on, don't you?",
+      "quote": "You don't think that someone having a baby warrants an exclamation point.",
       "characters": [
-        "Vandelay",
         "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. All right. Well, do you still want to see a movie later?",
-      "characters": [
-        "Puddy",
-        "Officer",
-        "Elaine",
-        "Gillian"
-      ],
-      "correctAnswer": "Gillian"
-    },
-    {
-      "quote": "Well that's the grand tour ... Aw but I save the best for last...",
-      "characters": [
         "George",
-        "Julie",
-        "Ethan",
-        "Jerry"
-      ],
-      "correctAnswer": "Ethan"
-    },
-    {
-      "quote": "You wanna go out with my wife?!  Where do you get the nerve to ask me something like that?!",
-      "characters": [
-        "Frank",
-        "Wyck",
         "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Well, it's not as if Susan's pregnant. You've already postponed The wedding. Who knows if you'll ever get married.",
-      "characters": [
-        "Jerry",
-        "Carrie",
-        "Elaine",
-        "Harold"
-      ],
-      "correctAnswer": "Carrie"
-    },
-    {
-      "quote": "Kramer tells me that you are interested in an alternative to surgery.",
-      "characters": [
-        "Elaine",
-        "Ethan",
-        "Jerry",
-        "Tor"
-      ],
-      "correctAnswer": "Tor"
-    },
-    {
-      "quote": "Of course it was a problem for me. . . . You didn't, you didn't tell anyone else about this, did you?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Nurse",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, you should have seen it. It was quite a scene over there.",
+      "quote": "Wouldn't you like to pass the ketchup to someone like me? Please?",
       "characters": [
+        "Jerry",
+        "George",
         "Kramer",
-        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you doing out there?! You're holding up the production of the movie! We can't shoot and Woody, he's really mad at you.",
+      "characters": [
+        "Jerry",
+        "Father",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "How can you do that to your friend? He's got a wife, kids, and a lot of other stuff. Oh, yyyeeah.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You sure he didn't just mention it because you happened to be going downtown?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I was always late. It was frustrating me. I'm sorry, I really am.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh I can't believe-- why don't you get rid of that piece of junk.",
+      "characters": [
+        "Attendant",
+        "Kramer",
+        "Greg",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Can I make it up to you? I'll give you fifty bucks for the jug.",
+      "characters": [
+        "George",
+        "Kramer",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright, just make sure he reserves the good chair for me. Wait, what are you gonna tell him about the clanking noise in the car?",
+      "quote": "Now I know what I've been looking for all these years......myself!  I've been waiting for me to come along and now I 've swept myself off my feet.",
       "characters": [
+        "Kramer",
+        "Bania",
         "Jerry",
-        "George",
-        "Kate",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I was all primed for the first row; I was gonna put my feet up on the dugout!",
+      "quote": "You know what I would like to do? I would really like to have sex with a tall woman. I mean really tall. Like a like a giant Like six five.",
       "characters": [
-        "Sid",
-        "Jerry",
+        "Silvio",
+        "George",
         "Kramer",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "George"
     }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 841,
+  "gameNumber": 842,
   "date": "2027-04-24",
   "questions": [
     {
-      "quote": "What is that, immigrants come over, you show them how to act natural?",
+      "quote": "No, I got to warn him that I told Joe Devola about his party.",
       "characters": [
         "Jerry",
         "George",
+        "Joel",
+        "Carl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's in the bottom draw' of are dressa'. Hurry up! … He's such an idiot.",
+      "characters": [
+        "Kramer",
+        "Jerry",
         "Elaine",
-        "Rabbi"
+        "Carol"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "I'm sorry. I can't live knowing Ted Danson makes that much more than me. Who is he?",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Morty",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, no no [Elaine enters, flossing teeth] Elaine what's the name of that friend of yours ... that's a therapist ... the woman.",
+      "quote": "Elaine, coming down here to say that you didn't say hi is more of a gesture than if you did say hi.",
       "characters": [
-        "Ava",
+        "Jake",
         "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jake"
+    },
+    {
+      "quote": "Come on, lets not stand here too long, we might run in to her.",
+      "characters": [
+        "George",
+        "Gary",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Joey Zanfino and some of the neighborhood kids. They ambushed me with a box of 'Grade A's.",
+      "quote": "She made a big breakfast every Sunday. I don't know what she put in those eggs.",
       "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Eddie"
+        "Elaine",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'll just talk to Jerry when he gets back.  Oh. Mrs. Ross, Mr. Ross.",
+      "quote": "What's this? Can't I leave this place for a second?  Can I help you?",
       "characters": [
-        "Phil",
-        "Jerry",
         "George",
-        "Elaine"
+        "Elaine",
+        "Jerry",
+        "Wendy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, there was a lot more I could've told her, believe me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "She's at it as you get. Imagine bumping into her on the street in five years with a husband. And she tells me he's a sculptor, they live in Vermont...",
+      "quote": "Yeah, but Jerry, what happens if the show's a hit? You could be out there for years! You might never come back.",
       "characters": [
-        "Newman",
-        "Glenn",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, for phone numbers, addresses, keep appointments, everything.",
-      "characters": [
-        "Karen",
-        "Tia",
+        "George",
+        "Ethan",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You think I don't know huh? Mangos, plantains, plums with the red on the inside, that's Kramer!",
-      "characters": [
-        "Joe",
-        "Jerry",
-        "Kramer",
-        "Attendant"
-      ],
-      "correctAnswer": "Joe"
-    },
-    {
-      "quote": "I'm not religious, but I certainly know where to draw the line!",
-      "characters": [
-        "Helen",
-        "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh-oh. Oh, gee, Frank, I'm sorry. I gotta go. I have to work a double shift at H&H.",
+      "quote": "Listen. Heads up, Elaine. I'm gonna have to stop by later and pick up a fax.",
       "characters": [
         "Elaine",
         "Kramer",
-        "George",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Kramer, put the paper down! You never listen to me anymore! We hardly even talk!",
-      "characters": [
-        "Guy",
-        "Elaine",
-        "Jerry",
-        "Driver"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

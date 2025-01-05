@@ -1,106 +1,106 @@
 {
-  "gameNumber": 218,
+  "gameNumber": 219,
   "date": "2025-08-09",
   "questions": [
     {
-      "quote": "You know, it occurs to me that Kramer is at karate right now.",
+      "quote": "Uh, that's him. He just came home. ... Uh, the door [Jerry pushes his door against Kramer's entrance]",
       "characters": [
-        "Steinbrenner",
-        "George",
         "Kramer",
+        "Jerry",
+        "Stationer",
+        "Raymond"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He claims that you followed him home, and started harassing him.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Hal",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I can't beleive your father owns this place. So how are the desserts here?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "David"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, you uh, really missed a show, buddy. Wooh, ba-boom, ba-boom-ba-ba-ba-boom-ba.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, it's a rare archival print.  Twelve extra minutes, full wide-screen CinemaScope, and if you come to the one o'clock show, you can hear Geoffrey Har-harwood.",
-      "characters": [
-        "Jimmy",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "We just tease some one 'til they develop an eating disorder. guy who ruined his life.",
-      "characters": [
-        "Shelly",
-        "Jerry",
-        "Gino",
-        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I - I got ta tell you, Mister Peterman.. I don't think I see a whole book here.",
+      "quote": "Every woman on the face of the earth has complete control of my life. And yet, I want them all.. is that irony?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Chiles"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What, he can't jump out of the chair? How long does that take? Here look at this.  Here, watch.  Criminals. Boom. I'm up.  Stop It! Stop It! Stop It!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Stan",
+        "Hoyt"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes. With a little guidance, Steven Koren is going to be everything I claim to be, only for real. That's my dream, Jerry.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y'know, just because you two are homosexuals, so what? I mean you should just come out of the closet and be openly gay already.",
+      "characters": [
+        "Elaine",
+        "Phil",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, forget that idea, it's not for you....Okay, okay, I got it. You run an antique store.",
       "characters": [
         "Elaine",
         "Jerry",
         "Bania",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh yeah, he said he brought a pair of pants into Pinkus' and they came back stained with some kind of dry cleaning fluid. And Pinkus denied responsibility. You see he was very upset with Pinkus.",
+      "quote": "So she sees you with hot fudge on your face and she ends it? You really think she would be that superficial?",
       "characters": [
+        "Morty",
+        "Elaine",
         "Jerry",
-        "George",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You wanna go with me up to  the Bronx and see if there's any flyers on George's car.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Frank",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm on my way to cash in their plane tickets for them. They need a little food money.",
+      "quote": "Oh, no, not just me, the whole organization. Especially Mr. Morgan.",
       "characters": [
-        "Kramer",
+        "George",
+        "Elaine",
         "Jerry",
-        "Keith",
-        "George"
+        "Craig"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "She had some personal affair she had to attend to. I left a message on your machine. You didn't get it?",
+      "quote": "I don't return fruit. Fruit is a gamble. I know that going in.",
       "characters": [
-        "Frank",
+        "Jerry",
         "Kramer",
-        "Receptionist",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Receptionist"
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 710,
+  "gameNumber": 711,
   "date": "2026-12-14",
   "questions": [
     {
-      "quote": "That's exactly what I said, except I used the word \"momentum\".",
+      "quote": "Well you're not getting any money back.  Jerry, come back in here.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look...humm..I'm on with Beijing with the hair restauration clinic. Could you talk to them for me and tell them I'd like to place an order.",
       "characters": [
         "George",
-        "Laura",
-        "Morty",
-        "Elaine"
+        "Steinbrenner",
+        "Kramer",
+        "Nana"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, Kevin...you can go on and on about how you don't want kids...and it sounds, it sounds really nice, but...the truth is, I don't know if you mean it or not.",
+      "quote": "So you're havin' the sex, next day you don't have to call. That's pretty good.  Go ahead.",
       "characters": [
+        "Attendant",
+        "Elaine",
         "Jerry",
-        "Kramer",
-        "Russell",
-        "Elaine"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm just gonna...wash.  WHY DID I PUT UP TWO? WHY DID I PUT UP TWO?",
+      "quote": "Well I thought this would be more fun so I gave the tickets away.",
       "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Patty"
+      ],
+      "correctAnswer": "Patty"
+    },
+    {
+      "quote": "I know, I hated those kids. In fact, I hate anyone that ever had a pony when they were growing up.",
+      "characters": [
+        "Kramer",
         "George",
         "Jerry",
-        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just talked to Mr. Kruger, he'll be down in a minute. He wanted me to take a photograph for the record.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I can't believe what's happening here.  She hasn't taken her hands off me all night.  She was always friendly around the office, but that was it.",
+      "quote": "So, what are you saying? That I'm a bad maid or some kind of a prostitute?",
       "characters": [
-        "Jerry",
-        "Wyck",
-        "Sheila",
-        "George"
+        "Kramer",
+        "Puddy",
+        "Aaron",
+        "Cindy"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Cindy"
     },
     {
-      "quote": "Yeah well, the budget changed, you know. I mean, it might be a good investment.",
+      "quote": "Look at me....Look at Mee!. Come on. I'm stretching right in front of you. Heeeey!! ...a smile. Aah! we made contact, all right one more stretch and then go talk to him.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "I'll tell you what happened. I bet he got the AM/PM mixed-up.",
-      "characters": [
-        "Woman",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, Gordon Lightfoot was the singer. Edmund Fitzgerald was the ship.",
-      "characters": [
-        "Enzo",
-        "Lippman",
         "George",
+        "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wait a minute, wait a minute, do you think I?m comfortable here. I can't change, I?ve got no clothes here! You've got to go like that, I can?t go like this alone!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But I didn't know, Tom. I g -- can't you just make an exception? Please. I've got a nice face.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Susan"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, I have thought about you many times. Have you thought about me?",
+      "quote": "Oh, yeah. Top floor.  Listen, Frank, have you ever considered wearing something for support? Now, look at this.  Mind you, this is just a prototype.",
       "characters": [
+        "Julianna",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Vandelay. Wait a second. Mr. Pennypacker, if you're here, and Mr. Vandelay is also here, then who's watching the factory?",
+      "characters": [
+        "Frank",
         "Elaine",
         "George",
-        "Kramer",
-        "Gina"
+        "Jerry"
       ],
-      "correctAnswer": "Gina"
+      "correctAnswer": "Jerry"
     }
   ]
 }

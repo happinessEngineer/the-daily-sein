@@ -1,106 +1,106 @@
 {
-  "gameNumber": 444,
+  "gameNumber": 445,
   "date": "2026-03-23",
   "questions": [
     {
-      "quote": "Ah, baking soda. Annoying little product. 'I can do this. I can do that.' Why doesn't this stuff just shut up?",
+      "quote": "You're a salesman now - and the high-five is… it's very \"grease monkey.\"",
       "characters": [
         "Elaine",
-        "George",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "(Tilts her head down, looking over her glasses in amazement of",
-      "characters": [
-        "Elaine",
-        "Susan",
-        "Sid",
-        "Lippman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "This dog in the courtyard across from my bedroom window that never never stops barking..",
-      "characters": [
-        "Steinbrenner",
-        "George",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, I just found twenty dollars! I tell you this, something is happening in my life. I did this opposite thing last night. Up was down, black was white, good was -",
-      "characters": [
-        "Steinbrenner",
-        "Peterman",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Alright, hang on. Let me call Kramer and see if you can hear anything, hold on. >click click click<...",
+      "quote": "You, anybody - whatever. You're in the little room, you're chained to the floor, you're there for a long time.. do you think they would ever consider doing the laundry?",
       "characters": [
         "Jerry",
-        "Elaine",
         "George",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "'Literally'? What's THAT supposed to mean?  You mind if I hide this somewhere?",
+      "quote": "Well, bully for you. Hey, Jerry! You know your friend here's a real piece of work!",
       "characters": [
-        "Puddy",
-        "Peterman",
         "Kramer",
-        "Elaine"
+        "Jerry",
+        "Gwen",
+        "Mike"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Mike"
     },
     {
-      "quote": "Alright, listen, we'll have to do this again some other time, okay? I got a lotta work to do.",
+      "quote": "Jerry, I can't talk to Jerry anymore. Ever since he moved into that apartment he's too much ... like you.",
       "characters": [
         "George",
-        "Kramer",
-        "Chiles",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Regardless. I had to walk around for the rest of the party in some cheap Metlife windbreaker. Now, it is payback time.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Kramer",
+        "Newman",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yes, we were waiting for our mail to arrive and I happened to mention to her how you felt that it was never going \"to happen\" for you.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "Steve",
-        "Rabbi"
-      ],
-      "correctAnswer": "Rabbi"
-    },
-    {
-      "quote": "Sure, and you were always in Korea with your religious chachkis.",
+      "quote": "He purposely mispronounced my name. Instead of saying, \"Costanza\" He'd say, \"Can't stand ja\". \"Can't stand ja\" ... He made me smell my own gym socks once.",
       "characters": [
         "George",
-        "Kramer",
-        "Jerry",
-        "Estelle"
+        "Elaine",
+        "Wyck",
+        "Jerry"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hola, Jerry! I'm into this Puerto Rican day! The sights! The sounds! The hot, spicy flavor of it all! It's caliente, Jerry!",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was just uh going over the Jake Jarmel book and I understand you worked with him very closely on this.",
+      "characters": [
+        "Lippman",
+        "George",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Lippman"
+    },
+    {
+      "quote": "Aw, they didn't forget to put it out! It's deliberate! Deliberate, I tell ya!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "What do you mean stole? It's my bread. They didn't eat it. Why should I leave it there?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "George, Festivus is your heritage - it's part of who you are.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

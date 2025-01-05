@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1108,
+  "gameNumber": 1109,
   "date": "2028-01-16",
   "questions": [
     {
-      "quote": "Yes, your secretary faxed me the copy. Would you like to look it over?",
+      "quote": "He was in the shop. I thought you told me he wasn't going to be there.",
       "characters": [
-        "Eva",
-        "Jerry",
-        "George",
-        "Jackie"
-      ],
-      "correctAnswer": "Eva"
-    },
-    {
-      "quote": "We would love to be in business. We'll do business. We're in business. It's... it's business. This is business.",
-      "characters": [
-        "Joel",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, what's the deal? What was goin' on there? I invite you down here, I have an important show, and she heckles me?!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Babu"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "...And then, right after the All-Star Break, we, we just swept the Orioles. Four games. In Baltimore.  So... yeah.",
-      "characters": [
-        "Elaine",
         "George",
         "Jerry",
+        "Lippman",
         "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I didn't know that he'd fall for me and I'd drive him insane. I mean, you know, that's not my fault.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Seth, it's me. What's more important than catching up with an old college buddy?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're an errand girl, sent by grocery clerks, to collect a bill.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Carol",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Where do you think this relationship is? If you are thinking of instituting an open-door urination policy, let me disabuse you of that notion right now, my friend.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Susan",
+        "Audrey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no, no. Don't give me that. I know you. Something's wrong. What is it.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Jerry, remember Frogger? I used to be so into this game. Gettin' that frog across the street was my entire life.",
+      "characters": [
+        "Jerry",
+        "Stan",
+        "George",
+        "Sidra"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!",
+      "quote": "Don't be ridiculous.  Holyfield. He's a good friend of one of my patients. He's got a hell of a body, doesn't he?",
       "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Hanke"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, the four of them, they picked me up by my pants and they threw me outside, right into a horse.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All because of this creepy new guy at work. He just - he just comes out of nowhere and he's right next to you!",
-      "characters": [
-        "Guy",
-        "Elaine",
-        "Steinbrenner",
-        "Alton"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey! What are you doing here? I thought I was supposed to call you when I got home.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Carol",
-        "Elaine"
-      ],
-      "correctAnswer": "Carol"
-    },
-    {
-      "quote": "I was supposed to pick up Newman at the zoo twelve hours ago.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I mean, does it ever erupt into a drunken orgy of violence?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Hal",
+        "Patrice",
+        "Roy",
+        "Rudy",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Roy"
+    },
+    {
+      "quote": "This guy leaves this jacket at my mother's house two years ago. Now, she hasn't spoken to him since and now he says he wants the jacket back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Farkus"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.",
+      "characters": [
+        "George",
+        "Tony",
+        "Kramer",
+        "Sophie"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

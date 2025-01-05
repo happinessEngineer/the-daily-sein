@@ -1,106 +1,106 @@
 {
-  "gameNumber": 559,
+  "gameNumber": 560,
   "date": "2026-07-16",
   "questions": [
     {
-      "quote": "Well, I better get going. I don't want to be late for the play.",
+      "quote": "Well if these aren't what you wanted then why did you pay him?",
       "characters": [
+        "Nikki",
         "George",
-        "Woman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "The whole time that I was growing up, all I ever heard from my mother was 'Why can't you be more like that Lloyd Braun?'",
-      "characters": [
-        "George",
-        "Jerry",
         "Kramer",
-        "Jeannie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, get this: Mister Peterman is finally letting me do some real writing. He's got this book deal, for his autobiography. He's gonna let me ghost write it.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
         "Bania"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Nikki"
     },
     {
-      "quote": "On the other hand, does that mean she should never be allowed to date again? You scratch one car and you're forbidden to have social contact for the rest of your life?!",
+      "quote": "I don't know, I have to think about it.  I need a nonpartisan mirror.",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I said I was coming down with the flu or something and I had to go home.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, OK. Let's stop fooling around. Let's just slip him some money.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Morty",
-        "Helen"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, if you must know, shhhe, was my fiancée, Susan. May she rest in peace.",
+      "quote": "Then each of us would only have be like a half man. That sounds about right!",
       "characters": [
-        "Jack",
+        "Farkus",
         "Elaine",
+        "Robin",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know what I think? I think you knew about that bomb ahead of time.",
+      "characters": [
+        "Steinbrenner",
+        "Newman",
         "Jerry",
+        "Roy"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Well, that's it. Look, I'm going to Vermont. I don't want to think about this. I'm selling.",
+      "characters": [
+        "Frank",
+        "Duncan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Pennsylvania Dutch country? Oh, that's the serious relationship weekend place.",
+      "characters": [
+        "Rick",
+        "Jerry",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Moving cars from one side of the street to the other don't take no more sense than putting on a pair of pants. My question to you is who's putting your pants on?",
+      "quote": "You'll be fine as long as it doesn't hit you right in the pupil, 'Cause then the whole ball will go up like the Death Star. Tchoo! I gotta go find a bathroom.",
       "characters": [
+        "Jerry",
         "Kramer",
         "George",
-        "Jerry",
-        "Sid"
+        "Lippman"
       ],
-      "correctAnswer": "Sid"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I don't see how I could perform sexually in a situation after something like that. I was completely emasculated. Anyway, it's not the only reason.",
+      "quote": "I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis at PBS. Show us you care. Call in your pledge now.",
       "characters": [
-        "Elaine",
-        "Hal",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Maybe he doesn't. Maybe he and I are exactly the same, except for one minor, yet crucial, detail. You never know.",
-      "characters": [
-        "Carol",
         "George",
-        "Kramer",
-        "Newman"
+        "Jerry",
+        "Ben",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What is the big deal about putting your lips on somebody's face?",
+      "characters": [
+        "Peterman",
+        "Karen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, wait a minute, Newman! You can't let this dream die. You moving away is my dream too!",
+      "characters": [
+        "Jerry",
+        "Maryedith",
+        "Doctor",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

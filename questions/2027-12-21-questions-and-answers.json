@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1082,
+  "gameNumber": 1083,
   "date": "2027-12-21",
   "questions": [
     {
-      "quote": "Well, I ah.. been havin' trouble at home and uh.. I mean, ah, you know, I'll work harder, nights, weekends, whatever it takes..",
+      "quote": "I thought that new promotion was supposed to be a lot more work.",
       "characters": [
+        "George",
         "Kramer",
         "Jerry",
-        "Puddy",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There was this beautiful woman walking down the street wearing *just* a bra.  I can't get that image out of my mind.",
-      "characters": [
-        "Jerry",
-        "Ade",
-        "George",
-        "Morty"
+        "Melissa"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, where are those invitations you were supposed to get? If they don't go out today they're useless.",
+      "quote": "Well, I'm just a little nervous. OK, I gotta relax. Phew. Wish me luck, huh?",
       "characters": [
-        "Lanette",
-        "Jerry",
-        "George",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "Susan",
+        "Jerry"
       ],
-      "correctAnswer": "Lanette"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh. We were going to see that but it was sold out. So were going to see\"Blame it on the Rain\"",
+      "quote": "Then the doctor writes more stuff down and doesn't even look at my rash.",
       "characters": [
         "Elaine",
-        "George",
-        "Jerry",
+        "Willie",
+        "Morty",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh yeah baby. spit, spit. What are these?\"Perducto de Peru\"Jerry, if you think these are Cubans you have another thing coming.",
+      "quote": "Good. O.K.  What about last year when I took him to the hospital every day? Did he ever say thank you?",
       "characters": [
-        "Jerry",
         "Morty",
-        "Kramer",
-        "Farkus"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, I may not say this enough but you two are about the best friends a guy could have.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kevin",
-        "Kramer"
-      ],
-      "correctAnswer": "Kevin"
-    },
-    {
-      "quote": "Oh damn. They changed the cable stations again.. just when I finally memorized them.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Hey, George. Here's the model number on that chair, by the way.",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Eddie"
+        "Kramer",
+        "Rick"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "No, no. You can't get her anything better than me. Whatever I spend, you have to spend half.",
+      "quote": "Kramer tells me that you are interested in an alternative to surgery.",
+      "characters": [
+        "Tor",
+        "Deena",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "Know body died. Jack I want you to do me a big favor.  In my garage there are a couple of boxes.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Naomi",
+        "Sid"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Hey, this looks like the thing I have. Caused by exposure to benzene, a common ingredient in metal cleaners.",
       "characters": [
         "George",
-        "Woman",
+        "Phil",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yep, and the photo was all fixed and back on his desk, no thanks to you.",
+      "quote": "Boy, I'm really looking forward to this duck. I've never had food ordered in advance before.",
       "characters": [
+        "Elaine",
+        "Kramer",
         "George",
-        "Leo",
-        "Woman",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What do you mean you felt the material? What, with your fingers like this?",
+      "characters": [
+        "Cindy",
+        "Jerry",
+        "Frank",
+        "Lloyd"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I've seen MOST of it. I guess my favorite would have to be, uh... Chapter 2. Have you ever seen that?",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

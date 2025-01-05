@@ -1,106 +1,106 @@
 {
-  "gameNumber": 895,
+  "gameNumber": 896,
   "date": "2027-06-17",
   "questions": [
     {
-      "quote": "See, never bet against the backslide. I knew you two would get back together.",
+      "quote": "Well, everything's goin' great except, basically, I'm payin' for sex.",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
-        "Kruger"
+        "George",
+        "Carl"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I've spent the last hour preparing ten candy bars with no wrappers or identification of any kind for him to select from.",
+      "quote": "Yeah. Too bad, 'cause you gotta have the affection - which you obviously have. I think it's great that you're so open with your affections in public. See, we had that.",
       "characters": [
-        "George",
         "Kramer",
-        "Tim",
-        "Phil"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, look. I'm going to be honest. I'm very interested in the van.",
-      "characters": [
+        "Jerry",
         "Elaine",
-        "Kramer",
-        "Helen",
-        "George"
+        "Babu"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I probably didn't hear it on the way over because of the street noise.  This is no good! I got to meet these guys from MacKenzie for lunch in half an hour!",
+      "quote": "I have to say, as a glasses wearer I take exception to that. That's like me buying a wheelchair to cruise around in.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Wilhelm",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So, can you believe that message? Now I?ve got to spend the rest of my life looking over my shoulder.",
+      "quote": "You got your own shampoo, conditioner, body lotion! Jerry, body",
       "characters": [
-        "Steve",
-        "Carl",
         "Kramer",
+        "Newman",
+        "Glenn",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't take my eyes off that lineswoman. The woman is absolutely mesmerizing.",
+      "characters": [
+        "Karen",
+        "Newman",
+        "Poppie",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Because, the owner contributes a lot of money to those fanatical, anti-abortion groups.",
+      "quote": "Hey you know what? I have access to one of the most deceitful, duplicitous, deceptive minds of our time. Who better to advise me?",
       "characters": [
-        "Bruce",
-        "George",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Anyway, I just wanted you to know, that I'm going to do everything I can to make sure the party responsible is made to be responsible or something very close to that.",
-      "characters": [
-        "Kramer",
+        "Elaine",
         "George",
-        "Jerry",
-        "Earl"
+        "Joyce"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Using your touch-tone keypad, please enter the first three letters of the movie title, now.",
+      "quote": "If she doesn't show up, we can't possibly have dinner with him alone.",
       "characters": [
-        "Jerry",
-        "Peterman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "If not, I can assure you, doctor, that I can make things very unpleasant for you and your staff. If you have one.",
-      "characters": [
-        "Maura",
         "Elaine",
+        "Jerry",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "The sweater! The sweater made him sniff! See, I told you he wasn't a drug addict.",
+      "quote": "Aah! .. right. The ones from Oregon that are only ripe for two weeks a year..",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "Ben",
         "George",
-        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I am going to Montreal tomorrow and they sell them dirt cheap.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Todd",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "Brody, c'mon. He's just kidding. He's a joke maker. Tell him, Jerry.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

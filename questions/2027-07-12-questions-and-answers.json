@@ -1,106 +1,106 @@
 {
-  "gameNumber": 920,
+  "gameNumber": 921,
   "date": "2027-07-12",
   "questions": [
     {
-      "quote": "French impressionism. Oh, I love this.  Now, what is the problem with this book?",
+      "quote": "Yeah, alright, fine.  You sit there and you watch while Newman takes over the world.  But he'd be a horrible leader.  And you know who's gonna suffer?  The little people; you and George.",
       "characters": [
-        "Kramer",
-        "Doctor",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So, I have two tickets for you  to the Flying Sandos Brothers magic show.",
-      "characters": [
-        "Jerry",
         "George",
-        "Valerie",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Jerry wouldn't know delicate beauty if it bludgeoned him over the head.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Jerry, we're friends! We can't do that, it would ruin our friendship.",
-      "characters": [
         "Elaine",
-        "George",
         "Jerry",
-        "Frank"
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's no big deal, you know, it's just that he can sound like a woman, you know?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "David"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Maybe it was because I refused to take off my shoes. Again, the foot odour problem. Her father would look at me and say, \" eno enoa juang \". Which means, \"this guy - this is not my kind of guy\".",
+      "quote": "That's perfect.  Hey, how would you guys like to watch Super Terrific Happy star Jerry Seinfeld?",
       "characters": [
-        "Newman",
         "George",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Hm, That's interesting. You know someone mentioned to me you were not very happy with your toys, growing up.",
-      "characters": [
+        "Estelle",
         "Kramer",
-        "George",
-        "Rula",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, I can't believe you're even considering not playing. We need you. You're hitting everything.",
+      "quote": "You think she thinks I have a beautiful face, or is she just saying that?",
       "characters": [
-        "George",
-        "Vanessa",
-        "Jerry",
-        "Ava"
+        "Karen",
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!",
+      "quote": "George, there's no traffic at this time. Now, come on, man...",
       "characters": [
-        "Jerry",
-        "George",
+        "Puddy",
+        "Darren",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Alright, I'm outta here, and when I get back, I don't want to see you here , here , or here .",
+      "quote": "What do you think the Nazis were doin'?  That was the heil-five.",
       "characters": [
+        "Wilhelm",
         "George",
         "Elaine",
-        "Darryl",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He's got Marlon Brando's. I could go to Marlon Brando's house if I really wanted.",
+      "quote": "What's the difference, you're a woman. They're supposed to be touching you.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Melissa",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, it's awful! They're upset because we're an interracial couple. That is racism!",
       "characters": [
         "Kramer",
-        "Newman",
+        "Helen",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "If I didn't put that floss in my pocket, I'd be crawling around her bedroom right now looking for my glasses.",
+      "characters": [
+        "Kramer",
+        "Frank",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I gotta make some changes. I'm not a woman. I'm a child. What kind of life is this?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

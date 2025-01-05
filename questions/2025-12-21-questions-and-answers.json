@@ -1,104 +1,104 @@
 {
-  "gameNumber": 352,
+  "gameNumber": 353,
   "date": "2025-12-21",
   "questions": [
     {
-      "quote": "Good. Did you have fun? You have no idea, what you're talking about, now, come on, come with me.  I gotta go get my stuff out of the dryer anyway.",
+      "quote": "Yes, well anyway, she said something that was kind of intriguing.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I mean, we had a deal, Newman. And you were supposed to give my your birthday wish. And now you've wasted it!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Aaron",
-        "Rebecca"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So she's giving me the massage and I'm just making conversation.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Anyway, she refused to take the cap off; caused a whole big scene!",
-      "characters": [
-        "Lippman",
-        "George",
-        "Kramer",
-        "Rita"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "Yes. Between you, me and the lamppost. And the desk. Peggy says this \"Suze\" isn't much of a Worker.",
-      "characters": [
-        "Roy",
-        "Newman",
-        "Sara",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "What do we do? You get your ass over to Beth's, toot sweet. That's what you do and turn on some of that so called charm you're always telling me about.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Woman",
+        "Marla",
+        "Jack",
+        "Julie",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Julie"
     },
     {
-      "quote": "The nerve of that woman. Walking into my house, stealing my collectible!",
-      "characters": [
-        "Frank",
-        "Susan",
-        "Ron",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Jerry, I had to tell them. I had to. I had no choice. They were onto the scam from the very beginning.",
+      "quote": "An hour and a half!!! I was reading a manuscript, I just couldn't put it down.",
       "characters": [
         "Kramer",
+        "Jerry",
         "George",
-        "Worker",
+        "Cynthia"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, no, Just a custom. Uh, THAT'S MY FRIEND GEORGE. YOU LOOK GOOD.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Take it easy. There's plenty of lobsters in the ocean for everyone.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, Jerry, I been thinkin'. I've gotten as far as I can go with George Costanza.",
+      "quote": "Oh, you're fine... you're fine.  So you think this guy playing Kramer took the raisins?",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Russell"
+        "Jerry",
+        "Elaine",
+        "Estelle"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Eh, we had a little fight about the move. I took her to this other place. I think they might be trying to screw me.",
+      "quote": "Mr Wilhelm, uh, this is Lafarge in payroll. Uh, there's a Costanza here, says he's working on some project?",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Rachel",
+        "George",
+        "Elaine",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "It's my apartment, Eldridge! The Stalkholm may not have sunk ya, but I will! Ha, ha, ha!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Roy",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, you boys get yourselves together. We'll head up to the restaurant. I'll leave a note for Elaine. I'm going to the bathroom.",
+      "characters": [
+        "Alton",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Alton"
+    },
+    {
+      "quote": "In my spare time. . You know, I'm working on one of you, George. I'm using ravioli. See, the hard part is to find a pasta that captures the individual.",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I don't if what you have here constitutes a legally binding document.",
+      "characters": [
+        "Izzy",
+        "Pitt",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

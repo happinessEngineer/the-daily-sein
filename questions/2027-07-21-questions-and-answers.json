@@ -1,106 +1,106 @@
 {
-  "gameNumber": 929,
+  "gameNumber": 930,
   "date": "2027-07-21",
   "questions": [
     {
-      "quote": "No, no, no. Don't give me that. I know you. Something's wrong. What is it.",
+      "quote": "I thought Jerry didn't want that couch, because of the stain?",
       "characters": [
         "Kramer",
-        "Gary",
-        "Elaine",
-        "Tim"
+        "George",
+        "Jerry",
+        "Helen"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey, hey. uh Pamela's birthday party, didn't I see you there? Jerry.",
+      "quote": "Oh, Kramer. Okay uh, why don't we start the bidding. Do I hear, um, five bucks?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
-        "Bob"
+        "Kramer",
+        "Tim"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. So what's going on? We're gonna shoot the pilot and then it's gonna be on TV the following week?",
+      "quote": "So, she fell, and then she started screaming, \"My back! My back!\" So, I picked her up and took her to the hospital.",
       "characters": [
-        "Jerry",
-        "Newman",
         "Kramer",
-        "George"
+        "George",
+        "Sally",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "well aside from that from that, how did he like the sandwiches?",
+      "quote": "You know, if you don't bring a guest they save a catering. You should be able to buy a cheaper gift.",
       "characters": [
-        "Kruger",
-        "George",
-        "Jerry",
-        "Gina"
+        "Elaine",
+        "Morty",
+        "Peterman",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Okay. Alright we got the cake now. Where is George and Kramer?",
+      "quote": "I'm afraid I have some bad news, Elaine. It appears you will not be accompanying me to Africa.",
       "characters": [
-        "Elaine",
+        "Stationer",
         "Kramer",
         "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Yeah, the Immigration guy said his Visa was expired. Poor Babu, everything was going so well for him. He had an apartment, he had a job. What a shame.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, it's like hitting a car and driving away without leaving a note.",
+      "characters": [
+        "Elaine",
+        "Ben",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "They would never tell me, Elaine. First of all, they probably think that I killed Susan. Besides, I don't even think they like me.",
+      "quote": "Hey pal, you're not getting that space. I mean, I'll sleep in my car if I have to.",
       "characters": [
-        "George",
-        "Jerry",
-        "Salesman",
-        "Bonnie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey Kramer, those have wholesale value! We could cut our losses.",
-      "characters": [
-        "Elaine",
         "Newman",
-        "Kramer",
-        "Jerry"
+        "Mike",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Mike"
     },
     {
-      "quote": "Right. I mean, we're on a subject. Why does it have to be changed?",
+      "quote": "THIS is your daughter? My God! My God! I I hope you don't mind my saying. She is breathtaking.",
       "characters": [
+        "Jerry",
         "Kramer",
         "Elaine",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I think Able worked hard all summer harvesting his crops, while Cain just played in the field. Then when Winter came, Able had all the nuts; Cain had no nuts, so he killed him.",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Kramer",
-        "Rick"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He got two minutes into that Ovaltine thing and I just couldn't take it anymore.",
-      "characters": [
-        "Abby",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Abby"
     }
   ]
 }

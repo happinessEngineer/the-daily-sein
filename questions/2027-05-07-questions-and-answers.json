@@ -1,106 +1,106 @@
 {
-  "gameNumber": 854,
+  "gameNumber": 855,
   "date": "2027-05-07",
   "questions": [
     {
-      "quote": "Have you ever seen yourself?  Ah, ah, please, please. Not in my home. I gotta go throw this stuff in the laundry. I'll be right back.",
+      "quote": "That is so lame. Jerry, people are going to be reading that for the next twenty years and laughing at you.",
+      "characters": [
+        "Jake",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, I'm not riffing. I'm ignoring! Do you understand the difference?",
       "characters": [
         "Kramer",
         "Jerry",
-        "Anna",
+        "George",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'The lights are much brighter there. You can forget all your troubles, forget all your cares, just go...'",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, believe me, if I'd been with you there in Barcelona...you'd be polishing that medal right now.",
+      "characters": [
+        "Frank",
+        "Susan",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's what comes from avoiding manual labor your whole life.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Good, going good  And the higher up on the face you go the worse the relationship is getting. You know it is like - pretty good - not bad - I gotta get out.",
+      "quote": "Oh, it's fantastic. We were out in front of the post office today, and not one person went in.",
       "characters": [
-        "Pitt",
+        "Kramer",
+        "Jerry",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No George, it's so funny. We saw this cab driver's picture, right?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Marty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know with all do respect I would think it's right up your alley.",
+      "characters": [
+        "Bruce",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It's one think to not give me the extension But to tease and to torture me like this. There's no call for that.",
+      "characters": [
+        "George",
         "Kramer",
         "Newman",
-        "Jerry"
+        "Morty"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Are you the ones leaveing the muffing pieces behind our shelter?",
+      "quote": "That's right.  High-five!  On the flip side!  Takin' me to Arby's…",
       "characters": [
-        "Wendy",
         "Jerry",
-        "Rita",
-        "Rebecca"
-      ],
-      "correctAnswer": "Rebecca"
-    },
-    {
-      "quote": "'scuse me. I uh, I was in here this morning and uh, I believe I paid you with a twenty dollar bill,  but you only gave me change for a ten.",
-      "characters": [
-        "George",
         "Elaine",
-        "Tony",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The cool evening breezes of Anytown, USA. Let's see how this baby closes. Oh yeah, yeah, yeah.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "\"Well, because we hit it off and he was very impressed with what I do.\"",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I've been drinking Café Latte since the fifth grade and I haven't looked back.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I already bought it! I've been lyin' to you for three days, and now you're all screwin' me!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Darryl",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I can't. What if I meet a woman? I'd always be worried about that first moment where I'd take it off and see that look of disappointment on her face.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "There's one thing I don't understand. Why does it please you?  George Costanza, please.",
-      "characters": [
-        "Donald",
-        "Frank",
-        "Morgan",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     }
   ]
 }

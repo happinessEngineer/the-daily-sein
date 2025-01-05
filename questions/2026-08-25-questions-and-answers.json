@@ -1,106 +1,106 @@
 {
-  "gameNumber": 599,
+  "gameNumber": 600,
   "date": "2026-08-25",
   "questions": [
     {
-      "quote": "It's this itch. I was watching TV without my shirt on, and one my couch cushions didn't have any fabric on it.",
+      "quote": "Alright, I'll tell you what you do. You call her back and give her the \"it's me\", heh? Pull the old switcheroo.",
       "characters": [
-        "George",
-        "Kramer",
-        "Jake",
-        "Brett"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, you overload your inventory and you blow your margins on gasoline. Trust me, it doesn't work.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Earl",
-        "Waitress"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I didn't know that it was a manuscript that I had to read...",
-      "characters": [
-        "George",
-        "Sharon",
         "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mrs. Sweedler thank you. Y-You see, this tragedy affected me in a very, very personal way.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Carol",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. The thing is, I, uh...I had this little zinger of my own I wanted to try.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Willie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah, now it's on TV. It's different. I told everybody I know to watch it.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw, I've just got to say it once, everybody else gets to say it, why can't I say it?",
+      "characters": [
+        "George",
+        "Mickey",
+        "Lena",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I heard that you have a very uh, special birthday card .with all the Yankee autographs on it.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You are not going to believe what happened to me at the doctors office today.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jimmy",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what you're doing, don't you? You're killing Independent Jerry! I gotta go see my Uncle Leo. I think he may have made a big mistake.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This isn't going to work for me ... so if you could show me something else.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Doctor",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, maybe they thought you looked too smart to be brainwashed?",
+      "quote": "Oh. Hey, how come people don't have dip for dinner? Why is it only a snack, why can't it be a meal, you know? I don't understand stuff like that.",
       "characters": [
-        "Jerry",
-        "Elaine",
+        "George",
+        "Puddy",
         "Kramer",
-        "Ruby"
+        "Lloyd"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, I don't come down to where you work, and knock the license plate out of your hand.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, pretty much. Although I still get the vibe every once in a while.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Captain"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I mean, if we're gonna be friends, we gotta be able to talk about other people.",
-      "characters": [
-        "Sally",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, you're really being very selfish. It would be nice if you would think of someone other than yourself every now and then!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Beth",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I have sentimentality, really, I'm sentimental. Here, look. Here's some cards I've saved, these are birthday cards from my grandmother, see, I'm not a bad guy.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "When I started out as a comedian, I sold umbrellas. It was my idea to twirl it, to attract customers.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Bania"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Puddy"
     }
   ]
 }

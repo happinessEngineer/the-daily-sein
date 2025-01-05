@@ -1,106 +1,106 @@
 {
-  "gameNumber": 273,
+  "gameNumber": 274,
   "date": "2025-10-03",
   "questions": [
     {
-      "quote": "Well, when I heard you weren't coming I made up and excuse and got the hell out of there.",
+      "quote": "We just want to talk to her. We want to apologize and tell her the whole thing was an accident.",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Lisi",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "But I can't help thinking that maybe there's someone in your life who deserves it more. Someone you've known, you know, more than a week.",
+      "quote": "Ya know, its not fair people are seated First Come First Served, It should be based on who's hungriest. I feel like just going over there and taking some food off somebody's plate.",
       "characters": [
-        "Kramer",
-        "Alton",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But I didn't just clean your apartment. It was a ritual, a ceremony, a celebration of life.",
-      "characters": [
-        "Kramer",
+        "Gary",
         "Jerry",
-        "George",
-        "Ray"
-      ],
-      "correctAnswer": "Ray"
-    },
-    {
-      "quote": "Well, you just lost a lot of business! Because I love to read!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Helena"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "\"Yeah!!! What is that? I mean isn't that sick. I mean , I'd be embarrassed to have that in my apartment.\"",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, but um I have very good report with women, very good, comfortable. And from the first time I laid eyes on a brassieres, I was enthralled.",
+      "quote": "I don't want hope. Hope is killing me. My dream is to become hopeless. When you're hopeless, you don't care, and when you don't care, that indifference makes you attractive.",
       "characters": [
+        "Nina",
         "Elaine",
-        "Frank",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That?s not the issue, we're friends, if I?ve got to be uncomfortable, you've got to be uncomfortable too!",
+      "quote": "Well, why don't *you* go, and I could save the seats. You said you didn't like saving anyway.",
       "characters": [
+        "Kramer",
+        "Sid",
         "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, how do you think I feel? Instead of editing the first novel of a major young writing talent, I am proofreading a food allergy cookbook.",
+      "quote": "Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go.  Three dollars, no change. You want one?",
       "characters": [
         "Elaine",
+        "Michael",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Excuse me... we've been waiting here. Now, I KNOW we were ahead of that guy, he just came in.",
+      "characters": [
+        "Daphne",
         "Tom",
-        "Jerry",
-        "Kramer"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, like the general manager of a baseball team or something.",
+      "quote": "No I can't. I can't die with dignity. I have no dignity. I want to be the one person who doesn't die with dignity. I live my whole life in shame. Why should I die with dignity?",
       "characters": [
         "George",
-        "Elaine",
-        "Jerry",
-        "Frank"
+        "Kramer",
+        "Alton",
+        "Carol"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Doesn't matter. You would have the only authentic Pakistani restaurant in the whole neighborhood.",
+      "quote": "Hello?...yeah, I can be there in 10 minutes...you can count on me!",
       "characters": [
         "Jerry",
         "George",
         "Kramer",
-        "Tim"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Feel much better here at my home base, Jean-Paul. It's a controlled environment.",
+      "characters": [
+        "Kramer",
+        "Marcy",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Joe DiMaggio, you know this time I went in and sat down across from him and I really watched him. I studied, his every move. For example, he dunks.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Bonnie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

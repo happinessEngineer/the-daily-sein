@@ -1,106 +1,106 @@
 {
-  "gameNumber": 752,
+  "gameNumber": 753,
   "date": "2027-01-25",
   "questions": [
     {
-      "quote": "So, we go into NBC, we tell them we've got an idea for a show about nothing.",
+      "quote": "Look, freedom with no clothes is a lot better than no freedom with clothes.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know what, I think I ran into that girl from the antique store. What's her name, Christie?",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright look, I'm gonna tell you, but I made a pact with Cynthia, we swore we were not going to tell you and Elaine.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They're worse! They're much worse than us, they talk about everything! Couldn't you at least tell her about the shrinkage factor?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll tell you something else: I don't what your business anymore either.",
+      "characters": [
+        "Elaine",
+        "Abby",
+        "Woman",
+        "Joe"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Alright. Can we go to a later show, so he's off his shift when I come by?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't have to say \"Wow.\" I know it's \"Wow.\"  And there's that smile again. Well, what is that?  It's George.",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, it's ya nothing. Forget it, forget it, I just find it curious.",
+      "quote": "20 years practicing law I've never experienced anything like this.",
       "characters": [
-        "Donna",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I got news for you. Golda Meir could make 'em all run up a tree.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Bania",
-        "Susan"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You see, now I really don't want to get into this, any kind of specifics...",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All rightly. Let me just review your history before we begin.",
-      "characters": [
-        "Doctor",
-        "George",
+        "Jackie",
+        "Frank",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Doctor"
+      "correctAnswer": "Jackie"
     },
     {
-      "quote": "They stole my wallet. The bum stole my wallet.  MY WALLET'S GONE!  MY WALLET'S GONE! I had my wallet in my back pocket. It's gone.",
+      "quote": "No, let's just do it.  What? What is going on? What is that about?",
       "characters": [
         "Kramer",
-        "George",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "How about this, you put your car in the good spot, that'll hold the good spot in front of the good building, and we can get the good car!",
-      "characters": [
-        "Morty",
         "Jerry",
-        "Kramer",
-        "Jeannie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And my agent said as a bonus, I can use their private jet, so we'll all go somewhere - the four of us, one big fling before George and I go to California.",
-      "characters": [
         "George",
-        "Jerry",
-        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive.  Now, let's have a look at you.",
+      "quote": "oh is it two-ply? cause it it's two-ply I'll take one ply, one ply, one puny little ply, I'll take one measly ply",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Wilhelm",
-        "George"
+        "Jerry",
+        "George",
+        "Milos"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Wait a minute! Wait a minute! I need my massages! Can't you see I'm burned out!",
-      "characters": [
-        "Jerry",
-        "Alton",
-        "Mickey",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
     }
   ]
 }

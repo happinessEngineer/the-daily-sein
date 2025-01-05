@@ -1,106 +1,106 @@
 {
-  "gameNumber": 899,
+  "gameNumber": 900,
   "date": "2027-06-21",
   "questions": [
     {
-      "quote": "He might as well have! I caught him, and his face was covered in chocolate and cookie crumbs.",
-      "characters": [
-        "Clerk",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "George, what we have is too important. We can work through this.",
+      "quote": "You, I guess, you don't remember me.. but we actually, kind of um.. went out.. a couple of years ago.. once.. remember?",
       "characters": [
         "George",
         "Peterman",
         "Jerry",
-        "Maura"
-      ],
-      "correctAnswer": "Maura"
-    },
-    {
-      "quote": "What's the one with the swirling chocolate in the commercial?",
-      "characters": [
-        "Man",
-        "Elaine",
-        "Wilhelm",
-        "Jerry"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "Well, I mean, as long as you're okay, that, that's the important thing.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "If anything, we'll probably get there early. I'll have a chance to go to the Duty Free shop.",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "Elaine",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "And I'm moving out of my parents' house, I'm taking that apartment on 86th street, remember the one we saw?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Ray",
-        "Elaine"
+        "Tim"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Wow! Zanadu . No wonder you're putting in so many hours.  May I?",
+      "quote": "Why? Why did you get into a fist fight with the cop? You were innocent!",
       "characters": [
-        "Jerry",
-        "George",
-        "Lanette",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Newman",
-        "George"
+        "Jerry",
+        "Kramer",
+        "Woman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I don't understand. You get job security - you get a pay check every week..",
+      "quote": "How are you doing, Lloyd? I hear you're a big advisor for Dinkins now.",
       "characters": [
-        "Estelle",
+        "George",
         "Jerry",
-        "Laura",
-        "George"
+        "Frank",
+        "Jake"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "No, bread is his soul. He's trying to buy back a loaf of his soul.",
+      "quote": "Yeah! But it never works. You know we're supposed to be there by two o'clock. We should take a cab.",
       "characters": [
-        "Man",
         "Jerry",
-        "Tim",
+        "Morty",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What? Every time I leave my house now I have to call everybody I know and ask them if they want to do what I'm doing?",
+      "characters": [
+        "Newman",
+        "Karen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I know, but I can't drive anybody anywhere until I go down to the motor vehicle bureau and get my new plates.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, stop kidding me. He's a doctor. He's a very good doctor.",
+      "characters": [
+        "George",
+        "Morty",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because he told a man he'd give him a discount too... a man Jerry.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Diane"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Don't worry Kramer is going to take care of everything. See,, I got you Pineapple. I saw Beaches last night for the fourth time  \"You are the wind…\"",
+      "characters": [
+        "Jerry",
+        "Melissa",
+        "Kramer",
+        "Mickey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you find a doctor that doesn't know your difficult.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

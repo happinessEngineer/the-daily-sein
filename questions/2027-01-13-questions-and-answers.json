@@ -1,106 +1,106 @@
 {
-  "gameNumber": 740,
+  "gameNumber": 741,
   "date": "2027-01-13",
   "questions": [
     {
-      "quote": "It looked just like the jacket I brought in to be dry-cleaned. He complimented me on it.",
+      "quote": "Yeah, her boss told me that she can't hear very well out of her left ear. What, you didn't know that?",
       "characters": [
-        "Elaine",
-        "George",
+        "Kramer",
+        "Jerry",
+        "Lloyd",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It just seems so cliched, and obvious. It's not interesting writing.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, I think that statement alone reflects your burgeoning intelligence.  Hey, what about this one?",
+      "characters": [
+        "Newman",
+        "Daphne",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ah. I'm Doctor Cooperman. I just want you to know that this won't take long. And he's going to be fine.",
+      "quote": "Well, you're fired because you don't move your arms when you tap dance, you're like a gorilla out there I've gotta go...",
       "characters": [
-        "Jerry",
-        "Doctor",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "And that failure to become a banker was eating at you. Eating-eating-eating at you inside.",
-      "characters": [
-        "Marcy",
-        "Jerry",
-        "Owner",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Make sure Kramer uses good tape when he sends back the raincoats.",
-      "characters": [
+        "Lloyd",
+        "George",
         "Kramer",
-        "Jerry",
-        "Morty",
         "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I don't know. But I don't. I'm actually almost happy to hear it.",
+      "quote": "Oh, yeah, yeah. Well, he--uh--visits the guy across the hall from me like every ten minutes.",
       "characters": [
-        "Ben",
         "Kramer",
-        "Elaine",
-        "George"
+        "Helena",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, nothing. His part of the story is done.  So I'm waiting for the subway, It's not coming, so I decided to hoof it through the tunnel.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's really not accurate. Nobody drinks from a water cooler any more - they use bottles.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Helen"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "There's no need to get excited. Can't we discuss this like gentlemen?",
+      "quote": "All he has to do now is count his blessings, say a prayer, and he's done. Do you believe this?",
       "characters": [
-        "Ray",
+        "Jerry",
+        "Hoyt",
         "George",
-        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So, anybody leaves anything here, you can just take it? You have a license to steal? You are like the James Bond of laundry?",
+      "quote": "Health cookies. I hate those little dustboard fructose things.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I can't have this on my conscience. We're like Leopold and Loeb! **",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Rabbi"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You see, he had the right idea. Hold out. That's how you get the big money, huh George?",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "Jerry",
-        "Laura"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I mean, she thought it was kind of strange to just order a salad. . . . You know. . . . For a man.",
-      "characters": [
-        "George",
-        "Mike",
-        "Elaine",
+        "Morgan",
+        "Donald",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "We have to do it. It's part of our lifestyle. It's like, uh.. shaving.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Tim",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

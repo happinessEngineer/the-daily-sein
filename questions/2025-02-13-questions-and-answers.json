@@ -1,104 +1,104 @@
 {
-  "gameNumber": 41,
+  "gameNumber": 42,
   "date": "2025-02-13",
   "questions": [
     {
-      "quote": "Kramer tell you? We reserved some special seats, so we can all sit together.",
+      "quote": "Jerry, that was superheated water, nothing could live in that.",
       "characters": [
-        "Lloyd",
-        "Todd",
-        "George",
-        "Nurse"
+        "Elaine",
+        "Lou",
+        "Kramer",
+        "Steinbrenner"
       ],
-      "correctAnswer": "Lloyd"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yes, yes of course. The Pensky file. Ho ho, can't wait to sink my teeth into that. Wow that Pensky. Well we'll straighten him out.",
+      "quote": "Hey, do me a favor... Some guy comes in looking for me, tell him you don't know where I am.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "The car, which we're leaving. So the net is zero. See you pocket the money, if there is any, and you get a new car.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jack",
+        "Marla"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I have known this guy since college. He doesn't do drugs.",
+      "characters": [
+        "Rachel",
+        "Elaine",
+        "Jerry",
+        "Jake"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I got everything here. I got the Cyclone F series, Hydra Jet Flow, Stockholm Superstream, you name it.",
       "characters": [
         "George",
+        "Salesman",
+        "Clerk",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "No, Elaine's got this writer friend from Finland, Rava. Her boyfriend goes to Columbia grad school, and he's suppose to do it.",
+      "characters": [
+        "George",
+        "Susan",
         "Jerry",
-        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look at where we are!  He's not stopping! He just keeps going and going and going!  We're not in the first row?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey! Watch it! Did you see that guy? He just gave me the finger!",
+      "quote": "I am, but that is not the point. You are thirteen, and I am in my early... 20s.",
       "characters": [
         "Elaine",
-        "Helen",
         "George",
-        "Jerry"
+        "Jerry",
+        "Morty"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, this looks like the thing I have. Caused by exposure to benzene, a common ingredient in metal cleaners.",
+      "quote": "Hold on a second I got another call. Hello? Yeah, he'll call you back.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ohh, is that right? Well, I have been having a little trouble with my call-waiting.",
-      "characters": [
+        "Elaine",
         "Kramer",
         "Jerry",
-        "Maryedith",
-        "George"
+        "Connie"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oooh, you're getting an air conditioner for Amy.  Amy doesn't like the temperature up here. She's a little hoooot.",
+      "quote": "Well, anything I can do to help, um...she's a wonderful girl. Very smart. Very eh...crafty.",
       "characters": [
-        "Wendy",
+        "George",
         "Elaine",
         "Newman",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "That he may be. But he's outta my life, starting in the year two-thousand. For me, the next millennium must be, Jerry-free!",
-      "characters": [
-        "Newman",
-        "Frank",
-        "Jerry",
-        "Bania"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "You know, sort of swing them, so your not lurching around like a caveman.",
-      "characters": [
-        "Morty",
-        "Newman",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Of course they're coming, they're leaving soon. If they don't come tonight they might not see us.",
-      "characters": [
-        "Clare",
-        "Frank",
-        "George",
         "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Oh No nonono I'm not a cop ...Heum... I work for the Yankees.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
       ],
       "correctAnswer": "George"
     }

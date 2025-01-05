@@ -81,9 +81,9 @@ function getNextDate(date) {
   return next_date.getUTCFullYear() + '-' + padNumber(next_date.getUTCMonth() + 1) + '-' + padNumber(next_date.getUTCDate());
 }
 
-let day = new Date('2025-01-03');
+let day = new Date('2025-01-04');
 
-for (let i = 1; i <= 1148; i++) {
+for (let i = 3; i <= 1150; i++) {
   const nextDay = getNextDate(day);
   day = new Date(nextDay);
 
@@ -111,7 +111,7 @@ for (let i = 1; i <= 1148; i++) {
     questions,
   }
 
-  const outputFilePath = path.join(__dirname, `./questions/${nextDay}-questions-and-answers.json`);
+  const outputFilePath = path.join(__dirname, `../questions/${nextDay}-questions-and-answers.json`);
   fs.writeFileSync(outputFilePath, JSON.stringify(game, null, 2));
   console.log(nextDay);
 }

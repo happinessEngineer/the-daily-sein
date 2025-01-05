@@ -1,106 +1,106 @@
 {
-  "gameNumber": 475,
+  "gameNumber": 476,
   "date": "2026-04-23",
   "questions": [
     {
-      "quote": "So, I found out who supplies the mannequins and I called 'em up.",
-      "characters": [
-        "Helen",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, it's like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh.",
+      "quote": "I have a right to be here. These are my fans. Hey you're hurting my elbow.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Pitt",
-        "Susan"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well I had to cut the gum out and I had a little trouble getting it even. So why don't you get undressed George.",
-      "characters": [
-        "Janet",
-        "Jerry",
-        "George",
-        "Helen"
-      ],
-      "correctAnswer": "Janet"
-    },
-    {
-      "quote": "Here's the book. Don't let anybody see it. Don't let anything happen to it.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No no, oh, you know what that is? I um, went claming the other day and I forgot to hose off my boots.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, you know what, I think I ran into that girl from the antique store. What's her name, Christie?",
-      "characters": [
-        "Elaine",
-        "Mickey",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Because, if I'm looking straight ahead, and something enters my field of vision, that's merely a happenstance.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Ethan",
+        "Mike",
+        "Peterman",
         "Jerry"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Deduct a minimum of two days off all expiration dates.  No meat, no leftovers, no butter.  And I cannot overstate this: No soft cheeses of any kind. Is that clear?",
+      "characters": [
+        "Jerry",
+        "Ade",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know you try to do some good. You want to be a good person but this is too much to ask.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "A drafty apartment? A... sweaterless friend? A ball-game giveaway Metlife windbreaker?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Hoyt"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yep, Alec Berg. He's got a good 'John Houseman' name. Alec Beeerg. Mr. Beeerg.",
+      "quote": "Well, at least we know the prosthetic squirrel hips work ... sorry 'bout the set.",
       "characters": [
+        "George",
         "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, we're screening that tonight at the Alex. Do you think that I could wear that to promote the theatre?",
+      "characters": [
         "Kramer",
         "George",
+        "Elaine",
+        "Tv"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Maybe I should just go anytime I get the urge like you...wherever I am. There's too much urinary freedom in this society. I'm proud to hold it in. It builds character.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Saleswoman",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Na....no ... This relationship he..he..has got to be about something and fast or I'm in very serious and weird trouble....hum What else happened?",
-      "characters": [
-        "George",
-        "Marty",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, you're better off sitting around here, reading comic books, and eating spaghetti at two in the morning..",
+      "quote": "So are you going to bring your gun?... All right, then it's settled. First date, no weapons... All right I'll see you then... Okay, bye.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Ethan",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "\"Elaine , I really don't...............pay much attention to men`s faces.\"",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well here's your chance to try the opposite. Instead of tuna salad and being intimidated by women, chicken salad and going right up to them.",
+      "characters": [
+        "Mike",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

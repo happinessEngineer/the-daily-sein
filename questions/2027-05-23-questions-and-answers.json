@@ -1,106 +1,106 @@
 {
-  "gameNumber": 870,
+  "gameNumber": 871,
   "date": "2027-05-23",
   "questions": [
     {
-      "quote": "No. So, tonight she's got tickets for that show she's been working on. The Flying Sandos Brother.",
+      "quote": "So when I saw George on the street with an 18 pound turkey and a giant box of wine, I thought: ... What a coincidence. We're just about to eat.",
       "characters": [
-        "Kramer",
         "Susan",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Listen, something just came up for Tuesday at the Dayton Civic Center. That's Ohio, Jerry.",
-      "characters": [
-        "Jerry",
-        "Katie",
-        "Mickey",
-        "Elaine"
-      ],
-      "correctAnswer": "Katie"
-    },
-    {
-      "quote": "Elaine, you are something else.  No one can ever put a label on you, huh?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Tim"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "No, it's like BO and cologne, they combine forces into some kind of strange mutant funk.",
-      "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Frank"
+        "Steve"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "yeah I mean, I mean what is my obligation here, you know we were just dating, it was probably gonna be over in a couple of weeks anyway",
+      "quote": "\"The panties your mother laid out for you\"?  What does that mean?",
       "characters": [
-        "Jerry",
-        "Bania",
+        "Elaine",
+        "Emily",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why should she like me? Who am I? Huh, there's a million people to like.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Susan"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, so, look, the cleaner said you could pick it up tonight at six.",
+      "quote": "It helps to control the direction regardless of the operator's tremors or spasticity.",
       "characters": [
-        "Jerry",
+        "Guy",
         "Kramer",
-        "Frank",
+        "Salesman",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Salesman"
     },
     {
-      "quote": "Hah, Jerry, I am so sorry. they tell me there is no way they can do it.  Is there anything else I can do for you? Anything at all. I refund your money.",
+      "quote": "I'm not really going away, I told you, I'll be back every other weekend.",
       "characters": [
-        "Milos",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Kramer",
+        "Sara",
+        "Father",
+        "George"
       ],
-      "correctAnswer": "Milos"
+      "correctAnswer": "Father"
     },
     {
-      "quote": "Two exact same watches. He tells you a week, and him a day. How could that be? Something's fishy about this.",
+      "quote": "I just wish I could figure out if this guy is trying to keep me out of Tuscany.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Morty",
-        "Kramer"
+        "George",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nodding off!... Well, I was right. He's an adulterer. And he's cheating on his wife with me!",
+      "quote": "I'm sure she would apologize if she could. Probably somebody is holding her back against every fibre in her being.",
       "characters": [
-        "George",
-        "Elaine",
+        "Jerry",
         "Kramer",
-        "Carl"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "She told me she wants--   She told me she wants me to make love to her.",
+      "characters": [
+        "Kramer",
+        "Christie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait, you can't make a call like that on your way out. You can't rush that conversation.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Harold"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Forget about Elaine. Let's just focus on us. Come on, big hug.",
+      "characters": [
+        "Ade",
+        "Elaine",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.",
+      "characters": [
+        "Ben",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

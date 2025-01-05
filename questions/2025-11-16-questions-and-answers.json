@@ -1,106 +1,106 @@
 {
-  "gameNumber": 317,
+  "gameNumber": 318,
   "date": "2025-11-16",
   "questions": [
     {
-      "quote": "Oh yeah. Every which way. Couldn't crunch the numbers. It drove me crazy.",
+      "quote": "And he's saying \" I wish I was taller\" ha ha. See? that's his complaint.",
       "characters": [
-        "George",
-        "Pitt",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Uhg. Well you hold it. Wait, uh, Damn It! I can't move it. God, I've never seen a zipper so stubborn. DAMN IT! I almost had it.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Gina",
-        "Dana"
-      ],
-      "correctAnswer": "Dana"
-    },
-    {
-      "quote": "I wish he was not in a coma. I wish he was dead. I wish I could pull the plug out from him.",
-      "characters": [
-        "Ned",
-        "Kramer",
+        "Julie",
         "Elaine",
-        "Gina"
-      ],
-      "correctAnswer": "Gina"
-    },
-    {
-      "quote": "I know, finally. But George, guess who her boss is. Duncan Meyers.",
-      "characters": [
-        "Evelyn",
         "Jerry",
-        "Elaine",
-        "Sidra"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't wanna get a movie hot dog! [in tears] I want a Papaya King hot dog!",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Kramer",
-        "Joel"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, yeah, right. I wish I had something on my mind.  So how about that Kramer, huh?",
-      "characters": [
-        "Woman",
-        "Jerry",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Actually she has a thing where she spirals her tongue around, it's like--",
+      "quote": "The trainer, George. Tell the players I'll reimburse the trainer. What's the matter with you? This is the third time I've had to repeat myself.",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "Wilhelm",
         "Kramer",
-        "Laura",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know what I'm doin'. In fact Mr. Wilhelm gave me one of those little stress dolls. All right.  Back to work.",
-      "characters": [
-        "George",
-        "Newman",
-        "Jackie",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Wilhelm"
     },
     {
-      "quote": "Listen, Joel, I don't think we should see each other anymore.",
+      "quote": "Jerry, sorry I'm late. Channel Nine is doing a piece on my show. Isn't that great? Do you hate me?",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Sally",
+        "Jimmy"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "[in a panic] Me!? But that's three seats! I can't save three seats! I told you about that guy who tore up my winter coat!",
       "characters": [
         "Elaine",
-        "George",
         "Jerry",
-        "Clerk"
+        "Newman",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And what if we go up there? What are you going to say to her?",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Stu",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You're his friend. Better that she should sleep with someone else? Some jerk that he doesn't even know?",
+      "quote": "Phil... hi. I-I know we got off to kind of a bad start. But your bird, which is lovely... by the way, made a mess on my door.",
       "characters": [
-        "Peterman",
+        "George",
+        "Bania",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't want to see this woman anymore but I haven't got the will power to throw out her number. Please, help me. Help me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Earl",
+        "Shelly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, I made up the part about the car, but the rest is true. And he hated me anyway!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Willie",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look I gotta be honest with you there's nothing here too spectacular.",
+      "characters": [
         "Jerry",
         "Kramer",
+        "Rudy",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Well, I don't know, don't ask me any more questions about jokes, Jerry, it just puts too much pressure on me.",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

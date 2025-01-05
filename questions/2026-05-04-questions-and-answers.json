@@ -1,104 +1,104 @@
 {
-  "gameNumber": 486,
+  "gameNumber": 487,
   "date": "2026-05-04",
   "questions": [
     {
-      "quote": "I've never seen him in Manhattan before; it's weird. So out of context.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Chiles",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "George, I'll tell you what I'd like you to do. I, I'd like you to drop everything.",
+      "quote": "...yeah, my wife started getting on me about the lawn today. I'm tellin' you, it's one thing after another.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Wilhelm",
-        "George"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "And, to be perfectly frank, I've always felt I could use some support. I know, when I'm wearing Banlon, there appears to be some jiggling.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Farkus",
-        "George"
-      ],
-      "correctAnswer": "Farkus"
-    },
-    {
-      "quote": "Well, it was very nice meeting you Shelly and Jerry be careful, there's a lot of nuts out there.  All right you have everything?",
-      "characters": [
-        "George",
+        "Jodi",
         "Peterman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah. You get a couch. I get rid of my father. It couldn't be more perfect!",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Morty",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hello? Oh, hi honey.  Yes, I told him. I'll get it.  Whenever. Okay, I'm sorry...",
+      "quote": "Talk - call him from your house.  He's calling you now.. okay.",
       "characters": [
-        "Elaine",
-        "George",
         "Jerry",
-        "Jack"
+        "Elaine",
+        "Nina",
+        "Joel"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So Mr. Costanza parked in a handicapped spot, and as a result you got in an accident, and your wheelchair was destroyed?",
+      "quote": "Why? It didn't mean anything. I was just trying to join in so you wouldn't feel embarrassed.",
       "characters": [
         "Jerry",
-        "Hoyt",
-        "Elaine",
-        "George"
+        "Frank",
+        "George",
+        "Jodi"
       ],
-      "correctAnswer": "Hoyt"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "See, look at this.  Rachel, my T-shirt shrunk. It used to be much bigger, and now it shrunk. You see, that's what water does. It shrinks things.",
+      "quote": "Alright. I just hope I can get it to the Friars Club before the show.",
       "characters": [
-        "Susan",
-        "Helena",
+        "George",
+        "Bania",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great. Uh, you know what? Why don't you put it in the car so I don't toss it in that dumpster?",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Are you?  Lemme ask you something.  Where do you get your material?",
+      "characters": [
+        "Guy",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "You just had to go lookin' for it, didn't you? See, you hate it that I have a little secret. Anything I do -- oooh, oooh! -- you gotta know all about it. You're so OBSESSED with me.",
+      "characters": [
+        "Kramer",
+        "Jerry",
         "George",
         "Elaine"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't wanna mix in everything! My guys don't know your guys. You can't just lock 'em all in the same machine together. They'll start a riot.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did you ever see her lose her temper. I was once late cause I bought a Panama hat -- she grabbed it by the brim, pulled it down so hard my head came right through the top of it.",
+      "characters": [
+        "Jackie",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well this situation is driving me crazy. He's all I think about. I can't get him out of my mind.",
+      "quote": "But wouldn't that be the ultimate comedian's revenge? I've always had a fantasy about doing that.",
       "characters": [
+        "Kramer",
         "George",
         "Elaine",
-        "Dan",
-        "Rebecca"
-      ],
-      "correctAnswer": "Dan"
-    },
-    {
-      "quote": "So you think you're not gonna get the job because your pants make a noise?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "Steinbrenner"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

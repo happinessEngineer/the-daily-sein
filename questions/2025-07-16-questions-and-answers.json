@@ -1,106 +1,106 @@
 {
-  "gameNumber": 194,
+  "gameNumber": 195,
   "date": "2025-07-16",
   "questions": [
     {
-      "quote": "All right, all right. All right, that's enough! Let's get back to my deal. That undercoating, that's a rip-off, isn't it, David?",
+      "quote": "Yes, George. I'm kind of wondering myself. What is it what you want?",
       "characters": [
-        "Deena",
-        "Kramer",
-        "Vivian",
-        "Jerry"
+        "Jerry",
+        "David",
+        "Elaine",
+        "Helen"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'll pay you for your time....I just ..I just need some information . How much do you want? ten....fifteen? You have change for twenty?",
+      "quote": "The question is, did you allow a space for the husband to come in with his 'God bless you'? Because as the husband, he has the right to first refusal.",
       "characters": [
-        "Enzo",
-        "Patrice",
+        "Newman",
         "Jerry",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, means that a man has come from very far away to compete in a very difficult race, he's put his faith in you, and frankly, I'm a little concerned!",
+      "quote": "Especially that big kid up in the front.  How old is he?  Hello?",
       "characters": [
         "George",
+        "Kramer",
         "Jerry",
-        "Morty",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "That is what Mr. Steinbrenner wants. He wants, everyone, ta, twirl around.",
+      "quote": "We had an incredible phone conversation. We talked for like twenty minutes. I threw away my notes in the middle of the call. You know, I thought she had a great voice timbre. Is it timbre or tamber?",
       "characters": [
-        "George",
-        "Elaine",
         "Peterman",
-        "Nina"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know what? We sell this thing at Peterman that would be perfect for you.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Phil",
-        "Enzo"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Do we have a chance? You get me one coffee drinker on that jury, you gonna walk outta there a rich man.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Jackie",
-        "George"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Ah! Health's not good enough. I want more than health. Health's not doing it for me anymore. I'm sick of health.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I can't believe I'm having trouble getting rid of Super Bowl tickets.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Salesman",
-        "Izzy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, let's just examine the situation for a second.  Who, in this situation, would be more likely to make a mistake?  Me, who had access to my wallet, knew exactly what was in there?  Or you--",
-      "characters": [
-        "Newman",
         "George",
-        "Joel",
-        "Emily"
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "If it attached itself to you, then... Oh, my God! That's why Carl said he had to get up early! Because I stink! Jerry, he thinks I have B.O.! Me!",
+      "quote": "You know George, it struck me today me that a Communistpipeline into the vast reservoir of Cuban baseball talent could be thegreatest thing ever to happen to this organization.",
       "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Beth",
+        "Kramer"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "This is a big thing for him. Outgoing president of the condo association.",
+      "characters": [
+        "Jerry",
+        "Karen",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You know, you see Don Matingly signed this envelope then he sent it to room 318, where it was received and signed for by manager Buck Showalter.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, sure. I mean, after all, you were almost my, uh... OK, I gotta go.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Karen",
+        "Manny"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I see many dogs on my mail route. I'll bet there's not one type of mutt or mongrel I haven't run across.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
-        "Jackie",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Only twenty-five minutes a day, and you can attach it to any doorknob.",
+      "characters": [
+        "Morty",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Morty"
     }
   ]
 }

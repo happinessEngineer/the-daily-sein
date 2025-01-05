@@ -1,106 +1,106 @@
 {
-  "gameNumber": 610,
+  "gameNumber": 611,
   "date": "2026-09-05",
   "questions": [
     {
-      "quote": "ladies and gentlemen for this evening's performance the part of Rochelle will be played by Gennice Grant.",
+      "quote": "Hey. You know, do I have a case for you guys to do on L.A. Law.",
       "characters": [
         "George",
-        "Announcer",
-        "Jerry",
-        "Elaine"
+        "Elaine",
+        "Kramer",
+        "Jackie"
       ],
-      "correctAnswer": "Announcer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'll tell ya why. Because of her pinky toe, that's why. Because Lippman felt so sorry for her, he didn't want to hurt her feelings.",
+      "quote": "If this lip reading thing works tonight do you know how incredible this is going to be? It's like having Superman for your friend.",
       "characters": [
         "Elaine",
+        "Estelle",
         "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh!  Do you know what this means, it's like working with Tolstoy!",
+      "characters": [
         "Kramer",
-        "Gary"
+        "Elaine",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, isn't that just like him?  You know, he has to be the only one who has 'em.",
+      "quote": "Yes several.. Just tell him he doesn't have to be in tomorrow before Eleven.",
       "characters": [
+        "Kramer",
+        "Bob",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "We're just talking. Is this not the greatest marketing ploy ever? If you feel good, you're supposed to take one!",
+      "characters": [
+        "Man",
+        "Newman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because the judge decreed he'd become my butler, not my friend's butler.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carol",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's lying. They're in the trunk  Now you get to sign another one.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I went too far. I over seasoned it. Men were keeling over all around me. I can still hear the retching, the screaming. I sent sixteen of my own men to the latrines that night. They were just boys.",
+      "characters": [
+        "Kramer",
+        "George",
+        "James",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "...and I brought I whole new set of cookware, and a Water Pik.",
+      "characters": [
+        "Elaine",
         "Jerry",
         "George",
-        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hi, I was just uh... I just had one little question about uh, my assignment.",
-      "characters": [
-        "Peterman",
-        "Rebecca",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The point is I'm going to be taking this lie detector test and that needle's going to be going wild.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "George, we can't show up at someone's house with Ring Dings and Pepsi.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Produce section. *Very* provocative area. A lot of melons and shapes. Everyone's squeezing and smelling... It just happened.",
-      "characters": [
-        "Newman",
-        "George",
-        "Jerry",
-        "Steve"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You would not believe what just happened. I was waiting for you and this woman was sitting at the counter.",
+      "quote": "Would you like to buy me a fat-free frozen yogurt at the store, Kramer?",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "This watch, this watch could've paid for their whole trip.  This ring, this ring is one more dinner I could've taken them out to.  Water, they need some water",
-      "characters": [
-        "Aaron",
         "George",
-        "Jerry",
-        "Lloyd"
+        "Helena",
+        "Jerry"
       ],
-      "correctAnswer": "Aaron"
-    },
-    {
-      "quote": "So if Billy had gotten your number off the AIDS walk list, you wouldn't have gone out with him?",
-      "characters": [
-        "Noel",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Helena"
     }
   ]
 }

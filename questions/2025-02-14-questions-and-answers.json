@@ -1,106 +1,106 @@
 {
-  "gameNumber": 42,
+  "gameNumber": 43,
   "date": "2025-02-14",
   "questions": [
     {
-      "quote": "I find it disorienting. Who buys an umbrella anyway? Y..you get 'em for free in the coffee shop in the metal cans.",
-      "characters": [
-        "George",
-        "Stu",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, you know, frankly, outside of a sexual relationship, I don't see the point to it. I'm not thrilled with all the handshaking either, but one step at a time.",
+      "quote": "Well, it was that woman across the street.  You know, you better be careful, buddy. She's gonna get you next.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Sara",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, Jerry, you're parking meter's about to expire. Don't get up, I've got change.",
-      "characters": [
-        "Kramer",
-        "Stan",
-        "Poppie",
-        "Ellen"
-      ],
-      "correctAnswer": "Ellen"
-    },
-    {
-      "quote": "I don't know it was weird. Crazy printing. I don't know who it was from.",
-      "characters": [
-        "Noel",
-        "Kramer",
+        "Frank",
         "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, Kramer told us all about your business venture together.",
+      "quote": "It was outrageous. And she's the heir to the O'Henry candy bar fortune.",
       "characters": [
         "Elaine",
-        "Joyce",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Saw it? I loved it! And thank you for the free tickets. You are so funny.",
-      "characters": [
         "Jerry",
-        "Sally",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Sally"
-    },
-    {
-      "quote": "He only works three hours a day. He makes a fortune. Course he's been doing that for years, right Jerry?",
-      "characters": [
-        "Kramer",
-        "Elaine",
         "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "There you are, Elaine. Go forth, and create.  And, by the way, when you get to that chapter about my romantic escapades - feel free to toss yourself in the mix.",
+      "quote": "…See, Steinbrenner is like the first guy in, at the crack of dawn.  He sees my car, he figures I'm the first guy in…",
       "characters": [
-        "Peterman",
-        "Elaine",
-        "Tim",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Look, I am under direct orders from Mr Wilhelm. So if you have a problem with that, maybe you should just take it up with him.",
-      "characters": [
-        "Morty",
+        "Doctor",
         "Jerry",
-        "Kramer",
+        "Jack",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, the engine clotted. You know who set this whole thing up for me? Frank Merman.",
+      "quote": "You know, because I love the foot. I'm a big fan of the foot.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Melissa",
-        "Frank"
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Let's just try, an' have a nice time for once, an' we'll talk about this when we get home..",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Elaine",
+        "Gino"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got to pay this Todd Gack guy $300 bucks just so he has some excuse to see Elaine again without asking her out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't think you will. As a matter of fact I'll save you the trouble. I'll do it myself.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He LOST IT! We almost came to blows. We were face to face like a manager and an umpire like this . . kara a pukka ba ya ka ba . . .",
+      "characters": [
+        "Elaine",
+        "Darren",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, I insist. I was the one who encouraged you to fire her - the whole thing was all my-",
+      "characters": [
+        "Jerry",
+        "Pam",
+        "James",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What, are you, nuts? You're gonna spend more on the ticket than you're gonna get back from Grossbard.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Daphne",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

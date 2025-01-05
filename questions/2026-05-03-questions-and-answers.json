@@ -1,106 +1,106 @@
 {
-  "gameNumber": 485,
+  "gameNumber": 486,
   "date": "2026-05-03",
   "questions": [
     {
-      "quote": "Hey, hey, let's not get so defensive here. This is a give and take process.",
+      "quote": "I ran out of butter so I had to borrow yours. Anything else, Mr. Nosy?",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Conrad"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I mean, now she thinks that I'm one of these guys that love her. Nobody wants to be with somebody that loves them.",
-      "characters": [
-        "George",
-        "Newman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, uh, hi. I'm Wanda Pepper, I'm Albert Pepper's daughter. My father asked me to come here and pick up his jacket for him.",
-      "characters": [
-        "Attendant",
         "George",
         "Kramer",
         "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I was at Bloomingdale's... waiting for the shower to heat up.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "How do you like working there at the .... hum...Andover shop? I mean it's a pretty swanky upscale clientele.",
+      "quote": "You sure you don't want me to take my clothes off?  I'll do it!",
       "characters": [
-        "Elaine",
-        "Father",
         "Kramer",
+        "Jerry",
+        "Jimmy",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "ARe you kidding? Lincoln Center. Alice Tully Hall, the Met. Magnificent facilities.",
+      "quote": "He was in Chicago, the flight was overbooked, wouldn't let him on the plane. He kept screaming how he had to get to Madison Square Garden.",
       "characters": [
-        "George",
+        "Doctor",
         "Kramer",
-        "Elaine",
+        "George",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Check it out, from the new issue of the New Yorker...huh!...Funny isn't it?  Look at it, the pig wants to be taller and what's this guy gonna say?.. he he...Nothin'..he he.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What about Harrison Ford? He had one in, uh, Blade Runner. That was a cool one.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Kimbrough",
-        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, you cancelled on Tuesday, and our policy is \"twenty-four hours notice, for all cancellations\".",
+      "quote": "I know. Somebody around here has been giving Wilhelm the impression that I have been slacking off.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Receptionist"
-      ],
-      "correctAnswer": "Receptionist"
-    },
-    {
-      "quote": "Oh..  I got denim vest checking me out.  Fake phone number's coming out tonight.",
-      "characters": [
-        "Elaine",
+        "Morgan",
         "Jerry",
-        "Karen",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Morgan"
     },
     {
-      "quote": "All this? This whole thing? It's going to take me forty-five minutes.",
+      "quote": "No, no. That's from, uh, Star Trek III... The Search for Spock.",
       "characters": [
-        "Morty",
-        "Elaine",
-        "Gina",
-        "Kramer"
+        "Kramer",
+        "Newman",
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ladies and gentlemen, may I have your attention, please? Would Joel Rifkin report to the stadium office. Joel Rifkin...telephone.",
+      "characters": [
+        "Announcer",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "So you're so grateful to have sex, that you'll just shout out anything that comes into your head.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "And I was looking good, too. I had a nice, new shirt on, I'm wearing *your* jacket...",
+      "characters": [
+        "Donald",
+        "George",
+        "Kramer",
+        "Lou"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Since when do you know how to write? I never saw you write anything.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Officer",
+        "Frank"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

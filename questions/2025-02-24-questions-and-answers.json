@@ -1,106 +1,106 @@
 {
-  "gameNumber": 52,
+  "gameNumber": 53,
   "date": "2025-02-24",
   "questions": [
     {
-      "quote": "Hey that's life. Good-looking men have the same advantages. You don't see any handsome homeless.",
+      "quote": "Well you know, these sneakers, they belong to my neighbor, Jerry Seinfeld? The comedian.",
       "characters": [
-        "Manager",
-        "Jerry",
-        "Hal",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, if I hear an anguished \"oink\", I'm outta here. I-I don't see any pig-men. Look  Human, human, human...   Wait a second!",
-      "characters": [
-        "Leo",
         "Kramer",
+        "Newman",
         "George",
-        "Jerry"
+        "Carol"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "No no, there's nothing wrong with her nose! I'm so sorry, Audrey.",
+      "quote": "Brett said you ran away from him, as if he were the boogetyman.",
       "characters": [
-        "Marcy",
-        "Elaine",
         "George",
+        "Kramer",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What can I say, you know? It's a gift. I only wish I could teach it but, you know it's inborn.",
+      "quote": "Yep, and the photo was all fixed and back on his desk, no thanks to you.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "George",
-        "Rabbi"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry? It was incredible! Models! As far as the eye could see!",
-      "characters": [
         "Jerry",
-        "George",
-        "Morty",
-        "Babu"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, hey! Get back over here! Kramer! Get over here! You are bad! Bad neighbor! Kramer!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, yeah. Speaking of crazy, did you hear about Lloyd Braun?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Mickey",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I'll do it as long as there's no other girls around. I mean, I wanna be a man too.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
+        "Karen",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I enjoy the challenge of medicine. Naturally you have no idea what it's like to have someone's life depending on you.",
+      "quote": "I don't think I could do it. You know, they always remember the first time. I don't want to be remembered. I wanna be forgotten.",
       "characters": [
-        "Brody",
+        "Sid",
+        "Elaine",
+        "Rick",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"If anybody here knows anything about it I recommend strongly that...you come forward.\"",
+      "characters": [
+        "Jerry",
+        "Babu",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "I just can't believe at the way people are. What is it with humanity? What kind of a world do we live in?",
+      "characters": [
         "George",
         "Jerry",
-        "Sara"
+        "Kramer",
+        "Ray"
       ],
-      "correctAnswer": "Sara"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Now listen Roy, tell me something. When, are you gettin' out of here?",
+      "quote": "So we order lunch, and we're talking. Finally, she blurts out how it's 'not working'.",
       "characters": [
-        "Elaine",
-        "Morty",
-        "Ron",
-        "Jerry"
+        "Dwayne",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. What are we looking at here? Is this guy like a real loser?",
+      "characters": [
+        "Kramer",
+        "Tim",
+        "George",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Look, I find this whole thing very uninteresting. When you get the coats come in.",
+      "characters": [
+        "Rudy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Rudy"
+    },
+    {
+      "quote": "Well, it's a delicate mechanism - It, you know, needs lots of packaging.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

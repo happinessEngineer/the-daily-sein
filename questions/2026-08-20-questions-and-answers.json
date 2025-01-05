@@ -1,106 +1,106 @@
 {
-  "gameNumber": 594,
+  "gameNumber": 595,
   "date": "2026-08-20",
   "questions": [
     {
-      "quote": "I once told a woman that I really enjoy spending time with my family.",
+      "quote": "Sure, well uh, you know I'll check in with you next week uh, I gotta run now because I got a full plate this afternoon. All right, really go to uh,.",
       "characters": [
-        "Kramer",
-        "Detective",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, about how you're very jealous of George. How you wished it was you who were getting married instead of him.",
-      "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Steven"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, well, look at you. It?s a little skimpy there isn't it?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "Maestro"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, just take off those pants now, and I'll work the hamstring.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Raymond",
-        "Jackie"
-      ],
-      "correctAnswer": "Raymond"
-    },
-    {
-      "quote": "I don't know. I just worry about trips like this. It's a lot of pressure.",
-      "characters": [
-        "Vanessa",
-        "Tim",
-        "Jerry",
-        "Sid"
-      ],
-      "correctAnswer": "Vanessa"
-    },
-    {
-      "quote": "Uh, heading out. Jerry really hates to miss the coming attractions.",
-      "characters": [
-        "Lippman",
-        "Kramer",
-        "George",
+        "Morty",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright, I said I had a good time and I'd call, but who takes that literally?",
+      "quote": "Lemme tell you sum'in. When Ponce looked in that mirror and saw that he hadn't changed, and that tear started to roll down his cheek? ... I lost it.",
       "characters": [
+        "Elaine",
+        "Anna",
         "Jerry",
-        "Kramer",
-        "George",
-        "Estelle"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well. Sounds like things are progressing. Do I hear, wedding bells?",
+      "quote": "Hey. NBC limo is downstairs - beep beep beep. {NBC tune} I'm just going to call Jill one more time before we go.",
+      "characters": [
+        "Elaine",
+        "Karen",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Excuse me, uh I couldn't help but notice that you were looking in my direction.",
+      "characters": [
+        "Kramer",
+        "Manager",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well... now I know this sounds touristy, but I'd just love to go on one of those five-hour boat rides around Manhattan.",
+      "characters": [
+        "George",
+        "Receptionist",
+        "Elaine",
+        "Laura"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "All right. Okay, tell me what you think about this idea: Extend the doors on the toilet stalls at Yankee Stadium all the way to the floor.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs.",
       "characters": [
         "Elaine",
         "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Maybe I'll stick around and see what she's wearing today. Or not wearing, if you know what I mean.",
-      "characters": [
-        "Lloyd",
-        "George",
-        "Pop",
-        "Audrey"
-      ],
-      "correctAnswer": "Lloyd"
-    },
-    {
-      "quote": "Uh, well, you know, a coffee grinder is nice. Or a coffee maker. Everyone likes coffee. Anything to do with coffee. Maybe you should go get some coffee.",
-      "characters": [
         "Morty",
-        "Jerry",
-        "Steinbrenner",
-        "Tim"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't you think I know the difference between a pick and a scratch?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright. I guess I just have to pick myself up, dust myself off, and throw myself right back down again!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So Elaine... Where are we going for our big dinner on Friday?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Roy",
+        "Elaine"
+      ],
+      "correctAnswer": "Roy"
     }
   ]
 }

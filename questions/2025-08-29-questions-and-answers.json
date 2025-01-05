@@ -1,106 +1,106 @@
 {
-  "gameNumber": 238,
+  "gameNumber": 239,
   "date": "2025-08-29",
   "questions": [
     {
-      "quote": "Each crepe has to be hand-rolled by a Mandelbaum. That's what puts the magic in Magic Pan!",
-      "characters": [
-        "Elaine",
-        "Karen",
-        "Newman",
-        "Izzy"
-      ],
-      "correctAnswer": "Izzy"
-    },
-    {
-      "quote": "No that's what he said. \"That's interesting. I love carrots, but I hate carrot soup. And I hate peas, but I love pea soup.\" So do I.",
+      "quote": "Okay. I'm just not ga-ga over her. For once I'd like to be ga-ga.",
       "characters": [
         "Elaine",
         "Jerry",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "But wouldn't you get any satisfaction out of helping someone out?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Uh,..we'll go to 3rd Avenue. So, can you come with us for lunch to the soup place?",
-      "characters": [
-        "Nina",
-        "George",
-        "Hoyt",
-        "Jerry"
+        "Poppie"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I remember saying to myself, \"Why is Jerry so far off the base?\"",
+      "quote": "Uh, heading out. Jerry really hates to miss the coming attractions.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Cop",
-        "Vandelay"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Behind the dugout, that's where we were sitting the other day.",
-      "characters": [
-        "George",
-        "Julie",
         "Kramer",
+        "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Wh..what kinda show is that Sandos Brothers? They take your jacket, then they just throw it? I never heard of that!",
+      "quote": "Oh! Modelling! What's that like? Fun? Ha ha.  Stupid! Stupid! Stupid!",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's disgusting. I'm sitting there in a tepid pool of my own filth. All kinds of microscopic parasites and organisms having sex all around me.",
+      "characters": [
+        "George",
+        "Gina",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "About the focus group? I had nothing to do with the focus group. What's your point?  My.. he's sexual, athletic.. an' without a trace of self-consciousness!",
+      "characters": [
+        "Woman",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Oh there's that clown again, what does he want from me. Look I?m serious, I?m not kidding, I don't have the quarter, that guy took it.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Susan",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm trying to get a little squirrel to come over to me here. I don't wanna make any big, sudden movements. I'll frighten him away.",
+      "quote": "S, uh, Superman - he, uh, built the fortress of solitude up at the North Pole, to, uh, you know, sort of get away from it all..",
       "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Really? I give out my number to just about every customer who comes in here.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "George",
-        "Naomi"
+        "Elaine",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Naomi"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All right, but then we gotta get some work done. Let me just call Kramer, see if want anything.  Hey, we ordering Chinese food. If you want anything--  let me know what it is and I'll order for you.",
+      "quote": "That's insulting! Ted Danson makes eight hundred thousand dollars an episode.",
       "characters": [
+        "Kramer",
+        "Bania",
         "George",
-        "Salesman",
-        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aha. Aha. Could it be because you don't want him to know that you have a friend who pees in the shower, is that it?!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Newman",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, well I wouldn't have had to get your mail if he hadn't gone to that fantasy camp.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Jerry",
+        "Morgan"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

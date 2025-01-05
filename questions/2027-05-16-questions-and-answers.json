@@ -1,106 +1,106 @@
 {
-  "gameNumber": 863,
+  "gameNumber": 864,
   "date": "2027-05-16",
   "questions": [
     {
-      "quote": "Elaine, do you know how booked up this guy is? Now, if I send him away now, it's gonna take Jerry months to get him back.. He won't like that.",
+      "quote": "What the hell do I know about cooking a shirt? What the hell is this? Your paying in pennies?",
       "characters": [
-        "Buckles",
-        "Estelle",
+        "Worker",
+        "Jerry",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Worker"
+    },
+    {
+      "quote": "So what's the great moment? You're on your death bed, they're pounding on your chest - and you're going 10, 9, 8,.. I told you this thing was good!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I thought you said people dress up when they go to the opera!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I taught 'em all about Cuba, and they really took to it. You know, Marxism, the Worker's Revolution, the clothing.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Glenn",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, I tried. they don't know anything.  You gotta put the syrup in first.",
+      "quote": "How 'bout that, huh? The World's Greatest Dad. My son made it for me.",
       "characters": [
         "Jerry",
-        "George",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What do I do? Well actually, I'm a writer. In fact, I'm writing a comedy pilot for NBC right now.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, you know you're not any help at all here. I don't know what even the point is of talking to you anymore.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Peggy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, I guess. But the really cool thing is the daily planner.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Daphne"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh yeah? What if you got ten car lengths? You have to pull all the way up to the front car?",
-      "characters": [
-        "Mike",
-        "Peterman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Mike"
-    },
-    {
-      "quote": "Well, there's one way to check. Where there's Chinese food, there's leftovers.",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Steven",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, as you can see the comforter I expensed is actually the Aristotle goose down tunic.  What do you think?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Susan",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right, let me ask you this: when she comes over, you're cleaning up a lot?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Rudy",
+        "Izzy",
         "George"
       ],
+      "correctAnswer": "Izzy"
+    },
+    {
+      "quote": "Jerry, I think I'm on to something. I think I found your stuff. You know the Englishman who lives down the hall?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "C'mon Morty, it's been broken for six months already. What the hell are you doing?",
+      "characters": [
+        "Anna",
+        "Herb",
+        "Rebecca",
+        "Jerry"
+      ],
+      "correctAnswer": "Herb"
+    },
+    {
+      "quote": "There's a mechanism. You just pull it, and throw your body weight.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I got fifty right here in the cupboard. How about Bisquik? Pimento. Gherkin. Sauce. Maxwell House.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Woman"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No Babu! No Babu! You bad man! You very bad man! You very lazy bad man!",
+      "quote": "My dad was a collector. I inherited them after he died from a long painful bout with…",
       "characters": [
-        "Babu",
-        "Jerry",
-        "Frank",
-        "Kramer"
+        "Celia",
+        "George",
+        "Kramer",
+        "Lippman"
       ],
-      "correctAnswer": "Babu"
+      "correctAnswer": "Celia"
     }
   ]
 }

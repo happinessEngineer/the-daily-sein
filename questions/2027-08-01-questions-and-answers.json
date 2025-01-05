@@ -1,106 +1,106 @@
 {
-  "gameNumber": 940,
+  "gameNumber": 941,
   "date": "2027-08-01",
   "questions": [
     {
-      "quote": "Now listen to me you little quack, There was a half man, half pig in that room over there. Now where is he?! Where is he?!",
+      "quote": "If you got into a car accident, I can guarantee you I wouldn't stop for Jujyfruit!",
       "characters": [
         "Kramer",
+        "Jake",
         "Jerry",
-        "Vandelay",
-        "George"
+        "Peterman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jake"
     },
     {
-      "quote": "Come on. I don't want to tag along with George and Susan. If you're there it'll be a better group.",
+      "quote": "Why don't you talk to her about how there's nothing to talk about?",
       "characters": [
-        "Harold",
+        "Jerry",
+        "George",
         "Frank",
-        "Jerry",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No no no no. Go to that place on the corner, they'll change the prescription in an hour. Take 'em.",
+      "quote": "And she was beautiful in that bra!  I'm crazy about her!  I love her whole free swinging, free wheeling attitude!",
       "characters": [
+        "David",
+        "Sheila",
         "Elaine",
-        "George",
-        "Jerry",
-        "Pam"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "The prop comic?  Oh, hi...I didn't recognize you, what...did you get a haircut?",
+      "quote": "I'm working on my Jack Nicholson, You can't handle the truth!",
       "characters": [
-        "Kramer",
-        "Puddy",
+        "George",
         "Jerry",
-        "George"
+        "Kramer",
+        "Kevin"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I know it sounds pretty glamorous, but it's business as usual at Kramerica.",
+      "quote": "Kramer says you need it because you're an entertainer and you're desperate for attention.",
+      "characters": [
+        "Willie",
+        "Silvio",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "She stole twenty dollars from me.  Yeah, I might've gotten it back, but Lloyd Braun interfered!",
       "characters": [
         "George",
-        "Morty",
+        "Kramer",
         "Jerry",
+        "Doctor"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Excuse me, could you tell me where I could find, like, women's moisturizer lotions?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, no, see, my friend already bought me a ticket. I'm late, and she's inside.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well there's really no point in me staying. I mean you just gonna be...",
+      "quote": "No no it's ok.  So we'll go see Schindler's List later right?",
       "characters": [
         "Jerry",
-        "Cheryl",
-        "Elaine",
-        "Mel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What am I scared of? I'm scared of the same thing that you are, everything! Why don't you just use your own name?",
-      "characters": [
-        "George",
         "Kramer",
-        "Elaine",
-        "Daphne"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "And the worst part of course is that she also possessed many of the other qualities prized by the Superficial Man.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Hanke"
+        "Newman",
+        "Wyck"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate.",
+      "quote": "Well, I didn't catch his name, but then he went running into the park.",
       "characters": [
-        "Peterman",
+        "Elaine",
         "George",
-        "Heather",
+        "Newman",
         "Kramer"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Kramer"
     }
   ]
 }

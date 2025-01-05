@@ -1,102 +1,102 @@
 {
-  "gameNumber": 410,
+  "gameNumber": 411,
   "date": "2026-02-17",
   "questions": [
     {
-      "quote": "And if you're ever in the city, you know, you want to come to a comedy club, whatever.",
+      "quote": "So you're driving in the car, you're with your friend, minding your own business?",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
+        "Jackie",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Uh. Ah, if you don't mind my asking, could you tell me where you got your glasses?",
+      "characters": [
+        "Debby",
+        "Salesman",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Well, count me out. I'm swimmin'. Old man Leland is bustin' my hump over these reports. If I don't get 'em done by nine, I'm toast.. )",
+      "quote": "Yeah. You know we shouldn't have bowled that last game, I'm gonna be late.",
       "characters": [
-        "Earl",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I went to the movies last night, I went to the bathroom and I unbuckled a little wobbly and the buckle kind of banged against the side of the urinal. So… that's it!",
-      "characters": [
-        "Jerry",
-        "Valerie",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ah. You see, the man who was the butler, uh, had gotten into a car accident with Jerry, and because he didn't have any insurance, the judge decreed that the man become Jerry's butler.",
-      "characters": [
-        "Kramer",
+        "Joe",
         "Elaine",
         "Jerry",
         "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Boy, it's hard to believe - with all that biting experience - a person could still make a mistake like that.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "K-uger, that sounds like one of those old-time car horns, huh? K-uger! K-uger!",
+      "characters": [
+        "Hal",
+        "Kruger",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "No, listen; we are always sitting here, I am always helping you with your girl problems and you are helping me with my girl problems. Where do we end up?",
+      "characters": [
+        "Helen",
+        "George",
+        "Estelle",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, yeah all right, well uh ... tell you what I will do Bania -- you give me the ticket, and uh, I will take you out for a nice dinner.",
+      "quote": "Kramer, you can't live down here. This is where people come to die.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Susan",
-        "Kramer"
+        "Kramer",
+        "Marty",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh my God! I'm sorry, I thought this was the baby's room. I'm really sorry.",
+      "quote": "Saw it? I loved it! And thank you for the free tickets. You are so funny.",
       "characters": [
         "George",
-        "Jerry",
-        "Rachel",
-        "Rick"
+        "Sally",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Rachel"
+      "correctAnswer": "Sally"
     },
     {
-      "quote": "Pardon me, I went to see your friend Dwayne... there was no discount.",
+      "quote": "Now I gotta take the car down to Tony and get it checked out.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Morty",
+        "Kramer",
+        "Ray",
         "George"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright. Next thing on the agenda, the restoration of the fence at the Briarwood gate. At the present time, we are still accepting bids.",
-      "characters": [
-        "Maestro",
-        "Elaine",
-        "Morty",
-        "Bob"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "There's nothing pleasant about it, so lets just cut the crap.. You gave me fleas. I know it and you know it..",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "How can I not think about it? Look at the size of this thing.",
+      "quote": "Nothing It's not you. It's me. I have a fear of commitment. I don't know how to love.",
       "characters": [
-        "Morty",
-        "Morgan",
+        "Elaine",
+        "Kramer",
         "Jerry",
         "George"
       ],

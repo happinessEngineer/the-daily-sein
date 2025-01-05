@@ -1,106 +1,106 @@
 {
-  "gameNumber": 564,
+  "gameNumber": 565,
   "date": "2026-07-21",
   "questions": [
     {
-      "quote": "I don't even like to sit next to a man on an airplane 'cause our knees might touch.",
+      "quote": "Well, you better go down there and tell this guy. He's very excited.",
       "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Kramer"
+        "Jerry",
+        "Elaine",
+        "Ken"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, I think the guy in the shower opposite saw me. He gave me a dirty look.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Doctor"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "\"Jimmy's got a record. Jimmy's jumping for dollars. Jimmt and George are gonna get rich.\"",
+      "quote": "George, wait, you don't know who this guy is, people kill for a parking space in this city.",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "Receptionist",
+        "Estelle",
         "George",
-        "Hanke"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Technically, you're sautéed. So, what are you doing for that?",
-      "characters": [
-        "Carol",
-        "Jerry",
-        "Jackie",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you know, I really like this girl and I, you know, I think if I could just work out this one thing...",
+      "quote": "Oh, Jerry, this is a piece of junk.  How are you gonna be the executor of my living will?",
       "characters": [
         "Elaine",
         "Kramer",
-        "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well then we saw this woman, and she was wearing a bra with no top.",
-      "characters": [
-        "Kramer",
-        "Elaine",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So lemme get this straight: you find yourself in the kitchen. You see an éclair, in the receptacle. And you think to yourself, \"What the hell, I'll just eat some trash.\"",
+      "quote": "Do you hear what you're saying? God isn't out to get you George. What... What is that on your lip?",
       "characters": [
-        "Morty",
+        "Dana",
+        "Elaine",
+        "Stan",
+        "Kramer"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...",
+      "characters": [
+        "Newman",
+        "Stu",
+        "Jimmy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? What happened to your face? It looks like an old catcher's mitt.",
+      "characters": [
+        "Elaine",
         "Jerry",
-        "George",
-        "Corinne"
+        "Kevin",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Boy can you think of what went through my mind when I saw there wasn't going to be enough room under that desk for me and my babies.",
-      "characters": [
-        "Donna",
-        "Steinbrenner",
-        "Jerry",
-        "Tawni"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "I'm alone, and it's my second day. You know, I don't even think we have that flavor so... George, really, enough, ok? You know, I-I admitted I was wrong, so what more do you want from me?",
-      "characters": [
-        "Ade",
-        "Elaine",
-        "George",
-        "Hanke"
-      ],
-      "correctAnswer": "Hanke"
-    },
-    {
-      "quote": "The Dewey Decimal System, what a scam that was. Boy that Dewey guy really cleaned up on that deal.",
-      "characters": [
-        "Elaine",
-        "Peterman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You very very good man, you do everything for me. My family and I can never thank you enough for everything you do.",
+      "quote": "We don't want anything to happen to you Mr. Pitt. We want you to live a long, long time.",
       "characters": [
         "George",
-        "Jerry",
-        "Elaine",
-        "Babu"
+        "Jane",
+        "Kate",
+        "Elaine"
       ],
-      "correctAnswer": "Babu"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen, listen, don't get worked up, 'cause you're gonna know the whole story the minute she steps off the plane.",
+      "characters": [
+        "Kramer",
+        "Tv",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, how ya doin'? Y'know I got that reporter from the newspaper on the other line.",
+      "characters": [
+        "Jerry",
+        "Jeannie",
+        "George",
+        "Sophie"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

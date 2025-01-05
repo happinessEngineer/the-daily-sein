@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1049,
+  "gameNumber": 1050,
   "date": "2027-11-18",
   "questions": [
     {
-      "quote": "Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.",
+      "quote": "They're all off the project. They were boring. George, you are my main man.",
       "characters": [
-        "Mike",
         "George",
-        "Kramer",
-        "Jerry"
+        "Mickey",
+        "Jerry",
+        "Kruger"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kruger"
     },
     {
-      "quote": "Did you here that? I can't believe this he's eating his sandwich.",
+      "quote": "Oh, he's come up with some other move. You should see this thing.",
       "characters": [
-        "George",
-        "Kramer",
+        "Elaine",
         "Morty",
+        "Hal",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The government is very touchy about us being in the air. Let us run around on the ground as much as we want. Anything in the air is a big production.",
-      "characters": [
-        "Ned",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I will never understand the bathrooms in this country. Why is it that the doors on the stalls do not come all the way down to the floor?",
-      "characters": [
-        "Doctor",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, a coffee table book about coffee tables!  How did you come up with this idea?",
-      "characters": [
-        "Kramer",
-        "Toby",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Toby"
-    },
-    {
-      "quote": "See, right here you wrote \"Myra had the baby\", but you didn't use an exclamation point.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Mohel",
-        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Who's off the street? I'm in the raincoat business for thirty-five years.",
+      "quote": "Whoever wants to move them, why do I care who moves them? They can move themselves if they want.",
       "characters": [
-        "Morty",
-        "Mohel",
+        "Jerry",
+        "Sid",
         "George",
+        "Frank"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "I got no A/C and I gotta keep the blood cold or it'll go bad.",
+      "characters": [
+        "Kramer",
+        "Audrey",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey. Super's in my bathroom changing my shower head. Have they changed your shower head?",
+      "characters": [
+        "Kramer",
+        "Jackie",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer, these people work and wait their whole lives to move down here, sit in the heat, pretend it's not hot, and enforce these rules.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to go meet Nina. Want to come up to her lot, check out her paintings?",
+      "characters": [
+        "Kramer",
+        "Enzo",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because I'm like ice, buddy. When I don't like you, you've got problems.  Oh, is this for the fight?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh yeah, that's right.  Go ahead, go ahead, maybe you can run over a squirrel!",
+      "quote": "And get this - I'm working in Atlantic City this weekend, and she's going to be down there for the pageant.",
       "characters": [
+        "Ping",
+        "Kramer",
+        "Lippman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, you know, we haven't brought the Elaine character into the show yet. Umm, We should try and get her into this scene.",
+      "characters": [
+        "Chiles",
+        "George",
         "Elaine",
-        "George",
-        "Newman",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I, as your president, have to find the best price, and right now, I for one, do not think it's cost-feasible.",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "We had an arguement about me going to Hawaii, and he locked onto my ankle like it was a soup bone. I'm hubbled! I don't think I can do my route - and they're awarding the transfer in two days!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 674,
+  "gameNumber": 675,
   "date": "2026-11-08",
   "questions": [
     {
-      "quote": "Alright, look, we're pulling too much weight. He's getting away from us here.  Take the wheel.",
+      "quote": "Sex... to save the friendship.  Well, if we have to  we have to.",
       "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, it's our sense of humor that sustained us as a people for 3000 years.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tim",
+        "Man"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Mister Peterman, thanks for having me over. Your place isn't quite what I imagined..",
+      "characters": [
+        "Jerry",
+        "Phil",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Do the medical journals mention anything about standing in a pool of someone else's urine?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey that sounds great, I'd love to do some TV commercials, that should really be fun.",
+      "characters": [
+        "Jerry",
+        "George",
         "Kramer",
-        "Carol",
-        "Gina",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, don't press the panic button. I'm sure that we can still salvage some sauce..",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Get 'em up here. You give me twenty-five percent I-I'll take care of everything.",
+      "quote": "A sitcom? How can you write that crap? Carol, this guy's writing a sitcom.",
+      "characters": [
+        "Woman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Don't you know you're not supposed to poke around down there.",
       "characters": [
         "Kramer",
+        "Greg",
         "Jerry",
-        "Elaine",
-        "Peterman"
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Going to the dog pound, everybody! Going to the dog pound, come on down.  What?",
+      "quote": "I don't know, I guess it was on. I don't know my alarm sound; I'm not tuned in to it like it's my son.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "George",
+        "Wilhelm",
+        "Kramer",
         "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, if they catch two of us on TV, you got some explaining to do.",
-      "characters": [
-        "Wyck",
-        "Jerry",
-        "Kramer",
-        "Joe"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, as far as I know, he bumped his arm into a door and it's kind of got this involuntarily movement. Some sort of a  spasm. So, anyway, you're a..you're a big advisor to Dinkins, huh?",
+      "quote": "Well, nothing really, as long as we get the physical therapist to go along with our story.",
       "characters": [
         "George",
-        "Phil",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "If she want's to continue to have a fibre of her being she'll be very careful",
-      "characters": [
-        "Announcer",
-        "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Caring about how everyone at work isn't as smart as you. It's brutal.",
-      "characters": [
-        "Kramer",
-        "Puddy",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "We make all these plans - this idiot goes a hundred miles an hour - the whole weekend's over - incredible - just like that -",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, that's it. They have gone too far. They keep pushing me, and pushing me. Now I got no choice but to go down there... and talk to them.",
-      "characters": [
-        "Elaine",
-        "Joe",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I change the 32 waist on the label to a 31 on all my jeans. So, you know. That's it.",
-      "characters": [
-        "Karen",
         "Kramer",
         "Jerry",
-        "George"
+        "Roy"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Roy"
     }
   ]
 }

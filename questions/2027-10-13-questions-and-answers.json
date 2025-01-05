@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1013,
+  "gameNumber": 1014,
   "date": "2027-10-13",
   "questions": [
     {
-      "quote": "Oh no no no no, don't say anything to Kramer. Susan can't stand him. He vomited all over her.",
+      "quote": "Yeah. Newman raves about it. It's on his mail route. He goes by there everyday.",
       "characters": [
-        "Newman",
         "Elaine",
         "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So are you telling me there's not one house to rent in all of Tuscany?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Lippman",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What if he's waiting for me outside? He pointed at me! Did you see him point?!",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "Carol",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm feelin' a bit queasy myself. Maybe I'll see you in another five years.",
+      "quote": "This guy's got quite a racket. I take you to dinner and then drop you off at his apartment...",
       "characters": [
         "Kramer",
+        "Carol",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How did you get the goop out of the top of the dishwashing liquid? It was like a brand-new nozzle!",
+      "characters": [
+        "Morty",
+        "George",
+        "Doctor",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ovaltine. Have you ever had this stuff? Why is it called Ovaltine?",
+      "characters": [
+        "Kramer",
         "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm laying down! Then we'll see how he does up there, without all the assistance.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Maestro",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "A half hour then diving class started. Well… that got a little messy. I gotta find a new place to swim 'cause that pooll can't hold me, Jerry.",
+      "quote": "Alright, she's free.  Hi, I called before, uh, my car got smashed.",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Frank, this new holiday of yours is scratching me right where I itch.",
-      "characters": [
-        "Kramer",
-        "Jimmy",
-        "George",
-        "Morgan"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So we got an attractive woman, wearing a bra, no top, walkin' around in broad daylight.  She's flouting society's conventions!",
-      "characters": [
-        "Elaine",
         "Jackie",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "I'll make time, because Abby, I was once like you; wide-eyed, naive, I didn't know the first thing about a subject as fundamental as risk management.",
-      "characters": [
-        "Nina",
         "Elaine",
-        "George",
-        "Kramer"
+        "Morty"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You'll be fine as long as it doesn't hit you right in the pupil, 'Cause then the whole ball will go up like the Death Star. Tchoo! I gotta go find a bathroom.",
+      "quote": "He thinks that if a woman sees a guy put on a better show, she'll walk out on his show, go see the other show.",
       "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, Danielle,  we should get going. I got a key made for you.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I tried! I almost threw it down the incinerator, but I couldn't do it. The guilt was too overwhelming.  Susan's so attached to this thing.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Newman",
+        "Tim",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ya, we've been trying to reunite Joey with his father who lives in Paris. But he's afraid to fly alone, you know he's kinda withdrawn, but he seems to take to you.  So it's a perfect solution.",
+      "quote": "It failed here! Because, here, every time you turn on a TV, all you see is four morons sitting round an apartment, whining about their dates!",
       "characters": [
-        "Corinne",
-        "Alec",
-        "Jimmy",
-        "Elaine"
+        "George",
+        "Kramer",
+        "Sally",
+        "Estelle"
       ],
-      "correctAnswer": "Alec"
+      "correctAnswer": "George"
     }
   ]
 }

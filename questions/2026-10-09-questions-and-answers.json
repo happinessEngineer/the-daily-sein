@@ -1,104 +1,104 @@
 {
-  "gameNumber": 644,
+  "gameNumber": 645,
   "date": "2026-10-09",
   "questions": [
     {
-      "quote": "My number? Ohh..  Okay.. Uh, well, there you go.  And, uh, tell you what..  put a sawbuck on Captain Nemo in the third at Belmont.",
+      "quote": "I don't need a reason to give gifts, it's my nature. I love to make people happy.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Bania",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well once he gets married that's it, she'll probably get pregnant, they'll move to Westchester. I'll never see him again.",
+      "characters": [
+        "Brett",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you should just go back to the optical store and ask Dwayne if he knows the name of the owner of the dog.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So I guess I'll have to buy him a new coat, even though I don't think I should be held responsible, which I am anyway.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bonnie",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, Kevin. If I don't want children, does that make me a bad humanitarian?",
+      "characters": [
+        "Wyck",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, hello is this Allied Lock Smith?! Oh, finally, listen I need someone to come over here right away!",
+      "characters": [
+        "Landlord",
+        "Elaine",
+        "Tv",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright then, I guess I can accept a little Jerry, if it gets me a  lot of Elaine.",
       "characters": [
         "Newman",
-        "Elaine",
-        "George",
-        "Hanke"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Like a \"Hey your mother is uglier than Hazel. Hazel really puts your mother to shame\"",
-      "characters": [
         "Kramer",
-        "Mickey",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I know I know. I didn't have change for the bus and they don't give change in this city. So they threw me off the bus",
-      "characters": [
-        "Elaine",
-        "Pam",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, yeah, yeah. But then, I said to him, 'Oh yeah? Well, the jerk store called, and they're running outta you.'",
-      "characters": [
-        "George",
-        "Helena",
         "Frank",
-        "Peterman"
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "They just don't like me. It's a long story. I can tell you one day but I can't tell you right now.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because I like this one!  C'mon, let's go. Let's go!  Oh, hi..",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Susan",
+        "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well didn't you hear that person laughing? I couldn't play. I was *humiliated...",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "George",
-        "Noel"
-      ],
-      "correctAnswer": "Noel"
-    },
-    {
-      "quote": "Hey Marge, you see those two people over there? They think I'm talking to you, so you pretend like you're talking to me, okay now you start talking.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "...'s very emasculating, he doesn't know the nature of our relationship. You're there approving new clothes.....That's a girlfriend job! How dare he!!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "John"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hi, Sidra. I usually last about ten minutes on a Stairmaster. Unless of course there's someone stretching in front of me in a leotard, then I can go an hour.",
-      "characters": [
-        "Puddy",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I guess I have to bring his car back up to the stadium, if it can make it.",
+      "quote": "No-no-no, Kramer. Kramer! Kramer! You *cannot* abandon people in the middle of an airport pickup! It's a binding social contract. We... we must go forward... not back.",
       "characters": [
         "George",
-        "Elaine",
+        "Gary",
         "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She doesn't deserve a baby shower. She deserves a baby monsoon. She deserves Rosemary's baby!",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Elaine",
-        "George"
       ],
       "correctAnswer": "George"
     }

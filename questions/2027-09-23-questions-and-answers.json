@@ -1,104 +1,104 @@
 {
-  "gameNumber": 993,
+  "gameNumber": 994,
   "date": "2027-09-23",
   "questions": [
     {
-      "quote": "What? you're breaking up with me? But I sacrificed and supported you while you struggled. What about my dream of dating a doctor?",
+      "quote": "Cosmo, go. No, no, na, na.  Boy this new telephone number's driving me crazy -- wrong numbers, every five minutes.",
       "characters": [
-        "Jerry",
         "Kramer",
-        "Ray",
-        "Elaine"
+        "Jackie",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know what you should do? You should tell this guy you're seeing  somebody else. That's the easiest way to get out of these things.",
+      "quote": "You can't do that, you can't just sneak in from the back like that.",
       "characters": [
         "George",
-        "Kramer",
-        "Jerry",
-        "Doctor"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "She's confiding in him about our dates.  You always like the person you talk to about the date more than the date!  It's just a matter of time till they realize, 'Hey, we could have sex.'",
-      "characters": [
-        "Poppie",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Told me you had a great time! Said you'd call me the next day.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Lloyd",
-        "Mary"
-      ],
-      "correctAnswer": "Mary"
-    },
-    {
-      "quote": "George, those are prescription goggles? What is there to see in a health club pool?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Maestro",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Who, who, who do you think would win in a fight between me and ah, gorgeous George here.",
-      "characters": [
-        "Kramer",
         "Jerry",
         "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Doesn't matter. What's the young man's name? I would like to meet him.",
+      "characters": [
+        "George",
+        "Puddy",
+        "Jerry",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we think it would be a nice touch for the Foundation literature. Do you have a favorite poet, George?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "You gotta meet me at the police station. They're arresting me for attempted murder.",
+      "characters": [
+        "Connie",
+        "Morty",
+        "George",
+        "Tim"
+      ],
+      "correctAnswer": "Connie"
+    },
+    {
+      "quote": "I don't know what kind of a person would do something like that. Obviously a very sick person. A very immature person. A person who has no regard for wasting other people's valuable time. Good-bye.",
+      "characters": [
+        "Doctor",
+        "Laura",
+        "Ed",
+        "George"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "So, she mentioned she had a boyfriend and then it hit me. What do I need more closet space for?  Hi, Marla.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh.  Well, I must have been in the incinerator room when you left. Here you go, Marty.",
+      "quote": "N..no, no. You can't leave me.  Marry me! I'll burn myself. I'll burn my parents!",
       "characters": [
-        "Newman",
-        "Jerry",
+        "George",
         "Kramer",
-        "Patrice"
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, perhaps we should inquire. Poppie! Oh, Poppie. Could I have a word?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Gary"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ok, I'm excited. I just don't happen to like exclamation points.",
+      "quote": "Oh yeah, Reilly?  Well, the jerk store called. They're running outta you",
       "characters": [
         "Kramer",
+        "Elaine",
         "Jerry",
-        "George",
-        "Jake"
-      ],
-      "correctAnswer": "Jake"
-    },
-    {
-      "quote": "Can you believe someone would lie about chemotherapy to get a wig? Would you do that?",
-      "characters": [
-        "Elaine",
-        "Darryl",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen, listen, don't get worked up, 'cause you're gonna know the whole story the minute she steps off the plane.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Morty"
+        "George"
       ],
       "correctAnswer": "George"
     }

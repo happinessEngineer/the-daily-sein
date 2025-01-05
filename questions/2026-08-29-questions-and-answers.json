@@ -1,106 +1,106 @@
 {
-  "gameNumber": 603,
+  "gameNumber": 604,
   "date": "2026-08-29",
   "questions": [
     {
-      "quote": "Imagine the laugh you could have gotten if you'd yelled that out at the actual disaster.",
+      "quote": "Really? My father has a ton of old clothes just sitting up in the attic, y-you think they're worth something?",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Bania",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Maybe I'll go visit my mother. She just bought me some new panties  and they're - all laid out for me.",
-      "characters": [
-        "Elaine",
         "Jerry",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No. A $29,000 piece of cake. Peterman got it at The Duke Of Windsor auction. It was the most romantic thing I've ever eaten.",
-      "characters": [
         "Kramer",
-        "Duncan",
-        "Elaine",
-        "Jerry"
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No.  Jackpot. I don't believe this. There's no hair in this thing. I've never seen a person that didn't have at least one hair in a brush.",
+      "quote": "Knick game. Horneck took me. We were sitting two rows behind the bench. We're getting hit by sweat!",
       "characters": [
+        "Jerry",
         "Morty",
-        "Jerry",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Compartments underneath, that's probably where it is. Okay boys, let 'er rip. I'll tell you what George. Starting tomorrow no more desks. Just Lucite tables and four leSTEINBRENNER.",
-      "characters": [
-        "Steinbrenner",
-        "Kramer",
-        "Jerry",
-        "Waiter"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "She works for Pendant Publishing. She's the most beautiful woman I've ever seen. You know, I used to work for NBC, but when I go back to her this time, she'll respect me.",
-      "characters": [
-        "Russell",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Russell"
-    },
-    {
-      "quote": "Well, it's a windshield. It's going to be your new coffee table.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Made out to the Human Fund.  Oh, damn. I've locked myself out of my office again. Oh well. I'm going home.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Gino",
-        "Kruger"
-      ],
-      "correctAnswer": "Kruger"
-    },
-    {
-      "quote": "Yeah. Newman raves about it. It's on his mail route. He goes by there everyday.",
-      "characters": [
-        "Elaine",
-        "Peterman",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Elaine, I need you to do me a big favor. I need you to go down to the Diplomat's Club and meet Bridget for me. I'm going to be late.",
+      "quote": "Listen, Tiny. I wanna know where Kramer is and wanna know now!",
       "characters": [
+        "Mike",
         "Jerry",
-        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well that was a really stupid thing! You know what's going to happen now?",
+      "characters": [
+        "George",
+        "Cop",
         "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I- I'm pretty sure I left it eh, behind the cushion of the chair ... accidentally.",
+      "characters": [
+        "Ned",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, enough! Enough! From now on, no more yada yada's. Just give me the full story.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Donna",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, no, no, no...you sit right here...I will get you a nice snack.",
+      "characters": [
+        "Farkus",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's God's plan. He doesn't really want anyone to get together.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, I just wanted to let you know I'm really sorry that happened, and if I can help out in any way, I'll certainly be glad to do that.  Well, I guess that's about it.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't stand doing laundry. That's why I have forty pairs of underwear.",
+      "characters": [
+        "Elaine",
+        "Joel",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

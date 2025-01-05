@@ -1,106 +1,106 @@
 {
-  "gameNumber": 204,
+  "gameNumber": 205,
   "date": "2025-07-26",
   "questions": [
     {
-      "quote": "Oh, yeah, I'll be lying on an X-Ray table with my wallet in my mouth.",
+      "quote": "Oh, hey, uh, listen, Jerry, uh, laundry's pilin' up there. You might want to tell your girlfriend. Mmm. Yeah.",
       "characters": [
-        "Kramer",
-        "Estelle",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I told you George, no more pudding. I'm starting a purification program. Keep all that kind of food away from me.",
-      "characters": [
+        "Helen",
         "Jerry",
-        "Jack",
-        "George",
-        "Ruby"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh. It's really not that bad, actually. He said he'd even go with me to the Museum of Miniatures. This is something you would never ever do.",
-      "characters": [
-        "George",
         "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh yeah, yeah. Give me a ring tomorrow. I'm gonna be at emergency callbox seven-eight-four.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Driver",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "She just had a check-up. The doctor said she was fine. Unless...",
+      "quote": "Ohh boy. Well, I gotta meet Elaine and run some errands. So..",
       "characters": [
+        "Salesman",
         "George",
-        "Kramer",
-        "Jerry",
-        "Helen"
+        "Naomi",
+        "Jerry"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hold it, hold it! You're right, I'm not ready for this.  Yeah?",
+      "quote": "It was because you hated your father and you would do anything to displease him. Isn't THAT true?",
       "characters": [
         "Jerry",
         "George",
         "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "George...but if I ask him now, I will have no chance of going out with him.",
-      "characters": [
-        "Sophie",
-        "Elaine",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You should be! How could you spend two hundred dollars on a tip calculator?!",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "George",
         "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Okay listen Leo. Your hairless, your scared. When the doctor comes in let me do the talking. Okay.",
-      "characters": [
-        "Jerry",
-        "Jackie",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Uh, that doorman's still milling around outside. He's very peculiar.",
+      "quote": "That Gendason, what a jerk. I'm never playing golf with him again.",
       "characters": [
         "Elaine",
         "George",
         "Jerry",
-        "Peterman"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I want the one that I earned.  I'll get it. I'll get it!  H&H, and Elaine.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Izzy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Listen Jerry, I've been doing some thinking. I want my suit back.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "\"JIMMY'S GONNA GET YOU KRAMER!!. HANDS OFF JIMMY!!. DON'T TOUCH",
+      "characters": [
+        "Jimmy",
+        "Alec",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "But wouldn't you get any satisfaction out of helping someone out?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because the underwear is pulled up from the back and ... it wedges in..",
+      "characters": [
+        "Elaine",
+        "Babu",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can get a good one today. It's Enzo's day off. Gino's there all by himself.",
+      "characters": [
+        "Kramer",
+        "Gary",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

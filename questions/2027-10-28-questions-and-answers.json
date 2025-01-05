@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1028,
+  "gameNumber": 1029,
   "date": "2027-10-28",
   "questions": [
     {
-      "quote": "'Had to come in' and 'maybe we'll get together'? 'Had to' and 'maybe'?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Thank you very much... Well, then go out and smell the car; see which smells worse.",
+      "quote": "It's because of her that bottle got broke that I was going to give to Charles Grodin on his show.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Clerk",
+        "Peterman",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, well here.  Take Whatley's label maker, I don't want to see it again.",
+      "quote": "Oh.  Mr Kramer, you had a ten-thirty appointment. It's two o'clock. Mr Shellbach had a tennis lesson. He's gone for the day.",
       "characters": [
-        "Jerry",
-        "George",
+        "Elaine",
+        "Secretary",
         "Kramer",
-        "Elaine"
+        "Susan"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Secretary"
     },
     {
-      "quote": "I know. I just sort of leaned on it so it would look like it was mine.",
+      "quote": "The door? Why would I go out the door? The window's right here.",
       "characters": [
-        "Jerry",
-        "George",
-        "Russell",
-        "Cheryl"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "How about that Jerry? First you had a pilot on NBC and now I'll have one. Looks like I'm following you again.",
-      "characters": [
-        "Jake",
-        "Bania",
-        "Gladys",
-        "Kramer"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Hello? Amanda. Hi, yes. Listen. You know, I'm thinkin', we might just be better of bein' friends. Yeah. Yeah, you know what, I can't even really talk about it right now. Bye-bye.   No! No!",
-      "characters": [
-        "Jerry",
-        "Steve",
+        "Lloyd",
+        "Kramer",
         "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No! He jumped from the second floor. Mr. Papanickolous saw him from across the street. He's lying out there faking. See, he's trying to get back at me.",
+      "quote": "What are you talking about? I'm the one who should have called the police. They stole my wallet.",
       "characters": [
-        "Peterman",
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Sheila"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "To be honest with you. Nobody really knows. He seems to have disappeared.",
+      "characters": [
+        "George",
+        "Duncan",
+        "Rita",
+        "Elaine"
+      ],
+      "correctAnswer": "Rita"
+    },
+    {
+      "quote": "Boy, a little too much chlorine in that gene pool.  And, you know, the thing is, they're never gonna know, no one's ever gonna tell them.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what is it you object to? The comfort? The Speed? The convenience?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Don't go. Kramer! Come back. I got great news. Well, I did it.",
+      "characters": [
+        "Landlord",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh no. Sure. It matters. Wow. I've broken through, huh. I'm part of popular culture now. Listen I've got to thank Mr. Peterman.",
+      "characters": [
+        "Milos",
         "Jerry",
         "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Mary Contardi. No? Doesn't ring a bell, Jerry? We had a date, three years ago. You took me to one of your shows.",
-      "characters": [
-        "Jerry",
-        "Morgan",
-        "George",
-        "Mary"
-      ],
-      "correctAnswer": "Mary"
-    },
-    {
-      "quote": "Way off? Have you been to the motor vehicle bureau? It's like a leper colony down there.",
-      "characters": [
-        "Jerry",
-        "Puddy",
-        "George",
-        "Celia"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, my. Well, the doorman certainly has a wild imagination, doesn't he?",
-      "characters": [
-        "Jake",
-        "Jerry",
-        "Elaine",
-        "Anna"
-      ],
-      "correctAnswer": "Elaine"
     }
   ]
 }

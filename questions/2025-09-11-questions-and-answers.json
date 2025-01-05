@@ -1,106 +1,106 @@
 {
-  "gameNumber": 251,
+  "gameNumber": 252,
   "date": "2025-09-11",
   "questions": [
     {
-      "quote": "\"Aahhrgh...it wouldn't take...... long pause, audience laughter) ten minutes from now, I'll be sweating all over again ,I can feel it. I'm a human heat pump!\"",
+      "quote": "But that's a one-way street coming this way. Besides, how am I gonna get all the way over there?",
       "characters": [
-        "Worker",
+        "George",
+        "Jerry",
         "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, I had some milk, I made a sandwich. I got to get out of the building.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Craig",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, I know. Uh, by the way, could you do me a favor and tell Mitchell Tanenbaum that I will be unable to attend this Saturday.",
+      "characters": [
+        "Elaine",
+        "Attendant",
+        "Gina",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, maybe, he was talking to me. Was you talking to him? Because you was obviously talking to one of us. So what is it? Who?! Who was you talking to?!",
+      "characters": [
+        "Bob",
+        "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Bob"
     },
     {
-      "quote": "You know, you go out, you get another rye. Of course, it would have to be the same one from Schnitzer's. You put it in the kitchen somewhere and you say Ohh! There it is.",
+      "quote": "Ya' gotta see the babi - When are ya' gonna see the babi... Can't they just send us a tape?",
       "characters": [
         "Jerry",
-        "Elaine",
+        "Morty",
         "George",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh-huh. And afterwards we went backstage and Olympia Dukakis autographed my playbill.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Woman"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "What about fine fabrics? How do you deal with that kind of temperament?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Kramer, listen, I got a little phone relay going, so, if a guy calls H&H and he's looking for me, you take a message.",
+      "quote": "Oh, well, send them in. Send the little tykes in. … little people .. pony express … wow,",
       "characters": [
-        "Ron",
+        "Jerry",
         "Elaine",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Ah, this is the kind of day that almost makes you feel good to be alive.",
+      "characters": [
         "George",
-        "Jerry"
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Then we ended up going out to lunch and he had some great gossip about James Thurber.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I told you I couldn't. The woman was crying about how she might never play tennis again",
+      "quote": "Oh didn't work. He caught me hearing. Alright it's terrible, but I'm not a terrible person.",
       "characters": [
-        "Elaine",
+        "Kate",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh you know what happened. Some guy from the Post Office confiscated them. He left his card.",
+      "characters": [
         "Newman",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "How 'bout that, huh? The World's Greatest Dad. My son made it for me.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Izzy"
-      ],
-      "correctAnswer": "Izzy"
-    },
-    {
-      "quote": "Yeah.  That would really blow his mind. He's always wanted one, his whole life, he's never been able to afford it.  I'm gonna do it.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Joyce"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And you can tell the players that I reimburse the trainer for the cigarettes and the dive checks.",
-      "characters": [
-        "Elaine",
         "Kramer",
-        "Jerry",
-        "Wilhelm"
+        "Ron"
       ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "A fine man, he spoke often of you. He's very proud of the work you're doing.",
-      "characters": [
-        "Landlord",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Landlord"
+      "correctAnswer": "Ron"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 243,
+  "gameNumber": 244,
   "date": "2025-09-03",
   "questions": [
     {
-      "quote": "George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.'",
+      "quote": "Ah - see the sense of humor? C'mere, I'm so nuts about you... I tell ya, it was fun being single, but when you meet a woman like this, you don't walk to get married - you run!",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Susan"
+        "Carol",
+        "Ade",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What're you talking about? You had a cheque bounce at the bodega.",
+      "quote": "Well, George, I just want you to hear me say to Anna that you're a good and decent person.",
       "characters": [
-        "George",
-        "Kramer",
-        "Morty",
-        "Jerry"
+        "Cheryl",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Nuh! Okay Jerry, how about if Mike fixes your truuunk, we call it even, an' this way, nobody has to get hurt.",
+      "quote": "Is that so? Or could it be that you're just a *little* bit worried that you may have missed the boat?",
+      "characters": [
+        "Jerry",
+        "Matthew",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I was going to watch it with my daughter. She likes Audrey Hepburn very much.",
+      "characters": [
+        "Joe",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "Prediction. I never see you or him again for the rest of my life.",
       "characters": [
         "Elaine",
         "George",
+        "Jack",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well I, uh, I'm not sure how you pronounce it or anything, but I, uh, I believe it's Ménage à Trois?",
+      "characters": [
+        "George",
         "Jerry",
+        "Seth",
+        "Jane"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I see, well, that's open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Why don't you just drop off some chicken skins and lobster shells.",
+      "quote": "It was destroyed. But out of that, a new holiday was born. \"A Festivus for the rest of us!\"",
       "characters": [
-        "Steinbrenner",
-        "George",
-        "Jerry",
-        "Rebecca"
-      ],
-      "correctAnswer": "Rebecca"
-    },
-    {
-      "quote": "No. No, I'll never cook again! Never! Now get out of my house!! Get out. Go.",
-      "characters": [
+        "Frank",
         "Jerry",
         "Kramer",
-        "George",
-        "Frank"
+        "Elaine"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "I'm sure we're all aware of the flaws and biases of standardized tests..",
-      "characters": [
-        "Kelly",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, hey, hey! It's not Lupe's fault, you shouldn't have left it out.",
+      "quote": "No. A $29,000 piece of cake. Peterman got it at The Duke Of Windsor auction. It was the most romantic thing I've ever eaten.",
       "characters": [
         "George",
-        "Patrice",
-        "Elaine",
-        "Jerry"
+        "Keith",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "She's Romanian. What am I gonna talk to her about, Ceausescu?",
+      "quote": "Why does everything have to be 'us'? Is there no 'me' left? Why can't there be some things just for me? Is that so selfish?",
       "characters": [
         "Jerry",
+        "Kramer",
         "Newman",
-        "George",
-        "Waiter"
+        "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm calling to let you know that Russell Dalrimple is no longer with this network.",
-      "characters": [
-        "Rita",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Rita"
-    },
-    {
-      "quote": "See, the way I figure it, it's much easier to patch things up with Sheila than with the Soup Nazi.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 201,
+  "gameNumber": 202,
   "date": "2025-07-23",
   "questions": [
     {
-      "quote": "I'm touring with Joseph and the Amazing Technicolor Dreamcoat",
+      "quote": "No, I feel I need to unburden myself. I loved her very deeply. But the clash of cultures was too much. Her family would not accept me.",
       "characters": [
-        "Ethan",
+        "Eddie",
+        "George",
         "Elaine",
-        "Peterman",
-        "Babu"
+        "Frank"
       ],
-      "correctAnswer": "Ethan"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "No, I actually find you quite charming. A bit verbose at times...",
-      "characters": [
-        "George",
-        "Pitt",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What, are you kidding? Opening night Pavarotti and Pagliacci. Ha, we're gonna clean up!",
+      "quote": "You're the nucleus, the straw that stirs the drink. You're the Miana!",
       "characters": [
         "Elaine",
-        "George",
         "Jerry",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, no, no, no. That's exactly how you said it was going down.",
+      "quote": "Pamela?! Awright, I tell you what. You look like nice people, I'm gonna help you out. You want a beautiful name? Soda.",
       "characters": [
-        "George",
-        "Gina",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "If I'm gettin' him a new fur, I'm not chippin' in on a gift, too.",
-      "characters": [
-        "Elaine",
-        "George",
         "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You now what you do? You sneak that photo out of there for couple of days and get it air brushed.",
-      "characters": [
-        "Kramer",
-        "Karen",
-        "Patty",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hello Elaine? Patty Lawrence had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. I understand Guttenberg used to spend a lot of time in there.",
-      "characters": [
-        "Kramer",
-        "Fdr",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm gonna count to three. If you don't give up the chair, the wig is coming off.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Where am I? Is this a dream? What in God's name is going on here?!",
+      "quote": "Oh, I forgot to call Jill. Jill. Hi, it's Elaine. How is your father? Is everything okay? What? I can't hear you so good. There's a lot of static. Wha? I'm going to call you back.",
       "characters": [
-        "George",
-        "Woman",
         "Jerry",
+        "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, they go off for the ride, by the time they come back the bread is there.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Mary",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "See ya around maroon Golf. And, by the way, that was an \"I'm not sorry\" wave.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know  I have a friend who works at the Metropolitan Museum of Art. How would you like a behind the scenes tour?",
+      "characters": [
+        "Elaine",
+        "Poppie",
+        "George",
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "Anybody want to take a walk down to 48th street? I think I may have tracked down another receipt.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Phil",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What do you mean? The engagement is off, we get the TV back. That's business.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Carrie, could you do me a favour? Could you not mention this to your mother?",
+      "characters": [
+        "Donna",
+        "Jerry",
+        "Darryl",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

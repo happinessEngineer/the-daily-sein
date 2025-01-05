@@ -1,106 +1,106 @@
 {
-  "gameNumber": 587,
+  "gameNumber": 588,
   "date": "2026-08-13",
   "questions": [
     {
-      "quote": "You know, that's around the same time I broke up with Lloyd. Y... you don't think that I had anything to do with his breakdown, do you?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Valerie"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Uptight? Let's all just have a big pee party. Hey everybody, grab a bucket. We're going up to Jerry's. It's a pee party.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Woman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "hu_uh,  You know, everybody listens to the Chinese. I mean, look at the fortune cookie. You couldn't get away with that in any other restaurant.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I have an idea. Keep the van, and get a bumper sticker that says, 'If this vans a-rockin', don't come a-knockin'.'",
-      "characters": [
-        "Elaine",
-        "George",
-        "Susan",
-        "Landlord"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So concerned was he, that word of his poor tennis skills might leak out, he chose to offer you his wife as some sort of mediaeval sexual payola?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Now, I'm aware that my own physical dimensions are perhaps a little short of perfection.",
+      "quote": "Jerry, come on. Don't get upset about it. There's always next spring. Now will you excuse me for a moment. Serenity nooooooooww!",
       "characters": [
         "George",
-        "Sandi",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I would see no trouble in spending up to, say, ten thousand dollars. Have my secretary give you a signed cheque.",
-      "characters": [
         "Jerry",
-        "Peterman",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "No, I'm tellin' you, people, they really want to make their own pizza pie.",
-      "characters": [
         "Kramer",
-        "Silvio",
-        "Jerry",
-        "Manager"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Didn't go out of the house? Didn't take a walk... on Columbus Avenue?",
+      "quote": "This is out best model. The Cougar 9000. It's the Rolls Royce of wheelchairs. This is like... you're almost glad to be handicapped.",
       "characters": [
-        "All",
-        "Danielle",
+        "Frank",
+        "Elaine",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "I told him a pack of teenagers in a convertible were terrorizing us and they followed us into the city.",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I didn't do anything. I was never informed. … YOU CAN ALL GO STRAIGHT TO HELL…. You see that? You see what I am going through?",
+      "characters": [
+        "Gennice",
+        "Peterman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "Seeing Maura. Apparently, I was unable to break up beyond a reasonable doubt.",
+      "characters": [
+        "Frank",
+        "Susan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, heh. You know, a friend of mine has a watch just like that. I'd love to replace it for him as a gift.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Cop"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He said she's mentally ill. He's one of those guys who is obsessed with neatness and order? Everything has gotta be just so. He would have made a great Nazi.",
+      "quote": "Ah those are the pastries, Ray take care of that, I'm going to get Elaine the manuscript.",
       "characters": [
-        "Jackie",
-        "George",
+        "Rava",
+        "Frank",
         "Elaine",
-        "Sidra"
+        "Kramer"
       ],
-      "correctAnswer": "Sidra"
+      "correctAnswer": "Rava"
+    },
+    {
+      "quote": "He's become the laughing stock! You know The Times has already stated it could cost him the election.  Name tags!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Audrey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "This hotdog's been here since the silent era. You'd have to be insane to eat it.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Attendant",
+        "Newman"
+      ],
+      "correctAnswer": "Attendant"
+    },
+    {
+      "quote": "Hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu \"Ther - There is nothing finer than being in your diner.\"?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

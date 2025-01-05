@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1051,
+  "gameNumber": 1052,
   "date": "2027-11-20",
   "questions": [
     {
-      "quote": "\"So George. Have you heard anything about the missing equipment?\"",
+      "quote": "Really.........I have to say...You were really good doing that porno thing....you're talented.",
       "characters": [
+        "Kruger",
+        "Toby",
         "Elaine",
-        "Jeannie",
-        "Jerry",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "Yeah but there's a problem. I found a tube of a fungicide in her medicine cabinet.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright break it up, break it up. Come on, just cut it out now",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Clerk"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She put them in her pocket book. She probably took them out there with her.",
-      "characters": [
-        "George",
-        "Newman",
-        "Elaine",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I don't care for the name, either. In fact, that's one of the things that we argue about.",
+      "quote": "Jerry, look at all these pagodas, huh? I gotta get over to Hong Kong before it all goes back to China..",
       "characters": [
-        "Morty",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Really? Ah, I didn't think any cool guys lived in this neighborhood.",
-      "characters": [
-        "Sylvia",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Sylvia"
-    },
-    {
-      "quote": "Is it all right if I watch it in your bedroom, cause your bed is really nice?",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Man",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right! Hey, Elaine, Feldman was able to get us all tickets to the Bolshoi!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kevin",
+        "Kramer",
+        "Marlene",
         "George"
       ],
-      "correctAnswer": "Kevin"
-    },
-    {
-      "quote": "Oh, yeah, yeah. Well, he--uh--visits the guy across the hall from me like every ten minutes.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jane",
-        "Jerry"
-      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "All right. Oh, hey, I think you're gonna like my first my third choice.",
+      "quote": "She came down from Juno by sleigh, she was in the Iditarod. Got to the finish line, just kept going. She's got the dogs with her in the hotel room.",
       "characters": [
-        "Joel",
+        "Jerry",
+        "Keith",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It looks like you're trying too hard to make an impression on him. You're not being yourself.",
+      "characters": [
+        "George",
+        "Jackie",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've spent the last hour preparing ten candy bars with no wrappers or identification of any kind for him to select from.",
+      "characters": [
+        "George",
+        "Leo",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Too spicy. He wants another one. You got that pasta primavera?",
+      "characters": [
+        "Waiter",
+        "George",
+        "Celia",
+        "Jerry"
+      ],
+      "correctAnswer": "Waiter"
+    },
+    {
+      "quote": "It's only five fifteen. So, later on that same day, I developed a great hankering for some wild honey...",
+      "characters": [
         "George",
         "Jerry",
-        "Kramer"
+        "Peterman",
+        "Elaine"
       ],
-      "correctAnswer": "Joel"
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Ah, c'mere.  Alright, I gotta go home and get changed before the game. I'll be back, we'll make out.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Okay, fine.  This is the official flip. No crying, no guilt, winner takes all and that's it. Agreed?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, wouldn't it be funny if Paul an' Noreen broke up because o' you kept hangin' up on him?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Gail",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

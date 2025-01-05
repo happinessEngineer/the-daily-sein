@@ -1,29 +1,29 @@
 {
-  "gameNumber": 480,
+  "gameNumber": 481,
   "date": "2026-04-28",
   "questions": [
     {
-      "quote": "Of course, Jackie O. was a great lady. Those are going to be some tough shoes to fill. Everyone loved her. She had such...grace.",
+      "quote": "Well, you, my friend, have crossed the line that divides Man and Bum. You are now a Bum.",
       "characters": [
-        "Landis",
+        "Elaine",
         "Kramer",
-        "Emily",
-        "Elaine"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Landis"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know I-I'm having a lot of trouble, um, hearing you back here. So...",
+      "quote": "A free truck? Oh boy, that completely changes our cost structure. Our G and A goes down fifty percent.",
       "characters": [
-        "Susan",
-        "Estelle",
+        "Kramer",
+        "George",
         "Jerry",
-        "Elaine"
+        "Stu"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "No. Huh? You know who I saw at the health club? Salman Rushdie.",
+      "quote": "Yeah, yeah, I got the biggest one they had. It's industrial strength. 16000 BTU's.",
       "characters": [
         "Kramer",
         "George",
@@ -33,71 +33,71 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That's usually the kind of mood I'm in when I haven't showered.",
+      "quote": "What're you doing? What're you, telling secrets? What're you laughing at?",
       "characters": [
-        "Patrice",
         "Jerry",
-        "Kramer",
+        "Donna",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Uh, George, did you talk to that guy about getting me some more cigars?",
+      "quote": "Hey, that's my bike! Along the sidewalk comes a happy-looking Newman, pedalling the Schwinn for all he's worth. He rings the bell.",
       "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Okay. Now, I know this is an important decision. Why don't we all just sit down and talk about it? Come on, come on.  Now, look, you both find each other attractive, right?",
-      "characters": [
         "Jerry",
         "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh. OK. Maybe we could grab some lunch sometime. D-do you work around here or-?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
+        "Steinbrenner"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "At the time, I was employed as a security guard in the parking lot at the Garden Valley Shopping Mall.",
+      "quote": "\"It's a long journey from Milan to Minsk…\"  wait wait. Hold it stop,  I'm sorry, I have to start it over, my shoelace.  I can't do it like this. Please let me start over.  Please.  Please. . . .",
       "characters": [
-        "Emily",
-        "Jeannie",
+        "Gennice",
+        "Elaine",
         "Jerry",
-        "Guard"
+        "George"
       ],
-      "correctAnswer": "Guard"
+      "correctAnswer": "Gennice"
     },
     {
-      "quote": "I mean, the main thing is that this is just between us, and that'll be the end of it.",
+      "quote": "Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.",
       "characters": [
-        "Diane",
-        "Sally",
+        "Newman",
+        "Salesman",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "No. I'm completely blocked! In fact, I'm gonna work on it tonight. Oh. Oh no! Oh, I can't! I got that marathon runner coming in tonight.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Frank",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh I beg to differ. My father took great pride in his appearance, he was a very handsome man, a casanova really.",
+      "quote": "If I meant this Wednesday, I would have said this Wednesday. It's the week after this Wednesday.",
       "characters": [
-        "Ramon",
+        "Regis",
+        "Ray",
+        "Sid",
+        "Jerry"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Listen Jerry. With all due respect, Bania's voice is the voice of a new generation. My generation.",
+      "characters": [
+        "Peterman",
+        "Elaine",
         "Jerry",
-        "Abby",
         "George"
       ],
       "correctAnswer": "George"

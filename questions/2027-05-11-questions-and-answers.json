@@ -1,106 +1,106 @@
 {
-  "gameNumber": 858,
+  "gameNumber": 859,
   "date": "2027-05-11",
   "questions": [
     {
-      "quote": "Wait till you see it, it's perfect. The guy told me it's one of a kind, they stopped making it.",
+      "quote": "Oh, come on you gotta go! He's harmless. He's got a little crush on you.",
       "characters": [
-        "Carl",
-        "Elaine",
         "Jerry",
-        "George"
+        "Elaine",
+        "George",
+        "Gary"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm sorry about the gift, I didn't know about your condition.",
-      "characters": [
-        "Newman",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are we doing out here? Aren't we going to go in and eat?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Bob",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So what?! She still gave you advice; what's the difference if she's not Chinese?!?!",
-      "characters": [
-        "Helen",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I thought you hated air conditioning. You've never had an air conditioner.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh oh, listen to this, this is not good, listen to these symptoms for rabies: anxiety, irritability. I got those, I'm irritable!",
+      "quote": "No, no. That's just the thing. Anna told me that Elaine said I was one of the worst seeds she'd ever seen.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Carol",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh  Articulate....Me? I've never articulated anything, i'm completely incoherent.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Ned",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's a big night. I'm, uh, ice skating with one, and going to a staged reading of \"Godspell\" with the other.",
-      "characters": [
-        "Peterman",
-        "Jerry",
+        "Wendy",
         "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Of course. C'mon Georgie, you wanna tell me. It's eating you up inside. Sing it, sister.",
+      "quote": "Alright, you know what we should do? We should go to the movies. Get away from this script for a while..",
       "characters": [
-        "Glenn",
+        "George",
+        "Tony",
+        "Darryl",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Maybe she's right. Maybe I am a complete hack. I'm the absolute worst. The worst, Jerry.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Oh yeah. Elaine was a fun project. I enjoyed working with her.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You see I come up with these things, I know they're gold, but nothing happens. You know why?",
+      "characters": [
         "George",
         "Kramer",
+        "Elaine",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know, but they don't seem to like it. By the way how am I doing?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Donald"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I had to take a sick day. I'm so sick of these people. By the way, I talked to Lisi, and tomorrow night's good for her.",
+      "quote": "I think the hats. The hat conveys that solemn religious look you want in a faith. Very pious.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Man",
+        "Ade"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, she didn't think it was funny. What is she, Rowan & Martin? We're supposed to meet with NBC tomorrow! She completely shattered my confidence. And I'm paying for this, she's my employee!",
       "characters": [
         "Kramer",
-        "Elaine",
+        "Jerry",
         "George",
-        "Jerry"
+        "Newman"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And then the game-winning field goal went over the net and into the crowd and I dove over three rows! My back, it's killing me!  It's killing me Jerry!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Marty",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,99 +1,79 @@
 {
-  "gameNumber": 361,
+  "gameNumber": 362,
   "date": "2025-12-30",
   "questions": [
     {
-      "quote": "Yeah, and we had an accident with your car, it's a, it's a little crumpled.",
+      "quote": "This is my ketchup. I bought this ketchup just so I could have as much as I want.",
       "characters": [
-        "Phil",
-        "Jerry",
         "George",
+        "Kramer",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yes, but we cannot give the people the right to choose any topping they want! Now on this issue there can be no debate!",
+      "quote": "You! Take off your socks, your pants, your underwear. We're doing the wash. C'mon! Take it off, take it off!",
       "characters": [
-        "George",
-        "Rebecca",
+        "Tv",
         "Kramer",
-        "Poppie"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Poppie"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'm really sorry, but you can see why I'd make a mistake like that.",
+      "quote": "Elaine! Excellent. I'd like you to meet a friend of mine, Irwin Lubeck.",
       "characters": [
-        "George",
-        "Kramer",
+        "Peterman",
+        "Jerry",
+        "Estelle",
+        "Helen"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well boys, I did it. I had to stay up all night but I finally came up with a great New Yorker cartoon.",
+      "characters": [
         "Elaine",
-        "Jerry"
+        "Jerry",
+        "John",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, I should've done this years ago. I mean, I feel like I've had two lives. My pre-mousse. And now, I begin my post-mousse. Hey, tell me the truth, have you ever seen a better looking guy?",
+      "quote": "Pauline? . . . Wait a minute. I got it. My brother once impregnated a woman named Pauline.",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "George",
         "Elaine",
+        "Keith",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who else have you mentioned my shoes to, huh? I wanna know why my footwear is your conversation!",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Look, I know I call you too much, right? I mean, I know you're a very busy guy.",
+      "quote": "All right, bye. : You see this? Any thought pops into their head they're calling me because it's a local call now.",
       "characters": [
+        "Bania",
         "Kramer",
         "George",
-        "Jerry",
-        "Joel"
-      ],
-      "correctAnswer": "Joel"
-    },
-    {
-      "quote": "Believe me, there'd be plenty of women going for these pig-men. Whatever the deformity is there's always some group of perverts that's attracted to it. \"Oo that little tail really turns me on.\"",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I'm staining my floors, y'know, I don't want to get my hands dirty...",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm Captain Maddox this is my co-pilot, Kurt Adams. Ready to go to Paris?",
-      "characters": [
-        "Elaine",
-        "Julie",
-        "Jerry",
-        "Captain"
-      ],
-      "correctAnswer": "Captain"
-    },
-    {
-      "quote": "No, I'd love to do something. Uh, I have my seminar in the morning, then after that I'm right open.",
-      "characters": [
-        "Elaine",
-        "Laura",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Laura"
-    },
-    {
-      "quote": "Cash? You gotta be kidding. What kind of gift is that? That's like something her uncle would get her.",
+      "quote": "\"Oh no, you got to eat before surgery, you need your strength.\"",
       "characters": [
         "Elaine",
         "Jerry",
@@ -101,6 +81,26 @@
         "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know you could've thrown a pencil out the window and seen if that came back.",
+      "characters": [
+        "Elaine",
+        "Mike",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh. It's really not that bad, actually. He said he'd even go with me to the Museum of Miniatures. This is something you would never ever do.",
+      "characters": [
+        "Elaine",
+        "Puddy",
+        "Dan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 615,
+  "gameNumber": 616,
   "date": "2026-09-10",
   "questions": [
     {
-      "quote": "I never should have brought her up there. Should have known better. Should have seen it coming. I didn't see it coming.",
+      "quote": "'When you're alone, and life is making you lonely, you can always go...'",
       "characters": [
-        "Russell",
-        "Karen",
+        "Levitan",
+        "Jerry",
         "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He LOST IT! We almost came to blows. We were face to face like a manager and an umpire like this . . kara a pukka ba ya ka ba . . .",
-      "characters": [
-        "Kramer",
-        "Jake",
-        "George",
-        "Marcy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, I forgot to call Jill. Jill. Hi, it's Elaine. How is your father? Is everything okay? What? I can't hear you so good. There's a lot of static. Wha? I'm going to call you back.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Maestro"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hello? Yes, I need an ambulance at one twenty nine west Eighty-first Street, apartment five-A.",
+      "quote": "But I'm keeping it. As much as I hate the idea of being a van guy, it's much better than hanging out here with the nocturnal dirt people.",
       "characters": [
         "Jerry",
-        "Rebecca",
-        "Silvio",
-        "Elaine"
+        "Morty",
+        "Roy",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't even know where the bubble boy lives. I - I don't even remember the name of the town.",
+      "quote": "What, Come in - come in - Come in Miss Benes! That is if you can spare a minute from your busy schedule! And you bring guest for my entertainment?",
       "characters": [
+        "Testikov",
         "Kramer",
         "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Testikov"
+    },
+    {
+      "quote": "So call her up and tell her to bring you another one. She'll be delighted to talk to you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Even if this so called mental defective did put something on her leg she's still the one who laughed.",
+      "quote": "I still have it. The collar's okay. I wear it under sweaters.",
       "characters": [
+        "George",
         "Tim",
-        "Elaine",
-        "Jerry",
-        "Valerie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, the water pressure's terrible in my building. And she loves a good shower.",
-      "characters": [
-        "George",
-        "Sidra",
-        "Kurt",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Who gave you permission to come into my house and just go through all my things? You thought it was funny?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Do you know how embarrassing this is to someone in my position?",
-      "characters": [
-        "Tor",
-        "George",
         "Kramer",
-        "Elaine"
+        "Steinbrenner"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh no! The letter, Newman, it's got exclamation points all over it!",
+      "quote": "Hey, when I'm driving, I let people in ahead of me all the time. I'm always waving everybody in. \"Go ahead, go ahead, go ahead.\" ...All right. All right. I'll have a chicken salad.",
       "characters": [
         "Jerry",
+        "Dwayne",
+        "Elaine",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know, I guess I'll just get invited up to his apartment and see if he's got a label maker.",
+      "characters": [
         "Kramer",
         "Worker",
-        "Noreen"
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "My father gave me four tickets to the Yankee game for Saturday afternoon. Owner's box, first row behind the dugout.",
+      "characters": [
+        "Nina",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "This is my son Jerry, from New York.  He thinks he can lift more than Izzy.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I'm learning a lot about you tonight George. I've never seen you like this.",
+      "characters": [
+        "Karen",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Karen"
     }
   ]
 }

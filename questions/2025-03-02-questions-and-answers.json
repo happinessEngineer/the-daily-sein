@@ -1,106 +1,106 @@
 {
-  "gameNumber": 58,
+  "gameNumber": 59,
   "date": "2025-03-02",
   "questions": [
     {
-      "quote": "It's morning. Thanks for seeing me through the night. I'll make us a pot of coffee, George. Watch her, won't you?",
+      "quote": "Hey. Hey. Hey. Hey. Hey. Hey. Hey. Wha -- what are you doing?",
       "characters": [
-        "Peterman",
-        "Elaine",
-        "Kramer",
-        "Doctor"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "With Jon Voight's teeth marks.  Owner's manual...you know what? This car was owned by Jon Voight.",
-      "characters": [
-        "Elaine",
+        "Newman",
         "Jerry",
-        "Diane",
-        "Kramer"
+        "George",
+        "Leo"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Tell that to Bobby Colby. All that kid wanted to do was go home. Well he went home alright, with a crater in his colon the size of a cutlet. Had to sit him on a cork the eighteen-hour flight home!",
+      "quote": "Tell me your impressions, I would love to hear what a young woman thinks of \"The Big Game\".",
       "characters": [
+        "Milos",
         "Kramer",
-        "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.",
-      "characters": [
-        "Sophie",
-        "Jerry",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "Sophie"
-    },
-    {
-      "quote": "Wait a minute. I thought that Art wanted to give up the exporting.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Susan",
-        "Darryl"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "I am lying down. I am trapped under a funky mattress. I gotta go get a doctor or at least come over and roll this thing off of me.",
-      "characters": [
-        "Morty",
-        "George",
-        "Elaine",
-        "Jack"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, alright, but no funny business, same deal as last night.",
-      "characters": [
-        "Kramer",
-        "Celia",
-        "Jerry",
+        "Allison",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Atlantic City?  Yes! Yes! I will go to Atlantic City. I'm in. I'm down.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Forget the shower! The shower's out. Move it! Put your clothes on! Put your clothes on!  Where are you going?",
-      "characters": [
-        "Frank",
-        "Elaine",
-        "Susan",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but...  you don't want to go to... that... no.",
+      "quote": "I'm sorry - I have to say, I'm a little disappointed, I thought it would be a lot nicer.",
       "characters": [
         "George",
         "Kramer",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Listen, don't take this personally, but when I'm coming back I'm sitting over there.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Attendant",
+        "Barry"
+      ],
+      "correctAnswer": "Barry"
+    },
+    {
+      "quote": "Yeah. Th-That's why I where these sneakers, in case of any trouble -- Zip, I'm gone.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, hey! Elaine, I just heard that Noreen and Paul are breaking up. I want you to put in a good word for me.  I've always had a thing for Noreen.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bette",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, it's unbelievable. Every time you use it you feel like you just came from the dentist!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, George. How about that tour, huh? These guys are ready to run the bases.",
+      "characters": [
+        "Kramer",
+        "Jane",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I guess it's fair to say you've set different goals for yourself than say, Thomas Edison, Magellan, these types of people.",
+      "characters": [
+        "Elaine",
+        "Announcer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, I think people would talk about it at the coffee machines.",
+      "characters": [
+        "George",
+        "Guy",
+        "Celia",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

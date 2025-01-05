@@ -1,106 +1,106 @@
 {
-  "gameNumber": 111,
+  "gameNumber": 112,
   "date": "2025-04-24",
   "questions": [
     {
-      "quote": "Don't despair, my friend.  I won't allow your love to go unrequited. Not like mine.",
+      "quote": "I don't know where you're getting this from. I....you're serious aren't you? Oh,  you see? You see, you just don't know my sense of humor. Dan, don't I joke around all the time?",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Newman"
+        "Jerry",
+        "Helen",
+        "Kramer"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So if the coma victim wakes up in a month, he's thrilled, he got out of the coma. He goes home, there's nothing left?",
+      "quote": "Well, that's not really a meal Jerry. I mean, if he had gotten, Chicken Gumbo, or Matzah Ball, even Mushroom Barley. Then I would agree with you. Those are very hardy soups.",
       "characters": [
-        "Morty",
-        "Levitan",
+        "Kimbrough",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why couldn't you squeeze one of those stupid rubber balls to get your stress out? Why did you have to destroy *twenty-five* computers?",
+      "characters": [
+        "Jerry",
+        "Lippman",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I had to draw that guy from memory. Considering, I think that's damn good.",
+      "characters": [
+        "Clerk",
+        "George",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Clerk"
     },
     {
-      "quote": "What is that creaking, its like I'm in the hold of a ship. Gotta relax.",
+      "quote": "Hey! I got bit by a dog! I had to go to the hospital! I was bleeding to death! I can't solve every little problem you have!",
       "characters": [
-        "Jerry",
-        "Shelly",
         "George",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course. She's got a great body, buddy. All right, I'm gonna go upstairs, I'll be right back.",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hold it, hold it! You're right, I'm not ready for this.  Yeah?",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Listen, man. You gotta shoot this movie for me. Brody, he's a reasonable man, but he's insane!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I went out on a couple of dates with this woman, I thought she really liked me, and then things kind of cooled off.",
+      "quote": "Merry Christmas, Merry Christmas!  Oh, Sandy! Here is a little something for you..",
       "characters": [
         "George",
         "Newman",
-        "Kramer",
-        "Eddie"
+        "Steinbrenner",
+        "Jerry"
       ],
-      "correctAnswer": "Eddie"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, what we have here, doctor, is uhm, an extraordinary situation.",
+      "quote": "How long do you think this will take. I have a millllioooon things to do.",
       "characters": [
-        "Kramer",
-        "Wendy",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Look at this. Boy, one minute Elliot Gould is sitting on you and the next thing - you're yesterday's trash.",
-      "characters": [
-        "Jerry",
         "Kramer",
         "Elaine",
-        "Corinne"
+        "Bob",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh. This I need. Hello!! Hello. i..i..is this the hair restoration clinic? ...Does anyone speak English?",
+      "quote": "Well, Play Now has all kinds of different rubber balls. Why don't we test your bladder system at my office?",
       "characters": [
-        "Frank",
         "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, what's so great about a Mom and Pop store? Let me tell you something. If my Mom and Pop ran a store, I wouldn't shop there.",
-      "characters": [
-        "Nina",
-        "Brett",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You need a little pioneer spirit. You know, you don't have any of that Lewis and Clark in you.",
-      "characters": [
-        "Kramer",
-        "Jerry",
+        "Helen",
         "George",
-        "Newman"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

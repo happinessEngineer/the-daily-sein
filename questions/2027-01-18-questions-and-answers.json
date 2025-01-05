@@ -1,106 +1,106 @@
 {
-  "gameNumber": 745,
+  "gameNumber": 746,
   "date": "2027-01-18",
   "questions": [
     {
-      "quote": "...Well, obviously... You know...  Ap..ap, Chu... Why would you think I was having an affair with George?",
+      "quote": "Of course. Because of that wallet. You-you got a filing cabinet under half of your ass.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Knopp? Really? Boy. That means there's an opening here for senior editor...has Lippman, uh, hired anyone?",
       "characters": [
         "Elaine",
         "Jerry",
-        "Ping",
-        "Kramer"
+        "Hal",
+        "Newman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Anyone can get into podiatry school. George got into podiatry school.",
+      "quote": "My computers. I've been selling them for two months now. Shut up!",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Babu",
-        "David"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ohh yeah. A wise man once taught me the Healing power of the body's natural pressure points.",
-      "characters": [
+        "Frank",
         "Kramer",
-        "Jerry",
-        "Rudy",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, and I prefer \"Conrad\". So I heard what happened to the desk.",
-      "characters": [
-        "Kramer",
-        "Donald",
-        "Conrad",
-        "Newman"
-      ],
-      "correctAnswer": "Conrad"
-    },
-    {
-      "quote": "Oh, I need some water. Ice it up nice and hard ... and when you throw it - Pop! Oh look,  there's my friend, FDR. I'm gonna nail him in the back of the head. It's gonna be great!",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Steinbrenner",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right lets go. We'll meet you back down here in ten minutes, hopefully with the money.",
-      "characters": [
-        "Jerry",
-        "Steinbrenner",
-        "Keith",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But it--eh.. It was here, I'm tellin' you, an' w--w--it was really here! The, there was, a, bar, and a, an' a dance floor..",
-      "characters": [
-        "George",
-        "Poppie",
-        "Kramer",
-        "Ken"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I think he could've asked me. Supposed to be a friend of mine.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?",
-      "characters": [
-        "Emily",
-        "Jerry",
-        "Bania",
         "George"
       ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Mom, I didn't rat out Uncle Leo. I just wanted the guard to scare him straight.",
+      "characters": [
+        "Sid",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry ... Where are you? I know you like to sit back here. Elaine! Susan!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Aaron"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "- Nnnhhahahahahahahahahahahahahaha . Oh, you know what? I think Naked Gun is on. Oh I've seen it. I laughed through that whole thing. You wanna watch?",
+      "quote": "Oh, yeah? She told me what you like. You're a little sickie, aren't you? Disinfectant on the blinds, vacuuming the counter--",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Your father gave me strict orders not to turn the jacket over to anyone, but I suppose I can make an exception in your case. The closet's this way.",
+      "characters": [
+        "Woman",
+        "Kramer",
+        "George",
+        "Landlord"
+      ],
+      "correctAnswer": "Landlord"
+    },
+    {
+      "quote": "Hi. I'm goin' through this stuff like water...  Who you talkin' to?",
       "characters": [
         "Elaine",
-        "George",
-        "Naomi",
-        "Kramer"
+        "Puddy",
+        "Kramer",
+        "Jerry"
       ],
-      "correctAnswer": "Naomi"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I'm doing a report on minorities in the media, and I wanted to use that interview with Al Roker.",
+      "characters": [
+        "Winona",
+        "Newman",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Winona"
+    },
+    {
+      "quote": "Anyway, let me tell you why I called. When I took over here last month, I reviewed what was in development,and it was pretty much same old, same old.",
+      "characters": [
+        "Kimbrough",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kimbrough"
     }
   ]
 }

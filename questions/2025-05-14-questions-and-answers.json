@@ -1,106 +1,106 @@
 {
-  "gameNumber": 131,
+  "gameNumber": 132,
   "date": "2025-05-14",
   "questions": [
     {
-      "quote": "Rene, can you come here a second? Let me ask you something: Ummm, have you ever... you know... faked it?",
+      "quote": "If I do it again, that extends my payment book another two weeks.",
       "characters": [
-        "George",
         "Elaine",
-        "Puddy",
+        "Donna",
+        "Jerry",
+        "Hoyt"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry about the gift, I didn't know about your condition.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, Quinn here was moving a chair...he lost his balance and dropped it...it must have fallen on your briefcase, which, for some reason, contained a running tape recorder?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Imagine if I had to see them both on the same day?  Haha! It's like runnin' a double marathon!",
+      "characters": [
+        "Alton",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, he's nobody. Hey, listen, ... let me top that off for ya.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I am not going to hell and if you think I'm going to hell, you should care that I'm going to hell even though I am not.",
+      "characters": [
+        "Betsy",
+        "Elaine",
+        "Man",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'll need you to write down your phone number on the check for me.  Perhaps you could do the same.",
+      "quote": "I've been to a few of em. If you uh start to get woozy later, which is quite common, stay close to me. I'll get you through it.",
       "characters": [
         "George",
-        "Craig",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Craig"
-    },
-    {
-      "quote": "I'm starving! I can feel my stomach sucking up against my spine.",
-      "characters": [
-        "George",
+        "Jerry",
         "Elaine",
-        "Newman",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, that's it! Tonight's the night. I'm getting one. No \"if and's or but's\".",
+      "quote": "Watch the arm! Tim, listen, we don't want to bother you, we know you're busy here.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You! Take off your socks, your pants, your underwear. We're doing the wash. C'mon! Take it off, take it off!",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Make-up sex? You have to have that right after the fight, we're way past that.",
-      "characters": [
-        "Jerry",
-        "Frank",
         "Kramer",
+        "Jodi",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That?s what I?ll do, I?ll just call him and tell him, I?ll tell him. That?s all I?ll do. He's a human being, I?ll talk to him. He'll understand. Right?",
+      "quote": "That's where they filmed the movie. It's supposed to inspire me.",
       "characters": [
-        "George",
+        "Jerry",
         "Elaine",
-        "Jerry",
-        "Stu"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, what about you? You told me that you were engaged. What was the rest of that?",
-      "characters": [
-        "Marcy",
-        "Manager",
-        "Jerry",
-        "Conrad"
-      ],
-      "correctAnswer": "Marcy"
-    },
-    {
-      "quote": "I'm not really going away, I told you I'd be back every other weekend.",
-      "characters": [
-        "Mickey",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "In your laundry the whole time? I told you not to mix in our guys. What did we figure the damage on that machine would be?",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And Newman gave you money too. So, I didn't even meet this guy. You know, we trusted you.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Ron",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

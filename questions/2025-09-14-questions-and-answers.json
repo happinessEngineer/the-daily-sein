@@ -1,106 +1,106 @@
 {
-  "gameNumber": 254,
+  "gameNumber": 255,
   "date": "2025-09-14",
   "questions": [
     {
-      "quote": "I don't know, I guess I'll just get invited up to his apartment and see if he's got a label maker.",
+      "quote": "Oh, I'm sure you have. They're out on the ocean and, yada yada yada, and she says, \"Those aren't buoys.\"  Father...",
       "characters": [
         "Elaine",
+        "Kramer",
         "George",
-        "Susan",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, I got a little slicer happy, but listen; don't tell Kramer, okay? He has very strong feelings for it.",
+      "characters": [
+        "Jerry",
+        "Brett",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I feel the same way.  And that's why this foundation will meet around Your Schedule. Nights! Weekends! Every, Free Moment you have.",
+      "quote": "Jerry, Jerry, Jean-Paul's missing! He's alone in the city! Call me back.",
       "characters": [
+        "Elaine",
         "Jerry",
-        "Peterman",
-        "Jackie",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "We were talking about our lives and we both kind of realized we're kids. We're not men.",
+      "quote": "Look, I feel bad for him too, but he'll get another job. I mean, let's face it, it's not a profession where you embellish your resume and undergo a series of grueling interviews.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "you know, just by conversing, you can really learn a lot about a person.",
       "characters": [
         "Kramer",
-        "Conrad",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "[rubbing his eyes hoping the nightmare will end] Okay, I get your point!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Betsy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Not going to play ball. Huh all right. Admit it that stereo was all ready busted.",
-      "characters": [
-        "Newman",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "All right, fine. I don't care. If the plane crashes, everybody in first class is going to die, anyway.",
-      "characters": [
-        "Clerk",
-        "Elaine",
+        "Rabbi",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah? Well, you can kiss that jacket goodbye, Mr. Von Nozzin.",
+      "quote": "I love being with him. I mean, I like being with him. It's okay being with him.",
       "characters": [
+        "Man",
         "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
+        "Elaine",
+        "Frank"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Alright, just get your thing together and let's get out of here.",
+      "quote": "We just bought an apartment on Riverside Drive. Bernard Goetz's mother used to live there.",
+      "characters": [
+        "George",
+        "Helen",
+        "Leslie",
+        "Estelle"
+      ],
+      "correctAnswer": "Leslie"
+    },
+    {
+      "quote": "The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap.",
       "characters": [
         "Elaine",
-        "Newman",
-        "Maura",
+        "Kramer",
+        "Detective",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Detective"
     },
     {
-      "quote": "All right, all right. All right you go ahead. You go ahead and keep it secret. But you remember this. When you control the mail, you control... information.",
+      "quote": "What? I'm not married. I'm not allowed to go out with somebody else?",
       "characters": [
-        "Newman",
         "George",
-        "Maura",
+        "Elaine",
+        "Owner",
+        "John"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He doesn't know what he's talkin' about.  Jer? Jerry, I'm a good dancer, right?",
+      "characters": [
+        "Kramer",
+        "Puddy",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "I'm not sneaking. I didn't even know you were parking, you were just sitting there three spaces up.",
-      "characters": [
-        "Tony",
-        "Jerry",
-        "George",
-        "Mike"
-      ],
-      "correctAnswer": "Mike"
+      "correctAnswer": "Elaine"
     }
   ]
 }

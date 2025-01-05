@@ -1,104 +1,104 @@
 {
-  "gameNumber": 833,
+  "gameNumber": 834,
   "date": "2027-04-16",
   "questions": [
     {
-      "quote": "Is there any work being done?  Is there any rubbing, touching, finger manipulation on the other person, and if so, who's making the request?",
-      "characters": [
-        "George",
-        "Estelle",
-        "Jack",
-        "Farkus"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Lot of good ones. I don't even want to mention anyone because I'm afraid I'm going to leave somebody out.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "From Elaine. She got tied up. She'll be here in thirty minutes.",
+      "quote": "Look, uh, Mr. Peterman, the fact is that I was planning on breaking up with Zach anyway. He was cheating on me!",
       "characters": [
         "Elaine",
-        "Alton",
-        "Jerry",
-        "George"
+        "Jodi",
+        "Ben",
+        "Jerry"
       ],
-      "correctAnswer": "Alton"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, that's not enough BTUs for my living room...That was a complete waste of time.",
+      "quote": "Wait wait George. You got room in the car for the pig-man huh?",
       "characters": [
-        "Newman",
-        "Elaine",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I was telling Carrie about our argument, and when I told them the name, they just loved it.",
-      "characters": [
-        "Susan",
         "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "I didn't think I had to. Look with a piece of Tupperware you just assume.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well I've been going with him for 12 years. I can't switch. I'd hurt his feelings.",
+      "quote": "Jerry took the flyers off the car, I got the whole thing covered.",
       "characters": [
-        "Jerry",
-        "Steve",
+        "Farkus",
+        "Kramer",
         "George",
-        "Kramer"
+        "Bob"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Doesn't matter. You would have the only authentic Pakistani restaurant in the whole neighborhood.",
+      "characters": [
+        "Elaine",
+        "Ned",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "The carpet sweeper is the biggest scam perpetrated on the American public since One Hour Martinizing.",
+      "quote": "Oh, no no, I can't go back there. Jerry, it's so awkward and, you know, it could be dangerous sexually. Something could happen, I'd be right back where I started from.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We have to make the flight, we're with a charter group. If we don't the trip is off.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "George",
+        "Fdr"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Yeah, I'm a great quitter. It's one of the few things I do well. I come form a long line of quitters. My father was a quitter, my grandfather was a quitter... I was raised to give up.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Clerk",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Those are commercial lobster traps. You can't take those lobsters from there. That's against the law.",
       "characters": [
         "George",
+        "Jerry",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Well, this time, this time you're wrong. C'mon. I'll even bet you.",
+      "characters": [
         "Kramer",
+        "George",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Good, as a matter of fact. I almost had my own show in Japan.",
+      "quote": "How are you gonna get something and get back on the train in time?",
       "characters": [
-        "Jerry",
-        "Hoyt",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know. She did some outdoor version of Hair in Danbury, Connecticut.",
-      "characters": [
+        "Lois",
         "George",
-        "Elaine",
-        "Jerry",
-        "Frank"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     }

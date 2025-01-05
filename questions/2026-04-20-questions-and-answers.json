@@ -1,59 +1,19 @@
 {
-  "gameNumber": 472,
+  "gameNumber": 473,
   "date": "2026-04-20",
   "questions": [
     {
-      "quote": "Well, again, sorry about that little mishap. But once you get everything checked out there shouldn't be anymore problems.",
+      "quote": "You know, you're getting to be an annoying little chore yourself.",
       "characters": [
-        "Captain",
         "George",
+        "Jerry",
         "Elaine",
-        "Kramer"
+        "Newman"
       ],
-      "correctAnswer": "Captain"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "My doctor said it might never fully heal. I may never play again.",
-      "characters": [
-        "Landis",
-        "Bob",
-        "Kramer",
-        "Beth"
-      ],
-      "correctAnswer": "Landis"
-    },
-    {
-      "quote": "The bit, the bit I really liked what were the parakeet flew into the mirror. Now that's funny.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Stu",
-        "Elaine"
-      ],
-      "correctAnswer": "Stu"
-    },
-    {
-      "quote": "Oh, I'm putting up Frank's screen door. This beauty's got a little life in her yet.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Phil",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yes! And I am convinced that if she were here with us today, she would agree with me, too.",
-      "characters": [
-        "Kramer",
-        "Ray",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Did you explain to her about the good naked and the bad naked?",
+      "quote": "Well Dad's been planning this for such a long time, he bought a new blanket, and he got tha...that game with foam paddles and the velcro ball.",
       "characters": [
         "George",
         "Jerry",
@@ -63,44 +23,84 @@
       "correctAnswer": "George"
     },
     {
-      "quote": "Ooh. Well, this is uh, risky business, huh? I'm all a-twitter.",
+      "quote": "You know I know this sounds a little arrogant but I never thought she would find anyone she would like better than me. Ya know, I guess I had my chance and that's that.",
       "characters": [
-        "George",
+        "Cindy",
         "Jerry",
-        "Sid",
-        "Kramer"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well! I can't spend the rest of my life coming into this stinking apartment every ten minutes to pore over the, excruciating minutia, of every, single, daily event..",
+      "quote": "\"Hey you know , I felt we had like a synergy out there,you know, like we were really helping each other.\"",
       "characters": [
         "Elaine",
-        "Newman",
+        "David",
         "Jerry",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, I got caught up... watching a soap opera. \"The Bold And The Beautiful\".",
+      "quote": "Oh, no no no. I was just looking for stock-pages. Here it is. Looking for the quotes. Gotta check to quotes. Love a good quote. Oh, IBM up a quarter.",
       "characters": [
+        "Newman",
         "George",
         "Jerry",
-        "Newman",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well it's not up my alley! It's one thing if I make it up. I know what I'm doin, I know my alleys! You got me in the Galapagos Islands livin' with the turtles, I don't know where the hell I am.",
+      "quote": "Right! And these pigeons broke the deal. I will not accept the blame for this!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Channel eleven? Forgive me for trying to class up this place, for trying to have the Yankees reach another strata of society that might not watch channel eleven.",
+      "characters": [
+        "George",
+        "Abby",
+        "Kramer",
+        "Lippman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "And you're sure with your busy schedule you'd have time to take on a protégé?",
+      "characters": [
+        "George",
+        "Eva",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Abby"
+    },
+    {
+      "quote": "What? What? Did you go down there?  Did he tell you what's gonna happen?  How long were you there?",
       "characters": [
         "Elaine",
+        "Kramer",
         "George",
-        "Alec",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. No. I can't do this any more. I can't. It's too long.  Quit telling your stupid story, about the stupid desert, and just die already!  Die!!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

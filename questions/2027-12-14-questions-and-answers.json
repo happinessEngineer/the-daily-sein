@@ -1,9 +1,9 @@
 {
-  "gameNumber": 1075,
+  "gameNumber": 1076,
   "date": "2027-12-14",
   "questions": [
     {
-      "quote": "I just came from Leapin' Larry's. Making fun of crippled people, is that what you've sunk to?",
+      "quote": "Well, my friend Jay Reimenschneider eats horse all the time. He gets it from his butcher.",
       "characters": [
         "Jerry",
         "George",
@@ -13,94 +13,94 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Okay, I got a little slicer happy, but listen; don't tell Kramer, okay? He has very strong feelings for it.",
+      "quote": "No, but I know I've seen cake just like that. Oh--Entenmann's. Yeah.",
       "characters": [
-        "Elaine",
-        "Susan",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I can't believe how easy it is. I'm virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I'm in the club.",
-      "characters": [
-        "George",
+        "Rudy",
         "Kramer",
         "Jerry",
         "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What if I like him? I'm going to start out lying to this guy?",
-      "characters": [
-        "Nina",
-        "Bania",
-        "Worker",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "But you see my point here? You only hear of a hen, a rooster and a chicken. Something's missing!",
-      "characters": [
-        "Frank",
-        "Katie",
-        "Diane",
-        "Sylvia"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Okay, okay.  Um, yeah, hi, I'd like delivery please to 16 West 75th St. apartment 2G.",
-      "characters": [
-        "Kramer",
-        "Babu",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, it can do anything. It can be Spanish.  Hola. Hello-o-o-o.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Todd",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey! Did you hear the bank on the corner is offering a 100 dollars if you go in there and they don't greet you with a hello?",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Tia"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, Jason, I, uh, I couldn't help notice, I... I didn't get my apology.",
+      "quote": "...Well, I suppose I could,  but I'd have to shift a few things around, uhm... Hold on for a second, will you? Uh...",
       "characters": [
-        "Elaine",
+        "Kramer",
+        "Waiter",
+        "George",
+        "Mary"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's stuck.  Oww! The steam from the hot-tub musta warped the wood.",
+      "characters": [
         "Kramer",
         "Jerry",
-        "George"
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[pause] Would I like to come up? I would love to come up. I, I'm fighting not to. Fighting! Unfortunately I uh have to get an early start tomorrow. Gotta' get up and hit that pavement",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well you think I should say something? Should I say something? Should I apologize? Was I being anti-virgin?",
+      "quote": "Look-it. It's not Suze. All right? It's Su-zie. My name, is Su-zie!",
       "characters": [
         "Jerry",
-        "Newman",
         "Elaine",
-        "George"
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know what the problem is - I like her too much. That's why I can't make a move.",
+      "characters": [
+        "George",
+        "Lloyd",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I thought you saw that before. How come you're watching that again?",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "And here's your check.  Thank you very much.  It was an honor.",
+      "characters": [
+        "George",
+        "Morty",
+        "Saleswoman",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Ah, what kind of a man are you? The guy is unconscious in a coma and you don't have the guts to kiss his girlfriend?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Gary"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

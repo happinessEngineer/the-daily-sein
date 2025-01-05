@@ -1,106 +1,106 @@
 {
-  "gameNumber": 856,
+  "gameNumber": 857,
   "date": "2027-05-09",
   "questions": [
     {
-      "quote": "All right look, I am going to have to pay you back later. I don't have my wallet.",
+      "quote": "You know, it occurs to me that Kramer is at karate right now.",
       "characters": [
         "Kramer",
-        "Captain",
-        "George",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Thank you Babu. You have quite a flair. You are quite the restaurateur I must say.",
+      "characters": [
+        "Guard",
+        "Kramer",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Okay, Jerry, now when the glee club's finished singing, George goes on, then you.",
+      "quote": "So that was your girlfriend that blocked you in. That's real good.",
       "characters": [
-        "Elaine",
-        "Katie",
-        "Frank",
-        "Kramer"
+        "Lamar",
+        "Kramer",
+        "Newman",
+        "George"
       ],
-      "correctAnswer": "Katie"
+      "correctAnswer": "Lamar"
     },
     {
-      "quote": "...Yeah, you're right. Well, will you at least keep me company until somebody comes out?",
+      "quote": "According to our latest quarterly thing,Kruger Industrial Smoothing is heading into the red. Or the black, or whatever the bad one is. Any thoughts?",
       "characters": [
-        "Farkus",
+        "Kruger",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You should have told that story about Packyderm dropping the pizza.",
+      "characters": [
         "George",
+        "Jerry",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, uh..  \"What is this stuff? Why do we need this stuff?.. And why do they make it so small..?\"",
+      "quote": "Alright, listen, we'll have to do this again some other time, okay? I got a lotta work to do.",
       "characters": [
-        "Kramer",
-        "Patty",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You mentioned George's name to Mayor Dinkins? You discussed George with the mayor of New York?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Maura",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Don't you know you're not supposed to poke around down there.",
-      "characters": [
-        "Jerry",
         "Elaine",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "His chiropractic job was a crock. It's even worse than it was before.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Lanette",
+        "Bette",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hold it, hold it...Look your gonna need the jaws of life to get out of those things.",
+      "quote": "I don't know. We're just waiting here for the owner of this car to show up. May not get out alive! Thug! Taking up a handicap spot? He's gonna pay!",
       "characters": [
-        "George",
-        "Doctor",
-        "Ben",
+        "Elaine",
+        "Woman",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Because if he doesn't ask you out he doesn't get rejected. He has found a dating loop hole.",
+      "characters": [
+        "Marla",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So you were talking,  you're having pleasant conversation,  then all of sudden...",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Ethan",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He's a sports writer for the daily news. I find him very insightful...",
+      "quote": "Alright, very good, very good...go fold your little balloon animals, Eric. Eric!  What kind of name is that for a clown, huh?",
       "characters": [
-        "Elaine",
+        "Danielle",
+        "George",
         "Jerry",
-        "Kramer",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "No no no no, I was just down on the forty-second street subway today, it is disgusting. Guess who I bumped into. Owen.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Shelly",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
     }
   ]
 }

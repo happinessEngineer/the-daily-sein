@@ -1,106 +1,106 @@
 {
-  "gameNumber": 629,
+  "gameNumber": 630,
   "date": "2026-09-24",
   "questions": [
     {
-      "quote": "You know, the photo I took in Tuscany of the little man in front of the sign that said \"Costanza\"?",
+      "quote": "I'm feelin' a bit queasy myself. Maybe I'll see you in another five years.",
       "characters": [
-        "Doorman",
         "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, it was OK. Frankenstein didn't seem quite right to me. I missed the sport jacket.",
-      "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Jeannie"
+        "Morty",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Wait wait George. You got room in the car for the pig-man huh?",
+      "quote": "We sat there for twenty minutes, chewing, staring at each other in a defunct relationship.",
       "characters": [
+        "Jerry",
+        "Jack",
+        "Fred",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Then, after a period of being \"there for you\", we slowly remove the two words \"for you\", and we're just  \"there\".",
+      "characters": [
+        "Estelle",
+        "Michael",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, well, of course, but, even so, you may wanna talk to a lawyer.",
+      "characters": [
+        "Jerry",
+        "Peterman",
         "George",
-        "Kramer",
-        "Hanke"
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I slept in really hot rooms and I wanted to kill myself.",
+      "characters": [
+        "Jerry",
+        "Bania",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Interesting. She doesn't care for you, then a stern warning, suddenly a phone call. Seems Elaine's made you the bad boy. And Anna digs the bad boy.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "Jodi"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, you're welcome. You know I think I ate too much of that garlic.",
-      "characters": [
-        "Elaine",
-        "Silvio",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know. I can tell. It's one of my powers. Why, did you ever fake?",
+      "quote": "She put them in her pocket book. She probably took them out there with her.",
       "characters": [
         "George",
-        "Jerry",
+        "Jake",
         "Elaine",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm glad you feel that way. Because since my father's breakdown I uh, become very sensitive to the warning signs.",
+      "quote": "And I didn't even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no?  I can't do that to someone.",
       "characters": [
-        "Kevin",
-        "Jerry",
+        "Kramer",
         "Elaine",
-        "Deena"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Deena"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So you're havin' the sex, next day you don't have to call. That's pretty good.  Go ahead.",
+      "quote": "Yeah. Got to invite The Drake. Listen hem...there's something that's been on my mind and we haven't really talked about it..I t's kind of important to me.",
       "characters": [
-        "Jackie",
         "George",
+        "Jerry",
+        "Ronnie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, The New Yorker, I've met with their cartoon editor and I got him to admit that that cartoon ...MADE NO SENSE....",
+      "characters": [
+        "Jerry",
         "Kramer",
+        "Frank",
         "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm in awe of his intellect, when he talks it sounds like he's reading from one of his novels.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You're just trying to take it all back because you're feeling guilty I'm in here.",
+      "quote": "Well, Jerry, we have a little surprise for you! Come on out, Celia!",
       "characters": [
-        "Abby",
         "Jerry",
-        "Elaine",
-        "Patrice"
+        "Kramer",
+        "Woman",
+        "George"
       ],
-      "correctAnswer": "Patrice"
+      "correctAnswer": "Kramer"
     }
   ]
 }

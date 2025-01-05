@@ -1,106 +1,106 @@
 {
-  "gameNumber": 124,
+  "gameNumber": 125,
   "date": "2025-05-07",
   "questions": [
     {
-      "quote": "So I think we should just forget the whole deal, and go back to being friends.",
+      "quote": "No, I jumped on the bus. I told the driver, \"I got a toe here, buddy - step on it.\"",
+      "characters": [
+        "Kramer",
+        "Conrad",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Owner",
+        "Leo"
+      ],
+      "correctAnswer": "Owner"
+    },
+    {
+      "quote": "What? D'you think you're such a big shot now, because you got a Cadillac?",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Stu"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Mr. Petermen, this is not a cat fight. This is violent psychotic behavior directed at me all because are told her to swing her arms.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Remember the plane we took here? The pilot is gonna be sitting out there watching the show.",
       "characters": [
         "Jerry",
         "Elaine",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "Oh, it's a great place, it's uh two-bedroom uh, west 83rd 'bout half block from the park.",
+      "characters": [
+        "Michael",
+        "Kramer",
+        "Maestro",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How long has your car been sitting in the Yankee parking lot?",
+      "characters": [
         "Jackie",
+        "Susan",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, Elaine, you have got to buy this new electric toothbrush I just got - the Ori-dent.",
+      "quote": "I don't know why we didn't think of this before. We just could call TV Guide.",
       "characters": [
         "Jerry",
-        "Daphne",
-        "Ben",
-        "George"
+        "Kramer",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Now, lookit, this plane leaves at 10:15. We're getting up at about eight. That gives us enough time, right?",
+      "quote": "I just can't be with someone who's life is in complete disarray.",
       "characters": [
-        "Brett",
+        "Kramer",
         "George",
         "Jerry",
-        "Elaine"
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, revulsion has now become a valid form of attraction.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Estelle",
+        "George"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Do you hear what I'm saying to you?! I'm telling you that if I don't go, I could die. Die. Is it worth dying for?",
-      "characters": [
-        "Frank",
-        "Newman",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And I didn't even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no?  I can't do that to someone.",
-      "characters": [
-        "Puddy",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "First you make a cell-phone walk-and-talk, then she loses a call-waiting face-off, now you're talking about a plane call?",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Sometimes it's good to have a pencil to write these things down.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Tony",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, Kramer, it's Elaine, thanks for bringing my mattress back. And I guess I'll just get my spare key from you - whenever. All right, bye.",
-      "characters": [
-        "Valerie",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hello Darren, this is Jerry from Jerry's office. . We're going to be three for lunch.  What do you mean he's already left?",
-      "characters": [
-        "Jerry",
-        "Brett",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well if a couple breaks up and have plans to go to a neutral place, who withdraws? What's the etiquette?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 645,
+  "gameNumber": 646,
   "date": "2026-10-10",
   "questions": [
     {
-      "quote": "Oh, you're not gonna get caught. Look, let me get him. Man, it's the nineties, it's Hammer time! Come on, just let me get him.",
+      "quote": "So Kramer what am I supposed to do? If I don't have that fur hat by four o'clock they're gonna take me down like Nixon.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Waitress"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You gotta get an estimate on my car from him. I think this garage is trying to screw me.",
-      "characters": [
-        "Estelle",
-        "Kramer",
-        "Kate",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "June 14, 1987.... Mets Phillies. We're enjoying a beautiful afternoon in the right field stands when a crucial Hernandez error to a five run Phillies ninth. Cost the Mets the game.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Jackie",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Because you said this would be better. Remember? A vacation from ourselves. That's what you said.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Donald"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Apparently the glue in the wedding invitations was a....toxic.",
-      "characters": [
-        "George",
-        "Karen",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just need someone who can give me some kind of direction. I'll see ya.",
-      "characters": [
-        "Abby",
-        "Deena",
-        "Tv",
-        "Evelyn"
-      ],
-      "correctAnswer": "Abby"
-    },
-    {
-      "quote": "Poison you? Jerry Seinfeld tried to poison you? Wha? Mr. Pitt, what are you, delirious? He's never even met you!",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Morgan",
-        "Elaine"
+        "Peterman",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Anybody want to take a walk down to 48th street? I think I may have tracked down another receipt.",
+      "quote": "'Cause it's signals, Jerry, it's signals!  Don't you- all right. Did she even ask you, what you were doin' tomorrow night, if you were busy?",
       "characters": [
-        "Elaine",
+        "Jack",
+        "Jerry",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Peterman's book is big business. People want to know the stories behind the stories.",
+      "characters": [
+        "Farkus",
         "George",
-        "Jerry"
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's my medical opinion, that you're making a big mistake. And it's going in my chart.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wilhelm",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I cannot find my Jerry Lewis cufflinks. Without 'em, I have no in!",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, my lawyer says 14 months, but with good behavior, maybe...10?",
+      "quote": "Oh come on Jerry, you're wrong. People they want to watch freaks. This is a \"can't miss.\"",
       "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kurt"
-      ],
-      "correctAnswer": "Kurt"
-    },
-    {
-      "quote": "No, no, no. I have to get home tonight. Bridget's gonna be waiting for me at the Diplomat's Club. Rent a car.",
-      "characters": [
-        "Elaine",
         "George",
         "Kramer",
-        "Jerry"
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why did you force that mint on me? I told ya I didn't want the mint!",
+      "characters": [
+        "Susan",
+        "Bania",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because before you know it he'll be having lunch with him. You know how these interoffice politics work.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Last time I had lunch with you here. You were going *on* and *on* and *on* about how you wanted to meet somebody who didn't speak English.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Earl"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know what we could do? He eats at that restaurant, Pfeiffer's? We could have Gail call us, tell us the next time he's there, go there and talk to him.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Raymond"
       ],
       "correctAnswer": "Jerry"
     }

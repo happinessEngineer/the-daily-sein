@@ -1,106 +1,106 @@
 {
-  "gameNumber": 169,
+  "gameNumber": 170,
   "date": "2025-06-21",
   "questions": [
     {
-      "quote": "I do! I just miss the warm weather, y'know? Jeez. Oh man, I wish I could get away.",
+      "quote": "Let me call him back... Hello? Who is this? Donna Chang? Oh, I'm sorry, I must o' dialed the wrong number.",
       "characters": [
+        "Ray",
+        "George",
         "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Me, either. Wait a second. Wait a second. Maybe it's that yogurt.",
-      "characters": [
-        "George",
-        "Bonnie",
-        "Morty",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Only I hold the answer key to their true candy identities. And so, without further ado, I give you… the candy line-up.",
+      "quote": "Well George, your vision is quite impaired. If you'll just sign this insurance form, here's a pen.",
       "characters": [
-        "Karen",
+        "Doctor",
         "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "Yeah. He just got a job at a condom factory in Edison. Look at this, he gave me a gross.",
+      "characters": [
+        "Beth",
+        "Stan",
         "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "And Kramer thinks a penalty stroke may have driven him to it.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, how I've waited for this moment. But alas, my heart belongs to another man's wife, and I have given the coat to her.",
-      "characters": [
-        "Poppie",
-        "Morty",
-        "Ron",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "If I'm curt, then I appologize. But as I understand it, we have a situation here and time is of the essence.",
-      "characters": [
-        "Newman",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Well, actually you did miss one nugget of entertainment.  Have you ever seen Elaine dance?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Wait a second, I know what's happening. The no sex thing is having a reverse effect on you.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, so what? You put out the catalog. How bad could it be?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Tim",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ah, Now, for those of us who don't know, uh, sidling is what?",
-      "characters": [
-        "Usher",
-        "Conrad",
-        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't worry, Tim.  I didn't come by to yell at you, I didn't come by for that at all.  I just came by to pick up my label maker.  I gave you a label maker and now I would like to have it back.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know, but those are my socks! I had a pair just like that with the blue stripe, and now I don't have them anymore!",
+      "characters": [
+        "Jack",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's dynamite. Yeah, I'll look for the Chinese food leftovers.",
+      "characters": [
+        "George",
+        "Greg",
+        "Mike",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. I got some bad news for you, buddy. I think your car got stolen again.",
+      "characters": [
+        "Kramer",
+        "Buckles",
+        "Rabbi",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what you do? Ask him a follow-up question. Tell him you're having trouble getting started, and you want his advice.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright, well you know what'cha gotta do, you gotta go through her purse. Y'know, the-the credit cards, driver's license...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So she wanted you to come up, but you left because you thought some guy might be calling you?!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

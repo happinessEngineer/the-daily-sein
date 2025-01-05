@@ -1,106 +1,106 @@
 {
-  "gameNumber": 406,
+  "gameNumber": 407,
   "date": "2026-02-13",
   "questions": [
     {
-      "quote": "No, they can't find the problem. It's really getting ridicurous.",
+      "quote": "Actually I was kind of thinking that maybe we shouldn't see each other for a while.",
       "characters": [
-        "Donna",
-        "George",
+        "Abby",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Donna"
-    },
-    {
-      "quote": "This MacKenzie, he's a bit of a nut. Someone told me he fired the last guy because his nose whistled when he breathed.",
-      "characters": [
-        "Frank",
         "Jerry",
-        "Clerk",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Abby"
     },
     {
-      "quote": "This is a real piece of junk. I don't even feel safe on this thing. I have a good mind to write a letter toMr. Kimbrough.",
+      "quote": "You don't think I make money. That's what you think isn't it?",
       "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "A dealer? Are you insane? No, take out an ad. Sell it privately.",
-      "characters": [
-        "George",
         "Kramer",
-        "Salesman",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No no it's ok.  So we'll go see Schindler's List later right?",
-      "characters": [
-        "George",
-        "Evelyn",
-        "Jerry",
-        "Kramer"
+        "Tina",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well Stubs has already sold it to some guy who's kid's in the hospital .",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It's hell. It's the financial equivalent of a complete rectal examination. I would have killed this man. Torn him limb from limb, ripped the flesh right off his bones ...",
-      "characters": [
-        "Joel",
-        "Jerry",
-        "George",
-        "Fred"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Never! It is a part of me. I will just return the chair, and it will be easy, because the receipt is in my good friend.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, perhaps we should inquire. Poppie! Oh, Poppie. Could I have a word?",
+      "quote": "Now that was an interesting greeting, did you notice that, George?",
       "characters": [
         "Jerry",
         "George",
-        "Kevin",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're through Soup Nazi. Pack it up. No more soup for you. Next!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Gwen",
+        "Toby",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The doctors thought he had cancer, but the surgery revealed he never actually had it.",
+      "characters": [
+        "Tv",
+        "Elaine",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait a minute. Wait a minute, hold on! We're just patsies. We're just a couple of users.. We never sold the stuff. What about the Russian guy? The Russian guy is the guy you want.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah she asked for your number, I think she's gonna get in touch with you.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey I'll get married if I have to. Al Netchie will think twice before he opens his mouth about me again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Conrad"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I didn't count on my mechanic pulling a Mary-Beth Whitehead, did I?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. That's enough for today. You're tired. Get some sleep. I'll see you first thing in the morning.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Announcer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well let me put a solution for ya: do your business elsewhere, I don't want your business.",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "Sid",
+        "George"
+      ],
+      "correctAnswer": "Joe"
     }
   ]
 }

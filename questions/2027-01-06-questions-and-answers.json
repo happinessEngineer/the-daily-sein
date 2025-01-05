@@ -1,106 +1,106 @@
 {
-  "gameNumber": 733,
+  "gameNumber": 734,
   "date": "2027-01-06",
   "questions": [
     {
-      "quote": "Boy, I have really had it with Newman. He wakes me up again last night at three o'clock in the morning to tell me he's going up onto the roof to kill himself.",
+      "quote": "George! Forget Bozo, George. Bozo's out. He's finished. It's over for Bozo.",
       "characters": [
+        "Robin",
         "Kramer",
-        "Amy",
         "Jerry",
-        "Seth"
+        "Elaine"
+      ],
+      "correctAnswer": "Robin"
+    },
+    {
+      "quote": "What? What this? I'll be out of here in couple of hours. Hey, guess who I met today? Rick Savage, oh nice kid, really good kid. You know, we're talking about doing a project together.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Mickey"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, perhaps we can take comfort in the knowledge that in the next world, Ray will be the recipient of a much larger and more harsh brand of justice..",
+      "quote": "I'm just doing this waitress thing for a while, because I wanted to go to Europe this summer…",
+      "characters": [
+        "Kelly",
+        "Jerry",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Kelly"
+    },
+    {
+      "quote": "I don't care. It was good. I was enjoying it. Had to interfere. Couldn't leave well enough alone. Well, I will get even with you for this. You can count on it.",
+      "characters": [
+        "Tim",
+        "Holly",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I think you're all a little touched in the head.  You're so worried about your health.. You're young men.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "he's not a mimbo, he's an exciting, charismatic man he just happened to have a perfect face",
+      "characters": [
+        "George",
+        "Jerry",
+        "Gwen",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, Jerry, you have to. I need a buffer. You know, I haven't seen my father in a while and... you know...",
       "characters": [
         "Jerry",
-        "Leo",
+        "Detective",
+        "Toby",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, but I've read articles and I must say it, doesn't sound very pleasant.",
+      "characters": [
+        "Mike",
         "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "This show's gonna ruin my entire career. I don't know how I got involved in this.",
-      "characters": [
-        "Kramer",
-        "Morty",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. They give you a tenderloin, a salad and a baked potato, for four-ninety-five. You know what that cost you after six?",
-      "characters": [
-        "George",
-        "Morty",
-        "Peterman",
-        "Dana"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Yeah, those civil servants who risk their lives really got it made.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, Can't be...For instance I remember when we first met, we had a great conversation.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Farkus",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh yeah. Exercises every muscle in the body. It's great for the back.",
+      "quote": "Yeah. I met this lawyer, we went out to dinner, I had the lobster bisk, we went back to my place, yada yada yada, I never heard from him again.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Poppie",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Of course you did. Everyone gets along great when there's no possibility of sex.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Alton",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "By the way, you're doing it too fast. You'll disorient the customers.",
-      "characters": [
-        "Stan",
-        "Jerry",
-        "George",
-        "Man"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, yeah, you know how frustrating that can be when you keep putting quarters and quarters in to machine and then  nothing comes out...",
-      "characters": [
-        "Lippman",
-        "George",
-        "Dana",
-        "Elaine"
+        "Wilhelm",
+        "Receptionist"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, well, what you need is some summertime adolescent high jinx.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

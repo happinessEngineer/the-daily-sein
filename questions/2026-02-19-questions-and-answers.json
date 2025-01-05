@@ -1,106 +1,106 @@
 {
-  "gameNumber": 412,
+  "gameNumber": 413,
   "date": "2026-02-19",
   "questions": [
     {
-      "quote": "You said goin up the steps of her apartment was like being taken to a cell.",
+      "quote": "Maybe we should get married. Maybe everything we need is right here in front of us. Jer... let's do it.",
       "characters": [
-        "Jerry",
-        "Clerk",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Your clothes smell just like Pisano's. There's another Italian place on Jerome. Maybe I can fool him.",
-      "characters": [
-        "Jerry",
         "George",
         "Elaine",
-        "Doctor"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The guy who had the Hawaii transfer got busted for hoarding Victoria Secret catalogues. I gotta deliver that mail!",
-      "characters": [
-        "Newman",
         "Kramer",
-        "George",
         "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Excellent.  So, did you buy that electric toothbrush I was telling you about?",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because I can't call a woman with other people in the room. Come on, let's go.",
-      "characters": [
-        "George",
-        "Enzo",
-        "Jerry",
-        "Mohel"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Mickey, Mickey he hooked me up. He's a member of the academy.",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Really!...Well actually yeah I did see this ......'mazing little black dress...it was sleeveless....",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Jack"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You see Elaine, Billy was a simple country boy. You might say a cockeyed optimist, who got himself mixed up in the high stakes game of world diplomacy and international intrigue.",
+      "quote": "Yeah, here we go, yeah.  Mmm, oh. That's delicious. Mmm. It's a perfectly sane food to eat.",
       "characters": [
         "Kramer",
-        "Leo",
+        "Susan",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah.  And by the way, can you get this thing outta my house?",
+      "quote": "It must've seeped up my subconscious, Puddy has Ziggy bed sheets....D'you read the comics today?",
       "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Okay, I'll talk to him. But you're putting me in a very difficult position.",
+      "characters": [
+        "George",
         "Kramer",
         "Elaine",
+        "Mike"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "C'mon, you can come up with five thousand dollars.  Jerry, you don't have five thousand dollars you can led her? Come on.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I've called everyone. You know how hard it is to get a dermatologist in this town?  A real dermatologist.",
+      "characters": [
+        "Carrie",
         "Steinbrenner",
+        "Dana",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, it didn't. And you know why? Seeing the pilot in the audience really freaked me out.",
+      "quote": "Yeah, you're probably right. She's probably one of those neurotic clean freaks.",
       "characters": [
-        "George",
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, at the Yankees it was all about smoothing things over, you know, chiseling away, grinding down. In fact we used to call it 'the grind'.",
+      "characters": [
+        "Elaine",
         "Jerry",
-        "Harold",
-        "Elaine"
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, why don't you wait 'til she's not there on her lunch hour and just take it?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know. I just worry about trips like this. It's a lot of pressure.",
+      "characters": [
+        "George",
+        "Man",
+        "Vanessa",
+        "Kramer"
+      ],
+      "correctAnswer": "Vanessa"
     }
   ]
 }

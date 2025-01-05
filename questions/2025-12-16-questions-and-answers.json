@@ -1,106 +1,106 @@
 {
-  "gameNumber": 347,
+  "gameNumber": 348,
   "date": "2025-12-16",
   "questions": [
     {
-      "quote": "All right, all right, one more time, one more time! What was the exact phrasing of the request?",
+      "quote": "Speaking of ex's, my old boyfriend came over late last night, and, yada yada yada, anyway. I'm really tired today.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Marcy"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Look Ramon, you're, you're a nice guy. But I, I actually only have three friends. I really can't handle any more.",
       "characters": [
         "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
+        "Joe",
+        "Peterman",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that.",
+      "quote": "Blast! There's no way I can handle 8 in addition to my ususal load of one! I'll never get to Hawaii!  I'll be stuck in this apartment building forever!  The dream is dead.",
       "characters": [
-        "Detective",
+        "Joe",
+        "Kramer",
         "Elaine",
-        "Keith",
-        "George"
+        "Newman"
       ],
-      "correctAnswer": "Detective"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Peggy, we've got to talk. What is it about me that you find so offensive?",
+      "quote": "I'll tell you why. Because I believe Whatley converted to Judaism just for the jokes.",
       "characters": [
-        "Steinbrenner",
-        "Puddy",
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey Babaloo, you better get home. You know this guy Bookman from the library he's waiting for ya.",
+      "characters": [
+        "Kramer",
+        "George",
         "Jerry",
         "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, Jerry! Guess what! The Kramer name might live on! Noreen's late! She's laaate!!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "They talk back. They go, \"Hey George, how's it going?\" I say, \"Get the hell out of here!\"",
-      "characters": [
-        "Kramer",
-        "Bania",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Eddie. Yes, um, I am so sorry but I'm afraid we're gonna have to... promote you.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Stu",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, nothing here, let's go.  Oh, I forgot to tell you. After I talked to you today my neighbour called me and played my messages to me over the phone.",
-      "characters": [
-        "Carol",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Carol"
-    },
-    {
-      "quote": "Well, so, he can live without his Valium for a couple of days.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Bania"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, she didn't think it was funny. What is she, Rowan & Martin? We're supposed to meet with NBC tomorrow! She completely shattered my confidence. And I'm paying for this, she's my employee!",
+      "quote": "Well, but, you see, I saved something! See? I can save. I'll see you at the pledge drive, ok?",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Tia",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, let's get going. C'mon, c'mon now.  C'mon, let's get it together..  Yeah?",
-      "characters": [
-        "Jerry",
-        "Kruger",
-        "Elaine",
+        "Peterman",
+        "Doctor",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This guy makes the best soup in the city, Jerry. The best. You know what they call him? Soup Nazi.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Ladies and gentlemen, this  is Steven Koren. His G.P.A. is a solid 2.0! Right in that meaty part of the curve - not showing off, not falling behind.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So what, they don?t have another plane? She couldn't take a bus?",
+      "characters": [
+        "Beth",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You , you know what you should've done is watching that report on CNN last night.",
+      "characters": [
+        "Tim",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

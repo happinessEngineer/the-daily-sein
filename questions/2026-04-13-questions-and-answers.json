@@ -1,106 +1,106 @@
 {
-  "gameNumber": 465,
+  "gameNumber": 466,
   "date": "2026-04-13",
   "questions": [
     {
-      "quote": "Because, he doesn't pay any attention to me, and uh he ignores me.",
+      "quote": "Oh, three more days, three more days then we're off to Paris.",
       "characters": [
-        "Hoyt",
-        "Kramer",
+        "Susan",
         "Elaine",
-        "Jerry"
+        "Helen",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "You yelled that time at the movies. That's why you're not getting the baby.",
+      "characters": [
+        "Kramer",
+        "Shelly",
+        "Elaine",
+        "Lippman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, Jerry has one of those every time he bombs on stage.",
+      "quote": ". . . Years. Many years , um,  we've been close friends and then recently something just you know *ehghh* happened.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Gavin",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, yeah, yeah, sure, why don't you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin' anything?",
       "characters": [
         "Kramer",
-        "Donna",
+        "Mike",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's a doctor!.I mean it's supposed to be like a sterile environment.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, this is one of the nicest things anyone has ever given me.",
+      "characters": [
+        "Keith",
+        "Kramer",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I'm on the phone with Bob, and I realize right then and there that I need to return this pair of pants. So, I'm off to the store.",
+      "quote": "What? Jerry, I gave you my blood. Listen to your pulse,  hey buddy-hey buddy-hey buddy...",
       "characters": [
+        "Joel",
         "Kramer",
-        "Elaine",
         "Jerry",
-        "Tony"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ah, the lift. Like the lure of the siren's song. Never what it seems to be, yet who among us can resist?",
+      "quote": "Sometimes I've given my number out to guys and it takes them a month to call.",
       "characters": [
-        "Jerry",
-        "Estelle",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I dunno about you two, but I'm quitting. I hate my guy. He's a mean, mean guy.",
-      "characters": [
+        "Elaine",
         "George",
-        "Jerry",
-        "Kramer",
-        "Rita"
+        "Helen",
+        "Morty"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I don't know, honey. What do you want to get? [in babying voice] I want you to get anything you want...'cause I love you so much. I want you to be happy. Okay, sweetie?",
+      "quote": "Oh good, good, come in. Come in, welcome. I'm George. And this is Jerry, over there, on the phone, that's Jerry. And you are, um?",
       "characters": [
+        "Jerry",
         "Frank",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Lopper. You know, Lisi, maybe we should give this a little more time. See how it looks in the light of day.",
-      "characters": [
-        "Margaret",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Damn you Seinfeld. You useless pustule. Um, somebody's got something on the griddle. maybe it's Kramer.",
-      "characters": [
-        "Kramer",
-        "Newman",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Anyway, so he gave me his spare keys, now he wants to have my keys, so I need mine back from you.",
-      "characters": [
-        "Fdr",
-        "Steve",
-        "George",
-        "Jerry"
-      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "If I see her, what do I say that I'm doing here in the building?",
+      "quote": "She's got everything, right?  She's intelligent, she's smart, she's got a great sense of humour.",
       "characters": [
-        "Jackie",
-        "Clerk",
-        "Kruger",
-        "Jerry"
+        "Kramer",
+        "John",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

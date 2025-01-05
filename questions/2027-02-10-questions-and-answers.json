@@ -1,106 +1,106 @@
 {
-  "gameNumber": 768,
+  "gameNumber": 769,
   "date": "2027-02-10",
   "questions": [
     {
-      "quote": "We might as well just stay here, we haven't got that much time if we wanna make it to the movie.",
+      "quote": "Anyway, I want you to pick up this big screen TV, and deliver it to her.",
       "characters": [
+        "Jerry",
+        "Frank",
+        "Christie",
+        "Sara"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "For example, now, I call you whenever I'm inclined and vice versa.",
+      "characters": [
+        "Lamar",
+        "Jerry",
         "George",
-        "Kramer",
-        "Morty",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "How could she forget I've been ordering lunch every day here for 3 and a half years?",
+      "quote": "Don't worry. I'll get to the other functions.  I can't get it open.",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Poppie"
+        "Morty",
+        "Pop",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Uh, actually my parents are over, but, would you like to meet them?",
-      "characters": [
-        "Gavin",
-        "Jerry",
-        "Kramer",
-        "Karen"
-      ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "I think that I was in that theatre. That, that was really funny.",
-      "characters": [
-        "Valerie",
-        "Jerry",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Valerie"
-    },
-    {
-      "quote": "You know, when I was a kid, we didn't have these elaborate birthday parties w-with catered food and entertainment. I remember my 7th birthday party...",
-      "characters": [
-        "George",
-        "Peterman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh. Yeah, I been getting HBO and Showtime for free. See, they just found out about it, so now they wanna come and take it out.",
+      "quote": "Well you know, if it's enough already and I just wanna get some sleep.",
       "characters": [
         "Kramer",
-        "Peterman",
         "Elaine",
-        "Newman"
+        "Morty",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'll handle this, Violet. Why don't you take your three hour break? Oh, calm down, everyone. No one's cancelling any mail.",
+      "quote": "Well, what are we going to do about Paris? I mean are we actually going to get back on this plane?",
       "characters": [
-        "George",
-        "Newman",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Proof? You want proof? He's driving around in a brand new Cadillac. Now what more proof do you want?",
-      "characters": [
-        "Jack",
         "Jerry",
-        "Kramer",
-        "George"
+        "George",
+        "Jodi"
       ],
-      "correctAnswer": "Jack"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Elaine, the guy's Jewish two days, he's already making Jewish jokes.",
+      "quote": "Federal Express?! Is she out of her mind? Why didn't she just ship it?!",
       "characters": [
-        "Jack",
-        "Hanke",
-        "Peterman",
+        "Morty",
+        "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey -- why don't you just go then! And -- oh, give this to George. Tell him he owes me $500!",
+      "quote": "Oh good. I just didn't want you to freak out... The chance of a crash is very slim. Do you have to go to the bathroom?",
+      "characters": [
+        "Ed",
+        "Jackie",
+        "George",
+        "Kate"
+      ],
+      "correctAnswer": "Kate"
+    },
+    {
+      "quote": "It was weird because George and I get along so great in so many situations but this is the first time we ever really went one-on-one.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I'll bet you are! They told us he was poisoned! Something in his food.",
+      "characters": [
+        "Phil",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Phil"
+    },
+    {
+      "quote": "We gotta get something. I don't want to go to that meeting on an empty stomach. Let's get some Chinese. You wanna order it?",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Nina"
+        "Buckles",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Nina"
+      "correctAnswer": "George"
     }
   ]
 }

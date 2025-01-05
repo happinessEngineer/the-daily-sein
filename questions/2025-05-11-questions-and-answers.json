@@ -1,106 +1,106 @@
 {
-  "gameNumber": 128,
+  "gameNumber": 129,
   "date": "2025-05-11",
   "questions": [
     {
-      "quote": "So, this is beautiful. You, and Puddy, and this new guy, in a big pot of love stew.",
+      "quote": "Hey Kramer, my parents are gonna have to move back to Florida, isn't that great?",
       "characters": [
-        "Kate",
-        "George",
         "Kramer",
+        "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "OK, HISTORY ... THIS IS FOR THE GAME. ... HOW YA DOIN' OVER THERE? ... NOT TOO GOOD!",
+      "quote": "Yeah. Look, see. I still have my business card.  Yeah, we've been on strike for 12 years.",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Donald",
-        "Cop"
-      ],
-      "correctAnswer": "Donald"
-    },
-    {
-      "quote": "Yeah, listen, uh, Elaine, I've changed my mind about the whole coma thing.  Yeah, I decided I'm up for it.",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Elaine"
+        "Helen",
+        "Frank",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "please please I don't want to die up here. please, stop moving that's all I'm asking.. Kramer!!",
+      "quote": "Yeah. And since you go buy there everyday. I was hoping that we could help each other out.",
       "characters": [
+        "George",
         "Kramer",
         "Jerry",
-        "George",
-        "Hal"
+        "Buckles"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, let's think. Have you ever dealt with the poor in any other situation?",
+      "quote": "Nobody does. You know, nobody knows what to do. You just close your eyes and you hope for the best. I really think they're happy if you just make an effort.",
       "characters": [
-        "Elaine",
-        "Bookman",
         "Jerry",
-        "Morty"
+        "Darren",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know what woman I always thought you looked like; Leena Horne.",
+      "quote": "Yeah, well, he was pretty devastated. This is his first race in 3 years.",
       "characters": [
-        "Kramer",
-        "George",
         "Jerry",
-        "Diane"
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I've got to hose the puke off the floor of the bus.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, this is very nice, but I really could take a cab. Really.",
-      "characters": [
-        "Poppie",
-        "Jerry",
-        "Margaret",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Wait, as a matter of fact, wasn't there some guy in your building that you said you liked? He lived up on the fifth floor or something.",
+      "quote": "Maybe Manya missed the funeral because she was off visiting another galaxy that day.",
       "characters": [
         "George",
-        "Elaine",
         "Jerry",
+        "Frank",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, I got into a thing with the son, and now he's laid up too.",
+      "quote": "That's very funny. Elaine told me you were some kinda comedian.",
       "characters": [
-        "Peterman",
-        "Kramer",
-        "Gary",
-        "Jerry"
+        "Estelle",
+        "George",
+        "Brett",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Brett"
     },
     {
-      "quote": "C'mon, Frank, relax. I don't even know what you're talking about.",
+      "quote": "...Well, obviously... You know...  Ap..ap, Chu... Why would you think I was having an affair with George?",
       "characters": [
-        "Kramer",
-        "Stu",
         "Jerry",
-        "George"
+        "George",
+        "Newman",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now you're being audited because of it. You see That's Karma.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

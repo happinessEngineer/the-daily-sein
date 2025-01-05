@@ -1,106 +1,106 @@
 {
-  "gameNumber": 925,
+  "gameNumber": 926,
   "date": "2027-07-17",
   "questions": [
     {
-      "quote": "Hey, how you doing Stu? Eddie, my man. You again? Boy, you're a slippery one. You'd better straighten up and fly right buddy boy.",
+      "quote": "With Jon Voight's teeth marks.  Owner's manual...you know what? This car was owned by Jon Voight.",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Guy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I haven't talked to him in, like, three weeks... I THINK it might be over...",
-      "characters": [
-        "Elaine",
-        "George",
-        "Ruby",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "My father was a lobsterman. He got up every morning at four and came home every night stinking of brine! He sent me through law school with the lobsters he caught!",
-      "characters": [
-        "Wendy",
-        "Morty",
-        "Kramer",
-        "Michael"
-      ],
-      "correctAnswer": "Michael"
-    },
-    {
-      "quote": "Jerry, what time do we have to be at the the Tonight Show on Thursday.",
-      "characters": [
-        "Morty",
+        "Cop",
         "George",
         "Jerry",
-        "Woman"
+        "Elaine"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, you know I went to the hospital today, and I saw the woman, you know, and the wheelchair is totalled, we gotta get her another one!",
+      "quote": "Yes, well, you know, I'm not thinking about the price. You know you're the only woman I've never thought about the price. Get the lobster. I beg you to get the lobster. Go for the lobster.",
+      "characters": [
+        "Elaine",
+        "Matthew",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You put a label on something, then ten minutes later it would peel right off.  It was the worst gift I ever got.",
+      "characters": [
+        "George",
+        "Audrey",
+        "Farkus",
+        "Tim"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Mr. Thomassoulo during times of great stress, people are capable of super human strength. Have you ever seen the Incredible Hulk, sir?",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Those birthdays. I told you. They're relationship killers. If a relationship is having any problems whatsoever, a birthday will always bring it out.",
       "characters": [
         "Kramer",
         "George",
-        "Elaine",
-        "Guard"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I tell you what, you give me the twenty, and I will buy *you* a popcorn and soda, and I'll throw in a bon-bons.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
+        "Helen",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.",
+      "quote": "I cannot believe Lindsay's still seeing you after that \"Breakfast at Tiffany's\" thing.",
       "characters": [
+        "Newman",
         "Jerry",
-        "Russell",
-        "Elaine",
-        "Detective"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Detective"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, right. I hope you have a good oral surgeon because that can be very serious.  Hey, look at naked people.",
+      "quote": "Well, maybe it was Ghostbusters? Where ever it was, it worked!",
       "characters": [
-        "Christie",
+        "Peterman",
+        "Newman",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What do you mean, 'what is it?' It's a country right next to Belgium.",
+      "characters": [
+        "Corinne",
         "Jerry",
+        "Kramer",
+        "Dan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should slow down, you know that? It's dangerous to go that fast.",
+      "characters": [
         "Elaine",
+        "George",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, well, he's in perfect health. He works out, he's vibrant. You'd really like him.",
+      "quote": "Alright George, I'll be honest. The first time we went out, I found you very irritating. But after seeing you a couple of times, you sorta got stuck in my head,  Ca-stan-za!",
       "characters": [
-        "George",
-        "Izzy",
         "Elaine",
-        "Jerry"
+        "Doorman",
+        "Heather",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right, I've got to hose the puke off the floor of the bus.",
-      "characters": [
-        "George",
-        "Newman",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Heather"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 71,
+  "gameNumber": 72,
   "date": "2025-03-15",
   "questions": [
     {
-      "quote": "Bell's Palsy. The entire side of my, of, of my face was paralyzed. Farfel! I couldn't, I couldn't, I couldn't even feed myself, I was completely incapacitated. Quiet Farfel!",
+      "quote": "No, no, he's not having a party. He's doing something. I don't know what it is. It's nothing. He's not doing anything.",
       "characters": [
-        "Gavin",
-        "Elaine",
-        "Jerry",
-        "Brett"
-      ],
-      "correctAnswer": "Gavin"
-    },
-    {
-      "quote": "That would be an interesting sociological experiment. You know, Kramer has his father's band. He'd loan it to you.",
-      "characters": [
-        "Elaine",
         "Jerry",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are you doing? All right, all right. What's the matter with that? What about that one?",
-      "characters": [
         "Kramer",
-        "Maestro",
-        "Jerry",
-        "Lamar"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, where, where are you going? You gonna take a trip? The map... what...",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry, you wouldn't believe what it's like down there. Taxicab drivers are insane. You know, everybody is in a hurry.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Manager",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Elaine, breaking up is like knocking over a coke machine. You can't do it in one push, you got to rock it back and forth a few times, and then it goes over.",
-      "characters": [
-        "Farkus",
-        "Man",
-        "Kramer",
-        "Jerry"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It doesn't matter. If anything happens to her, I'm on deck! Scissors mishap, air show disaster, chinese organ thieves...it's a dangerous world.",
+      "quote": "This jackass goes to Paris, leaves the alarm on. It's been beeping since 3:30 this morning.",
       "characters": [
-        "George",
         "Elaine",
-        "Joyce",
-        "Jerry"
+        "George",
+        "Regis",
+        "Jackie"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "One more thing Mister Costanza, we just need to know what time you'll be picking him up tomorrow.",
+      "quote": "Mm-hmm. Mm-hmm. All right. I don't think we're gonna have any problem with that.  Good talking to you Tom. Really.",
       "characters": [
-        "Doctor",
+        "Frank",
+        "Newman",
         "Elaine",
-        "Jerry",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Doctor"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I can see the can if you're in the army, but fresh fruit it's available, it's there, it's 2 aisles over.",
+      "quote": "Surprisingly, no. I'm freee, I'm unfettered...  Feel like a naked innocent boy rrroamin' the countryside!!",
       "characters": [
+        "Estelle",
         "Jerry",
-        "George",
-        "Elaine",
-        "Milos"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no........I'm sneaking in with Stan the Caddy, we've been going through the caddies entrance.",
-      "characters": [
-        "George",
-        "Elaine",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Okay. . Thanks.  Assman? Oh, no, these don't belong to me. I'm not the Assman. I think there's been a mistake.",
+      "characters": [
+        "Audrey",
+        "Kramer",
+        "Jerry",
+        "Valerie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No we didn't. You take these things too literally. It's like saying, you're hungry enough to eat a horse.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Of course you do... It's just, uh, y'know, I-I never *knew*, uh, that, uh...",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What are you? Satan? I'm close to a job here. It's my second interview with them.",
+      "characters": [
+        "George",
+        "Darryl",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, Well, it comes down if Little Jerry Seinfeld wins the cockfight.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's going on in here?  Are you two still playing?! You've been up here three hours!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

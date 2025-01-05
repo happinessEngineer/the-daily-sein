@@ -1,106 +1,106 @@
 {
-  "gameNumber": 922,
+  "gameNumber": 923,
   "date": "2027-07-14",
   "questions": [
     {
-      "quote": "I wish I could take credit for it. It's actually the line my butcher uses when we're chewing the fat. How about that beautiful desk over there?",
+      "quote": "Parking in a handicap spot. Right in the middle of his United Volunteers meeting. When he got back, he chased after me with a baseball bat.",
       "characters": [
-        "Chiles",
         "George",
-        "Amy",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, sorry I'm late. Channel Nine is doing a piece on my show. Isn't that great? Do you hate me?",
-      "characters": [
-        "Sally",
+        "Leo",
         "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Sally"
-    },
-    {
-      "quote": "I had like a so-so date with Valerie, now I'm number nine on the speed-dial.",
-      "characters": [
-        "George",
-        "Morty",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I mean don't you think that he was probably called Maestro while he was conducting, not in social situations. I mean his friends probably just called him Lenny.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Landlord"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Wait a minute; this postmark is three weeks old. Man, this happens all the time.  Jeanine? Who the hell runs the mailroom?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Brett",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh no. Tonight will be the first chance I've had to talk to her.",
-      "characters": [
-        "Todd",
-        "Morty",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Todd"
-    },
-    {
-      "quote": "No, I'm afraid we'll start talking, and I'll gonna wind up going partners with him.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Jack",
         "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I, I really should go home. Ya.. actually I'm planning on spending the day with my father tomorrow  we're uh we're going to a father-son picnic, just the two of us.",
-      "characters": [
-        "Conrad",
-        "Russell",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, Elaine Benes. Well, this is quite a thrill, yes. Come - -  Come on sit down. Yes.",
+      "quote": "Well, it's a big job. You've got to dismantle the latch hasp from the auxiliary drainage line.",
       "characters": [
-        "George",
-        "Elaine",
-        "Peterman",
-        "Kramer"
+        "Puddy",
+        "Newman",
+        "Wilhelm",
+        "Jerry"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Yeah, the little father has run his hard out. They're gonna break his maiden.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Kramer",
+        "Susan"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What is this? What are we doing? What in god's name are we doing?",
+      "quote": "Yeah. Well, count me out. I'm swimmin'. Old man Leland is bustin' my hump over these reports. If I don't get 'em done by nine, I'm toast.. )",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boy, it's a lucky thing I put the jacket on. But how did it get in the pocket?",
       "characters": [
         "Jerry",
         "Kramer",
-        "Salesman",
+        "Gino",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? Yeah, this is Jerry Seinfeld. No, no, no, I do not want to stop over in Cincinnati. Well, then you upgrade me. That's right, you should thank me. Goodbye.  Hey, I'm flyin' first class.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Who's got a tissues? I need more tissues! Look at this thing. It's my phone finger!",
+      "characters": [
+        "Deena",
+        "Elaine",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. You three all know each other. There's no point in me getting involved at this stage of the game.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Susan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay, take it easy.  That was Keith. we're going to do something next week.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Gavin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Excuse me. 'scuse me, weren't you told to stop using that hose?",
+      "characters": [
+        "George",
+        "Donna",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

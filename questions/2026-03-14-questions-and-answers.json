@@ -1,106 +1,106 @@
 {
-  "gameNumber": 435,
+  "gameNumber": 436,
   "date": "2026-03-14",
   "questions": [
     {
-      "quote": "Except for one small problem. Hah, I left some books in her apartment.",
+      "quote": "You don't understand fashion is cyclical this thing could come back.",
       "characters": [
         "George",
-        "Kramer",
+        "Leo",
         "Jerry",
-        "Bania"
+        "Morty"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "You're a fine person. You're a humanitarian. She's very sexy.",
+      "quote": "It's called Sendrax. They've got some new kind of technique for televising opera.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
+        "Wilhelm",
+        "Captain",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Kramer there is no way you're giving this tape to Brody and telling him I shot it.",
+      "quote": "Yeah, let me ask you a question. How do you cross those wires?",
       "characters": [
-        "Detective",
+        "Jerry",
+        "George",
         "Morty",
-        "Nikki",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, they're three kind of funny looking guys and they hit each other a lot.",
-      "characters": [
-        "Doctor",
-        "Jerry",
-        "Elaine",
-        "Ed"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes, I called you, you idiot! Because you were going to... You were going to... Remember?",
-      "characters": [
-        "George",
-        "Newman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "But you have a gift. Jerry, this is not your little comedy act. We're talkin' feature films.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Sid",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "That is a sad story. Hey, you should have been here tonight. Some guy from NBC saw my set, he wants me to do a showcase. I might have another shot at a pilot.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Its killing me, I can't eat, I can't sleep. All I can see is that giant red sun in the shape of a chicken.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Gary",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, I'll tell you what... why don't you go into the store and I'll wait in the car?",
+      "quote": "I know. That's the point. If it's gonna get sexual, it should get sexual with you.",
       "characters": [
-        "Helen",
-        "Frank",
-        "Hal",
+        "George",
+        "Doctor",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But I saw you push the women and children out of the way in a mad panic! I saw you knock them down! And when you ran out, you left everyone behind!",
+      "characters": [
+        "Robin",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Robin"
+    },
+    {
+      "quote": "I calculated my odds of ever getting together with a Portuguese waitress. Mathematically, I had to do it, Jerry.",
+      "characters": [
+        "Gavin",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Of course I'll do it. I'd be happy to. So, all I gotta do is be there at seven?",
+      "quote": "What, was that not politically correct? It's a legitimate question.",
       "characters": [
-        "Elaine",
         "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah! In fact, she broke up with me! And I don't want to talk about it!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Steven",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Federal Express? Of course. That's the oldest trick in the book. You know it might not be a burglar it could be a murderer.",
+      "characters": [
+        "Kimbrough",
+        "Jerry",
         "George",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You saw him. He was fiddling with the engine. God knows what he did there.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

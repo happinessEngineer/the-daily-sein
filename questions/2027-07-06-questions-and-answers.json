@@ -1,106 +1,106 @@
 {
-  "gameNumber": 914,
+  "gameNumber": 915,
   "date": "2027-07-06",
   "questions": [
     {
-      "quote": "So I love the Edward Scissorhands. That's the best movie I've ever seen.",
+      "quote": "Assassins! How dare they keep a person waiting like this! … Drake's Coffee Cake? … Give me that.",
       "characters": [
-        "Gino",
-        "Elaine",
-        "Donald",
-        "Kramer"
+        "Kramer",
+        "Lippman",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Gino"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Boy, she is nice. I like her, I like her Jerry. She's got substance. She oozes substance.",
+      "quote": "Hey Jerry, look at this. My seat's got a memory, in case somebody moves it. I could be in prison for five years. I come out, my seat goes right back to where I like it.",
       "characters": [
-        "Gary",
-        "Jerry",
-        "Kramer",
-        "George"
+        "Wilhelm",
+        "Kimbrough",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "I feel like a family. In fact, yesterday was Grace's birthday. She's such a sweet woman so, we had a little party, with cake and champagne. I made a toast.",
+      "characters": [
+        "Saleswoman",
+        "Brett",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, Jerry, we have a little surprise for you! Come on out, Celia!",
+      "quote": "Nothing, just being neighborly.  Do you wanna hang out?  Shoot the breeze?",
       "characters": [
-        "Kramer",
-        "Bob",
-        "Elaine",
-        "George"
+        "George",
+        "Newman",
+        "Gavin",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "He's always bragging about his vertical leap, so I bet him fifty bucks that he couldn't touch the awning.",
+      "quote": "I don't get this Scissorhands. What, is he supposed to be like a super hero, like Green Lantern or somebody? What's with this guy?  Just asking.",
       "characters": [
-        "Elaine",
-        "George",
         "Jerry",
-        "Kramer"
+        "Hal",
+        "Ray",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I lived with him for forty years, I never saw him trying on my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!",
+      "quote": "Because when you join that team it's not a whim. He likes his team. He's set with that team.",
       "characters": [
-        "Kramer",
-        "Estelle",
-        "Katie",
-        "Jerry"
+        "Kruger",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, look at this. Wide lanes. This is so luxurious. Woo, yeah.",
+      "quote": "Look at this, I only have one picture left... How 'bout a shot of me and Mr. Morgan?",
       "characters": [
-        "Elaine",
-        "Pitt",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What do the Chinese have to gain by faking a cure for baldness?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
+        "Frank",
+        "Jerry",
+        "Rabbi",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, karate is not here . It's here , and here , and here .",
+      "quote": "No, I ate the whole plate. I didn't know those little things were garlic. I thought they were peanuts.",
       "characters": [
-        "Jerry",
+        "George",
         "Kramer",
-        "Milos",
-        "George"
+        "Jerry",
+        "Ben"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright. Okay. Well, uhm, wait here and I'll uh, I'll bring it around.",
-      "characters": [
-        "Elaine",
-        "Jeannie",
-        "George",
-        "Tony"
-      ],
-      "correctAnswer": "Tony"
-    },
-    {
-      "quote": "I just thought you would be a little more excited about a friend of mine having a baby.",
+      "quote": "Oh, would you two stop with the Kennedys? Why does everybody make such a big deal about he Kennedys? What is this fascination?! Who cares?! It's all so boring..",
       "characters": [
         "George",
         "Elaine",
-        "Bette",
-        "Ned"
+        "Jerry",
+        "Newman"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ok, here's the deal. He wants you to acknowledge that you cut him off with an \"I am sorry\" wave.",
+      "characters": [
+        "Kramer",
+        "Rava",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

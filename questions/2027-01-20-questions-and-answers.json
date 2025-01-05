@@ -1,106 +1,106 @@
 {
-  "gameNumber": 747,
+  "gameNumber": 748,
   "date": "2027-01-20",
   "questions": [
     {
-      "quote": "Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.",
+      "quote": "That's an incredible story. You have a remarkable passion for brassieres.",
       "characters": [
-        "Gennice",
+        "Farkus",
+        "Jerry",
+        "Kramer",
+        "Poppie"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Oh hey, if you happen to see the most beautiful girl who walked out on me. Tell her I'm sorry. Tell her I need my baby ... oh won't you tell her ... I love her. Oh hey, ...",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Holy cow it's a scorcher. Boy I bet you that guy can cover a lot of court.",
+      "characters": [
+        "Announcer",
+        "Kramer",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Announcer"
+    },
+    {
+      "quote": "Look it's no secret what's going on between us.  She doesn't like me. Now Jerry if you don't mind.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Time like what? I'm hungry. My stomach doesn't know that Kramer's wanted.",
+      "characters": [
         "Elaine",
         "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, I?ll tell you what, you seem like a nice guy, let?s stop jerking around. Give me.. two hundred and fifty dollars, I?ve got people waiting for me, I've got to get the hell out of here.",
+      "quote": "Well, so, look, the cleaner said you could pick it up tonight at six.",
       "characters": [
-        "Morty",
+        "Kramer",
+        "Newman",
         "Elaine",
-        "Jerry",
-        "George"
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Damn you, laser guy! You had to grab it all with your lowbrow laser shtick! You're just a prop comic! Where's the craft?!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Cop"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, she wants me to dress uh \"smart casual.\" What uh, what is that?",
+      "quote": "Carrot cake? Now w-why is that a cake? You don't make carrots into a cake. I'm sorry.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well no not yet, you gotta buy french stamps  I-I'll reimburse you of course.",
-      "characters": [
-        "Jerry",
         "George",
-        "Frank",
         "Elaine"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "There really building a Utopian society up there huh.And you tribute all this to the calzone.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I'm gonna steal another one, and then return it. That way, everything is even.",
+      "characters": [
+        "Carrie",
+        "Maestro",
+        "Jerry",
+        "George"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Teddy Padillac. Long time, no see.  What've you got in a push-button mini.",
+      "quote": "He asked me if I still saw you. I said, \"Sure, I see him all the time. We're still great friends.\" Anyway, Howard says hello.",
       "characters": [
-        "Jerry",
-        "George",
+        "Joel",
         "Elaine",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, you'd be embarrassed and humiliated in front of a large group of people and have to walk out in shame with your tail between your legs.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Babu",
-        "Salesman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Sid left the keys in the car. Alright, I gotta go. Drive carefully.",
-      "characters": [
-        "Jodi",
-        "Helen",
-        "Woman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm sitting at home, reading a periodical, and this is the call I get? My son is a bootlegger?",
-      "characters": [
-        "Frank",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Dad, I wouldn't eat anything you caught in that pond out in front of the condo.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jane",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Joel"
     }
   ]
 }

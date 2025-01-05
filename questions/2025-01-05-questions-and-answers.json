@@ -1,106 +1,106 @@
 {
-  "gameNumber": 2,
+  "gameNumber": 3,
   "date": "2025-01-05",
   "questions": [
     {
-      "quote": "I can't think about it now. Come on, I'm going to Minneapolis. I got four shows this weekend.",
+      "quote": "Look, I'm really getting tired off all the fighting. Maybe we should just end this before we really start hating each other.",
       "characters": [
         "Jerry",
+        "George",
         "Kramer",
-        "Morty",
-        "George"
+        "Izzy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Would you just keep an eye out for this woman. She's about ye high and eh, she doesn't swing her arms when she walks.",
+      "quote": "so I ask this woman in the stall next to me for some and she refuses! ha ha",
       "characters": [
-        "George",
-        "Kramer",
+        "Phil",
         "Elaine",
-        "Jerry"
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right, look--wait--wait--Krama--wait, wait a minute, you are not. You are not goin' in. Ah-ahhh!",
+      "quote": "She's working late that night. We're - were supposed to have dinner with everybody at eight o'clock so I'll set up the ride for seven o'clock.",
       "characters": [
-        "Elaine",
         "Kramer",
-        "Jerry",
-        "George"
+        "George",
+        "Landis",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He's a doctor!.I mean it's supposed to be like a sterile environment.\"",
+      "quote": "Jerry, what do you, you wanna, you wanna see the place or not?",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Celia",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I, would, I would wait on that. I know how you feel but. Juries today, you never know how they're going to look at a thing like this.",
-      "characters": [
-        "Jerry",
+        "Mickey",
         "George",
-        "Dan",
-        "Estelle"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "There's a few things in here, ah, peanut butter, cheese, yeah ...",
+      "quote": "Really? Ah, I didn't think any cool guys lived in this neighborhood.",
       "characters": [
-        "Kramer",
+        "Tawni",
+        "George",
         "Jerry",
-        "Newman",
-        "Heather"
+        "Sylvia"
+      ],
+      "correctAnswer": "Sylvia"
+    },
+    {
+      "quote": "You remember that photo of me and Gerald Ford and I took it in. Got that Ford right out of there.",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So I'm nothing. Jerry is best man , Kramer is an usher and I am nothing.",
+      "quote": "Exactly. I love Phase Two. Extra toothbrushes, increased phone call frequency, walking around naked. You know, the presents get a lot better in Phase Two.",
       "characters": [
-        "Steinbrenner",
-        "Morty",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, he's good. He takes good pictures. He's got equipment over there.",
-      "characters": [
-        "Man",
-        "Guy",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, and then I asked him if my friend could have them and he said yeah.",
-      "characters": [
-        "George",
+        "Carol",
         "Jerry",
-        "Elaine",
+        "David",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I thought the thing you said about the sex not being simulated . That was really funny.",
+      "quote": "I couldn't help it. We hadn't been alone together in a long time and we just kinda started up a little during the coming attractions and the next thing we knew, the war was over.",
       "characters": [
+        "Jerry",
+        "Phil",
+        "Kramer",
+        "Nina"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The crook has the machine. The messages aren't for him. He's the crook. Why would he answer-  How did you get in here?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Mike",
+        "Simon"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Good. And I'll tell you what... You don't have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.",
+      "characters": [
+        "Kramer",
+        "Puddy",
         "George",
-        "Maestro",
-        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

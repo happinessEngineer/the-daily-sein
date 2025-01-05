@@ -1,106 +1,106 @@
 {
-  "gameNumber": 606,
+  "gameNumber": 607,
   "date": "2026-09-01",
   "questions": [
     {
-      "quote": "Will you get this horse outta here. He's killing me. I can't get any oxygen.",
+      "quote": "A leg man? Why would I be a leg man? I don't need legs. I have legs. Have you ever seen her naked in the locker room?",
       "characters": [
         "Jerry",
-        "Frank",
         "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You dated her. Give me some inside information. Anything I can use!",
+      "quote": "Y'know I can think of at *least* six known offensive odours that I would *rather* smell than what's livin' in your car.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "You don't understand, Elaine. I don't want to be overanxious. If he wants to see me he has my number, he should call.",
-      "characters": [
-        "Elaine",
-        "Kramer",
+        "Jeannie",
         "Jerry",
+        "Elaine",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, I would. It's just, you know, I just ate a whole pot roast.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You are paying a woman to come to your house and sleep with you.",
-      "characters": [
-        "Maestro",
-        "George",
-        "Jerry",
-        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, there was so much snow. The roads were closed. I really appreciate it - you picking me up. Thanks again.",
+      "quote": "I am not! What you call wasting, I call living! I'm living my life!",
       "characters": [
         "George",
-        "Jackie",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Let me in, it's me.  Here. You don't know what this is costing me.",
-      "characters": [
-        "Tim",
-        "Jerry",
-        "George",
+        "Kevin",
+        "Elaine",
         "Kramer"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm just getting warmed up. Because I'm just a sadist with newer magazines.",
+      "characters": [
+        "Elaine",
+        "Matthew",
+        "Tim",
+        "George"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "Well, he's getting credit for work that I did! He's gonna sidle me right out of a job.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Kate",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I can feel his blood inside of me. Borrowing things from my blood.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "George",
+        "Laura"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nobody carries wallets anymore. I mean, they went out with powdered wigs. Yeah, see here's what you need. Just a couple of cards and your bankroll. See, keep the big bills on the outside.",
+      "quote": "Hey Carl, I also need you to go to Elaine's and bring my old couch back.",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "George"
+        "George",
+        "Seth",
+        "Donald"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, you didn't hear it from me, but needless to say, if you go in there - stick with the consumee.",
+      "quote": "There was a box of raisins on the coffee table. Did you, by any chance, take them with you when left?",
       "characters": [
-        "Jerry",
-        "Phil",
+        "Elaine",
+        "George",
         "Kramer",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Sue Ellen sends me an invitation, one week before her wedding in India. Tst, I'll show her...",
+      "quote": "Hi, how are you guys? Listen, does either one of you have like a mint or piece of gum or...",
       "characters": [
+        "George",
+        "Morty",
         "Kramer",
-        "Lippman",
-        "Elaine",
-        "Jerry"
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey - Hey Kramer, what are you doing? You want to borrow something? You want to eat something? Come on in!",
+      "characters": [
+        "Jerry",
+        "Bruce",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

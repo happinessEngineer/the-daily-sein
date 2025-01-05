@@ -1,106 +1,106 @@
 {
-  "gameNumber": 859,
+  "gameNumber": 860,
   "date": "2027-05-12",
   "questions": [
     {
-      "quote": "Huh. Well, it all sounds pretty good. There's only one flaw in it: They're roommates. She'd have to go out with me behind Sandy's back. She's not gonna do that.",
+      "quote": "That's usually the kind of mood I'm in when I haven't showered.",
       "characters": [
-        "Morty",
         "Jerry",
-        "Elaine",
-        "Estelle"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no. Cinqo de Mayo.  Yeah, Marcellino, he turned me on to it, and he's one sixty-fourth Mayan.",
-      "characters": [
         "Kramer",
-        "Jackie",
-        "Amy",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Gino, you've outdone yourself this time. This is the best haircut I've ever had.",
-      "characters": [
-        "Darren",
-        "Man",
-        "Kramer",
-        "Rudy"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "Hey, I had the show of my life last night. I ad-libbed like ten new minutes.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Izzy",
-        "Steve"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, obviously, we all know each other very well,  I'm sure that we'll all feel comfortable within the confines of the honor system.",
+      "quote": "Is it?!  Ohhh, well if only you'd known, you could have saved some time and given it directly to me!  Ha ha ha.",
       "characters": [
+        "George",
+        "Newman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I'll tell you a little secret. We're having an unadvertised sale starting Friday, that suit will be half-price.",
+      "characters": [
+        "Duncan",
+        "Jerry",
+        "Elaine",
+        "Saleswoman"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "Oh who made you a Mohel? Whadya, get your degree from a matchbook?",
+      "characters": [
+        "George",
         "Kramer",
         "Elaine",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Shut up. Spread 'em. I said spread 'em!  You're in big trouble son. Burglary, grand larceny, possession of stolen goods... and uh, uh... murder.",
+      "quote": "Me neither. I love the previews. In fact I enjoy being in the theatre cut up. Last week after a preview, I yelled out 'Must miss'.",
       "characters": [
         "Elaine",
         "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I told them I have a place in the Hamptons. What did you say?",
+      "quote": "No, you can be young and bitter, just maybe not as bitter as I'm gonna be ten years from now, but I'm bitter. Anyway, don't tell anyone.",
       "characters": [
-        "George",
-        "John",
-        "Kramer",
-        "Pam"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "who do you think she is? how dare she? you want me to get the manager? too bad they don't have those old ladies walking around with flashlights anymore we'd flush her out",
-      "characters": [
-        "Nina",
+        "Cynthia",
         "Jerry",
+        "Elaine",
+        "Lippman"
+      ],
+      "correctAnswer": "Cynthia"
+    },
+    {
+      "quote": "It's a movie stub from the 9:30 show. George, I think Willie the dry-cleaner has been wearing my clothes.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Almost. Couldn't get the girl go out with me the second time.",
+      "quote": "Ok, I'll see you after school. I.m late for Hayman's hygiene.",
       "characters": [
-        "George",
         "Jerry",
-        "Newman",
-        "Kramer"
+        "George",
+        "Tawni",
+        "Sidra"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Are you kidding? People get spaces this good, they never give 'em up.",
+      "quote": "No. The police have no leads  and I just found out today my insurance doesn't cover it.",
       "characters": [
-        "Elaine",
-        "Kelly",
-        "George",
-        "Tim"
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. I haven't seen four women like this together outside of a Russ Meyer film.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Guy"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

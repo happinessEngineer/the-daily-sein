@@ -1,106 +1,106 @@
 {
-  "gameNumber": 884,
+  "gameNumber": 885,
   "date": "2027-06-06",
   "questions": [
     {
-      "quote": "Hey oo, I just remembered uh my parents really wanna have you guys over for dinner before you leave town. What about tonight?",
+      "quote": "Oh yeah.  There you go, keep the change. Bye now. I'll see you.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You can get a good one today. It's Enzo's day off. Gino's there all by himself.",
-      "characters": [
-        "Jerry",
+        "Jake",
         "George",
-        "Man",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Alright, I gotta tell you something, but you cannot tell Susan.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, dating a convicted felon. I don't know how you missed it.",
-      "characters": [
-        "Haarwood",
-        "Kramer",
-        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well its, uh, well its too hard to keep up, you know, they were tired.",
+      "quote": "Yeah, and here it is: You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!",
       "characters": [
-        "Elaine",
-        "Marcy",
+        "Rebecca",
         "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "As long as you've got your checkbook out, how about forking a little over to PBS? You watch the station, don't you? You don't want to be a freeloader.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Helen"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey, baby. I set the trends. Who do you think started this whole Café Latte?",
-      "characters": [
-        "Maestro",
-        "Tim",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Maybe you can strike one up with the prince of darkness as you burn for all eternity.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Duncan",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "This is very exciting! You're on the Tonight Show, NBC, who else is on the show?",
-      "characters": [
-        "Vanessa",
-        "Jerry",
         "George",
-        "Elaine"
+        "Kramer"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "Elaine, she's a psychic. She knows how the kid's going to be.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Tina"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Are you crazy? Don't you understand what I'm saying to you? This is not just an odour-- you need a *priest* to get rid of this thing!",
+      "quote": "Oh yeah. Exercises every muscle in the body. It's great for the back.",
       "characters": [
-        "Steinbrenner",
+        "Elaine",
         "Jerry",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well now it's not gonna be original! It's gonna lose all its cachet!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Like you this donation for 50 bucks and I'd start tearing my clothes off?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know it's not what the ladies like. But without some solid sack time, I'm a zombie.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I lugged that table. That big heavy massage table all the way down to the cab! You ever seen one of those things?",
+      "characters": [
+        "Jerry",
+        "Kruger",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So now you're going to tell me what I'm thinking. Well, go ahead, 'cause I'd really like to know.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Lisi"
+      ],
+      "correctAnswer": "Lisi"
+    },
+    {
+      "quote": "\"JIM....JIMMY WONT FORGET YOU KRAMER... JIMMY HOLDS GRUDGES. LET JIMMY GO......\"",
+      "characters": [
+        "George",
+        "Jimmy",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jimmy"
     }
   ]
 }

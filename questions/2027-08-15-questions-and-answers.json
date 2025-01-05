@@ -1,106 +1,106 @@
 {
-  "gameNumber": 954,
+  "gameNumber": 955,
   "date": "2027-08-15",
   "questions": [
     {
-      "quote": "Five seconds. Jerry, I was five seconds away from breaking up with him. Five seconds. The next words out of my mouth were, 'Owen, it's over.'",
+      "quote": "It's not contest. The guy had nothing! The ship went down, he got into a life boat, I mean, come on.",
       "characters": [
-        "Hal",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, he's always been jealous of me. I always get to stand in for the bigger stars; The Cosby Kids, Ricky Schroder, Macaulay Culkin.",
-      "characters": [
+        "Gillian",
         "Jerry",
         "George",
-        "Mickey",
-        "Poppie"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "Again with the checked out. I'm not going to the doctor. If I don't to the doctor, then nothing will happen to me. If I go he might find something.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Morty",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What are you talkin' about? It's fine, I love having you here.",
+      "quote": "Oh Jerry, that is so sweet of you but actually i already ate.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's a lot of pressure.  Make love to me.  What am I, in the circus? What if I can't deliver?",
-      "characters": [
-        "Kramer",
         "Elaine",
-        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, how come we played at this crummy place instead of your club?",
+      "quote": "Well, the man's an individualist – he worked for Harry Flemming. He knows what he's doing.",
       "characters": [
-        "Elaine",
-        "Helen",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You? What about me? I got the Tonight Show tonight. I'm gonna have to shower in the dressing room.",
-      "characters": [
-        "Helen",
+        "Elaine",
         "Kramer",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, maybe if I didn't have so many people in my apartment all the time I'd be able to get some work done.",
+      "quote": "yes.. alright buddy, take it easy Kramer you down to it George? what's wrong?",
       "characters": [
-        "George",
-        "Elaine",
-        "Ade",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know.  Just, things seem a little more exciting when you're around. That's all.",
-      "characters": [
-        "Elaine",
+        "Tony",
+        "Helen",
         "Jerry",
-        "George",
-        "Kramer"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Tony"
     },
     {
-      "quote": "Uh, yes. Uh uh, Doctor uh, Reston, is he in? Well, this is Kramer and uh, he's expecting my call.",
+      "quote": "We are with the American Medical Association. Can you confirm the correct spelling of your last name? Is it B-e-n-e-s.",
       "characters": [
+        "Guy",
+        "Regis",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Guy"
+    },
+    {
+      "quote": "She thinks a guy who lies about a life-threatening illness, so he can get some phony hair has perspective?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Joel",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No way, Kramer. You've brought nothing but a mountain of misfortune and humiliation. Now get out.",
+      "characters": [
         "George",
+        "Kate",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "Jerry! I'm gonna find your stuff. I'm gonna solve it, I'm on the case, buddy, I'm on the case.",
+      "characters": [
+        "Amy",
         "Elaine",
-        "Morty"
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You follow your katra, and you can do anything.  Now get out of here.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tina",
+        "Melissa"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Where's the heat in this car? Come on Elaine warm me up, oh! I'm cold. Just give me a little squeeze.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

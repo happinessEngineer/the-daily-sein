@@ -1,106 +1,106 @@
 {
-  "gameNumber": 353,
+  "gameNumber": 354,
   "date": "2025-12-22",
   "questions": [
     {
-      "quote": "Well, Mickey and her have a lot more in common. you know her parents are little people?",
+      "quote": "Well perhaps, not to the extent that you are. But I know the basic plot. Yeah.",
       "characters": [
-        "Bonnie",
+        "George",
+        "Puddy",
+        "Melissa",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well,  what part of your life  do you want to start with? Foreign intrigue? Exotic romances?",
+      "characters": [
         "Elaine",
+        "Jerry",
+        "Carrie",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you are the couch tonight, young lady. You were all over my side.",
+      "characters": [
+        "George",
+        "Evelyn",
         "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that's it, yeah. Boy, Stubs sure went to town with this thing huh? Yeah, well, Bobby, uh, what if I told you a very important person at the New York Yankees needed this card back.",
+      "characters": [
+        "Elaine",
+        "Jodi",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I wanted to get fired. George, you are looking at the new head scout of the New York Mets.",
+      "quote": "Well if I wanted it I wouldn't be throwing it away, *Ein-stein*.",
       "characters": [
-        "Jack",
-        "George",
-        "Wilhelm",
-        "Jerry"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "Well, she can't be too mad. She's still coming to the wedding.",
-      "characters": [
-        "Babs",
-        "George",
+        "Harold",
         "Elaine",
-        "Morty"
+        "Sid",
+        "Nikki"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Sid"
     },
     {
-      "quote": "It was unbelievable. Six weeks of traveling through Mexico all on Peterman's peso.",
+      "quote": "Ah hah. Let me ask you this. Is there any tampax in your house?",
       "characters": [
-        "George",
-        "Kramer",
+        "Audrey",
+        "Elaine",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yes, well, see, here's the thing, Babu. Um, what happened was I was away for a couple of weeks doing some comedy shows.",
-      "characters": [
-        "Russell",
-        "Kramer",
-        "Jerry",
-        "Kurt"
+        "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes several.. Just tell him he doesn't have to be in tomorrow before Eleven.",
+      "quote": "You know I went out once with a nude model. Never let me see her naked. Hundreds of people see her naked every week, except me. Needless to say it was quite vexing.",
+      "characters": [
+        "Helen",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, well, he's in perfect health. He works out, he's vibrant. You'd really like him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Pitt"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh! So you were swimming in the pool, and you wanted some gum.",
+      "characters": [
+        "Gwen",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, it's incredible. Although, I might replace her tortoise clip with one of those velvet scrunchies. I love those.",
       "characters": [
         "Kramer",
         "George",
-        "Jerry",
-        "Bob"
+        "Audrey",
+        "Jerry"
       ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "You know what this funeral's gonna wind up costing me? Oh boy!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Now I want my money, mister, and I ain't leaving until I get it.  Now I am through playing games with you, I got things to do.",
-      "characters": [
-        "Mickey",
-        "George",
-        "Jerry",
-        "Voice"
-      ],
-      "correctAnswer": "Voice"
-    },
-    {
-      "quote": "Hey, just 'cause I went in front first doesn't mean I'm sneaking in.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Mike"
-      ],
-      "correctAnswer": "Mike"
-    },
-    {
-      "quote": "All I have to do is stick my head out the window.  Which one's suppose to be the funny guy?",
-      "characters": [
-        "Alton",
-        "George",
-        "Elaine",
-        "Susan"
-      ],
-      "correctAnswer": "Alton"
+      "correctAnswer": "Kramer"
     }
   ]
 }

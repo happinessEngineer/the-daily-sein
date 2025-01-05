@@ -1,106 +1,106 @@
 {
-  "gameNumber": 704,
+  "gameNumber": 705,
   "date": "2026-12-08",
   "questions": [
     {
-      "quote": "Oh! yeah. The Nicole Millers ...hemm.. Well the funniest thing.",
-      "characters": [
-        "Jackie",
-        "Jerry",
-        "Kramer",
-        "Craig"
-      ],
-      "correctAnswer": "Craig"
-    },
-    {
-      "quote": "I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Marla",
-        "Ade"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "[in a panic] Me!? But that's three seats! I can't save three seats! I told you about that guy who tore up my winter coat!",
+      "quote": "No. So, tonight she's got tickets for that show she's been working on. The Flying Sandos Brother.",
       "characters": [
         "Kramer",
+        "George",
         "Elaine",
-        "Jerry",
-        "Newman"
+        "Guy"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All day tomorrow? We had a month and a half to come up with something and we didn't do anything.",
+      "quote": "You know I don't get you Seinfeld. You want something one day. The next day you don't like it. Come on man, make a decision.",
       "characters": [
-        "Newman",
-        "Elaine",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're supposed to buy me dinner in a nice restaurant, like Mendy's.",
-      "characters": [
         "George",
         "Jerry",
-        "Kramer",
-        "Bania"
+        "Conrad"
       ],
-      "correctAnswer": "Bania"
+      "correctAnswer": "Conrad"
     },
     {
-      "quote": "Actually, you know I think I did. The first time I couldn't really cons...[Monica closes the window]...entrate.",
+      "quote": "Newman and I are reversing the peepholes on our door. So you can see in.",
       "characters": [
         "Jerry",
+        "George",
+        "Stu",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Lisi, Lisi. Let me in! We can work this out. I was wrong, you were right. I'll do anything!",
+      "characters": [
         "Elaine",
-        "Steinbrenner",
-        "George"
+        "Jerry",
+        "Estelle",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Anyway, the Hizballah has invited me to perform.  You know, it's their annual terrorist luncheon.",
+      "quote": "Go? Why go anywhere?  Ahh, that feels good. Yeah. That's, uh... That's good.  Yeah, that's nice. That's very nice.",
       "characters": [
-        "Kramer",
-        "Jerry",
         "Helen",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, that one. She's been a member of the board longer than anybody. She's very tough to deal with.",
+      "quote": "It's right down here to the left. I will uh meet you right back here.",
       "characters": [
-        "George",
-        "Morty",
-        "Kramer",
-        "Jerry"
+        "Clerk",
+        "Elaine",
+        "Rebecca",
+        "Kramer"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street.",
+      "quote": "What is with this dog, I thought we were taking it to the pound.",
       "characters": [
         "Kramer",
-        "Owner",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Owner"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, then you're free tonight. You know what, I heard about this great place called La Caridad.",
+      "quote": "Well, what are we supposed to do? I gotta take Kramer to the doctor.",
       "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Mohel"
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh! I tell you what. How about if I come back here first and I clean everything up and I open up the windows and if you're still not satisfied we can switch apartments for the night.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Morty",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Although what if it's one of those hugs where the shoulders are touching, the hips are eight feet apart?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Teller",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

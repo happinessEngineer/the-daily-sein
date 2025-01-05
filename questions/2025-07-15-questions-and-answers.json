@@ -1,106 +1,106 @@
 {
-  "gameNumber": 193,
+  "gameNumber": 194,
   "date": "2025-07-15",
   "questions": [
     {
-      "quote": "Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "A man like you, limiting yourself to one woman, I don't know. But it's none of my business.",
-      "characters": [
-        "Jerry",
-        "Jack",
-        "Woman",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "George, there's no traffic at this time. Now, come on, man...",
+      "quote": "Oh well, that's, uh, thatís just because we're, uh, standing on opposite sides.",
       "characters": [
         "George",
-        "Jerry",
+        "Kramer",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Roger's can't sell chicken around here, we got chicken places on every block.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey, by the way, if anybody wants an inside tour of the zoo, Siena works there as a trainer.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "George",
-        "Marcy"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I had to give him a tissue. In fact, let me call his machine now and I'll just make up some excuse why I can't go to the game either.",
+      "quote": "I'm not religious, but I certainly know where to draw the line!",
       "characters": [
         "Jerry",
-        "Elaine",
         "Kramer",
+        "George",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll get a ticket! Besides, what if somebody wants to get out of here?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Helen",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Now that's a complaint. ...Hello Sally, yeah this is Jerry,I just wanted to leave you a message that I caught your little piece on TV and..",
-      "characters": [
-        "Elaine",
-        "Peterman",
-        "Jerry",
-        "Worker"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well I think I can do that. I believe I've played that role before to some critical acclaim.",
+      "quote": "This good be so sweet, Jerry. Saving lives? She's one step away working at the clinique counter!",
       "characters": [
         "George",
+        "Kate",
         "Jerry",
-        "Bob",
+        "Carol"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's only a year. That's not so bad. We'll be out in a year, and then we'll be back",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It was outrageous. And she's the heir to the O'Henry candy bar fortune.",
+      "quote": "All right, now here's the scoop, Jockey. I, uh, I came in here last January to talk to one of your ffflunkies..",
       "characters": [
-        "Elaine",
         "Kramer",
         "George",
+        "Puddy",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "\"Quone\"? No, I'm afraid that I'm going to have to challenge that.",
+      "quote": "Yeah. I understand Guttenberg used to spend a lot of time in there.",
       "characters": [
-        "Elaine",
-        "Tim",
+        "Kramer",
+        "George",
         "Jerry",
-        "Kramer"
+        "Sandi"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, perhaps we can take comfort in the knowledge that in the next world, Ray will be the recipient of a much larger and more harsh brand of justice..",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. No. No. No. No. Don't worry. It's perfectly safe. I researched it. He'll get a little woozy. He might keel over.",
+      "characters": [
+        "Silvio",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, excuse me, uh... You didn't by any chance recently get the wrong license plates?",
+      "characters": [
+        "George",
+        "Duncan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 915,
+  "gameNumber": 916,
   "date": "2027-07-07",
   "questions": [
     {
-      "quote": "Robin, listen to me. The most amazing thing has happened. Kramer has opened my eyes. I think I've changed.",
+      "quote": "Do you have anything that's been...you know, laying around for a while? Something prewar would be just great.",
       "characters": [
         "Elaine",
-        "Simon",
-        "Newman",
-        "George"
+        "George",
+        "Jerry",
+        "Mickey"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah buddy. You really came through for me man. You've been so nice.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Frank",
-        "Gary"
-      ],
-      "correctAnswer": "Gary"
-    },
-    {
-      "quote": "Oh yeah yeah, don't you know they used pastrami in that movie 9? weeks? Remember the pastrami scene?",
+      "quote": "\"These pretzels are making me thirsty\"? That was one line! You got fired!",
       "characters": [
         "Jerry",
-        "Helen",
-        "Elaine",
-        "George"
+        "Peterman",
+        "George",
+        "Carol"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know, I didn't go to the bathroom the entire time we were in India.",
+      "quote": "You're saying I stand to inherit three hundred thousand dollars, is that what you're saying?!",
       "characters": [
-        "Newman",
+        "Kramer",
+        "Elaine",
         "George",
-        "Karen",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well uh that doesn't surprise me, ya i bought these at Rudy's. It's a used clothing store. See when people like you die, the widows they bring in their wardrobes, they make a bundle.",
+      "quote": "You know, maybe Kramer is right, some people should just give up . I have.",
       "characters": [
         "Kramer",
-        "Morty",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's not promised to anybody? 'Cause she'd take it in a second.",
+      "characters": [
+        "Wilhelm",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[mind] Come on I won the MVP in 79. I can do whatever I want to.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Look at that guy.  I'll bet you he's gettin' hair transplants. Any time you see a guy that age wearing a baseball cap, ten to one - plugs.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry. It's L.A. Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore.",
+      "characters": [
+        "Sid",
+        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He was always such a goof-off. I mean did he ever get anywhere?",
+      "quote": "It's a hundred thousand revolutions a second. It's the most powerful one they make.",
       "characters": [
-        "Diane",
         "Jerry",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "Diane"
-    },
-    {
-      "quote": "Maybe they should get together. [mind] Go ahead. Kiss her. I'm a baseball player dammit.",
-      "characters": [
-        "Keith",
-        "Bania",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Keith"
-    },
-    {
-      "quote": "I don't understand. Before you were jealous of me. Now you're jealous of him?",
-      "characters": [
         "Elaine",
-        "Lippman",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry, I just need your signature here, and we'll get you that yellow car ready to go.",
-      "characters": [
-        "Kramer",
         "George",
-        "Detective",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "I showered! Oh, wait a second... Since I showered, I've been in the car!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Mohel"
+        "Ethan"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, Eddie, that might be just a tad harsh for womenswear.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

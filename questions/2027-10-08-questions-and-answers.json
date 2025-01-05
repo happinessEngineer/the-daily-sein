@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1008,
+  "gameNumber": 1009,
   "date": "2027-10-08",
   "questions": [
     {
-      "quote": "I can't, I don't have it, I don't have a square to spare, I can't spare a square",
+      "quote": "Let me tell you something. No one walks into a beauty parlor and says \"Give me the Larry Fine.\"",
       "characters": [
-        "Elaine",
-        "Steinbrenner",
         "Jerry",
+        "George",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "But I didn't know, Tom. I g -- can't you just make an exception? Please. I've got a nice face.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Nothing. And neither will you. George can never know about this.. It'll crush him.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry told me so much about you, I feel like I know you intimately",
-      "characters": [
-        "Jane",
-        "Alton",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jane"
-    },
-    {
-      "quote": "Hey, how 'bout giving me a hand? You know, bring some of this stuff upstairs.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh I'm lying. Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "quote": "Elaine and her sponges...she's got like, a war chest full of them.",
       "characters": [
         "George",
-        "Russell",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "By the way Newman, I'm just curious. When you booked the hotel, did you book it for the millennium New Year?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Steve",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So he walks out of the stall, he's been talking the whole time.",
-      "characters": [
-        "George",
-        "Morgan",
-        "Elaine",
-        "Izzy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I did. I'm back. I love this relationship, I feel so liberated!",
-      "characters": [
-        "Pitt",
-        "Kramer",
-        "George",
+        "Kelly",
+        "Leo",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Why not? They could have met. She loves the park, he works for the Parks Department.",
+      "quote": "You know, if you talked this loud to begin with, I wouldn't be in this costume in the first place!",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Driver",
         "Jerry",
-        "George"
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I know, but it's a very important wake-up call... and I don't wanna take any chances.",
+      "quote": "All right. As you walk in the place move immediately to your right.",
       "characters": [
         "George",
+        "Harold",
+        "Jerry",
+        "Jack"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This you are not going to believe. Al Netchie, that pimple. Tells Daphne, not get this 'Not to get involved with me.'",
+      "characters": [
+        "George",
+        "Jerry",
         "Elaine",
+        "Maestro"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you realize this is the last meal I am going to have for three days?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I read the Lenny Bruce biography, I thought it was really... interesting. He would-",
+      "characters": [
+        "Jerry",
+        "George",
+        "All",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What are you doing? Don't tell a woman she looks like a man and George doesn't want to hear his girlfriend looks like me and frankly neither do I",
+      "characters": [
+        "Elaine",
+        "George",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, relax, tough guy. I got to go out to my father's garage, help him sell some computers.",
+      "characters": [
+        "George",
+        "Susan",
+        "Bob",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

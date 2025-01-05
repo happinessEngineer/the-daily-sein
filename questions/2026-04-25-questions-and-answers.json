@@ -1,104 +1,104 @@
 {
-  "gameNumber": 477,
+  "gameNumber": 478,
   "date": "2026-04-25",
   "questions": [
     {
-      "quote": "Yes, yes. Very smooth, super smooth. No, but I really wanna attack this thing, you know. Sink my teeth into it. So I was just wondering... what do you think would be the very best way to get started?",
+      "quote": "You know, I never thought of it like that before, doctor.  You, are absolutely right.",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "Doorman",
         "George",
-        "Marcy",
         "Kramer"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "An apartment complex, the uh the Eiffel Towers. uumm Like I said uh you'll be getting a postcard uh in a few days and again I'm sorry.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Newman"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah! Yeah. Hey--hey you, you know.. Maybe I'll call you sometime.",
+      "quote": "I got to get downtown and buy that suit. The store opens in twenty minutes.",
       "characters": [
-        "Wendy",
-        "Estelle",
         "Jerry",
+        "Cindy",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So that night I cut off the loops and the Executive was born.",
+      "quote": "I have always had a big crush on Tim Whatley. Why can't he ask me out?",
       "characters": [
-        "Wyck",
-        "Morty",
         "George",
-        "Elaine"
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, nothin's sexier than a woman behind the wheel of a semi.",
+      "quote": "Are you getting the eyes? 'Cause they're brown.  Or, really, they're dark brown, like rich, Columbian coffee.",
       "characters": [
         "Kramer",
         "George",
-        "Jerry",
-        "Leo"
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "There you go, okay? That's my *other* friend's ticket. You happy now? You got two tickets.",
+      "quote": "Well, they were humiliated. I mean after the impeachment, my father left office in disgrace.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's right! She an' I have had a very long talk. An' I was appalled to learn of the destructive influence you've had over her life, lo these many years...",
-      "characters": [
-        "Kramer",
-        "Helen",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ohh, my pants.  It's an old conductor's trick I learned from Leonard Bernstein.",
-      "characters": [
-        "Maestro",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Maestro"
-    },
-    {
-      "quote": "Unh, something with his spleen.  Anyway it'll just take five minutes, O.K., and then, the hospital is right on the way.",
-      "characters": [
         "Kramer",
         "George",
-        "Mickey",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So what you are saying is that 90 to 95 percent of the population is undateable?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I've been wanting to get one of these things! Are you sure that...",
+      "characters": [
+        "Tv",
+        "Clerk",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Barefoot in the clubhouse? Don't you realize this is against the rules.",
+      "quote": "Hey, Mayor Dinkins set this up for you. You know what kind of a doctor this must be if Dinkins knows him?",
       "characters": [
+        "Frank",
         "George",
-        "Morty",
-        "Jerry",
-        "Kramer"
+        "Elaine",
+        "Steve"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "Bed? You should be sleeping on a wooden board for at least a week.",
+      "quote": "I lost it two days ago. I've been faking it so I wouldn't hurt her feelings.",
       "characters": [
+        "Morgan",
+        "Elaine",
         "Kramer",
-        "George",
-        "Tawni",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Kramer"
     }

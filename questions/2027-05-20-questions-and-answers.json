@@ -1,106 +1,106 @@
 {
-  "gameNumber": 867,
+  "gameNumber": 868,
   "date": "2027-05-20",
   "questions": [
     {
-      "quote": "You know I went out once with a nude model. Never let me see her naked. Hundreds of people see her naked every week, except me. Needless to say it was quite vexing.",
+      "quote": "Hey, I have found the best-smelling detergent. Lena, smell my shirt.",
       "characters": [
+        "Abby",
         "Jerry",
         "George",
-        "Man",
-        "Elaine"
+        "Ping"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "We couldn't carry on a conversation. I kept trying to picture her naked, she kept trying to not picture me naked.",
+      "quote": "Which word did he emphasize? Did he say, \"Why would Jerry bring anything?\" or, \"Why would Jerry bring anything?\" You emphasize \"Jerry\" or \"bring.\"",
       "characters": [
-        "Mike",
         "Elaine",
         "Jerry",
-        "Kramer"
+        "George",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I couldn't help it! Elaine moved the mirror, I got discombobulated.",
+      "quote": "Hey, Braun, I got good news and bad news. And they're both the same: you're fired. Costanza, you've won the water pik!",
       "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But I can't find any vacation clothes. They were in the attic.",
-      "characters": [
+        "Elaine",
         "Frank",
-        "George",
         "Jerry",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "No, t's a joke.. a joke... a joke... you think this is funny?",
+      "quote": "So you could call a woman for a date, ask her if she's free for Dinner and a flamenco?",
       "characters": [
+        "Bania",
         "Elaine",
-        "Kramer",
-        "Jerry",
-        "Morty"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "You can't break up with her now. Her life is shattered. You got her fired. You gotta be there for her.",
+      "quote": "The woman she's \"lesbianing\" with? Susan told me she's *never* been with a guy.",
       "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "Elaine",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Susan has the doll collection.. one of the dolls looks exactly like my mother.. she likes to sleep with it.",
+      "quote": "I suppose I could just pull this out and walk around like this and you wouldn't care?",
       "characters": [
-        "Debby",
-        "Frank",
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I dunno, some designer. Anyway, Brett is so generous, and sensitive. Last night he was moved just listening to a song.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yesterday, took the day off.  Now, from the time I left the room...",
+      "characters": [
         "Kramer",
+        "Tv",
+        "Lena",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Nah! He's too weird he'd fall or something. He'd ruin the whole ceremony.",
+      "quote": "Payoffs. Now we're playin' politics. All right, what do we next, Morty, huh? Wiretaps, slush funds?",
       "characters": [
-        "Jerry",
-        "Carol",
-        "Susan",
-        "Morty"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Well , we've discussed this, here's the feeling. You got a greeting starts with an H how's twenty bucks sound.",
-      "characters": [
-        "Jerry",
-        "Manager",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "Manager"
-    },
-    {
-      "quote": "We went out for coffee last night and he offered me a ticket.",
-      "characters": [
-        "Elaine",
-        "Kramer",
         "George",
-        "Enzo"
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't think so I know so, Kramer, come here I got to talk to you",
+      "characters": [
+        "George",
+        "Gary",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

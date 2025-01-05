@@ -1,106 +1,106 @@
 {
-  "gameNumber": 313,
+  "gameNumber": 314,
   "date": "2025-11-12",
   "questions": [
     {
-      "quote": "Hey you know, my arm really hurts.  I wonder if its gonna affect my golf swing.",
+      "quote": "Oh come on Jerry. How hard is it to act. You say something, I'll pretend it's funny.",
       "characters": [
-        "Tor",
-        "Teller",
-        "George",
-        "Kramer"
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up.",
+      "quote": "Today. I'm going today. Just don't do anything until you hear from me.",
       "characters": [
-        "Jerry",
-        "Rabbi",
-        "Elaine",
-        "Woman"
+        "George",
+        "Kramer",
+        "Fred",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh! Oh! That feels good. Hey! This guy charges a hundred bucks an hour but I'm telling ya he's worth every penny OOOOHH!",
+      "quote": "So you thought as long as they're mailing postcards, it wouldn't be too much to ask my parents to drag a child who they've never seen, through the streets of Paris?",
       "characters": [
-        "Newman",
-        "Elaine",
-        "Morty",
-        "Bob"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Ya' got me I fell for it. Alright, OK I can be down there in like a half hour. Bye.",
-      "characters": [
-        "Jerry",
         "Kramer",
         "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No! Not part of the show! Booing and hissing are not part of the show! You boo puppets! You hiss villains in silent movies!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Vanessa",
+        "Frank",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well I think they might have sutured that thing to your brain.",
+      "quote": "I mean I can't shake this woman. You know, now I have to go to Jimmy's birthday party.",
       "characters": [
-        "George",
-        "Susan",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, sure, we met at Jerry Seinfeld's apartment. When you fumigated for fleas over there.",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Hal"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's despicable. How does he know how all coffee drinkers will vote? I'm a coffee drinker. If I was on that jury I wouldn't give you a nickel Kramer.",
-      "characters": [
-        "Heather",
-        "Jerry",
         "George",
-        "Elaine"
+        "Jerry",
+        "Beth"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, it kind a motivates me to work on the road. So uh, make yourself at home.  So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",
+      "quote": "Oh, right, let's go. Jerry, let's go, it's time to eat. We're going to dinner.",
       "characters": [
+        "Kramer",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Either that, or they've got a weird little hang-up about lying face-down in filth. Why don't you just go to the cashier?",
+      "characters": [
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Bonnie",
-        "Jerry"
+        "Pitt"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.",
+      "quote": "Behind the dugout, that's where we were sitting the other day.",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Elaine",
+        "Pam",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, can I use your place? I got a bunch of friends coming over this weekend.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I refuse to give up on this relationship. It's like... launching missiles from a submarine. Both of us have to turn our keys.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
+        "Maura"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "He's acting very strangely. I think he started drinking again.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

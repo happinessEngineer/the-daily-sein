@@ -1,106 +1,106 @@
 {
-  "gameNumber": 414,
+  "gameNumber": 415,
   "date": "2026-02-21",
   "questions": [
     {
-      "quote": "Elaine...let me just explain something to you. See, this is not just a weekend routine...I'm on the verge of make-up sex here. You know about make-up sex?",
+      "quote": "I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again.",
       "characters": [
-        "George",
-        "Carol",
+        "Elaine",
         "Kramer",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Gimme the jacket, furface, this is not Seinfeld you're dealing with! When I get through with you, you'll be begging to go to the pound!",
+      "quote": "No, I'd love to do something. Uh, I have my seminar in the morning, then after that I'm right open.",
       "characters": [
+        "Laura",
         "Kramer",
         "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "His apartment was being fumigated, so we thought we'd give it another shot.",
+      "characters": [
+        "Ron",
         "Jerry",
-        "George"
+        "Elaine",
+        "Bob"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ya, he said you could never make a commitment to any one and you'd just wind up  hurting me.",
+      "quote": "You went to the coffee shop without me? I told ya, I just wanted to hop in the shower.",
       "characters": [
         "Jerry",
         "Elaine",
-        "George",
-        "Daphne"
-      ],
-      "correctAnswer": "Daphne"
-    },
-    {
-      "quote": "No, I ate the whole plate. I didn't know those little things were garlic. I thought they were peanuts.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Sophie",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, it's my parents. My father came up to see a back specialist.",
-      "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Elaine"
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, not really. I'm just saying this to you because I like to hear myself talk. Yes, really!",
+      "quote": "Oh, Mr. Kramer, I gotta thank you. I - I learned a lot. Things are gonna be different for me now.",
       "characters": [
-        "George",
+        "Joe",
+        "Rick",
         "Jerry",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "People can drop change down here, Jerry. And they're too lazy to pick it up.",
-      "characters": [
-        "Rabbi",
-        "Kramer",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Rick"
     },
     {
-      "quote": "Dammit! I got another call. Uh, hang on, don't hang up Jerry.",
+      "quote": "Paul, woman here claims there's a restaurant on the West side that's only hiring large-breasted women.",
       "characters": [
-        "Jeannie",
+        "Estelle",
+        "Jerry",
+        "George",
+        "Fred"
+      ],
+      "correctAnswer": "Fred"
+    },
+    {
+      "quote": "You know, I should've done this years ago. I mean, I feel like I've had two lives. My pre-mousse. And now, I begin my post-mousse. Hey, tell me the truth, have you ever seen a better looking guy?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, right. C'mon, don't you think they seem a bit too perfect?",
+      "characters": [
         "Elaine",
         "George",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "We can't have 2 Cocos. So I guess you're back to being George.",
+      "quote": "I don't want Morgan's job. He's got a lot of work to do. Hey, Elaine, your friend never woke up Mr. Morgan.",
       "characters": [
-        "Milos",
+        "Peterman",
+        "Frank",
         "Jerry",
-        "George",
-        "Kruger"
+        "George"
       ],
-      "correctAnswer": "Kruger"
+      "correctAnswer": "George"
     },
     {
-      "quote": "You know, I saw someone on the street eating M&Ms with a spoon.",
+      "quote": "Wait a minute, wait a minute, do you think I?m comfortable here. I can't change, I?ve got no clothes here! You've got to go like that, I can?t go like this alone!",
       "characters": [
-        "Elaine",
-        "Peterman",
-        "George",
-        "Jerry"
+        "Kramer",
+        "Gina",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

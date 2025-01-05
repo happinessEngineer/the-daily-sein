@@ -1,106 +1,106 @@
 {
-  "gameNumber": 369,
+  "gameNumber": 370,
   "date": "2026-01-07",
   "questions": [
     {
-      "quote": "Yeah, I put a six hour tape in. That should cover the experiment, the arrest, and most of your trial. Alright, I'll see ya.",
+      "quote": "So it's more of a relationship problem than the final destination of your soul.",
       "characters": [
-        "Newman",
-        "Morty",
         "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, it's all this guy can do to keep from killing himself. You think he's back there, talking to the chef, going, \"Hey, they like the soup! Keep it up!\"?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The remote, the remote, I can't find the remote. Did I lost, I lost it. Did you take it? Did you put it some place?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Silvio"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You shouldn't have said anything. What did you expect him to do?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "In the whole world right now, there's maybe three emergencies. Why would you think, on this entire planet, that you're one of those three?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Steve",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no, no, it's... \"She's not really dead if we find a way to remember her.\"",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "[To Jerry] Oh, remind me to talk to you about something later.",
+      "quote": "Uuh, I can't believe she did this again. That's it! She's off the speed-dial completely!",
       "characters": [
-        "Kramer",
-        "Newman",
-        "George",
-        "Elaine"
+        "Lloyd",
+        "Jerry",
+        "Valerie",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Valerie"
     },
     {
-      "quote": "A backup system? We're designing bathroom doors with our legs exposed in anticipation of the locks not working? That's not a system. That's a complete breakdown of the system.",
+      "quote": "Office Christmas gift. I tell you, this Human Fund is a gold mine!",
       "characters": [
+        "George",
         "Elaine",
-        "Frank",
-        "Jerry",
-        "George"
+        "Milos",
+        "Tim"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You sure have a lot of friends. How come I never see any of these people?",
+      "quote": "Right in front of me!. How do you know we're not together. Two guys, sittin' laughin' drinking Champagne Coolies.",
       "characters": [
-        "Elaine",
-        "George",
+        "Kramer",
+        "Newman",
         "Jerry",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well maybe you can stick around after everybody leaves and we can sweep together.",
+      "quote": "You know, if you want to make a person feel better after they sneeze, you shouldn't say 'God bless you', you should say, 'You're soo good lookin''.",
       "characters": [
-        "Todd",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Todd"
-    },
-    {
-      "quote": "Oh, yes. I already packed up my desk, sir. I can be outta here in an hour.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No. I need a guy that can rig a Frogger machine so that I can move it without losing power, 'cause I have the high score. H-hello?",
-      "characters": [
-        "Jerry",
         "Elaine",
         "Kramer",
-        "George"
+        "Marla",
+        "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You should've seen her face. It was the exact same look my father gave me when I told him I wanted to be a ventriloquist.",
-      "characters": [
-        "Jerry",
-        "Kimbrough",
-        "Herb",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Forty-nine cents a pound. That's practically half than what you're paying at the supermarket. I don't know why you don't go to Joe's.",
-      "characters": [
-        "Tor",
-        "Kramer",
-        "Elaine",
-        "Billy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, uh, this power. I'm dangerous Jerry, I'm very very dangerous.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Jack"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

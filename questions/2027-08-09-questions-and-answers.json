@@ -1,106 +1,106 @@
 {
-  "gameNumber": 948,
+  "gameNumber": 949,
   "date": "2027-08-09",
   "questions": [
     {
-      "quote": "Well, if I call her, there's no joking around anymore. This is pretty much it.",
+      "quote": "Shhh! Listen, you gotta do me a favor. Give me your wallet. I'll give it back to you later.",
       "characters": [
-        "Simon",
         "Kramer",
+        "James",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well I was shaving. And I noticed an asymmetry in my chest hair and I was trying to even it out. Next thing I knew,  Gone.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Elaine",
+        "Ray"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait a minute, that's my ticket!  You didn't even want to go.",
+      "characters": [
+        "Jerry",
         "George",
+        "Wilhelm",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Shhh… What is wrong with you? You never tell 'em you like the car.  You're not sure what you want. You don't even know why you're here.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Todd",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'll tell you why. Because I believe Whatley converted to Judaism just for the jokes.",
+      "quote": "You said goin up the steps of her apartment was like being taken to a cell.",
       "characters": [
-        "Kramer",
-        "Regis",
         "Jerry",
-        "Maura"
+        "Lloyd",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, and that something is life. Jerry, you gotta meet this gal - she's brimmin' with positivity!",
+      "quote": "No, gore-tex. It's new.  Hey, look at this locket. What the hell is this? There's a picture in here, look at that.",
       "characters": [
-        "Jerry",
-        "George",
         "Kramer",
-        "Elaine"
+        "Jerry",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "If you think you can drug me and play with my toys, you got another thing coming, buddy!",
+      "quote": "Oh, yada yada yada, just some bad egg salad. I'll be right back.",
       "characters": [
-        "Celia",
-        "Tim",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Celia"
-    },
-    {
-      "quote": "Oh, nothin' much. I went over to jerry's, uh, talked to Jerry.",
-      "characters": [
-        "Jerry",
         "George",
         "Kramer",
-        "Elaine"
+        "Marcy",
+        "Jerry"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "Well, Jerry. There was a pretty good chance I was never gonna have sex again anyway.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No wait, I gotta go in here and pick up Mr. Pitt's tennis recquet.",
+      "quote": "You're probably one of those women who doesn't like to give out her number.",
       "characters": [
+        "Duncan",
         "George",
         "Jerry",
-        "Monica",
+        "Man"
+      ],
+      "correctAnswer": "Man"
+    },
+    {
+      "quote": "Okay, listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.",
+      "characters": [
+        "George",
+        "Helen",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "well I need mine  oh god loot at the time, I gotta get to work",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Jane"
-      ],
-      "correctAnswer": "Jane"
-    },
-    {
-      "quote": "Hey, you're not going to believe what Kramer did to my mattress. . . . I can't talk to you like this. So Kramer completely funked up my mattress.",
-      "characters": [
-        "Kruger",
-        "Jerry",
-        "Puddy",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Not everybody knows what the crop circles are.  Do you know what the crop circles are?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Steinbrenner",
-        "Melissa"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm very comfortable working outta the house. I have a phone, we have a Kinko's nearby. You know, I think that my resume speaks for itself.",
-      "characters": [
-        "Frank",
-        "Elaine",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 679,
+  "gameNumber": 680,
   "date": "2026-11-13",
   "questions": [
     {
-      "quote": "All right. Jerry, that's enough now about the Soup Nazi. Whoa! Wow! Look at this. You know what this is? This is an antique armoire. Wow! It's French. Armoire.",
+      "quote": "Twenty thousand dollars!?! Elaine, that's twice the amount I authorised you to spend.",
       "characters": [
-        "Bania",
-        "Gina",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Marla",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What happened to the pact? We were both gonna change. We shook hands on a pact. Did you not shake my hand on it uh?",
-      "characters": [
-        "Kramer",
         "George",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's the bet!  Hello?... No- oh, hi...  no, they just left... Oh, my God... hang on a second. Maybe I can still catch 'em.  Ma! Ma! Up here! Don't get in the cab! Manya died! Manya died!!",
-      "characters": [
-        "Jerry",
-        "Joe",
-        "George",
-        "Rava"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Lemme tell you sum'in. When Ponce looked in that mirror and saw that he hadn't changed, and that tear started to roll down his cheek? ... I lost it.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, it's vastly superior to any commercial shaving cream. The shave is close and clean, and the natural emolients keep my skin silky-smooth. Now feel my face.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
+        "Peterman",
         "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "\"Well, because we hit it off and he was very impressed with what I do.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Sally"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, possibly. I wrote an off-Broadway show, \"La Cocina.\" ..Actually, it was off-off-Broadway. It was a comedy about a Mexican chef.",
+      "quote": "He's got a house, a family, they could take away his license. You should have heard him. Three notes, how stupid was that? We never should have got three notes.",
       "characters": [
         "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We're going to sign it. We're going to sign it. In fact George is out with the woman from NBC right now.",
+      "characters": [
+        "George",
         "Kramer",
         "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, see here, the chain is broken...it must have slipped in when I was, uh...",
+      "characters": [
+        "Marty",
+        "Patrice",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Marty"
+    },
+    {
+      "quote": "Well, as a backup system, in case the lock is broken, you can see if it's taken.",
+      "characters": [
+        "Kramer",
+        "Susan",
+        "Woman",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Really!...Well actually yeah I did see this ......'mazing little black dress...it was sleeveless....",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Dwayne"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just thought of a great name for myself, if I ever become a porno actor.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, for a sales position. Latex salesman, the selling of latex, and latex related products. They just wouldn't give me a chance.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know what I think this thing is gonna get picked up George. You guys are gonna be rich!",
+      "quote": "Well, I am just a T-bone kinda guy. Love that T-bone. In fact, you might as well call me--",
       "characters": [
         "Elaine",
         "George",
-        "Morty",
-        "Jerry"
+        "Kramer",
+        "Susan"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Y'know... I don't want to totally discount the emotional element in your recovery but, I think there were other factors at play here.",
-      "characters": [
-        "Doctor",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "So get this. I'm in the bathroom at work today, and I see Peggy using a seat protector.",
-      "characters": [
-        "Jerry",
-        "Sally",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     }
   ]
 }

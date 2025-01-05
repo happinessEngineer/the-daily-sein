@@ -1,106 +1,106 @@
 {
-  "gameNumber": 579,
+  "gameNumber": 580,
   "date": "2026-08-05",
   "questions": [
     {
-      "quote": "Well, also, Jerry, we read an article in the Sun Sentinel.  It says standup comedy is not what it used to be, what with def jam and all.",
-      "characters": [
-        "Helen",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Hey!! Buddy. I thought of a great invention for driving. A periscope in a car, so you can see the traffic.",
+      "quote": "Look it's not like you're gonna be spending a lot of time with her.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Frank",
+        "Peterman",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'll tell you what's wrong, a grown woman with a male roommate!  It's unnatural, it's an abomination!",
+      "quote": "She's been locked up for two years. She's gonna want to make up for lost time. Dinners. Movies.  Talking...",
       "characters": [
-        "Frank",
+        "Bob",
+        "Kramer",
         "Elaine",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Look, I need the keys to your apartment, I gotta take a shower.",
+      "quote": "well aside from that from that, how did he like the sandwiches?",
       "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
-        "Steinbrenner",
-        "Babu",
-        "Kramer"
+        "Newman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "How can I do this? How can I move back in with those people? Please, tell me. They're insane. You know that.",
+      "quote": "Who gave you permission to come into my house and just go through all my things? You thought it was funny?",
       "characters": [
-        "Frank",
+        "Kramer",
+        "Elaine",
         "Jerry",
+        "Bania"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey. How come I didn't get a Christmas card? Everybody else got one. Jerry got one, Kramer got one. I thought we were good friends. I don't get a Christmas card. I don't get it.",
+      "characters": [
+        "Kramer",
         "George",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Please give it to me. I love to help people. This is what I do. Come on. I'm going this way.",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh!!.....Joseph Aboud .. and look at this hand ticking around the crest.",
+      "quote": "This MacKenzie, he's a bit of a nut. Someone told me he fired the last guy because his nose whistled when he breathed.",
       "characters": [
         "George",
         "Jerry",
         "Elaine",
-        "Brett"
+        "Detective"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, Elaine, has nothing but Good things to say about Susie.",
+      "quote": "Oh my God. I just remembered where I left my retainer in second grade. I'll see ya.",
       "characters": [
+        "George",
+        "Patty",
+        "Darryl",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The catering hall screwed up. The wedding is delayed until June. It's like a stay of execution.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Mr. Kramer is in a meeting with Mr. Lohmase and he didn't want to miss anything.",
+      "characters": [
+        "Darren",
         "Jerry",
-        "Margaret",
         "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "But it takes forty-five minutes to get there. That'll only leave me five minutes to get to the plane.",
-      "characters": [
-        "Ed",
-        "Frank",
-        "Tony",
         "George"
       ],
-      "correctAnswer": "Ed"
+      "correctAnswer": "Darren"
     },
     {
-      "quote": "George and Elaine went to a flea market in Westchester, okay?!",
+      "quote": "Oh. Yeah, I been getting HBO and Showtime for free. See, they just found out about it, so now they wanna come and take it out.",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Jack",
-        "Kruger",
-        "Kramer"
+        "Morty",
+        "Wilhelm"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

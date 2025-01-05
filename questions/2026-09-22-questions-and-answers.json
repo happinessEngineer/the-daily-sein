@@ -1,106 +1,106 @@
 {
-  "gameNumber": 627,
+  "gameNumber": 628,
   "date": "2026-09-22",
   "questions": [
     {
-      "quote": "Yeah, about ten, fifteen minutes. But I have to stop at a vegetable stand.",
+      "quote": ". Well So fine then ..then I don't want it and then that's why I'm returning it",
       "characters": [
-        "Elaine",
+        "Jerry",
+        "Izzy",
+        "George",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why even try anymore? There's no sense to it. I'm never gonna meet anybody, I should just accept it.",
+      "characters": [
         "George",
         "Kramer",
+        "Elaine",
+        "Helena"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm excited. Oh, you're going to love this cabin. My grandfather built it in 1947. It's it's incredible.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Russell",
+        "Sophie"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Huh, strawberries, anyone?  Ah, that's good. Ooh, juicy this time of year.",
+      "characters": [
+        "Noel",
+        "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "See that was nice, Jerry.  Oh, by the way, I'm the one who broke your trunk.",
+      "quote": "'Had to come in' and 'maybe we'll get together'? 'Had to' and 'maybe'?",
       "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "A forty-eight pack of Eggo waffles? A gallon of barbecue sauce? Ten pounds of cocktail meatballs?",
-      "characters": [
         "Jerry",
         "Kramer",
-        "Estelle",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What do you think? They gave me a new car for thirty minutes of 'So, who's from out of town?'",
-      "characters": [
-        "George",
-        "Frank",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, where is the guy?!... Nothing?! Almost half my money's gone... Well, call me right back.  Nobody can reach Wilkinson. He hasn't been home or in his office in the past three days!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Whoever wants to move them, why do I care who moves them? They can move themselves if they want.",
+      "quote": "Suzie. Call Dr. Bison. Set up an appointment for Mr. Kramer here. Tell him it's from me.",
       "characters": [
-        "Jerry",
-        "George",
-        "Sid",
-        "Elaine"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "Hey man, women are really loyal to their birth control methods. What does Susan use?",
-      "characters": [
-        "George",
-        "Jerry",
+        "Jackie",
         "Elaine",
-        "Morty"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jackie"
     },
     {
-      "quote": "I don't even want to look at you anymore! All these years of friendship and you're nothing but a felon. You're an embarrassment to the building.",
+      "quote": "Y'know the funny thing is, I was attracted to you immediately.",
       "characters": [
+        "Sharon",
         "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Sharon"
+    },
+    {
+      "quote": "Regulation table, the hi-fi, maybe even a bar.. Give it real authenticity..",
+      "characters": [
+        "Frank",
         "George",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "Hi. I..I was in the audience earlier. You threw my jacket down. I just wanted to pick it up.",
+      "quote": "Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.",
       "characters": [
+        "Donald",
         "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.",
+      "characters": [
+        "Jerry",
         "Kramer",
-        "Danielle",
-        "Jerry"
+        "George",
+        "Manager"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I was trying to stick the landing.  ...was right around here.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Doctor"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

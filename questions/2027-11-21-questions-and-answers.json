@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1052,
+  "gameNumber": 1053,
   "date": "2027-11-21",
   "questions": [
     {
-      "quote": "Aw! You'll be fine, you were in there for what , a couple of minutes.",
+      "quote": "Lo..k, if you want to taste mine, you don't have to offer me some of yours.",
       "characters": [
-        "Jerry",
-        "George",
-        "Hal",
-        "Tim"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You, anybody - whatever. You're in the little room, you're chained to the floor, you're there for a long time.. do you think they would ever consider doing the laundry?",
-      "characters": [
-        "Captain",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know I'm sorry things didn't work out with Elaine. I don't know what I did wrong.",
-      "characters": [
-        "George",
-        "Phil",
-        "Puddy",
-        "Lippman"
-      ],
-      "correctAnswer": "Phil"
-    },
-    {
-      "quote": "Oh, hi, Roxanne. Nice to be here. These are my friends. This is George, and this is Jerry.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "OK, wait a second, wait a second, what happened to my papers?",
-      "characters": [
-        "Ruby",
+        "Morty",
         "George",
         "Jerry",
         "Kramer"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, I've been known to drink a beer or two. But then again, I've been known to do a lot of things.  Cigarette?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right! All right. I'll tell you what. How about this? Got the date; March 21st, the first day of spring.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. It's just the last coupla days my mind has been, not good.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, well, Mr. Pitt, there's really nothing that can't wait. We're trying to catch a movie.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So it's like going to Idhao and eating carrots. I like carrots, but I'm in Idhao, I want a potato.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Sophie",
+        "Steinbrenner"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I know, swan dives from twenty floors up, lands right on top. What do I got a bulls eye up there? He couldn't move over two feet? Land on the sidewalk. It's city property.",
+      "quote": "Once again, I just want to say how sorry I am about the other night.",
       "characters": [
-        "Jerry",
+        "Elaine",
+        "Meryl",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is amazing.  Thank you. Thank you very much. . . . I'm going back in! . . . You'll feel better",
+      "characters": [
+        "George",
+        "Jerry",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yes! I would like to very much!... Well, I'm low, aren't I? I ca--I can feel it!...",
+      "quote": "Okay... but there's no cake or anything, if that's what you're looking for.",
       "characters": [
-        "Lippman",
-        "Newman",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Your Honor, with the court's permission, we would like to play back that video and enter it into evidence as Exhibit A.",
-      "characters": [
-        "Hoyt",
-        "George",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Hoyt"
-    },
-    {
-      "quote": "Hey - Hey Kramer, what are you doing? You want to borrow something? You want to eat something? Come on in!",
-      "characters": [
-        "Kramer",
-        "Tor",
+        "Peterman",
         "Jerry",
-        "Elaine"
+        "Conrad",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Would you shut up? These are great! You can't get any better than this.",
+      "quote": "Kramer, do you realize what's going on here? Do you know why you're here?",
       "characters": [
-        "George",
+        "Jerry",
+        "Elaine",
         "Kramer",
-        "Hal",
-        "Elaine"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

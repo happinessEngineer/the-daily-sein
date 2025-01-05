@@ -1,106 +1,106 @@
 {
-  "gameNumber": 445,
+  "gameNumber": 446,
   "date": "2026-03-24",
   "questions": [
     {
-      "quote": "Will you calm down. I took all my blood down to Newman's. He let me put it in his meat freezer.",
+      "quote": "No. Why must it be so difficult? Why is there all this tension and hostility? Why can't I just walk up to a woman on the street and say, \"Hi. I'm",
       "characters": [
-        "Helen",
+        "George",
         "Kramer",
-        "Marla",
-        "Jerry"
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I am telling you, this woman is strange. She never wants to leave the apartment. It's almost like she doesn't wanna be seen with me.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Keith",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I mean I lost my job, I can't go to Africa. I was gonna meet the bush-men of the Kalahari.",
+      "quote": "Yes. Yes I am.  Master of my domain. But I will tell you this: I am going over to  her apartment, and I'm tellin' her to put those shades down!",
       "characters": [
         "Jerry",
-        "Elaine",
         "Kramer",
-        "Manny"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "How did she do it? She's like Meryl Streep this woman. And I had to work the equipment. I'm not unskilled, I'm in the union. If she'd at least told me, maybe I could have done something about it.",
+      "quote": "Uh huh. Well uh, I'll give you a call, and thanks for the fish. By the way, you know why fish are so thin?",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Enzo",
         "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I change I change. Two weeks ago I tried a soft boiled egg. Never liked it before. Now I'm dunkin a piece of toast in there and I'm loving it.",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Hey, if I knew I had to give him eight million 'thank you's, I wouldn't have taken the tickets in the first place.",
+      "quote": "Why do I always pay? What am I made of money? You bunch of deadbeats.",
       "characters": [
-        "Peterman",
-        "Elaine",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't believe you. If you can put your pants on, you can move those cars.",
-      "characters": [
-        "Sid",
-        "Wilhelm",
-        "Doorman",
-        "Jerry"
-      ],
-      "correctAnswer": "Sid"
-    },
-    {
-      "quote": "You look like you're in better shape than Neil. Do you work out?",
-      "characters": [
-        "Tia",
+        "Jerry",
         "Kramer",
-        "Bania",
-        "Danielle"
-      ],
-      "correctAnswer": "Danielle"
-    },
-    {
-      "quote": "Let me ask you something. ahemm..Do you know when the Nicole Millers are coming in from Milan?.",
-      "characters": [
-        "Frank",
-        "George",
-        "Elaine",
-        "Raymond"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "First Leo breaks up, then he goes back. What the hell's going on?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Oh, calm down, maroon Golf. He thinks I cut him off. He accelerated.",
-      "characters": [
-        "Elaine",
-        "Estelle",
-        "Jerry",
-        "Peterman"
+        "Todd"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What did I get the veggie burger for? You got a veggie burger, so I had to get the veggie burger, I'm allover crums...",
+      "quote": "'My wife's in a coma.' Yeah? Well, the life support machine called and...",
       "characters": [
         "George",
-        "Hoyt",
+        "Mike",
         "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, uh, hi. I'm Wanda Pepper, I'm Albert Pepper's daughter. My father asked me to come here and pick up his jacket for him.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, let me ask you a question. Could you, uh, expand the space underneath a desk to give it a little more headroom?",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She knew who I was! She saw me in a club one time! My first date ever with the Pacific Rim. I'm very excited.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

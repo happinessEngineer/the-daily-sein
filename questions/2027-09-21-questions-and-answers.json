@@ -1,106 +1,106 @@
 {
-  "gameNumber": 991,
+  "gameNumber": 992,
   "date": "2027-09-21",
   "questions": [
     {
-      "quote": "He's a friend of a friend. You know Corky Ramarez up on 94th Street? One day he and I are playing Pachinco--",
+      "quote": "They took my belt, Jerry. I got nothing to hold my pants up.  Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project.",
       "characters": [
-        "Elaine",
         "Kramer",
+        "Elaine",
         "Jerry",
         "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah yeah, we're cracking along pretty good! We're almost up to 80 degrees!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Bania",
-        "Mohel"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, profit. I think you'll see from the estimate that I'm not really profiting that much. They might be a little high, but..",
-      "characters": [
-        "Kramer",
-        "George",
-        "Todd",
-        "Ned"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Just, can I have my car? I wanna pay my bill, I'm gonna be on my way.",
+      "quote": "Oh, what? What? That? Are you kidding? I didn't quit. What? You took that seriously?",
       "characters": [
-        "Judge",
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Listen, could you mail those to me? Or bring them by my building, it's 129 West 81st St.",
+      "characters": [
+        "Kramer",
+        "Elaine",
         "George",
-        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "ha ha ha Well you know sometimes it just has a way of finding you. Cigarette?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Yeah, what about those English sirens, you know...eee-aaa-eee-aaa-eee-aaa...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, I'm kind of in the middle of something. Would you get these signs out of here, please?",
+      "characters": [
+        "Maura",
+        "Buckles",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It was a bad jig to begin with, we never should have started this jig.",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeahhh, am I imagining this?  Found this little cutie in the pocket.",
+      "quote": "How, how could you guys have turned this place down, it's such a great location and it's...so close to the park.",
       "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "Diane",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Diane"
     },
     {
-      "quote": "Yeah! But get this. Viking has a deal with the Plaza Hotel, they got a two bedroom suite, there, for out-of-town clients...So guess what I did?",
+      "quote": "George, I listened to your arguments, and they were rambling and flimsy. I'm not convinced. Come on, get dressed and let's get some dinner.",
       "characters": [
+        "Maura",
         "Elaine",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Maura"
+    },
+    {
+      "quote": "Anyway ... So John told me that Richie is in town from Los Angeles and he's really messed up on drugs. So I told him that he should do an intervention.",
+      "characters": [
+        "George",
         "Kramer",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "This guy leaves this jacket at my mother's house two years ago. Now, she hasn't spoken to him since and now he says he wants the jacket back.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Landlord",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh no - I'm so sorry, it's the Moops. The correct answer is the Moops.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Anything you couldn't have gotten tearing open a bag of Doritos and watching Viva Zapata?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Steinbrenner",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You're going to the book store to see Jake Jarmel, aren't you?",
-      "characters": [
-        "Jackie",
-        "Toby",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

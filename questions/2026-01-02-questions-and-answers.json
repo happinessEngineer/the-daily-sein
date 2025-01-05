@@ -1,106 +1,106 @@
 {
-  "gameNumber": 364,
+  "gameNumber": 365,
   "date": "2026-01-02",
   "questions": [
     {
-      "quote": "Well, the man's an individualist – he worked for Harry Flemming. He knows what he's doing.",
+      "quote": "So anyway, you're his favorite comedian. He laughed so hard the other night we had to give him an extra shot of hemoglobin.",
       "characters": [
+        "Carol",
+        "Elaine",
         "Jerry",
-        "Kramer",
+        "Mel"
+      ],
+      "correctAnswer": "Mel"
+    },
+    {
+      "quote": "Yeah, of course she did. That's all I ever heard growing up is 'Why can't you be more like Lloyd Braun?' Did you know he was in a mental institution?",
+      "characters": [
         "George",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It might be time to just let her go, Frank. She's worked hard for ya.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I was walking around naked in front of Melissa the other day--",
+      "characters": [
+        "Ellen",
+        "Kramer",
+        "Jerry",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "The doc called and said the lab's backed up and now I'm not gonna get the results for another two days.",
+      "quote": "Listen, Matthew, I-I want to explain something to you. Now, cursing is not something that most comedians do.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Deena, I know you think I'm crazy, but I'm not. This is just a series of bad coincidences.",
       "characters": [
         "George",
-        "Mickey",
-        "Frank",
-        "Kramer"
+        "Kramer",
+        "Puddy",
+        "Morty"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Did that cigarette warning label mention anything about damage to your appearance?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Jackie"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "Uh, hi. Uhm, remember me? I..I'm the guy who looks like Neil?",
+      "quote": "Oh hey, you know I invited Mike Moffit. You don't mind, do you?",
       "characters": [
         "Puddy",
         "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The shirt you got on under your sweather. It sits for three weeks in your drawer, waiting to come out. and when it finally does . It sticks up only half an inch out of your collar.",
-      "characters": [
-        "Jeannie",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jeannie"
-    },
-    {
-      "quote": "No, had no face, no personality. It was like a martian. But hey, you know that's me.",
-      "characters": [
         "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine is in the bathroom. She's wise to whole red dot thing. She's asking me all kinds of questions.",
+      "characters": [
         "Jerry",
         "Elaine",
-        "George"
+        "George",
+        "Rava"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, that's weird, actually, 'cause I'm sort of the same way. I mean once for like, no reason, I flattened my hair and I had all these strands hanging in my face all the time...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Ray",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Aah! the minute I saw this girl, we just clicked. She's got such a nice face. hummmm her eyes, her mouth, nose",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Dwayne"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Patty won't call me back. I don't know if I can live without her.",
+      "quote": "Look at this Jerry, dropping paper on the ground. That's littering.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Corinne"
+        "Melissa",
+        "Ramon",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, the very fact that you oppose this makes me think I'm onto something.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And then last night, he put on my high heels. Oh, he put on such a show for us! He was dancing around, lip-sync'ing to ``A Chorus Line'', I mean you can see he's got talent.",
-      "characters": [
-        "Woman",
-        "Anna",
-        "Elaine",
-        "Karen"
-      ],
-      "correctAnswer": "Woman"
     }
   ]
 }

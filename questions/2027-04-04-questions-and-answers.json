@@ -1,104 +1,104 @@
 {
-  "gameNumber": 821,
+  "gameNumber": 822,
   "date": "2027-04-04",
   "questions": [
     {
-      "quote": "Jerry, I'm trapped under my desk. Steinbrenner is in the room. You got to help[ me.",
+      "quote": "Sorry, George, our Chinese food just came. Talk to you later.",
       "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So I set up a screening, everyone takes their shirt off and click, I snap me a shot of a bear-chested Kruger.",
+      "characters": [
+        "Kramer",
         "George",
-        "Rabbi",
-        "Elaine",
-        "Kramer"
+        "Ellen",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Anyway, Jerry and Elaine felt very badly about what happened to you, and they wanted you to have this.",
+      "quote": "Yeah. All right. Well, do you still want to see a movie later?",
+      "characters": [
+        "Gillian",
+        "Jerry",
+        "George",
+        "Betsy"
+      ],
+      "correctAnswer": "Gillian"
+    },
+    {
+      "quote": "Oh, yeah, yeah.  Well, you guys just watch the tape and, uh, I'll get you some food.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Elaine",
-        "Darren"
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "George, take a look at this photo. This is taken 10 years ago. That mole looks exactly as it does today. So, there's no cause for concern, eh?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Kruger"
-      ],
-      "correctAnswer": "Kruger"
-    },
-    {
-      "quote": "Yeah you almost went to the game. You haven't been out of the building in ten years!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, so he says if Little Jerry Seinfeld wins, the check comes down.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "When I asked him if it was cancer, he didn't give me a \"get outta here\". That's what I wanted to hear: \"Cancer? Get outta here?\"",
-      "characters": [
-        "George",
-        "Karen",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "This court will come to order!  Go ahead Miss Mishke, try it on.",
-      "characters": [
-        "Judge",
-        "Jerry",
-        "Kramer",
-        "Bania"
-      ],
-      "correctAnswer": "Judge"
-    },
-    {
-      "quote": "Look at you. I told you. Up all night playing poker. Come on.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Enzo",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He is the new president of NBC. He wants to sit down with us and talk about \"Jerry.\"",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Carol, that's so rude. Please, I'm serious, just for a moment, if you wouldn't mind. And then we'll talk to Jerry.",
+      "quote": "I once broke up with a guy because he didn't keep his bathroom clean enough.",
       "characters": [
         "Newman",
         "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know I got someone to make up that cologne for me, big mouth.",
+      "characters": [
         "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yeah, and vice versa. Mother Nature's a mad scientist, Jerry.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Kate",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine is having a \"houseguest.\" She's picking him up at the airport tonight.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, it's too late. I gave it to Elaine, and she's already on her way to give it to George's father.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and  I bop into this woman..",
+      "characters": [
+        "George",
+        "Kramer",
+        "Frank",
+        "Morty"
       ],
       "correctAnswer": "George"
     }

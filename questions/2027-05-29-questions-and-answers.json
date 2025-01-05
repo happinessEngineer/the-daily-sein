@@ -1,106 +1,106 @@
 {
-  "gameNumber": 876,
+  "gameNumber": 877,
   "date": "2027-05-29",
   "questions": [
     {
-      "quote": "These are Cubans.  Maria, poquendo los scientos de estes con gleam.",
+      "quote": "If I didn't do it with you, I would have done it with someone else.",
       "characters": [
+        "Katie",
         "Jerry",
         "Elaine",
-        "Bob",
-        "Kramer"
+        "Robin"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Robin"
     },
     {
-      "quote": "Ha ha, the Ukraine.  Do you know what the Ukraine is?  It's a sitting duck.  A road apple, Newman.  The Ukraine is weak.  It's feeble.  I think it's time to put the hurt on the Ukraine.",
+      "quote": "And you know when you think about it it's really quite an amusing case of mistaken identity. That's all it is.",
       "characters": [
-        "Diane",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So, Kevin. If I don't want children, does that make me a bad humanitarian?",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Carl",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It's a *con*. These agencies are usually a front for some money laundering scheme. Or they're bunko artists; bilkin' people out of their life savings, oh *yeah*.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ah, tell you what, they're expecting us though. Lemme just grab a hotdog here.",
-      "characters": [
+        "Frank",
         "Elaine",
-        "Lloyd",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Lloyd"
-    },
-    {
-      "quote": "I don't know, I don't understand it. Cheryl was supposed to take care",
-      "characters": [
-        "Sara",
-        "Elaine",
-        "Jerry",
-        "Jane"
+        "Mickey"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You can't tell him the truth, you're gonna blow the whole thing.",
+      "quote": "Well we were standing uh, inn the waiting area there, and you know how Devola is. He's all, ...",
       "characters": [
         "Jerry",
         "George",
         "Elaine",
-        "Newman"
+        "Waitress"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Yeah. With all that kissing and the shmoopy, shmoopy, shmoopy, shmoopy, shmoopy out in public like that. It's disgusting!",
-      "characters": [
-        "George",
-        "Man",
-        "Jerry",
-        "Alton"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So I made a little list of people who might've made the mannequin. You know, possible suspects.",
+      "quote": "Yeah well King Edward didn't live in Queens with Frank and Estelle Costanza.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Susan",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, you should probably ask, because if he's gonna be coming over with those Paccino's pizzas...could be trouble.",
-      "characters": [
-        "Kramer",
-        "Conrad",
-        "Woman",
+        "Newman",
+        "Kevin",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's it! I cannot take this! I mean, look at this, nothing has changed. We've been back together two hours, we're having the same problems we had 12 hours ago.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't think we should. We really don't know each other very well.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, In fact, her mother is in the hospital right now. It's some kind of a Diverticulitis.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Kate",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's not that easy. It's like \"Beat The Clock,\" there's a lot of pressure there.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean.. a person needs a certain amount of toilet paper to be covered.. I simply could not spare it this woman just didn't get it, she kept harassing me",
+      "characters": [
+        "Elaine",
+        "Jane",
+        "Frank",
+        "Marlene"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Anyway, she wants to meet me! She invited me over for dinner!",
+      "characters": [
+        "Rachel",
+        "Jerry",
+        "Kramer",
+        "Donna"
+      ],
+      "correctAnswer": "Donna"
     }
   ]
 }

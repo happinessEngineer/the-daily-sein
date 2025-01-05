@@ -1,103 +1,103 @@
 {
-  "gameNumber": 974,
+  "gameNumber": 975,
   "date": "2027-09-04",
   "questions": [
     {
-      "quote": "I said, I would like you to leave. Come on, just get your clothes on and get out.",
+      "quote": "Nodding off!... Well, I was right. He's an adulterer. And he's cheating on his wife with me!",
       "characters": [
-        "Karen",
-        "Guy",
+        "Elaine",
+        "Connie",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Karen"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "It was kinda fun.  You know, maybe his name really is J-O-H-N, but he changed it to J-O-N for show business. Well, you know, J-O-N is a lot zippier.",
+      "quote": "Well, to tell you the truth, Dr. Feffa, I , I was surprised to hear you use a word like breathtaking to describe a baby, I mean, because you also used it referring to me.",
       "characters": [
+        "Elaine",
         "Jerry",
-        "Bania",
-        "Kramer",
+        "Alec",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Uh, excuse me, uh, um, Jason. I don't want to get into a big thing here, but... I'm not sure if, technically, what you just said was actually an apology.",
+      "quote": "Oh God. I lost a button, so my blouse was wide open. I musta left it at the theatre.",
       "characters": [
-        "Detective",
-        "Rick",
+        "Elaine",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, I'm sure. I went in to get my X-Ray, Somebody takes my wallet. Is that the operation here?",
-      "characters": [
-        "Hanke",
-        "George",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Well I was lost, I never saw the first one. By the way, you mind if I watch it here?",
-      "characters": [
-        "Cynthia",
-        "George",
-        "Officer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Poppie, I was just curious...where do you stand on the abortion issue?",
-      "characters": [
-        "Tony",
-        "Glenn",
-        "Jerry",
-        "Estelle"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "At least that's what Jerry says. Now face it. If it hasn't happen it's not gonna happen. All right, we go grab some bouffe . Join us?",
-      "characters": [
         "Kramer",
-        "George",
-        "Jerry",
-        "Duncan"
+        "Bob"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'm working on my Jack Nicholson, You can't handle the truth!",
+      "quote": "Listen, you should get your cousin Jeffrey to write some material for you.",
       "characters": [
-        "Chiles",
-        "Jerry",
         "George",
-        "Worker"
+        "Jerry",
+        "Elaine",
+        "Leo"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Leo"
     },
     {
-      "quote": "You know, Elaine, you're the bear claw in the garbage bag of my life.",
+      "quote": "What for? This man was nice enough to see you. He did me a personal favor.",
       "characters": [
-        "Glenn",
+        "Leo",
+        "Elaine",
+        "George",
+        "Abby"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "We can't have 2 Cocos. So I guess you're back to being George.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Gary",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "Oh, that is so terrible. That is so terrible, Jake. I mean, how can people be so stupid? Just sickening.",
+      "characters": [
+        "George",
+        "Jerry",
         "Kramer",
-        "Jerry",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "Glenn"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "So when I saw George on the street with an 18 pound turkey and a giant box of wine, I thought: ... What a coincidence. We're just about to eat.",
+      "quote": "Hey, my God, look at that.  David and Beth Lookner.  You know, I heard a rumor their marriage was a little rocky.",
       "characters": [
         "Elaine",
         "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Great! Well, take a look around. Pick out something you like.",
+      "characters": [
+        "Elaine",
+        "Nina",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Super bowl! Hey, an original G.I. Joe.  With a full frogman suit.",
+      "characters": [
         "Jerry",
+        "Katie",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"

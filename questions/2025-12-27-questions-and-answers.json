@@ -1,106 +1,106 @@
 {
-  "gameNumber": 358,
+  "gameNumber": 359,
   "date": "2025-12-27",
   "questions": [
     {
-      "quote": "Two months ago, I saw a provocative movie on cable TV. It was called The Net, with that girl from the bus. I did a little reading, and I realize, it wasn't that farfetched.",
+      "quote": "Come on. Then you don't have to see him again 'til my 15,000-mile check.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Heather"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Couchgrass and crampbark? You know, I think that's what killed Curly.",
+      "characters": [
+        "Julie",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "NBC is letting me use their private jet? And I can go anywhere I want? That's fantastic! Thanks. Great. Okay, bye.",
+      "characters": [
+        "Joel",
+        "Karen",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So. Listen ... You're not doing anything tomorrow, are you? Because I have an extra ticket to the historical clothing exhibit at the Met.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, Georgie! I'm doing some research down at the coffee shop. Your story's the one.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Elaine",
-        "Frank"
+        "George",
+        "Beth"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Would you get out of here. Who's gonna turn down a chair? I would be very interested to know how he felt about all of this. Maybe I'll have a talk with him.",
+      "quote": "Ah. You know, there's gotta be an easier way to open ketchups. They should make it in a tube.",
       "characters": [
+        "Morty",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes! I mean, if she thinks that's me she's under a complete misapprehension. That was not me, Jerry. That was not me.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Jane",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you go around telling your friends I'm not hip because I like that commercial.",
+      "characters": [
+        "Jerry",
         "Kramer",
-        "Peterman",
-        "Pam",
+        "Donna",
+        "Elaine"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "I noticed people staring at my head because they like what they see.",
+      "characters": [
+        "Elaine",
+        "Marlene",
+        "Wilhelm",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yes  Apart from that, dreadful airline food. It tends to reek havoc with my stomach.",
+      "quote": "\"Jimmy's new in town. Jimmy hem ..doesn't really know anyone.\"",
       "characters": [
-        "Frank",
-        "Newman",
-        "Simon",
+        "Jimmy",
+        "George",
+        "Morty",
         "Jerry"
       ],
-      "correctAnswer": "Simon"
-    },
-    {
-      "quote": "Oh come on, we're gonna start doing this now? I can't be taking all your dry-cleaning in!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Wilhelm",
-        "Rabbi"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, that's it. Look, I'm going to Vermont. I don't want to think about this. I'm selling.",
-      "characters": [
-        "Simon",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You mean it was open? We desecrated a pet cemetery for nothing?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Joe"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well every day for the past four days she hasn't returned one call.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Tor",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I didn't hit puberty til the 9th grade. That's what gave me my speed. Besides, if I got a head start why didn't Mr. Bevilacqua stop the race?",
-      "characters": [
-        "Jerry",
-        "James",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hello? Yeah, this is Jerry Seinfeld. What? Twenty-eight hundred dollars?!! That's the estimate on my car?!! No, don't even do anything. I'm gonna think about it. Okay, bye.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Man"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He called 6 times yesterday. What a nightmare it must be to have a real family.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Bania"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jimmy"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 933,
+  "gameNumber": 934,
   "date": "2027-07-25",
   "questions": [
     {
-      "quote": "That damn Mohel - he circumcised my finger! The Mohel circumcised my finger!",
+      "quote": "No no no, that's no good. No, I really don't think that's a beg. No, it's close, but uh...",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
-        "Joel"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I was squinting! Remember that drive from Wortsborough?  I was spotting those raccoons.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh, listen. I decided I can't kiss hello anymore. I'm sorry. It's nothing personal....",
-      "characters": [
-        "Officer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "We have no need to speak. We communicate with deep soulful looks.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
+        "Estelle",
         "Kramer"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm so sorry about that Mr Costanza, but look. Look, I brought you another one.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "George",
+        "Rick"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah. Well, I guess I started losing it when I was about twenty-eight right around the time I made my first million. You know what they say. The first million is the hardest one.",
+      "characters": [
+        "George",
+        "Newman",
+        "Kramer",
+        "Tim"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Come on, Go in, go in!  [watching Dream Cafe with binoculars again]",
+      "quote": "...and uh, she's very much in love with me, and uh, well uh, we would uh, appreciate it if you would cease and desist, and allow us to pursue our courtship unfettered.",
       "characters": [
-        "Jerry",
         "Kramer",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You must have done *something* wrong. You probably screwed up the order. Did you close with the swirl?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Got any asprin?  Hello. Now, lookit, you guarantee this car will get me to the airport tomarrow? No problems?",
-      "characters": [
-        "George",
-        "Newman",
-        "Elaine",
-        "Estelle"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right, listen. Have you seen my addre--  --ah! There it is. Okay. I got it. I'll see you later.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well by now, you think people would be a little more open minded.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Carl",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Because I'm still holding the garlic shaker.. Yeah.. like this  I'm only showing eight fingers.",
-      "characters": [
-        "Kramer",
-        "Newman",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, actually, Jerry, you haven't worked a room that big in a while.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah.  Hey, look at this. 'Pinter Ranawat'.. I wonder if he's related to that guy I dated, Peter Ranawat..",
+      "characters": [
+        "Elaine",
+        "Alton",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "With the orange hair, and the big clown shirt with the ruffles...",
+      "characters": [
+        "Kramer",
+        "Ellen",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, we'd better get started, my daughter's going to be here soon.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Carrie",
+        "George"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Well, possibly. I wrote an off-Broadway show, \"La Cocina.\" ..Actually, it was off-off-Broadway. It was a comedy about a Mexican chef.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Sally",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey Elaine, what was it you were about to say to me on the plane when it was going down?",
+      "characters": [
+        "Jimmy",
+        "George",
+        "Babu",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

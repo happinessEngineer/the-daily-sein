@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1130,
+  "gameNumber": 1131,
   "date": "2028-02-07",
   "questions": [
     {
-      "quote": "Take his *records*? Do you realize how valuable that record collection is?",
+      "quote": "You can't tell him the truth, you're gonna blow the whole thing.",
       "characters": [
-        "Frank",
-        "Jerry",
-        "Elaine",
-        "Tim"
+        "Newman",
+        "George",
+        "Steinbrenner",
+        "Elaine"
       ],
-      "correctAnswer": "Tim"
+      "correctAnswer": "George"
     },
     {
-      "quote": "It is amazing after years of training how one can contort one's body. Of course, it is only useful in gymnastics.",
+      "quote": "Hey Jerry, you want this, cause I'm going to give it to a homeless person.",
       "characters": [
+        "Danielle",
         "Kramer",
-        "Jerry",
-        "Naomi",
-        "Katya"
-      ],
-      "correctAnswer": "Katya"
-    },
-    {
-      "quote": "Ok, oh, you see this socket it's probably connected to her apartment. So what we'll do, we'll take this paper clip and bend it so it'll short out the entire circuit. Here you go...",
-      "characters": [
-        "Kramer",
-        "Testikov",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, Buhner was a good prospect, no question about it. But my baseball people love Ken Phelps' bat.  They kept saying 'Ken Phelps, Ken Phelps'.",
+      "quote": "All right, it's 808 right down there. Meanwhile, I'll get you the Pensky file, you can start working on that.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Newman",
-        "Steinbrenner"
+        "Glenn",
+        "Mike",
+        "Bania"
       ],
-      "correctAnswer": "Steinbrenner"
+      "correctAnswer": "Mike"
     },
     {
-      "quote": "Oh, yes, yes I'll tell him. Yes, thank you. Um, um hold on.  Mr. Pitt!",
+      "quote": "Um, David, you know what? Can you come help me fix the copy machine? Come.",
       "characters": [
-        "Elaine",
+        "Announcer",
         "George",
-        "Kramer",
-        "Poppie"
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, Puddy thinks I should go for the CD player. What do you think?",
+      "quote": "Yep, Alec Berg. He's got a good 'John Houseman' name. Alec Beeerg. Mr. Beeerg.",
       "characters": [
+        "Elaine",
+        "Kramer",
         "Jerry",
-        "Cheryl",
-        "Leo",
-        "Bania"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Really? You should be ashamed of yourself. I want you out of here!  How ya' doing?",
+      "quote": "Oh, okay. Oh, your friend George came by the office the other day, and then yesterday he cancelled on me.",
       "characters": [
-        "Hoyt",
-        "Peterman",
-        "George",
+        "Jackie",
+        "Wendy",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Wendy"
     },
     {
-      "quote": "Yeah, woman have no problem getting the hand off. How do they do that?",
+      "quote": "I'll never forget that laugh for the rest of my life. [exits]",
       "characters": [
         "Kramer",
+        "Jerry",
         "Elaine",
-        "George",
-        "Jerry"
+        "Noel"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Noel"
     },
     {
-      "quote": "Now, down to business.  I have had this vision of a diaphanous rum-runner scarf.",
+      "quote": "Jerry, I don't know how much longer I can keep this up. They're starting to give Susie assignments now!",
       "characters": [
-        "Peterman",
+        "George",
         "Jerry",
+        "Izzy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it's gettin' serious, we're talking about moving in together.",
+      "characters": [
+        "Kramer",
+        "Peterman",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I thought it was a pretty good idea. It's about coffee tables, it's on a coffee table.",
+      "quote": "Oh I got it.  That I'm supposed to remember. Where the car is, that's insignificant.",
       "characters": [
-        "Worker",
-        "Sid",
+        "Elaine",
         "George",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

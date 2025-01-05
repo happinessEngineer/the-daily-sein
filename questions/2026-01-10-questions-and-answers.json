@@ -1,103 +1,103 @@
 {
-  "gameNumber": 372,
+  "gameNumber": 373,
   "date": "2026-01-10",
   "questions": [
     {
-      "quote": "Hey, hey. Kramer, what are you doing? You can't smoke in here.",
+      "quote": "She's having Carol, Gail and Lisa over. You know they all have kids now?",
       "characters": [
-        "Patrice",
+        "Jerry",
+        "Ava",
         "Elaine",
-        "Kramer",
-        "George"
+        "Joe"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Either way, we need to get into your apartment and do a safety check.",
+      "quote": "I know it looks bleak. I've been there. Ten years ago waking up in bed next to a woman like this would've sent me running for the Phisohex.",
       "characters": [
+        "George",
+        "Elaine",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well, there's not really much to tell, you know, he's just a guy, Really.",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "Jack",
-        "George",
-        "Elaine",
-        "John"
+        "George"
       ],
-      "correctAnswer": "John"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Thank you. All right, look at all this stuff. What are we getting'?",
+      "quote": "You don't need the card. High-end hoagie outfit like that, it's all computerized!  They're cloning sheep now.",
       "characters": [
-        "Karen",
-        "Steinbrenner",
+        "Brett",
+        "Jerry",
         "George",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Stop it, stop it! It's not fair. It's not fair. I don't like this situation, Jerry. I don't like it one bit.",
+      "quote": "Yeah well, it's about time one of us drew a line in the sand.",
       "characters": [
+        "Elaine",
         "Jerry",
-        "Peterman",
+        "Man",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I, I have to say, I've never admitted this to anyone, but um, I kind of like airline food.",
+      "characters": [
+        "Elaine",
         "Kramer",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ohh! Oh, the city shuts down Fifth avenue. They never let anyone through. We're never getting home.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Man",
+        "Guy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I didn't mean anything by it. I don't even know L. Ron Hubbard! I didn't know you were...",
+      "characters": [
+        "Wilhelm",
+        "Ricky",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, your day's getting more interesting already.  Ah, see, told me they'd be back in a minute and THEY lied.",
+      "quote": "Caring about how everyone at work isn't as smart as you. It's brutal.",
       "characters": [
+        "Leo",
         "Jerry",
         "Elaine",
-        "Kramer",
-        "Morty"
+        "Puddy"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Puddy"
     },
     {
-      "quote": "Oh... ...clothing, something, I dunno. So, uh, what are you doing today?",
+      "quote": "Well, you didn't hear it from me, but needless to say, if you go in there - stick with the consumee.",
       "characters": [
-        "George",
+        "Kramer",
+        "Gina",
         "Jerry",
-        "Kramer",
-        "Noel"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, nobody's calling off any weddings. Alright, it's time to go. Come on.. Up.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Frank",
-        "Sophie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And we discover yet another talent. Posing as a girlfriend for homosexuals.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's great George, thanks a lot I'll get in touch with you.",
-      "characters": [
-        "Alec",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Alec"
-    },
-    {
-      "quote": "Why didn't you ask me? I know a million theater jokes. 'What's the deal with those guys down in the pit?'",
-      "characters": [
-        "Nina",
-        "James",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"

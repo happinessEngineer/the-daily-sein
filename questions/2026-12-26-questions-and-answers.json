@@ -1,106 +1,106 @@
 {
-  "gameNumber": 722,
+  "gameNumber": 723,
   "date": "2026-12-26",
   "questions": [
     {
-      "quote": "Yeah. I don't know if I can handle one of these long-distance relationships.",
+      "quote": "Yeah, I told her how toilet paper hasn't changed in my lifetime, and probably wouldn't change in the next fifty thousand years and she was fascinated, fascinated!",
       "characters": [
         "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Sophie",
+        "Jerry",
+        "Milos"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Would you stop that? It's not safe to be jumping up and down on a plane.",
+      "quote": "Excuse me, I gave you a twenty dollar bill and you only actually gave me change for a ten.",
       "characters": [
+        "Newman",
         "George",
-        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You don't understand. I can't allow my son to pay for me. Look, as soon as I get back to Florida, I promise you I'll mail you a check.",
+      "characters": [
         "Morty",
-        "Monica"
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Mrs. Sweedler thank you. Y-You see, this tragedy affected me in a very, very personal way.",
+      "quote": "I saw \"Titanic\". So that old woman, she's just a liar, right?",
       "characters": [
-        "Jerry",
+        "George",
         "Jack",
-        "George",
-        "Mike"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know, my insurance doesn't cover this? The whole thing is a total loss!",
+      "quote": "...and the Jews steal our money through their Zionist occupied government and use the black man to bring drugs into our oppressed white minority communities.",
       "characters": [
-        "George",
+        "Jerry",
         "Kramer",
-        "Jerry",
-        "Frank"
+        "Susan",
+        "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "It just seems so cliched, and obvious. It's not interesting writing.",
+      "quote": "Excuse me, did you say turbo? Saab turbo nine-thousand? Is it...  midnight blue?",
       "characters": [
-        "George",
         "Kramer",
-        "Peterman",
-        "Manny"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Remy, this is George. Would you mind if he watched Breakfast At Tiffany's with us?",
-      "characters": [
-        "George",
-        "Frank",
-        "Elaine",
-        "Joe"
-      ],
-      "correctAnswer": "Joe"
-    },
-    {
-      "quote": "Uh, hang on a second, You know what? Changed my mind, make it a tuck.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Ben",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Of course, I stink, you stink. It's show bizz. everybody stinks..",
-      "characters": [
-        "Wilhelm",
+        "Steinbrenner",
         "Jerry",
-        "George",
-        "Newman"
+        "Woman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "Hey, here you go. 'Hey, Reilly. The zoo called. You're due back by six.'",
+      "quote": "Hey, Planet 9 From Outer Space is playing tomorrow night. One show only.",
       "characters": [
-        "Clerk",
         "Jerry",
-        "George",
-        "Naomi"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay. I'm just not ga-ga over her. For once I'd like to be ga-ga.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
+        "Morty",
+        "Sophie",
         "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I had a bout of that myself one time -- knocked me right on my ass.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Steinbrenner",
+        "Newman"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Nose.  What's the worst that can happen to a nose? What does it get? Stuffed?",
+      "characters": [
+        "Frank",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. I don't think I should go. I really don't wanna bump into Russell. He called me the other day. He won't quit.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Holly",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

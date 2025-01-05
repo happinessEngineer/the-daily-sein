@@ -1,106 +1,106 @@
 {
-  "gameNumber": 422,
+  "gameNumber": 423,
   "date": "2026-03-01",
   "questions": [
     {
-      "quote": "I'm baby-sitting! Vivian asked me to raise him if she doesn't make it.",
-      "characters": [
-        "Milos",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm afraid the problem with Zach is more serious. He's back on the horse, Elaine. Smack. White palace. The Chinaman's nightcap.",
-      "characters": [
-        "Steinbrenner",
-        "Herb",
-        "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "You gotta give us odds. At least two to one - you gotta put up two-hundred dollars.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What are you? Satan? I'm close to a job here. It's my second interview with them.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Dana",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You wanna sell computers? I will show *you* how to sell computers! Hello, Mr. Farneman. You wanna buy a computer? No? Why not? All right, I see! Good answer! Thank you!  Serenity now!",
+      "quote": "Twenty-five percent, you say? No way! It's like 4 to 6 percent. It's a twenty to one shot.",
       "characters": [
         "Kramer",
         "Jerry",
         "George",
-        "Steinbrenner"
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They got a new intern from Francis Louis High. His name is Keith. He comes in Mondays after school.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "George, do you realize that Rava has asked me to edit her book?",
+      "quote": "Oh really? 'Cause it looks a little big for you. It looks like something a short, stocky, slow-witted, bald man might wear.",
+      "characters": [
+        "Father",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Love the Label Baby, baby.  You know those things make great gifts, I just got one of those for Tim Whatley for Christmas.",
       "characters": [
         "Kramer",
         "George",
-        "Nurse",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Could we get a little more?  Aghh... You know ever since this new owner took over, the service here is *really* slow.",
+      "quote": "Good afternoon. One large crab bisque to go. Bread. Beautiful.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Frank",
-        "Kramer"
+        "George",
+        "Kramer",
+        "Joel",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Why was he in charge of closing the door?  'Cause you came in after him!",
+      "quote": "No. Just chitchat, movies, current events, regular stuff. You know Sandi--",
       "characters": [
-        "Peterman",
-        "Elaine",
+        "Jerry",
         "George",
-        "Jerry"
+        "Newman",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Gonorrhea? Excuse me, I think there's been a mistake, see, I had gonorrhea last week.",
+      "quote": "No noo no, we just bought this. . . . Um, you sold us a cake with a  hair on it.",
       "characters": [
-        "Morty",
-        "Sid",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "These are not \"scraps.\" These are historic remains of a once Great Society of Hair.",
-      "characters": [
+        "Elaine",
         "George",
         "Kramer",
-        "Jerry",
-        "Karen"
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "The point is, however it got done, it's done. So, any luck with the car?",
+      "characters": [
+        "Ray",
+        "Sophie",
+        "Morty",
+        "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Right. The other members of our party.  Other members of our party? What other members of our party? I didn't even know we were in a party. Oh, I'm telling you, the jig is up.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, if I call her, there's no joking around anymore. This is pretty much it.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

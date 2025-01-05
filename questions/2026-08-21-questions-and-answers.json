@@ -1,106 +1,106 @@
 {
-  "gameNumber": 595,
+  "gameNumber": 596,
   "date": "2026-08-21",
   "questions": [
     {
-      "quote": "Look at this Jerry, dropping paper on the ground. That's littering.",
+      "quote": "I'm all for awkward pauses. Fix me up with her.. Wait a minute, Nina just saw me in my Timberlands! Now I have to wear them every time I see her.",
       "characters": [
-        "Jerry",
         "Elaine",
+        "Kramer",
         "George",
-        "Kramer"
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your friend and I are going to make a lot of money. Of course, I already have a lot of money. Poppie does very well...very well.",
+      "characters": [
+        "Elaine",
+        "Poppie",
+        "Babs",
+        "Jerry"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Nicole Millers, We're not expecting any Nicole Millers, in fact we have too many as it is.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "Don't you see what's goin' on here???... No boxers, no Jockeys...",
+      "characters": [
+        "Nina",
+        "George",
+        "Jerry",
+        "Carol"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nice shirt..  What is this? Is this what you wore on the show?",
+      "quote": "No, they can't find the problem. It's really getting ridicurous.",
       "characters": [
-        "Elaine",
-        "Dana",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No one's stealing a tractor, it's a five-mile-an-hour getaway. We're dancing around the obvious, it's gotta be disfigurement.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "How come he's gettin' so smart? I stopped having sex with Ben three days ago and I don't know no Portuguese?",
-      "characters": [
         "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Wait a minute. This looks familiar. This reminds me of something. I can do this.",
-      "characters": [
-        "Testikov",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I can't believe you told Kramer it's okay to put the cable in during the shower! Jerry, look,, look! They've eaten everything.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Marcy",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Y'know if the guy dies, the art could really be worth something...",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Man",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "The last couple a days he's been acting very strange. I think he's avoiding me.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Tim",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Did I tell you I ran into her last week? Ho-ho, she looked great.",
-      "characters": [
-        "George",
-        "Estelle",
-        "Jerry",
+        "Donna",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Donna"
     },
     {
-      "quote": "Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide.",
+      "quote": "you would not believe what just happened to me in the bathroom",
       "characters": [
-        "Melissa",
+        "Elaine",
+        "George",
+        "Jane",
+        "Jerry"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Hum, a cologne that smells like the beach. I can't believe I'm saying this, \"That's not a bad idea.\"",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A limousine has just pulled up it's being surrounded by a huge group of protestors, this has the makings of a very ugly scene.",
+      "characters": [
+        "Kramer",
         "George",
         "Jerry",
-        "Ricky"
+        "Jodi"
       ],
-      "correctAnswer": "Ricky"
+      "correctAnswer": "Jodi"
+    },
+    {
+      "quote": "My name is George Steinbrenner, I'm afraid I have some very sad new about your son.",
+      "characters": [
+        "Steinbrenner",
+        "Man",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Alright, alright! We'll buy her a wheelchair! Wheelchairs, engagement presents.. IT NEVER ENDS!",
+      "characters": [
+        "Tim",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

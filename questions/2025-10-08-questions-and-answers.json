@@ -1,106 +1,106 @@
 {
-  "gameNumber": 278,
+  "gameNumber": 279,
   "date": "2025-10-08",
   "questions": [
     {
-      "quote": "Okay.  Hello.  Listen, thanks again for coming last night. Dad said he had a great time.",
+      "quote": "That was the Golden Nugget. Also in Atlantic City. They heard such good things about my show at Bally's, they want me for tonight. So I'll have to repack, and go.",
       "characters": [
-        "Kramer",
-        "Steinbrenner",
-        "Donna",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I mean really, what's the point of saving it? I could see if I had a mantel.",
-      "characters": [
-        "Frank",
-        "Peterman",
         "Elaine",
+        "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, Jerry, can you hold on a sec? I just want to check my messages..  Oh, Melissa! Kim!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Peterman",
-        "Ellen"
-      ],
-      "correctAnswer": "Ellen"
-    },
-    {
-      "quote": "All right, I?ll tell you what I?ll do. Cause you look like a nice guy, a thousand dollars for the duce.",
+      "quote": "That's probably why we're staying here, because you lost money on the stock.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
+        "Vanessa",
+        "Elaine",
+        "Sid"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Vanessa"
     },
     {
-      "quote": "It's a, it's a stony mineral concretion, formed abnormally in the kidney. And this jagged shard of calcium pushes its way through the ureter into the bladder. It's forced out through the urine!",
+      "quote": "That reminds me of the Hatian Voodoo rattle torture! You haven't gone over to their side have you?",
       "characters": [
+        "Keith",
         "Peterman",
         "Jerry",
-        "Jack",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Jerry, it's vastly superior to any commercial shaving cream. The shave is close and clean, and the natural emolients keep my skin silky-smooth. Now feel my face.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Murder one? Oooooo, watch out everybody. Better be nice to you. I'm only kidding sir - lighten up. How about you, what are you in for?",
+      "quote": "So, Jerry, if my investors don't get Cubans, the whole deal's off.",
       "characters": [
-        "Jerry",
         "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, this is very advanced. We've designed at set of rules that we can maintain the friendship by avoiding all of the relationship pitfalls.",
-      "characters": [
         "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, fire engines, ambulances all along the runway. And then, when we landed safely, they all seemed so disappointed.",
+      "characters": [
+        "Bania",
         "Elaine",
-        "Ping",
-        "George"
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What kind of a therapist are you? I'm telling I'm scared that something terrible is gonna happen to me, right away you start looking for tumors?",
+      "quote": "Well, maybe if you called more often, I wouldn't have to. Listen, is it all right if I watch a tape in here?",
+      "characters": [
+        "Karen",
+        "Jerry",
+        "Jake",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, yes, we do need documentation or you know, people could take advantage.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Eh, they're trying to pick out a new couch - you don't want to know.  Give me your wallet, or I'll spill your guts right here on the street!",
       "characters": [
         "George",
-        "Dana",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Kramer",
+        "Morty"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "This is an emergency, what's taking so long?  Wait a second, maybe that's them.  Hello?",
+      "quote": "No, no, you can't do that, they're round, it makes an 'eight' and, yeah, well alright.",
       "characters": [
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Morty",
-        "Jack"
+        "Usher",
+        "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, there were too many people in the room, we couldn't keep track of everybody. George, and the butler, and...",
-      "characters": [
-        "Elaine",
-        "George",
-        "Helen",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

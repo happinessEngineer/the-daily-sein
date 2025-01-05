@@ -1,106 +1,106 @@
 {
-  "gameNumber": 171,
+  "gameNumber": 172,
   "date": "2025-06-23",
   "questions": [
     {
-      "quote": "Well, there's a vending machine. I could show you where it is.",
+      "quote": "I'll tell you what the big advantage of homosexuality is. If you're going out with someone your size, right there you double your wardrobe.",
       "characters": [
-        "Jerry",
-        "Puddy",
-        "Kramer",
-        "Toby"
+        "Elaine",
+        "George",
+        "Ned",
+        "Jerry"
       ],
-      "correctAnswer": "Puddy"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I, I think I made my point. I'm sorry if I was a little harsh.",
+      "quote": "Has nothing to do with the weather, it's because of the Seinfelds.",
       "characters": [
+        "Elaine",
+        "Carol",
         "Kramer",
-        "Maestro",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Well, it's the damnedest thing. The cat dies. So she comes back into town, she finds the cat lying on the carpet stiff as a board.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Vandelay",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You know, all these years, I've always wanted to see the two of you get back together.",
+      "characters": [
+        "Poppie",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, that is soo nice  Aaron. Isn't he nice?  So listen has Jerry been showin' you a good time?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I, I couldn't help but notice that uh you don't have a chair.",
+      "characters": [
+        "Chiles",
+        "Kramer",
         "George",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, tell you what I'm gonna do. I'm gonna take down your check anyway.",
+      "quote": "You saved my life, George. You buying my art is what inspired me to get better. I'll never forget what'cha did for me.",
       "characters": [
-        "Regis",
         "Jerry",
-        "Elaine",
-        "Marcelino"
+        "Kramer",
+        "George",
+        "Roy"
       ],
-      "correctAnswer": "Marcelino"
+      "correctAnswer": "Roy"
     },
     {
-      "quote": "Hey, wait a second. You know, we could share a cab. They're playing at the same Cineplex.",
+      "quote": "You know the police, they found another victim of the Lopper in Riverside Park. I saw the photo, and it looked a lot like you.",
       "characters": [
-        "Elaine",
         "Jerry",
         "George",
-        "Helen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, I have known this guy since college. He doesn't do drugs.",
-      "characters": [
-        "Babu",
-        "Frank",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Melanie, you can shush me at every opportunity. 5? 3? Oh, it was just an expression. All right, well, that's very sweet of you. Okay, I'll call you later. All right, bye. Hey!",
-      "characters": [
         "Elaine",
-        "George",
-        "Jerry",
-        "Carrie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I mean.. a person needs a certain amount of toilet paper to be covered.. I simply could not spare it this woman just didn't get it, she kept harassing me",
-      "characters": [
-        "Jane",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jane"
-    },
-    {
-      "quote": "Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the  pirate look!",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Peterman"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Here, stand by the fire. Take off those wet clothes, you'll catch cold.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Leo",
-        "Man"
-      ],
-      "correctAnswer": "Man"
-    },
-    {
-      "quote": "C'mon George relax . Just because they look alike doesn't mean you're secretly in love with Jerry.",
+      "quote": "Could use a good laugh. You know what kind of pressure that is? Come on, come with me.",
       "characters": [
         "Elaine",
-        "Kramer",
+        "Kate",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh look at that.  Look at what she's wearing. You see what she's wearing?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,103 +1,103 @@
 {
-  "gameNumber": 172,
+  "gameNumber": 173,
   "date": "2025-06-24",
   "questions": [
     {
-      "quote": "Not the point. The wedding is in one week. I got this  today.",
+      "quote": "You need a little pioneer spirit. You know, you don't have any of that Lewis and Clark in you.",
       "characters": [
-        "Kramer",
+        "Holly",
+        "Jerry",
         "George",
+        "Man"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, George told me the whole story, line for line, I mean I almost feel like I've seen it already and walked out on it.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Darren",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not his girlfriend. Well, actually, we used to date, but not anymore.",
+      "characters": [
+        "George",
+        "Kramer",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, I see how it works now.  He knocks me outta commission, so  you can strut around in your fancy number one shirt.  Well, I'll show you who's number one.",
-      "characters": [
-        "Marlene",
-        "Kramer",
-        "George",
-        "Izzy"
-      ],
-      "correctAnswer": "Izzy"
-    },
-    {
-      "quote": "It's very familiar. I can't put my finger on it. It's very familiar.",
-      "characters": [
-        "Daphne",
-        "Waitress",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Uh, yes, uh, I--I wanted to, uh, stop by and make sure that my shark tank fits-- uh, hello.",
+      "quote": "Golden Boy's always the first shirt I wear out of the laundry. Here... touch Golden Boy!",
       "characters": [
         "Kramer",
-        "Karen",
-        "Elaine",
+        "George",
+        "Keith",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Would you grow up, George?! What is the difference? Nina slept with him , he slept with me, I slept with Pinter. Nobody cares! It's all ancient history.",
+      "quote": "Hey, I went to Tufts! That was my safety school! So don't talk to me about hardship.",
       "characters": [
-        "Jane",
-        "Elaine",
+        "Estelle",
         "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ladies and gentlemen of the jury, have you reached a verdict?",
-      "characters": [
-        "Doctor",
-        "Elaine",
-        "Jerry",
-        "Vandelay"
-      ],
-      "correctAnswer": "Vandelay"
-    },
-    {
-      "quote": "Hey, Kramer, what was it you were having faxed to my house every 30 seconds?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah. I gotta be honest with you Kramer. You might be more than just a coupla tweaks away from a healthy relationship.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright. Listen, I gotta get some reading done. You mind if I do this here? I can't concentrate in my apartment.",
-      "characters": [
         "Morty",
-        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, who got the final Death Blow, 'cause I thought that Hawaiian guy, he had it comin' to him!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Susan",
+        "Ray"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, let's think. Have you ever dealt with the poor in any other situation?",
+      "characters": [
         "Elaine",
+        "Susan",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm gonna go back there later and return it when there's different people working.. You want to catch a movie?",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "An apartment-warming gift? We got to give presents to people for moving? Birthdays, Christmas, it's enough gifts. I would like one month off.",
+      "quote": "Well, I guess this would be all right. Jimmy, you remember Elaine? She's gonna watch you tonight.",
+      "characters": [
+        "Kramer",
+        "Vivian",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Hey, let's get the check, she's taking the bandages off at four o'clock.",
       "characters": [
         "George",
-        "Elaine",
         "Kramer",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "George"

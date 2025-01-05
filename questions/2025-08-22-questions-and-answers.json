@@ -1,106 +1,106 @@
 {
-  "gameNumber": 231,
+  "gameNumber": 232,
   "date": "2025-08-22",
   "questions": [
     {
-      "quote": "Nananeena, Ladadeeda, laadadeeda, saadina.... Laadadeeda sa saadina",
+      "quote": "Listen, George, I got some bad news. I'm not gonna be able to give you that parking space.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Babu",
-        "Elaine"
+        "Kramer",
+        "Gary",
+        "Laura"
       ],
-      "correctAnswer": "Babu"
+      "correctAnswer": "Gary"
     },
     {
-      "quote": "Oh yeah, that's right. Go. Put us all in the hospital. And you've ruined our business with all your macho head games.",
+      "quote": "And then, then, then she leaves with somebody else! Never even, never even said goodbye! Never called me back.. Never apologized. Nothing. Like I was dirt.",
       "characters": [
         "George",
-        "Elaine",
+        "Jerry",
         "Kramer",
-        "Izzy"
+        "Hal"
       ],
-      "correctAnswer": "Izzy"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, well you know it's funny George. Sometimes you don't know how you're really feeling about something until a person like you comes along and articulates it so perfectly.",
+      "quote": "All right, Kramer that's it..... Hello . English. Does anyone speak English",
       "characters": [
         "George",
-        "Beth",
+        "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "They put real blue berries in this. And there's real blue berries. What kind did you get?",
+      "characters": [
+        "Kramer",
+        "Katya",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Beth"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I only went in front first 'cause I could make it in front first and if you pull out I'll show you!",
+      "quote": "I'm just gonna...wash.  WHY DID I PUT UP TWO? WHY DID I PUT UP TWO?",
       "characters": [
-        "Mike",
         "Elaine",
+        "Judge",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Mike"
-    },
-    {
-      "quote": "So I start to walk, and I trip, and the grocery bag goes flying, and Woody, Woody starts laughing.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Those are my friends I was telling you about. We're gonna talk to them, pull over.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Salesman",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I don't think so. I'm gonna try to get them to fly right back tonight.",
+      "quote": "Now wait a second, you mean the one where the guys are all standing around, supposedly being very casual and witty?",
       "characters": [
-        "George",
         "Jerry",
+        "Holly",
         "Doctor",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, kid, quiet. Were did a nice little boy like you learn such a bad word like that? Huh?",
-      "characters": [
-        "Elaine",
-        "Landis",
-        "Gennice",
-        "Mickey"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "What I haven't told you, or anyone else for that matter, is that my father's been in a Red Chinese prison for the past fourteen years.",
+      "quote": "Ah, I've given up. So, now we're going to a bunch of Spanish restaurants. I figure that'll cover us either way.",
       "characters": [
         "Jerry",
+        "Doctor",
         "George",
-        "Kramer",
-        "Newman"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That was Elaine , she changed her mind. She's not coming over.",
+      "characters": [
+        "Gail",
+        "Jerry",
+        "George",
+        "Lippman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Come on Sitarides, cop to it. What brand of perverted science do you practice?",
+      "quote": "Absolutely, uh, lets see there's, uh, Vandelay Industries, I just saw them. I got very close there. very close.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "George",
-        "Jerry"
+        "Jerry",
+        "Elaine",
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, yes. I already packed up my desk, sir. I can be outta here in an hour.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

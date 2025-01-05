@@ -1,106 +1,106 @@
 {
-  "gameNumber": 632,
+  "gameNumber": 633,
   "date": "2026-09-27",
   "questions": [
     {
-      "quote": "I-I don't get these birds! They're breaking the deal. It-it's like the pigeons decided to ignore me!",
+      "quote": "Yes, flowers. I will get her flowers, I will go to the florist!",
       "characters": [
-        "John",
+        "Elaine",
+        "Saleswoman",
         "Jerry",
-        "George",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He was a communist. Thick as they come. Like a big juicy steak.",
+      "quote": "Well, I sold raincoats in the garment centre for thirty-eight years. In nineteen forty-nine...",
       "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "Suzie. Call Dr. Bison. Set up an appointment for Mr. Kramer here. Tell him it's from me.",
-      "characters": [
-        "Newman",
-        "Elaine",
-        "George",
-        "Jackie"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "What move? *My* move. The one I told you about. You used it on Elaine.",
-      "characters": [
-        "Fdr",
-        "Roy",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, you're right, you're right.  Alright, maybe he's not interested, but you still know him - can't you just ask him?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Wilhelm"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's more you than you've ever been. Hey, what is with the pink lining?",
-      "characters": [
-        "Jerry",
-        "Lippman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I just hope that whole pony incident didn't put a damper on the trip.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Oh! What? He is! Oh! that's fantastic! I'm so excited! Yes I'm excited, OK, OK I'll be in soon! yeah, yeah, I'm coming, I'm coming! OK bye.  Yuri Testikov, the Russian writer!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Would it kill him to check up on us? No - drops off the meals and that's it. I realize we're prisoners, but we're still entitled to catsup.",
-      "characters": [
-        "Jerry",
-        "Steinbrenner",
+        "Laura",
+        "Morty",
         "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "That's not the point. You put me in a position where I had no choice.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Ellen"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "About 2 days. Although he's hinting at how he'd like to stay. Fortunately he has no money, and no prospects.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm cheap? You think I'm CHEAP? How could you say that to me? I can't believe this. How could you say that to me?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Frank",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Right. So why I'm the one who gets 'reer'. You know I mean they were being as catty as I was. It's a double standard.",
+      "quote": "Well, go in there and talk to her. She's not going to put 'em on the glass.",
       "characters": [
-        "Elaine",
-        "Betsy",
-        "Newman",
-        "George"
+        "Jerry",
+        "George",
+        "Kramer",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that crazy straight-armed woman down at Peterman's trashed my office. And then listen to this; this is message she left me.",
+      "characters": [
+        "Fred",
+        "Vivian",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Nah, with crutches it's a funny story, with a cane it's a sad story. You through with those?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Receptionist",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

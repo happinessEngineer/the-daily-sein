@@ -1,104 +1,104 @@
 {
-  "gameNumber": 247,
+  "gameNumber": 248,
   "date": "2025-09-07",
   "questions": [
     {
-      "quote": "I think I'm getting tired of it. I mean is that all it does? Hello? La-la-la?",
+      "quote": "Jerry these are load bearing walls, they're not gonna come down!",
       "characters": [
-        "George",
+        "Elaine",
+        "Woman",
         "Jerry",
-        "Kramer",
-        "Conrad"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ooo, yeah..   You know, it's gettin' kind of late, I, I really have to be going, so, uh, it's nice seeing you again, all right--",
-      "characters": [
-        "George",
-        "Jerry",
-        "Sid",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "George, I don't have time for this. Uh, Anna, do you wanna talk to George?",
+      "quote": "...shell. And fondled his muscled heart. He embibed her glistening spell...just before the other shoe...fell.",
       "characters": [
-        "Jerry",
-        "Secretary",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye.  Great news! Yeah, the strike has been settled. I'm going back to work.",
-      "characters": [
+        "Lamar",
+        "Herb",
         "Kramer",
-        "Jerry",
-        "Sara",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "How you gonna catch him? He's probably boarded the plane already.",
+      "quote": "What about Don Ramsey? You didn't mention anything to him did you?",
       "characters": [
-        "Kramer",
-        "Earl",
-        "Jerry",
-        "George"
+        "Darren",
+        "Elaine",
+        "George",
+        "Lippman"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, Eddie, that might be just a tad harsh for womenswear.",
+      "quote": "Should I get it? I hate these moments. I'm hearing the dual voices now, you know, \"What about the money?\" \"What's money?\"",
       "characters": [
         "Jerry",
-        "Peterman",
         "George",
+        "Vivian",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You made a man cry? I've never made a man cry. I even kicked a guy in the groin once and he didn't cry. I got the cab.",
+      "characters": [
+        "Woman",
+        "Wendy",
+        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, actually, he, um, doesn't really like to do... everything.",
+      "quote": "Oh, Leslie, I am so sorry about everything that went on here tonight. You know, I had no idea..",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Eddie",
+        "Vanessa",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh no, you're not going out on a high note with me Mr. Kruger!",
+      "quote": "Oh, uh, the cigars..  I'm, uh, suckin' 'em down. I'm puffing my brains out, yeah.",
       "characters": [
-        "Kate",
-        "Jerry",
         "Elaine",
+        "Jerry",
+        "Carrie",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "We-We're doing that evening of Eastern European National Anthems.",
+      "quote": "Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend.",
       "characters": [
         "Kramer",
-        "Wilhelm",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What did you think, she was going to take some of that chalk and...",
+      "characters": [
         "Jerry",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Pretentious? Who, who isn't pretentious? Ha, ha, if everyone who was pretentious was in a mental institution, ... uh, obviously THIS isn't a mental institution.",
+      "quote": "Well at least you and I are talking about how there's nothing to talk about.",
       "characters": [
         "George",
-        "Estelle",
+        "Jerry",
         "Elaine",
-        "Doctor"
+        "Kramer"
       ],
       "correctAnswer": "George"
     }

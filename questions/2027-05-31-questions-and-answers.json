@@ -1,106 +1,106 @@
 {
-  "gameNumber": 878,
+  "gameNumber": 879,
   "date": "2027-05-31",
   "questions": [
     {
-      "quote": "Ah, you're lucky you're walkin' out of here with a pair of pants on!",
+      "quote": "I'm trying to get a little squirrel to come over to me here. I don't wanna make any big, sudden movements. I'll frighten him away.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Aw, no, no, I understand. I got plenty of friends in showbusiness. I know you're all very busy.",
+      "characters": [
+        "Leo",
+        "Kramer",
+        "Naomi",
+        "Jerry"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "All right Newman, one more peep outta you, you're out of the whole operation!",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, we give you the dough, you smash it, you pound it, you fling it in the air. And then you get to put your sauce and you get to sprinkle your cheese, and then- you slide it into the oven.",
       "characters": [
         "Kramer",
-        "Father",
         "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, let's just do it.  What? What is going on? What is that about?",
+      "quote": "Produce section. *Very* provocative area. A lot of melons and shapes. Everyone's squeezing and smelling... It just happened.",
       "characters": [
-        "Kramer",
-        "Enzo",
+        "Lamar",
+        "Salesman",
         "Jerry",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Faking? What makes you think that I have time to see doctors, take X-rays, make appointments, when there's absolutely nothing wrong with me? What kind of a person would do a thing like that?",
+      "quote": "No, but these were the only really cool ones like this! Don't you see how everybody likes 'em and how everybody talks about 'em?",
       "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know. He wouldn't tell me his phone number, where he worked... I'll bet he's in a relationship.",
-      "characters": [
-        "Susan",
-        "Wyck",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It's not that I want to keep talking about it? just think that the subject should resolve itself based on its own momentum.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jackie",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's southside. Sorry, we don't deliver below Eighty-sixth.",
-      "characters": [
-        "Jerry",
-        "Owner",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Owner"
-    },
-    {
-      "quote": "Ya know, the guy has one leg and he still calls himself Leapin' Larry, you'd think he had a sense of humor about it.",
-      "characters": [
-        "Conrad",
-        "Gary",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, he's come up with some other move. You should see this thing.",
-      "characters": [
-        "Clare",
-        "Elaine",
-        "Jack",
+        "Morty",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, listen; we are always sitting here, I am always helping you with your girl problems and you are helping me with my girl problems. Where do we end up?",
+      "quote": "I mean I lost my job, I can't go to Africa. I was gonna meet the bush-men of the Kalahari.",
       "characters": [
         "Elaine",
+        "Abby",
         "Jerry",
-        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, no. Just lately, I've been thinking a lot clearer. Like this afternoon,  what is chicken Kiev,  I really enjoyed watching a documentary with Louise.",
+      "characters": [
+        "Bania",
+        "Jerry",
+        "Roy",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey you know this is the first time we've ever seen each other naked.",
+      "quote": "Okay.  Yeah, okay. Great! That would be, that'd be great. So, next Wednesday.",
       "characters": [
+        "George",
         "Jerry",
-        "Kramer",
-        "Levitan",
-        "Peterman"
+        "Danielle",
+        "Joel"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "So? We've met before. At Katie Ash's party, we talked for like ten minutes.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

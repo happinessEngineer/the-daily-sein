@@ -1,106 +1,106 @@
 {
-  "gameNumber": 106,
+  "gameNumber": 107,
   "date": "2025-04-19",
   "questions": [
     {
-      "quote": "Why don't we just throw a Molotov cocktail through their window?",
+      "quote": "Well, not anymore. He traded it to me for some Hollywood memorabilia.",
       "characters": [
-        "Sid",
-        "George",
         "Jerry",
+        "Kramer",
+        "George",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Are you kidding? I could spot that bird's nest two blocks away.",
+      "quote": "Hey, see those two women over there? I almost dated the one on the right. She's in the closet business.",
       "characters": [
+        "Jerry",
+        "Elaine",
         "George",
-        "Kramer",
-        "Puddy",
-        "Jerry"
+        "Lena"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I love shrimp!  I'm a shrimp eater. You put shrimp infront of me,  and I will eat it until my stomach pops!  Oh..",
+      "quote": "She was practically undressing in front of me at the theatre.",
       "characters": [
-        "George",
+        "Lloyd",
         "Jerry",
-        "Doctor",
-        "Elaine"
+        "George",
+        "Eva"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Lloyd"
     },
     {
-      "quote": "Well who's gonna turn down a Junior Mint? It's chocolate, it's peppermint-- it's *delicious*!",
+      "quote": "Mmm-mmm-mmm. That means, if you still had those stock options...",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Gail"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Drop the case? Well, congratulations, that'll save you some money.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I finally realized what's missing, in my life. Structure. An' at Brand/Leland, I'm gettin' things done. An' I love the people I'm workin' with.",
       "characters": [
         "Kramer",
-        "George",
-        "Jerry",
+        "Elaine",
+        "Tim",
         "Frank"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, everybody listens to the Chinese. I mean, look at the fortune cookie. You couldn't get away with that in any other restaurant.",
+      "quote": "You know, I've seen you so many times and now we can finally talk to each other.",
       "characters": [
-        "Frank",
-        "Kramer",
-        "Elaine",
-        "Marla"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh...uh, because if it had anything at all to do with what you perceived as me leering at your daughter, I really have to take issue with that. I did not leer.  Did I leer?",
-      "characters": [
-        "Newman",
-        "Puddy",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "We all want the hand. Hand is tough to get. You gotta get the hand right from the opening.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Frank",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because of Divola! Get in here... How come you're not dressed?",
-      "characters": [
-        "Steinbrenner",
-        "Jerry",
-        "Farkus",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, George told me the whole story, line for line, I mean I almost feel like I've seen it already and walked out on it.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look Hubert. It's the mailman. You remember the mailman don't you.",
-      "characters": [
-        "Greg",
-        "Jerry",
+        "Mary",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "Oh yeah, he's fine, fine. He was in bad shape for a while though.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "John"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know a chef who doesn't wash is like a cop who steals. It's a cry for help, he wants to get caught.",
+      "characters": [
+        "Sid",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Will you look at that kid. Sucking away. Sucking like there's no tomorrow. Suck, suck, suck...",
+      "characters": [
+        "Stan",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Stan"
     }
   ]
 }

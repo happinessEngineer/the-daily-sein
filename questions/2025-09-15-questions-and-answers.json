@@ -1,106 +1,106 @@
 {
-  "gameNumber": 255,
+  "gameNumber": 256,
   "date": "2025-09-15",
   "questions": [
     {
-      "quote": "Kramer, listen, I want you to ask Gail to do me a favor. The next time Russell Dalrymple comes in the restaurant, ask her if she would call me.",
+      "quote": "Hey, remember Beth and David from yesterday? They got separated.",
       "characters": [
         "Jerry",
-        "George",
+        "Marcy",
         "Kramer",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ya know, its not fair people are seated First Come First Served, It should be based on who's hungriest. I feel like just going over there and taking some food off somebody's plate.",
+      "quote": "Well, first of all, for some reason, they started the game an hour Late. And uh, I was sittin' next to Spike Lee an' he an' Reggie were jawin' at each other, so I guess I got involved.",
       "characters": [
-        "George",
-        "Jerry",
+        "Elaine",
+        "Gennice",
         "Kramer",
-        "Elaine"
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh no. Look at this. Okay yeah this looks good and I like what your wearing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, yeah, yeah. Here it is, Brody. One copy of Cry Cry Again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Can't you do anything about this? I mean this woman is a psycho!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Lippman"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I've heard of Ohio, Katie. But Tuesday's no good. I'm doin' career day at my old junior high.",
+      "quote": "Well,, why did you tell me to order it if you knew you were going to get one someplace else?",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, that's a dangerous fruit. It's like a weapon that thing, got spikes on the end. You can get killed from one of those things.",
-      "characters": [
-        "Elaine",
-        "Puddy",
-        "Tim",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I've seen that man in Tuscany. Eccentric fellow. Reputation of being kind of a village idiot.",
-      "characters": [
-        "Mickey",
-        "Jerry",
-        "Maestro",
-        "Elaine"
-      ],
-      "correctAnswer": "Maestro"
-    },
-    {
-      "quote": "This is all too much. So what are you feeling? What's going on? Are you like a couple again now?",
-      "characters": [
+        "Stationer",
         "George",
-        "Margaret",
-        "Wyck",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Stationer"
     },
     {
-      "quote": "The only thing between him and us is a thin layer of gabardine... Kramer, say it isn't so.",
+      "quote": "Yeah, and this is just the Upper West Side. Wait until I get to the Village, then you're gonna see a magic show.",
       "characters": [
-        "Mickey",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, you tryin' to hurt me? Are you tryin' to hurt - you're tryin' to injure me, right? You're trying to hurt me.",
-      "characters": [
-        "Kramer",
+        "Gina",
         "Elaine",
         "George",
-        "Jerry"
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Let's do it then! Festivus is back! I'll get the pole out of the crawl space.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "C'mon, you can't do anything about it. The cops won't do anything. What, are you going to fight him? Why don't you just forget it?",
+      "characters": [
+        "Elaine",
+        "Hal",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know I have some friends who would really like to have these.",
+      "quote": "Hey, hey. Wha... wait... what, you're gonna leave it there? That's like half a pound of turkey!",
       "characters": [
-        "George",
-        "Ade",
-        "Jerry",
-        "Elaine"
+        "Kramer",
+        "Lloyd",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Button fly! Why do they put buttons on a fly? It takes ten minutes to get these things open!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Guy",
-        "Jackie"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

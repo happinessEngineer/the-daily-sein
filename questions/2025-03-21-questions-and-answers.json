@@ -1,106 +1,106 @@
 {
-  "gameNumber": 77,
+  "gameNumber": 78,
   "date": "2025-03-21",
   "questions": [
     {
-      "quote": "Elaine, it was very nice of you to bring the man you're currently sleeping with over to talk to me, but I assure you, I don't have any problem with germs.",
+      "quote": "I don't remember, but it certainly wasn't this. Look at this cartoon in the New Yorker, I don't get this.",
       "characters": [
         "Kramer",
-        "Peggy",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Peggy"
-    },
-    {
-      "quote": "I don't care. It was good. I was enjoying it. Had to interfere. Couldn't leave well enough alone. Well, I will get even with you for this. You can count on it.",
-      "characters": [
-        "George",
-        "Newman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Hey, I brought you some cigarettes. You buy yourself something nice.",
-      "characters": [
-        "George",
-        "Conrad",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well what did you want her to do, you left it on the night table.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But there's no way you could have beaten me by that much. I already beaten you in Junior High School three times.",
-      "characters": [
-        "Duncan",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Duncan"
-    },
-    {
-      "quote": "I always look annoyed. Yeah, when you look annoyed all the time, people think that you're busy. Think about it... .",
-      "characters": [
         "Jerry",
         "George",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What is the big deal about putting your lips on somebody's face?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Lippman",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What about the oil tanker bladder system? We were going to put an end to maritime oil spills.",
+      "quote": "Aw, it's gold, Jerry! Gold! I got all these corporate gigs and even Cynthia took me back.",
       "characters": [
-        "Darren",
+        "George",
         "Jerry",
-        "Frank",
-        "George"
+        "Elaine",
+        "Bania"
       ],
-      "correctAnswer": "Darren"
+      "correctAnswer": "Bania"
     },
     {
-      "quote": "For I am in love with Svetlana, and I don't care if the whole world knows, except for Silvio, who would throw me out of the apartment, where I would be dancing on the sidewalk--",
+      "quote": "Kramer, it is such a dumb idea. I would be  totally embarrassed to bring it...",
       "characters": [
-        "Newman",
-        "Morgan",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Alright, alright, hold on!  Time out! Woah, woah!  What did she say?",
-      "characters": [
         "Kramer",
         "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They're not supposed to just take everything and throw it out!",
+      "characters": [
+        "Beth",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How about our little Elaine huh? Attended the finest finishing schools on the Eastern seaboard. Equestrian competitions. Debutante balls. Look at her now. Interviewing Mohels.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Well I was trying to make gravel and it just  just didn't work out.",
+      "characters": [
+        "George",
+        "Kramer",
         "Jerry",
         "Newman"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is it possible they're just having babies to get people to visit them?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Jackie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah, you know, I didn't drive her home. Plus, I give her a gift in front of Winona, how does that hurt me?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But I have to have them by one o'clock. He's very regiment about his meals.",
+      "characters": [
+        "George",
+        "Anna",
+        "Kramer",
+        "Receptionist"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I just need your signature here, and we'll get you that yellow car ready to go.",
+      "characters": [
+        "Puddy",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Puddy"
     }
   ]
 }

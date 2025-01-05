@@ -1,103 +1,103 @@
 {
-  "gameNumber": 554,
+  "gameNumber": 555,
   "date": "2026-07-11",
   "questions": [
     {
-      "quote": "I mean it's hard enough to meet a woman you dislike, much less like.",
+      "quote": "I'm still big. It's the bootlegs that got small. So how are things at the office? Back to normal?",
       "characters": [
-        "George",
-        "Doctor",
+        "Jerry",
         "Kramer",
-        "Lippman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Chicken, how could she look up to a person who voluntarily spends time with Bania?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Newman",
-        "Jerry"
+        "Elaine",
+        "Clerk"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Now.. This is the tape that we made earlier and I think, that I see. a couple of buds right here.",
+      "quote": "No, had no face, no personality. It was like a martian. But hey, you know that's me.",
       "characters": [
         "Jerry",
+        "George",
         "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no. Not me. I just happen to know someone who specializes in exactely these kinds of sticky situations.",
+      "characters": [
+        "Voice",
+        "Jerry",
         "Kramer",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What is all the racket back there? You know, you're trying to relax on the plane and this is what you have to put up with. [To attendant] What is going on?",
+      "quote": "Well, you know, the police, they've been having some internal dissension about the name.",
       "characters": [
+        "Simon",
+        "Puddy",
         "Jerry",
-        "Kramer",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, alright, hold on!  Time out! Woah, woah!  What did she say?",
+      "characters": [
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, let's get him in the studio today. We can send these out immediately.",
-      "characters": [
-        "Woman",
         "Newman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Too good. Peterman was so pleased, now he wants to take me out to dinner tomorrow. Maybe you wanna come with me.",
-      "characters": [
         "Elaine",
-        "Jerry",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry, it's George. Hey, hey are you all set for the weekend. This is going to be great. You're going to have a great time with Naomi.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Jackie",
-        "Beth"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, we got out to dinner a lot. Usually Chinese, well sometimes Thai. And we go to the movies, Arnie's a real film buff.",
+      "quote": "You can't call China now its like, what, three 'O clock in the morning there",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "Elaine",
         "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hard feelings? What do you know about hard feelings? Y'ever have a man die in your arms? Y'ever kill somebody?",
+      "characters": [
+        "Carrie",
+        "Bookman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Bookman"
+    },
+    {
+      "quote": "Wait a minute  Wait a minute. I know what's going on here. Skinny Mirrors!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table.\"",
+      "quote": "He's not idiotic. He's the Wiz. And nobody beats him. Nobody...",
       "characters": [
-        "Peterman",
-        "Jerry",
         "Elaine",
-        "George"
+        "George",
+        "Maestro",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ahahaha. Well that's the positive thing about getting sick, you get to lose weight.",
+      "quote": "I can't. I denounced them. Maybe I'll go raid Peterman's fridge. He's always got a truffle or something in there.",
       "characters": [
-        "George",
-        "Estelle",
+        "Kramer",
         "Jerry",
+        "Morgan",
         "Elaine"
       ],
       "correctAnswer": "Elaine"

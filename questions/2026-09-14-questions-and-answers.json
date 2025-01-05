@@ -1,106 +1,106 @@
 {
-  "gameNumber": 619,
+  "gameNumber": 620,
   "date": "2026-09-14",
   "questions": [
     {
-      "quote": "Yeah, killed. Because I killed first and warmed up the crowd. He's like that fish that attaches himself to the shark.",
+      "quote": "Where are you meeting these women? When they get off the bus at the port authority?",
       "characters": [
-        "Jerry",
-        "Elaine",
         "George",
-        "Kramer"
+        "Helena",
+        "Kramer",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "\"Well anyway hum.... see when I made the date, I thought that Jimmy......\"",
+      "quote": "I'm sorry, umm he-here's your money back  I-I-I'll have the clothes.",
+      "characters": [
+        "Jerry",
+        "Owner",
+        "Audrey",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, right, at the coffee shop. Where did they get the idea that you have a place in the Hamptons?",
       "characters": [
         "Jerry",
         "Elaine",
-        "Joel",
-        "Ethan"
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Isn't putting this guy's picture on your desk a little transparent?",
+      "quote": "I mean every time I mention it you never say anything or join in the conversation.",
       "characters": [
+        "Woman",
         "Elaine",
         "Kramer",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right, look. People seem to like those tip calculators, huh?",
+      "quote": "No problem.  There's no problem.  She just owes me ten dollars, that's all.",
       "characters": [
-        "Kramer",
-        "George",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm not paying four hundred dollars! I don't even want the thing. What are you going to do?!",
-      "characters": [
-        "Newman",
-        "Ed",
-        "Gina",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Bette Midler is going to be in the park today? Yeeee. Jerry, don't tease me.",
-      "characters": [
+        "George",
         "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yes he is.  Let me ask you something.  When you come out of the shower and you put your robe on, do you cinch it real tight, are you concerned about that?",
-      "characters": [
-        "George",
-        "Jack",
-        "Carol",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "And therein lies the tragedy. For I believe, sadly for you, that there is but one woman meant for each of us. One perfect angel for whom we are put on this earth.",
+      "quote": "Na....no ... This relationship he..he..has got to be about something and fast or I'm in very serious and weird trouble....hum What else happened?",
       "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Newman"
+        "Jerry",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm sorry, but I didn't want Lloyd thinking I was leading him on again. Seeing him made me feel very uncomfortable.",
+      "quote": "Yeah! And the best part is, I still get to look for work in publishing.",
       "characters": [
+        "Vivian",
+        "Jerry",
         "George",
-        "Jackie",
-        "Elaine",
-        "Stationer"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Good morning. Good morning. Good morning. Hi nice to see you. How are you. Good morning.  Good morning.",
+      "quote": "So, where's this boyfriend of yours? I can't wait much longer. I've got a flight.",
       "characters": [
+        "Kramer",
+        "Elaine",
         "Jerry",
-        "Lippman",
-        "George",
-        "Elaine"
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Kramer, I have to take this test ok, I don't have a lot of time.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I haven't seen George for a while. He must be working very hard.",
+      "characters": [
+        "Joe",
+        "George",
+        "Elaine",
+        "Sylvia"
+      ],
+      "correctAnswer": "Sylvia"
     }
   ]
 }

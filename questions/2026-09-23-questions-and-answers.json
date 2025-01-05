@@ -1,106 +1,106 @@
 {
-  "gameNumber": 628,
+  "gameNumber": 629,
   "date": "2026-09-23",
   "questions": [
     {
-      "quote": "You're right. I won't do it without you. I feel so ashamed I even thought of it, huh.",
+      "quote": "Three days and he hasn't called me, and you know why? Because he thinks I'm too fat.",
       "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Bob"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Slapping hands is the lowest form of male primate ritual. In fact, even some of them have moved on - they're doing sign language now.",
-      "characters": [
-        "Nina",
-        "Donna",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well I think it would be nice if there was some kind of historical record of it.",
-      "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Doctor"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "She probably gets that impression because you're cool. You're under control. Like me. Nothing wrong with that.",
-      "characters": [
-        "George",
-        "Kramer",
         "Newman",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's always raving. I finally got a chance to go there the other day, and I tell you this, you will be stunned.",
+      "quote": "Actually she has a thing where she spirals her tongue around, it's like--",
       "characters": [
         "Jerry",
-        "Elaine",
         "Kramer",
-        "George"
+        "Elaine",
+        "Ray"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "S-s-somebody double parked, we couldn't help it. It might have been Saddam Hussein, we're not really sure. He eh, had a British accent though.",
+      "quote": "Uh, yes, uh...you don't know me, my name is George Costanza...did you happen to rent Breakfast At Tiffany's?",
       "characters": [
-        "Poppie",
-        "Lloyd",
+        "George",
         "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right. Kramer, you block off traffic. You to go sweet-talk the pharmacist.",
+      "characters": [
+        "Naomi",
+        "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "George likes them, he feels it's a good personality showcase. He likes a date to see him with a friend so she can get a window into his nondate personality.",
+      "quote": "You are such an idiot. Well, we gotta get the car cleaned up for my parents.",
       "characters": [
-        "Elaine",
+        "Jerry",
         "George",
         "Kramer",
+        "Sid"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't have this on my conscience. We're like Leopold and Loeb! **",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, it's less than twenty-four hours, so I guess I have to!",
+      "quote": "[trying to act as if he doesn't care one way or the other, but we know better] Either way.",
       "characters": [
-        "Bania",
+        "George",
         "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know. But Simons said that if I wanted to get involved, that Wilkinson would tell me the exact right minute to sell. You wanna do it?",
+      "characters": [
+        "Tor",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is incredible! This is one of the greatest things I've ever done in my life! I'm gonna call my mother.",
+      "characters": [
+        "Guy",
+        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Where have you been?!! You were supposed to fix the stove! I've been waiting for hours!",
+      "quote": "We've never gotten so many complaints. Every two minutes, \"Where is the top of this muffin? Who ate the rest of this?\"",
       "characters": [
+        "Woman",
+        "Rebecca",
         "Jerry",
-        "Frank",
-        "Estelle",
-        "Doctor"
+        "Corinne"
       ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Well, I'm going to the game tonight, and me and these five other guys are gonna take our shirts off and spell out 'Devils'.",
-      "characters": [
-        "Kramer",
-        "Sid",
-        "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
+      "correctAnswer": "Rebecca"
     }
   ]
 }

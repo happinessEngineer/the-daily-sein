@@ -1,104 +1,104 @@
 {
-  "gameNumber": 75,
+  "gameNumber": 76,
   "date": "2025-03-19",
   "questions": [
     {
-      "quote": "We have got you in a very nice hotel, I-I don't know how you like to work, but ah, I can arrange for an office if you like.",
+      "quote": "Because I saw the look on your face last week when I took the scotch tape!",
       "characters": [
-        "Lippman",
+        "Jack",
+        "Kramer",
         "Jerry",
-        "Newman",
         "George"
       ],
-      "correctAnswer": "Lippman"
+      "correctAnswer": "Jack"
     },
     {
-      "quote": "Oh who made you a Mohel? Whadya, get your degree from a matchbook?",
+      "quote": "Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want.",
       "characters": [
         "Jerry",
-        "Joe",
         "George",
-        "Kramer"
+        "Elaine",
+        "Fdr"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "SO...you're all in here together. How convenient. I hope you're all proud of yourselves.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes. Well, be that as it may, if you could just find it in yourself to give it up.",
+      "characters": [
+        "Hoyt",
+        "George",
+        "Jerry",
+        "Rebecca"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Say you go to the bathroom at two o'clock in the morning, what's the outfit?  I mean, you dressing up or is it come as you are?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Awright, let's just stay calm here! Don't get all crazy on me!",
+      "quote": "Yeah. Listen, I think he's giving me a big signal...maybe he wants to change our relationship.  Yeah?",
       "characters": [
         "Kramer",
-        "Morty",
+        "Doctor",
         "Elaine",
-        "George"
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I bought it for you because you were so nice to me for not charging me for the dental work.  The way you worked on my filling, you were so, so gentle and so caring and so sensitive.",
+      "quote": "Well I'm going down to visit my sister in Virginia next Wednesday, for a week, so I can't park it.",
       "characters": [
-        "Jack",
-        "Dan",
+        "Sid",
+        "Morty",
+        "Kramer",
+        "Puddy"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "So she kept insisting I take off my coat. I refused, and then she forcibly tried to get me to remove it.",
+      "characters": [
+        "Jerry",
+        "George",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "What's the difference you just read it and mail it right back. These we'll do.",
+      "quote": "It says very clearly, 'for your protection, do not give your secret code to anyone.'",
       "characters": [
+        "Farkus",
         "Jerry",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Nah, nah, it's uh, it's a long story. Just uh, try to get it up.",
+      "characters": [
+        "Jerry",
+        "Karen",
         "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "This woman left this really sexy message on Jerry's tape recorder......",
+      "quote": "She told me. She said she's never had a man stir up all of these feelings inside of her. She's questioning her faith. She's thinking of leaving the church.",
       "characters": [
-        "Rabbi",
-        "Eva",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake.",
-      "characters": [
-        "Susan",
-        "Jerry",
-        "George",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "They sell them by the side of the road.  Blueberry, Blackberry ....",
-      "characters": [
+        "Elaine",
         "George",
         "Jerry",
-        "Newman",
         "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, the acting bug. Ever since I was in that Woody Allen movie.",
-      "characters": [
-        "Salesman",
-        "George",
-        "Kramer",
-        "Jerry"
       ],
       "correctAnswer": "Kramer"
     }

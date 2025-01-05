@@ -1,106 +1,106 @@
 {
-  "gameNumber": 108,
+  "gameNumber": 109,
   "date": "2025-04-21",
   "questions": [
     {
-      "quote": "So what about the \"Maestro\" stuff. Did he make you call him Maestro.",
+      "quote": "Put everyone on alert, check all the area hospitals, clinics, shelters, we've gotta find that kid.",
       "characters": [
         "Jerry",
-        "Newman",
         "Kramer",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Well, it's a possibility, like you said! Stranger things have happened! Thank you, Elaine. Thank you.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Toby"
+      ],
+      "correctAnswer": "Toby"
+    },
+    {
+      "quote": "Nah, believe me. It's only used in the circus. For elephants.",
+      "characters": [
+        "Jerry",
+        "Salesman",
+        "Woman",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Salesman"
     },
     {
-      "quote": "Do you hold the neck together with one hand, or are you just letting it flap in the breeze?",
-      "characters": [
-        "George",
-        "Katya",
-        "Woman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It was a great sounding laugh too, kind of lilting and feminine--none of those big coarse \"ha's.\" You know those?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, no no no. I was just looking for stock-pages. Here it is. Looking for the quotes. Gotta check to quotes. Love a good quote. Oh, IBM up a quarter.",
-      "characters": [
-        "Bania",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, it's a big job. You've got to dismantle the latch hasp from the auxiliary drainage line.",
-      "characters": [
-        "Man",
-        "Puddy",
-        "Elaine",
-        "Leo"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "I can't believe you blew us off; we were doing you the favor.",
+      "quote": "Alright, are we ready? Come on, let's get this show on the road.",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
+        "Seth",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Because, if I hear one more rattle - just one - your out on your can. And if you are undead - I'll find out about that too.",
+      "quote": "No, but I saw the look on his face when he put his arm around me. And then we went to his apartment, and I sat on one of his chairs and it broke. And he says, \"Boy, you're a lot of woman!\"",
       "characters": [
-        "Man",
-        "Peterman",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "This friend of Susan's is staying with us for two weeks...Now am I wrong or is that excessive?",
-      "characters": [
-        "George",
         "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jean-Paul, it's not my microwave, ok? Ok? All right, listen, let's just go. Come on, Jean-Paul, let's go. Let's go.",
-      "characters": [
-        "Milos",
-        "Kramer",
-        "George",
-        "Elaine"
+        "Hoyt",
+        "Beth"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I don't know, it never shuts up. So anyway, you could see why I would be interested in finding this person.",
+      "quote": "Shut up. Spread 'em. I said spread 'em!  You're in big trouble son. Burglary, grand larceny, possession of stolen goods... and uh, uh... murder.",
       "characters": [
         "George",
-        "Corinne",
         "Elaine",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Corinne"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Piccata, if anything I should be dating a mentor and Bania should be setting pins in a bowling alley.",
+      "characters": [
+        "Jerry",
+        "Captain",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! Look who's here! Hey Kurt, this is Jerry, and George, and Kramer.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh and speaking of issues . Guess who got a no-polish manicure and begged his neighbor not to tell anyone?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "That's the funny face that greets you at the beginning of the Super Terrific Happy Hour.",
+      "characters": [
+        "Jerry",
+        "Attendant",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

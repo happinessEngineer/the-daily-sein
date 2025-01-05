@@ -1,104 +1,104 @@
 {
-  "gameNumber": 807,
+  "gameNumber": 808,
   "date": "2027-03-21",
   "questions": [
     {
-      "quote": "She tolerated the strawberries and the chocolate sauce, but eh, it's not a meal, you know? Food and sex, those are my two passions. It's only natural to combine them.",
+      "quote": "Yeah, well, he nods. And I think he understands me, he seems to enjoy it when I read to him.",
       "characters": [
-        "George",
+        "Elaine",
         "Jerry",
-        "Jimmy",
-        "Pop"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Now I know what I am supposed to do. It's so simple. Tell the truth That's all. Just tell the truth",
+      "quote": "Bell's Palsy. The entire side of my, of, of my face was paralyzed. Farfel! I couldn't, I couldn't, I couldn't even feed myself, I was completely incapacitated. Quiet Farfel!",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Frankie",
-        "George"
+        "Gavin",
+        "Michael",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Gavin"
     },
     {
-      "quote": "I happen to know for a fact, that he was called Maestro in social situations. I once saw him at a bar and someone came up to him and said \"Hello Maestro, how about a beer\". O.K. So that's a fact.",
+      "quote": "Look, I'm sorry, Puddy. It-it was a mistake. So, let's just put it behind us, and we can continue like this never happened.",
       "characters": [
-        "Maestro",
-        "Jerry",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Maestro"
-    },
-    {
-      "quote": "Ok guys, we gotta be careful of one thing. Some of the stuff's very fragile We're going to have to handle it like a baby.",
-      "characters": [
-        "Keith",
-        "Jerry",
-        "Phil",
-        "Craig"
-      ],
-      "correctAnswer": "Keith"
-    },
-    {
-      "quote": "Well, that's odd, 'cause I feel perfectly at peace with the world- uh! eggs! you! Serenity now, serenity now, serenity now.",
-      "characters": [
-        "Susan",
         "Elaine",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So Anyway, I started to compliment Elaine on her sketches and it turns out,they're Paula's.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Marty",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, Wilhelm, listen to me. I want the stadium scoured. He could be bleeding to death in the bullpen.",
-      "characters": [
-        "Steinbrenner",
-        "Frank",
+        "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Steinbrenner"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, two for the 7:15 of Novaj pravas . What you're wearing the green sweater?",
+      "quote": "Ah, tell you what, they're expecting us though. Lemme just grab a hotdog here.",
       "characters": [
-        "Jackie",
-        "Izzy",
+        "George",
+        "Kramer",
         "Jerry",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Oh. Oh. Yeah, sure. Here. Uh, sit down. Uh, uh, cheese, there?",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "...but the Communists, they put an end to that! So, on this issue there is no debate! And no intelligent person can think differently.",
+      "quote": "Yes, yes, you know I was in detention and she came up behind me while I was erasing the blackboard . . .",
       "characters": [
         "Kramer",
-        "Woman",
-        "Jerry",
-        "Poppie"
+        "Elaine",
+        "Christie",
+        "George"
       ],
-      "correctAnswer": "Poppie"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, at the Yankees it was all about smoothing things over, you know, chiseling away, grinding down. In fact we used to call it 'the grind'.",
+      "quote": "Have you ever seen yourself?  Ah, ah, please, please. Not in my home. I gotta go throw this stuff in the laundry. I'll be right back.",
       "characters": [
         "George",
+        "Elaine",
+        "Julie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So now she's lost a phone face-off? That's even worse than your cell phone walk-and-talk.",
+      "characters": [
+        "Sara",
+        "George",
         "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All I want is my seventy-five cents back, an apology, and for him to be fired!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I always look annoyed. Yeah, when you look annoyed all the time, people think that you're busy. Think about it... .",
+      "characters": [
+        "Sidra",
+        "George",
         "Jerry",
-        "Elaine"
+        "Attendant"
       ],
       "correctAnswer": "George"
     }

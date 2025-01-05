@@ -1,106 +1,106 @@
 {
-  "gameNumber": 642,
+  "gameNumber": 643,
   "date": "2026-10-07",
   "questions": [
     {
-      "quote": "You don't understand. I got this all timed out. I got another spot across town at 9:50, I'm not gonna be able to make it!",
+      "quote": "Alright, maybe it is, but listen, I gotta get ready - Sidra's coming over in a few minutes, so if you don't mind...",
       "characters": [
-        "George",
-        "Elaine",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "If I was a woman I'd be down at the dock waiting for the fleet to come in.",
-      "characters": [
-        "Woman",
-        "Elaine",
+        "Emily",
         "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, well. I'm not gonna go without you. Do you guys want 'em?",
+      "quote": "An Alan Mercer called for you. He said he's sorry, but he won't be able to make it tonight.  He's been stabbed.",
       "characters": [
-        "Newman",
+        "Waiter",
         "Jerry",
-        "Kramer",
-        "Nina"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Nina"
+      "correctAnswer": "Waiter"
     },
     {
-      "quote": "Festivus, Sir. And, uh, I was afraid that I would be persecuted for my beliefs. They drove my family out of Bayside, Sir!",
+      "quote": "Oh, Peterman ran off to Burma, and now he wants me to run the catalog.",
       "characters": [
+        "George",
+        "Patrice",
         "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry please, that's very nice, but, uh,  where would we be going?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Your bed is too small? I'm gone two weeks and you turn our house into, into Bourbon Street!",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "Steinbrenner",
         "Elaine"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "It was totally out of the blue.  We went upstairs to his apartment, you know, to look for the label maker.",
-      "characters": [
-        "Elaine",
-        "Wilhelm",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That is the sound of you buying a whole can. And the same goes for this, okay...",
+      "quote": "Awright, let's see. How about Mug?  Mug Costanza, that's original.  Or uh, Ketchup? Pretty name for a girl.",
+      "characters": [
+        "Marla",
+        "Kramer",
+        "Greg",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Kramer, this is perfect. I need you to go in there, pretend you're a doctor and check this guy for moles.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Valerie",
+        "David"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Mr. Peterman, you have my deepest sympathies. Unfortunately, I've gotta get going.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, Jerry, I been thinkin'. I've gotten as far as I can go with George Costanza.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kevin",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So now you want an apology for the apology, plus the original apology?",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's normal.  Excuse me, sir. Could I have a look at that business section?",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
+        "Joe",
+        "Helen",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Killed.  I'm gonna go pick up some chicks. Good-looking ones, too!  Hey, what's your name?",
+      "quote": "Yeah, yeah, I know.  Listen, Jerry, I can't let you come to my New Year's party.",
       "characters": [
-        "Jerry",
         "Kramer",
         "George",
-        "Bania"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Excuse me, uh I couldn't help but notice that you were looking in my direction.",
-      "characters": [
-        "George",
-        "Elaine",
         "Jerry",
-        "Kramer"
+        "Helen"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     }
   ]
 }

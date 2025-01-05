@@ -1,91 +1,21 @@
 {
-  "gameNumber": 138,
+  "gameNumber": 139,
   "date": "2025-05-21",
   "questions": [
     {
-      "quote": "Kind of. I'm still collecting checks, I'm just not delivering mail.",
+      "quote": "W--then I'm pretty much where I am now. At least I got to take a ride on a spaceship.",
       "characters": [
-        "Beth",
         "George",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Gee, I just didn't expect it from the way you've been acting.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Cheryl",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's just a Latin phrase George, it does not mean anything. Now, what is this test?",
-      "characters": [
-        "Kramer",
-        "Pam",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I did. I most certainly did. And he said, he goes, \"Oh, yeah. You're Jeanette's friend. We did meet once.\" And I said, \"Well, how do you go from that to totally ignoring a person when they walk by?\"",
-      "characters": [
         "Susan",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Have you noticed that women today are, you know, they seem...bigger.",
-      "characters": [
-        "George",
         "Elaine",
-        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I believe the deal was that I get the calzones on my mail route. Well today I won't be going on my mail route! Will I. Perhaps tomorrow.",
+      "quote": "I didn't think I had to. Look with a piece of Tupperware you just assume.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Ha ha, uh, well you screwed me again, Costanza. How am I supposed to sign the card now when it's already under glass?",
-      "characters": [
-        "Morty",
-        "Morgan",
-        "George",
-        "Greg"
-      ],
-      "correctAnswer": "Morgan"
-    },
-    {
-      "quote": "I mean every time I mention it you never say anything or join in the conversation.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "... Yeah dropped off that Bob Sacamano hat. Oh she's ah, upset at him, oh yes siree. Yeah well thanks for stopping by.",
-      "characters": [
-        "Ron",
         "George",
         "Jerry",
         "Kramer"
@@ -93,14 +23,84 @@
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah. Listen, I think he's giving me a big signal...maybe he wants to change our relationship.  Yeah?",
+      "quote": "How could you do that to Mr Mandelbaum? You should be ashamed of yourself.",
       "characters": [
         "Jerry",
+        "Newman",
+        "Kramer",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Because I relate to George through you, we're like friends-in-law. Besides, you said we were gonna see Prognosis Negative together. Can't you just put some newspapers down or something?",
+      "characters": [
         "Elaine",
         "George",
-        "Attendant"
+        "Jack",
+        "Wilhelm"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes, you do everything, get me job, you get me a place to live in your building.",
+      "characters": [
+        "Tom",
+        "Elaine",
+        "George",
+        "Babu"
+      ],
+      "correctAnswer": "Babu"
+    },
+    {
+      "quote": "No, I don't know. Maybe you haven't. You know, not everybody's seen a massage table.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't give out bites. I got another one. But I'm saving it for later.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steinbrenner",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, why would the guy make up something like that? Of all the names he could pick, why settle on Jon Voight?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Wait till you see it, it's perfect. The guy told me it's one of a kind, they stopped making it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Naomi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
     }
   ]
 }

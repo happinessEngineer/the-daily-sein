@@ -1,106 +1,106 @@
 {
-  "gameNumber": 267,
+  "gameNumber": 268,
   "date": "2025-09-27",
   "questions": [
     {
-      "quote": "Who am I going to meet who is better than her? No one, Jerry. No one's better than her.",
+      "quote": "Well um, would you believe that it actually, hit somebody in the head.",
       "characters": [
-        "George",
-        "Alec",
-        "Jerry",
-        "Marla"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry's got nothing. Newman's got nothing. You're the only one I know who's got the good stuff, and I need it bad, baby, cause I feel like I got bugs crawling up my skin. Now you gotta help me out.",
-      "characters": [
-        "Kramer",
-        "George",
+        "Kimbrough",
+        "Sid",
         "Elaine",
-        "Salesman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, Hey, hey, hey! That's great! That's very nice. You know we've been waiting twenty minutes for you people?! What do you think, you're Mussolini?!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Jimmy",
-        "Jack"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It seems that a psychotic mechanic has absconded with my friend's car.",
-      "characters": [
-        "Lippman",
-        "Newman",
-        "Peterman",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "...he embibed her glistening spell...just before the other shoe...fell.",
+      "quote": "Yes, yes, I did. But, you know, I was watching it on CNN, and they covered it so well I thought, \"Why knock my brains out?\"",
       "characters": [
         "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'm very mysterious by nature.  A lot of women find that attractive.",
+      "characters": [
+        "Harold",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry, uh, it's not like I'm gonna see something I've never seen before.",
+      "characters": [
+        "George",
+        "Elaine",
         "Jerry",
-        "Ronnie",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Gym a gun sen tokomo. Chin che .They say you grow hair, Look a like Stalin",
+      "quote": "Eh, I can't. I gotta go down to the foundation. I'm interviewing high schoolers for the Susan Ross.. scholarship.",
       "characters": [
-        "Jerry",
-        "Abby",
-        "Ping",
-        "George"
-      ],
-      "correctAnswer": "Ping"
-    },
-    {
-      "quote": "Well it wasn't just that, i realized after 3 years of marriage that David's little quirks were getting on my nerves a little.",
-      "characters": [
-        "Susan",
-        "Kramer",
-        "Darryl",
-        "Beth"
-      ],
-      "correctAnswer": "Beth"
-    },
-    {
-      "quote": "Well, to be honest, it just didn't make it for me. It's just so much fluff.",
-      "characters": [
-        "Marlene",
-        "George",
-        "Lippman",
-        "Jerry"
-      ],
-      "correctAnswer": "Marlene"
-    },
-    {
-      "quote": "Yeah. No, uh, I was just thinking of something. I'll be back in a second.",
-      "characters": [
-        "Russell",
         "Elaine",
         "George",
-        "Jerry"
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Russell"
+      "correctAnswer": "George"
     },
     {
-      "quote": "But I finally realized what's missing, in my life. Structure. An' at Brand/Leland, I'm gettin' things done. An' I love the people I'm workin' with.",
+      "quote": "Wait a second, wait a second. We could work out a little deal here.",
       "characters": [
         "Kramer",
+        "George",
+        "Greg",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "How're things going? You wanna know how things are going? I'll tell you how things are going. I am getting kicked out of my apartment!",
+      "characters": [
         "Elaine",
+        "Kramer",
+        "Attendant",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's Latin. I read it in some book. I don't know, I just wanted to say it out loud.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah.. And, um, when I told him my idea about the beach cologne, you know, he - he laughed at me.",
+      "characters": [
+        "Kramer",
         "Jerry",
-        "George"
+        "Elaine",
+        "Susan"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh yes, I read through it this morning. I couldn't have done it better myself, and I turned it right over to Mr Steinbrenner. Good work George.",
+      "characters": [
+        "Wilhelm",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
     }
   ]
 }

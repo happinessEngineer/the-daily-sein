@@ -1,106 +1,106 @@
 {
-  "gameNumber": 857,
+  "gameNumber": 858,
   "date": "2027-05-10",
   "questions": [
     {
-      "quote": "Erika is gonna meet me here, now we're gonna find out the truth",
+      "quote": "A radar detector, as I understand it, DETECTS RADAR! WITH A SERIES OF BEEPS AND FLASHING LIGHTS. But oddly, for some reason I didn't hear a thing except for the sound of a police siren.",
       "characters": [
-        "Kramer",
-        "Captain",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "An' wait'll you see the dress that she's got. It's backless! Uh?! I'm finally gonna make a Great Entrance!",
-      "characters": [
-        "Newman",
+        "George",
         "Jerry",
         "Elaine",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Why does he want to hold a rope underneath Woody Woodpecker in the Thanksgiving Day Parade?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Most people go their whole lives without sitting in a Farbman.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Brett"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "Communism, You didn't realize Communism was a sensitive issue? What do you think has been going on in the world for the past 60 years? Wake up and smell the coffee.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "I'm stuck. Pull a little, just a second. Don't start the train! Don't start the train!!",
+      "characters": [
+        "Helen",
+        "Sally",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Now, I should tell you… that, at this point, she's under the impression that you're - a - ah…",
+      "quote": "Oh, just this woman...she got impregnated by her troglodytic half-brother, and decided to have an abortion.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh it be.  You got any other friends you want to set me up with?",
-      "characters": [
         "Kramer",
-        "Gina",
-        "Morty",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey! George, Janet looks very nice and she's quite a handsome woman.",
+      "quote": "They sell them by the side of the road.  Blueberry, Blackberry ....",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "Tony"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, no, no... Just a *tiny* bit... It's not even *frontal* nudity. It's... *sidal* nudity...",
-      "characters": [
+        "Elaine",
         "George",
-        "Enzo",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright if you think it's too much they don't have to mail the postcards.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, you, my friend, have crossed the line that divides Man and Bum. You are now a Bum.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Carol"
+        "Nurse"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Who cares about eyebrows? Is she sweet? I like sweet. But not too sweet, you could throw up from that.",
+      "quote": "Of course, the plane cake with the sweet brown crumbs on the top.",
       "characters": [
-        "Earl",
+        "Jerry",
         "George",
-        "Wilhelm",
-        "Jerry"
+        "Steve",
+        "Gina"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Gina"
     },
     {
-      "quote": "Well, it's her mistake. Because she is going to miss the party of a lifetime.",
+      "quote": "Yeah, well I wasn't looking for a long term relationship. I was on TV.",
       "characters": [
-        "Newman",
-        "George",
         "Kramer",
-        "Joyce"
+        "Jerry",
+        "George",
+        "Bania"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I know it's a joke. It's supposed to be a joke! Now I'm going on the Charles Grodin Show with nothing.  Nothing!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

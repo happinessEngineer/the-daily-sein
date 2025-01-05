@@ -1,106 +1,106 @@
 {
-  "gameNumber": 79,
+  "gameNumber": 80,
   "date": "2025-03-23",
   "questions": [
     {
-      "quote": "You know, this is liek that Twilight Zone where the guy wakes up, and he's the same - but everyone else is different!",
+      "quote": "You just gave them to him two days ago, he's gotta give you a grace period.",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Kramer",
-        "Susan",
-        "Mickey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I gave. I gave everything I could Mrs. Sokol. but nothing was good enough for her.",
-      "characters": [
-        "George",
-        "Dana",
-        "Kramer",
-        "Peterman"
+        "Wilhelm",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Eight hours of jingle belling and ho ho hoing. Boy, I am ho'd out.",
+      "quote": "Oh Maestro, you, what are you doing? You don't have to do this. Do you believe this Maestro?",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Elaine, I don't want you causing any trouble down at that soup stand. I happen to love that soup.",
-      "characters": [
-        "Jerry",
-        "Valerie",
-        "Bruce",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You can't stop her, Jerry! Oh, I've seen 'em come and go, but this kid has got something!",
-      "characters": [
-        "Karen",
-        "Elaine",
+        "Abby",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, like tomorrow for example, I have to uh...I have to buy him some socks.",
-      "characters": [
-        "Babu",
-        "Elaine",
-        "George",
+        "Lanette",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What, there's something wrong with Loni Anderson?  Hey listen, thanks again for running over here. I appreciate it.",
+      "quote": "A lot of ex-cons become busboys. They seem to gravitate twards 'em.",
       "characters": [
-        "Kramer",
+        "Mike",
+        "Steve",
         "Jerry",
-        "Bania",
-        "Milos"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That doesn't punish me. It punishes Elaine! And cruelly, I might add.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Did you feel that tension? We use to have banter -  - there's no more banter.",
+      "quote": "That was the Vice President of the post office. I didn't get the transfer.. They knew it wasn't me doing my route!",
       "characters": [
+        "Morty",
+        "Newman",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, you've both presented very convincing arguments. On the one hand, Elaine, your promise was given in haste. But was it not still a promise? Hmm?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Absolutely. Because instead of doing a wash, I just keep buying underwear. My goal is to have over three hundred and sixty pair. That way, I only have to do wash once a year.",
+      "characters": [
         "George",
         "Elaine",
-        "Babs"
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "My name is George Steinbrenner, I'm afraid I have some very sad new about your son.",
+      "quote": "Tell them when you took my son's pen back. Tell them about that!",
+      "characters": [
+        "Morty",
+        "George",
+        "Nina",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Installing your Clarkman garbage disposal. Dismantle latch hasp beneath main drainage lot. Oh, come on, Clarkman.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Mickey",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, why a cape? Who wears a cape? Where do you even get a cape?",
       "characters": [
         "Jerry",
-        "Steinbrenner",
-        "Elaine",
-        "Poppie"
+        "Kramer",
+        "Jackie",
+        "Elaine"
       ],
-      "correctAnswer": "Steinbrenner"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Would you stop it? You'll have plenty of time to destroy it after I get it. Hey, George, I'm buyin' this car.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

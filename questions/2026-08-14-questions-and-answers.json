@@ -1,106 +1,106 @@
 {
-  "gameNumber": 588,
+  "gameNumber": 589,
   "date": "2026-08-14",
   "questions": [
     {
-      "quote": "Anna. I don't recall seeing you around the office. Do you work in the mail room?",
-      "characters": [
-        "Jerry",
-        "Lisi",
-        "Anna",
-        "George"
-      ],
-      "correctAnswer": "Anna"
-    },
-    {
-      "quote": "Hello, yes, I called for an ambulance like thirty-five minutes ago.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry if you have something to do we could just sit right here and read.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Oh yeah the nipple. But besides that. How did you feel about Kramer's work?",
+      "quote": "I still don't understand how you can get in trouble for taking your own racquet.",
       "characters": [
         "George",
-        "Jerry",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, yeah, I'm alright. Oh, by the way, the car hit a pothole and now it's making a clanking noise.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Shelly"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It's Kramer isn't it? I knew it!  The greasy door knob the constant licking of the fingers, he's hooked to the chicken isn't he?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Lippman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I couldn't have dinner with him. 'Plan 9 from Outer Space', one night only, the big screen. My hands are tied!",
-      "characters": [
-        "Jerry",
-        "Sid",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That poor priest. He was just visiting from El Salvador. Now he's gone completely loco.",
-      "characters": [
-        "Elaine",
         "Jack",
-        "Jerry",
-        "Kramer"
+        "Kruger",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So I'm sitting there with Woody and I say, I turn to him and I go, \"Boy, these pretzels are making me thirsty.\"",
+      "quote": "George, why would I, a Juilliard trained dermatologist, send him to another doctor?",
       "characters": [
-        "George",
-        "Elaine",
         "Kramer",
-        "Jerry"
+        "George",
+        "Jane",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He doesn't have to say anything, he just has to sit there. I'm playing a detective.",
+      "quote": "Hey, last night, I found a whole Weeble Village right behind the EZ Bake oven.",
       "characters": [
+        "Kramer",
+        "George",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't know what it is, I can't put my finger on it, but lately you have just seemed 'on'. And you always leave me wanting more.",
+      "characters": [
+        "Brett",
         "Jerry",
+        "Kruger",
+        "Leo"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "You want me to find a poem about Susan? May she rest in peace?!",
+      "characters": [
+        "George",
         "Elaine",
-        "Mickey",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Mickey"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, gotta get fifty. Gotta get fifty. All right, I tell you what. We go to the coffee shop, you call your manager. Maybe they made an offer.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's like a bald convention out there!  Sorry. I, uh, made a faux pas.",
+      "characters": [
+        "Melissa",
+        "Jerry",
+        "Ray",
+        "Maura"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "....I'm getting a little tired of hearing how horrible I am and would appreciate it if you would leave me out of your act all together.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Thanks. Hey, listen, if you ever get a date, maybe the four of us could go out together sometime.",
+      "characters": [
+        "Matthew",
+        "Izzy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, aren't you the boss of him? You shouldn't let him move up! When I was in the Cub Scouts, I got stuck on Weebolos for three years 'cause I kept losing the Pinewood Derby.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

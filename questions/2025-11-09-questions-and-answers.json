@@ -1,104 +1,104 @@
 {
-  "gameNumber": 310,
+  "gameNumber": 311,
   "date": "2025-11-09",
   "questions": [
     {
-      "quote": "So you keep it a secret your whole life, then at your funeral the mortician comes out  'Here, Mrs Costanza, I thought you might want this'.  Aahh!",
+      "quote": "And I had won by so much a myth began to grow about my speed. Only Duncan suspected something was a miss. He's hated me ever since. Now he's back.",
       "characters": [
         "Jerry",
-        "Glenn",
+        "Elaine",
         "George",
-        "Susan"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ohh, what are you gonna do? You gonna put on phony beards and dress-up like Arab sheiks and sit around in some hotel room. I mean come on...",
+      "quote": "I'm with people, I'll be with you in a moment.  So, you want a protein shake, or something?",
       "characters": [
-        "Frank",
-        "Valerie",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Gary"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your son could never afford that car. We all saw his act, last year, at the playhouse. He's lucky he can pay his rent!",
+      "characters": [
+        "Kramer",
+        "Jack",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "It's all in your head. All she knows is she had a good time. I think you should call her.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Guy"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's a writer from Entertainment Weekly . I would like to have a good show.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Babs",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What, are you, nuts? You're gonna spend more on the ticket than you're gonna get back from Grossbard.",
-      "characters": [
-        "Elaine",
-        "Jack",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, but I still don't feel right about letting you into Kramer's apartment without his permission.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "And now as Festivus rolls on, we come to the feats of strength.",
+      "quote": "Yeah, he's a hoot.  Oh, goodbye, my dear.    Ouch.    Weekend of the 26th, come on out, we're having another party.",
       "characters": [
         "George",
-        "Woman",
-        "Frank",
-        "Russell"
+        "Steve",
+        "Sally",
+        "Helen"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Steve"
     },
     {
-      "quote": "Hey, George. How about that tour, huh? These guys are ready to run the bases.",
+      "quote": "Well, how do you think I feel? Instead of editing the first novel of a major young writing talent, I am proofreading a food allergy cookbook.",
       "characters": [
-        "Kramer",
-        "Newman",
+        "George",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh! Jeez! Well, you've got a maid. It's a whole different world downtown-- different Gap, different Tower Records, and she's a 646.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Stan",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hey. You forgot about my piece of pie. Hello?  You know, sex in a tub. That doesn't work!",
+      "quote": "Alright, what's the difference. What are we gonna do now? He won't take our calls, we can't get into his office...",
       "characters": [
-        "Jerry",
+        "Elaine",
         "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I got a feeling I'm gonna be much smarter than you pretty soon.",
-      "characters": [
         "Jerry",
-        "Officer",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright, then just get rid of it. You won't have any problem.",
+      "quote": "No, we can't. My skin is crawling just being inside your little rat's nest. Now, what happened?",
       "characters": [
         "Elaine",
+        "Receptionist",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So yesterday, after they took you away, I looked in my mail and I noticed that the mailman accidentally put your Visa renewal in my mail box.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
-        "Shelly"
+        "Daphne"
       ],
       "correctAnswer": "Jerry"
     }

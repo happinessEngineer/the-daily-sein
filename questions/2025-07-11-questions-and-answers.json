@@ -1,106 +1,106 @@
 {
-  "gameNumber": 189,
+  "gameNumber": 190,
   "date": "2025-07-11",
   "questions": [
     {
-      "quote": "My dad was a collector. I inherited them after he died from a long painful bout with…",
-      "characters": [
-        "Celia",
-        "Elaine",
-        "Jerry",
-        "Allison"
-      ],
-      "correctAnswer": "Celia"
-    },
-    {
-      "quote": "Yeah, tell me about it, soul sister.  Anyway, I told Jake that you said hi.",
+      "quote": "Anatoly!  Look, it's gonna take a few minutes.. Then, you and the gals can take a load off and watch something on Lifetime.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Elaine",
-        "Darryl"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know that store, Putumayo?  I was trying to buy these hirachis, right, and the saleswoman just completely ignored me.",
-      "characters": [
-        "Newman",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ohh kay! Well, you know, I had Bob Saccamano on the phone, and I suddenly realized that I-",
-      "characters": [
-        "Kramer",
-        "Bania",
+        "Julianna",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I stopped at the club to see him and I was standing in the back while he was on, right?, and there was this tape recorder there and I.....got this impulse. Ha Ha Ha Ha....What?",
+      "quote": "What am I talking about? Come on.  You don't think I bought all that?",
       "characters": [
-        "Elaine",
-        "Kramer",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, I work for Kruger Industrial Smoothing: \"We don't care, and it shows.\"",
-      "characters": [
+        "Steinbrenner",
         "Elaine",
-        "Jerry",
-        "George",
-        "Susan"
+        "Helen"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, man. Well, I guess you'll be going back to that hospital.",
+      "quote": "Well, Fredo was weak and stupid! He shouldn't have eaten that key!",
       "characters": [
-        "George",
         "Kramer",
-        "Kate",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Fire! Whoa! There's a lot of major chicks in this place, huh?  Something wrong with your arm?",
-      "characters": [
-        "George",
         "Jerry",
-        "Frank",
-        "Lloyd"
+        "Helen",
+        "Craig"
       ],
-      "correctAnswer": "Lloyd"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hello? Oh, yeah, okay fine. Uh, he'll be right down.  Car's here to pick you up and take you to the meeting.",
+      "quote": "\"Hey look. Hank's got a new boyfriend. Jimmy's not threatened by Hanks sexuality ... Jimmy's happy for Hank.\"",
       "characters": [
         "Elaine",
-        "Bob",
-        "George",
+        "Susan",
+        "Jerry",
+        "Jimmy"
+      ],
+      "correctAnswer": "Jimmy"
+    },
+    {
+      "quote": "I didn't talk to anyone - I was just walking by, and I saw the sign, and I thought George might get a kick out of it.",
+      "characters": [
+        "Elaine",
+        "Peterman",
+        "Puddy",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "With all due respect, Mr. O'Brien, we're just about to leave.",
+      "quote": "Jerry, it's George. Hey, hey are you all set for the weekend. This is going to be great. You're going to have a great time with Naomi.",
       "characters": [
-        "Tim",
+        "George",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at it! Look at it! And it's all me. I shaved there when I was a lifeguard.",
+      "characters": [
+        "Kramer",
         "George",
         "Elaine",
-        "Jerry"
+        "Brett"
       ],
-      "correctAnswer": "Tim"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Eh...Varnsen. Kel Varnsen. Actually, this room intrigues me. Why is it called the TV room?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Going backstage is the worst. Especially when they stink. You know that's a real problem.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A thousand?! I know a coupla Chinamen over there on Forty-third Street, who'll do it for half that.",
+      "characters": [
+        "Tina",
+        "Morty",
+        "Elaine",
+        "Guard"
+      ],
+      "correctAnswer": "Morty"
     }
   ]
 }

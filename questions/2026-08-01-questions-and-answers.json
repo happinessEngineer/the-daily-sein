@@ -1,106 +1,106 @@
 {
-  "gameNumber": 575,
+  "gameNumber": 576,
   "date": "2026-08-01",
   "questions": [
     {
-      "quote": "Right, well I'm sorry, all right. I guess I was just thinking of myself.",
+      "quote": "Nothing, I got up, run some errands, I went down to Sara's office and apologized...",
       "characters": [
         "Gary",
+        "Lippman",
         "Kramer",
-        "Manager",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "Gary"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well it's a story about love, deception, greed, lust and...unbridled enthusiasm.",
+      "quote": "Mister Kramer, you heard the testimony so far. Would you please tell the court in your own words what happened on the afternoon of September 10th?",
+      "characters": [
+        "Newman",
+        "Sophie",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey buddy. I'm on no sleep, no sleep!. You don't know what it's like in there, all night long things are creaking and cracking. And that red light is burning my brain!",
+      "characters": [
+        "Joel",
+        "Elaine",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, that's right. Well, what's going on over there with you and, uh, Vegetable Lasagna?",
       "characters": [
         "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
+        "Puddy",
+        "Kramer",
+        "Morty"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Puddy"
     },
     {
-      "quote": "A fan?  I would drape myself in velvet if it were socially acceptable. And look at this, hardwood floors!",
+      "quote": "What? In his drink? Are you outta your mind? What are you Peter Lorre?",
+      "characters": [
+        "Sophie",
+        "Peterman",
+        "Jerry",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I picked up this shirt here yesterday. It's completely shrunk. There's absolutely no way I can wear it.",
       "characters": [
         "George",
         "Kramer",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Morty Seinfeld, you are officially dismissed as condo president. As vice-president, Jack Klompus, in accordance with the phase two constitution, is hereby installed as president.",
+      "quote": "I'm still here. Listen, you gotta go down to the Diplomat's Club...",
       "characters": [
-        "Elaine",
-        "Newman",
         "Jerry",
-        "Herb"
+        "Elaine",
+        "Kramer",
+        "Helen"
       ],
-      "correctAnswer": "Herb"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey George, one second, she's having a party friday night and she wants me to take care of the invitations.",
+      "quote": "He's a writer from Entertainment Weekly . I would like to have a good show.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Frank",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh no it is not! No child of mine is ever going to be named Seven!",
+      "quote": "You should be the one criticizing me. I, I'm lucky to even know someone like you.",
       "characters": [
-        "Susan",
-        "Jerry",
-        "George",
-        "Estelle"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "She looks like something out of an old high school yearbook. You should say something to her.",
-      "characters": [
-        "George",
         "Elaine",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, you know what else is playing here? ``Rochelle Rochelle''.",
-      "characters": [
-        "Toby",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah hah. You see Father, I'm I'm incredibly anxious to become a member. Um, don't you offer any kind of an express conversion? A quick change?",
-      "characters": [
-        "George",
         "Newman",
         "Jerry",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You're luscious. You're ravishing. I would give up red meat just to get a glimpse of you in a bra. I'm terribly sorry.",
+      "quote": "Obviously we're gonna call the police and tell that he's not the guy.",
       "characters": [
+        "Kramer",
         "Jerry",
-        "Mickey",
         "George",
-        "Sally"
+        "Mickey"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

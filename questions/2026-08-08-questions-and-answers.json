@@ -1,106 +1,106 @@
 {
-  "gameNumber": 582,
+  "gameNumber": 583,
   "date": "2026-08-08",
   "questions": [
     {
-      "quote": "The Rogue's Wallet. That's where he kept his card, his dirty little secret. Short, devious, balding. his name was Costanza. He killed my mother.",
+      "quote": "You know, about how when you break it down, it's really a very positive thing. you know, you have a \"nure,\" with a \"ma\" in front of it. MA-NURE. I'z not bad.",
       "characters": [
-        "George",
+        "Kramer",
+        "Woman",
         "Jerry",
-        "Elaine",
-        "Lanette"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "By the way, lunch is on me. I just cashed my Nana's birthday checks.",
+      "quote": "Are you nuts? I don't want her to think I'm one of those low-rise briefs guys who shaves his chest.",
       "characters": [
+        "Frank",
         "Elaine",
-        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "How can I go on a cruise with out my cabana wear? I love those, those clothes.  AH!  A mouse! I saw a mouse!",
+      "quote": "Well, it's these people-- they go swimmin' in the winter. They're terrific, I just took my first swim today. Brrrrrrr! It's invigorating....",
       "characters": [
-        "Kramer",
-        "Dana",
+        "Kate",
+        "George",
         "Jerry",
-        "Frank"
+        "Kramer"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "A turkey sandwich. A side of slaw, … you want whit e meat or dark?",
+      "quote": "Alright, still her father didn't have to throw me out like that, he could have just asked me to leave. The guy had me in a headlock! Susan's not going tonight you know.",
       "characters": [
-        "Hoyt",
+        "Jerry",
+        "Elaine",
+        "Ricky",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Step-skipper. That man is a step-skipper! He skips Step Nine!",
+      "characters": [
+        "Ramon",
         "George",
-        "Kramer",
+        "Frank",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "So, she mentioned she had a boyfriend and then it hit me. What do I need more closet space for?  Hi, Marla.",
+      "quote": "Listen, maybe we shouldn't start writing today. I got a lot on my mind.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I just got a brand new Armani suit -- doesn't fit me anymore. You want it?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Bania",
-        "Kramer"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "No, no, no. You gotta spend New Year's nineteen ninety-nine with me and Jerry.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Danielle",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No. Fortunately, the special tiny instruments arrived just in time. Would you like to visit him?",
-      "characters": [
         "Kramer",
         "George",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "Elaine, you cannot judge a person on a situation like that. I mean it's like asking for someone's canteen in the desert",
-      "characters": [
-        "Detective",
-        "Elaine",
-        "Rabbi",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, it always has to be explained to me, and then I have to have someone explain the explanation.",
-      "characters": [
-        "Jack",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Frank"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, they don't have phones out of town? Why do people say they're too busy. Too busy. Pick up a phone!! It takes two minutes. How can you be too busy?",
+      "characters": [
+        "Jerry",
+        "Man",
+        "George",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Doesn't sound like you're friends to me. If you were friends you'd-you'd ask her for the number. Do you know where this other one works?",
+      "characters": [
+        "Frank",
+        "Kramer",
+        "Kruger",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yes you do, Biff. You've never been to a Flea Market, and you think they have fleas there.",
+      "characters": [
+        "Jerry",
+        "Steven",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Sure, and you were always in Korea with your religious chachkis.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

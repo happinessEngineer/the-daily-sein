@@ -1,104 +1,104 @@
 {
-  "gameNumber": 708,
+  "gameNumber": 709,
   "date": "2026-12-12",
   "questions": [
     {
-      "quote": "No of course not. People ask me medical questions all the time.",
+      "quote": "Well he kinda lost his temper, and he was pushing me up against the car. So I went into a karate stance.",
       "characters": [
-        "Doctor",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "At least come and say hello, have a cup of coffee, then you'll leave.",
-      "characters": [
-        "Helen",
+        "Sid",
+        "Nina",
         "George",
-        "Kramer",
-        "Mickey"
+        "Jerry"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I mean, if he thinks that that baby's breathtaking, then who's not breathtaking?",
+      "quote": "Now, you better tell me where Kramer is, or are we gonna have to do this the hard way?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helena",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey! Monkeys! Knock it off. My best friend is trying to get married up here!",
       "characters": [
         "Elaine",
-        "Darren",
-        "Kramer",
-        "Pitt"
+        "Jerry",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "George, I wouldn't get too excited about this stuff, you know, things have a way of evening out.",
+      "quote": "Yeah, you know, when you live alone, you're dogs are all you have. Do you like dogs?",
       "characters": [
-        "Tim",
-        "George",
         "Jerry",
+        "James",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "James"
     },
     {
-      "quote": "Come on: 'Oh George, oh Geeeooorge!' Come on! Not that I don't appreciate the effort that was put into it.",
+      "quote": "Oh, no. We're campaigning, Jerry. To rule the people, one... must walk among them.",
       "characters": [
-        "Kurt",
+        "Kramer",
+        "Elaine",
         "George",
-        "Kramer",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah,  there you are. My date stood me up. Listen, will you guys go to the operation with me?",
-      "characters": [
-        "Kramer",
-        "Jack",
-        "Jerry",
-        "Peterman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That's a hell of an organization they're running up there.  I can't understand why they haven't won a pennant in 15 years.",
+      "quote": "I'm not saying go to the library and read the whole history, but it wouldn't kill you to know a little bit about it.",
       "characters": [
-        "Abby",
+        "Frank",
+        "George",
+        "Jerry",
+        "Celia"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Anything you couldn't have gotten tearing open a bag of Doritos and watching Viva Zapata?",
+      "characters": [
         "Jerry",
         "Kramer",
+        "George",
+        "Noreen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah, yeah. I borrowed some cones from them when I was sweeping my car-pool lane.",
+      "characters": [
+        "Elaine",
+        "Doctor",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What did I get the veggie burger for? You got a veggie burger, so I had to get the veggie burger, I'm allover crums...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Here is latest draft. I see you next week. Same time, same day.  On time please.",
+      "quote": "Alright,  here it is. This is what we'll tell 'em. You came to pick me up...",
       "characters": [
-        "Elaine",
         "George",
-        "Jerry",
-        "Testikov"
-      ],
-      "correctAnswer": "Testikov"
-    },
-    {
-      "quote": "Because Kramer has been swimming laps between the Queensborough bridge and the Brooklyn bridge.",
-      "characters": [
+        "Gino",
         "Elaine",
-        "Newman",
-        "Jerry",
-        "Katya"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"Well\"? We've been dating for three months. Between you and me, and.. anyone else you want to tell.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Morty"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     }

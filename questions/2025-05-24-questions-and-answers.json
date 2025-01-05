@@ -1,104 +1,104 @@
 {
-  "gameNumber": 141,
+  "gameNumber": 142,
   "date": "2025-05-24",
   "questions": [
     {
-      "quote": "George, this is beautiful. Why didn't you tell me you were going to have it mounted like this?",
+      "quote": "And, to be perfectly frank, I've always felt I could use some support. I know, when I'm wearing Banlon, there appears to be some jiggling.",
       "characters": [
+        "Joyce",
         "Jerry",
-        "Steve",
-        "George",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "Yeah. Yeah. It's the only way. Come on. What are you, kidding me?",
-      "characters": [
-        "Morty",
-        "Gina",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Wait a second, he's getting off. Yeah, he's gonna be going south on the one-thirty-five.",
-      "characters": [
         "Kramer",
+        "Farkus"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "And you can do everything with it. You can get e-mail, fax, there's a calculator.",
+      "characters": [
         "Jerry",
-        "Jodi",
-        "Kruger"
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I've always been very fond of Estelle. Beautiful woman. I uh, I hope you don't think uh, this is out of line, but would it be okay with you, if I were to ask her out?",
+      "characters": [
+        "Frank",
+        "Waiter",
+        "Jerry",
+        "Farkus"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Well I've never actually done it but if I really wanted to I could probably get one from my friend Roy, the dentist.",
+      "characters": [
+        "George",
+        "Rick",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, they've got a cure for cancer. See, it's all big business. Oh hey, Jerry just walked in. Hi, George.  Yeah yeah yeah yeah take my number. 555-8643. Okay, here he is.",
+      "characters": [
+        "Jerry",
+        "Betsy",
+        "Woman",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Take a look at this. Doesn't that look like my flesh and blood? Of course, your mother-",
+      "quote": "Oh God, you're that girl in the coffee shop that was eavesdropping on us. I *knew* you looked familiar!",
       "characters": [
-        "George",
-        "Elaine",
         "Jerry",
-        "Frank"
+        "Kramer",
+        "George",
+        "Peterman"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, anyway, get this: I spoke to Alan. You know, I told him I didn't want to see him anymore.. He called me \"big head\".",
+      "quote": "I think you're both mentally ill.  And by the way...they're real, and they're spectacular.",
       "characters": [
+        "Sidra",
         "Kramer",
-        "Maura",
-        "George",
+        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Sidra"
     },
     {
-      "quote": "How did I ever let you talk me into this, I must have been out of my mind.",
+      "quote": "So then about a year ago I started selling, these funky little hair clips. It's going pretty good. I make them in my apartment.",
       "characters": [
-        "Elaine",
-        "Betsy",
-        "Aaron",
-        "Jerry"
+        "Kelly",
+        "George",
+        "Morty",
+        "Mike"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kelly"
     },
     {
-      "quote": "Now I remember, as I jumped over the hole I heard a, like a jingling sound.",
+      "quote": "Well what did you want her to do, you left it on the night table.",
       "characters": [
+        "George",
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
+        "Harold",
+        "Doorman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well if you watch closely enough, you just might see me.  I'll be the one waving to the camera from my seat on the forty yard line.",
-      "characters": [
-        "Newman",
-        "Fdr",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Ah, excuse me, Vice-president Coco, no one cares about your Gammy.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Wilhelm"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All the time. I've been up there six times. They refuse to stop. I can't live like this. I don't know what I'm gonna do. I'm heading for breakdown!  Can't you do something?",
+      "quote": "I don't know. She was so beautiful, it was like a pure reflex. The words just came out of my mouth.",
       "characters": [
         "Jerry",
+        "Russell",
         "Elaine",
-        "Kramer",
-        "George"
+        "Darryl"
       ],
       "correctAnswer": "Jerry"
     }

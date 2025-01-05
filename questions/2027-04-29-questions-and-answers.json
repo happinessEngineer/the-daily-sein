@@ -1,106 +1,106 @@
 {
-  "gameNumber": 846,
+  "gameNumber": 847,
   "date": "2027-04-29",
   "questions": [
     {
-      "quote": "George, the quailifications for this scholarship were suppose to be.. largely academic.",
+      "quote": "Uh, hang on a second, You know what? Changed my mind, make it a tuck.",
       "characters": [
-        "Wyck",
-        "Kramer",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "Wyck"
-    },
-    {
-      "quote": "Oh yeah, he's fine, fine. He was in bad shape for a while though.",
-      "characters": [
-        "Kramer",
-        "George",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. Well, she was very affectionate - which I love. You know I love that - but mentally, we couldn't quite make the connection.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Ade",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "If you were Miss America, what would you do to make the world a better place?",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So then about a year ago I started selling, these funky little hair clips. It's going pretty good. I make them in my apartment.",
-      "characters": [
-        "Helen",
-        "Kramer",
-        "Kelly",
-        "George"
-      ],
-      "correctAnswer": "Kelly"
-    },
-    {
-      "quote": "You're not a little anything, Newman.  So just pack it up and move it out of here.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I need you to sit in the car for two minutes while it's double-parked. I gotta pick up some birds.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It's like a bald convention out there!  Sorry. I, uh, made a faux pas.",
+      "quote": "Hey, you're not talking that Michigan deposit bottle scam again, are you?",
       "characters": [
         "George",
-        "Melissa",
-        "Jerry",
-        "Marla"
-      ],
-      "correctAnswer": "Melissa"
-    },
-    {
-      "quote": "At this point, it is inevitable that she will seek out the roommate to apprise her of this abhorrent turn of events.",
-      "characters": [
-        "Ray",
-        "George",
-        "Willie",
+        "Kramer",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I can't believe it! I've lost my \"Atomic Sub\" card!.. Oh no! I bet I wrote that fake number on the back of it when I gave it to denim vest!",
+      "quote": "That's, that's incredible. My Cousin Vinnie, I love her, she was fantastic!",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Driver"
+        "Jerry",
+        "Newman",
+        "Donald"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I mean I met her three times. I don't even know her last name.",
+      "characters": [
+        "Ron",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I love the mirror in that bathroom! I don't know what in the hell it is. I look terrific in that mirror.  I don't know if it's the tile or the lighting... I feel like Robert Wagner.",
+      "characters": [
+        "Peterman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Helen, did you know that they tape this thing in the afternoon?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No, not in so many words but I believe we had an understanding.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, you know... the friend meeting the new woman. I feel like I'm getting fixed up for a friendship.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Tv"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Elaine! Where's Susie? I want her to head up our new Fingerless Glove Division.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, I ah.. been havin' trouble at home and uh.. I mean, ah, you know, I'll work harder, nights, weekends, whatever it takes..",
+      "characters": [
+        "Elaine",
+        "Gino",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

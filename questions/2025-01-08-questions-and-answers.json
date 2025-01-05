@@ -1,106 +1,106 @@
 {
-  "gameNumber": 5,
+  "gameNumber": 6,
   "date": "2025-01-08",
   "questions": [
     {
-      "quote": "Mr Mandel, you don't understand ...my my friend had fleas. I ran into the gas, it could have killed me, and my, my other friend couldn't taste his peaches ,they only good for two weeks.",
+      "quote": "The doorman. I don't wanna play anymore of his mindgames. What time does he get off?",
       "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Brett"
+        "Susan",
+        "Frank",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I mean, I could understand if there was something else playing, but it's this or nothing.",
+      "quote": "It was a very nice sweater. Take a look at his neck, not to mention the melon sitting on top of it. I don't know if I'd trust him with a v-neck.",
       "characters": [
+        "Hanke",
+        "Newman",
         "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Hanke"
     },
     {
-      "quote": "Yeah..... He caught me So here's what I want you to do. Come back with me to the store and we'll pretend to look at the coat.",
+      "quote": "These people never fail. They sit in a room with a big clock all night long, just waitin' to make that call!",
       "characters": [
-        "Jerry",
-        "Morty",
         "Elaine",
+        "Maestro",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "And I know you wouldn't be just having fun with his handicap.  That kind of cruelty would be grounds for dismissal.",
-      "characters": [
-        "Kramer",
-        "Peterman",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Oh! no right away, chop, chop........Oh! a new cartoon.....\"I wish I was taller  I'd like to see that complaint get rectified.",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "Gina",
-        "Elaine"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Well, I caved. I mean, I really had to use their bathroom. Frank, no offence, but this holiday is a little  out there.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Jack",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There on vacation. Every doctor in this city seems to know who I am .",
+      "quote": "I didn't hit puberty til the 9th grade. That's what gave me my speed. Besides, if I got a head start why didn't Mr. Bevilacqua stop the race?",
       "characters": [
         "Kramer",
         "George",
-        "Jerry",
-        "Elaine"
+        "Farkus",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Okay, listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.",
+      "quote": "So what? I'll start talking to him, you know, casual, and I'll work my way around to it.",
       "characters": [
         "Elaine",
+        "Kramer",
         "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ever since I found out that you let that message on Jerry's tape recorder I...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Wilhelm",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well you wouldn't be on that jury. He would have weeded you out.",
+      "quote": "--Astroturf? You know who's responsible for that, don't you?! The Jews! Ah, the Jews hate grass. They always have, they always will.",
       "characters": [
-        "Jerry",
+        "Steinbrenner",
+        "Kramer",
         "George",
-        "Elaine",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'll talk slower. I'm kidding - I love Cellblock D. My friend George is in Cellblock D. What are you in for,sir?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why don't you just drop off some chicken skins and lobster shells.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Rebecca"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "Look, I'll go down and talk to this adoption guy and I'll make sure that it all gets worked out.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You, you really have no idea what it's like until you actually do it. And I'm on this emotional roller coaster.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Laura",
+        "Tony"
+      ],
+      "correctAnswer": "Laura"
     }
   ]
 }

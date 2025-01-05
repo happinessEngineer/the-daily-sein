@@ -1,104 +1,104 @@
 {
-  "gameNumber": 502,
+  "gameNumber": 503,
   "date": "2026-05-20",
   "questions": [
     {
-      "quote": "Elaine, it's all this guy can do to keep from killing himself. You think he's back there, talking to the chef, going, \"Hey, they like the soup! Keep it up!\"?",
+      "quote": "Some taxidermy that's been in my family for generations, my Tony, my... military discharge.",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I did it. Hunh, we're going out as soon as she gets off of work and it'll still be daytime. You know I, I'm much better in the daytime then I am at night. it's less pressure.",
-      "characters": [
-        "Bania",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, have you ever seen the business hotels in Tokyo? They sleep in tiny stacked cubicles all the time. They feel right at home.",
-      "characters": [
-        "Kramer",
         "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-",
-      "characters": [
-        "Jerry",
-        "Margaret",
-        "Maryedith",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are you talking about? I'm the one who should have called the police. They stole my wallet.",
-      "characters": [
-        "Morty",
-        "Sally",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "That's it George. Come on, come on. Give it to me. Come on,work it. Work it. Yeah be a man, be a man.",
-      "characters": [
         "Elaine",
-        "George",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "This, that we've come all this way, we have made all this progress, but you know we've lost the little things, the niceties.",
+      "quote": "There may have been some incidental penetration. But from her angle she was in no position to make the call.",
       "characters": [
-        "Newman",
-        "Elaine",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, well I don't want to disturb him. We're just rather excited to meet him face to face, finally. We're faithful readers of his newsletter.",
-      "characters": [
         "George",
-        "Elaine",
-        "Jerry",
-        "Eva"
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Eva"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "But he doesn't know that. As far as he knows, somebody stole it, and that's the person who should be responsible.",
+      "quote": "That's right. It's a special gourmet sauce. \"The Pride of Memphis!\"",
       "characters": [
         "Sally",
-        "Kramer",
-        "Elaine",
-        "Doctor"
+        "George",
+        "Jerry",
+        "Sid"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Sally"
     },
     {
-      "quote": "Yeah, yeah, well, for some reason, um, I just find myself just overcome with feelings of jealousy and resentment.",
+      "quote": "Well if you're thinking of getting a place there don't bother. There's really nothing available.",
       "characters": [
-        "Babu",
-        "Sheila",
+        "Jerry",
+        "Russell",
+        "Farkus",
+        "Maestro"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Hello... Hello. Is Glen there?... I'm sorry. Is this 805-555-3234?... Yes, I know I have the wrong number, but I just want to know if I dialed wrong or if...",
+      "characters": [
+        "Abby",
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, people, people, people, people, people. Not bad, huh? Excuse me.",
+      "characters": [
         "George",
+        "Kramer",
+        "Marcy",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "[forcibly removing G. from the apt] Would you get the Hell out of here!",
+      "characters": [
+        "Jerry",
+        "Hanke",
+        "Elaine",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Not only that, this is what she said to me, \"Can we change the subject?\"",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A little slow. I've got to hold this guy's hand on every little decision.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Frank",
         "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ihat's impossible, I've never done a drug in my life. Dr. Strugatz must have made a mistake.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Steinbrenner",
+        "Brett"
       ],
       "correctAnswer": "Elaine"
     }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 757,
+  "gameNumber": 758,
   "date": "2027-01-30",
   "questions": [
     {
-      "quote": "Hey Jerry don't worry about it all right. The important thing is, is we got to catch up. Mind if I ah, grab the want ads?",
+      "quote": "Yes. Between you, me and the lamppost. And the desk. Peggy says this \"Suze\" isn't much of a Worker.",
       "characters": [
-        "Newman",
+        "Maura",
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Seth"
-      ],
-      "correctAnswer": "Seth"
-    },
-    {
-      "quote": "Ah, back to normal. Not bad for four thousand bucks. . . . I can't believe I got the Low Fat!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'd really like to go, Elaine. But, George is coming back from the hospital. I gotta wait for him. But otherwise I would definitely go.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Ron",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I'll see you guys later.  Nice meeting you. Bye Elaine.",
-      "characters": [
-        "Wendy",
-        "Voice",
-        "Naomi",
-        "Elaine"
-      ],
-      "correctAnswer": "Wendy"
-    },
-    {
-      "quote": "So, dad, lemme ask you a question. How many people work at these big law offices?",
-      "characters": [
-        "Secretary",
-        "Jerry",
-        "George",
-        "Brett"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Another productive meeting. By the way, I saw that English Patient film last night. It was extraordinary.",
-      "characters": [
-        "Helen",
-        "Peterman",
-        "Elaine",
-        "George"
+        "Peterman"
       ],
       "correctAnswer": "Peterman"
     },
     {
-      "quote": "Hey, Braun, I got good news and bad news. And they're both the same: you're fired. Costanza, you've won the water pik!",
+      "quote": "Huh? You know? Spring. Rejuvenation. Rebirth. Everything's blooming. All that crap.",
       "characters": [
-        "George",
-        "Margaret",
-        "Frank",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "Peterman",
+        "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "She's on the lease! George you have got to find another place for me.",
+      "quote": "What, ... you are making some wisecracks in a night club... wo wo wo. The guy was in game SIX two runs down two outs facing elimination.",
       "characters": [
-        "Leo",
+        "George",
+        "Jerry",
+        "Kramer",
+        "Katie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No, I'm saying, if a situation arose in which you didn't want it, I might take it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen work.",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "See, now I know it's not him. Joe DiMaggio could not be a dunker.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Betsy"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know that store, Putumayo?  I was trying to buy these hirachis, right, and the saleswoman just completely ignored me.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Anna",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh. We were going to see that but it was sold out. So were going to see\"Blame it on the Rain\"",
+      "characters": [
         "Jerry",
         "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry, can't you just give it one more day, it's not his fault.",
-      "characters": [
-        "Elaine",
         "George",
-        "Keith",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ha ha ha ha. Yeah, well, I'll tell you, she's a full-figured gal.",
+      "quote": "Yeah, you should. I certainly remember you. Let me refresh your memory.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Hal",
-        "Peterman"
+        "George",
+        "Helen",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can get you a spot right behind him. He has got a great butt.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Joyce",
+        "Kramer"
+      ],
+      "correctAnswer": "Joyce"
     }
   ]
 }

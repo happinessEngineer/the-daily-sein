@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1006,
+  "gameNumber": 1007,
   "date": "2027-10-06",
   "questions": [
     {
-      "quote": "I know. That's the point. If it's gonna get sexual, it should get sexual with you.",
+      "quote": "This you're not goin' to believe. The NYPL says that I took out Tropic of Cancer in 1971 and never returned it.",
       "characters": [
-        "Elaine",
+        "Jerry",
+        "Kramer",
         "George",
-        "Cynthia",
+        "Newman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I bin thinkin about it. You got no job. You got no prospects. You're like Biff Loman.",
+      "characters": [
+        "Wilhelm",
+        "Jerry",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "Carrie"
+    },
+    {
+      "quote": "You know I still got that pen, the one that writes upside down.",
+      "characters": [
+        "Jack",
+        "Frank",
+        "Elaine",
         "Kramer"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Uh.. well, you better not. I'm supposed to be careful with it.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Rita",
+        "Harold"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello? Amanda. Hi, yes. Listen. You know, I'm thinkin', we might just be better of bein' friends. Yeah. Yeah, you know what, I can't even really talk about it right now. Bye-bye.   No! No!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Mickey"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Didn't the theater manager give you the message before you went in?",
+      "quote": "He's over there in the overcoat. If you could just kind of put a scare into him.. You know, set him straight..",
       "characters": [
-        "Elaine",
-        "Steinbrenner",
-        "Rabbi",
-        "Jake"
-      ],
-      "correctAnswer": "Jake"
-    },
-    {
-      "quote": "Not any more. Come on, get your ball, we're leaving. Let's go, let's go.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Testikov",
-        "Morty"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You should have been born in August. Your parents would have been well-advised to wait.",
-      "characters": [
-        "Tor",
-        "Jerry",
-        "Elaine",
-        "Tim"
-      ],
-      "correctAnswer": "Tor"
-    },
-    {
-      "quote": "Oh oh oh, all right, fine, Jerry, you win. Take it, just take it!",
-      "characters": [
-        "Wilhelm",
+        "John",
         "George",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, guess where Mr 'Ocean phoned' turned up? He's working for Firestone, in Akron, Ohio.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It was a good idea. Susan liked it. Now, if he hadn't vomitted all over her, we'd be writing it right now.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He wants to install Kramer in a puppet regime and then wield power from behind the scenes. Preferably from the sauna in the clubhouse.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "This thing can't hurt me, can it? I mean, it is a laser. What if it hits my eye?",
+      "quote": "No, see that's not a reason you can't. You just don't want to.",
       "characters": [
         "Kramer",
-        "Bob",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey George, I am *really* proud of you. I really do admire what you've done.",
-      "characters": [
-        "Beth",
-        "Kramer",
+        "George",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Now that was an interesting greeting, did you notice that, George?",
+      "quote": "The adoption agent seems to feel that Arnie has a violent temper.",
+      "characters": [
+        "George",
+        "Beth",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Beth"
+    },
+    {
+      "quote": "Of course I'm not Cartwright! Look, why don't you two just go to the movies all by yourselves, I'm not in the mood.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Estelle",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 249,
+  "gameNumber": 250,
   "date": "2025-09-09",
   "questions": [
     {
-      "quote": "What are you doing here? I thought you were out of town for the weekend.",
+      "quote": "Yeah, don't investigate, don't pay me back, it was an accident.",
       "characters": [
-        "George",
-        "Elaine",
+        "Newman",
+        "Noreen",
         "Kramer",
-        "Glenn"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry, do you want a flat edge on this molding or do you want me to bevel it?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Conrad"
-      ],
-      "correctAnswer": "Conrad"
-    },
-    {
-      "quote": "Hey. Well, bad news, boys. My life is over. My girlfriend's movin' away.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I have mourned for three long months! Summer months, too! Anybody could grieve in January! It's time for George to start being George again.",
-      "characters": [
-        "Donald",
-        "Elaine",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look, George, just think about it. You know, you're married, how would you feel if somebody says to you that they just had se...",
+      "quote": "Maybe you could have sex with her again and then take it back.",
       "characters": [
-        "Kramer",
-        "Harold",
         "Elaine",
-        "Judge"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "A - Ha! Nice try, my friend, but you gotta get up pretty early in the morning..",
-      "characters": [
-        "Doctor",
-        "Puddy",
+        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "There's nothing to read, it's just yesterday's news. You know, the Yankees won, the Mets lost, Ricky Henderson's unhappy...",
+      "quote": "This is the only time this year we'll be asking for donations. You've been enjoying Ken Burns' Baseball-",
       "characters": [
-        "Doctor",
-        "Tim",
+        "George",
+        "Peterman",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah. I'm Doctor Cooperman. I just want you to know that this won't take long. And he's going to be fine.",
+      "characters": [
         "Elaine",
+        "George",
+        "Doctor",
+        "Kramer"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "You got it ALL wrong. I was thinking only of the poor Krakatoans",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no.. It's just a little performance piece I wrote... You know what? You really inspired me,oKay, a tear.",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "Kramer",
+        "Brody"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "Oh, damn, this place is incredible, look at all this great light!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh it's you? You're the one who sold me the moth ridden cabana crap.",
+      "quote": "Maybe we can get an army transport flight. They got a base in Sarasota, I think.",
       "characters": [
-        "Rudy",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Rudy"
-    },
-    {
-      "quote": "Listen to me. You don't tell anybody about this. No one. You hear me?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Woman",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ah, just remember when you see him tomorrow night to tell him that the waiter liked him.",
-      "characters": [
-        "Frank",
-        "Kramer",
+        "Morty",
         "Jerry",
-        "Elaine"
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "(Tilts her head down, looking over her glasses in amazement of",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rava",
+        "Tom"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ask your mother,  you live with her now, don't you? Anyway, so then this guy comes up to me and starts feeling my jacket through his thumb and his forefinger like this.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "James"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 890,
+  "gameNumber": 891,
   "date": "2027-06-12",
   "questions": [
     {
-      "quote": "What? So what? It's a nipple. A little round circular protuberance. What's the big deal? See everybody's got them. See I got them.",
+      "quote": "Uh huh, okay, alright, bye. Huh, how do you like that? I'm gonna do some TV spots for Leapin' Larry's Appliance Store. That was Leapin' Larry himself, I'm gonna meet with him tomorrow.",
       "characters": [
-        "Newman",
-        "Sharon",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, Jerry! How are ya? I thought you were going to the movies.",
-      "characters": [
-        "Kramer",
+        "Jerry",
         "George",
         "Elaine",
         "Peterman"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know George, growing up as a boy in Costa Rica, I heard a rumor that momma had taken a lover. Perhaps Bosco was this man's name.",
+      "quote": "Alright, just get your thing together and let's get out of here.",
       "characters": [
-        "George",
-        "Kramer",
-        "Peterman",
-        "Jerry"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "No, I had to tell my friends – my friends didn't have to tell you.",
-      "characters": [
-        "Man",
-        "Kramer",
         "Elaine",
-        "Jerry"
+        "Clerk",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, you gotta let them know you're out there, this is the playoffs.",
+      "quote": "Kramer! That... Kramer! I'm just about to leave, he calls me up. He begs me to sit in his car for two minutes, so he can pick up these birds...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I really like him but, well, I still haven't told him the tractor story.",
+      "characters": [
+        "Sophie",
+        "Valerie",
+        "Jerry",
+        "Harold"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "What do you have to go underwater for? What's down there that's so special?",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Wendy",
+        "George"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "In your situation the only sex you're going to have better than make-up sex is if you're dent to prison and you have a conjugal visit.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Jack",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "iIs it? Or is it so possible your heard is spinning like a top?",
-      "characters": [
-        "Elaine",
-        "Tia",
-        "Susan",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "The wheels on the bus go round and round, round and round, round and round. The wheels on the bus..",
-      "characters": [
-        "Ben",
-        "George",
-        "Wilhelm",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "..OK get this; I heard he makes his best friend date women that look just like him.Hello issues..",
-      "characters": [
-        "Elaine",
-        "George",
-        "Sally",
-        "Kramer"
-      ],
-      "correctAnswer": "Sally"
-    },
-    {
-      "quote": "But look at this thing. It's-it's huge. You got more cow here than here.",
-      "characters": [
-        "Poppie",
-        "Sally",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, here's my shower routine. Maybe I can make some changes. Get wash cloth mittens and maybe some liquid soap, and just... -pop- focus!",
-      "characters": [
-        "Jerry",
-        "Morty",
         "Kramer",
-        "Morgan"
+        "Michael",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh yeah? This woman was selling them at this crazy party I was at last night. You'll appreciate this. Snapple?",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. They can't really chase ya!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah! An' he is a friend, Jerry. He is reliable. He is considerate. He's like your, exact opposite.",
+      "characters": [
+        "Elaine",
+        "Leo",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! As a matter of fact! David Putty won't do the move anymore.",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 901,
+  "gameNumber": 902,
   "date": "2027-06-23",
   "questions": [
     {
-      "quote": "I don't think so, Vic. I've done my homework. '89 Volvo, that's the car for me, it's the one I want.",
+      "quote": "Wow. Well, don't you sweat it. You can use my car any time you want to.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Donna",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I would see no trouble in spending up to, say, ten thousand dollars. Have my secretary give you a signed cheque.",
       "characters": [
         "George",
         "Jerry",
-        "Elaine",
-        "Doctor"
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Suppose I told you I had fifty in mint condition, would you be interested?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Toby"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, let's see, let's see. What else. What else. Oh yeah, what does she do?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Vandelay",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You're close, you're on the green. You just have to go for the cup.",
+      "quote": "Ah, \"with what?\" You know what. With the waitresses. How they're all... alike.",
       "characters": [
-        "Jerry",
-        "Stan",
+        "Lippman",
         "George",
-        "Kramer"
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Stan"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I love being with him. I mean, I like being with him. It's okay being with him.",
+      "quote": "Oh. OK. Maybe we could grab some lunch sometime. D-do you work around here or-?",
       "characters": [
-        "Keith",
-        "Kramer",
         "Elaine",
+        "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "So, Carrie, you and Susan are cousins. So your baby daughter is gonna be Susan's second cousin, right? So what does that make me?",
+      "quote": "What I don't get is, just because the battery is dead, you think she'd be able to roll up the hill with her hands!",
       "characters": [
-        "Elaine",
+        "Jerry",
+        "George",
         "Kramer",
-        "Keith",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well that's too bad, because I'm the only one who cooks around here!",
+      "quote": "Yeah, because you're perfect. You're a calculating, cold-hearted businesswoman. And when there's dirty work to be done, you don't mind stomping on a few throats.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Estelle"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "I couldn't. You know, if it's not about sports, I find it very hard to concentrate.",
-      "characters": [
+        "George",
         "Kramer",
         "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look, if you think I'm just going to step aside and do nothing while you defile this woman, you're crazy.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well we should at least tell them what happened. They might be very late if they make it at all.",
+      "quote": "What's to see? A woman from Norway, a guy from Kenya, and twenty thousand losers.",
       "characters": [
-        "Doctor",
+        "Jerry",
         "Susan",
         "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Wait, I got another call. That must be him. [clicks over] Hello?",
-      "characters": [
-        "George",
-        "Kate",
-        "Jerry",
-        "Woman"
+        "Mary"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, everything. Divorce, patents, immigration and naturalization.",
+      "quote": "Listen. I need you to do me a favor. When's the next time you're gonna see him?",
       "characters": [
-        "Kramer",
-        "Cheryl",
         "Jerry",
-        "George"
+        "Leo",
+        "George",
+        "Clerk"
       ],
-      "correctAnswer": "Cheryl"
+      "correctAnswer": "Jerry"
     }
   ]
 }

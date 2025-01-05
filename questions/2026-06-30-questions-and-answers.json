@@ -1,106 +1,106 @@
 {
-  "gameNumber": 543,
+  "gameNumber": 544,
   "date": "2026-06-30",
   "questions": [
     {
-      "quote": "Why? Why would that one area of his mind not be affected by the yellow sun of Earth?",
+      "quote": "...Ahh. You don't plan to hit these balls with that racquet, do you?",
       "characters": [
+        "Jerry",
+        "Milos",
         "Elaine",
-        "George",
-        "Jerry",
-        "Helen"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Milos"
     },
     {
-      "quote": "Fifteenth , Yes last day for the Macanaws. I can still make it. Wait.. Newman...",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Keith"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There is now. Kramer, you should really get that cough checked out by a doctor.",
+      "quote": "Yeah, my wife couldn't make it today. She's got something with her mother... Who knows what's going on with her. Don't let any one kid you, it's tough.",
       "characters": [
         "George",
-        "Jerry",
-        "Morty",
+        "Jackie",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Raincoats?  You think you're gonna sell those old crappy raincoats? That's garbage.",
+      "quote": "So tell me. What's the problem with your little flaky friend? She doesn't return calls?",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Keith",
-        "Jack"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "Hello. Yeah, hi, this is Jerry Seinfeld calling for James Kimbrough. Hello? Hi? Uh huh, really, uh, no problem, definitely, ok, buhbye. That was James Kimbrough.",
-      "characters": [
-        "Elaine",
-        "Lippman",
+        "Manager",
         "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look...humm..I'm on with Beijing with the hair restauration clinic. Could you talk to them for me and tell them I'd like to place an order.",
+      "quote": "Because if she gets it back, then you'll have no reason to be sour. You'll de-sour, right?",
       "characters": [
-        "Kramer",
-        "Elaine",
+        "Jerry",
+        "Pitt",
         "George",
-        "Glenn"
+        "Farkus"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Friend of mine in Chinatown gave it to me. If you want I can ask him where he got it.",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Steinbrenner",
-        "Lloyd"
-      ],
-      "correctAnswer": "Lloyd"
-    },
-    {
-      "quote": "Alright, I'll tell you the truth. I'm not gay. My name's Buck Naked, I'm a porno actor.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You smell like the beach. What's the name of that perfume? you're wearing.",
+      "quote": "What do you mean they're not going to do anything, they're the cops, they gotta do something, he just put the kibosh on me, do you know what the kibosh means, its a kibosh!",
       "characters": [
         "Jerry",
         "George",
+        "Kramer",
+        "Doorman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, they've just got to get more cops on the force, it's as simple as that.",
+      "characters": [
+        "Morty",
+        "Jerry",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.",
+      "quote": "A sitcom. Can you imagine? And he actually tried to use it to hit on me!",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Rebecca",
-        "Kramer"
+        "Kramer",
+        "Woman",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Russell, see, I'm really not interested in this stuff and I do have to go to work . So...",
+      "characters": [
+        "Peggy",
+        "Russell",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'm going with him. I'd like to... I've never done a 'solid' before.",
+      "characters": [
+        "Wilhelm",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess the DJ booth was over there behind the bone saw?  Let's get out of here George.",
+      "characters": [
+        "Tim",
+        "Jackie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

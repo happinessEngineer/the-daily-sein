@@ -1,106 +1,106 @@
 {
-  "gameNumber": 222,
+  "gameNumber": 223,
   "date": "2025-08-13",
   "questions": [
     {
-      "quote": "That's where the Seinfeld's are moving. They got a great deal. Yep. You know what they got in Florida? Jai-Alai! You bet on the games, you clean up.",
+      "quote": "Killed.  I'm gonna go pick up some chicks. Good-looking ones, too!  Hey, what's your name?",
       "characters": [
-        "Jerry",
+        "Sophie",
         "Kramer",
-        "Ron",
-        "George"
+        "Bania",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Bania"
     },
     {
-      "quote": "no problem, ... no problem. [Hangs up] ... How did YOU know who that was?",
+      "quote": "Have you ever noticed how they always give you the peanuts on the planes?",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well you came in the other day with all that whale stuff, the squeaking and the squealing and…",
-      "characters": [
-        "Kramer",
         "George",
-        "Cynthia",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Have you ever seen a handicapped person pull into a space and park?",
-      "characters": [
-        "Kramer",
+        "Bania",
         "Elaine",
-        "Manny",
         "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Does this mean they're gonna be publishing Kramer's coffee table book?",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "George",
-        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I mean, if anything happened, and we couldn't be friends the way we are now, that would be really bad.",
+      "quote": "The guy wouldn't give them to me because I wanted to pay in change.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.",
-      "characters": [
-        "Monica",
         "Newman",
         "Kramer",
+        "Lois"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We're going to the movies, we're gonna see Prognosis Negative.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "This is not a Metallica concert, it?s an opera alright, a little dignity, a little class, just give me my ticket, I will stand over here and sell it.",
+      "quote": "Yeah, yeah, in a second, in a second.  What do you mean you can't tell me?",
       "characters": [
-        "Puddy",
-        "George",
         "Jerry",
+        "George",
+        "Frank",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open palm/Tells a saucy talk/Loves to make a stir/Everyone appreciates a...\"",
+      "quote": "Well, that's the way I express myself. How are you gonna make it in this business if you can't take it?",
       "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Helen"
+        "Toby",
+        "Elaine",
+        "Morty"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Toby"
     },
     {
-      "quote": "You got gonorrhea from a tractor?? And you call *that* your tractor story??",
+      "quote": "Bette Midler is going to be in the park today? Yeeee. Jerry, don't tease me.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Jackie",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, whattya got here, y'know, you got \"Don Ho: Live At Honolulu\", you got \"Jerry Vale Sings Italian Love Songs\" you got Sergio Mendes, now come on...",
+      "characters": [
+        "Emily",
+        "George",
+        "Elaine",
+        "Ron"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "Well you don't have to dissect if you can just tell me. Why this is suppose to be funny?",
       "characters": [
         "Elaine",
         "George",
         "Jerry",
-        "Peterman"
+        "Woman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Geez! Jerry, I didn't here you come in. Yeah, the children, they've done sum redecorating. Serenity now, serenity now.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

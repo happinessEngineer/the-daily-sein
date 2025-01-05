@@ -1,106 +1,106 @@
 {
-  "gameNumber": 63,
+  "gameNumber": 64,
   "date": "2025-03-07",
   "questions": [
     {
-      "quote": "The ending is the whole thing. Without the ending, it's nothing. You had *nothing*.",
+      "quote": "All right! OK! Right, here we go. Yeah. OK, so... 'For sale. A big, juicy van.' And, ooh, you gotta put down, 'interesting trades considered.'",
       "characters": [
         "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, you're probably right. She's probably one of those neurotic clean freaks.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Thank you. Now, I'd like to play something th -- well, actually, it's my latest so it's nice and fresh. It's called \" Hot And Heavy.\"",
-      "characters": [
-        "Kramer",
-        "John",
-        "George",
-        "Marcy"
-      ],
-      "correctAnswer": "John"
-    },
-    {
-      "quote": "You know, uh, she has no female friends! You know that, don't cha? Something strange about a woman who's friends are all men.",
-      "characters": [
-        "George",
-        "Laura",
-        "Kramer",
-        "Nina"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You need some professional advice. Why don't you go see Elaine's friend? She's a therapist.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jack",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I think so, and I can prove it. You see, I was doodling on the bill and uh, so if you have a twenty in there with big lips on it... well,  that's mine. Would you mind opening up the register?",
-      "characters": [
-        "Jerry",
-        "Cindy",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Awfully sorry to make you come up here, but I really wasn't feeling well enough to go back to the office, and well, it's the only chance I have to meet with you this week.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Russell",
-        "Jerry"
-      ],
-      "correctAnswer": "Russell"
-    },
-    {
-      "quote": "Why did I think there was a Rubber Man? There's Elastic Man... Plastic Man...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Morgan",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh look at that.  Look at what she's wearing. You see what she's wearing?",
-      "characters": [
-        "George",
-        "Owner",
-        "Elaine",
-        "Anna"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't know!  But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.",
-      "characters": [
         "Shelly",
-        "George",
-        "Jerry",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm having a little trouble with all this. I mean all I ever wanted to do is sing. Now I'm the focus of this big media frenzy.  Nobody in the show will even talk to me.",
+      "characters": [
+        "Kramer",
+        "Gennice",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Gennice"
+    },
+    {
+      "quote": "I just saw Joe DiMaggio in Dinky Donuts. You know, I-I looked in there and there he was having coffee and a donut.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Kramer you might as well run along. Jerry might be a while. Suspicion of mail fraud.",
+      "characters": [
+        "Russell",
+        "Newman",
+        "Jerry",
+        "Joe"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Oh yeah? What if you got ten car lengths? You have to pull all the way up to the front car?",
+      "characters": [
+        "Mike",
+        "Conrad",
+        "Sylvia",
+        "Peterman"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "I'll fake an illness.  My back! My back! I can't believe, my back.",
+      "characters": [
+        "Jerry",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, um, by the way, who was that gorgeous woman I saw you with the other day?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Wendy",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
+    },
+    {
+      "quote": "Hey, Jerry! Guess what! The Kramer name might live on! Noreen's late! She's laaate!!",
+      "characters": [
+        "Kramer",
+        "Simon",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey listen, the Tonight Show called me, they want me to come out and do the show on the 28th and they're giving me two free tickets to LA. You wanna go?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, who are you kidding? You come up to my apartment with your table and your little oils, and I'm not supposed to expect anything? You're a massage teaser.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Rebecca",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

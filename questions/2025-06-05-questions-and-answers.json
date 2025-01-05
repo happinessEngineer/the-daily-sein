@@ -1,106 +1,106 @@
 {
-  "gameNumber": 153,
+  "gameNumber": 154,
   "date": "2025-06-05",
   "questions": [
     {
-      "quote": "I mean, what compels a seemingly normal human being to do something like that?",
+      "quote": "So if Billy had gotten your number off the AIDS walk list, you wouldn't have gone out with him?",
       "characters": [
         "Jerry",
-        "Helen",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'll take it? Who told you to take it? Did I tell you to take it?",
-      "characters": [
-        "Jackie",
-        "Jerry",
-        "Father",
-        "Elaine"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "It would have been nice if someone told me about it. I just think you could have said something. That's all.",
-      "characters": [
-        "George",
+        "Susan",
         "Kramer",
-        "Kelly",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It was destroyed. But out of that, a new holiday was born. \"A Festivus for the rest of us!\"",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to punish you!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Donna"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, yeah. I read what you said to the papers yesterday. You weren't in on the planing. What planning? YOU THINK WE PLANED THIS? Uh?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They act like it was some act of charity. Just going out with her.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He's not a man, this Jerry. He's not even married like I am.  Huhuhuhu.",
+      "quote": "He said, \"We've got five hundred shows to choose from. Why should we give two guys, who have no idea, and no experience, more money?\"",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Milos",
-        "Wilhelm"
+        "Susan",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Milos"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Look, honey, I know you're trying to get Lloyd to notice you, but this is too much. Parading around in a wet T-shirt.",
+      "quote": "Anyway, Jerry and Elaine felt very badly about what happened to you, and they wanted you to have this.",
       "characters": [
-        "George",
-        "Kramer",
+        "Susan",
         "Elaine",
-        "Jerry"
+        "Salesman",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Wait, you, you mean to tell me you don't have a ticket for the coat?",
+      "quote": "You won't regret it.  Jerry's gonna be a cable boy, a cable boy, a cable boy..",
       "characters": [
-        "Jackie",
-        "Willie",
-        "George",
-        "Jerry"
+        "Kramer",
+        "Jerry",
+        "Woman",
+        "Hanke"
       ],
-      "correctAnswer": "Willie"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at me! I'm all covered in oregano and Parmesan, and it's sticking to me because of the butter! Look at me!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wha! You know, it's a pain to change that. You gotta lift up that plastic thing with a pen.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's not too bad. It's not like a Sunny von Bulow comma. The doctor said he should snap out of it anytime.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Helen",
+        "Hanke"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah.. of course. What, do you think I care about the sex? What kind of person do you think I am? That doesn't mean anything to me.  I don't care about that.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "We'll move his teeth, it happened to my uncle, the sugar revived him.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Susan",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "A joke. Do you have any idea how it feels like to save someone's life?",
+      "characters": [
+        "Sara",
+        "Peterman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Sara"
     }
   ]
 }

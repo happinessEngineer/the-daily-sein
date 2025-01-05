@@ -1,106 +1,106 @@
 {
-  "gameNumber": 164,
+  "gameNumber": 165,
   "date": "2025-06-16",
   "questions": [
     {
-      "quote": "Yeah well King Edward didn't live in Queens with Frank and Estelle Costanza.",
+      "quote": "Well, we've thought about this in a variety of ways. But the basic idea is I will play myself-",
       "characters": [
-        "Steinbrenner",
-        "Kramer",
         "Elaine",
+        "Nikki",
+        "Susan",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"Jimmy might have a compound fracture.. Jimmy's going into shock!!\"",
+      "quote": "Well, they were in from out of town, I thought they would enjoy it.",
       "characters": [
-        "Bania",
-        "Jimmy",
+        "Aaron",
+        "Kramer",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jimmy"
-    },
-    {
-      "quote": "Uh huh. When you're on a stakeout, do you find it's better to stand up against the wall, or kinda crouch down behind a big plant?",
-      "characters": [
-        "George",
-        "Elaine",
-        "Leo",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Aaron"
     },
     {
-      "quote": "What? You're moving to Florida!?! That's wonderful! I'm so happy!  For you! I'm so happy for you! Oh, what do you need this cold weather for?",
+      "quote": "All right! Hey, Elaine, Feldman was able to get us all tickets to the Bolshoi!",
       "characters": [
-        "Jack",
+        "Kevin",
         "George",
         "Kramer",
-        "Jerry"
+        "Toby"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kevin"
     },
     {
-      "quote": "I can't call here, it's a coffee shop. I mean what am I going to say to him?",
+      "quote": "Oh yeah. It's a warm and wonderful feeling, Jerry. So what are you doing later?",
       "characters": [
-        "Kruger",
+        "Jerry",
+        "Duncan",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, don't you see? This world here, this is George's sanctuary. If Susan comes into contact with this world, his world's collide. You know what happens then?",
+      "characters": [
+        "Elaine",
         "George",
         "Jerry",
-        "Alec"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "And he's saying \" I wish I was taller\" ha ha. See? that's his complaint.",
+      "quote": "What are you gonna do, you just gonna leave it here like this? Uh. I'm going upstairs.",
       "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "She can't even afford to go out to lunch. She's been eating in a high school cafeterias She pretends to be a teacher. It's pathetic.",
-      "characters": [
-        "George",
         "Jerry",
         "Elaine",
+        "George",
         "Hal"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ahh, you know what I think. I'm just going to have soup. Yeah, I'll save the meal for another time.",
+      "quote": "He never watched a door before, Mrs Payton, he didn't know how to do it.  You know, he's a comedian, Mrs Payton, they don't know how to do anything.",
       "characters": [
+        "George",
+        "Leo",
         "Jerry",
-        "Kramer",
-        "Newman",
-        "Bania"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Then the doctor writes more stuff down and doesn't even look at my rash.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "OUR LIVES!! . What kind of lives are these? We're like children. We're not men.",
+      "quote": "You know I still don't know how you can call lunch with me a business expense.",
       "characters": [
+        "Estelle",
+        "Salesman",
         "George",
-        "Steinbrenner",
-        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, boy I was up to four in the morning watching the Omen trilogy.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Nurse"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh, because he said that he had to talk with you earlier about some problem that you were having.",
+      "characters": [
+        "Susan",
+        "Brody",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Susan"
     }
   ]
 }

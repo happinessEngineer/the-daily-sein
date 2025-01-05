@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1104,
+  "gameNumber": 1105,
   "date": "2028-01-12",
   "questions": [
     {
-      "quote": "Well, you know, the police, they've been having some internal dissension about the name.",
+      "quote": "Oh, he's always been jealous of me. I always get to stand in for the bigger stars; The Cosby Kids, Ricky Schroder, Macaulay Culkin.",
       "characters": [
-        "George",
         "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So Donald, would you please tell the court about the incident that occurred in your house, October 7th, 1992.",
-      "characters": [
         "George",
-        "Hoyt",
         "Kramer",
-        "Jerry"
+        "Mickey"
       ],
-      "correctAnswer": "Hoyt"
+      "correctAnswer": "Mickey"
     },
     {
-      "quote": "That is the single greatest packing performance I have ever seen.",
+      "quote": "Proof? You want proof? He's driving around in a brand new Cadillac. Now what more proof do you want?",
       "characters": [
-        "Man",
         "Kramer",
-        "Susan",
+        "George",
+        "Elaine",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Because, if you ever see her and it comes up, we have to be in sync. Hmm?",
+      "characters": [
+        "Elaine",
+        "Manager",
+        "Ethan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Very cool. So, what do you say? Can you do this one little favor, Newmie?",
+      "characters": [
+        "Jerry",
+        "Sid",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "In my spare time. . You know, I'm working on one of you, George. I'm using ravioli. See, the hard part is to find a pasta that captures the individual.",
+      "quote": "Well I don't care, I don't want to go anyway. I don't want to fight that traffic on Friday night.",
       "characters": [
-        "Kramer",
         "George",
+        "Father",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Don't forget, we're eating dinner at the Feinerman's tomorrow night.",
-      "characters": [
-        "Emily",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Emily"
-    },
-    {
-      "quote": "Jerry, you gotta give him some credit.  You're just being totally ridiculous.  I'll see you later buddy.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "And so, I made an explosive out of chick peas, and I stopped that great rhino right in his tracks.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Well don't get too comfortable. As soon as Seth gets a real job you two are gong back in that chicken supernova.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Gwen",
-        "Elaine"
+        "Jane"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Don't worry, it's not gonna happen again. Not if I have anything to say about it.",
+      "quote": "I told you to clean out this garage. I have to put my car in!",
+      "characters": [
+        "Kramer",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "They're not getting a baby so you're taking them out to lunch?",
       "characters": [
         "Jerry",
-        "Joyce",
         "George",
-        "Elaine"
+        "Kramer",
+        "Secretary"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm working at the Andover shop actually....You should come by. I'll get you a great discount.",
+      "quote": "OK, now I projected some of those figures for you regarding the switch to Canola oil for the stadium popcorn and surprisingly it will only come to 1/2 a cent more per bag, so it is definitely doable.",
       "characters": [
-        "Craig",
-        "Bruce",
+        "Levitan",
         "Jerry",
-        "Loretta"
+        "Ade",
+        "Elaine"
       ],
-      "correctAnswer": "Craig"
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "A man like you, limiting yourself to one woman, I don't know. But it's none of my business.",
+      "characters": [
+        "Kate",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I told him the whole story and he just let me have it. Wha -- Yeah. He's a wonderful man.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Captain",
+        "Gavin"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

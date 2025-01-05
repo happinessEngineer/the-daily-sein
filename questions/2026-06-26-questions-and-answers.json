@@ -1,106 +1,106 @@
 {
-  "gameNumber": 539,
+  "gameNumber": 540,
   "date": "2026-06-26",
   "questions": [
     {
-      "quote": "Afford it you will, Mr Newman. Or this court will see that your car is impounded...",
+      "quote": "Oh, look at this. There's no place to park around here. I don't even know why they sell cars in Manhattan.",
       "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "Gary",
-        "Judge"
-      ],
-      "correctAnswer": "Judge"
-    },
-    {
-      "quote": "What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!",
-      "characters": [
-        "Elaine",
-        "Jimmy",
-        "Kramer",
-        "George"
+        "Susan"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Are you crazy? This is like discovering Plutonium ... by accident.",
+      "quote": "But it--eh.. It was here, I'm tellin' you, an' w--w--it was really here! The, there was, a, bar, and a, an' a dance floor..",
       "characters": [
         "Kramer",
+        "Jerry",
+        "George",
+        "Announcer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, Jerry. I just checked your duck...it is more succulent than even I had hoped.",
+      "characters": [
         "Poppie",
-        "Lois",
+        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "Well, the drive home should be a delight. I'm speeding the whole way. Let them throw me in jail. I don't care.  That's the manager? Do you want me to see if we can get another room?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
         "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well.. For one thing the glue isn't very adhesive. It takes a lot of moisture to make them stick.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Sally",
+        "Clerk"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "Well, I'm going to the game tonight, and me and these five other guys are gonna take our shirts off and spell out 'Devils'.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "Jerry",
+        "Chiles"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Well, you on all fours, that thing vibratin', kickin' up sawdust, ho ho! She'll get the picture!",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "She was a guest of my father's. She should've taken the cap off.",
+      "quote": "It was nice meeting you By the way, How do you warm up your fingers before you play?",
       "characters": [
-        "Nina",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Nina"
-    },
-    {
-      "quote": "I spoke to a cab driver. For five bucks, he turned me on to the Rockaway Boulevard shortcut.",
-      "characters": [
-        "Mickey",
-        "Kramer",
-        "Elaine",
-        "Gary"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And the indigent, yeah.. I, I do volunteer work for them. I-I set the whole thing up, and I got Jerry to do it.",
-      "characters": [
-        "Toby",
         "Jerry",
         "George",
+        "Elaine",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, stay away from the chicken. Bad, bad chicken, mess you up.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Sally",
         "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Look-it. It's not Suze. All right? It's Su-zie. My name, is Su-zie!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well , I just came from the gym , unless I can shower at your place.",
-      "characters": [
-        "Elaine",
-        "Marcy",
-        "Kramer",
-        "Tawni"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right lets take a look to see what we got  Wait a second.. I think I see something here George. Lets go to the videotape.",
-      "characters": [
-        "Kramer",
-        "Frank",
-        "Jerry",
-        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What? D'you think you're such a big shot now, because you got a Cadillac?",
+      "quote": "Because, if I hear one more rattle - just one - your out on your can. And if you are undead - I'll find out about that too.",
       "characters": [
-        "Kramer",
-        "Elaine",
+        "George",
         "Jerry",
-        "Jack"
+        "Sid",
+        "Peterman"
       ],
-      "correctAnswer": "Jack"
+      "correctAnswer": "Peterman"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 546,
+  "gameNumber": 547,
   "date": "2026-07-03",
   "questions": [
     {
-      "quote": "Listen. Let me ask you something. If you and Mona were ever to... dance, how do you decide who leads? I mean... do you take turns? Do you discuss it beforehand? How does that work?",
+      "quote": "What is that, immigrants come over, you show them how to act natural?",
       "characters": [
-        "Jerry",
+        "Peterman",
+        "George",
         "Kramer",
-        "Frank",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Look, you said the one in the second courtyard. He was in the second courtyard.",
+      "quote": "I mean, the whole thing is ironic. Think of it: Here the guy is nice enough to give you a box of very fine Cuban cigars..",
       "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, thanks again for those tickets. But next week, I'm going to take you. How about next Tuesday night?  And why don't you come along?",
+      "characters": [
+        "Joel",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Joel"
+    },
+    {
+      "quote": "Well, to be honest, it just didn't make it for me. It's just so much fluff.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Marlene",
+        "Morty"
+      ],
+      "correctAnswer": "Marlene"
+    },
+    {
+      "quote": "You know what George, uh. Why don't you go ahead. I think I'd like to be alone for a while.",
+      "characters": [
+        "George",
         "Kramer",
         "Newman",
-        "Peterman",
-        "Jerry"
+        "Susan"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Well my friend,  it may be time to consider the dreaded apparatus.",
-      "characters": [
-        "Helen",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Aw, c'mon, you love that car. What about the Northstar system?",
-      "characters": [
-        "Steinbrenner",
-        "Elaine",
-        "Jerry",
-        "Doctor"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because great couples always have a great story about how they met. That's why I've never been in a long term relationship. I've never had a good meeting story.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, alright, fine. You take the monkey's side, alright, go ahead.",
+      "quote": "I've had a crush on this woman for year! I've always been afraid to approach her! She looks like she belongs on one of these Hallmark cards.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Elaine",
-        "Michael"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Really , like a... like a.... Jerry, I want to slide my tongue around you like a snake.....Ooooooooooha ,oooooohaaaa.....",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke \"the covenant of the keys.\"",
-      "characters": [
-        "Kramer",
-        "Jack",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, the woman I grew up with in Maryland, she moved here last year...",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I just wanted to talk to him for a minute, but I'll come back.",
-      "characters": [
-        "Leo",
         "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh come on. That's genetics. That's not going to happen to me.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "But you're going to have to go get em. I'm not carryin' them all.",
+      "characters": [
+        "Jerry",
+        "Ramon",
+        "Betsy",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, remember in college when you passed Lettick the test out the window? You became a legend after that.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that's a lot of money. But, if that's the way it's gotta be, that's the way it's gotta be.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Wyck",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

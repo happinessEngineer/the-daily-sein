@@ -1,106 +1,106 @@
 {
-  "gameNumber": 374,
+  "gameNumber": 375,
   "date": "2026-01-12",
   "questions": [
     {
-      "quote": "What do think I tell Jerry everything? It's not like he's my wife.",
+      "quote": "See, so I don't know if I got a funeral 'hello' or he was mad because he didn't get his day-after 'thank you'.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you know, I mean, sometimes it's good to get there and make sure you get your seats and then go to the bathroom.",
+      "characters": [
+        "Tom",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What difference does it make? Who cares if she doesn't like you? Does everybody in the world have to like you?",
+      "characters": [
+        "Karen",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "You know, I can't believe it myself sometimes. You have to start thinking in terms of \"we\". Ugh, it's a very stressful situation.",
       "characters": [
         "Jerry",
         "George",
-        "Elaine",
-        "Susan"
+        "Phil",
+        "Laura"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Laura"
     },
     {
-      "quote": "Jerry, you're like Rosa Parks. You opened the door for all of us. I can't wait till the next time someone heckles me.",
+      "quote": "Well. You are not gonna believe this. Now Lippman is renounced. This shiksa thing is *totally* out of control. What is *with* you people? What are you looking at?",
       "characters": [
-        "George",
         "Elaine",
-        "Ronnie",
+        "Kramer",
+        "Jerry",
+        "Bob"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "There's the giant ball of oil. Clare's right underneath that thing. Clare! Hello-o-o-o! Hello-o-o-o! Hello-o-o-o!",
+      "characters": [
+        "Jerry",
+        "Tim",
+        "Elaine",
+        "Brett"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, go in the bedroom. Open the window. You can go out the fire escape.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Let's just say that I don't have to worry about working for a while. A long while.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Landis",
         "Kramer"
       ],
-      "correctAnswer": "Ronnie"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What am I doing here? You're in the women's dressing room. I need that ticket stub back so I can get my mother's fur coat out.",
+      "quote": "What was wrong with that sorry? It was a good sorry. Jerry, was that a good sorry?",
       "characters": [
         "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Earl",
+        "Jerry",
+        "Peterman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "\"Matthew, Luke, Paul\", what you're cheating on your conversion chest?",
+      "quote": "Well, You might wanna think about...maybe, eh...moving your arms a little when you walk.",
       "characters": [
         "Jerry",
-        "Manager",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, yeah, yeah. But they also rolled for his brother...  ...Dennis.",
-      "characters": [
-        "James",
-        "Kramer",
-        "George",
-        "Salesman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh yes, by no means, the mood. Let me know if there's anything I can do to lend support to the mood.",
-      "characters": [
-        "Ken",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, first of all, for some reason, they started the game an hour Late. And uh, I was sittin' next to Spike Lee an' he an' Reggie were jawin' at each other, so I guess I got involved.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Tony",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, don't be ridiculous! Is that what you wanted to talk to me about? [Gives him the $35] Here.",
-      "characters": [
-        "Susan",
         "George",
         "Elaine",
-        "Alton"
+        "Peterman"
       ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Doing quite well, thank you. Yesterday I had a soft boiled egg and a quickie. You know what? If I could add TV to the equation, that would really be the ultimate.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Susan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What am I talking about? Come on.  You don't think I bought all that?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Greg",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     }
   ]
 }

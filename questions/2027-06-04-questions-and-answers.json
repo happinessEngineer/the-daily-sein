@@ -1,106 +1,106 @@
 {
-  "gameNumber": 882,
+  "gameNumber": 883,
   "date": "2027-06-04",
   "questions": [
     {
-      "quote": "I can't figure out what's going on here. I can't follow the plot. Why did they kill that guy? I thought he was with them?",
+      "quote": "You were full. So you gave a reason. You didn't just shake your head.",
       "characters": [
         "Elaine",
-        "Estelle",
-        "Kramer",
+        "Sally",
+        "Landis",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ooh, everything was going so well. She hadn't seen any flaws in me. Now she sees a side.",
+      "quote": "Transport charge, storage surcharge, additional overcharge, finder's fee…",
       "characters": [
         "George",
-        "Kramer",
-        "Jerry",
-        "Morty"
+        "Elaine",
+        "Puddy",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Puddy"
     },
     {
-      "quote": "No no no, that's no good. No, I really don't think that's a beg. No, it's close, but uh...",
+      "quote": "All Simons was able to find out is that he's in the hospital.",
       "characters": [
-        "George",
+        "Helen",
         "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, your, uh, folks said it was for rent, so I jumped on it.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Tor"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ladies and gentlemen of the jury, have you reached a verdict?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Peterman",
+        "Vandelay"
+      ],
+      "correctAnswer": "Vandelay"
+    },
+    {
+      "quote": "And then, I was on such a... high, that I went upstairs to the salon on the fifth floor, and got a massage and facial, and skipped out on the bill.",
+      "characters": [
+        "Lippman",
+        "Marcy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Marcy"
+    },
+    {
+      "quote": "I don't know why you want to play man-to-man when you could play a zone.",
+      "characters": [
         "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Pretentious!? The woman has my tax papers. You told her she was pretentious? The IRS. They're like the MAFIA. They can take anything they want",
-      "characters": [
-        "Nina",
+        "Jerry",
         "George",
-        "Elaine",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh yeah, and vice versa. Mother Nature's a mad scientist, Jerry.",
+      "quote": "Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?",
       "characters": [
-        "Elaine",
-        "Chiles",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yes, she's the costume designer and he's the wig master for the show.",
-      "characters": [
-        "Elaine",
         "George",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "In fact, she's come up with a new one that is going to be the big new look in men's fashion.. It's a, a puffy shirt.  Well, yeah, it - it's all puffy. Like the pirates used to wear.",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I hate gum. The only guy I ever liked came with the Mickey Mouse gumball machine. They stopped making that 20 years ago.",
-      "characters": [
-        "Jackie",
-        "Jerry",
-        "Newman",
-        "Lou"
-      ],
-      "correctAnswer": "Lou"
-    },
-    {
-      "quote": "You know I was watching Entertainment Tonight, and uh, suddenly I got dizzy. And the next thing I know I hit my head on the coffee table.",
-      "characters": [
-        "Chiles",
-        "Kramer",
-        "Newman",
-        "Earl"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Where did I take it? Where Did I Take It?   Umm, to that place on, uh Columbus and 85th. Okay?",
-      "characters": [
-        "Elaine",
-        "Clerk",
-        "Jerry",
-        "Ray"
+        "Fdr"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Woah, back it up, back it up. Beep, beep, beep. Tractor story?",
+      "characters": [
+        "Jane",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I turned my house upside-down looking for this! It's all I have left of her.",
+      "characters": [
+        "Jerry",
+        "Marty",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Marty"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 162,
+  "gameNumber": 163,
   "date": "2025-06-14",
   "questions": [
     {
-      "quote": "I don't know. But Simons said that if I wanted to get involved, that Wilkinson would tell me the exact right minute to sell. You wanna do it?",
+      "quote": "Oh, Hey, eh, there's a spot right in front of the liquor store. You see",
       "characters": [
-        "Cindy",
-        "Rabbi",
-        "Kramer",
-        "George"
+        "George",
+        "Elaine",
+        "Farkus",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Do you know that I have been using the same bottle of shampoo for a year? And I shampoo every day.  So, what do you think of my conversation?",
+      "quote": "Alright, you know what, uhm... I just wanna take my car, and I'm gonna bring it someplace else.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Newman",
+        "Lou"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, when I'm skiing, Kramer, I'm trying not to kill myself, you're writing books!",
       "characters": [
         "Kramer",
+        "Clerk",
+        "George",
+        "Regis"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "Well, this is the Jerry Seinfeld that only I know. I can't believe I just told you that.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Okay, Cosmo, we're back in business. Let's check out the board. Now, who do you like?",
+      "characters": [
+        "Earl",
+        "Frank",
         "Jerry",
-        "Elaine",
-        "George"
+        "Matthew"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Yeah, O.K. I'll go get 'em.  What are you doing? Would you just put that down?  I gotta get some new friends.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Like Bizarro Superman. Superman's exact opposite, who lives in the backwards bizarro world. Up is Down. Down is Up. He says \"Hello\" when he leaves, \"Good bye\" when he arrives.",
+      "quote": "That's right, and I'll tell you what. I'm feeling a little off.",
       "characters": [
         "Jerry",
-        "Doctor",
+        "George",
         "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know I don't know. I thought he was coming. I assumed he wouldn't miss it.",
+      "quote": "They were his.  Besides, we don't need any of those things.  We have each other.",
       "characters": [
         "Jerry",
-        "Stu",
-        "Elaine",
-        "Wilhelm"
+        "Peterman",
+        "George",
+        "Bonnie"
       ],
-      "correctAnswer": "Stu"
+      "correctAnswer": "Bonnie"
     },
     {
-      "quote": "Tuesday? I can't do it Tuesday. Steinbrenner needs me to run---",
+      "quote": "Hello. No she's not here. Yes I will tell her. No I don't know what time she might be coming back. Look I gotta' go. Goodbye. . . . That, that's a long story.",
       "characters": [
-        "George",
-        "Noreen",
+        "Milos",
         "Jerry",
-        "Morty"
+        "George",
+        "Peterman"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, well, I didn't actually go with Ramon. I just bumped into him there.",
+      "quote": "It's cleavage. I couldn't look away. What am I, waiting to win an Oscar here? This is all I have in my life.",
       "characters": [
-        "George",
         "Kramer",
+        "George",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Tsst...'Course I have. Come on. My cousin's in a bubble. My friend Jeffrey's uh, sister, also ... bubble ... you know.  I got a lot of bubble experience. Come on.",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "The way they make 'em these days, I'll never have to tell her.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Susan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't understand this jeweller, Jimmy Sherman.  He brings in a watch, it takes over a week to fix. He fixed yours in one day.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "That blond across the street. You know the one with the long ponytail, she wears those blue sweatpants.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Jack",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
     }
   ]
 }

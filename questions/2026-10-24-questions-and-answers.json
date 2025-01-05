@@ -1,106 +1,106 @@
 {
-  "gameNumber": 659,
+  "gameNumber": 660,
   "date": "2026-10-24",
   "questions": [
     {
-      "quote": "Second of all, Jerry Seinfeld - big or little - doesn't go down for anyone, anywhere, at anytime! Now I'd appreciate it if you please leave.",
+      "quote": "Jerry, I'm not suggesting getting rid of the girl. She's integral.",
       "characters": [
-        "Sid",
-        "Donna",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Of course. Of course it got done. Things get done all the time, I understand.  Don't worry, your job'll be waiting for you when you get back.  Get better George. Get better!",
-      "characters": [
-        "Steinbrenner",
-        "Elaine",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "I still don't see why you wouldn't eat me. I'm your best friend.",
-      "characters": [
-        "Frank",
+        "Kramer",
         "Jerry",
-        "Michael",
-        "George"
+        "David"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm just getting warmed up. Because I'm just a sadist with newer magazines.",
+      "quote": "\"Hey, by the way, did you ever call that guy from the health club.?\"",
       "characters": [
         "Jerry",
-        "Tim",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Tim"
-    },
-    {
-      "quote": "George, I want you to promise me something. If I'm ever in a comma. In the first 24 hours get everything out of my apartment and put it in storage.",
-      "characters": [
         "Elaine",
-        "Jerry",
         "Kramer",
-        "Newman"
+        "Diane"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, you just tell him ah, an old boyfriend has come back into your life.",
+      "quote": "Oh god. Oh, Jerry it was so terrible what we just went through on the way home.  You wouldn't believe it.",
       "characters": [
-        "George",
-        "Tony",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Danielle",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "How about when Harrison Ford jumped out of that plane, and he was shooting back at them as he was falling?",
-      "characters": [
+        "Voice",
+        "Rebecca",
         "Elaine",
-        "Jerry",
-        "Helen",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I didn't know that he'd fall for me and I'd drive him insane. I mean, you know, that's not my fault.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "Shelly"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you",
+      "quote": "Yeah, tell me about it, soul sister.  Anyway, I told Jake that you said hi.",
       "characters": [
-        "Newman",
-        "Eva",
-        "Jerry",
-        "Jimmy"
+        "Kramer",
+        "George",
+        "Frank",
+        "Milos"
       ],
-      "correctAnswer": "Jimmy"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I've come to realize? I'm not just bored. I genuinely dislike her.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Doorman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Are you gonna leave after its over? You know, if we have sex.",
+      "characters": [
+        "Bania",
+        "Marla",
+        "Darryl",
+        "Aaron"
+      ],
+      "correctAnswer": "Marla"
+    },
+    {
+      "quote": "Uh, I think his answering machine's broken, so I just gave up. Well, what do you think?",
+      "characters": [
+        "Elaine",
+        "Man",
+        "Steinbrenner",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Come on, man. You need to lighten up. You know, a feeling like this only happens once a year.",
+      "characters": [
+        "Kramer",
+        "Sharon",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Two exact same watches. He tells you a week, and him a day. How could that be? Something's fishy about this.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "You know my last name is Costanza. That's Italian. So you and I are like country men. Pisano's!",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

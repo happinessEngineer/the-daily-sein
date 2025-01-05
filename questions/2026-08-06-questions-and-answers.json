@@ -1,106 +1,106 @@
 {
-  "gameNumber": 580,
+  "gameNumber": 581,
   "date": "2026-08-06",
   "questions": [
     {
-      "quote": "You shut up!  I demand a recess so I can take him outside and help him regain hius composure.",
+      "quote": "...uh, Jerry, I think he broke my toe.  W-Where're you going?",
       "characters": [
-        "Newman",
-        "Kramer",
         "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Hi, I haven't eaten in three days. I was wondering how much longer it would be until I get my X-ray.",
-      "characters": [
-        "Newman",
-        "Man",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ovaltine. Have you ever had this stuff? Why is it called Ovaltine?",
-      "characters": [
-        "Tim",
-        "Jack",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Before we get started, I am happy to tell you that Eddie Sherman is no longer writing for this catalog.",
-      "characters": [
         "George",
-        "Jerry",
         "Elaine",
-        "Mickey"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, this is my friend, Jerry Seinfeld. I just bumped into him around the corner. Isn't that a coincidence? The funny thing is, I see him all the time.",
-      "characters": [
-        "Elaine",
-        "Peterman",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well you cracked it! I warned the Queen you were gettin' close an', now it looks like we're gonna have to move the whole damn forbidden city.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "Clerk",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Where's your bathroom scale?  Oh my god, I've gained seven pounds.",
+      "quote": "Yeah, is he still mad at you for crashing his Thanksgiving party?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, obviously, we all know each other very well,  I'm sure that we'll all feel comfortable within the confines of the honor system.",
+      "characters": [
+        "Gavin",
+        "Puddy",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh. Okay. So he'll just think that the two of you didn't sit with him on purpose. Ooh yeah, that's very nice. Very nice.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "All right, let's go. We don't have much time before the meeting.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Nevermind. Disgraceful. Leaves you sitting there on the kitchen floor like some kind of roach trap. Wham, bam, thank you ma'am. Sir, whatever. She's not going to get away with this.",
       "characters": [
         "Jerry",
-        "Kramer",
+        "Ray",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh yeah. I've been a professional waitress for the last 10 years. I've worked all over the city. These, uh, are my references. I'm sure you'll find that I'm more than qualified.",
-      "characters": [
-        "Kramer",
-        "Lloyd",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I'm doing a report on minorities in the media, and I wanted to use that interview with Al Roker.",
+      "quote": "George...but if I ask him now, I will have no chance of going out with him.",
       "characters": [
         "Kramer",
         "George",
         "Jerry",
-        "Winona"
+        "Elaine"
       ],
-      "correctAnswer": "Winona"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right, forget that idea, it's not for you....Okay, okay, I got it. You run an antique store.",
+      "quote": "Uh, actually my parents are over, but, would you like to meet them?",
       "characters": [
-        "George",
+        "Maura",
         "Jerry",
-        "Marcelino",
+        "George",
+        "Karen"
+      ],
+      "correctAnswer": "Karen"
+    },
+    {
+      "quote": "More Pledge! I just bought two cans last week and I don't even have any wood in the house!",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, karate is not here . It's here , and here , and here .",
+      "characters": [
+        "Patrice",
+        "Puddy",
+        "Newman",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     }
   ]
 }

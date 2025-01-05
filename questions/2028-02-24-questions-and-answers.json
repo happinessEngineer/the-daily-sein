@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1147,
+  "gameNumber": 1148,
   "date": "2028-02-24",
   "questions": [
     {
-      "quote": "I bin thinkin about it. You got no job. You got no prospects. You're like Biff Loman.",
-      "characters": [
-        "George",
-        "Wilhelm",
-        "Carrie",
-        "Jerry"
-      ],
-      "correctAnswer": "Carrie"
-    },
-    {
-      "quote": "It's like a magic trick. Sometimes I think it would be easier to bend a spoon mentally than to make that transformation.",
+      "quote": "How can I figure out if there's any places to rent in Tuscany? Wait a minute. Poppy's from Tuscany. I'm gonna go call him.",
       "characters": [
         "Kramer",
         "Elaine",
         "George",
-        "Lloyd"
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "His apartment was being fumigated, so we thought we'd give it another shot.",
+      "quote": "It's like going out with someone and you never hear from them again.",
       "characters": [
         "George",
-        "Kramer",
+        "Driver",
         "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright! So, she said, that she could've fixed me up with her.",
+      "quote": "And, you know, I do a lotta business with Japanese TV. They broadcast a lot of American baseball. They got an office here in New York!",
       "characters": [
-        "Newman",
-        "Elaine",
+        "Anna",
         "George",
-        "Corinne"
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Awe there making faces at me cause I've had a couple of cafe lattes. But I'm entitled to them. I can have as many cafe lattes as I want, that was the settlement.",
+      "quote": "Hey, where's the waiter. Dad, what say we have some red meat tonight. Let's live a little. .",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
+        "Rava",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, well, my father when I was a kid, he took me to the bank and he lifted me up and he pointed to the teller and he said: 'Sonny boy, take a good look at him, that's gonna be you some day.'",
+      "characters": [
+        "Jerry",
+        "Phil",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah... Hum..Jim , a man here says came in the other day , you didn't say hello?",
+      "quote": "Well, she seems very happy. She met an old friend who used to live next door to her.",
       "characters": [
+        "Sharon",
         "Kramer",
         "George",
-        "Elaine",
-        "Manager"
+        "Nurse"
       ],
-      "correctAnswer": "Manager"
+      "correctAnswer": "Nurse"
     },
     {
-      "quote": "Did you enjoy the duck?  Oh, Elaine! I was just asking how dinner went last night.",
+      "quote": "Say, I happened to catch you coming out of Schindler's List the other night.",
       "characters": [
-        "Izzy",
-        "Maestro",
         "Kramer",
-        "Manager"
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "iIs it? Or is it so possible your heard is spinning like a top?",
+      "characters": [
+        "Newman",
+        "George",
+        "Kramer",
+        "Frank"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, sure.  Then my father will have no place to sleep.  He's gotta move out.",
+      "quote": "Listen, I'm really sorry but I'm just on my way out to meet a friend.",
       "characters": [
-        "Kramer",
+        "Steinbrenner",
         "Jerry",
-        "Bob",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, I'm sorry to bother you, but you always said you'd be there for me.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "Elaine",
-        "Beth"
-      ],
-      "correctAnswer": "Beth"
-    },
-    {
-      "quote": "So, what are you gonna do now? Are you gonna look for something else in real estate?",
-      "characters": [
-        "Craig",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, I sell the restaurant, uh? I just take it easy. See, if I get excited, 'ats aggravated my condition. The last time I got aggravated, was in the restaurant. With your friend.",
+      "characters": [
+        "Poppie",
+        "Betsy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Poppie"
     }
   ]
 }

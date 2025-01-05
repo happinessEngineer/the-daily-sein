@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1007,
+  "gameNumber": 1008,
   "date": "2027-10-07",
   "questions": [
     {
-      "quote": "Never! You hate him because he's doing more with your name than you ever will! Yah-yah!",
+      "quote": "Well, you should probably ask, because if he's gonna be coming over with those Paccino's pizzas...could be trouble.",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "Farkus",
+        "Tom",
         "George",
-        "Elaine"
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I told him I didn't take his Chuckle. I don't eat that gooey crap!",
+      "characters": [
+        "Joyce",
+        "Elaine",
+        "George",
+        "Driver"
+      ],
+      "correctAnswer": "Driver"
+    },
+    {
+      "quote": "I had to listen to a five minute discussion on which one is actually called shmoopy.",
+      "characters": [
+        "Jerry",
+        "Chiles",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"One hundred percent Cotton Dockers. If they're not Dockers, they're just pants\"",
+      "characters": [
+        "Jerry",
+        "Manager",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Listen, there is something really suspicious about this guy. Every time Mr Peterman tries to assign him any work, he says he can't hear, and it all gets dumped on me.",
+      "quote": "See, I don't get that. First they come out with the regular, then a year later they come out with the cherry. They know that we like the cherry, start with cherry! Then come out with the regular!",
       "characters": [
-        "Elaine",
-        "Patrice",
+        "Darren",
+        "George",
         "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Bite-size Three Musketeers. Just like the real Peterman eats.",
+      "characters": [
+        "Puddy",
+        "Kramer",
+        "Jerry",
+        "Aaron"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, I'm sorry but, I didn't mention it earlier but actually I preferred to be called Maestro.",
+      "characters": [
+        "Maestro",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Maestro"
+    },
+    {
+      "quote": "Ohmygod! Lippman could see this! He thinks I was visiting my father! Oh my g-I make up one little white lie and they put my picture in the paper!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Awright already!! This is a very key issue with me, Jerry. I had this name for a long time.",
-      "characters": [
-        "Leo",
-        "Jerry",
-        "Rick",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You don't understand. I can't allow my son to pay for me. Look, as soon as I get back to Florida, I promise you I'll mail you a check.",
-      "characters": [
-        "Kramer",
-        "Morty",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "And you know what else I've decided to do? I'm going to keep seeing the bald woman.",
+      "quote": "If you know what happened in the Met game, don't say anything, I taped it, hello. Yeah, no, I'm sorry, you have the wrong number. Yeah, no",
       "characters": [
         "Kramer",
         "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "There was something so reassuring about that cozy little space.",
-      "characters": [
-        "Babu",
-        "Leo",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "If I get it for you, will you take me to that club an' show me a good time?",
-      "characters": [
-        "Kelly",
-        "Michael",
-        "Jerry",
-        "Kramer"
+        "Babu"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, it's a funny thing, because after the pilot got cancelled, we hadn't heard from you.",
+      "quote": "Because I could get uromycitisis poisoning and die - that's why.",
       "characters": [
+        "Jerry",
+        "Kruger",
         "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know what? You're right. These reports, they can wait a couple of hours. Whadda say we go out tonight? Any place you want.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I think that's a \"what's good for the goose is good for the gander\".",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Elaine",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     }

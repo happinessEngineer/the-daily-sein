@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1046,
+  "gameNumber": 1047,
   "date": "2027-11-15",
   "questions": [
     {
-      "quote": "You , you know what you should've done is watching that report on CNN last night.",
+      "quote": "You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.",
       "characters": [
         "Jerry",
         "Kramer",
-        "George",
-        "Elaine"
+        "Tor",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Tor"
     },
     {
-      "quote": "Here. I write it down.  \"One cupcake.\" And then I put it in the bowl.  There. Very simple.",
+      "quote": "I thought Johnny was very rude to you. He didn't even let you talk.",
       "characters": [
-        "Kramer",
         "Elaine",
         "George",
-        "Jerry"
+        "Woman",
+        "Leo"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Leo"
     },
     {
-      "quote": "So when they're handing you those cadavers, do you get to choose whether it's a man or a woman?",
+      "quote": "So Jerry, your mother told me you're gonna do one your little comedy skits tomorrow?",
       "characters": [
         "Jerry",
+        "Elaine",
         "George",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "I can't relax. I don't know what line! I don't know any of 'em!",
+      "characters": [
         "Kramer",
-        "Elaine"
+        "Michael",
+        "Testikov",
+        "Peterman"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "It's a little unusual. So, uh, Susan and I were thinking, uh, dinner at our house Saturday night. Just the four of us.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jack",
+        "Ping"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hid? I have no idea how this suit got misplaced. Nevertheless, I do believe I shall purchase it.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "Duncan",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It seems that a psychotic mechanic has absconded with my friend's car.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, it's not you. It's your stomach, he's taking with this funny, booming, jovial voice.  Hello-o-o-o.",
+      "quote": "Ah, they gave me the heave ho. You know, I don't think that Kenny Rogers has any idea what's going on down there.",
       "characters": [
+        "Kramer",
+        "Laura",
         "George",
-        "Elaine",
-        "Roy",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Konichi-wa. Yeah, it's a gift from my Japanese friends.  They're known as gift-givers. And tonight we're going dancing at the Rainbow Room.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Valerie",
-        "Kramer"
+        "Bania"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So, the longer you know someone, the shorter you wait for 'em.",
+      "quote": "Take it easy, you guys, just spread out! Don't worry about it, if anything was wrong she would have called you already!",
       "characters": [
-        "Earl",
+        "Jerry",
         "George",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ahhh, uh, uh, uh, ohuh, aaaa ouh au au au ah ah  ah, ah, ah, Ah.",
+      "quote": "Yeah. And here's to David Puddy for helping me install a much needed and much appreciated garbage disposal in my bathtub.",
       "characters": [
         "Kramer",
-        "Eva",
-        "Peggy",
-        "Jerry"
+        "Jerry",
+        "George",
+        "Morty"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Uh, JFK. [To Elaine] I need some small bills for a tip. You got anything?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Sid",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "But, but of course they didn't do it, the police had made an awful mistake.",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Helena",
-        "Jackie"
-      ],
-      "correctAnswer": "Helena"
-    },
-    {
-      "quote": "All right come on in. ... Just wait over HERE! Just wait here and I'll get it for you. ... Kramer this is Tia.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Steinbrenner",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

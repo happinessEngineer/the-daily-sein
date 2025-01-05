@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1061,
+  "gameNumber": 1062,
   "date": "2027-11-30",
   "questions": [
     {
-      "quote": "Excuse me, I gave you a twenty dollar bill and you only actually gave me change for a ten.",
+      "quote": "Yes.  Oh, your father bought a exercise device off the television. He does it every morning at four.",
+      "characters": [
+        "Helen",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "As you can see my references are impeccable. I think I'd be a real asset here. My only concern is, I do take care of my mother. So will there be any late nights?",
       "characters": [
         "Jerry",
+        "Kurt",
+        "Ade",
+        "Kramer"
+      ],
+      "correctAnswer": "Ade"
+    },
+    {
+      "quote": "I asked because you were the mailman, you would know the neighbourhood.",
+      "characters": [
         "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm on my way to cash in their plane tickets for them. They need a little food money.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Frank",
+        "Leo"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "If you had gotten into the backseat of the car we could've figured this whole thing out.",
+      "characters": [
         "Mickey",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Mickey"
+    },
+    {
+      "quote": "Well she apologized, and then she wanted to know if we could get together Wednesday afternoon.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You got your own shampoo, conditioner, body lotion! Jerry, body",
+      "quote": "Siege mentality, Jerry. They really want me out of here. They've downgraded me to some sort of a bunker. I'm like Hitler's last days here.",
       "characters": [
+        "Elaine",
         "George",
-        "Kramer",
-        "Kelly",
-        "Jerry"
+        "Manny",
+        "Voice"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, so what? You're gettin' a deal, right? We'll split it three ways.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Lippman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "She wants to be an actress...or a, uh, model...or a dancer...or a...news woman.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "James"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, let me ask you a question. You met margaret. Doo you think Margaret's good looking? Um, she's a natural beauty. Oh, no makeup. I like that.",
+      "quote": "I'm not goin' there. Didn't he get busted by the Board of Health?",
       "characters": [
         "George",
-        "Jerry",
-        "Celia",
-        "Laura"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ga, of course you can't, you poor sap! Now why didn't you tell me?",
-      "characters": [
-        "Steinbrenner",
         "Jerry",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You went to the coffee shop without me? I told ya, I just wanted to hop in the shower.",
+      "quote": "I know how to do it. Pair of pants, a stupid story, a huge markup. I can do that.",
       "characters": [
         "Kramer",
         "George",
-        "Earl",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Who's gonna send money to my sister in Virginia? Her little boy needs surgery on his foot. Now he'll be walking around with a limp because you can't park a few cars.",
-      "characters": [
-        "George",
-        "Sid",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Sid"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Mister Fowler, I-I have a squirrel here that is a miracle of modern science!",
+      "quote": "No, she left. Listen, you can't mention any of this to Elaine. Cynthia will kill me, we made a deal.",
       "characters": [
-        "Bania",
         "Jerry",
-        "George",
-        "Kramer"
+        "Elaine",
+        "Carl",
+        "George"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "Well today's almost over. And weekdays always go by fast. Friday we're leaving. It's like two days really. It's like a cup of coffee. It will go by like that.",
-      "characters": [
-        "Kramer",
-        "Father",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

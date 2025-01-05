@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1113,
+  "gameNumber": 1114,
   "date": "2028-01-21",
   "questions": [
     {
-      "quote": "Jerry, what am I gonna do? I'm gonna go in there and spy on her in the sauna?",
+      "quote": "I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.",
       "characters": [
-        "Elaine",
-        "George",
-        "Ruby",
-        "Steve"
+        "Rava",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, I've seen you around the club. My name's Sidra. This is Marcie.",
+      "quote": "But look at this thing. It's-it's huge. You got more cow here than here.",
       "characters": [
-        "Jack",
-        "Beth",
-        "Jerry",
-        "Sidra"
+        "Julie",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
-      "correctAnswer": "Sidra"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well so what's the problem, you just put some newspaper down.",
+      "quote": "You know, this guy Jean-Paul, Jean-Paul... I met him when I was working at Pendant, editing a book on running...",
+      "characters": [
+        "Elaine",
+        "Harold",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't understand, why is this woman talking about my shoes? Why are my shoes a topic of conversation?",
       "characters": [
         "George",
-        "Jerry",
+        "Peterman",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I have to say, as a glasses wearer I take exception to that. That's like me buying a wheelchair to cruise around in.",
+      "quote": "Jerry wouldn't know delicate beauty if it bludgeoned him over the head.",
       "characters": [
-        "Newman",
+        "Peterman",
         "Jerry",
         "Kramer",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What, are you crazy? I can't have a man touching me. Switch with me.",
+      "characters": [
+        "Kramer",
+        "Driver",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, yeah, you're right. Excuse me, excuse me. Would you mind. I'd like to take the picture back.",
+      "quote": "Man, I gotta go lay down. You and George going out a little later?",
       "characters": [
-        "Kramer",
+        "Woman",
         "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I was just uh going over the Jake Jarmel book and I understand you worked with him very closely on this.",
-      "characters": [
-        "George",
-        "Lippman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "Come up - Ah, there he is, the man himself, George Louis Costanza. Here I am about to go to the electric chair and my oldest friend is dating the governor",
-      "characters": [
-        "Peterman",
-        "Jerry",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "They adjust the foam density and spring tension to your body type. I estimated your height and weight. Five eight, about 110 pounds?",
+      "quote": "He's got my vacuum cleaner. You know I loaned it to him. He never returned it. The carpets are filthy. What am I going to do?",
       "characters": [
+        "Elaine",
         "Kramer",
-        "Jerry",
         "George",
-        "Hal"
-      ],
-      "correctAnswer": "Hal"
-    },
-    {
-      "quote": "Well he's from the impressionist school, you know like Monet, Manet, Tippi Tippi Dayday.",
-      "characters": [
-        "Abby",
-        "George",
-        "Gillian",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "They just don't know what street to take. You remember that time I got us to Yankee Stadium in rush hour in fifteen minutes?",
+      "quote": "Here's our chance. What d'you say? It'll be me, you and the bro, bro.",
       "characters": [
+        "Kramer",
         "Jerry",
         "George",
-        "Kramer",
-        "Helen"
+        "Frank"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I got one problem. You're keeping her busy in the other room. Now, what if she somehow gets away from you and is coming in? You have to signal me that she's coming.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

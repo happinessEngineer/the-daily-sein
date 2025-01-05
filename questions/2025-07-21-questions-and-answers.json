@@ -1,106 +1,106 @@
 {
-  "gameNumber": 199,
+  "gameNumber": 200,
   "date": "2025-07-21",
   "questions": [
     {
-      "quote": "Oh, you lying little snot. And he's a cheater. Aren't ya' you little twerp?",
+      "quote": "Now she thinks we're gay, not that there's anything wrong with it...",
       "characters": [
         "George",
-        "Wilhelm",
-        "Donna",
+        "Naomi",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, you got the Civil War book.  I saw some of that show, it was wonderful.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I got greedy. Flew too close to the sun on wings of pastrami.",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. No, uh, I was just thinking of something. I'll be back in a second.",
+      "characters": [
+        "Russell",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Nah, it's not a good turn. December. December. Don't you think we should have a little more time just to get to know each other a little.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Let me ask you a question. Who would win in a fight between you and me?",
+      "quote": "She talked me into one more day. Talk amongst yourselves, I'm gonna go to the bathroom.",
       "characters": [
-        "Morty",
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, Newman is my sworn enemy. And he lives down the hall from my home - my home, Elaine! Where I sleep, where I come to play with my toys.",
+      "characters": [
         "Jerry",
-        "Jake",
+        "Kramer",
+        "Morty",
         "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She can't take it. It's not hers, it's theirs. Once there's no theirs there's no hers, it should be ours.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Doctor",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Look Jerry, we'll meet you at the theater.  OK, next showings at 9:00, we can't wait any longer.",
+      "quote": "Well I got a hundred cards, here, pick a card, take a card, any card you want, go ahead, whichever one, I don't care.",
       "characters": [
+        "Susan",
+        "Elaine",
         "Jerry",
-        "Newman",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah. Every time I see her, I gotta kiss her hello. I just did it once, on her birthday, somehow it mushroomed. Now I dread seeing her because of it.",
-      "characters": [
-        "Jerry",
-        "Babu",
-        "Kramer",
-        "Elaine"
+        "Doctor"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Kramer, I've got some literature in my car that will change your whole way of thinking.",
-      "characters": [
-        "Puddy",
-        "Jerry",
-        "Kramer",
-        "Ned"
-      ],
-      "correctAnswer": "Ned"
-    },
-    {
-      "quote": "So Clare sure looked real funny covered in oil like that…  Hello-o-o-o I got beamed with a giant ball of oil…",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Really? Make sure he signs this. Oh, look George, if there's a problem with Morgan you can tell me.",
-      "characters": [
-        "Wilhelm",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "Uh, yeah, uh, no. Newman, uh, I heard that you found a fur coat in a tree. And, I believe that it belongs to a friend of mine, and I'd like to give it back to him.",
-      "characters": [
-        "Betsy",
-        "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Here you go, Mrs. Seinfeld...with your 25% discount, it comes to $17.80.",
+      "quote": "Oh him! Well this morning I found myself in the elevator with him…",
       "characters": [
         "Elaine",
-        "George",
         "Jerry",
-        "Marty"
+        "Peterman",
+        "Rabbi"
       ],
-      "correctAnswer": "Marty"
-    },
-    {
-      "quote": "See, there are no jerk stores. It..it's just a little confusing, is all.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Gina",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Rabbi"
     }
   ]
 }

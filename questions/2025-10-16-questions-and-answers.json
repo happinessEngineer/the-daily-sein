@@ -1,106 +1,106 @@
 {
-  "gameNumber": 286,
+  "gameNumber": 287,
   "date": "2025-10-16",
   "questions": [
     {
-      "quote": "What happened to you? You were going like a hundred miles an hour.",
+      "quote": "Oh, no, no! That's where it gets interesting! Don't you see? The - the train is bearing down on you, you - you dive into a side tunnel - and you run into a whole band of underground tunnel dwellers!",
       "characters": [
+        "Morty",
         "Elaine",
-        "Jerry",
-        "Ricky",
-        "Ned"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Good, feel good...you know that Jayne Mansfield had some big breasts. Really big, huge...just coming out the top of her dress, they were like, chokin' her.",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "Man",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are you saying, that I'm not good enough for this hideous dress?  Listen Natasha... I wouldn't be caught dead wearing your crummy little euro-trash rags.  I'll meet you outside.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Estelle"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Because my cousin's imbecile dog was rolling around outside and they got in his carpet.",
+      "quote": "Sure. So, uh, Jerry, there's an empty apartment in my building. If you and Hallie want, we could try and hold it, may...",
       "characters": [
-        "Frank",
-        "Leo",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Do you think it might be possible to add a little shelf like, uh, for an alarm clock?",
-      "characters": [
-        "Elaine",
+        "George",
         "Kramer",
-        "Man",
+        "Katya",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "yeah, Kramer, we're, uh, kind of in the middle of something here. We're trying to do a little work..",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You see the thing is we It should have been me. You know, I'm smart. I'm attractive.",
+      "quote": "Okay, Jerry has a friend who has free tickets to the Cayman Islands for this weekend. He's not going.",
       "characters": [
+        "Kramer",
         "Elaine",
         "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, neither should I! Jerry's the one who left the milk in the refrigerator.",
-      "characters": [
-        "Elaine",
-        "Regis",
-        "Kramer",
-        "Jerry"
+        "Newman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Between the car getting totalled, the towing charge and the fine, there's no way I can ever pay him back...",
+      "quote": "Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit!",
       "characters": [
         "George",
-        "Jerry",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah.. look at this, Mickey. These pants are fallin' apart, huh?",
-      "characters": [
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know, you can put that whole schedule right in your daily planner.",
-      "characters": [
-        "George",
-        "Dan",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What's wrong? I'll tell you what's wrong. I just committed adultery!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Man",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He probably doesn't want to get chocolate on his fingers. That's the way these society types eat their candy bars.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Donna"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well that's how my five-year old eats. He's a very picky eater.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Julianna",
+        "Elaine"
+      ],
+      "correctAnswer": "Julianna"
+    },
+    {
+      "quote": "It--eight o'clock in the morning! What the hell is goin' on?!",
+      "characters": [
+        "Doctor",
+        "George",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "...And usually for lunch I'll have a salad, and for dinner, I eat whatever I want.",
+      "characters": [
+        "Julianna",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Julianna"
     }
   ]
 }

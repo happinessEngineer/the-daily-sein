@@ -1,106 +1,106 @@
 {
-  "gameNumber": 741,
+  "gameNumber": 742,
   "date": "2027-01-14",
   "questions": [
     {
-      "quote": "And now I think she might really be interested in you. And Dan is",
+      "quote": "No, no. Mister Peterman, why don't we keep them - as a, as a reference?",
       "characters": [
+        "Ellen",
         "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Hey, you know, I gotta go get these tomatoes. You wanna go for a ride?",
+      "quote": "No should I [continuity error: in fact he SHOULD from the basketball game]",
       "characters": [
-        "Bob",
+        "Keith",
+        "Jerry",
         "George",
-        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Keith"
     },
     {
-      "quote": "What I do? You are one of my favorite ball players of all time",
-      "characters": [
-        "Elaine",
-        "George",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "We did! We pulled it off! I can't believe it! Where's the needle?",
+      "quote": "Yes! And then the handsome young prince was cast out into the cruel, cruel world.",
       "characters": [
         "Jerry",
-        "Mel",
-        "George",
-        "Rick"
+        "Kramer",
+        "Morty",
+        "Rabbi"
       ],
-      "correctAnswer": "Rick"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, too relationshippy. She opens it up, she hears that Laura's theme, I'm dead.",
+      "quote": "I really don't remember, I was kinda out of it for the 1st couple of days, I was on a lot of medication, it was kinda like haze, it was pretty cool",
       "characters": [
-        "Toby",
+        "Tony",
         "Elaine",
-        "Kramer",
+        "Jackie",
         "Jerry"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "Yeah, hey did I see you on TV at the Ranger game? Were those your seats right behind the glass?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Detective",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, he uh, he wants to uh, quit the exporting and uh, focus just on the importing. And it's a problem, because she thinks the exporting is as important as the importing.",
+      "quote": "Kramer, these balloons aren't gonna stay filled till New Year's!",
       "characters": [
-        "Kramer",
+        "Jerry",
         "Elaine",
         "George",
-        "Jerry"
+        "Dana"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Was that the ... opposite ... of what you were going to say, or was that just your natural instinct?",
+      "quote": "Oh, so you just assume that the homeless will eat them, they'll eat anything?",
+      "characters": [
+        "George",
+        "Rebecca",
+        "Woman",
+        "Kruger"
+      ],
+      "correctAnswer": "Rebecca"
+    },
+    {
+      "quote": "I'm fighting that one. You know, this is gonna cost me over six hundred bucks.",
       "characters": [
         "Elaine",
-        "Sylvia",
+        "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Now when you took a sip, did you notice it was hot? Were you able to sip it in your normal fashion?",
+      "quote": "There's nothing pleasant about it, so lets just cut the crap.. You gave me fleas. I know it and you know it..",
       "characters": [
-        "Gary",
-        "George",
-        "Jerry",
-        "Jackie"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "You gotta get back together with Puddy so I can make this deal.",
-      "characters": [
-        "Jerry",
-        "Glenn",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What are you looking at?  Oh, that! We had to leave that outside, last night, because the water was making the room too cold.",
-      "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Jerry"
+        "Kramer",
+        "Jerry",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know why you even bother with this ping pong guy, I'll tell you that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Newman"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 992,
+  "gameNumber": 993,
   "date": "2027-09-22",
   "questions": [
     {
-      "quote": "You know, maybe if you hadn't been sitting there pontificating about what a great parker you were, you might have got the space.",
+      "quote": "Slippery Pete, Kramer tells me you are one hell of a rogue electrician. And shlomo, you're the best truck driver.",
       "characters": [
-        "Elaine",
         "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, what am I gonna do? I'm gonna go in there and spy on her in the sauna?",
+      "characters": [
         "Kramer",
-        "George"
+        "Jerry",
+        "Woman",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Alright, what happened, Frank? What is it that you can't get over?",
+      "quote": "Well Kramer, I have to return this test. I've got to get out of here.",
       "characters": [
-        "Rabbi",
-        "Bonnie",
+        "Ken",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "What? He's - He's out there? Oh, my God. I-I gotta go, I gotta go..",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, I gotta see a dentist, this is killin' me. Well, I'll take a chance. We'll go together.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh hey, Helen uh, Could I uh, use some more of your hand lotion?",
+      "characters": [
+        "Elaine",
+        "George",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "He didn't do anything, Jerry. It's a scam! Who told you to do that?",
+      "quote": "Yeah! Look at me! I was free and clear! I was living the dream! I was stripped to the waist, eating a block of cheese the size of a car battery!",
       "characters": [
-        "Frank",
         "George",
-        "Jerry",
-        "Elaine"
+        "Kramer",
+        "Elaine",
+        "Frank"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh Jerry, that is so sweet of you but actually i already ate.",
+      "quote": "Ho ho ho ho! I can't wait for Hanke to come crawling back to me.",
       "characters": [
-        "George",
         "Jerry",
-        "Morty",
-        "Elaine"
+        "Keith",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, figure this out. I'm in the coffee shop, and this beautiful girl I could never even talk to, mistakes me for her boyfriend.",
+      "quote": "I don't even like to sit next to a man on an airplane 'cause our knees might touch.",
       "characters": [
-        "Nikki",
-        "Frank",
         "George",
+        "Kramer",
+        "Helen",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, speaking of tomato sauce, you want to come with me and George to Mario's Pizza?",
+      "quote": "I know, swan dives from twenty floors up, lands right on top. What do I got a bulls eye up there? He couldn't move over two feet? Land on the sidewalk. It's city property.",
       "characters": [
+        "Elaine",
+        "Mickey",
         "Jerry",
-        "Kramer",
-        "Rebecca",
-        "Rudy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Boy, a little too much chlorine in that gene pool.  And, you know, the thing is, they're never gonna know, no one's ever gonna tell them.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Bania",
         "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, don't you? Joke boy? You really think you can manipulate that beautiful young woman like the half-soused nightclub rabble that lap up your inane \"observations\"?",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Actually I was kind of thinking that maybe we shouldn't see each other for a while.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Abby",
-        "George"
-      ],
-      "correctAnswer": "Abby"
-    },
-    {
-      "quote": "What are you doing? We're going out for dinner in ten minutes.",
-      "characters": [
-        "Morty",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     }
   ]
 }

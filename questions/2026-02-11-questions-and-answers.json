@@ -1,106 +1,106 @@
 {
-  "gameNumber": 404,
+  "gameNumber": 405,
   "date": "2026-02-11",
   "questions": [
     {
-      "quote": "Yeah, your widower story's tested through the roof.  When are you getting out of there?",
-      "characters": [
-        "Jodi",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, at the latest. Oh hang on a second, I gotta another call.",
+      "quote": "I don't understand things were going so great. What happened? Something must have happened.",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "[to himself] Argh! [to Susan] Susan! Hi! Oh, boy! What are you doing here?!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, I made up the part about the car, but the rest is true. And he hated me anyway!",
-      "characters": [
-        "Kramer",
-        "Attendant",
-        "Elaine",
+        "Puddy",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Eh, anti-fur. I mean, who has the energy anymore? This is more about hanging off the arm of an idiot.",
+      "quote": "Come on, I'm tellin' you, it's great. I opened up all the windows... the air is cold, the tub is boiling hot... It's like Sweden, man. Sweeeeden!",
       "characters": [
-        "Kelly",
-        "Elaine",
-        "Izzy",
-        "Marcelino"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Don't go. Kramer! Come back. I got great news. Well, I did it.",
-      "characters": [
-        "George",
+        "Joe",
         "Kramer",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Uh, well, I'll tell you what. Um, I'll give you a check, and then this person can pay me back.",
-      "characters": [
-        "Clerk",
-        "Kramer",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh. Well, I'll tell you, a nice greeting card can really lift a person's spirits.",
-      "characters": [
-        "Amy",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Carl",
+        "Estelle"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, I got to warn him that I told Joe Devola about his party.",
+      "quote": "Ma, you can't look up words in the dictionary!  Dad, she's cheating!",
       "characters": [
-        "George",
+        "Elaine",
         "Jerry",
-        "Hoyt",
-        "Elaine"
+        "Izzy",
+        "Kruger"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look. This plane is *full*. I got a lot of people to serve. Now please... You're just gonna have to wait.",
+      "quote": "Oh! my god. What the hell is this? ..... Don't tell me.......Velvet!!!",
+      "characters": [
+        "Donna",
+        "Nina",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ooooo, I'm scared. . . . Ohoooo they're not going to do the show.",
       "characters": [
         "George",
-        "Kramer",
+        "Peterman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah.( reaches for the purse and finds a piece of paper . he looks annoyed.",
+      "characters": [
+        "Ed",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry you gotta bring me some clothes down here. I lost my job with the Yankees. I'm standing in the men's room on 43rd street in my underpants.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Susan",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Oh! What? He is! Oh! that's fantastic! I'm so excited! Yes I'm excited, OK, OK I'll be in soon! yeah, yeah, I'm coming, I'm coming! OK bye.  Yuri Testikov, the Russian writer!",
+      "characters": [
+        "Jerry",
+        "Levitan",
         "Attendant",
         "Elaine"
       ],
-      "correctAnswer": "Attendant"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it doesn't sound like you completely thought this through.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, there were too many distractions there. Babu...what ever he's name was and Kramer...I couldn't concentrate.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

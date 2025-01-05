@@ -1,106 +1,106 @@
 {
-  "gameNumber": 9,
+  "gameNumber": 10,
   "date": "2025-01-12",
   "questions": [
     {
-      "quote": "Sally, I can't believe you're already doing a One-woman show?",
+      "quote": "Check these out. These are Jerry Lewis' old cufflinks that he actually wore in the movie \"Cinderfella\". I got 'em at an auction.",
       "characters": [
-        "George",
-        "Elaine",
-        "Frank",
-        "Jerry"
+        "Jerry",
+        "Ade",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "There's no fights here, Mr. Costanza. This is a minimum security facility.",
+      "quote": "You're supposed to your face there! Do you see your face in there?",
       "characters": [
-        "Kramer",
-        "Bania",
-        "Betsy",
-        "Jerry"
-      ],
-      "correctAnswer": "Betsy"
-    },
-    {
-      "quote": "They don't want us there, so we're going. We're moving right into Del Boca Vista!",
-      "characters": [
-        "George",
-        "Kramer",
         "Frank",
+        "Donald",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Frank"
     },
     {
-      "quote": "Well this is it. The food is atrocious, but the busboys are the best in the city.",
+      "quote": "Yeah, yeah.  You know, it's a... it's a funny thing about that bird dying. I hid the key in Fredo's food dish. Whoo! That's a weeeird coincidence.",
       "characters": [
-        "Frank",
+        "Ethan",
+        "Jackie",
         "Jerry",
-        "Rudy",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, not recently. I craved. I crave all the time, constant craving...but I haven't yearned.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit!",
-      "characters": [
-        "George",
-        "Maestro",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right. On your bed. You got a headboard? You'll need a headboard.",
-      "characters": [
-        "Jerry",
-        "Frank",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, yeah. Yeah. I love nudist colonies. They help me..unwind. Aah!",
-      "characters": [
-        "George",
-        "Attendant",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So ya know, my friend and I we were going to the movies and we stopped off and bought this cafe latte.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, the tomato's an anomaly. So successful with the ketchup and the sauce, but you can't find a good one.",
+      "quote": "You see? You see? Smart people think this is funny and you want to know why? 'Cause I wrote it.",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, that's right, I didn't. I take full responsibility for the card not being here. I, uh, . . .",
       "characters": [
         "George",
         "Kramer",
         "Jerry",
-        "Cynthia"
+        "Robin"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So, listen to this. But don't tell anyone - Jerry Seinfeld? He got a woman's number off an AIDS walk list.",
+      "characters": [
+        "Susan",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Hey! What are you doing here? I thought I was supposed to call you when I got home.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Hey man, women are really loyal to their birth control methods. What does Susan use?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Guard"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Because Kramer has been swimming laps between the Queensborough bridge and the Brooklyn bridge.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, that is such small potatoes. I think that I may have single-handedly put the kibosh on the big water merger.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

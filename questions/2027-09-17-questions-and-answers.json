@@ -1,106 +1,106 @@
 {
-  "gameNumber": 987,
+  "gameNumber": 988,
   "date": "2027-09-17",
   "questions": [
     {
-      "quote": "Listen, don't take this personally, but when I'm coming back I'm sitting over there.",
+      "quote": "Well, once I didn't have dinner until, like 9:00 o'clock, that was pretty rough.  Hey, do me a favour will ya'? Throw out my garbage for me.",
       "characters": [
-        "Barry",
-        "Newman",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Barry"
-    },
-    {
-      "quote": "Well they're so loud, they're always fighting it's uncomfortable, you never notice?",
-      "characters": [
-        "Helen",
+        "Jerry",
         "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Well, that whole storyline about a guy who gets into a car accident, doesn't have any insurance, so the judge sentences him to be a butler? I didn't really buy that.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Dana",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Dana"
-    },
-    {
-      "quote": "Those meaty paws, I feel like I'm dating George the Animal, .",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "George",
-        "Kramer"
+        "Michael",
+        "Sid"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Good news. We got a 900 in black. That's the hot color.  High-five.",
+      "quote": "George, we can't show up at someone's house with Ring Dings and Pepsi.",
       "characters": [
+        "Morty",
+        "Jerry",
         "Elaine",
-        "George",
-        "Jerry",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "How can you say that? My sister got a ticket last week. Are you saying she's not attractive?",
-      "characters": [
-        "Jerry",
-        "Jodi",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jodi"
-    },
-    {
-      "quote": "Jerry, have you ever seen the movie The Other Side Of Darkness?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Helen",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know what this means? I'm starting the book tour. First stop : Regis and Kathy Lee.",
-      "characters": [
-        "Jerry",
-        "Brody",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Elaine, often times in life there are problems, and just as often there are solutions.",
-      "characters": [
-        "Rabbi",
-        "Steinbrenner",
-        "Jerry",
-        "Darren"
-      ],
-      "correctAnswer": "Rabbi"
-    },
-    {
-      "quote": "I am sorry. It looks like the claim has been red flagged. Your under investigation.",
-      "characters": [
-        "Jerry",
-        "Attendant",
-        "Kimbrough",
         "George"
       ],
-      "correctAnswer": "Attendant"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So, listen, when this guy calls, if you could just give him my real number..",
+      "characters": [
+        "Elaine",
+        "Hanke",
+        "Susan",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You know, I spoke to Manya and Isaac on the phone today. They invited you again. I think you should go.",
+      "characters": [
+        "Helen",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Right here, George. In here.  Try opening this up. You'll find the biggest dating scene in the world.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Wendy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, then get the Hell out of my store, alright? You bring me something decent, I'll give you some money.",
+      "characters": [
+        "Ron",
+        "Kramer",
+        "George",
+        "James"
+      ],
+      "correctAnswer": "Ron"
+    },
+    {
+      "quote": "You see the thing is we It should have been me. You know, I'm smart. I'm attractive.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, thank you!  Mmm, Oh, thank you, Mr Lippman, I can't tell you how much I appreciate this. I mean, of course I deserve it.",
+      "characters": [
+        "Elaine",
+        "Steinbrenner",
+        "Kramer",
+        "Abby"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ya, he said you could never make a commitment to any one and you'd just wind up  hurting me.",
+      "characters": [
+        "Daphne",
+        "Jerry",
+        "Jeannie",
+        "Elaine"
+      ],
+      "correctAnswer": "Daphne"
+    },
+    {
+      "quote": "Listen. I massage who I want, when I want. I don't submit to forcible massage.  I'm getting out of here.",
+      "characters": [
+        "George",
+        "Noreen",
+        "Newman",
+        "Jodi"
+      ],
+      "correctAnswer": "Jodi"
     }
   ]
 }

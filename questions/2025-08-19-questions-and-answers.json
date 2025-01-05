@@ -1,106 +1,106 @@
 {
-  "gameNumber": 228,
+  "gameNumber": 229,
   "date": "2025-08-19",
   "questions": [
     {
-      "quote": "You know, when I was a kid, I once found a dollar and fifty cents in change on the bottom of the pool.",
+      "quote": "Is that it? Got the cue tips, got the mini-umbrella, something boring to read on the plane.  That's it. Done!",
       "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Objection, Your Honor! This is completely inappropriate! My clients' medical condition is not on trial here! I refer you to the Disability Act of 1990.",
-      "characters": [
-        "Chiles",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Chiles"
-    },
-    {
-      "quote": "I'll tell you what that is - that's a violation of club rules. Now I got him! And you're my witness!",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Haven't seen him. There was a short guy with glasses... Looked like Humpty-Dumpty with a melon hat. But he left.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Clerk",
-        "Elaine"
-      ],
-      "correctAnswer": "Clerk"
-    },
-    {
-      "quote": "Move it, move it! Get those knees up! Come on, kick it, kick it!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Izzy"
-      ],
-      "correctAnswer": "Izzy"
-    },
-    {
-      "quote": "Ah! You're fine. There's nothing wrong with you. I'm the one who's dying.",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Kramer"
+        "George",
+        "Frank",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You are not gonna believe this! I told him that I just wanted to be friends. He's fine with it. He really wants to be friends.",
+      "quote": "You know, if I could get this Coco woman down to Kruger, they wouldn't be able to call me Koko anymore because Kruger would never allow 2 Kokos.",
       "characters": [
-        "Gary",
-        "Elaine",
         "Jerry",
-        "George"
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, I don't come down to where you work, and knock the license plate out of your hand.",
+      "characters": [
+        "Simon",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're...",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well what about that number Susan B. Anthony wore to the 19th Amendment party. Hnuh. Eye yye yye.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Daphne",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "We just want to talk to her. We want to apologize and tell her the whole thing was an accident.",
+      "quote": "Alright. The script. Now, I've read this thing three times...and everytime I read it...",
       "characters": [
-        "Jerry",
         "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's not good, okay. It's not good. You look  stupid.  I'm sorry.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Steinbrenner",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I've given this a lot of thought, and I've gotta say...",
-      "characters": [
         "Russell",
-        "Elaine",
-        "Newman",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "What is all the racket back there? You know, you're trying to relax on the plane and this is what you have to put up with. [To attendant] What is going on?",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Mind? Why would I mind? I would love to wait!  Nana, nice to see you. Ni-ni-ni-ni-NANA!  Aunt Phyllis, always a pleasure. What a pleasure! Hey, let's do this again real soon. I had fun, huh?",
+      "characters": [
+        "Maestro",
+        "Kramer",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "We gotta see the new baby anyway, at least we'll get a weekend in the Hamptons out of it.",
+      "characters": [
+        "Jerry",
+        "Bob",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, she's 10 times better than that awful Amber girl that you were with.",
+      "characters": [
+        "Jerry",
+        "Helen",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Helen"
     }
   ]
 }

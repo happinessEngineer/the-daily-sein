@@ -1,81 +1,91 @@
 {
-  "gameNumber": 184,
+  "gameNumber": 185,
   "date": "2025-07-06",
   "questions": [
     {
-      "quote": "She had an itch. She could have used any one of those fingers. That finger was meant for me.",
+      "quote": "One more peep out of you and I'll slice you up like a smoked sturgeon.",
       "characters": [
-        "Lois",
-        "Puddy",
+        "Jack",
+        "Elaine",
+        "Mohel",
+        "Jerry"
+      ],
+      "correctAnswer": "Mohel"
+    },
+    {
+      "quote": "Slapping hands is the lowest form of male primate ritual. In fact, even some of them have moved on - they're doing sign language now.",
+      "characters": [
+        "Peterman",
         "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, hey, hey! What's goin' on here?  You didn't agree to anything, did ya?",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Mike",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Ah, this is great. Alright, well, where is the mechanic? I'll just go and pick 'em up myself.",
+      "quote": "And the two and one pitch to O'Neill. A towering shot back to deep right field and it's gone.",
       "characters": [
-        "Wendy",
-        "Elaine",
-        "Jerry",
-        "George"
+        "Tim",
+        "Kramer",
+        "Tv",
+        "Helen"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Tv"
     },
     {
-      "quote": "Yeah. He's really got a good thing with her. In fact I'm doubling with them tonight.",
+      "quote": "Jerry, check this out.  Remember my idea about rickshaws in New Youk? Well, we're gonna make it happen!",
       "characters": [
-        "Sandi",
-        "Kramer",
+        "Elaine",
+        "Jerry",
         "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I think that's the statue from my house. That looks like the statue from my house!",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Leo",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, think. Don't you remember you kept begging me to see it then finally I agreed. You were supposed to return it. I met you in the gym locker room.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Estelle",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well then what are all those ties and sport jackets doing in my closet?",
+      "quote": "\"Matthew, Luke, Paul\", what you're cheating on your conversion chest?",
       "characters": [
         "George",
         "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hello?...yeah, I can be there in 10 minutes...you can count on me!",
-      "characters": [
-        "Elaine",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, I really like those new jeans Jerry was wearing. He's really thin.",
-      "characters": [
-        "Susan",
-        "Kramer",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "Susan"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's like the manager coming out and asking you for the ball.",
+      "quote": "She knew I didn't have a job, she knew I lived at home. Didn't seem to bother her. I think I could have married this woman.",
       "characters": [
-        "Newman",
+        "Ben",
+        "Jerry",
+        "George",
+        "Ed"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I didn't really tell Susan about it, and she doesn't really have anything else to do.",
+      "characters": [
+        "Elaine",
         "Jerry",
         "Kramer",
         "George"
@@ -83,24 +93,14 @@
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh you know what happened. Some guy from the Post Office confiscated them. He left his card.",
+      "quote": "Well, if you're just gonna throw it out, you know, I could take it.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Ron"
+        "Kramer",
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Ron"
-    },
-    {
-      "quote": "I don't know what to believe! You're eating unions, you're spotting dimes, I don't know what the hell is going on.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Frank",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

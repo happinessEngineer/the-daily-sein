@@ -1,103 +1,103 @@
 {
-  "gameNumber": 306,
+  "gameNumber": 307,
   "date": "2025-11-05",
   "questions": [
     {
-      "quote": "Well, I saw Mom and Pop this morning, but when I went by the store on my way home? The place was empty. Everything is gone. Mom and Pop - vrooop - vanished.",
+      "quote": "Yes, yes. The quality, the texture, the intoxicating aroma. These guys don't have it.",
       "characters": [
-        "George",
-        "Herb",
-        "Jerry",
-        "Kramer"
+        "Kramer",
+        "Greg",
+        "Elaine",
+        "Peterman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I was always late. It was frustrating me. I'm sorry, I really am.",
+      "quote": "He's proposing a plan where everyone in the city should wear name tags.",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, in fact she said that you could be one of those people that sits in the back and answers the phone.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Kruger",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm here to clean the carpets. Most of the world is carpeted. And, one day, we will do the cleaning.",
-      "characters": [
-        "Kramer",
-        "Wilhelm",
-        "Stan",
-        "Elaine"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "Ah,  whether you're aware of it or not George had this pathetic little plan to, leave something behind so he could weasel a second date.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Man",
-        "Kramer"
+        "Kramer",
+        "Jerry",
+        "Jack"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Unbelievable, I'm never gonna get out of here. The guy goes to pee, he never comes back. It's like a science fiction story.",
+      "quote": "Well, he'd been logging some pretty heavy hours, first one in in the morning, last one to leave at night.  That kid was a human dynamo.",
+      "characters": [
+        "Joe",
+        "Jerry",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "After Dinkins lost the election, he had a complete nervous breakdown. They had to lock him up.",
       "characters": [
         "George",
-        "Kramer",
         "Jerry",
-        "Clerk"
+        "Rebecca",
+        "Steinbrenner"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "See ya, Jerr.  And tell Kramer thanks and I'll call him tomorrow.",
+      "quote": "Well, don't tell it to me George, tell it to the new Assistant to the General Manager.",
       "characters": [
+        "Kevin",
+        "Patrice",
         "Jerry",
-        "Elaine",
-        "Ray",
-        "Steve"
+        "Steinbrenner"
       ],
-      "correctAnswer": "Steve"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "My car's totaled. It's all his fault and now, he has absolutely no money. There is no way that he can pay me. So the judge decrees that he becomes my butler.",
+      "quote": "Look, they have it in blue...for my baby bluey. Are you my baby bluey?",
       "characters": [
+        "Jerry",
+        "Kramer",
+        "Susan",
+        "Elaine"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Here, here. Jerry Seinfeld, I cannot believe you're doing this. This is absolutely infantile.",
+      "characters": [
+        "Jack",
         "George",
         "Jerry",
-        "Newman",
-        "Rava"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "... she sent me an invitation was that so I'd send her a gift.",
-      "characters": [
-        "Elaine",
-        "Morty",
-        "Jerry",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hu-Yeah, interest. It's an amazing thing. You make money without doing anything...",
+      "quote": "Vivian left me a message. I guess a certain someone changed her mind about whether someone was responsible enough to watch certain other someone.",
+      "characters": [
+        "George",
+        "Doctor",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, what are you doing tomorrow? I was thinking that we could go down...",
+      "characters": [
+        "Melissa",
+        "Elaine",
+        "Jerry",
+        "Captain"
+      ],
+      "correctAnswer": "Melissa"
+    },
+    {
+      "quote": "Ehh.  Remember that summer at Dairy Queen where I cooled my feet in the soft-serve machine?",
       "characters": [
         "Elaine",
-        "Kramer",
         "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"

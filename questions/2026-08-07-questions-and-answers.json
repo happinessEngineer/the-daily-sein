@@ -1,106 +1,106 @@
 {
-  "gameNumber": 581,
+  "gameNumber": 582,
   "date": "2026-08-07",
   "questions": [
     {
-      "quote": "Look at that woman feeding her baby greasy, disgusting, coffee shop corned beef hash. Isn't that child abuse?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What about Saturday nights? Do you have to ask her out, or is a date implied?",
+      "quote": "She and Jerry were a big thing, like Abe Lincoln and Mary Todd.",
       "characters": [
         "Kramer",
-        "George",
         "Jerry",
-        "Elaine"
+        "Elaine",
+        "Morty"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, I told her to call me here and to tell anyone who answers the phone to ask for a balding, stocky man with glasses. I better tell him I'm expecting a call.",
+      "quote": "It's got a few more miles on it, but the previous owner was John Voight.",
       "characters": [
-        "Elaine",
+        "Jack",
         "George",
-        "Hal",
-        "Jerry"
+        "Jerry",
+        "Salesman"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "Oh! no right away, chop, chop........Oh! a new cartoon.....\"I wish I was taller  I'd like to see that complaint get rectified.",
+      "characters": [
+        "George",
+        "Frank",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "There's no house! It's a lie! There's no solarium. There's no Prickly Pete. There's no other solarium.",
+      "characters": [
+        "Morty",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, you're very welcome. So, I guess I better get going. Gotta meet mother a t the Guggenheim. Sure you don't want to go?",
+      "quote": "No see, he's not smart. People think he's smart, but he's not.",
       "characters": [
-        "Sid",
         "Jerry",
-        "George",
-        "Julie"
-      ],
-      "correctAnswer": "Julie"
-    },
-    {
-      "quote": "The only way out of this is if Leo breaks up with his girlfriend and has to move back into the apartment and then they would have to go back to Florida.",
-      "characters": [
+        "Mickey",
         "Elaine",
-        "Jerry",
-        "Clerk",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, well, maybe I'll just go down there and thank him in person.",
+      "quote": "You know I-I'm having a lot of trouble, um, hearing you back here. So...",
       "characters": [
+        "Karen",
         "Elaine",
-        "George",
-        "Ray",
-        "Kramer"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Okay, look, uh, when you're in Florida, can my cigar guy drop off some Cubans for me at your parents' house?",
+      "quote": "Here, check out this view.  If you lean out this window, you can see the river.",
+      "characters": [
+        "Bonnie",
+        "George",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "Bonnie"
+    },
+    {
+      "quote": "Oh, well that's where the rally is. The Paramount, right next door.",
+      "characters": [
+        "Elaine",
+        "Keith",
+        "Dan",
+        "Wyck"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "Mrs. Landis, there's something wrong with this copying machine, it's all coming out slanted. Now, I don't know if this is your department or not.",
       "characters": [
         "Kramer",
-        "Marcy",
+        "Jerry",
+        "Elaine",
+        "Pitt"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "\"Well this afternoon I shared a cab with this...a hum..DEENSFREI:.\"",
+      "characters": [
+        "Kramer",
         "George",
+        "Bania",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, the little father has run his hard out. They're gonna break his maiden.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Kruger",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He wants to meet you? I'll tell you what. I'll show up. He doesn't know we're friends. I'll pretend I haven't seen you since High School. I'll back up the story.",
-      "characters": [
-        "George",
-        "Jackie",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "In the whole world right now, there's maybe three emergencies. Why would you think, on this entire planet, that you're one of those three?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Bob"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

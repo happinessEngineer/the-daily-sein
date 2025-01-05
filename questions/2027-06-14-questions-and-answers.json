@@ -1,103 +1,103 @@
 {
-  "gameNumber": 892,
+  "gameNumber": 893,
   "date": "2027-06-14",
   "questions": [
     {
-      "quote": "I dunno.  Oh, 'cos you said you'd give the bike to anyone who fixes your neck.",
+      "quote": "Alright, I just have to go over to the Ross' apartment and drop off Susan's sunglasses. You'll come with me?",
       "characters": [
-        "Kramer",
-        "Newman",
+        "Ade",
+        "Jerry",
         "Elaine",
-        "Jerry"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, take you for example. Now, you're very attractive, but you got a big waist.",
+      "quote": "How about when Harrison Ford jumped out of that plane, and he was shooting back at them as he was falling?",
       "characters": [
         "Kramer",
         "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"Did you notice he always refer to himself in the third person. Jimmy can dunk. Jimmy's new in town. Jimmy we'll see you later.\"",
+      "quote": "So anyway, he sings, he dances. And do you know what he's gotten into now? He is cooking! He does a crepe...",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
+        "Woman",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "Well it's probably just easier to say \"water cooler show\" than \"coffee machine show.\"",
+      "quote": "You know, there are 200 people who work in this office. Every day is somebody's special day.",
       "characters": [
         "Kramer",
+        "Elaine",
         "George",
-        "Jerry",
-        "Salesman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I'm sorry, I require twenty-four hours notice for a cancellation. Now, as I see it, you owe me seventy-five dollars.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Wendy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Don't get me wrong, Mr. Lippman. I-I'm very flattered that you found me attractive enough to... lunge at me. Huh. But the only reason you like me is because I'm a shiksa.",
-      "characters": [
-        "George",
-        "Barry",
-        "Morty",
-        "Elaine"
+        "Alec"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Now that's a great looking shirt!  Aye Captain!  Yeah! I'm glad I ironed it. It's perfect.  Look at it! It's fantastic!",
+      "quote": "I know, I just can't bring myself to do it meanwhile that freezer keeps getting smaller and smaller   oh, don't wanna keep Tony waiting",
       "characters": [
         "Jerry",
-        "Man",
-        "George",
-        "Kramer"
+        "Elaine",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey! Great plane! Thanks a lot. Piece of junk. You know you almost got us killed!",
+      "quote": "I know I don't want it! I don't need you to tell me what I don't want, you stupid hipster dufus!",
       "characters": [
-        "Kramer",
-        "George",
         "Elaine",
+        "Heather",
+        "Morty",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Why are they using so many colors? And the numbers go up to forty.",
-      "characters": [
-        "Gail",
-        "Phil",
-        "Jerry",
-        "Elaine"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "...and I brought I whole new set of cookware, and a Water Pik.",
+      "quote": "Yeah, well... We're trying... But he just went insane there for a while...",
       "characters": [
-        "Bania",
-        "George",
+        "Noreen",
+        "Judge",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Noreen"
+    },
+    {
+      "quote": "I'm not paying four hundred dollars! I don't even want the thing. What are you going to do?!",
+      "characters": [
         "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh the baby's fine. They just took him to the hospital as a precautionary measure. But look at me. I'm the one who's hurt.",
+      "characters": [
+        "George",
+        "Steinbrenner",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know I know. I didn't have change for the bus and they don't give change in this city. So they threw me off the bus",
+      "characters": [
+        "Helen",
+        "Ralph",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"

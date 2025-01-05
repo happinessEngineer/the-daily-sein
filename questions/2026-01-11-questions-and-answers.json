@@ -1,106 +1,106 @@
 {
-  "gameNumber": 373,
+  "gameNumber": 374,
   "date": "2026-01-11",
   "questions": [
     {
-      "quote": "I have to go to the bathroom. Why do they hide the bathroom in these malls?",
+      "quote": "All right. Oh, hey, I think you're gonna like my first my third choice.",
       "characters": [
-        "Elaine",
-        "George",
-        "Susan",
-        "Jerry"
+        "Joel",
+        "Landlord",
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Joel"
     },
     {
-      "quote": "What about your side? Your cousin Hennie.  She was sickly from the moment I met her!",
+      "quote": "Our neighbor that you... turned against.  Anyway, I told him it'd be fine with us if he wanted to let it stretch its wings out in the hallway.",
       "characters": [
-        "Frank",
-        "Marcy",
-        "George",
-        "Beth"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "There's Jean-Paul! He's up front! He's leading!  Go Jean-Paul!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Manager",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah. We've been coming here everyday. This is so fucking good.",
-      "characters": [
-        "Peterman",
         "Kramer",
+        "Jerry",
         "George",
-        "Jerry"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's a little unusual. So, uh, Susan and I were thinking, uh, dinner at our house Saturday night. Just the four of us.",
+      "quote": "Ah, I'm sorry uh, that I doubted you. Whatever you need, just uh, make yourself at home.",
       "characters": [
         "Clerk",
-        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Clerk"
+    },
+    {
+      "quote": "All right, remember: no rust-proofing. Commit to nothing. If you have to speak - mumble.",
+      "characters": [
+        "Allison",
+        "Cynthia",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You got it ALL wrong. I was thinking only of the poor Krakatoans",
+      "quote": "Now, if this mechanic guy, was, in fact, eating a 5th Avenue bar, as he claims, wouldn't you agree he would have no problem picking one out from a candy line-up?",
       "characters": [
-        "George",
+        "Newman",
+        "Jerry",
         "Elaine",
-        "Kruger",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, what happened? I thought Cheryl was gonna help Babu get his Visa.",
+      "characters": [
+        "Holly",
+        "Elaine",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, thank you so much.  Thank you so much, Mr..  Camaro.  Mr. Casea?  Well, whatever.  I'm gonna take this to the Maestro. He's, he's playing at the Queens Convalescent Center.",
+      "quote": "Yeah, I'm goin' there today. In fact you should see this house keeper he's got. She's from Senegal [and, ala Carson] Wild, Wild, Stuff...",
       "characters": [
-        "Elaine",
         "Jerry",
+        "Elaine",
         "Kramer",
-        "Testikov"
+        "Puddy"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You like that, huh? I had that custom made for me in Santa Fe.",
+      "quote": "Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "For me? Go...Yeah, what tonight? Yeah, I'll be there...Yeah later.  Well, somebody's baby-sitting.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know what Elaine is so upset about. I mean, without dessicates, those clothes'll be noticeably musty in five years.",
       "characters": [
         "Estelle",
-        "Lippman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "She's having Carol, Gail and Lisa over. You know they all have kids now?",
-      "characters": [
-        "Susan",
-        "Helen",
+        "Steinbrenner",
         "George",
-        "Jerry"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, that's one hell of a gig.  Hey, look, I got something for you. The Ori-dent!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

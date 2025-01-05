@@ -1,106 +1,106 @@
 {
-  "gameNumber": 385,
+  "gameNumber": 386,
   "date": "2026-01-23",
   "questions": [
     {
-      "quote": "I'm out! Fantastic apartment right across from mine, huh. I can't wait for you to see it.",
+      "quote": "There was this beautiful woman walking down the street wearing *just* a bra.  I can't get that image out of my mind.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know. This was like a record. My previous record was when Joni Hirsch asked me not to tell anybody that we slept together. Kept a lid on that for about 28 seconds.",
       "characters": [
         "George",
-        "Elaine",
         "Jerry",
-        "Waiter"
+        "Morty",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, yeah. Anyway, uh...we're going into business together. Remember that idea I had a few years ago about the pizza place where you make your own pizza?",
+      "quote": "horning on my rock climbing trip. It's just supposed to be me and Tony",
       "characters": [
+        "Puddy",
         "Kramer",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You think you're so damn special because you say 'God bless you'?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Michael",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Yeah, Frank Costanza, he's getting me a room at his lodge. So Jerry, you know I'm really counting on you to come to this.",
+      "characters": [
         "Peterman",
+        "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well if there was some problem with the garment. If it were unsatisfactory in some way, then we could do it for you, but I'm afraid spite doesn't fit into any of our conditions for a refund",
+      "quote": "Did I have a great time with David Lickner last night? I sure did.  Do I think there is a future here? I don't see why not.",
       "characters": [
-        "Teller",
-        "Steinbrenner",
-        "Kramer",
-        "Gino"
-      ],
-      "correctAnswer": "Teller"
-    },
-    {
-      "quote": "Boys, this is Elaine. . . . Sorry, they're usually very friendly. Hey!",
-      "characters": [
-        "James",
         "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "James"
-    },
-    {
-      "quote": "Gee, I don't know. What if we're out somewhere and you see the Maytag repairman.",
-      "characters": [
-        "Puddy",
-        "Elaine",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "Could you do me a favor? Um, when my friends call, could you not talk to them for too long?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "Susan"
+        "George",
+        "Frank",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "That's funny. As it happens, I saw the same shooting star and double-wished you, to drop dead.  Here's your change.",
+      "quote": "Well, this is one for the books, huh, Jerry?... Reeeally one for the books!",
       "characters": [
-        "Fdr",
-        "Julie",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Fdr"
-    },
-    {
-      "quote": "Wow! Heh.  You don't, huh, have a replacement lined up for me, do ya? heh he he he he he...",
-      "characters": [
-        "George",
-        "Jake",
+        "Jerry",
         "Kramer",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What about \"Sonia Live\"? Now you're not cancelling \"Sonia Live\"?",
-      "characters": [
-        "Sid",
         "George",
-        "Kramer",
-        "Sidra"
+        "Craig"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "How can I figure out if there's any places to rent in Tuscany? Wait a minute. Poppy's from Tuscany. I'm gonna go call him.",
+      "quote": "And so much personality! But, it doesn't matter what we think. Do you like her?",
       "characters": [
-        "Carol",
         "Kramer",
-        "George",
-        "Jerry"
+        "Jerry",
+        "Helen",
+        "Kevin"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "Hunh, You know, it's the damnedest thing. I went out the window again to, to get a cup of coffee...",
+      "characters": [
+        "Jerry",
+        "Eddie",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y'know what? This would be a really funny gift for Pamela's birthday.",
+      "characters": [
+        "Kramer",
+        "Donald",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

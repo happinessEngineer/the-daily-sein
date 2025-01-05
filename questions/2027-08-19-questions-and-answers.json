@@ -1,41 +1,21 @@
 {
-  "gameNumber": 958,
+  "gameNumber": 959,
   "date": "2027-08-19",
   "questions": [
     {
-      "quote": "Hennigans. I was there sitting in the office and the cleaning woman comes in. I've always been attracted to cleaning women. Cleaning women, chambermaids.",
+      "quote": "I mean, she's giving and caring and genuinely concerned about the welfare of others - I can't be with someone like that!",
       "characters": [
-        "Jerry",
-        "Sylvia",
         "George",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Absolutely. Because instead of doing a wash, I just keep buying underwear. My goal is to have over three hundred and sixty pair. That way, I only have to do wash once a year.",
-      "characters": [
-        "Frank",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Okay, Cosmo, we're back in business. Let's check out the board. Now, who do you like?",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "Newman",
-        "Earl"
+        "Rick",
+        "Elaine"
       ],
-      "correctAnswer": "Earl"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know. They've been in there since, like, World War II. The rent's three hundred a month.",
+      "quote": "Well, that's what you get for getting mixed up with a face painter.",
       "characters": [
-        "Newman",
+        "Morty",
         "George",
         "Elaine",
         "Jerry"
@@ -43,64 +23,84 @@
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Cold? How are you going to do that? You're not one of those guys.",
+      "quote": "Uh, yeah. I found it on the street. It's gotta be worth something.",
       "characters": [
-        "Carol",
         "Jerry",
-        "Rick",
+        "George",
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Did I need that pointed out for me? What is that going to do for me? How does that help me, to see her? I'm trying to live my life. Don't show me that.",
+      "characters": [
+        "Kramer",
+        "Joel",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Huh... Thursday is no good because we've got to get to the hospital to see if we qualify as those organ donors.",
+      "quote": "Yeah, and him too. What?! Oh, yeah! I think George is calling me, so I'm gonna go give him a hand. Come on! Come on!",
       "characters": [
+        "Alec",
         "Jerry",
         "Kramer",
-        "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"Well...there's no room for someone like that in this organization.\"",
+      "quote": "George, anything you have to say to her, you can say in front of me.",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Poppie",
         "George",
-        "Frank"
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "No! We have to go to Schnitzer's! I'll show these people something about taste!",
-      "characters": [
-        "George",
-        "Kramer",
-        "Marcelino",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Yeah, yeah, I got the biggest one they had. It's industrial strength. 16000 BTU's.",
+      "quote": "wouldn't it be invisible? I mean, what, are you going to just sense it's in front of the couch?",
       "characters": [
         "Elaine",
-        "George",
+        "Landis",
         "Kramer",
         "Jerry"
       ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about Harrison Ford? He had one in, uh, Blade Runner. That was a cool one.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, all right, who looks better in this shirt? Me or Mickey?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Daphne"
+      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's disgusting. I'm sitting there in a tepid pool of my own filth. All kinds of microscopic parasites and organisms having sex all around me.",
+      "quote": "Yeah, I finally got to see Dr. Kazarian. He said it was really bad.",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

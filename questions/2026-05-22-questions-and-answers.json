@@ -1,106 +1,106 @@
 {
-  "gameNumber": 504,
+  "gameNumber": 505,
   "date": "2026-05-22",
   "questions": [
     {
-      "quote": "I know, I hated those kids. In fact, I hate anyone that ever had a pony when they were growing up.",
+      "quote": "I'll give you back your spare keys - but now I want mine back.",
+      "characters": [
+        "Steinbrenner",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look at that, Helen do you see what he's wearing? That's the Executive.",
       "characters": [
         "George",
-        "Elaine",
+        "Newman",
+        "Deena",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "What I do? You are one of my favorite ball players of all time",
+      "characters": [
         "Jerry",
-        "Carl"
+        "Elaine",
+        "Frank",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "On the other hand, you take a guy like George Washington Carver.  The man devoted his whole life to the peanut.  Imagine having so much passion for something.",
+      "quote": "I thinks it's kind of a pompous look. You know my parents used to have a kitchen chair that would have been perfect.",
       "characters": [
         "Elaine",
-        "Greg",
-        "Guy",
-        "George"
+        "Jerry",
+        "Kramer",
+        "Morty"
       ],
-      "correctAnswer": "Guy"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, all you have to do is pay the full fare now, then return to any one of our counters with a copy of the death certificate, and we'll refund half your fare.",
+      "quote": "Well, the whole deal going down tomorrow. Morty's gonna miss his plane for it.",
       "characters": [
-        "Newman",
-        "Clerk",
-        "George",
+        "Stationer",
+        "Margaret",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Clerk"
-    },
-    {
-      "quote": "Elaine, up until a moment ago, I was convinced that I was on the receiving end of one of the oldest baker's grift in the books--The Entenmann's shim-sham.",
-      "characters": [
-        "Elaine",
-        "Peterman",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Or is it because I've built a stronghold around Greenland?  I've driven you out of Western Europe and I've left you teetering on the brink of complete annihilation.",
-      "characters": [
-        "Kramer",
-        "Jackie",
-        "George",
-        "Frank"
-      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ok, everybody, uh...I have an announcement to make. From now on, I will be known as-",
+      "quote": "Ah, I sat too close to the screen. Oh. I just gotta stretch out in a hot bath. It was nice to see you again, Lloyd.",
       "characters": [
-        "Kramer",
+        "Elaine",
         "Jerry",
-        "Manager",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, it's being framed right now. I don't even know what it costs.  Not, uh, too expensive, is it?",
+      "characters": [
+        "Tim",
+        "Betsy",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright, I'll tell you, but your begging needs a lot of work.",
+      "quote": "Why?! Because you were stabbed, and.. got coffee thrown in your face, and.. uh..",
       "characters": [
+        "Puddy",
         "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Y'know you've given this comedy thing your best shot. Yeah, you had some good observations, but it's over. Now, this Bloomingdale thing, that could be the next wave.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Susan"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "My censor quit two years ago. He checked into a clinic. Emotionally exhausted.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Marla"
+        "Ken",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Look! You were right, I was wrong! You don't have to humiliate me about it, alright!",
+      "quote": "Now listen , promise me you won't tell him Okay.I want to have a little fun with this.",
       "characters": [
-        "Clerk",
+        "Lippman",
         "Jerry",
         "Elaine",
-        "Steinbrenner"
+        "Kramer"
       ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hellooo Jerry. What a rare treat. What brings you down to the east wing?",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
     }
   ]
 }

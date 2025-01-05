@@ -1,106 +1,106 @@
 {
-  "gameNumber": 848,
+  "gameNumber": 849,
   "date": "2027-05-01",
   "questions": [
     {
-      "quote": "You know I hear Mr. Steinbrenner can be a bit erratic. I would hate to see him when he's hungry.",
+      "quote": "I'll book a hotel, do you want a standard room or mini suite?]",
       "characters": [
-        "Newman",
+        "Jerry",
+        "Woman",
         "Kramer",
-        "Puddy",
-        "Jerry"
+        "Kate"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kate"
     },
     {
-      "quote": "Y'know what it is? It's \"Clara Nightingale Syndrome.\"  He falls ill; she falls in love.",
+      "quote": "Ha.Ha.Ha. ha...You don't have any money. I make more money than you do. ha. ha. ha. Yeah.. give me the papers I'll sign 'em. a pre-nup...",
       "characters": [
-        "Elaine",
-        "Lippman",
+        "Susan",
+        "Woman",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's, uh, it's not a little chicken.  Little chicken. It's a gamebird.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Poppie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, I took the liberty of packing your things.  Mom's coming to get you.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "And then, I was on such a... high, that I went upstairs to the salon on the fifth floor, and got a massage and facial, and skipped out on the bill.",
-      "characters": [
-        "Marcy",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Marcy"
-    },
-    {
-      "quote": "I'm sorry I'm sorry, here's the test. Thanks again for doing this - hhe.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Raymond",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Yoohoo ,Plenty......Wh..wh..what are doing hum...you're going in?",
-      "characters": [
-        "Kramer",
-        "Harold",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'm calling the shots around here so there won't be anymore ACCIDENTS!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "The city's probably teeming with people who've been waiting out that marriage.",
+      "quote": "You tellin' 'em about the butler story? Is that beautiful or what? Hey, sorry I'm late.  Russell?",
       "characters": [
         "Kramer",
         "Jerry",
         "George",
-        "Susan"
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, this is an unexpected surprise – and delight! The once and future king of comedy, Jerry the First, gracing our humble abode. Rava, we're in the presence of royalty.",
+      "characters": [
+        "Ray",
+        "Steinbrenner",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Yeah, it wasn't ready on time. I have to return it after the show.",
+      "characters": [
+        "Wendy",
+        "Doorman",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's all fresh. Fresh fish, fresh foul, fresh fruit. I buy it, I omniga nominga, I eat it.",
+      "quote": "Just call me if you hear anything.  Well? I cashed the checks, the checks bounced and now my Nana's missing!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!",
+      "characters": [
+        "George",
+        "Doctor",
+        "Kruger",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It doesn't have to be someone who gets a lot of women. It could be just some guy with a big ass.",
+      "characters": [
+        "George",
+        "Rick",
+        "Jerry",
+        "Holly"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. Huh? You know who I saw at the health club? Salman Rushdie.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Elaine",
-        "Ray"
+        "Carol",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I don't know. How could I possibly have ulcers? Who could have given me ulcers?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

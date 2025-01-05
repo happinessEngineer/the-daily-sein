@@ -1,106 +1,106 @@
 {
-  "gameNumber": 287,
+  "gameNumber": 288,
   "date": "2025-10-17",
   "questions": [
     {
-      "quote": "Ah, listen, George, what else can I do with these guys? Now, bear in mind, they're a little light on the yen.",
+      "quote": "Alright, come on, Newman. Now you gotta help me! What am I gonna do about FDR?",
       "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
-        "George"
+        "George",
+        "Jackie",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, no.  Kramer, you don't understand. He made the last contact between us. I had the upper hand in the post-breakup relationship. If he thinks that I said hi, then I lose the upper hand.",
+      "quote": "Anyway, he's in the hospital, he's having surgery and I feel like should go visit him.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Rick",
-        "George"
+        "George",
+        "Helen",
+        "Helena"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, then the waitress, she comes up and she tells me to shut up or they're gonna throw me out.",
+      "quote": "Boy, I really liked the two of you much better when you weren't a couple.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Woman",
-        "George"
+        "Stu",
+        "Peterman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Listen I was talking to Elaine today and she said she'd would really like to be an usher at the wedding",
+      "quote": "So if the coma victim wakes up in a month, he's thrilled, he got out of the coma. He goes home, there's nothing left?",
       "characters": [
-        "Vivian",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, why don't you guys get a table so you'll have good seats?",
-      "characters": [
-        "Jerry",
-        "Captain",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Elaine? It's me, George.  Hey, sorry to bother you so late.  Hey! How ya doin.'  Uh, did you get any of those sponges?",
-      "characters": [
-        "Frank",
         "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I took two bites, how am I finished?  Plus you're coming down with something? You want me to get sick?  Bite?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
         "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, isn't an architect just an art school drop-out with a tilty desk, and a big ruler?",
+      "quote": "You know I'm sorry things didn't work out with Elaine. I don't know what I did wrong.",
       "characters": [
-        "Steven",
-        "Elaine",
-        "Jerry",
-        "George"
+        "Phil",
+        "Jodi",
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Steven"
+      "correctAnswer": "Phil"
     },
     {
-      "quote": "\"Hey! Hey! listen ... Do one of you guys know that ..that blond guy who's always on the exercycle at the health club. You know he's just really handsome?..\"",
+      "quote": "All right. Don't change me. Susan. Don't change me. Ya know there are a lot of woman that would love to be in your position right now.",
       "characters": [
-        "Jerry",
         "George",
+        "Jerry",
         "Elaine",
-        "Manny"
+        "Worker"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "... Uh, go ahead, yeah.  Alright uh... Yeah, yeah, okay... I look forward to it too.  Eh, hah, okay. So long.",
+      "quote": "Yeah. A couple of people. I don't get that, though. Where do you start?",
       "characters": [
+        "Kramer",
         "Elaine",
         "George",
-        "Guy",
+        "Monica"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She can't even afford to go out to lunch. She's been eating in a high school cafeterias She pretends to be a teacher. It's pathetic.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well actually we talked about you. Yeah. He had some pretty interesting things to say.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What do you mean not goin'? Come on, we got plans here. Call her up.",
+      "characters": [
+        "Earl",
+        "George",
+        "Bookman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

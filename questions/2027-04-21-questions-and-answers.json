@@ -1,106 +1,106 @@
 {
-  "gameNumber": 838,
+  "gameNumber": 839,
   "date": "2027-04-21",
   "questions": [
     {
-      "quote": "No-no-no, Kramer. Kramer! Kramer! You *cannot* abandon people in the middle of an airport pickup! It's a binding social contract. We... we must go forward... not back.",
+      "quote": "No, I met someone at this party, and I know where she works, but I don't know her name.",
       "characters": [
-        "Frank",
-        "George",
-        "Dan",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Let go, Farfel! Let go, gimme that! Gimme the sneaker you stupid idiot! Shut up!  So what would you do?",
-      "characters": [
-        "Valerie",
-        "Kramer",
         "Jerry",
-        "George"
+        "Kramer",
+        "George",
+        "Kate"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ha ha ha ha!!! That's killer! Killer! I love that! Ha ha ha!!! You gotta use that, that's a definite!! Ha ha ha!!!",
+      "quote": "You've got some nerve. I almost break my neck in that death-trap of yours, and now you ask me for a favour!",
       "characters": [
+        "Jack",
         "Jerry",
-        "Mike",
         "Kramer",
-        "Bania"
+        "Cop"
       ],
-      "correctAnswer": "Mike"
+      "correctAnswer": "Jack"
     },
     {
-      "quote": "Well as a woman, it makes no sense. But, I mean, let's say I was you. And I decided I was gonna change my name for no real reasons whatsoever-- Deon Rifkin. Wow! That is so cool.",
+      "quote": "Well, uh.. it hurts when he swallows. Expecially when he drinks orange juice.  I mean, uh.. dog food.. juice.  What's worse - he has a nagging cough.  Yeah, that's it. That's it.",
       "characters": [
-        "Jake",
-        "Kramer",
+        "Nina",
+        "Jerry",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, hey, hey! All right! Yeah, uh, yeah.. well.. Uh, the pants. they, uh, they fit, uh, well - and so I, uh, decided I wasn't gonna return them!  Wooh-hoo-hoo-hoo!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Tom"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, after we met, you were all so nice. I just couldn't go through with it. But between you and me, you would have paid through the nose.",
+      "quote": "O-kay ... well then your teeth are green for a different reason. You just gotta stop carrying these, okay? Just ... just mouth wash.",
       "characters": [
-        "Jerry",
-        "Marcy",
-        "Peterman",
-        "Cheryl"
-      ],
-      "correctAnswer": "Cheryl"
-    },
-    {
-      "quote": "She hasn't seen the article! When she sees it, she's gonna think-- *I'm out baby*!! I'm out!!!!!",
-      "characters": [
+        "Elaine",
+        "Newman",
         "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Kramer, what are you talking about...Janet doesn't look anything like Jerry",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look Mister Costanza, it's too late now anyway. I already made a deal with another writing team.",
+      "quote": "All right, Elaine but this is beyond news. This is like Pearl Harbor. Or the Kennedy assassination. It's like not even news. It's total shock.",
       "characters": [
         "Jerry",
-        "Elaine",
         "George",
-        "Russell"
-      ],
-      "correctAnswer": "Russell"
-    },
-    {
-      "quote": "Look at this poor guy. His family is probably in Pakistan -- they're waiting him to send back money. This is horrible.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Keith",
-        "George"
+        "Allison",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "oh look at that I got oil all over me. Can I have your napkin?",
+      "characters": [
+        "Barry",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, I really liked her. We talked. We flirted. And when she left, she reached out and touched my arm.",
+      "characters": [
+        "Susan",
+        "Newman",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, she's a Kramer. And uh, while I was there I uh happened to pick up another juicy little nugget about our friend.",
+      "characters": [
+        "George",
+        "Jerry",
+        "James",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.",
+      "characters": [
+        "Tor",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Tor"
+    },
+    {
+      "quote": "You know, you should tell your dad that 'serenity now' thing doesn't work. It just bottles up the anger, and eventually, you blow.",
+      "characters": [
+        "Ron",
+        "Eddie",
+        "Elaine",
+        "Lloyd"
+      ],
+      "correctAnswer": "Lloyd"
     }
   ]
 }

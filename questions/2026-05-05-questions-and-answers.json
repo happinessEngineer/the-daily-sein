@@ -1,106 +1,106 @@
 {
-  "gameNumber": 487,
+  "gameNumber": 488,
   "date": "2026-05-05",
   "questions": [
     {
-      "quote": "But you never became a banker, did you Mister Kramer? Why? Why did you fail?",
+      "quote": "As much as I'd like to see the two of you living it up in a warm, tropical, setting, I, I would just miss you too much.  So, I've decided, I want you to stay.",
       "characters": [
-        "Farkus",
-        "Newman",
-        "Elaine",
-        "Jerry"
+        "Ray",
+        "Jerry",
+        "Susan",
+        "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "George"
     },
     {
-      "quote": "It's in the bottom draw' of are dressa'. Hurry up! … He's such an idiot.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Carol"
-      ],
-      "correctAnswer": "Carol"
-    },
-    {
-      "quote": "look guys, don't worry about it, I uh, Well I guess I better get going.",
+      "quote": "Well you know there is an unusual number of people in this country having sex with AMPUTEES!  . . . Penthouse forum, newspaper, gum, Clark Bar.",
       "characters": [
         "George",
-        "Sid",
-        "Nina",
-        "Keith"
+        "Detective",
+        "Jerry",
+        "Newman"
       ],
-      "correctAnswer": "Keith"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I'm not going to give him $300 now for a suit with moisturizer cream all over it.",
+      "quote": "In every situation. No matter how silly I look.  Hm.. tastes a little funky.",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Leslie"
+        "Darryl",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, I guess I have all the more reason to get back with her.",
+      "quote": "Jerry lives in New York. You just came from New York, didn't you?",
       "characters": [
-        "Newman",
+        "Kramer",
         "Elaine",
+        "Tim",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Listen Sheila it's not what you think. I put my trust into the wrong person. He said the key word was tasteful.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't come out. They're standing right by the door. Throw it up!",
+      "characters": [
+        "Elaine",
+        "Sally",
         "Jerry",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Federal Express? Come on up. . . . Federal Express. I'm not expecting a package.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Babu",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"There's a lot of money in this.. He's got a proven sales method\"",
+      "quote": "Yeah, I want to see if there's anything I can do.. maybe get him another job.. maybe I'll hear of something.",
       "characters": [
-        "Jerry",
-        "Danielle",
         "Elaine",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, maybe if you called more often, I wouldn't have to. Listen, is it all right if I watch a tape in here?",
+      "quote": "Oh no no no no, don't say anything to Kramer. Susan can't stand him. He vomited all over her.",
       "characters": [
-        "Mickey",
         "George",
-        "Nina",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right, gentlemen, I scouted it out. I think we can get out over there.",
-      "characters": [
         "Kramer",
-        "George",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, no, no. It was a fearless cat burglar.  Now listen, you gotta let me sleep here, huh? Y'know, I'll stay here on my side, and I'll stuff a sock in my mouth.  'Cos I don't wanna sleep alone.",
-      "characters": [
-        "Elaine",
-        "Michael",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry? Yes, I suppose he is white. You know, I never really thought about it. I don't see people in terms of color. You know, there's someone I'd like you to meet. Hand on...  Is Mr. Morgan in?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jackie"
+        "Craig",
+        "Jerry"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "MOOPS? LET ME SEE THAT. THAT'S NOT MOOPS YOU JERK, IT'S MOORS. IT'S A MISPRINT.",
+      "characters": [
+        "Jerry",
+        "Ben",
+        "Kramer",
+        "Donald"
+      ],
+      "correctAnswer": "Donald"
     }
   ]
 }

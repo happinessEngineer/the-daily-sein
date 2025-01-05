@@ -1,106 +1,106 @@
 {
-  "gameNumber": 83,
+  "gameNumber": 84,
   "date": "2025-03-27",
   "questions": [
     {
-      "quote": "Look sweetheart I don't know who you are. I don't know what you're doing here. But...",
+      "quote": "I lost my voice screaming at this thing. I can't sleep. I can't work. I mean, I just moved. I can't move again. What am I gonna do? What? What am I gonna do?",
       "characters": [
-        "George",
-        "Worker",
-        "Kramer",
-        "Keith"
-      ],
-      "correctAnswer": "Keith"
-    },
-    {
-      "quote": "Uh well um, I felt that the writing lacked certain emotion and intensity.",
-      "characters": [
+        "Peterman",
+        "Jerry",
         "Elaine",
-        "Tony",
-        "Kramer",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "There's gotta be more to life than this. What gives you pleasure?",
+      "quote": "Vermont!  With any luck, they said we could stay an extra couple of days if we want to!  Four days at a beautiful bed-and-breakfast! I can't wait.. buy-bye.  What?  What is this?",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Waiter",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But wouldn't that be the ultimate comedian's revenge? I've always had a fantasy about doing that.",
-      "characters": [
+        "George",
         "Jerry",
         "Elaine",
-        "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah. You know what I just realized? Suddenly, George has become much more normal than you.",
+      "quote": "Hey, you'll never guess who I bumped into. This guy Clyde. He's in your friend John Germaine's band there.",
       "characters": [
+        "Jerry",
         "Kramer",
-        "Mickey",
-        "Woman",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You ditched me. That's twice. Now I demand to know what's going on!",
-      "characters": [
-        "Kramer",
-        "Woman",
         "Elaine",
         "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, look at me. Now I GOTTA FIGURE OUT THE HAT SIZES OF 59,000 DIFFERENT PEOPLE!! WHAT IF A PINHEAD SHOWS UP. I GOTTA BE ON TOP OF THAT.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No don't do this.  You're not doing this. I will fight you. No you don't... No.",
+      "quote": "Well, it didn't quite work out, and now I've got nothing for them to do.",
       "characters": [
+        "Kramer",
         "Elaine",
-        "Frank",
-        "Marty",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, killed. Because I killed first and warmed up the crowd. He's like that fish that attaches himself to the shark.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait.. Oh my god...Oh yeah....Elaine , I can't believe that that is you.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "George",
+        "Christie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, alright, I'm sorry.  Nothing's changed, Alma, I just need more time.",
+      "characters": [
+        "Russell",
+        "Tim",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I mean, he was in the apartment, and then it's gone and it's in your apartment.",
+      "quote": "Anyway, thanks for having me back, and sorry about the misunderstanding.",
       "characters": [
-        "Newman",
-        "Elaine",
+        "Jerry",
         "Kramer",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I don't know. I may never marry. It might be the closest I get.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Jake",
         "George"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Because to pull rickshaws means more than just strong legs. You're also going to need a well-toned upper body.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "George, George, look at me. Okay, forget about the zipper. ... What's your girlfriend's name?",
-      "characters": [
-        "Peterman",
-        "Mickey",
-        "Kramer",
-        "Dana"
-      ],
-      "correctAnswer": "Dana"
     }
   ]
 }

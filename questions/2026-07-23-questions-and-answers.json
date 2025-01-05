@@ -1,106 +1,106 @@
 {
-  "gameNumber": 566,
+  "gameNumber": 567,
   "date": "2026-07-23",
   "questions": [
     {
-      "quote": "He asked about me? John Kennedy asked about me?!  What did he say?",
+      "quote": "Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.",
       "characters": [
-        "Elaine",
-        "Morty",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Shhh… What is wrong with you? You never tell 'em you like the car.  You're not sure what you want. You don't even know why you're here.",
-      "characters": [
+        "Gennice",
+        "Bob",
         "Kramer",
-        "Elaine",
-        "Susan",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right, I'll get ya a Mounds bar. Keep the engine running.",
+      "quote": "You can't just walk into a building and say \" I wanna be a talk show host.\"",
+      "characters": [
+        "Elaine",
+        "Dan",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right.  Hey, you guys--what's the name of the new company gonna be?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Audrey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, as I was lying in the puddle, I-I think I may have found a way for us to get Bonds and Griffey, and we wouldn't have to give up that much.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, yeah, yeah, yeah. That's it. More of that, difficult. I'm a difficult seed.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Farkus",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Let me ask you a question. This new move. Is there a knuckle involved in any way?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? I can't hear a word you're saying. I was stuck at the Dixieland Deli all day. My head is still ringing. Where's Tim?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, unless I pull down on this statuette and a hidden wall opens up, we have checked every square inch of this apartment!",
       "characters": [
         "George",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Daphne. I have to tell you something, this is very difficult...",
+      "characters": [
+        "George",
+        "James",
         "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Jerry, I can't believe it took you so long to come see the baby. I kept saying to Michael, \"When is Jerry going to see the baby?\"",
+      "characters": [
         "Captain",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Look, Vanessa, of course the market fluctuates. Everybody knows that. I just got fluctuated out of four thousand dollars!",
-      "characters": [
+        "George",
         "Jerry",
-        "Marlene",
-        "George",
-        "Elaine"
+        "Carol"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No no no no no, these are good. Listen, listen: You ran out of underwear, you can't leave the house.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Detective",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'll book a hotel, do you want a standard room or mini suite?]",
-      "characters": [
-        "Kramer",
-        "Kate",
-        "Silvio",
-        "Jerry"
-      ],
-      "correctAnswer": "Kate"
-    },
-    {
-      "quote": "Well, we're collectors. We, uh, see objects of great beauty and, uh, we must have them.",
-      "characters": [
-        "Elaine",
-        "Jack",
-        "George",
-        "Levitan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, George. [To Kramer] So, did you ask him about the records?",
-      "characters": [
-        "Driver",
-        "George",
-        "Woman",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Yeah, well, if you're getting him anything for his birthday, I'm alarge.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because if Jerry finds out that I'm hooked on Roger's chicken I'm back there with the red menace.",
-      "characters": [
-        "Kelly",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Carol"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 622,
+  "gameNumber": 623,
   "date": "2026-09-17",
   "questions": [
     {
-      "quote": "Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?",
+      "quote": "What, you're gonna take her word over mine? I'm your best friend!",
       "characters": [
-        "George",
-        "Matthew",
         "Jerry",
-        "Lippman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, now look I gotta run some errands, so look. When Elaine comes by with that bike, you hang onto it for me, alright?",
-      "characters": [
+        "George",
         "Elaine",
-        "George",
-        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Three hours of sleep again last night.. Three hours of sleep because of that dog.",
+      "quote": "Yeah, well, I'll tell ya, I'd rather talk to a goiter with a nice disposition than the nut they sent me to.",
       "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What do you mean they're not going to do anything, they're the cops, they gotta do something, he just put the kibosh on me, do you know what the kibosh means, its a kibosh!",
-      "characters": [
-        "Elaine",
-        "Wilhelm",
-        "George",
+        "Simon",
+        "Gary",
+        "Newman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Doesn't it give you any joy to see your friend enter into this holiest of unions?",
+      "quote": "That's despicable. How does he know how all coffee drinkers will vote? I'm a coffee drinker. If I was on that jury I wouldn't give you a nickel Kramer.",
       "characters": [
+        "Kramer",
+        "Jerry",
         "George",
-        "Rabbi",
-        "Billy",
-        "Kruger"
+        "Elaine"
       ],
-      "correctAnswer": "Rabbi"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn't do that.",
+      "quote": "I just hope that whole pony incident didn't put a damper on the trip.",
       "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He's back. And I knew he would be someday.  Man that's some tart cider!",
+      "characters": [
+        "George",
+        "Jane",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right. So let me ask you a question. Who was the man in the cape?",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "All right, so uh, let's do something later. How 'bout a movie?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Guy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, and there's a space opening up, and I could get it for you. You just have to pay the tax on it. It'd be like, fifty a month.",
+      "characters": [
+        "Elaine",
+        "Gary",
         "Frank",
-        "George",
-        "Vanessa",
-        "Jerry"
+        "Glenn"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Gary"
     },
     {
-      "quote": "Jerry, that was superheated water, nothing could live in that.",
+      "quote": "Please give it to me. I love to help people. This is what I do. Come on. I'm going this way.",
       "characters": [
+        "Morty",
+        "Testikov",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.",
+      "characters": [
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "That?s a good question, good question, its very... exerstential! Who are you? Who am I? Yeah, well.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You're thinking about it too much. You're putting too much emphasis on it.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Puddy",
-        "Elaine"
+        "George"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "We've been betting on arrivals and departures.  But I'm down $3200 , so you've gotta get me some cash.",
-      "characters": [
-        "Tim",
-        "Patty",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 956,
+  "gameNumber": 957,
   "date": "2027-08-17",
   "questions": [
     {
-      "quote": "So, the New York Yankees traded you for a bunch of Tyler chicken.",
+      "quote": "That's that's correct, I-I felt that the character doesn't like to be ch-ch-chilly...",
       "characters": [
-        "George",
         "Elaine",
+        "George",
         "Kramer",
-        "Waitress"
+        "Morty"
       ],
-      "correctAnswer": "Waitress"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "The question is, did you allow a space for the husband to come in with his 'God bless you'? Because as the husband, he has the right to first refusal.",
+      "quote": "Not the Croat, the lineswoman. That is the most beautiful lineswoman I've ever seen.",
       "characters": [
-        "Peterman",
-        "Newman",
+        "Leo",
         "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Leslie, Leslie, whatever happened to Sargent Shriver? Is he still with them? You don't hear much about him these days. Is he out of the loop?",
+      "quote": "You really deserve it. I mean, you have experience, seniority...Lippman really respects your opinion...",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Lamar"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, but, Jackie Chiles, he put a restraining order on me.  I'm not allowed within two hundred feet of his office. I couldn't even give him his Christmas present.",
-      "characters": [
-        "Kramer",
-        "Frank",
         "George",
-        "Chiles"
+        "Toby",
+        "Elaine",
+        "Deena"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Toby"
     },
     {
-      "quote": "What else did you tell  him.  The two of you must have had *quite* a little chat!",
+      "quote": "Hello, yeah, hi. Uh, is Miss. Landis there please. Wa? Oh, Gosh, ah ok, she'll be in later? OK, thank you. Uh.  This guy said she hurt her arm playing tennis. ... Pretty bad.",
       "characters": [
+        "Betsy",
         "Kramer",
         "Elaine",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, she's loaded.  She's the heiress to the O'Henry candy bar fortune.",
+      "quote": "Good, feel good...you know that Jayne Mansfield had some big breasts. Really big, huge...just coming out the top of her dress, they were like, chokin' her.",
       "characters": [
-        "George",
-        "Jerry",
+        "Lippman",
+        "Elaine",
+        "Ray",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "They're my friends, but they act as if having a baby takes some kind of talent.",
+      "characters": [
         "Kramer",
-        "Elaine"
+        "Elaine",
+        "Babs",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "See what doctor Gene prescribes, huh?  Oh, here, look at that. Weekend At Bernies Two. Now, that's an hilarious premise.",
+      "quote": "Wha- What? No.  Jerry, you are promoting a benefit to CLOTHE homeless people. You can't come out dressed like that! You're all puffed up!.. You look like the Count of Monte Cristo!",
       "characters": [
-        "George",
         "Elaine",
-        "Kramer",
-        "Lloyd"
+        "Jerry",
+        "Kevin",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Joey Zanfino and some of the neighborhood kids. They ambushed me with a box of 'Grade A's.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Elaine, do you know what you've done? You've give hope to every woman who's ever said \"Too bad he's gay\".",
+      "quote": "That's right. I don't care for the salesman that sold it to me.",
       "characters": [
+        "Peterman",
         "Jerry",
         "Kramer",
-        "Salesman",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Exactly! Because neither one of us can't handle a woman all by ourselves.",
+      "quote": "These dogs were chasing me. And no cab would stop and I had to get off the street. Then I remembered that you lived here.",
       "characters": [
-        "Susan",
+        "Kramer",
+        "Morty",
         "Elaine",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Why don't you just cut the stupid pants and get them off already/",
-      "characters": [
-        "Mickey",
-        "Peterman",
-        "Kramer",
-        "Man"
-      ],
-      "correctAnswer": "Mickey"
+      "correctAnswer": "Elaine"
     }
   ]
 }

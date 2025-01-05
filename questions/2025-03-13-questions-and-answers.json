@@ -1,106 +1,106 @@
 {
-  "gameNumber": 69,
+  "gameNumber": 70,
   "date": "2025-03-13",
   "questions": [
     {
-      "quote": "Look I, I uh, I had nothing to do with this. It wasn't my decision. It was Jerry! Jerry told me no. I'm the creative guy. He handles the business end.",
+      "quote": "Kramer's got more muscle, higher protein content. It's better for you.",
       "characters": [
+        "Jerry",
         "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, no more lies. Elaine is been chosen to represent the Upper West Side in the next Biosphere project.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, maybe it is, but listen, I gotta get ready - Sidra's coming over in a few minutes, so if you don't mind...",
-      "characters": [
-        "Evelyn",
-        "Elaine",
-        "Jerry",
-        "George"
+        "Morty",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Cars can go on empty, but not us humans, huh, fella? I'll get us a couple of Twix bars.",
+      "quote": "You should read the letters he's written. He's funnier than the whole bunch of you!  Oh, here's Jack. We should sit down.",
       "characters": [
-        "Kramer",
-        "Rula",
+        "Leo",
+        "Newman",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Leo"
+    },
+    {
+      "quote": "Well, that didn't work. Hey, how about this…ketchup and mustard in the same bottle?",
+      "characters": [
         "Jerry",
-        "Helen"
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "That's a very good question. You know she and I go out for dinner, she doesn't even reach for the check. That?s all I?m asking for is a reach. Is that so much to ask for?",
+      "quote": "Yeah, I wanted to talk about how we have nothing to talk about.",
       "characters": [
+        "Gavin",
         "Elaine",
         "Jerry",
-        "George",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I can't go anywhere, I have to wait here for Tatiana's call. Let me just check.",
+      "quote": "Let me understand, you got the hen, the chicken and the rooster. The rooster goes with the chicken. So, who's having sex with the hen?",
       "characters": [
         "Jerry",
-        "Loretta",
+        "Kramer",
+        "Frank",
+        "Gina"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I know it's a big problem.. she puts like four pieces in her mouth, it's ridiculous, I don't think we're gonna be able to get together on Saturday night",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Chiles",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what we have here, doctor, is uhm, an extraordinary situation.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Boys, this is Elaine. . . . Sorry, they're usually very friendly. Hey!",
+      "characters": [
+        "Jerry",
+        "James",
+        "Salesman",
+        "Elaine"
+      ],
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "Well, again, sorry about that little mishap. But once you get everything checked out there shouldn't be anymore problems.",
+      "characters": [
+        "Jerry",
+        "Captain",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Captain"
     },
     {
-      "quote": "Well, I hit the wall yesterday with Lady Godiva. She did a full body flex on a pickle jar.",
+      "quote": "I got three 'Pottery Barn' catalogs in one day. That makes eight this month.",
       "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, hey, hey. I'm getting a vibe here. What, are you unhappy with our arrangement?",
-      "characters": [
+        "Receptionist",
         "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "George, tomorrow's Sunday. We could sleep late, and get the paper and half breakfast and spend the morning together, go for a long walk, maybe do a little shopping, have lunch...",
-      "characters": [
-        "Daphne",
-        "George",
-        "Peterman",
-        "Kramer"
-      ],
-      "correctAnswer": "Daphne"
-    },
-    {
-      "quote": "Well this way I figure you can go out and get yourself whatever you want. No good?",
-      "characters": [
-        "George",
-        "Peggy",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

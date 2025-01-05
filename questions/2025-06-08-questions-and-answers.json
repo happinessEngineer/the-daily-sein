@@ -1,106 +1,106 @@
 {
-  "gameNumber": 156,
+  "gameNumber": 157,
   "date": "2025-06-08",
   "questions": [
     {
-      "quote": "So now she's lost a phone face-off? That's even worse than your cell phone walk-and-talk.",
+      "quote": "Yeah. So, anyway, the engine's been idling a little rough. I thought it might be time for a check up...",
       "characters": [
-        "Kramer",
-        "Kruger",
+        "Izzy",
         "George",
+        "Betsy",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Very soft, huge button flaps, cargo pockets, draw string waist, deep biswing vents in the back perfect for jumping into a gondola.",
+      "quote": "Well. Sounds like things are progressing. Do I hear, wedding bells?",
       "characters": [
-        "Mike",
-        "Peterman",
-        "Kramer",
-        "Jerry"
+        "Joe",
+        "Jerry",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Vanessa, thank you. I've been thinking about asking her to go away for a couple of days.",
+      "quote": "No, they didn't even touch me. I tripped because of these stupid cowboy boots.",
       "characters": [
+        "Karen",
         "Jerry",
-        "Maura",
-        "Lloyd",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, yeah, well, because of the cane. You should see the bathroom they gave me!",
+      "characters": [
+        "Sally",
+        "Jack",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money.",
+      "quote": "This dog in the courtyard across from my bedroom window that never never stops barking..",
       "characters": [
-        "Elaine",
-        "Sid",
+        "Sidra",
+        "Newman",
         "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "I don't know where the rabbi got that. Ya know I never said that. I said \"I've never seen you looser\".",
-      "characters": [
-        "Elaine",
-        "George",
-        "Helena",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Of course, the uh, the four passes.  Four passes to Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago! The Knicks are playing the Bulls tonight!",
+      "quote": "Do you know how embarrassing this is to someone in my position?",
       "characters": [
-        "George",
-        "Sid",
+        "Kramer",
+        "Morty",
         "Elaine",
-        "Helen"
+        "Holly"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Hey, Jerry!! How's it going?! You gonna join us for dinner? The duck here's the best. The best, Jerry.",
+      "quote": "You go to the airlines, you tell them you got a death in the family? They give you 50% off the fare.",
       "characters": [
-        "George",
+        "Kramer",
         "Elaine",
-        "Frank",
-        "Bania"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Wait, wait a minute...they don't have them anymore. I just found out, they just took them off the market.",
-      "characters": [
-        "George",
-        "Puddy",
-        "Leslie",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He said it was a show about nothing. So, I saw the pilot and I've got to tell you - I flipped out.",
-      "characters": [
-        "Kimbrough",
         "Jerry",
-        "Voice",
-        "Morty"
+        "George"
       ],
-      "correctAnswer": "Kimbrough"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Ah, c'mere.  Alright, I gotta go home and get changed before the game. I'll be back, we'll make out.",
+      "quote": "They were, but they're being absorbed by Matsushimi, that big Japanese conglomerate.",
       "characters": [
-        "Puddy",
-        "Holly",
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I had to say something.  I had to say something. Everything was going so well. I had to say something.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Sure. You're an emotional person. People don't take you seriously.",
+      "characters": [
+        "Jackie",
+        "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Puddy"
+      "correctAnswer": "Jerry"
     }
   ]
 }

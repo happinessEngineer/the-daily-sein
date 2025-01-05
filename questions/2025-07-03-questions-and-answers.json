@@ -1,106 +1,106 @@
 {
-  "gameNumber": 181,
+  "gameNumber": 182,
   "date": "2025-07-03",
   "questions": [
     {
-      "quote": "The bad fiancé&Mac226, the bad dinner guest, the bad credit risk...",
+      "quote": "That's it. Now, gimme your wallet. Got it in here, huh, fat boy!",
       "characters": [
-        "Katie",
-        "George",
+        "Elaine",
+        "Morty",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Man, Ughhhh, wwwheh.… I just came from Roy's. I threw up from the gas.",
+      "characters": [
         "Kramer",
-        "Jerry"
+        "Jerry",
+        "George",
+        "Wilhelm"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Are you kidding? He can do every move I've ever done! Do you know what a good mechanic is worth? You can't compare that to sex.",
+      "characters": [
+        "George",
+        "Frank",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well what about you? What do you think The Gap in Rome has that's not in The Gap on Broadway?",
-      "characters": [
-        "Puddy",
-        "Kruger",
-        "Stu",
-        "Elaine"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "I don't get this. I go out with this girl three times, she doesn't want to shake my hand - why's she kissing you?",
+      "quote": "A man's voice, but he speaks in German so I have to get a translator.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Sid"
+        "Elaine",
+        "Helen",
+        "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nice meeting you. Ah, I gotta run, Elaine. I'll see you later.",
+      "quote": "You know, I can't believe you put your money in that Sendrax. And you could've invested in my roll-out tie dispenser.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "Darryl",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'll tell you what I'm looking at: the next condo president of Del Boca Vista, Phase Three.",
+      "characters": [
+        "Frank",
+        "Maura",
+        "Peterman",
         "Morty"
       ],
-      "correctAnswer": "Darryl"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "She goes to these lengths to entice you and your only response is \" Gee I really like your picture. Would you like to go out on a date with me please. \"",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Ron",
-        "Bookman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "We talked about his new batting stance, you know, I'm not crazy about it, but I said , 'Donny, go with it 'till it stops workin'.' Donny baseball. He's a helluva guy.",
+      "quote": "Are you saying that I could be dating this hair? I mean wi..with you under it?",
       "characters": [
         "Kramer",
-        "George",
         "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Thanks, buddy. Oh... yes! Hey, you got any A1, 'cause I'm cooking a steak.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Darryl",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Steady, steady, now calm yourself, come on, now get a hold of yourself,",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Izzy"
-      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Y'know, now you gotta ask her her name. It's so embarrassing.",
+      "quote": "Well... Frankly, I thought, you know, I was gonna kinda' be like the apparatus.",
       "characters": [
-        "Kramer",
-        "Bania",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I got another card from Kristin. Not quite as chipper as the first one.",
-      "characters": [
-        "Conrad",
-        "Elaine",
         "Jerry",
-        "Peterman"
+        "George",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Mommy!? Jerry says daddy's closing the store. He's going out of business. We don't have any money?",
+      "quote": "Hi. JERRY: You might not know it to look at me, but I can run really, really fast.",
       "characters": [
-        "Matthew",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Kramer",
+        "Waitress",
+        "George",
+        "Woman"
       ],
-      "correctAnswer": "Matthew"
+      "correctAnswer": "Woman"
     }
   ]
 }

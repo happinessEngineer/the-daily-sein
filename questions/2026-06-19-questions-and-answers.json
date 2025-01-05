@@ -1,106 +1,106 @@
 {
-  "gameNumber": 532,
+  "gameNumber": 533,
   "date": "2026-06-19",
   "questions": [
     {
-      "quote": "She'll be fine. I gotta go to the hospital to see her tonight.",
+      "quote": "Damn it, Elaine. That wasn't Zach. That was the yam-yam. Now, he is going cold turkey.  And you will be at his side.",
       "characters": [
+        "Estelle",
+        "Peterman",
         "George",
-        "Gina",
-        "Frank",
         "Jerry"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I don't even know what they think. That's why I'm in therapy.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Good. Thank God. Good riddance. [pause] Oh listen, before you go, would you mind changing my diaper? HAA!!",
+      "quote": "No, I haven't worn this jacket since I got it back from the dry-cleaner. Maybe we should ask him.",
       "characters": [
-        "Elaine",
-        "George",
+        "Frank",
         "Kramer",
-        "Sid"
+        "Ray",
+        "Jerry"
       ],
-      "correctAnswer": "Sid"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Actually it was great. I met an Englishman, and we really, hit it off.",
+      "quote": "Right. Well if you need an extra set of hands, I know who you can call--",
       "characters": [
-        "Puddy",
+        "Kramer",
         "Jerry",
         "George",
+        "Ethan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "[To Jerry] Oh, remind me to talk to you about something later.",
+      "characters": [
+        "Donna",
+        "George",
+        "Doctor",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "We can't eat here anymore, because he took a waitress out for a walk.",
+      "quote": "What kind of stupid show is this? Hey! It's that idiot that took all my records!",
+      "characters": [
+        "Doctor",
+        "Sid",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Well, maybe next time someone's in a car accident you won't stop off for candy first.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Ray",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Do I smell something? What am I, hard of smelling? Of *course* I smell something.",
       "characters": [
         "George",
-        "Kramer",
-        "Elaine",
+        "Jerry",
+        "Betsy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ya, then maybe baldness will catch on. This will all be turning your way.",
+      "characters": [
+        "Corinne",
+        "Brett",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, actually, we'd like to keep him here overnight for observation, just to be safe.",
+      "quote": "Why don't you sit down, Poppie? You're still recuperating.  What, are you tired, Poppie?",
       "characters": [
-        "Elaine",
+        "Hal",
         "George",
         "Jerry",
-        "Doctor"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "Hey you know what? I have access to one of the most deceitful, duplicitous, deceptive minds of our time. Who better to advise me?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Peterman",
-        "Audrey"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm not letting him buy us a Cadillac. He hasn't got that kind of money.",
-      "characters": [
-        "Helen",
-        "Jack",
-        "Morty",
         "Kramer"
       ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Ha ha! We took it to you! You couldn't get it out of your zone all night. We were aggressive, we didn't let you penetrate!",
-      "characters": [
-        "Jerry",
-        "Father",
-        "Elaine",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "Well, as I say, the pink-eye made my vision...quite blurry...",
-      "characters": [
-        "Jerry",
-        "Jake",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I'll tell you something else: I don't what your business anymore either.",
-      "characters": [
-        "Joe",
-        "Jerry",
-        "Kramer",
-        "Regis"
-      ],
-      "correctAnswer": "Joe"
+      "correctAnswer": "Kramer"
     }
   ]
 }

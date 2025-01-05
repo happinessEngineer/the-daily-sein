@@ -1,106 +1,106 @@
 {
-  "gameNumber": 168,
+  "gameNumber": 169,
   "date": "2025-06-20",
   "questions": [
     {
-      "quote": "Because I'm REFRESHED. I finally found a way to sleep in my office. Under the desk. I lie on my back. I tuck in the chair. I'm invisible.",
+      "quote": "Then who the hell said you couldn't have any? I mean what the hell do I care whether you have sponge cake?",
       "characters": [
-        "Kramer",
-        "George",
-        "Susan",
-        "Elaine"
+        "Stationer",
+        "Morty",
+        "Bania",
+        "Enzo"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "So we order lunch, and we're talking. Finally, she blurts out how it's 'not working'.",
+      "quote": "I do too. you see that's what we're about . You don't remind me of anyone and we love gum.",
       "characters": [
-        "George",
-        "Jerry",
-        "Woman",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Could you fill these out for me please? And um, Elaine, you'll be seeing Julianna…",
-      "characters": [
-        "Elaine",
         "Helen",
-        "Brett",
-        "Receptionist"
-      ],
-      "correctAnswer": "Receptionist"
-    },
-    {
-      "quote": "Well. You are not gonna believe this. Now Lippman is renounced. This shiksa thing is *totally* out of control. What is *with* you people? What are you looking at?",
-      "characters": [
-        "George",
-        "Elaine",
         "Jerry",
-        "Kramer"
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "All right! OK! Right, here we go. Yeah. OK, so... 'For sale. A big, juicy van.' And, ooh, you gotta put down, 'interesting trades considered.'",
+      "quote": "The nerve of that woman. Walking into my house, stealing my collectible!",
       "characters": [
-        "Lloyd",
+        "Noreen",
+        "Frank",
         "Kramer",
-        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "I don't know, but that's New York and we're in Ohio. Those are pretty good odds.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, gotta get fifty. Gotta get fifty. All right, I tell you what. We go to the coffee shop, you call your manager. Maybe they made an offer.",
+      "quote": "No that's what he said. \"That's interesting. I love carrots, but I hate carrot soup. And I hate peas, but I love pea soup.\" So do I.",
       "characters": [
         "George",
-        "Jerry",
         "Kramer",
-        "Hoyt"
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes! And I am convinced that if she were here with us today, she would agree with me, too.",
+      "characters": [
+        "Elaine",
+        "Steve",
+        "Jerry",
+        "Puddy"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anyway, so he gave me his spare keys, now he wants to have my keys, so I need mine back from you.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Lippman want's to see me in his office SEE ME! That can't be good",
-      "characters": [
-        "Vandelay",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, right, at the coffee shop. Where did they get the idea that you have a place in the Hamptons?",
+      "quote": "Well, they want me to come up with an idea. I mean, I don't have any ideas.",
       "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Vandelay Industries, Kel Varnsen speaking. May we help you? ... Oh Hi Keith. Na, I was just jokin' around",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
+        "Helen",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't think there's ever been an appointment in my life where I wanted the other guy to show up.  Wait a second, is that him?",
+      "quote": "You know, Elaine, very often we cannot see the forest for the trees.",
       "characters": [
-        "Lloyd",
-        "George",
-        "Sally",
+        "Detective",
+        "Jerry",
+        "Rabbi",
+        "George"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "No, I said no more face painting, and as you can see this is not my face.",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Puddy"
     }
   ]
 }

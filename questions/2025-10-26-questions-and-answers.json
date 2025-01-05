@@ -1,106 +1,106 @@
 {
-  "gameNumber": 296,
+  "gameNumber": 297,
   "date": "2025-10-26",
   "questions": [
     {
-      "quote": "Ah, great. All right, with the wine I'm in over twenty dollars now.",
+      "quote": "Really! You know, a lot of restaurants are serving brewed decaf now, too.",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "\"Hospital receives grant to conduct DNA research\"..\" Government funds genetic research at area hospital\" ... Yeah, so?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Lois",
+        "Frank",
+        "John"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know why you had to rent a car. We would have picked you up.",
+      "quote": "And from disorder, you're a quirk or two away from full-on dementia.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Carrie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, how about if the book came with these little fold-out legs...so the book itself becomes a coffee table?",
+      "characters": [
+        "Kramer",
+        "Helen",
+        "Rula",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Afternoon, Mom! Afternoon, Pop. You know you got a crack in the sidewalk out there? Now, you oughta get that fixed.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "See, the other thing is, if you don't like anything, he takes it right back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, George, listen. You know that company I work for, they own that parking lot around the corner.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Gary"
+    },
+    {
+      "quote": "Yes. Yes. Care. You know who I think about a lot? Remember SUSAN: ? The one that used to work for NBC?",
       "characters": [
         "George",
+        "Jerry",
+        "Tim",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't eat cookies for breakfast! I'll fix you something. How 'bout a feta cheese omelette?",
+      "characters": [
         "Helen",
         "Kramer",
+        "Jack",
         "Elaine"
       ],
       "correctAnswer": "Helen"
     },
     {
-      "quote": "Don't be ridiculous. Now, if you'll excuse me, I have to go to fill my freezer with my own blood.",
+      "quote": "George, where are those invitations? You were supposed to leave them with her doorman!",
       "characters": [
-        "Elaine",
+        "Donna",
+        "Kramer",
         "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "And they're old jokes. I mean, the Pope and Raquel Welch in a lifeboat.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Jack",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, because I love the foot. I'm a big fan of the foot.",
+      "quote": "I've gotta see this game. If it wasn't for this guy, we could get out of here.",
       "characters": [
-        "George",
         "Jerry",
-        "Bania",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "42, That's what I am now. I've been working out, I'm huge. How'd you like to sell it?",
-      "characters": [
-        "Bania",
+        "Elaine",
         "George",
-        "Kramer",
-        "Wyck"
+        "Michael"
       ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "Jerry, Newman and I are engaged in a epic struggle for world domination.  It's winner take all.  People cannot be trusted.",
-      "characters": [
-        "Peterman",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There's a mechanism. You just pull it, and throw your body weight.",
-      "characters": [
-        "George",
-        "Brett",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "There's nothing more pathetic, than a grown man, who's afraid of a woman .",
-      "characters": [
-        "Kramer",
-        "George",
-        "Sid",
-        "Morty"
-      ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

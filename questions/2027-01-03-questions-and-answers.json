@@ -1,106 +1,106 @@
 {
-  "gameNumber": 730,
+  "gameNumber": 731,
   "date": "2027-01-03",
   "questions": [
     {
-      "quote": "Okay! Well, you know, have a nice trip, and uh... alrighty!  I'll just hold down the, uh, fort!",
+      "quote": "If anyone should be forced to leave that place, it should be her!",
       "characters": [
+        "Stu",
         "Jerry",
-        "Elaine",
-        "Joel",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'll tell you what, I'll give you my number and uh, just give me a call, tell me whenever you want to go.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "It's not promised to anybody? 'Cause she'd take it in a second.",
-      "characters": [
-        "Elaine",
-        "Glenn",
-        "Gwen",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, fifteen minutes. I guarantee you fifteen minutes, I can make it happen!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Margaret",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Bottom of the eighth, score tied at one apiece. Two and one to Paul O'Neill.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Meryl",
-        "Tv"
-      ],
-      "correctAnswer": "Tv"
-    },
-    {
-      "quote": "Why must you always be the focal point of attention? Why can't you just be?  Why can't you live?",
-      "characters": [
-        "Rabbi",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yes. Yes  I ran into her today.  This woman has never, not once, ever, as long as I have known her, worn a bra.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Doctor",
-        "Eva"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Lookit, Kramer, you are not getting this bike. I don't even know why you ant it.  I mean, it's a girl's bike.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jackie",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "He has this power over me, okay. I mean he has this way of manipulating every little word that I say. He's like a Svenjolly.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "My cousin Douglas was in a place like this one time . He came over to my house for dinner. There was no soda and he went bezerk. He was screamin' \"where's the Pepsi, where's the Pepsi?\"",
+      "quote": "The nurse said she would be right back. They're supposed to take me into the delivery room.",
       "characters": [
+        "Rula",
+        "Steinbrenner",
         "Elaine",
-        "Ricky",
+        "Morty"
+      ],
+      "correctAnswer": "Rula"
+    },
+    {
+      "quote": "Officer, he backed up from down the street. He was double-parked, he was",
+      "characters": [
+        "Mike",
+        "Jerry",
         "George",
-        "Jerry"
+        "Kramer"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "No, he's very fancy! Want me, love me! Shower me with kisses!",
+      "characters": [
+        "Kramer",
+        "Lippman",
+        "Silvio",
+        "George"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "No, he's up on the roof getting some sun with the butter  Oh no!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Shelly",
+        "Earl"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I know what he is. I recognized him. You didn't even notice him.",
+      "characters": [
+        "Naomi",
+        "Peterman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If we put our three heads together we should come up with something.",
+      "characters": [
+        "Kramer",
+        "Newman",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So Donald, would you please tell the court about the incident that occurred in your house, October 7th, 1992.",
+      "characters": [
+        "Hoyt",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "...F, E, L, D.  Well, I think you're wrong.  Alright, you have a lucky day, too.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "They're right in front of you! Oh, for heaven's sakes...  Show you...",
+      "characters": [
+        "Elaine",
+        "Newman",
+        "Joel",
+        "Helen"
+      ],
+      "correctAnswer": "Helen"
     }
   ]
 }

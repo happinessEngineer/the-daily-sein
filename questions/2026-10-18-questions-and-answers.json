@@ -1,106 +1,106 @@
 {
-  "gameNumber": 653,
+  "gameNumber": 654,
   "date": "2026-10-18",
   "questions": [
     {
-      "quote": "I don't know what it is, I can't put my finger on it, but lately you have just seemed 'on'. And you always leave me wanting more.",
+      "quote": "What about \"Sonia Live\"? Now you're not cancelling \"Sonia Live\"?",
       "characters": [
-        "Kruger",
-        "Jerry",
-        "David",
-        "Russell"
-      ],
-      "correctAnswer": "Kruger"
-    },
-    {
-      "quote": "Let me ask you a question. This new move. Is there a knuckle involved in any way?",
-      "characters": [
-        "Newman",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Listen, I want to thank you for the invite up state. I'm sorry I can't make it.",
-      "characters": [
-        "Kramer",
         "George",
-        "Jackie",
-        "Jack"
+        "Lippman",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I was almost Mr. Coffee. They felt I was a little too relaxed.",
+      "quote": "Hey, these are very comfortable pants. You know what I paid for these Jerry?",
       "characters": [
-        "Jerry",
+        "Morty",
         "Elaine",
-        "Carrie",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He was buying quite a load of chicken, almost for two people ...",
-      "characters": [
         "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Hi, I'm Jerry Seinfeld. Pat Cooper made a reservation for me.",
+      "quote": "No. No, it doesn't bother me. I mean, it would be nice. I'm not gonna lie to you and say it wouldn't be nice.",
       "characters": [
-        "George",
         "Jerry",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know. A lot of attitude, like he's better than me, or something.",
-      "characters": [
-        "Kramer",
         "George",
-        "Jerry",
+        "Karen",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I'm sure they'll be able to fix it. You can't stop modern science. Can't stop it, you can't stop it. Can't stop science. Can't be stopped, no way, no how, science just marches--",
+      "quote": "Hey, listen don't oversleep. You can't afford to be late again.",
       "characters": [
         "George",
-        "Ned",
+        "Morty",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What? They just gotta be worked in a little bit, that's all.  Alright, see you later.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Manager",
+        "Peterman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I got caught up... watching a soap opera. \"The Bold And The Beautiful\".",
+      "characters": [
         "Elaine",
+        "George",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "That strange Portuguese guy that lives next-door to the incinerator?",
+      "quote": "The manage. And not only that. She just called me and said she talked to the roommate and the roomate's into the manage too.",
       "characters": [
         "Jerry",
-        "George",
+        "Danielle",
         "Elaine",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, but I can tell she's going to. I can sense it. We had this terrible phone conversation. I was so nervous before I called I made up this whole list of things to talk about.",
+      "quote": "Because Elaine, that's the one that goes 'wee-wee-wee all the home.'",
       "characters": [
-        "Jerry",
+        "Kramer",
         "George",
-        "Elaine",
-        "Daphne"
+        "Estelle",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What?! Wait a minute. No, no, no. What are you doing? No, no, oh, oh, okay. He's out. I get it.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Jerry",
+        "Willie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "But you don't have to do this! This guy is waiting in my house.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

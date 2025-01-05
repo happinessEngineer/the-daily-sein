@@ -1,106 +1,106 @@
 {
-  "gameNumber": 292,
+  "gameNumber": 293,
   "date": "2025-10-22",
   "questions": [
     {
-      "quote": "Isn't that...?  Oh, is this from the snow last night?  Ugh... you know what you should've done? You should've turned it inside out.",
+      "quote": "That's all there is to it. By Christmas day I will be Brother Costanza.",
       "characters": [
-        "Elaine",
         "George",
-        "Jerry",
+        "Bookman",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "This is out best model. The Cougar 9000. It's the Rolls Royce of wheelchairs. This is like... you're almost glad to be handicapped.",
-      "characters": [
-        "Jackie",
-        "Elaine",
-        "Salesman",
-        "George"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "You know my last name is Costanza. That's Italian. So you and I are like country men. Pisano's!",
+      "quote": "I was able to finagle two more tickets to \"My Fair Lady\" and I thought why not ask Morty and Helen.",
       "characters": [
         "George",
+        "Farkus",
         "Jerry",
-        "Seth",
-        "Attendant"
+        "Aaron"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "No, I got into a thing with the son, and now he's laid up too.",
+      "characters": [
+        "Joe",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Man, I don't understand people. I mean, why would George want to deprive you of pleasure? Is it just me?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, we could do that...why not, why not.  I'm just, I'm really glad you're here.",
+      "characters": [
+        "Bania",
+        "George",
+        "Cynthia",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Show the doll - show the picture of George's mother.. it's pretty funny.  I'm gonna call them.",
+      "characters": [
+        "Peterman",
+        "Kramer",
+        "Lloyd",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You should just do it like a Band-Aid. One motion! Right off!",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Jeannie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Milos"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh I gotta start taking these \"stupid\" warnings more seriously.",
-      "characters": [
-        "Kramer",
-        "Manager",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again.",
-      "characters": [
-        "Kramer",
-        "Roy",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Remember that New Year's party he threw a few years ago? He had that very drafty apartment, you know, I think on Ninth Avenue.",
+      "quote": "You're not getting no Drake's Coffee Cake for fifty cents. Yae, Hey, I'm all set. I got the ticket. I'm going to the Cayman Islands this Friday.",
       "characters": [
         "George",
-        "Kramer",
         "Elaine",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "We have a bonus reality stop today. We will be hauling muffin stumps to the local repository.",
+      "quote": "I, I think that's my button.  You know, I've been looking all over for it. Did, did you find it here?",
       "characters": [
-        "Kramer",
-        "Rabbi",
-        "Puddy",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I just came from the podiatrist. I have a mole on my foot. I've got a little gangrene, they're probably gonna have to amputate.",
-      "characters": [
+        "Elaine",
         "George",
-        "Elaine",
         "Jerry",
-        "Michael"
-      ],
-      "correctAnswer": "Michael"
-    },
-    {
-      "quote": "Oh god. Oh, Jerry it was so terrible what we just went through on the way home.  You wouldn't believe it.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
+        "Izzy"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "She and Jerry were a big thing, like Abe Lincoln and Mary Todd.",
-      "characters": [
-        "Elaine",
-        "Doorman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 761,
+  "gameNumber": 762,
   "date": "2027-02-03",
   "questions": [
     {
-      "quote": "I think so. I mean, he's acting really weird lately...he's different.",
+      "quote": "Kramer said it's a perfect gift. That's what we're gettin' him.",
       "characters": [
         "Jerry",
-        "Frank",
-        "George",
+        "Elaine",
+        "Michael",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well be-because you know that, because this is your first show it's a pretty standard deal.",
+      "quote": "There is now. Kramer, you should really get that cough checked out by a doctor.",
       "characters": [
         "George",
-        "Elaine",
-        "Susan",
+        "Jake",
+        "Bob",
         "Jerry"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Do you know what's going on here? Can't you see what's happened? I've become George.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'm telling you, something's going on. I can feel it, sense it.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I don't know, she said she had to pick up a friend of hers at the airport. It cost me a hundred dollars this ticket.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It was a cold winter's night in Timbuktu...  Oh! This stinks!  Oh, come on... come on...!...God!",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Sally",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Mom, I didn't rat out Uncle Leo. I just wanted the guard to scare him straight.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Gennice"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey Jerry, you want this, cause I'm going to give it to a homeless person.",
+      "quote": "Oh, I don't know. I told them her death takes place in the shadow of new life. She's not really dead if we find a way to remember her.",
+      "characters": [
+        "Guy",
+        "Kramer",
+        "Morgan",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Isn't putting this guy's picture on your desk a little transparent?",
+      "characters": [
+        "Receptionist",
+        "George",
+        "Ricky",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Last week. When I, you know, gave you the phone. He's really into my pizza place idea!",
       "characters": [
         "Elaine",
-        "George",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "Todd"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "We missed you at the get well party. Poor old Walt has a polyp in the duodenum. It's benign, but--ooh--still a bastard. Oh, Elaine, can you keep a secret?",
+      "quote": "Well then the turkey it'll be. And may I say you have a splendid establishment here, my friend. I'm sure you flourish at this location for many, many years.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Peterman"
+        "George",
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Did I have a great time with David Lickner last night? I sure did.  Do I think there is a future here? I don't see why not.",
+      "quote": "OK, HISTORY ... THIS IS FOR THE GAME. ... HOW YA DOIN' OVER THERE? ... NOT TOO GOOD!",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "Darryl",
-        "Elaine"
+        "Kurt",
+        "Helen",
+        "Elaine",
+        "Donald"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Donald"
+    },
+    {
+      "quote": "But I didn't just clean your apartment. It was a ritual, a ceremony, a celebration of life.",
+      "characters": [
+        "Ray",
+        "Harold",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "I don't know . I have no idea . I was just listening and she came on.",
+      "characters": [
+        "Steinbrenner",
+        "Jerry",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, look. I drew this triangle free-hand. It's a doodle. It's perfect!",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

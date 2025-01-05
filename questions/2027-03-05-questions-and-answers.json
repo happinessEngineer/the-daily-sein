@@ -1,106 +1,106 @@
 {
-  "gameNumber": 791,
+  "gameNumber": 792,
   "date": "2027-03-05",
   "questions": [
     {
-      "quote": "My father left us when I was 9 so I guess that is why i have such a fear of abandonment.",
+      "quote": "No, no, it's all right. I had a friend who had rabies once.  May I have one of those, madam?",
       "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "She does a full hour about how you're the devil .I got to go see this thing.",
-      "characters": [
-        "Elaine",
-        "Saleswoman",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh my God, an affair. That's so adult. It's like with stockings and martinis, and William Holden. On the other hand it probably wouldn't cost me any money.",
-      "characters": [
-        "Elaine",
-        "George",
+        "Lanette",
         "Jerry",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Mr. Pitt! The board of directors is on the phone. They've called an emergency meeting. They want you to be there to discuss the merger!",
-      "characters": [
         "George",
-        "Elaine",
-        "Gary",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I love it!  This is fantastic!  Look at this couch, is this velvet?!",
-      "characters": [
-        "George",
-        "Gary",
-        "Estelle",
-        "Naomi"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Look, the main thing is I don't want Elaine to know about any of this. I mean, especially the panty remark. I mean, it's embarrassing. And she's never let me hear the end of it.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Audrey",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You don't say? You know I have boxes of those sitting in my garage in Florida?",
-      "characters": [
-        "Jack",
-        "Jerry",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "I used to have a problem.  Well, what d'you mean, he's not registered? Wha..S, E, I, N, V...",
-      "characters": [
-        "Kruger",
-        "Helen",
-        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Hi there. Um, uh -- [drumming on countertop] Oh! Oh! Oh! One mulligatawny and, um.... what is that right there? Is that lima bean?",
+      "quote": "You want a Christmas card? You want a Christmas card? All right here. [rubs George's head on her breasts] Here's your Christmas card.",
+      "characters": [
+        "Elaine",
+        "Morty",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, you know, we were playing a game and, you know, I was pitching, and I was really throwing some smoke. And Joe Pepitone, he was up, and man that guy, you know, he was crowding the plate.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Newman",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know Ron's Records down on Bleeker? They pay big cash for used records!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "See, what they gotta do is loose a plane or a Greenpeace boat in there. See, that would get the triangle going again.",
+      "characters": [
+        "Bob",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "\"Well...He's singing at a benefit and I'm gonna be sitting at his table.\"",
       "characters": [
         "Elaine",
         "Jerry",
         "George",
         "Kramer"
       ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Do you see the irony here? You're rejecting somebody because they're bald.",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "All right. You wanna know what one of her favorite expressions is? Happy, Pappy?",
+      "quote": "No, intervene, go intervene all you want. I am just afraid you might be interfering while we're intervening.",
       "characters": [
-        "Morty",
-        "Elaine",
+        "Helen",
         "Jerry",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, so what are you gonna do? You gonna wait for the cable companies to resolve their dispute? They're gonna be in court for years.",
+      "characters": [
+        "Jerry",
+        "Eddie",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're not the type that should be playing with matches, seriously Kramer.",
+      "characters": [
+        "Elaine",
+        "Raymond",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

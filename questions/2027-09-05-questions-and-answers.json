@@ -1,106 +1,106 @@
 {
-  "gameNumber": 975,
+  "gameNumber": 976,
   "date": "2027-09-05",
   "questions": [
     {
-      "quote": "I don't know, but they don't seem to like it. By the way how am I doing?",
+      "quote": "He said it was a show about nothing. So, I saw the pilot and I've got to tell you - I flipped out.",
       "characters": [
+        "Kimbrough",
         "Jerry",
-        "Newman",
         "George",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kimbrough"
     },
     {
-      "quote": "Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?",
+      "quote": "Yeah, I eat the whole apple. The core, stem, seeds, everything.",
       "characters": [
-        "Alec",
-        "George",
+        "Kramer",
         "Jerry",
-        "Kramer"
+        "Jimmy",
+        "Joel"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "My father used to take me to the circus. When the elephants came by, he would scream curses at them, blaming them for all the ills of society.",
+      "quote": "Uh, THANKS! This is FUN! Yeah, this turned out to be a GREAT weekend.",
       "characters": [
-        "Katya",
         "George",
-        "Ellen",
-        "Lloyd"
-      ],
-      "correctAnswer": "Katya"
-    },
-    {
-      "quote": "Oh, Okay  I'm sorry, I didn't know what to bring, nobody told me.",
-      "characters": [
         "Jerry",
-        "Peterman",
         "Kramer",
-        "Elaine"
+        "Carol"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, as a backup system, in case the lock is broken, you can see if it's taken.",
+      "quote": "No, it's not the money. It's my hand. It's crippled from writing and writing.",
       "characters": [
         "George",
-        "Jerry",
-        "Kramer",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Oh, I spend that much on after shave. Yes, I buy and sell men like myself every day. Now, I assume that there's a waterfall grotto?",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I think we're gonna need more than a hand. They have to see a human face.",
-      "characters": [
-        "Daphne",
         "Morty",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Now you know who to thank for that!.. Alright, I've got to go.",
-      "characters": [
-        "George",
-        "Beth",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He was in the shop. I thought you told me he wasn't going to be there.",
+      "quote": "Yeah, yeah I know. This would be good, but it would be the same. But if we go some place else, it would be different, but it might not be as good. It's a gamble. I get it.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "Frank"
+        "Newman",
+        "Peterman",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, well, if the other people in the office saw that I called an exterminator, they would just panic. Besides, this is sort of a friendly visit. Carl, right?",
+      "quote": "Imagine how sick a person has to be to do something like that.  And these people are all over the place. You never know who's crazy, I could be one of these people.",
       "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "By the way, you know you're falling way behind on the 'I love you's.'",
+      "characters": [
+        "Meryl",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Meryl"
+    },
+    {
+      "quote": "This is what you used to build me up? This is where you got all that stupid katra stuff?",
+      "characters": [
+        "Jerry",
+        "Aaron",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. I am like a drug dealer. I got the guy hooked. I am having lunch at his desk everyday this week. He doesn't make a move without me. It's very exciting.",
+      "characters": [
+        "Elaine",
         "Kramer",
         "Jerry",
-        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, the tickets are for tonight. So you and Bob can knock off a little early, so you both can get ready.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
     }
   ]
 }

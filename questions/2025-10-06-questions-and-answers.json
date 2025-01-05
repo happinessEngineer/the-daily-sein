@@ -1,106 +1,106 @@
 {
-  "gameNumber": 276,
+  "gameNumber": 277,
   "date": "2025-10-06",
   "questions": [
     {
-      "quote": "You're the nucleus, the straw that stirs the drink. You're the Miana!",
+      "quote": "Yeah, you know we need a fourth for the back nine. You want in?",
       "characters": [
-        "George",
-        "Kramer",
-        "Tim",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Most people go their whole lives without sitting in a Farbman.",
-      "characters": [
-        "George",
-        "Brett",
         "Jerry",
+        "George",
+        "Guy",
         "Elaine"
       ],
-      "correctAnswer": "Brett"
+      "correctAnswer": "Guy"
     },
     {
-      "quote": "This confers upon you instant boyfriend status. The family's there...you're taking care of things...you're gettin' the sandwiches...you're the rock!",
+      "quote": "Well I'm sorry if I ruined your life. That's exactly what I set out to do.",
       "characters": [
-        "Jerry",
-        "Enzo",
-        "Elaine",
-        "Helen"
+        "Clerk",
+        "Ron",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, for a sales position. Latex salesman, the selling of latex, and latex related products. They just wouldn't give me a chance.",
+      "quote": "Jerry, it's getting late. You've cleaned up the car. You've made all your phone calls. Why are you still here?",
       "characters": [
+        "Jack",
+        "Diane",
         "George",
+        "Tim"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "They're all the same. You go, you sit, you eat popcorn, you watch. I'm sick of it.",
+      "characters": [
         "Kramer",
-        "Waiter",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "But this isn't fair! Lookit, my neck is still hurting me, and now you have the bike?!",
-      "characters": [
-        "Kramer",
-        "Bania",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, sometimes those guys don't make it back.  I'm really hungry.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Lippman",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You want my friend to ask his uncle, a man who just lost his wife of 44 years, for a death certificate so that he can save a few bucks on a flight?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So know every time you get dressed. You are going to go down to the basement and use the dryer.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Ben",
-        "Naomi"
+        "George",
+        "Toby"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Kramer, I am so sick of you comin' in here and eatin' all my food. Now shut that door and get the hell out of here!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Newman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes! 860,000. I can't believe it's still standing. No one has beaten me in like 10 years.",
+      "quote": "You wanna hang out here, at phase two of the Pines of Mar Gables?",
       "characters": [
-        "George",
-        "Kramer",
-        "Clare",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Let me understand, you got the hen, the chicken and the rooster. The rooster goes with the chicken. So, who's having sex with the hen?",
-      "characters": [
-        "Jerry",
-        "Frank",
         "Elaine",
+        "Jerry",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, Mr. Kramer, looks like you're in the hole $3200... Will that be cash or check?",
+      "characters": [
+        "Earl",
+        "Morty",
+        "Frank",
+        "George"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "Oh. Let me ask you, when someone is lying, is it true that their pants are actually on fire?",
+      "characters": [
+        "Lippman",
+        "Marla",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, what is that? That's a crime! Do you know how hot those things get? They should be wearing cotton.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Rabbi",
+        "Billy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Because I don't like to carry my wallet. My Osteopath says that it's bad for my spine. It throws my hips off kilter.",
+      "characters": [
+        "George",
+        "Alec",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

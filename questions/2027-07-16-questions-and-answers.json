@@ -1,106 +1,106 @@
 {
-  "gameNumber": 924,
+  "gameNumber": 925,
   "date": "2027-07-16",
   "questions": [
     {
-      "quote": "Anyway Beth, you know i was thinking on my way over how when i was 9. I wanted these handball sneakers, they were all black but they came in adult sizes so you know i never got the sneakers.",
+      "quote": "[to himself] Argh! [to Susan] Susan! Hi! Oh, boy! What are you doing here?!",
       "characters": [
-        "Jerry",
-        "George",
-        "Wilhelm",
-        "Attendant"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So see um, I didn't say that I wanted to rent it, I was just wondering if there were houses there to rent.",
-      "characters": [
-        "Jerry",
-        "George",
         "Elaine",
-        "Chiles"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I mean, really, what is the big deal? We go in there.  We're in there for a while. We come right back out here. It's not complicated.",
-      "characters": [
-        "Pitt",
-        "George",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm the assistant to the travelling secretary. I'm going on the road trips with 'em! I'll be on the plane... I'm working in Yankee Stadium! This is a dream, I'm busting, Jerry, I'm busting!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Morty",
-        "Man"
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "There's been some robberies in the building. I-I can't let you in.",
+      "quote": "Oh  Articulate....Me? I've never articulated anything, i'm completely incoherent.",
       "characters": [
         "George",
-        "Mary",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, at least I'm bringing something to this.  \"Have you seen me?\"  Nope.  Woah, something from Whatley.",
-      "characters": [
-        "Kramer",
-        "Tim",
-        "George",
-        "Jerry"
+        "Wyck",
+        "Jerry",
+        "Karen"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "During that period when my folks were separated he went a little crazy.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Kate"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, I'm great! Just great. Really great! Oh, hey - did you hear about Bob Rosen?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Toby"
-      ],
-      "correctAnswer": "Toby"
-    },
-    {
-      "quote": "Now you say something else and they won't yell at me 'cause they thought I was checking with you.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Waiter",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Camera, curtains, lights - This is it, we'll hit the heights - Oh what heights we'll hit - On with the show this is it!",
+      "quote": "We have to put the board in a neutral place where no one will tamper with it.",
       "characters": [
         "Stu",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, the dogs did that but it wasn't their fault, somebody stuffed some strange meat in the pocket.",
+      "characters": [
+        "James",
         "Jerry",
         "George",
-        "Kramer"
+        "Father"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "James"
+    },
+    {
+      "quote": "But Mr. Steinbrenner, how can I be expected to perform my job properly, knowing that my uh, subordinate is making more money than I am? With all due respect sir, it's outta whack.",
+      "characters": [
+        "Elaine",
+        "Buckles",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "She missed her period? Oh my god. I can't believe it! I'm a father! I did it! My boys can swim! I can do it! I can do it!",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Sally"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're right. Why must there always be a problem? You'd think just once I could get a break. God knows I earned it with that score!",
+      "characters": [
+        "Jerry",
+        "Clerk",
+        "Kimbrough",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yes, you know. Deal with it .We have to deal with the doubt, Susan The DOUBT!! Must be dealt with.",
+      "characters": [
+        "George",
+        "Gino",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't be so sure George. Mess with them and they're messing with you. All right boys send it in",
+      "characters": [
+        "George",
+        "Kramer",
+        "Morty",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "Check it out, from the new issue of the New Yorker...huh!...Funny isn't it?  Look at it, the pig wants to be taller and what's this guy gonna say?.. he he...Nothin'..he he.",
+      "characters": [
+        "Deena",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

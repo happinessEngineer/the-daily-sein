@@ -1,106 +1,106 @@
 {
-  "gameNumber": 793,
+  "gameNumber": 794,
   "date": "2027-03-07",
   "questions": [
     {
-      "quote": "A divorce? Oh, so you can marry her and give her the discount?",
+      "quote": "it's in my book - \"Astonishing Tales of the Sea\" 51 people died.",
       "characters": [
-        "Peterman",
-        "Meryl",
+        "Daphne",
+        "Alton",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You're very good. Very good with the moanings and the gyrations. Y-You really had me going there for a minute.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Enzo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, we're going down to Mt. Sinai Hospital, See they hire actors to help the students practice diagnosing.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Hal",
+        "Nikki"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what, I'll just uh, I'll just look around for a little while.  I'll just browse around.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
+        "Katie"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, that's okay.  We'll make this next right, and swing around to get back to the dealership.",
+      "characters": [
+        "Rick",
+        "Kramer",
+        "Kimbrough",
         "Elaine"
       ],
-      "correctAnswer": "Meryl"
+      "correctAnswer": "Rick"
     },
     {
-      "quote": "So you're so grateful to have sex, that you'll just shout out anything that comes into your head.",
+      "quote": "Alright. Well. Glad we got that straightened out because I've got a date with her.",
       "characters": [
         "Kramer",
-        "Sally",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So the Wig master.......the Wig master said you could stop by the theater tonight.. and he'll show you around.",
-      "characters": [
-        "George",
-        "Newman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "All right, go in the bedroom. Open the window. You can go out the fire escape.",
-      "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "We're taking Elaine to dinner. She's got to start the fast again. Um, you want to go?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ah, soup and a sandwich for a brand-new Armani suit. Is that any kind of gesture?",
-      "characters": [
-        "George",
-        "Lloyd",
-        "Bania",
-        "Maestro"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "A-Anyway, I was thinking we would take two cars up to the cabin and that way if one of wanted to stay you know...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Michael"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah! That's how they talk. You know, everyone's either a bastard or a son of a bitch. Yeah, it's like uh...\"boy, that son of a bitch Box can really hit, uh?!\"",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.",
-      "characters": [
-        "Maestro",
-        "Kramer",
         "Elaine",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No, no. Not me. I just happen to know someone who specializes in exactely these kinds of sticky situations.",
+      "quote": "Hey believe me, baldness will catch on. When the aliens come, who do you think they're gonna relate to? Who do you think is going to be the first ones getting a tour of the ship?",
       "characters": [
-        "Kramer",
+        "Kruger",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Barefoot in the clubhouse? Don't you realize this is against the rules.",
+      "characters": [
+        "Morty",
         "Elaine",
         "George",
-        "Dwayne"
+        "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Poor little bubble boy. He's sitting there waiting for you in his bubble, or igloo thing, whatever.",
+      "characters": [
+        "Jerry",
+        "Lloyd",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I dunno about you two, but I'm quitting. I hate my guy. He's a mean, mean guy.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

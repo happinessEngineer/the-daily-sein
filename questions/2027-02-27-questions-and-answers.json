@@ -1,104 +1,104 @@
 {
-  "gameNumber": 785,
+  "gameNumber": 786,
   "date": "2027-02-27",
   "questions": [
     {
-      "quote": "You know if I told my engagement story to that receptionist, but told her this, was my fiancée..",
+      "quote": "Jerry, look, come on, I'm an invited guest. I can't be aiding and abetting some...party-crasher.",
       "characters": [
+        "Jerry",
         "Elaine",
-        "Jerry",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What, you think I eat all my meals with you?  Excuse me, sweetheart? I think you may have overcharged us. What is this?",
-      "characters": [
-        "George",
-        "Morty",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Porn quotes... I'm so lucky to have a friend like you, George. Ever tell you how much I love you?",
-      "characters": [
-        "Frank",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, of course you don't. You don't have a proper workstation. I'll fax you over my catalogue.",
-      "characters": [
-        "Brett",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Brett"
-    },
-    {
-      "quote": "I'm sure I have a low IQ. I've been lying about my SAT scores for 15 years.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Vandelay"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, it's a pleasure doin' business with a gentleman like yourself.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Guy",
+        "Clerk",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I ran out of butter so I had to borrow yours. Anything else, Mr. Nosy?",
+      "quote": "Uh, listen, do you want me to stay here until George gets up?",
       "characters": [
-        "George",
         "Jerry",
         "Elaine",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Look, I'm not going in your building. I really don't have to talk to you. Goodbye.",
+      "quote": "Yes, yes I am. The icing on the cake would be getting that landmark status from the City. We're hoping Lloyd Braun can pull a few strings.",
       "characters": [
-        "Margaret",
         "Jerry",
+        "Elaine",
         "George",
         "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, sometimes I get the feeling George isn't being completely honest with me.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Carol"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right.  Let me just say one thing: there is no way that this is gonna happen. You hear me? No Way! Because if you think I'm going' to two Thanksgivings, you're out of your mind!!!",
+      "quote": "What am I doing here? You're in the women's dressing room. I need that ticket stub back so I can get my mother's fur coat out.",
       "characters": [
-        "George",
         "Elaine",
         "Jerry",
-        "Helen"
+        "Sid",
+        "Tom"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Course we have a deal. They get out of the way of our cars, we look the other way on the statue defecation.",
+      "quote": "The uh, the letter of, authenticity's in the side pocket there.",
       "characters": [
-        "Gennice",
+        "Elaine",
+        "Jerry",
+        "Kevin",
+        "Gennice"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well that's the grand tour ... Aw but I save the best for last...",
+      "characters": [
+        "Elaine",
+        "Ethan",
         "Kramer",
-        "George",
         "Jerry"
+      ],
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "Well you know ahh, they don't allow outside drinks in the movie theater. So I had to put it in my shirt and sneak it in.",
+      "characters": [
+        "George",
+        "Carol",
+        "Kramer",
+        "Woman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mickey, Mickey he hooked me up. He's a member of the academy.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, she thinks she's in love with him. But she's just remembering this old commercial.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Sally"
       ],
       "correctAnswer": "Jerry"
     }

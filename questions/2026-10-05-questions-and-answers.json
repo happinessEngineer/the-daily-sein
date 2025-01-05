@@ -1,106 +1,106 @@
 {
-  "gameNumber": 640,
+  "gameNumber": 641,
   "date": "2026-10-05",
   "questions": [
     {
-      "quote": "Oh really? 'Cause it looks a little big for you. It looks like something a short, stocky, slow-witted, bald man might wear.",
+      "quote": "And you met her in an antique store! I don't know how you do it!",
       "characters": [
+        "Lloyd",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I know you're very busy, but I just wanted to come by and give you this.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Cynthia",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah, yeah, well, for some reason, um, I just find myself just overcome with feelings of jealousy and resentment.",
+      "characters": [
+        "Elaine",
         "George",
-        "Frank",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well Bob Sacamano he stayed with me once for a year and a half.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah? Well, you bombed! That story stunk worse than these chairs!",
+      "characters": [
+        "Tim",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Jerry, come on. If my mother keeps shrinking, this is exactly what she's gonna look like in ten years!",
+      "characters": [
+        "Marcy",
+        "George",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't believe you called me a chucker. No way I'm a chucker, I do not chuck, never chucked, never have chucked, never will chuck, no chuck!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Heather",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Security? Well, I don't know how you're gonna make it in this business if you can't take it! Ya gotta be tough! Booo! Boooo!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Bob"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What can I say, you know? It's a gift. I only wish I could teach it but, you know it's inborn.",
+      "characters": [
+        "Jerry",
+        "Morgan",
         "Kramer",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "And you didn't ask me to do it? I could raise enough money to cure polio.",
+      "quote": "That's right. Now it looks like it was broken during shipping and I insured it for $400.",
       "characters": [
-        "Kramer",
-        "Nina",
-        "Eva",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I'm engaged to Mr. Ross' niece. I'm probably gonna be taking over this whole place someday so if I were you I would stay on my good side.",
-      "characters": [
-        "Kramer",
-        "Jerry",
+        "Morty",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, I'll tell you what. Next time I talk to him, maybe I'll bring it up. I'll feel him out.",
-      "characters": [
-        "Newman",
-        "Michael",
-        "Haarwood",
+        "Babu",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yes, well anyway, she said something that was kind of intriguing.",
-      "characters": [
-        "George",
-        "Julie",
-        "Jerry",
-        "John"
-      ],
-      "correctAnswer": "Julie"
-    },
-    {
-      "quote": "Hey Elaine, what was it you were about to say to me on the plane when it was going down?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What if he's waiting for me outside? He pointed at me! Did you see him point?!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Frank",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well they just came in, part of my spring-time cruise collection. Two for twenty-five dollars.",
-      "characters": [
-        "Corinne",
-        "Rudy",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Rudy"
-    },
-    {
-      "quote": "I think it's neat. You don't hear that much about god anymore.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Marlene"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "She just has to say the complaint was related to a dental problem.",
-      "characters": [
-        "Guy",
-        "Kramer",
-        "Roy",
-        "Helen"
-      ],
-      "correctAnswer": "Roy"
     }
   ]
 }

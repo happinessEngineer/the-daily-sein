@@ -1,106 +1,106 @@
 {
-  "gameNumber": 986,
+  "gameNumber": 987,
   "date": "2027-09-16",
   "questions": [
     {
-      "quote": "Nevertheless, Elaine. The House, of Peterman is in Disorder. First thing tomorrow morning I want to see you, Peggy, and, Susie right here, in my office.",
+      "quote": "You got that straight. Now I want four new ideas from each of you by 6:00. No, make that six ideas by 4:00. All right, let's move, move, move, move, move!",
       "characters": [
-        "Kramer",
-        "Peterman",
-        "George",
-        "Jerry"
+        "Leslie",
+        "Elaine",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Peterman"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "But it's just a friendly game. Why do you have to be such a stickler?",
+      "quote": "Oh, the shut-ins, that's nice. You know, they're a very eccentric group. Because they're shut in. Of course, they're not locked in, they're free to go at anytime.",
       "characters": [
-        "George",
+        "Hal",
         "Kramer",
-        "Jerry",
-        "Ned"
+        "Peterman",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm not stealing it.  They owe me ten dollars.  They stole from me.",
+      "quote": "I don't get it. I, I've been doing the same exercises. I haven't been eating anything different.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, he's out in front of the building. He's arguing with some guy about a parking space.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, let's get him in the studio today. We can send these out immediately.",
+      "characters": [
+        "Sid",
+        "Woman",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Yeah, no pop-in, no \"in the neighborhood,\" no \"I saw your light was on.\" And the best part is, if things go really well...",
       "characters": [
         "Jerry",
         "Elaine",
-        "George",
-        "Estelle"
+        "Maestro",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, it doesn't sound like you completely thought this through.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Jodi"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh! So you were swimming in the pool, and you wanted some gum.",
+      "quote": "She knows about the speed-dial. Mrs Hamilton, you gotta get me off this thing.",
       "characters": [
         "Elaine",
-        "George",
-        "Frank",
+        "Jack",
+        "Kruger",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, uh.. it hurts when he swallows. Expecially when he drinks orange juice.  I mean, uh.. dog food.. juice.  What's worse - he has a nagging cough.  Yeah, that's it. That's it.",
-      "characters": [
-        "Morgan",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Kramer, I am so sick of you comin' in here and eatin' all my food. Now shut that door and get the hell out of here!",
+      "quote": "Is there any work being done?  Is there any rubbing, touching, finger manipulation on the other person, and if so, who's making the request?",
       "characters": [
         "Elaine",
         "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The nerve. Talkin' about ya behind your back--and right to your face!",
+      "characters": [
         "George",
+        "Kramer",
+        "Patrice",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No. That's one for the ages. But I think they're gonna put Poppie away for a long long time.",
+      "quote": "Owen March, prominent author and essayist suffered a stroke yesterday in the upper West Side apartment of a friend.",
       "characters": [
-        "Steinbrenner",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't understand.. you were wearing the pants you were returning?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh come on. Have some compassion. Okay well I hope it's contagious",
-      "characters": [
-        "George",
         "Jerry",
         "Elaine",
-        "Frank"
+        "George",
+        "Peterman"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

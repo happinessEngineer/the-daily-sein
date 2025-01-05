@@ -1,106 +1,106 @@
 {
-  "gameNumber": 677,
+  "gameNumber": 678,
   "date": "2026-11-11",
   "questions": [
     {
-      "quote": "So what? I wasn't planning on showing that side for another six months. Now you make me throw off the whole learning curve.",
+      "quote": "No, y'know we took the old man's records over to Ron's and he tried to *screw* us so we got in a fight.",
       "characters": [
-        "George",
         "Elaine",
-        "Jerry",
-        "Leslie"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know. I found them in your closet. Ever since Darren left I haven't been able to find anything. He took all my clothes to some cleaners. I'm clueless.  Is that clock right?",
-      "characters": [
-        "Kramer",
         "George",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Actually, you know I just remembered I promised this comedy club that I'd do a set tonight, so, terribly sorry.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Susan",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You should see the smiles on the drivers' faces. I mean, you gotta look quick, but they're there.",
-      "characters": [
-        "Landis",
-        "Jerry",
-        "George",
+        "Celia",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "...and the Jews steal our money through their Zionist occupied government and use the black man to bring drugs into our oppressed white minority communities.",
+      "quote": "Ya, we've been trying to reunite Joey with his father who lives in Paris. But he's afraid to fly alone, you know he's kinda withdrawn, but he seems to take to you.  So it's a perfect solution.",
       "characters": [
-        "Secretary",
-        "Lamar",
+        "Maestro",
+        "George",
+        "Doctor",
+        "Alec"
+      ],
+      "correctAnswer": "Alec"
+    },
+    {
+      "quote": "I'm... I'm concerned. George? George, are you listening to me?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Deena"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "Well I'm very excited about this. I've always wanted to see how those sketch artists do it.",
+      "characters": [
+        "Elaine",
+        "Morty",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "..living together after a while we... we might start to get on each others nerves a little.",
+      "quote": "here Elaine here, Superman  please, next time it will only be the two of us",
       "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Harold"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well what about me! If you're going like that, I?m not going like this.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ya, Mickey. He hooked me up. We're stand-ins for the actors on 'All My Children.' Mickey, he's a stand-in for an eight year old kid and I stand in for the kids father.",
-      "characters": [
-        "Jerry",
-        "Elaine",
+        "Announcer",
         "George",
         "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, look at me. Now I GOTTA FIGURE OUT THE HAT SIZES OF 59,000 DIFFERENT PEOPLE!! WHAT IF A PINHEAD SHOWS UP. I GOTTA BE ON TOP OF THAT.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Wendy"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know, someday...we're going to get enough people in the Supreme Court to change that law.",
+      "quote": "Well its a Bordeaux. Robust, bold, very dry. As opposed to a Beaujolais -- which is richer and fruitier. Ahh, here's one. Twelve dollars.",
       "characters": [
+        "Kramer",
+        "Newman",
         "George",
-        "Carl",
-        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Carl"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no, no. It's not a new number. It's--it's--it's just a changed number. See? It's not different. It's the same, just...changed.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See? You know your father. He can't get a write to the penny, but that's why he was such a good president.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Clerk",
+        "Jack"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Well, it wouldn't hurt to go in the and be able to discuss it intelligently. Maybe you should take a look at a few bras?  Where is you bra? Give him a bra to look.",
+      "characters": [
+        "Fred",
+        "Jackie",
+        "Frank",
+        "Kramer"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "So I made a little list of people who might've made the mannequin. You know, possible suspects.",
+      "characters": [
+        "Kruger",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

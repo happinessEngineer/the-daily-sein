@@ -1,106 +1,106 @@
 {
-  "gameNumber": 149,
+  "gameNumber": 150,
   "date": "2025-06-01",
   "questions": [
     {
-      "quote": "take the rope, thread it through the carabiniere and knot it, and I'll climb up to where you are",
-      "characters": [
-        "Tony",
-        "Helen",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Tony"
-    },
-    {
-      "quote": "Uh, yeah, I'm familiar with some of his writing.  Alright,  look, we gotta get back to work. We just had a big breakthrough here.",
+      "quote": "I want you to get on this phone and give him his 'thank you'!",
       "characters": [
         "Elaine",
-        "Jerry",
         "George",
-        "Newman"
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You didn't realize? How could you not realize? You're stupid! You're a stupid, stupid man!",
+      "characters": [
+        "Darryl",
+        "Jerry",
+        "Susan",
+        "Kramer"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, no, no, no. That's exactly how you said it was going down.",
+      "characters": [
+        "Jerry",
+        "David",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So anyway, she's kind of upset about it so I need you to do me a favor.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So get this: we're in the park today Alex goes wild for this hairless dog.",
+      "quote": "...so we were just kinda wondering if it was possible for you to write us a note, and if you can't, believe me, it's fine.",
       "characters": [
+        "Frank",
+        "Maryedith",
         "Elaine",
-        "George",
-        "Raymond",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So, they have this clock now, where you punch in your age, and all your risk factors. It actually counts down how much time you have left to live.",
+      "quote": "I've got the softball game on Wednesday. It's the championship.",
       "characters": [
-        "Newman",
         "Jerry",
-        "Ellen",
-        "Kramer"
+        "Kramer",
+        "Babu",
+        "Elaine"
       ],
-      "correctAnswer": "Ellen"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Watch how it's done. Oh, hello, Mr. Vandelay? Would you like to buy a computer? Oh, really? Two dozen?",
+      "quote": "Never mind Uma, I need that ticket to get my mother's fur coat back. Why don't you just give him the money for the suit?",
       "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look! No one knows how long this parade is gonna last! They are a very festive people. All I know is that it's Sunday night, and I have got to unwind! Now who's with me?!",
+      "quote": "Elaine. You don't remember our conversation? I talked about how my uncle worked in the book depository building with Lee Harvey Oswald?",
       "characters": [
-        "Jerry",
-        "Rachel",
+        "Bob",
+        "Kramer",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Would you stop it.   Would you quit it please.  Someone is going to see us here.",
+      "quote": "I was chewing gum with Lloyd Braun, and he was bragging about the peepshow you gave him at the Alex.",
       "characters": [
-        "Jake",
-        "Jerry",
+        "Elaine",
         "George",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Someday, before I die, mark my words - I'm gonna tell that woman exactly what I think of her. I'll never be able to forgive myself until I do.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Woman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well, there was two outs, bottom of the tenth, we're one out away from losing the series.",
-      "characters": [
-        "Keith",
-        "Kramer",
-        "Ramon",
+        "Meryl",
         "Jerry"
       ],
-      "correctAnswer": "Keith"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, he's using his connections in the Mayor's office, to uh, get the theatre landmark status.",
+      "quote": "Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something.  Oh, please, come on.. it was nothing.",
       "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
+        "Peggy",
+        "Peterman",
+        "Elaine",
+        "Michael"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

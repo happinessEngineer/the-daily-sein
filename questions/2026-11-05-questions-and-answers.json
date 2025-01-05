@@ -1,104 +1,104 @@
 {
-  "gameNumber": 671,
+  "gameNumber": 672,
   "date": "2026-11-05",
   "questions": [
     {
-      "quote": "That's what you want to see, yeah. . . . Yeah, you want to trade your hair for some phlegm.",
+      "quote": "Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'",
       "characters": [
-        "Jerry",
-        "Tawni",
-        "Kramer",
-        "Helen"
+        "Donald",
+        "Regis",
+        "Nina",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "What? What this? I'll be out of here in couple of hours. Hey, guess who I met today? Rick Savage, oh nice kid, really good kid. You know, we're talking about doing a project together.",
+      "quote": "Five seconds. And Marcelino says he's taking your check down today.",
+      "characters": [
+        "Morty",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Wait a minute, I think he's done.  Oh no, he's taking out the woods!",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Nurse",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry, motor oil is the lifeblood of a car. Okay, you put in a low-grade oil, you could damage vital engine parts. Okay.  See this gasket?  I have no confidence in that gasket.",
       "characters": [
         "Kramer",
+        "Tony",
+        "Gavin",
+        "George"
+      ],
+      "correctAnswer": "Tony"
+    },
+    {
+      "quote": "You're wearing the same clothes as yesterday!!!  You saw Puddy!",
+      "characters": [
         "George",
         "Jerry",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "The Dominicans are rolling them too tight.  Uhm, well, that's why you gotta get real Cubans.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You can't have more than a one-foot differential in your heights. Otherwise, you could really hurt your neck.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, I thought it was stupid. Unless you guys are liking it again.",
+      "quote": "You want my friend to ask his uncle, a man who just lost his wife of 44 years, for a death certificate so that he can save a few bucks on a flight?",
       "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm sorry about that lock on the liquor cabinet. The combination musta just flown outta my head. It's a mental block.",
-      "characters": [
+        "Newman",
+        "Bruce",
         "George",
-        "Kramer",
-        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Are there big coincidences and small coincidences, or just coincidences? Well?! Well?!",
+      "quote": "Well then we saw this woman, and she was wearing a bra with no top.",
       "characters": [
-        "Rava",
-        "Elaine",
-        "Wendy",
-        "Jerry"
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Rava"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "We got a tip that a lot of prostitutes had been turning tricks in the parking lot.",
+      "quote": "Hey, if you got any juice left, you might wanna roll by the big showcase tonight.",
       "characters": [
-        "Elaine",
-        "Detective",
         "Jerry",
+        "Levitan",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Detective"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nothing, just being neighborly.  Do you wanna hang out?  Shoot the breeze?",
+      "quote": "Oh my God! I'm sorry, I thought this was the baby's room. I'm really sorry.",
       "characters": [
+        "Rachel",
         "Kramer",
-        "Elaine",
-        "George",
-        "Newman"
+        "Cynthia",
+        "Guy"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Rachel"
     },
     {
-      "quote": "I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis at PBS. Show us you care. Call in your pledge now.",
+      "quote": "Oh, The Muted Heart. Glen Close. Sally Field. Well, that should be good.",
       "characters": [
         "Jerry",
-        "Kramer",
-        "Ray",
-        "Elaine"
+        "Elaine",
+        "Bania",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     }

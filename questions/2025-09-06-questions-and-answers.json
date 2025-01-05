@@ -1,106 +1,106 @@
 {
-  "gameNumber": 246,
+  "gameNumber": 247,
   "date": "2025-09-06",
   "questions": [
     {
-      "quote": "If you go now, I know what's gonna happen. We'll find the car, Jerry will show up, and then we'll never find you.",
+      "quote": "Because I - I thought we had a good time the other night, an' the only explanation I can come up with is that you think that you caught me",
       "characters": [
-        "George",
         "Jerry",
-        "Sid",
-        "Elaine"
+        "Todd",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Apparently the Seinfelds' are too good for us. I shouldn't say anything bad about your uh your partner.",
+      "quote": "Oh, I see. So you can go, \"Hey, you know who I saw wilding today? Herb!\"",
       "characters": [
-        "Elaine",
-        "George",
         "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "May be she realized she could never have you and she jumped off the George Washington Bridge.",
-      "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why? What's wrong? You're not still thinking about this afternoon are you?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, I don't do \"bits.\" I'm a prop comic. Dammit, I can't find my water gun. I can't go on without my water gun.",
-      "characters": [
-        "George",
-        "Ronnie",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Ronnie"
-    },
-    {
-      "quote": "Well, it better not. Paid for the whole year. So, should I pick those up later?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Frank",
+        "Marlene",
         "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't understand.. you were wearing the pants you were returning?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Wait. Whoa! That's the Rabbi from Elaine's building. I just met this guy the other day.",
+      "characters": [
+        "George",
+        "Mary",
+        "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "How you gonna drive when looking through a periscope? Besides it's not a submarine and there's no room for a periscope in a car.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, think. Don't you remember you kept begging me to see it then finally I agreed. You were supposed to return it. I met you in the gym locker room.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Said I'm not good looking enough for her. Not good looking! Jerry, look at me, look at my face, huh, am I beautiful? George, am I beautiful?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kimbrough",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "People don't turn down money. It's what separates us from the animals.",
+      "quote": "I was in there for two minutes. He didn't do anything. Touch this, feel that – seventy-five bucks!",
       "characters": [
-        "Keith",
-        "Susan",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, look at this.  This doesn't belong here! Someone has made a terrible mistake.",
-      "characters": [
+        "Elaine",
+        "Eva",
         "Jerry",
-        "Gary",
-        "George",
-        "Announcer"
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What was I supposed to do? You knew I was on my first date with Elaine. You come barging in here asking me to contribute money for a volcano relief fund for krakatoa.",
+      "quote": "Are you kidding? People love it. There's something about the clip clop, clip clop. They're nuts for it.",
       "characters": [
+        "Eva",
         "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Guess what? Mrs. Costanza called me, they're not getting divorced.",
+      "quote": "Elaine, come on, take a walk with me down to the Laundromat. I gotta pay this guy the money..",
       "characters": [
-        "Donna",
+        "Jerry",
         "George",
-        "Landlord",
-        "John"
+        "Owner",
+        "Elaine"
       ],
-      "correctAnswer": "Donna"
+      "correctAnswer": "Jerry"
     }
   ]
 }

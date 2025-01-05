@@ -1,104 +1,104 @@
 {
-  "gameNumber": 403,
+  "gameNumber": 404,
   "date": "2026-02-10",
   "questions": [
     {
-      "quote": "Doesn't matter. What's the young man's name? I would like to meet him.",
+      "quote": "Boy, I am really surprised at you.  You are the last person I figured would do something like this. I mean, George, yeah, I can see that. Even Jerry. But not you, Elaine...",
       "characters": [
-        "Pitt",
-        "Elaine",
+        "Kramer",
+        "George",
         "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, Elaine, thanks for picking me up. I can explain everything.",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "Anna",
+        "Jerry"
+      ],
+      "correctAnswer": "Anna"
+    },
+    {
+      "quote": "Anyway, I called him back... I told him I had to go visit my father in the hospital in Maryland.",
+      "characters": [
+        "Carrie",
+        "George",
+        "Sally",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Vivian, hi it's Elaine. Yeah, I'm over at Jerry's, I got your message...What? Yeah, he's right here, hold on...",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And you didn't ask me to do it? I could raise enough money to cure polio.",
+      "characters": [
+        "George",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Why don't you just tell me the name of the movie you've selected.",
+      "characters": [
+        "Peterman",
+        "Helen",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So get this. I'm in the bathroom at work today, and I see Peggy using a seat protector.",
+      "characters": [
+        "Sally",
+        "Jerry",
+        "Jeannie",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "When you're talking about a movie like \"Beaches\", moving from the chair to the couch , . . . that's quite a voyage.",
+      "characters": [
+        "Jack",
+        "George",
+        "Woman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Have you noticed anything else that's different since the new management?",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I could care less. I hope it is on our record. I'm just sorry they didn't lock me up.",
-      "characters": [
-        "Jerry",
-        "Jackie",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, guess what! Little Jerry ran from here to Newman's in under thirty seconds!",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"All right then say you were. I mean .. what do you think could have happened.?\"",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
-        "Puddy"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No buts, Elaine. Or I will strip you of your 'associate' status.  Uh, P.S., the first twenty-four hours are the worst. Better bring a poncho.",
-      "characters": [
-        "Peterman",
-        "Elaine",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!",
-      "characters": [
-        "Steinbrenner",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "rock climbing? hehe.. where do you come off going rock climbing.. rock climbing? you need a boost to climb into your bed",
-      "characters": [
-        "Vivian",
-        "Jerry",
-        "Carl",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, listen to this. Remember that guy I was telling you about at the health club?",
-      "characters": [
-        "Jerry",
-        "Alec",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, I will. But now, I'm accountable. Alright, I take what I want.",
+      "quote": "Hewwo and welcome to Movie phone. If you know the name of the movie you'd like to see, press one.",
       "characters": [
         "Kramer",
         "George",
         "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey. Super's in my bathroom changing my shower head. Have they changed your shower head?",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "George",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     }

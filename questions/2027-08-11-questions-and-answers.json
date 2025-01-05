@@ -1,106 +1,106 @@
 {
-  "gameNumber": 950,
+  "gameNumber": 951,
   "date": "2027-08-11",
   "questions": [
     {
-      "quote": "Let me ask you ; Had she been exposed to any kind of inexpensive glue?",
+      "quote": "Uh, JFK. [To Elaine] I need some small bills for a tip. You got anything?",
       "characters": [
-        "Doctor",
-        "Wilhelm",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "Celia",
+        "Elaine"
       ],
-      "correctAnswer": "Doctor"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "This guy from my old neighborhood. Lloyd Braun. He's a big advisor to Mayor Dinkins. He thinks he's so cool.",
+      "quote": "Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.",
       "characters": [
+        "Elaine",
         "George",
-        "Russell",
-        "Vivian",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Great, great. So anytime you want you can just visualize her naked.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Lanette",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, he did. You know, after that, he had a nervous breakdown? Had to spend a few months in an institution.",
+      "quote": "We have a bonus reality stop today. We will be hauling muffin stumps to the local repository.",
       "characters": [
-        "Jerry",
         "Kramer",
         "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "One of those fabric wholesalers. This guy Todd Gack. I won a bet from him.",
+      "quote": "\"Believe it or not, George, isn't at home, please leave a mes-saaage at the beep. I must be out or I'd pick up the pho-one. Where could I be? Believe it or not, I'm not hooome.\"",
       "characters": [
-        "Elaine",
-        "Jackie",
-        "Pitt",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah I better get to a doctor, bye.  That was close! What drives me to take chances like that?",
-      "characters": [
-        "Kramer",
         "George",
         "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I hate rental cars. Nothin' ever works: the window doesn't work, the radio doesn't work... and it smells like a cheap hooker... [pause] Or is that you?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "\"Mustn't keep the princess waiting. Princess in a big hurry.\" \"No change for bus\" \"Poor princess.\"",
+      "quote": "But, I - I didn't know what she was talking about. I couldn't hear her!",
       "characters": [
-        "Peterman",
         "Jerry",
         "George",
-        "Ruby"
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Ruby"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Okay, next item. Susan's doll collection. Estimated value: $2.6 million. What do you say we go through this doll by doll?",
+      "quote": "One second... Well, if it would make you feel better I could speak to Dr. Whatley. I have to go back and have a wisdom teeth removed.",
       "characters": [
-        "Wyck",
         "Jerry",
+        "Wilhelm",
+        "Seth",
+        "Father"
+      ],
+      "correctAnswer": "Father"
+    },
+    {
+      "quote": "Why should I be uncomfortable just because my apartment is closer to town hall than yours?",
+      "characters": [
+        "Elaine",
         "Kramer",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you were in the mafia, would you tell her every time you killed someone?",
+      "characters": [
+        "Elaine",
+        "Frank",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Wyck"
-    },
-    {
-      "quote": "What person who runs an antique store gets involved in people's lives?",
-      "characters": [
-        "Kramer",
-        "George",
-        "Celia",
-        "Jerry"
-      ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, Jerry, if you're gonna be snacking on these, you can't expect me to pay for the whole box.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Elaine, there's much you don't understand about the Jewish religion. For example, did you know that rabbis are allowed to date?",
-      "characters": [
-        "Dana",
-        "Jerry",
-        "Rabbi",
-        "Kramer"
-      ],
-      "correctAnswer": "Rabbi"
     }
   ]
 }

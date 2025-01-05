@@ -1,106 +1,106 @@
 {
-  "gameNumber": 129,
+  "gameNumber": 130,
   "date": "2025-05-12",
   "questions": [
     {
-      "quote": "Listen uh, petty cash just had tens and twenties.  Go ahead, count it.",
+      "quote": "I have a private matter to discuss with my fellow tenants.  If you don't mind?",
       "characters": [
-        "Helen",
-        "Lippman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "The name's George Constanza. I'm starting work here today. I was wondering if you could tell me where my office is.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Enzo",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, we're meeting a friend of ours for lunch. He works here in the building.",
-      "characters": [
-        "Kevin",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I can do six weeks standin' on my head. I'm a sexual camel. That's not the point. At least there was the possibility.",
-      "characters": [
-        "George",
         "Newman",
-        "Frank",
-        "Jerry"
+        "Jerry",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Look, forget about the receipt, all right? Even if I had the receipt- look at it! It's a hand puppet. What am I gonna do with this?!",
+      "quote": "Hey, what are you doing here? I thought you were baby-sitting at Vivian's.",
       "characters": [
         "George",
-        "Marcelino",
-        "Jerry",
-        "Kramer"
+        "Kramer",
+        "Kate",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well. See ya later, Elaine. Feldman an' I 'a' gotta get down 'o the library.",
+      "quote": "Oh, come on, Jerry. It was 9 to nothing. We were getting shellacked.",
       "characters": [
-        "James",
-        "Morty",
         "George",
-        "Kevin"
-      ],
-      "correctAnswer": "Kevin"
-    },
-    {
-      "quote": "I got a card, and they stamp it every time I buy a sub. 24 stamps, and I become a submarine  captain.",
-      "characters": [
-        "Jerry",
+        "Ray",
         "Elaine",
-        "Milos",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"Believe it or not, George, isn't at home, please leave a mes-saaage at the beep. I must be out or I'd pick up the pho-one. Where could I be? Believe it or not, I'm not hooome.\"",
+      "quote": "...But, barring any unforeseen developments, gentlemen, I think we're sitting on a winner.",
       "characters": [
+        "Farkus",
+        "Alec",
         "Peterman",
+        "Jerry"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "Well, Elaine Benes! Well, it's great to have you!  Boy, is it possible that you're even more beautiful than the last time I saw you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Salesman"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hi, I got some friends inside, I gotta get a message to 'em. Mind if I walk through real quick?",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, I'm reading manuscripts for Pendant Publishing. I told you ten times.",
+      "characters": [
+        "Elaine",
         "George",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well that was a long time ago. How about if I just erase it. Now about that rash......",
+      "quote": "Look at this. It's a book. Employer's address. Whydo they need this? You know I never had a back problem until that night I slept on the convertible sofa.  My back was fine.",
       "characters": [
-        "Jerry",
         "Elaine",
-        "George",
-        "Doctor"
+        "Kramer",
+        "Phil",
+        "Morty"
       ],
-      "correctAnswer": "Doctor"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Oh, uh, \"The Falconer\" by John Cheever. It's really excellent.",
+      "quote": "Bed? You should be sleeping on a wooden board for at least a week.",
       "characters": [
+        "Conrad",
         "Jerry",
         "Kramer",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, the lift. Like the lure of the siren's song. Never what it seems to be, yet who among us can resist?",
+      "characters": [
+        "Kramer",
+        "Carrie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

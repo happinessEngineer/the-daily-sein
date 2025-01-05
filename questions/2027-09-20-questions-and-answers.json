@@ -1,106 +1,106 @@
 {
-  "gameNumber": 990,
+  "gameNumber": 991,
   "date": "2027-09-20",
   "questions": [
     {
-      "quote": "Yeah, I think I've seen you in a club.  You talk about a lot of everyday things, right?",
+      "quote": "Ya know, the guy has one leg and he still calls himself Leapin' Larry, you'd think he had a sense of humor about it.",
       "characters": [
-        "Ellen",
-        "Kramer",
-        "George",
-        "Jake"
-      ],
-      "correctAnswer": "Ellen"
-    },
-    {
-      "quote": "He can't hear you, you idiot. Why don't you just buy another one.",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Yeah, and here it is: You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!",
-      "characters": [
-        "Rebecca",
-        "Kramer",
-        "Izzy",
-        "Elaine"
-      ],
-      "correctAnswer": "Rebecca"
-    },
-    {
-      "quote": "What do you mean you can't go? There's two really girls sitting at the counter eating grilled cheese. Cheese, George! Cheese!",
-      "characters": [
-        "Jerry",
-        "George",
+        "Steve",
         "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Can you relax, it's a cup of coffee. Claire is a professional waitress.",
-      "characters": [
         "George",
-        "Jerry",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right. How 'bout this one: let's say you're abducted by aliens.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, no. No, no, no.  We're staying on me. We haven't solved anything yet.",
+      "quote": "Where am I going to find a Mohel?  Motels, models... How do you find a Mohel?",
       "characters": [
-        "Patrice",
         "Kramer",
         "George",
+        "Elaine",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's not a theater, it's like a room where they bring in POWs to show them propaganda films.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.",
+      "quote": "Hey, let me ask you a question. You met margaret. Doo you think Margaret's good looking? Um, she's a natural beauty. Oh, no makeup. I like that.",
       "characters": [
+        "Sid",
         "Jerry",
-        "Kramer",
-        "Elaine",
-        "Lois"
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Typical rich people, using the world for their personal garbage can.",
+      "quote": "Yeah, like I'm going to risk my job with the New York Yankees to make a few extra bucks.",
       "characters": [
         "Elaine",
+        "Susan",
+        "Izzy",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Look at you. Why don't you use a fork? You're no good with the sticks.",
+      "characters": [
         "Jerry",
-        "George",
-        "Helen"
+        "Frank",
+        "Steinbrenner",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Duncan wants to get together with her and me for lunch tomorrow. He obviously wants me to admit I got a head start. And I don't think she believes me.",
+      "characters": [
+        "Doctor",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know I'm freezin. I'm definitely freezin. I can't stop shaking.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Talk? Did I talk? It - you're darn right I talk to her! We talked up a storm - and I concluded from the basis of these talks that this isn't anybody you should be talking to.",
+      "characters": [
+        "Jerry",
+        "Voice",
+        "Elaine",
+        "Patrice"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, nothing here, let's go.  Oh, I forgot to tell you. After I talked to you today my neighbour called me and played my messages to me over the phone.",
+      "characters": [
+        "Carol",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Carol"
+    },
+    {
+      "quote": "Okay, just take off those pants now, and I'll work the hamstring.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Raymond",
+        "Kramer"
+      ],
+      "correctAnswer": "Raymond"
     }
   ]
 }

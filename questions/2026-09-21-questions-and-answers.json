@@ -1,106 +1,106 @@
 {
-  "gameNumber": 626,
+  "gameNumber": 627,
   "date": "2026-09-21",
   "questions": [
     {
-      "quote": "I know how much you make. I don't even know why I'm doing this, I don't even like basketball.",
+      "quote": "oh I'm sorry I didn't get most of that.. isn't that Kramer over there?",
       "characters": [
-        "Elaine",
+        "Jerry",
         "George",
-        "Jerry",
-        "Celia"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well maybe we could go into business together. If you're clean?",
-      "characters": [
-        "Jerry",
         "Kramer",
-        "George",
-        "Wyck"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Okay, Jerry. that's fine. you're the boss. Katie works for Jerry.",
-      "characters": [
-        "Katie",
-        "Wilhelm",
-        "Jerry",
         "Morty"
-      ],
-      "correctAnswer": "Katie"
-    },
-    {
-      "quote": "Why will she still do it? She hates you now. People don't do you favors after you dump them.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Ray",
-        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey, Dad. You know you can program this thing to beep every time you need to take a vitamin.  Dad, you look so different.",
+      "quote": "Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Wendy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, hi. Uhm, remember me? I..I'm the guy who looks like Neil?",
+      "characters": [
+        "Salesman",
+        "Elaine",
+        "George",
+        "Sylvia"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh yeah, yeah, great.  And get some of those blue corn chips.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Robin",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, no, no, no. These brown things. The chairs.  Jerry, this is the set from the old Merv Griffin Show!  They must be throwing it out. This stuff belongs in the Smithsonian!",
+      "characters": [
+        "Kramer",
+        "Gavin",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, there's something in the air today. You feel it? There's something in the air.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Not that it was that nice of a jacket. I mean it didn't fit him that well. To me there's just something about a monster in a blazer. It shows at least he's making an effort.",
       "characters": [
         "Jerry",
-        "Danielle",
+        "Rick",
         "George",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, we should get going. But, I'm going to get a little bit more, okay?",
+      "quote": "As Miss America, I would try and bring an end to world hunger. If every person sacrificed one meal a week, there would be enough to feed the whole world!",
       "characters": [
-        "Morty",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, I know, but he's a big fan of the genre. You know I'd consider it a personal favor to me.",
-      "characters": [
-        "Kramer",
-        "Jerry",
+        "Karen",
         "Elaine",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Karen"
     },
     {
-      "quote": "I got Sandra transferred to another office upstairs, okay?! So, she blabs to Lippman about my long distance calls to Europe!",
+      "quote": "Come on up.  Well, now we gotta get a posse together. I love a good posse.",
       "characters": [
+        "Kramer",
         "Elaine",
         "Jerry",
-        "Kramer",
-        "Gavin"
+        "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "She had to be impressed by that conversation, had to! It was a great performance. I am unbelievable on the phone. On the date they should just have two phones on the table at the restaurant, done.",
+      "quote": "THANKS FOR SHOWING UP. YOU KNOW YOUR FRIEND HERE TRIED TO KILL ME.",
       "characters": [
-        "Izzy",
         "Elaine",
+        "Donald",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Elaine said I could stay with her another month until Tina gets back. What are you thinking about?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Audrey",
-        "Jerry"
-      ],
-      "correctAnswer": "Audrey"
+      "correctAnswer": "Donald"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 518,
+  "gameNumber": 519,
   "date": "2026-06-05",
   "questions": [
     {
-      "quote": "Jerry, I can't. It's like saying to Pavorotti, \"Teach me to sing like you.\"",
+      "quote": "Now when you took a sip, did you notice it was hot? Were you able to sip it in your normal fashion?",
       "characters": [
+        "Jackie",
         "George",
         "Jerry",
-        "Morty",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jackie"
     },
     {
-      "quote": "Whooooa! here's the director Jerry Seinfeld . Jerry , you discovered Elaine Benes?",
+      "quote": "Ooh, Isosceles. I love the name Isosceles. If I had a kid, I would name him Isosceles. Isosceles Kramer.",
       "characters": [
-        "George",
-        "Jerry",
         "Kramer",
-        "Doorman"
+        "Elaine",
+        "Dana",
+        "Helen"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah. I'm flying them in to meet Ellen. I don't know where to turn! I gotta see what they think of her.",
+      "quote": "Could you put a little thought into this? Jerry's gone, you could humour me. He humours me.",
       "characters": [
         "Kramer",
-        "Peterman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Nice. French doors'd really open this place up. Oh, but you have a slop-bucket.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Gwen",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, at least we know the prosthetic squirrel hips work ... sorry 'bout the set.",
-      "characters": [
         "Jerry",
-        "Elaine",
-        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, yeah, I did have to talk with him. I definitely had to talk with him. Having a problem with my boyfriend.",
+      "quote": "Or maybe, she just wanted to go to the Tony's. I tell you what; you ask her out again. No Tony, just Jerry. That way you know it he was her dude or just some dude.",
       "characters": [
-        "Jerry",
-        "Elaine",
         "Kramer",
+        "Elaine",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "… I mean it's no big deal. You're still drivin'. You should have been watching the road.",
+      "quote": "No, you don't have to. It's all about tickling their buying bone.",
       "characters": [
+        "Elaine",
         "Jerry",
         "George",
-        "Kramer",
-        "Frank"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "So, we're.. uhh, drinkin' and talkin', and uhh, so, she starts rubbing my leg.",
+      "quote": "Look, the main thing is I don't want Elaine to know about any of this. I mean, especially the panty remark. I mean, it's embarrassing. And she's never let me hear the end of it.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well it's all taken care of. I filed a report. An investigation is underway.",
-      "characters": [
-        "Elaine",
-        "George",
+        "Mike",
+        "Doctor",
         "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Interference! You can't count that! Come on, are you crazy?! The coin cannot touch anything, it affects it.",
+      "quote": "Well, I think by sleeping with her, I may have sent her the wrong message.",
       "characters": [
+        "Morty",
         "Jerry",
-        "Gary",
-        "George",
-        "Elaine"
+        "Peterman",
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You don't eat Oreos?  The way you break them open? You're  ~ practically having sex with them.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not sneaking. I didn't even know you were parking, you were just sitting there three spaces up.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Now Porter, you know your mother and I love you very much, but sometimes people fall out of love. Now give me a big hug.",
+      "characters": [
+        "Father",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Father"
     }
   ]
 }

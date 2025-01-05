@@ -1,106 +1,106 @@
 {
-  "gameNumber": 256,
+  "gameNumber": 257,
   "date": "2025-09-16",
   "questions": [
     {
-      "quote": "I don't care. Look, Lloyd doesn't know what he's up against. This is nothing to me.  My whole life is a lie.",
+      "quote": "Did you feel that tension? We use to have banter -  - there's no more banter.",
       "characters": [
-        "George",
-        "Daphne",
-        "Jack",
-        "Lou"
+        "Jerry",
+        "Elaine",
+        "Frank",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Don't you see what's goin' on here???... No boxers, no Jockeys...",
+      "quote": "I think if one's going to kill oneself, the least you could do is leave a note. It's common courtesy. I don't know. That's just the way I was brought up.",
       "characters": [
-        "Jerry",
-        "Elaine",
+        "Steinbrenner",
         "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Is that it? Got the cue tips, got the mini-umbrella, something boring to read on the plane.  That's it. Done!",
-      "characters": [
         "Jerry",
-        "George",
-        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, no. He's pretending he's got gonorrhea so med students can diagnose it.",
+      "quote": "I, would, I would wait on that. I know how you feel but. Juries today, you never know how they're going to look at a thing like this.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Kramer",
-        "George"
+        "George",
+        "Captain"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "But you said he was just coming out of a very serious relationship. Maybe he's, you know, still....kind of...he...not gonna happen.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I am sorry.  I'm supposed to meet my boyfriend here. He looks just like you.",
+      "quote": "Oh I got in, I had to break the window with a rock and then I got my hand all cut up reaching in.",
       "characters": [
         "Elaine",
-        "George",
         "Jack",
-        "Danielle"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "Danielle"
+      "correctAnswer": "Jack"
     },
     {
-      "quote": "They'll get dehydrated on the plane! Get the Seinfelds some water. Please! Please!",
+      "quote": "The extent of the damage would have been far less severe had paramedics been able to reach him sooner.",
       "characters": [
-        "Aaron",
+        "Morty",
         "Jerry",
         "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Alright if you think it's too much they don't have to mail the postcards.",
+      "characters": [
+        "Morty",
+        "Wendy",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Aaron"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I don't like this waiter.  Look at him.. He sees us.. he doesn't want to come over.",
-      "characters": [
-        "Lloyd",
-        "Elaine",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "That?s fantastic! We'll scalp the tickets, we'll make maybe five hundred a ticket.",
+      "quote": "No, no, no! It *can't* be! I shampoo'ed! I rinsed! I repeated!",
       "characters": [
         "Elaine",
-        "Ray",
         "Kramer",
-        "Jerry"
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't know. But I'd like to try that earpiece on, see if it's real.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Puddy",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah yeah, I have to. I'm your fiancé, Peter Von Nostrand.",
+      "characters": [
+        "Tim",
+        "Helen",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You! This is all your fault! You told me I could run the company!",
+      "quote": "Well, I'm staining my floors, y'know, I don't want to get my hands dirty...",
       "characters": [
-        "Elaine",
-        "Jackie",
+        "Kramer",
+        "Todd",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     }
   ]
 }

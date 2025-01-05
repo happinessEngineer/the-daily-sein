@@ -1,106 +1,106 @@
 {
-  "gameNumber": 333,
+  "gameNumber": 334,
   "date": "2025-12-02",
   "questions": [
     {
-      "quote": "This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?",
+      "quote": "Well, there's a vending machine. I could show you where it is.",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Puddy"
+    },
+    {
+      "quote": "Hey, hey hey. Don't worry about me. I'm not a waffler. I don't waffle!",
       "characters": [
         "George",
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Peterman"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I just love meeting new people. You know that's how you really do learn about life.",
+      "quote": "Well, I wanna put a picture of me and my boss Mr. Morgan up at the office.",
       "characters": [
-        "Kevin",
         "Kramer",
         "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, look at that. Picture of me, huh?  Candidate Cosmo Kramer caught barefoot in clubhouse.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Ah, see, now I've been thinking a lot about what happened and I feel horrible.  Listen, I want to give you a ticket back.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Tim",
+        "Jerry"
+      ],
+      "correctAnswer": "Tim"
+    },
+    {
+      "quote": "What do think I tell Jerry everything? It's not like he's my wife.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Carrie",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's a huge problem, Jerry.  The hardest part about having sex with a woman is getting her to come back to your place!  He's already got that.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't think I want to meet the people that are in the market for a used van.",
+      "characters": [
+        "Morty",
+        "Jerry",
+        "Kramer",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohhh, OK, fine, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.",
+      "characters": [
+        "Kramer",
+        "Peterman",
+        "Alton",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, you really missed something. And I have to say...it was pretty much all my fault.  So, how's the book coming?  I say, how's the book comin'?",
+      "quote": "Well come on. That's $182 right there. I don't think that's anything to sneeze at.",
       "characters": [
+        "Frank",
         "Jerry",
-        "Elaine",
-        "Izzy",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What if he's in an iron lung or something? What are you gonna do?  \"How you feeling, Mr. Wilkinson?\"  \"By the way, what's happening with Sendrax?\"",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "Officer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So Jerry, my millennium party's really coming together. Will people be able to breathe underwater in the year two-thousand?",
-      "characters": [
-        "Tony",
-        "Leo",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, correct me if I'm wrong, but isn't it a violation of club policy to not wipe down a machine after using it?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Driver",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Two bedrooms? Why do I need two bedrooms? I got enough trouble maintaining activity in one.  I saw that.",
-      "characters": [
-        "Peterman",
-        "Allison",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You don't understand. This is Fragile Frankie Merman. When we were in camp, if you upset him, he'd run out to the woods, dig a hole, and sit in it.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Tim",
-        "Dana"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Now, you know you're supposed to take these things before you get sick?",
-      "characters": [
-        "Kramer",
-        "Jack",
-        "Jerry",
-        "Morgan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I'm sorry, umm he-here's your money back  I-I-I'll have the clothes.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Gail",
-        "Marcelino"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

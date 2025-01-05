@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1087,
+  "gameNumber": 1088,
   "date": "2027-12-26",
   "questions": [
     {
-      "quote": "A few stitches? I've never had stitches. I'll be deformed. I can't live with that. It goes against my whole personality. It's not me!",
+      "quote": "Why don't you give me the twenty, and I'll stop and get change, and then you and I can... uh... you-know, settle.",
       "characters": [
-        "Jackie",
         "Jerry",
         "George",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Of course I'm not Cartwright! Look, why don't you two just go to the movies all by yourselves, I'm not in the mood.",
-      "characters": [
-        "George",
         "Elaine",
-        "Kramer",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well. I've encouraged her to go back into the Army... There she'll get the structure an' the discipline she needs right now... And she'll have qualified officers telling her what to do...",
+      "quote": "So what if they have a lobster. Suddenly you're a shell-fish connoisseur.",
       "characters": [
-        "Elaine",
+        "Kramer",
         "George",
-        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Don't go shouting we got a hundred dollar bill. People will be jumping out of windows on top of us.",
+      "characters": [
+        "George",
+        "Izzy",
+        "Farkus",
         "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "A sitcom. Can you imagine? And he actually tried to use it to hit on me!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Woman",
-        "Elaine"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "It's fine. Anyway, it's been really nice dating you for a while. And uh good luck!",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, at least you probably had some, uh, pretty good make-up sex after.",
-      "characters": [
-        "Jerry",
-        "Morty",
-        "Lippman",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "There's been massive trauma. We could of course try to save him but, it would be costly, difficult and we'd have to send away for some special really tiny instruments.",
-      "characters": [
-        "Doctor",
-        "Peterman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Doctor"
-    },
-    {
-      "quote": "I don't think we should see each other anymore. You're great but I'm I'm riddled with personal problems.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Audrey"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well...there's no logical explanation. All right. Well, shall we go home?",
+      "quote": "Aw! You'll be fine, you were in there for what , a couple of minutes.",
       "characters": [
+        "Jerry",
         "George",
-        "Kramer",
-        "Milos",
-        "Elaine"
+        "Elaine",
+        "Morty"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, well, then what if we become a couple, George? Every time we see you you're going to be walking around going like this?  Even you can't keep that up.",
+      "quote": "One little wink. She'll freak out, tell my parents. They'll be all over me. Who is this guy?",
       "characters": [
+        "Kramer",
+        "Jerry",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Five cups chopped porcini mushrooms. Half a cup of olive oil. Three pounds celery.",
+      "characters": [
+        "Steinbrenner",
         "George",
         "Jerry",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, what about sneakers? You know, they'll clean 'em. They do complete detailing.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "He knows how to read. And he also knows finishing an entire book doesn't prove anything. And get this: he's into architecture.",
+      "characters": [
+        "Winona",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, well I thought I'd throw him off. See, he knows where I live.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Chiles",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Because he made a big deal about how I understand everything immediately. That's what impressed him.",
+      "characters": [
+        "Sally",
+        "Susan",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

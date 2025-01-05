@@ -1,106 +1,106 @@
 {
-  "gameNumber": 646,
+  "gameNumber": 647,
   "date": "2026-10-11",
   "questions": [
     {
-      "quote": "Well, what about sneakers? You know, they'll clean 'em. They do complete detailing.",
+      "quote": "You know, my fingerprints are all over this. That doorman knows you're a friend of mine. He'll tell that co-op lady, she'll tell Mr. Pitt... Jerry, I'm in this too deep.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Watch the arm! Tim, listen, we don't want to bother you, we know you're busy here.",
-      "characters": [
-        "Kramer",
         "George",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Good for you! What kind of a sick lowlife would do a thing like that? You know those people, you know they're mentally disturbed.",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know I workshopped that and.. SNOOZERS!!! he he he....but I'll tell you what I'll think... It's all a journey.",
-      "characters": [
-        "Sally",
-        "Estelle",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Sally"
-    },
-    {
-      "quote": "Meanwhile Mr. Pitt's got this match with Ethyl Kennedy this afternoon.",
-      "characters": [
-        "Kramer",
-        "Evelyn",
+        "Daphne",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You should try our mousse.  It'll change your life expectancy.",
+      "quote": "All right, how about skipping breakfast. I'm guessing you're not a 'half-grapefruit and black coffee' guy.",
+      "characters": [
+        "Bania",
+        "Julie",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's the bet!  Hello?... No- oh, hi...  no, they just left... Oh, my God... hang on a second. Maybe I can still catch 'em.  Ma! Ma! Up here! Don't get in the cab! Manya died! Manya died!!",
+      "characters": [
+        "Jerry",
+        "Mike",
+        "Darren",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I really didn't pay much attention, I'd just come from buying a speedboat.",
       "characters": [
         "George",
         "Elaine",
-        "Kramer",
-        "Naomi"
+        "Jerry",
+        "Kramer"
       ],
-      "correctAnswer": "Naomi"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "So I got home, and he was vacuuming! I mean, he's twelve years old! Who else but my Alan would do something like that?",
+      "quote": "I threw my back out about 15 years ago. Ever since I have been very careful. I only buy furniture in the ergonomics store.",
       "characters": [
-        "Woman",
-        "Announcer",
+        "Hal",
         "Kramer",
-        "Tim"
+        "Jerry",
+        "Elaine"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Hal"
     },
     {
-      "quote": "Come on lets go. I got the helmet. Lets get the radar detector.",
+      "quote": "I don't need a personal trainer.  all right I've got to go, we'll talk about this later.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, we just got the final budget numbers. We went over budget on some of the items, but I don't think there's gonna be a problem.  I'll let you get back to work, George.",
+      "characters": [
+        "George",
+        "Wilhelm",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Nevertheless, sometime this afternoon, behind the Market Diner, an unmarked van will be waiting. I'm expecting the call at any time. Are you in?",
       "characters": [
         "Newman",
         "Elaine",
-        "Kramer",
-        "Jerry"
+        "Aaron",
+        "Kramer"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "You know, the stupidest guy in my fraternity became an architect - after he flunked out of dental school!  Contratulations, young man.",
+      "quote": "Okay, Okay, I promise.  Wow!!! Oh Man...Oh God.. Oh Brother....Whoooaaaa!! Whoaaaa",
       "characters": [
-        "Wyck",
-        "George",
-        "Elaine",
-        "Loretta"
+        "Jerry",
+        "Jack",
+        "Kramer",
+        "Karen"
       ],
-      "correctAnswer": "Wyck"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Shoes? Shoes?! Shoes?! Shoes weren't invented till the fourth century! People walked around for thousands of years without them!  I got this. Let's go!",
+      "quote": "Elaine, c'mon. Would you just make the call?  Please, make the call.",
       "characters": [
-        "Manager",
-        "Jerry",
         "George",
-        "Elaine"
+        "Tony",
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,99 +1,69 @@
 {
-  "gameNumber": 65,
+  "gameNumber": 66,
   "date": "2025-03-09",
   "questions": [
     {
-      "quote": "So she wanted you to come up, but you left because you thought some guy might be calling you?!",
+      "quote": "Jerry you're a minor celebrity. If you go on this thing, it could create a minor stir. Bring that girlfriend of your and I'll only charge to 60 bucks.",
       "characters": [
-        "George",
-        "Leslie",
         "Jerry",
-        "Brett"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wha...? Oh, man! Geez! Look at that! I'm all lathery. Jerry, you got to show me what I'm doing wrong.",
-      "characters": [
-        "Elaine",
-        "Helen",
-        "Betsy",
+        "Tom",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh. Well, would you look at that.  I guess I forgot to lock it.",
+      "quote": "Why would I buy another one when I spent a hundred bucks on this one?",
       "characters": [
-        "Kramer",
         "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Mmm, gorgeous, exquisite town. So, what's happening with your apartment?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Woman",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So I guess it's fair to say you've set different goals for yourself than say, Thomas Edison, Magellan, these types of people.",
-      "characters": [
-        "Woman",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "WHAT ARE YOU LOOKIN' AT? NEVER SEEN A KID IN A BUBBLE BEFORE?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Donald"
-      ],
-      "correctAnswer": "Donald"
-    },
-    {
-      "quote": "All right. If you refuse to grow up and scam your insurance company, you'll have to work this out with maroon Golf.",
-      "characters": [
-        "Mike",
-        "George",
+        "Man",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So there you are. You've got a nice girl and a clean apartment.",
+      "quote": "No, the acting bug. Ever since I was in that Woody Allen movie.",
       "characters": [
         "Jerry",
         "George",
         "Kramer",
-        "Susan"
+        "Carol"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's amazing how shopping makes me have to go. All I have to do is walk into a department store and it's like some kind of horse laxative just kicked in.",
+      "quote": "Nah, I guess I should really get moving on this, huh? I'm gonna go.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Do you want to be able to get it out or do you want to not be able to get it out?",
       "characters": [
         "Kramer",
         "Helen",
-        "Jerry",
-        "Newman"
+        "Cindy",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm going out with her tomorrow, she said she had some errands to run.",
+      "quote": "Hey hey hey! I don't want to hear another word out of either one of you!",
+      "characters": [
+        "Newman",
+        "Vivian",
+        "Todd",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, you gotta take a ride with me later. I borrowed my father's car. '68 GTO.",
       "characters": [
         "Elaine",
         "Jerry",
@@ -101,6 +71,36 @@
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Don't you see, that's the genius of it. If he had said Liam Neeson, you'd know he's making it up.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "…So that's the bedroom. Here's the bathroom. If you need to, you can familiarize yourself with the kitchen…Yeah, go ahead and look through some of the drawers.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Kramer",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "George, I got something for you.  I'm suppose to find a charity and throw some of the company's money at it. They all seem the same to me, so, what's the difference?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
     }
   ]
 }

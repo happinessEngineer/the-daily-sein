@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1141,
+  "gameNumber": 1142,
   "date": "2028-02-18",
   "questions": [
     {
-      "quote": "Kramer! It's Silvio! Open up, I need to talk to you! I can see you through the reverse peephole.",
+      "quote": "George is right. Those people will try to get away with murder. Believe me. They're all crooks.",
       "characters": [
-        "George",
-        "Silvio",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Silvio"
-    },
-    {
-      "quote": "Kramer is actually sleeping one off, so I thought that I'd help out... what's that, some raccoon or something...",
-      "characters": [
-        "George",
-        "Carol",
-        "Elaine",
-        "Ray"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, would you two stop with the Kennedys? Why does everybody make such a big deal about he Kennedys? What is this fascination?! Who cares?! It's all so boring..",
-      "characters": [
+        "Morty",
         "Jerry",
         "Kramer",
-        "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "Kramer, I'm tellin' you, Elaine doesn't know whatta hell she's doin'! I gotta take over this whole operation!",
+      "quote": "Yeah, see, uh, when we met, I was over there and, uh, you were over here, so the image, uh, the image was reversed, like, uh, like in the mirror.",
       "characters": [
-        "Jerry",
+        "George",
         "Kramer",
-        "George",
-        "Kevin"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I know exactly how he feels. Pleasure doing business with you. Do come again. Ha, ha, ha, ha.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Testikov",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Jerry...Jerry listen I got too much stuff this afternoon, I can't come over, forget it.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Cause I know what happened, Jerry.  Did you call Alec Berg and thank him for the hockey tickets?",
-      "characters": [
-        "Maestro",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Do you realize in the entire history of western civilization no one has successfully accomplished the Roommate Switch? In the Middle Ages you could get locked up for even suggesting it!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Steinbrenner",
-        "Puddy"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You know, revulsion has now become a valid form of attraction.",
+      "quote": "...pianist. A *classical* pianist. She *plays* the piano. She's a *brilliant* woman. I-I-I sat in her living room... She played the *Waldstein Sonata*! The *Waldstein*!",
       "characters": [
+        "George",
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Seth",
-        "Katie"
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I love France,  I was just there last year. In fact, you know I still have an envelope full of French Franks, I'll give 'em to ya.",
+      "quote": "Have you ever thought about selling it .It would make a brilliant wig..",
       "characters": [
-        "Aaron",
-        "Captain",
-        "Elaine",
-        "Morty"
+        "Ethan",
+        "Izzy",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "Aaron"
+      "correctAnswer": "Ethan"
+    },
+    {
+      "quote": "[In Kramer's ear] The old coot's sittin' on a mountain of gold!",
+      "characters": [
+        "Newman",
+        "George",
+        "Daphne",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey! Uh--listen--did you get your--uh--boss's Knick ticket, for Kramer?",
+      "characters": [
+        "Elaine",
+        "Susan",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, then I'm not going to the game either. Okay? I'll give him both tickets.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "Manager",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't She won't return my calls because she caught me in a pick at a light.",
+      "characters": [
+        "Woman",
+        "George",
+        "Fdr",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, how 'bout giving me a hand? You know, bring some of this stuff upstairs.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, listen I gotta get to the pier. The ferry traffic is really bad around four thirty. Look, I still got the key to your apartment and I'll get it back to you as soon as I can.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 696,
+  "gameNumber": 697,
   "date": "2026-11-30",
   "questions": [
     {
-      "quote": "I was quoting him. Why would I be insulted? I'm never insulted. You could call me baldy, dump soup on my head. Nothing insults me.",
+      "quote": "That is it! Mary Hart's voice, don't you see? There's something about Mary Hart's voice that's giving you seizures. Just like, just like, just like that woman in Albany!",
       "characters": [
-        "George",
         "Elaine",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Kramer! That... Kramer! I'm just about to leave, he calls me up. He begs me to sit in his car for two minutes, so he can pick up these birds...",
-      "characters": [
-        "George",
-        "Frank",
-        "Kramer",
-        "Elaine"
+        "Melissa",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He must have caught a glimpse of us when I poured that beer on his head.",
+      "quote": "Yeah. I love Hampton tomatoes. You know, you can eat 'em like apples. You know it's funny, the tomato never really took on as a hand fruit.",
       "characters": [
-        "Patrice",
-        "Jerry",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "That's right I don't like , I never like her from the get-go.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Duncan",
-        "Wyck"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Knopp? Really? Boy. That means there's an opening here for senior editor...has Lippman, uh, hired anyone?",
-      "characters": [
-        "Naomi",
-        "Elaine",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So are you telling me there's not one house to rent in all of Tuscany?",
-      "characters": [
         "Jerry",
         "Kramer",
-        "Evelyn",
         "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I went down to the magazine, I pleaded with him to come and see me again, finally he agreed to come down tonight, and he's going to write another article.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Earl",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"Believe it or not, George, isn't at home, please leave a mes-saaage at the beep. I must be out or I'd pick up the pho-one. Where could I be? Believe it or not, I'm not hooome.\"",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "It's OK. It's fine. She'll do it. I'm sure she'll still do it.",
+      "quote": "Listen, listen I'm gonna go call work to see if I can get my deadline extended. I can't...come up with anything for this thing.",
       "characters": [
-        "Manny",
+        "Hanke",
+        "Elaine",
+        "Joe",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I don't have a spare set. All my keys say 'do not duplicate'.",
+      "characters": [
+        "Morty",
+        "Elaine",
         "Jerry",
-        "Julianna",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Super bowl! Hey, an original G.I. Joe.  With a full frogman suit.",
+      "quote": "Elaine it's her cat. Her cat had the fungus. So I need the tube back.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Receptionist",
+        "Lloyd"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, I have thought about you many times. Have you thought about me?",
       "characters": [
         "George",
         "Elaine",
-        "Jerry",
+        "Gina",
         "Kramer"
       ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "I've heard of Ohio, Katie. But Tuesday's no good. I'm doin' career day at my old junior high.",
+      "characters": [
+        "Donald",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, the thing is, I kinda promised the widow Mantle that I would name my baby Seven.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Puddy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Believe me, Jerry, somewhere in this hospital the anguished \"oink\" of pig-man cries out for help.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Lunch is fine at the beginning then you move on to dinner. you don't move back to lunch. It's like being demoted. I'll never do another crossword puzzle with her again. I know it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Ruby",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

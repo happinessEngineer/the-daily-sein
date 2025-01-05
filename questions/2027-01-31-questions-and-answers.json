@@ -1,106 +1,106 @@
 {
-  "gameNumber": 758,
+  "gameNumber": 759,
   "date": "2027-01-31",
   "questions": [
     {
-      "quote": "What about the whole Christmas spirit thing? Any flexability there?",
+      "quote": "What are they doin' lettin' you bastards on an airplane? Don't they know that's against FAA regulation?",
       "characters": [
-        "Jack",
-        "Announcer",
-        "Jodi",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh No, wait a second... Wait a second... I-I don't know the name of this woman in the bathroom, so when she comes out, you introduce yourself and then she'll be forced to say her name.",
-      "characters": [
-        "Elaine",
         "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I am talking about you and Jodi. You're completely obsessed with her!",
-      "characters": [
-        "Karen",
-        "Celia",
-        "Father",
-        "Elaine"
-      ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "Hey, if you two are meant to be together...I'm sure the cops'll pick her up on something.",
-      "characters": [
-        "Mickey",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, so get this. I get a call this morning from one of the Mets front office guys. They wanna take me out to lunch.",
-      "characters": [
-        "Kramer",
-        "George",
+        "Stationer",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You wanna see?!  There! There it is!  Alright, here! You wanna try on the hat?! Here! Try on the hat!",
+      "quote": "No buts, Elaine. Or I will strip you of your 'associate' status.  Uh, P.S., the first twenty-four hours are the worst. Better bring a poncho.",
       "characters": [
+        "George",
+        "Elaine",
+        "Peterman",
+        "Kramer"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "What do you mean 'my own words'? Whose words are they gonna be?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Russell",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah, it's burning my retina. Susan picked that out for you right?",
+      "characters": [
+        "Jerry",
         "Kramer",
-        "Tim",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I had a bout of that myself one time -- knocked me right on my ass.",
-      "characters": [
-        "Steinbrenner",
         "George",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "...but is there any way that I could possibly have Neil's phone number?",
-      "characters": [
-        "Craig",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "-programs like Ken Burns' Baseball. And if Danny Tartabull were here, I'm sure he'd say, 'That's correct, Jerry.'",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Wilhelm"
+        "Winona"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So you really understand my point about building a rocket and double-parking.",
+      "quote": "Because he hasn't called me since we got back.. I spilled wine on his 8 by 10 photo of one of his favorite Italian opera stars.",
       "characters": [
+        "Marla",
         "Jerry",
-        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, if he thinks that that baby's breathtaking, then who's not breathtaking?",
+      "characters": [
         "Newman",
-        "George"
+        "Kramer",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Tell that to Bobby Colby. All that kid wanted to do was go home. Well he went home alright, with a crater in his colon the size of a cutlet. Had to sit him on a cork the eighteen-hour flight home!",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Um, well, he's got a lot of character in his face. Um, he's short. Um, he's stocky.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Steinbrenner",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well maybe we could go into business together. If you're clean?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, I can't argue with that, but the fact remains... I was completely...  Mulva!",
+      "characters": [
+        "David",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

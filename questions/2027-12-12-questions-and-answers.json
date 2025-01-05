@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1073,
+  "gameNumber": 1074,
   "date": "2027-12-12",
   "questions": [
     {
-      "quote": "Let's do it then! Festivus is back! I'll get the pole out of the crawl space.",
+      "quote": "Mr Mandel, you don't understand ...my my friend had fleas. I ran into the gas, it could have killed me, and my, my other friend couldn't taste his peaches ,they only good for two weeks.",
       "characters": [
         "Elaine",
-        "Karen",
-        "Kramer",
-        "Frank"
+        "George",
+        "Bob",
+        "Kramer"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Ha ha, she was great. You don't want to know. Hey Breaky, remind me to tell you what we did in Lake George.  Get this...I got it all on video.",
+      "quote": "He's finished! I'm going to sew his ass to his face! I'm going to twist his neck so hard his lips will be his eyebrows! I'm going to break his joints, and reattach them!",
       "characters": [
-        "Mike",
-        "Levitan",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Levitan"
-    },
-    {
-      "quote": "I was screamin' at hecklers all night. The last time I open for a rodeo.",
-      "characters": [
+        "Elaine",
+        "George",
         "Jerry",
-        "Earl",
+        "Michael"
+      ],
+      "correctAnswer": "Michael"
+    },
+    {
+      "quote": "Yea. I rented the move Edward Scissorhands. That Johnny Depp, he make me cry.",
+      "characters": [
+        "Enzo",
         "Helen",
-        "Regis"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Let me digest it. Let me get my money's worth. Y'know what would be good is if there was someone else in the bathroom that could tell me.",
-      "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Wilhelm"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Is that so? Or could it be that you're just a *little* bit worried that you may have missed the boat?",
-      "characters": [
-        "Jerry",
-        "Peterman",
-        "George",
         "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Enzo"
     },
     {
-      "quote": "That's it! That's it! I can't take it. I can't take it anymore! You stole the statue! You're a theif! You're a liar!",
+      "quote": "He's not a man, this Jerry. He's not even married like I am.  Huhuhuhu.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, no, no, no. I can walk it off. It's a hundred and twenty degrees in here.. I'll sweat it out.",
-      "characters": [
-        "Tor",
         "Kramer",
-        "George",
-        "Jerry"
+        "Milos",
+        "Helen"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Milos"
     },
     {
-      "quote": "Look, I feel bad for him too, but he'll get another job. I mean, let's face it, it's not a profession where you embellish your resume and undergo a series of grueling interviews.",
+      "quote": "Well, you know, I'm packing for Puerto Rico, I need to borrow your bathing suit.",
       "characters": [
-        "Landlord",
         "Pitt",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Then, why? Why did you make me drive all the way out here? Why didn't you say something? Why? Why? Why?",
+      "characters": [
+        "Kurt",
+        "Kramer",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Shake is bad, but what if it's the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",
+      "quote": "Will I call you when I get home? ha ha What do you think? ee, you kill me kill me",
       "characters": [
-        "George",
-        "Newman",
         "Elaine",
-        "Jerry"
+        "Jerry",
+        "Steve",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You can't give up. You don't think people tell me I stink? When I'm on stage that's all I hear; You stink, You suck. We like magic.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Jackie"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Uhn-uh-uhn - Uhn-uh-uhn - - veeer, veeer, veeer, veeer, veeer, veeer, veeer, veeer… A-Ha ha! Mission accomplished! Back to base, Joe.  dee, de-de, de-de-de-de-de",
+      "quote": "Alright, well anyway, I think they're real. And if they are, I must say they are...spectacular.",
       "characters": [
-        "James",
+        "Gina",
         "Elaine",
-        "Stu",
-        "Jerry"
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Does this mean they're gonna be publishing Kramer's coffee table book?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     }

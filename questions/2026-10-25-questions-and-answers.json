@@ -1,106 +1,106 @@
 {
-  "gameNumber": 660,
+  "gameNumber": 661,
   "date": "2026-10-25",
   "questions": [
     {
-      "quote": "Right there, guys. That's perfect. Ah? Whatta ya think, Lainie?",
+      "quote": "Well?  I was just - I'm curious, that's all. We, uh. We'd like you to, do everything possible.",
       "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "What do you have to go underwater for? What's down there that's so special?",
-      "characters": [
-        "Helen",
-        "Glenn",
-        "Elaine",
-        "Estelle"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "It's Risk, Jerry.  The game of world conquest.   Alright, that's perfect.",
-      "characters": [
-        "Kramer",
         "Jerry",
+        "Kramer",
+        "Guy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not only that they found it. It was simonized and the front end was aligned.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I mean I can't shake this woman. You know, now I have to go to Jimmy's birthday party.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why does he want to hold a rope underneath Woody Woodpecker in the Thanksgiving Day Parade?",
-      "characters": [
-        "Doctor",
-        "Jerry",
-        "George",
-        "Puddy"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "HE's not gonna eat them. He's buying 'em for his Pepsi girlfriend.",
+      "quote": "Ah, well, yes Kramer. So, a coffee table book about coffee tables. Where did you come up with this idea?",
       "characters": [
-        "Elaine",
-        "Seth",
-        "George",
-        "Jerry"
+        "Regis",
+        "Newman",
+        "Ray",
+        "Izzy"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Regis"
     },
     {
-      "quote": "Oh ho! Class, huh? At Columbia? Let me tell you something, pal. I called the registrar's office. I checked you out. They have no record of a Ray Thomas at that school! You liar!",
+      "quote": "If you go now, I know what's gonna happen. We'll find the car, Jerry will show up, and then we'll never find you.",
       "characters": [
-        "Morty",
-        "Kramer",
+        "Elaine",
+        "Jackie",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "This show looks interesting. Isn't he that Seinfeld fellow you went out with?",
+      "quote": "It's.. .. you! It's really you! Oh, I'm such a huge fan of yours. Would you mind signing this poster for me?",
       "characters": [
+        "Kramer",
         "George",
-        "John",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "John"
-    },
-    {
-      "quote": "Don't be so sure. Look at George - he's on his ninth date with Betsy, he still hasn't gotten anywhere with her.",
-      "characters": [
-        "Frank",
-        "George",
-        "Jerry",
+        "Glenn",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Sure, it's like robbing a bank. You don't loiter around in front of the teller holding that big bag of money. You come in, you hit and get out.",
+      "quote": "I'm sorry about that lock on the liquor cabinet. The combination musta just flown outta my head. It's a mental block.",
+      "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You see, this is what I do with women. I start out too strong, now I have to become real, that's when it all falls apart. What good is real? They don't want real, they want funny.",
       "characters": [
         "Elaine",
+        "Estelle",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh. You know what?  I'm gonna grab these from you later. You'll take care of 'em, okay? Okay. See you tomorrow.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Rava"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, I just want to let you know; Lyle and I are completely over. I'd rather be with you.",
+      "characters": [
+        "Lanette",
         "George",
         "Kramer",
-        "Jerry"
+        "Marcy"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Lanette"
+    },
+    {
+      "quote": "Now Jerry please, do not do this to your father.  Over my dead body Jerry.  I'll tell you right now, you're not going to do it.",
+      "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Morty"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 285,
+  "gameNumber": 286,
   "date": "2025-10-15",
   "questions": [
     {
-      "quote": "So we're just asking our friends what they may have said to the adoption agent.",
+      "quote": "…and they put me in this thing, that feels like a coffin, for forty-five minutes. Have you ever been in one of those things? You could go berserk in there!",
       "characters": [
-        "Kimbrough",
-        "Kramer",
-        "Beth",
-        "Jerry"
+        "George",
+        "Jerry",
+        "Corinne",
+        "Kramer"
       ],
-      "correctAnswer": "Beth"
+      "correctAnswer": "Corinne"
     },
     {
-      "quote": "Look, I'm doing you a favor. They're having an unadvertised sale. This suit is gonna be half-priced starting ... Monday.",
+      "quote": "Hey! Hey, everyone. This way. I think we can get out through here.",
       "characters": [
-        "Wilhelm",
+        "Kramer",
         "George",
         "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Is it?!  Ohhh, well if only you'd known, you could have saved some time and given it directly to me!  Ha ha ha.",
-      "characters": [
-        "Jerry",
-        "Officer",
-        "Newman",
-        "George"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh, yeah. The pinch. *I've* done the pinch. That's not new. Besides which, I don't know how you could trust any of his moves now. His whole *repertoire* could be lifted.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Lou",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Special occassions? It wasn't special when my family visited?",
-      "characters": [
-        "Woman",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, Elaine's gonna do the same thing to Puddy's radio that the radio did to her.",
-      "characters": [
-        "Jerry",
-        "Shelly",
-        "Elaine",
-        "Vivian"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "If you read the agreement you signed the deposit is not refundable.",
-      "characters": [
-        "Jerry",
-        "Attendant",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Attendant"
-    },
-    {
-      "quote": "You wanna buy it back? Why, you go drugs hidden in the trunk?",
+      "quote": "But we do owe him a debt of gratitude because by not fixing the crack in the sidewalk, he put Mrs Ziven out of commission for a few weeks.",
       "characters": [
         "Jack",
-        "Elaine",
         "Kramer",
+        "Tim",
         "George"
       ],
       "correctAnswer": "Jack"
     },
     {
-      "quote": "Well, they recognised Jerry from the Super Terrific Happy Hour. See now, you should be doing your own show in Japan. Now, they get you.",
+      "quote": "You know, Jason, I, uh, I couldn't help notice, I... I didn't get my apology.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He was a wrestler. He would grab hold of someone's stomach and just squeeze it until they gave.",
       "characters": [
         "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
+        "Enzo",
+        "Earl",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, let's see: speeding, running a red light, no license, no registration, no plates, no brake lights, no rear view mirror...yeah.",
+      "quote": "She's not... and the guy just took off.  Don't say anything to anybody.",
       "characters": [
+        "George",
+        "Morty",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to.",
+      "characters": [
+        "Peterman",
+        "Jerry",
+        "Harold",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We didn't bet on if you wanted to. We bet on if it would be done.",
+      "characters": [
+        "Sally",
         "Kramer",
         "George",
-        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your friend is been accused of being a serial killer. I think that qualifies.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't. I met them. They're devout. You know, in the cab on the way over here, I actually thought about converting.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 232,
+  "gameNumber": 233,
   "date": "2025-08-23",
   "questions": [
     {
-      "quote": "Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.",
+      "quote": "No, it offends me as a comedian. And it'll interest you that he's also telling Catholic jokes.",
       "characters": [
-        "Jerry",
+        "Frank",
         "George",
-        "Elaine",
-        "Father"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "My doves! They're dead! I trained those birds for eight years! How am I supposed to do my magic act now?",
+      "quote": "If every instinct you have is wrong, then the opposite would have to be right.",
       "characters": [
-        "Kramer",
-        "Doctor",
-        "Karen",
-        "Jerry"
-      ],
-      "correctAnswer": "Karen"
-    },
-    {
-      "quote": "Oh, well that's where the rally is. The Paramount, right next door.",
-      "characters": [
-        "Dan",
         "Jerry",
-        "Carol",
-        "Bonnie"
-      ],
-      "correctAnswer": "Dan"
-    },
-    {
-      "quote": "Now, if this mechanic guy, was, in fact, eating a 5th Avenue bar, as he claims, wouldn't you agree he would have no problem picking one out from a candy line-up?",
-      "characters": [
-        "Helen",
-        "Jerry",
+        "Elaine",
         "George",
-        "Elaine"
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "yeah, I ... I snuck a peak. ... But it was so fast I didn't see anything. It was just a blur.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No! [throws her purse back at her] No, I mean, no thank you, nah...",
+      "quote": "Well maybe you can stick around after everybody leaves and we can sweep together.",
       "characters": [
+        "Elaine",
+        "Todd",
         "Jerry",
-        "Elaine",
-        "Tom",
-        "Lloyd"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Todd"
     },
     {
-      "quote": "Don't you know? Look-look at your face! You only shaved the right side of your face! What is this? A joke?",
+      "quote": "Unless she goes for the bathroom. That's my only chance.  Who am I kidding? I can't do this, I can't do this. I don't even know how to work those stupid machines.",
       "characters": [
-        "Elaine",
         "Kramer",
-        "Stan",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You disappoint me, my friend. Sandy wants nothing to do with you. She tells Laura, \"If you want to waste your time with that pervert, that's your problem.\"",
-      "characters": [
         "Elaine",
-        "Kramer",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey, I gotta stop off at the bookstore to pick up my parents one of those French-English dictionaries.",
+      "quote": "You don't mind that I got your number off the AIDS walk list?",
       "characters": [
-        "Kramer",
         "Jerry",
+        "Elaine",
         "George",
-        "Helen"
+        "Woman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Frankly I am shocked that you would ask such a question  of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look.  We don't have to name names, or, point fingers, or..  name names!  Me and her, have had our problems. She and I have had our problems! You and I, and she and you--",
+      "quote": "Well, something's goin' on here, 'cause every able-bodied Israelite in the county is driving pretty strong to the hoop.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Nina",
+        "Jerry",
+        "Seth"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, it's a windshield. It's going to be your new coffee table.",
+      "characters": [
+        "Kramer",
+        "Attendant",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well you can't tell someone how you feel about their girlfriend until after they stop seeing them.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Gavin"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..Who, who proceeds to burn the man's cabin down with one of those very same cigars!  It's very comical..",
+      "characters": [
+        "Susan",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

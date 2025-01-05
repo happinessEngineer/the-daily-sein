@@ -1,106 +1,106 @@
 {
-  "gameNumber": 330,
+  "gameNumber": 331,
   "date": "2025-11-29",
   "questions": [
     {
-      "quote": "A.A. It's one of the Twelve Steps. Step number Nine is you have to apologize to anyone you've ever wronged.",
+      "quote": "Who's off the street? I'm in the raincoat business for thirty-five years.",
       "characters": [
-        "Kramer",
-        "Man",
-        "Naomi",
-        "Elaine"
+        "George",
+        "Elaine",
+        "Morty",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.",
+      "quote": "Because I think the blind would probably be a little messier around the house. And lets face it they're not going to get all the crumbs. I'd possibly be walking around with a sponge.",
       "characters": [
-        "Jerry",
-        "Susan",
+        "Lippman",
         "George",
-        "Peterman"
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.",
+      "quote": "Oh, Jerry, can you hold on a sec? I just want to check my messages..  Oh, Melissa! Kim!",
       "characters": [
-        "Kramer",
-        "Jerry",
+        "Ellen",
+        "Lloyd",
         "George",
         "Elaine"
+      ],
+      "correctAnswer": "Ellen"
+    },
+    {
+      "quote": "The woman had an orgasm under false pretences. That's sexual perjury.",
+      "characters": [
+        "Elaine",
+        "Doorman",
+        "Jerry",
+        "Jackie"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, that whole storyline about a guy who gets into a car accident, doesn't have any insurance, so the judge sentences him to be a butler? I didn't really buy that.",
+      "characters": [
+        "Dana",
+        "Jerry",
+        "George",
+        "Peterman"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "My intern from NYU. Well, you remember my corporation, Kramerica Industries.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "No! I don't! Don't you even care? This is your company! It's your name on the outside of the building! Speaking of which, the 'R' fell off and all it says now is K-uger!",
+      "quote": "I tell you what, you give me the twenty, and I will buy *you* a popcorn and soda, and I'll throw in a bon-bons.",
       "characters": [
-        "Kramer",
+        "Wyck",
+        "Jack",
         "George",
-        "Jerry",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Alright, well anyway, I think they're real. And if they are, I must say they are...spectacular.",
+      "quote": "Well what are we going to do now. If we can't get the babka the whole thing's useless.",
       "characters": [
-        "Mickey",
-        "Frank",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "how did I know you were here? Something drew me here. This is phenomenal.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Frank",
-        "James"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, it's tarragon. Hey Kramer, I'm sorry about that whole fight we had about you having my apartment keys and everything.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Helen"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Actually, I'm gonna need someone to look after him tomorrow evening.",
-      "characters": [
-        "Jerry",
-        "Abby",
-        "George",
-        "Vivian"
-      ],
-      "correctAnswer": "Vivian"
-    },
-    {
-      "quote": "Jerry, listen, just so you know, before we take off they're gonna tell us what to do in the vent of a crash-",
-      "characters": [
-        "George",
-        "Jerry",
         "Elaine",
-        "Kate"
-      ],
-      "correctAnswer": "Kate"
-    },
-    {
-      "quote": "Don't sell yourself short. You made all the flight arrangements, hotels, busses.",
-      "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Izzy"
+        "Frank",
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "'Cause I had like three jokes on it, they were all perfectly worded just the way I wanted to have it. Can't find it. Hello?",
+      "characters": [
+        "Jerry",
+        "Hal",
+        "George",
+        "Wyck"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All right, All right, all, right!! How you gonna find out who this is?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Woman",
+        "Carol"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

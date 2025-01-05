@@ -1,106 +1,106 @@
 {
-  "gameNumber": 478,
+  "gameNumber": 479,
   "date": "2026-04-26",
   "questions": [
     {
-      "quote": "This is my ketchup. I bought this ketchup just so I could have as much as I want.",
-      "characters": [
-        "George",
-        "Wilhelm",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "'My wife's in a coma.' Yeah? Well, the life support machine called and...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Rita"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "These proofs look pretty good. Oh. Can I move this? Yup. I think this will work.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I had a great time at the last one. I was in charge of the music. I turned that mother out.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Ben",
-        "Levitan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. Well, I don't know if I'm happy for them, I mean I'm glad they're happy, but, frankly, that doesn't do anything for me.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Steinbrenner",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, just gimme that. And gimme some of those Sweet & Lows.",
+      "quote": "No, no, I don't have it now. I gotta pick it up at Mr. Pitt's. Elaine was framing a bunch of stuff for him, so she did me a favor. What, you wanna take a ride?",
       "characters": [
         "Jerry",
         "Kramer",
-        "Morty",
+        "Elaine",
         "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "let me go. let me go. Because I haven't talked to my mother in five years. We just don't see eye to eye. I don't even want to get into my childhood. I'm still carrying a lot of pain. A LOT of pain.",
-      "characters": [
-        "Kramer",
-        "Hanke",
-        "George",
-        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It's out of our way. Why can't we pick up something at Lord's? It's right over here.",
+      "quote": "Oh, I was gonna surprise Joey with them, you got an extra one right?",
       "characters": [
         "George",
-        "Estelle",
-        "Jerry",
-        "Kramer"
+        "Elaine",
+        "Leo",
+        "Wilhelm"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "oh I'm sorry I didn't get most of that.. isn't that Kramer over there?",
+      "quote": "Technically, you're sautéed. So, what are you doing for that?",
       "characters": [
-        "George",
-        "Morty",
         "Jerry",
-        "Beth"
+        "George",
+        "Newman",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, you're nuts with these sponges. George is gettin' frustrated!",
+      "quote": "Oh, well, I'm staying out of this one. This is between them. I am not getting involved.",
       "characters": [
         "Elaine",
-        "Toby",
-        "Jack",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, he is fantastic! And then they fired a gun right up in the air.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh the red. Yeah, It's the chicken roaster sign. You know, its right across from my window.",
+      "characters": [
+        "Jerry",
+        "Silvio",
+        "Kramer",
+        "Katie"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "We can't eat here anymore, because he took a waitress out for a walk.",
+      "characters": [
+        "Susan",
+        "Clerk",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, you could put a fence around these condos, and call it an insane asylum. Nobody would know the difference!",
+      "characters": [
+        "Beth",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Train was so crowded. I had to sit in the seat facing the wrong way.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Rachel",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Rachel"
+    },
+    {
+      "quote": "Ooohh... That sounds juicy. Listen, I gotta go to the bathroom, but I want to hear all about it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

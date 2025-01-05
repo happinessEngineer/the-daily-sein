@@ -1,104 +1,104 @@
 {
-  "gameNumber": 780,
+  "gameNumber": 781,
   "date": "2027-02-22",
   "questions": [
     {
-      "quote": "She went on in some detail about certain activities, illegal in some states, for consenting adults. Things you would know very little about.",
+      "quote": "Maybe it's some small thing I could change. Like a moustache. Or wearing a top hat, or a monocle, or a..or a cane.",
       "characters": [
-        "Elaine",
-        "Peterman",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Don't you see, that's the genius of it. If he had said Liam Neeson, you'd know he's making it up.",
-      "characters": [
-        "Elaine",
-        "George",
+        "Steinbrenner",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yes, you did. There's nobody there now at the Magic Pan to roll the crepes. We gotta close it up.",
+      "quote": "No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.",
       "characters": [
         "Elaine",
-        "Ray",
+        "Clerk",
         "Jerry",
-        "Izzy"
-      ],
-      "correctAnswer": "Izzy"
-    },
-    {
-      "quote": "I mean, all those quick shots of the pants. Just pants, pants, pants, pants, pants, pants, pants. What is that supposed to be?",
-      "characters": [
-        "Guy",
-        "Jerry",
-        "George",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, the corkscrew pasta. It was a Fusilli Jerry. It got stuck in me. Had to go to the proctologist.",
+      "quote": "Well, it doesn't seem to be coming in so good over here. Or here.",
       "characters": [
-        "Frank",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Oh him! Well this morning I found myself in the elevator with him…",
-      "characters": [
-        "Kramer",
-        "Jack",
-        "Elaine",
-        "Rabbi"
-      ],
-      "correctAnswer": "Rabbi"
-    },
-    {
-      "quote": "Yeah, but yesterday, he told Joyce, the aerobics teacher, that he wants to meet me outside here at nine o' clock tonight.",
-      "characters": [
-        "Abby",
         "Elaine",
         "George",
-        "Jerry"
+        "Jerry",
+        "Maestro"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Did you see the size of that document? It's like the Declaration of Independence, who's gonna read that?",
+      "quote": "I'm gonna have to give that guy a taste of his own medicine, so, I am going to sidle, the sidler.",
       "characters": [
-        "Jerry",
+        "Silvio",
+        "George",
         "Elaine",
-        "Manager",
-        "George"
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I mean, I admire the hell out of her. You can't have sex with someone you admire.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "But you're going to have to go get em. I'm not carryin' them all.",
+      "quote": "Yeah. I think it might have something to do with those checks.",
+      "characters": [
+        "George",
+        "Newman",
+        "Patrice",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I'll see you guys later.  Nice meeting you. Bye Elaine.",
       "characters": [
         "Jerry",
+        "Wendy",
         "George",
-        "Kruger",
+        "Kramer"
+      ],
+      "correctAnswer": "Wendy"
+    },
+    {
+      "quote": "Ah, just remember when you see him tomorrow night to tell him that the waiter liked him.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry ... Where are you? I know you like to sit back here. Elaine! Susan!",
+      "quote": "No, I don't need to know. I just think it would be nice if I knew.",
       "characters": [
-        "Doctor",
         "George",
         "Elaine",
-        "Jerry"
+        "Kramer",
+        "Maestro"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, I see. So your time is more valuable than mine. Is that it? You're a delicate genius!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Greg"
       ],
       "correctAnswer": "George"
     }

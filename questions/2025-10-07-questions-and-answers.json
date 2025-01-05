@@ -1,106 +1,106 @@
 {
-  "gameNumber": 277,
+  "gameNumber": 278,
   "date": "2025-10-07",
   "questions": [
     {
-      "quote": "Well well, if it isn't the first lady of the American Theatre.  What brings you here?",
+      "quote": "Oh, please. Do you know what you're talking about? Because I don't think you know what you're talking about. Take a look at that.",
       "characters": [
-        "Pitt",
-        "Frank",
+        "George",
         "Elaine",
-        "Jerry"
+        "Bob",
+        "Mike"
+      ],
+      "correctAnswer": "Bob"
+    },
+    {
+      "quote": "So you don't cry when your grandmother dies? But a hotdog makes you lose control?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nougat? Please. I think I've reached the point in my life where I can tell the difference between nougat and cookie. So let's not just say things that we both know are obvious fabrications.",
+      "quote": "Oh, yeah. I read what you said to the papers yesterday. You weren't in on the planing. What planning? YOU THINK WE PLANED THIS? Uh?",
       "characters": [
         "George",
-        "Kramer",
         "Jerry",
+        "Kramer",
+        "Frank"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That's perfect! He's a zoo guy! He take's care of animals. C-Can I bring the squirrel by?",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Jerry? Jerry, tell them that funny story you were telling me--",
+      "quote": "Fine. Fine.  Excuse me.  Think I'm gonna forget about this? I haven't forgotten about this. I don't forget that easily!",
       "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "Morty"
+        "George",
+        "Rick",
+        "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No, no, no, but why are you using a knife and a fork? Did you just",
+      "quote": "Oh, George, have you seen the American league directory? It is a big green book. Oh, thanks kiddo.",
       "characters": [
-        "Salesman",
-        "Elaine",
-        "Attendant",
-        "Sylvia"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hello... Oh hi Patty, thanks for calling me back. I-I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Ya, Okay, bye.",
-      "characters": [
-        "Kate",
-        "Elaine",
-        "Jerry",
-        "Estelle"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "They're for protection, Jerry. Can you tell where I'm lookin'?",
-      "characters": [
-        "Abby",
+        "George",
         "Wilhelm",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because it's a stupid idea. No one's gonna go for it. Don't you understand It's stupid ,stupid...",
-      "characters": [
-        "George",
-        "Rebecca",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, Fredo was weak and stupid! He shouldn't have eaten that key!",
-      "characters": [
-        "Testikov",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "Before we get started, I am happy to tell you that Eddie Sherman is no longer writing for this catalog.",
+      "characters": [
         "Kramer",
-        "Ben"
+        "Elaine",
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I dunno, Jerry somethin's missing. There's a void, Jerry, there's a void...",
+      "quote": "What's the deal with lampshades? I mean if it's a lamp, why do you want shade?",
       "characters": [
-        "Michael",
-        "Roy",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No-one's gonna have a better gift than this big screen TV! Good for them, love the Drake!",
-      "characters": [
-        "Steinbrenner",
+        "Jerry",
         "Elaine",
         "Kramer",
-        "Jerry"
+        "Frank"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Okay! Well, you know, have a nice trip, and uh... alrighty!  I'll just hold down the, uh, fort!",
+      "characters": [
+        "Elaine",
+        "Salesman",
+        "Testikov",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hu, oh. No he thought I was hiding something from him about Morgan.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Craig"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

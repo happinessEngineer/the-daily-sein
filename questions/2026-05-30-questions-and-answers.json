@@ -1,106 +1,106 @@
 {
-  "gameNumber": 512,
+  "gameNumber": 513,
   "date": "2026-05-30",
   "questions": [
     {
-      "quote": "Uhuh, um you didn't feel uncomfortable spending the whole day at the museum with two complete strangers who were more than twice your age?",
+      "quote": "Well, I took the liberty of packing your things.  Mom's coming to get you.",
       "characters": [
-        "Elaine",
-        "Greg",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "They'll be here at two o'clock. Oh, Elaine called. She said she'd be here at two-thirty. And she says \"Hope your meeting went well with 'Art Vandelay'?\"",
-      "characters": [
-        "Helen",
-        "George",
-        "Mohel",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "I banged it on the desk in the doctor's office. An  aaaa . . .",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Salesman"
+        "Kruger",
+        "Bob",
+        "Susan",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No.  So now you're going to his apartment? I really think this is nuts.",
+      "quote": "Well I just got it. Spector gave it to me , he's giving everything away...becoming a minimalist.",
       "characters": [
-        "Jerry",
+        "George",
+        "Wendy",
         "Kramer",
-        "Pam",
-        "Elaine"
+        "Carol"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know why? Because people like to say \"salsa.\" \"Excuse me, do you have salsa?\" \"We need more salsa.\" \"Where is the salsa? No salsa?\"",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Cop",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright, I tell you what. How about if you and George go to the movies, and I stay here and watch the dog tonight.",
+      "quote": "Maybe for her new performance piece she'll give birth on stage.",
       "characters": [
-        "Elaine",
-        "Puddy",
-        "Wyck",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yes, yes - before they went off the market. I mean, now I've got to re-evaluate my whole screening process. I can't afford to waste any of 'em.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Sid",
-        "Helen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Boy! What a story! I'm speechless. Speechless. I have no speech.",
-      "characters": [
-        "George",
-        "Peterman",
-        "Jerry",
-        "Rick"
+        "Kramer",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I don't know, what were you doing opening her medicine cabinet?",
+      "quote": "I transferred everything in there. I threw out my old book. I'm lost now, Kramer.",
       "characters": [
         "Kramer",
-        "Mike",
-        "Elaine",
-        "Jerry"
+        "Jerry",
+        "Mary",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "No, no, no. Just lately, I've been thinking a lot clearer. Like this afternoon,  what is chicken Kiev,  I really enjoyed watching a documentary with Louise.",
+      "quote": "Hey, just 'cause I went in front first doesn't mean I'm sneaking in.",
       "characters": [
-        "Morty",
         "Jerry",
+        "Kramer",
         "George",
-        "Elaine"
+        "Mike"
+      ],
+      "correctAnswer": "Mike"
+    },
+    {
+      "quote": "Hey! Watch it! Did you see that guy? He just gave me the finger!",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jackie"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, no. It's not that I don't think you can. I know that you can't, and I'm positive that you won't.",
+      "quote": "Years. When we were kids, they made it seem like it was right around the corner.",
       "characters": [
-        "Jerry",
         "George",
         "Kramer",
-        "Elaine"
+        "Jerry",
+        "Guy"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "...and then the ball hits him in the head and he falls right over the railing!",
+      "characters": [
+        "Frank",
+        "Craig",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And now as Festivus rolls on, we come to the feats of strength.",
+      "characters": [
+        "Conrad",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

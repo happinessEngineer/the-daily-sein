@@ -1,106 +1,106 @@
 {
-  "gameNumber": 316,
+  "gameNumber": 317,
   "date": "2025-11-15",
   "questions": [
     {
-      "quote": "That was the Vice President of the post office. I didn't get the transfer.. They knew it wasn't me doing my route!",
+      "quote": "I can't get my pants off, and Mickey's audition is in twenty minutes! You know, I'm supposed to be a business man, I gotta be in costume!",
       "characters": [
-        "Newman",
         "Kramer",
+        "George",
         "Jerry",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You couldn't figure out the \"World's Theory\" for yourself? It's just common sense. Anybody knows, ya gotta keep your worlds apart.",
+      "quote": "What is this obsession people have with books? They put them in their houses like they're trophies. What do you need it for after you read it?",
+      "characters": [
+        "Clerk",
+        "George",
+        "Maestro",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "All the comedians were happy. He was one of these club owners nobodu liked anyway. But Richie was never the same.",
       "characters": [
         "George",
-        "Kramer",
+        "Elaine",
         "Morty",
         "Jerry"
       ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I told him to meet us here in ten minutes. How long has it been?",
-      "characters": [
-        "Babu",
-        "Elaine",
-        "Jerry",
-        "Nina"
-      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Whoa, this is a beauty. Great cut. It's probably very flattering.",
+      "quote": "I'm tired. I hardly slept last night with all this scratching. Bonkers was going crazy.",
       "characters": [
-        "Marcy",
-        "George",
-        "Haarwood",
-        "Willie"
-      ],
-      "correctAnswer": "Willie"
-    },
-    {
-      "quote": "Yes, it's been awful. I wanted to tell somebody.  Help me Kramer! Help me!",
-      "characters": [
-        "Kramer",
-        "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Oh, no no no, you gotta call him the next day, it's common courtesy.",
-      "characters": [
-        "Kramer",
-        "George",
+        "Tawni",
         "Elaine",
-        "Jerry"
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Tawni"
+    },
+    {
+      "quote": "Let me show you to your table.  Your duck is cooking as we speak. It is so succulent...so succulent!",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Poppie"
+      ],
+      "correctAnswer": "Poppie"
+    },
+    {
+      "quote": "I gotta go find this kid. So all you gotta do is lay here, pretend you're asleep in case she gets back, here  keep the covers over ya.",
+      "characters": [
+        "Kramer",
+        "Hanke",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "W-well, what does it matter? It's my car, I can do whatever I want with it.",
+      "quote": "Why'd I think it was timbre? Yeah, she could do voiceover commercials, why didn't you tell me about her voice?",
       "characters": [
+        "George",
         "Jerry",
-        "Susan",
-        "Elaine",
-        "Kramer"
+        "Alec",
+        "Bania"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Not ready? It has to be ready! What kind of a business are you running here?",
+      "quote": "I'm just pretending I'm married to get a discount on dry-cleaning.",
       "characters": [
         "Kramer",
-        "Valerie",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You see, this is what I do with women. I start out too strong, now I have to become real, that's when it all falls apart. What good is real? They don't want real, they want funny.",
+      "quote": "Hello, Oh hi Lois, you want to get together, what for? I don't know about that, I'll have to think about it. I'll let you know. Okay, bye.",
       "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Bob"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Let me ask you something. When you go into a store, does it bother you that they make the security guard just stand there all day?",
-      "characters": [
-        "George",
         "Elaine",
         "Kramer",
-        "Man"
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "The mother seems to hit the sauce pretty hard. I didn't like that.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

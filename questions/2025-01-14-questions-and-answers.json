@@ -1,106 +1,106 @@
 {
-  "gameNumber": 11,
+  "gameNumber": 12,
   "date": "2025-01-14",
   "questions": [
     {
-      "quote": "Yes, full. I love to be full ... love to sit back, loosen the old belt and digest away for hours. Let those enzymes do their work.",
+      "quote": "Dad, that other car cut us off! They had swastikas all over it... They were hurling racial epiphates at us... I could have been killed!",
       "characters": [
         "George",
-        "Elaine",
-        "Frank",
-        "Roy"
+        "Peterman",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'll get you the money, Jerry. I got a hundred dollars in my front pocket if you want to, reach in an' take it!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Mike",
-        "Kramer"
-      ],
-      "correctAnswer": "Mike"
-    },
-    {
-      "quote": "All right, OK So you the name now. The cat is .a a a .. out of the bag.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Doctor",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, they are arranged according the price. And as I recall...",
+      "quote": "She dragged me down to that warehouse on the waterfront in Brooklin to see one of her \"performances\".",
       "characters": [
         "George",
         "Kramer",
-        "Clerk",
+        "Eddie",
         "Jerry"
       ],
-      "correctAnswer": "Clerk"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I don't read much myself,  well you know besides the paper. Yeah a lot of people read to relax, not me. You know what I do?",
+      "quote": "Uh, let me ask you something. You uh, you ever hear of Marisa Tomei?",
       "characters": [
-        "Driver",
-        "Rabbi",
-        "George",
-        "Lloyd"
-      ],
-      "correctAnswer": "Driver"
-    },
-    {
-      "quote": "Two hundred. But I'll tell him it's fifty. He doesn't care about the gift. He gets excited about the deal.",
-      "characters": [
-        "George",
-        "Jake",
         "Elaine",
+        "George",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Well, a person that gives something and then they're dissatisfied and they wish they had, had never uh...",
-      "characters": [
-        "Elaine",
-        "Keith",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know, I read the Lenny Bruce biography, I thought it was really... interesting. He would-",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "Keith"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, our stupid friend freaked out the pilot. Single handedly delayed the plane a whole hour. Can you believe that?",
+      "quote": "Okay.  Hello.  Listen, thanks again for coming last night. Dad said he had a great time.",
       "characters": [
         "Elaine",
         "Jerry",
         "George",
-        "Peterman"
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Either that, or they've got a weird little hang-up about lying face-down in filth. Why don't you just go to the cashier?",
+      "quote": "Oh of course. Todd Gack. You did you bet was in Star Wars? Sammy Davis Jr.",
       "characters": [
         "Elaine",
         "Kramer",
         "Jerry",
-        "Stu"
+        "Puddy"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well today's almost over. And weekdays always go by fast. Friday we're leaving. It's like two days really. It's like a cup of coffee. It will go by like that.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No of course not. People ask me medical questions all the time.",
+      "characters": [
+        "Alec",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I mean, it's killing me! Newman's got the jump on the invites, and will crush me if I try to go it alone!",
+      "characters": [
+        "Father",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "What's the big deal if we don't make it? I'll just go tomarrow or the next day.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Ed"
+      ],
+      "correctAnswer": "Ed"
+    },
+    {
+      "quote": "Yeah, well, I guess the only thing I can do is go into George Steinbrenner's office and tell him he has to give her a raise.",
+      "characters": [
+        "Kramer",
+        "Morty",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

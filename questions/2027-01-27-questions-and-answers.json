@@ -1,106 +1,106 @@
 {
-  "gameNumber": 754,
+  "gameNumber": 755,
   "date": "2027-01-27",
   "questions": [
     {
-      "quote": "Yeah.. yeah. I know. Um.. how about if, instead of.. diving from the train, you.. uh, you, I don't know, you slip and, and fall in some mud, and.. ruin your pants?",
+      "quote": "Well, I figure if it doesn't work out I can always flush them down the toilet.",
       "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Karen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Hey, hey, wait a minute! Let me ask you something. Kramer, the last time you hit your head, was Mary Hart on TV?",
-      "characters": [
         "Jerry",
-        "Brett",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Come on up. . . . I never heard of this. You've got to fast for three days to take an ulcer test. How you gonna do that?",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Forget it? I already called my parents. I told them to expect the surprise of a lifetime. My mother's making her roasted potatoes!",
+      "quote": "The... drivel... parts. Oh my gosh, I just realized – I have to make a phone call. I-I can't believe- Would you-",
       "characters": [
-        "George",
-        "Clerk",
         "Jerry",
-        "Kramer"
+        "Katya",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That's right. Squeezed an extra twenty-five dollars out of me.",
-      "characters": [
-        "Jerry",
-        "Rudy",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Rudy"
-    },
-    {
-      "quote": "Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me…ge ge ge",
-      "characters": [
-        "Darren",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Ah! Jerry I've been around long enough to know when I'm being worked.",
+      "quote": "With your looks and my words, we'll have built the perfect beast.",
       "characters": [
         "Elaine",
         "Jerry",
-        "Kevin",
-        "Kramer"
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well this situation is driving me crazy. He's all I think about. I can't get him out of my mind.",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "George",
+        "Dan"
+      ],
+      "correctAnswer": "Dan"
+    },
+    {
+      "quote": "So I'm nothing. Jerry is best man , Kramer is an usher and I am nothing.",
+      "characters": [
+        "Kramer",
+        "Kimbrough",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh ah, again with the Edward Scissorhand. How can you have hand like a scissor, huh? Show me one person who's got hand like a scissor.",
+      "quote": "I thought you heard. He had a nervous breakdown last year. That's why I'm taking care of him.",
       "characters": [
-        "Enzo",
+        "Deena",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Deena"
+    },
+    {
+      "quote": "Well, I, uh, I like to think of this as my conference room. Yeah, it has a more formal atmosphere, you know, with the shelves, and the furniture.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Estelle",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I can't believe this? What happened to him? Where the hell is he?",
+      "characters": [
+        "Elaine",
+        "George",
         "Kramer",
-        "Babu",
         "Jerry"
       ],
-      "correctAnswer": "Enzo"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "That condom killed me. Why do they have to make the wrappers on those things so hard to open?",
+      "quote": "Yep.. yep. Um, he's promoting a  benefit for Goodwill, you know, they, uh, they clothe the  poor, and the homeless..",
       "characters": [
-        "George",
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "Sidra"
+        "George",
+        "Stan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. He's disgusting! Besides, I'll take any chance I can to talk to her.",
+      "quote": "Hey, look who's over there. Miss Cool-toes. Check this out, Jack!",
       "characters": [
-        "Jerry",
         "Elaine",
         "Kramer",
-        "Greg"
+        "Gary",
+        "Jerry"
       ],
-      "correctAnswer": "Greg"
+      "correctAnswer": "Gary"
     }
   ]
 }

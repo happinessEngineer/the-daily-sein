@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1117,
+  "gameNumber": 1118,
   "date": "2028-01-25",
   "questions": [
     {
-      "quote": "Well, buddy,  he's taking the case!  Jackie Chiles is right on it!  Right on it, he's all over it!",
+      "quote": "Oh well, hey, I dated Jerry too. I-I know what a monster he can be. More wine and turkey?",
       "characters": [
-        "Jerry",
         "Elaine",
-        "Darren",
+        "Jerry",
+        "George",
         "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Alright we gotta get back to the show. What are you guys doing?",
+      "characters": [
+        "Susan",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, I used to love Paris. My uh, dead Fiancée, Susan..  In fact I. think I, I may have a picture of her..",
+      "quote": "Oh, Hey, hey, hey! That's great! That's very nice. You know we've been waiting twenty minutes for you people?! What do you think, you're Mussolini?!",
       "characters": [
+        "Elaine",
         "Jerry",
-        "Newman",
-        "Steinbrenner",
+        "Toby",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "W--then I'm pretty much where I am now. At least I got to take a ride on a spaceship.",
+      "quote": "Well, it might be. Just in case anything does happen, it's nice to know there's somebody like you around.",
       "characters": [
         "Jerry",
+        "Vivian",
         "George",
+        "Morty"
+      ],
+      "correctAnswer": "Vivian"
+    },
+    {
+      "quote": "Did you happen to notice that Julie handed the big salad to Elaine?",
+      "characters": [
+        "George",
+        "Susan",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh no! >click click< Kramer, this phone's a piece of junk, goodbye!",
-      "characters": [
-        "George",
-        "Frank",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, I wouldn't have minded it so much but I was running home to go to the bathroom.",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know what? The hell with this party, I don't even want to go to begin with.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Jerry, that is so ridiculous. But, George didn't even have his glasses on!",
+      "quote": "Who is he not to tell you about his life-threatening illness?",
       "characters": [
         "Jerry",
+        "George",
         "Elaine",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know a friend of my father's used to live right around here.  Mike Wichter.  He sold plastic straws.  You know the ones?  You could bend them.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Stu",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "George, forget about the shoes. Want you to do something for me . This handicapped woman had an accident. Somebody gave her a used wheelchair with defective brakes.",
+      "quote": "And I'm doin' Letterman Monday. You know, I gotta work out the material!",
       "characters": [
-        "Frank",
-        "Stan",
-        "Kramer",
-        "Gary"
+        "Elaine",
+        "Jerry",
+        "George",
+        "Woman"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I'm sure at some point between the years 800 and 1200--somewhere--there were two women living together.",
+      "quote": "The same, he sent it as a thank you for my Super Bowl tickets.",
       "characters": [
-        "George",
         "Jerry",
-        "Cop",
-        "Herb"
+        "Elaine",
+        "Rachel",
+        "Estelle"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, there was two outs, bottom of the tenth, we're one out away from losing the series.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Keith"
+      ],
+      "correctAnswer": "Keith"
+    },
+    {
+      "quote": "Well, George, I think you're beginning to get some perspective on things. I think we're making progress.",
+      "characters": [
+        "Doctor",
+        "Kramer",
+        "George",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
     }
   ]
 }

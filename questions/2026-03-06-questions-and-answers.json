@@ -1,106 +1,106 @@
 {
-  "gameNumber": 427,
+  "gameNumber": 428,
   "date": "2026-03-06",
   "questions": [
     {
-      "quote": "You know what, let's go to that mall in Liberal before we go to the party. We'll have to take your car, it's got the most room.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Peterman",
-        "Vivian"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I saw \"Titanic\". So that old woman, she's just a liar, right?",
+      "quote": "She's got rabies, just like my friend Bob Sacamano. She's delirious.  She's foaming at the mouth!",
       "characters": [
         "George",
         "Kramer",
-        "Detective",
-        "Waitress"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey! This is the kind of room Sinatra stays in. Hey! look , Macadamian nuts.",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "You're not gonna see 'em. I got a case of party poppers I'm gonna keep in front of 'em.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Eva",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "What kind of person is this? There's only one other person who might be able to do something like this, and that's you.",
+      "quote": "\"About tonight hum.. there's been a little misunderstanding.\"",
+      "characters": [
+        "Elaine",
+        "Jack",
+        "Jerry",
+        "Todd"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, I'll give you a sportin' chance. I'll take Ithaca.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Newman",
-        "Gary"
+        "Earl",
+        "Tawni"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Earl"
     },
     {
-      "quote": "You got bit by a strange dog and you didn't get a rabies shot?",
+      "quote": "Oh. Jerry, those are the guys that mugged me for the armoire.",
       "characters": [
+        "Kramer",
         "Jerry",
         "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Look at that guy. Right there. Isn't that the guy from the show? He's..he's wearing the jacket.",
+      "characters": [
+        "George",
         "Elaine",
-        "Kramer"
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Are you?  Lemme ask you something.  Where do you get your material?",
+      "quote": "Mr. Kramer…Dean, my internship is on line two, she wants to set up a meeting.",
       "characters": [
         "George",
-        "Elaine",
-        "Jerry",
-        "Guy"
+        "Darren",
+        "Lloyd",
+        "Elaine"
       ],
-      "correctAnswer": "Guy"
+      "correctAnswer": "Darren"
     },
     {
-      "quote": "There really building a Utopian society up there huh.And you tribute all this to the calzone.",
+      "quote": "Okay, George, I am on the other line. I promise you, I'll get you her number.",
       "characters": [
         "Jerry",
-        "Betsy",
-        "Jack",
+        "Elaine",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "You're passing already? But the show just ended two minutes ago!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Where's the heat in this car? Come on Elaine warm me up, oh! I'm cold. Just give me a little squeeze.",
+      "quote": "I don't know. I'm very attracted to her. That accent, it's so sexy.",
       "characters": [
-        "Elaine",
-        "Alec",
+        "Jerry",
         "Kramer",
-        "Jerry"
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, you know, Poppie's over at my place. Tonight's the big night. I'm gonna make the first test pizza at the restaurant.",
+      "quote": "What're you talking about, Wilhelm. You popping pills? You got the crazies again?",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
+        "Steinbrenner",
+        "Susan",
+        "Sally",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Steinbrenner"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1115,
+  "gameNumber": 1116,
   "date": "2028-01-23",
   "questions": [
     {
-      "quote": "Jerry, look! You gotta help me! I can't have 'em near me! If I have one pair in my house, I'm gonna wear them!",
+      "quote": "You're his friend. Better that she should sleep with someone else? Some jerk that he doesn't even know?",
       "characters": [
-        "Farkus",
-        "Elaine",
-        "George",
-        "Kramer"
+        "Morty",
+        "Kramer",
+        "Toby",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Now, if you'll excuse me, I'm going to make love to your mother.",
+      "quote": "Well, people never give a good 'hello' at a funeral. I mean, they go like this  That's the biggest.",
       "characters": [
-        "Frank",
-        "Jerry",
+        "George",
         "Elaine",
-        "Lanette"
+        "Morty",
+        "Jerry"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "George"
     },
     {
-      "quote": "You know, it is so sad, all your knowledge of high culture comes from bugs bunny cartoons.",
+      "quote": "Well, look. Here's the work order with everything that broke. Just kind of bring it up at the right time and find out.",
       "characters": [
-        "Elaine",
         "Jerry",
+        "Roy",
         "George",
         "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So basically, it's every man, woman, child, and invalid for themselves.",
-      "characters": [
-        "Jerry",
-        "Helen",
-        "George",
-        "Peterman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "'cos the other night , you know, I was sleeping with Marion I rolled over and I cut her ankle with my big toe.",
+      "quote": "Because Marcelino, he taped it up on his cash register with all the other bad checks.",
       "characters": [
-        "George",
-        "Elaine",
         "Jerry",
-        "Kramer"
+        "Kramer",
+        "Man",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I stink! I can't play! The ball is just sitting there, Jerry, and I can't hit it! I only hit one really good ball that went way out there!",
+      "quote": "Well, I hit the wall yesterday with Lady Godiva. She did a full body flex on a pickle jar.",
       "characters": [
-        "Kramer",
+        "Lippman",
+        "George",
         "Jerry",
-        "Elaine",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I see that Ziggy's back at the complaint department.. \"The New Yorker is stealing my ideas.\" ha ha ha See that's funny.....'cause it's real.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kruger",
         "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "That was two years ago, remember? 'Jeh-Ree, you gotta see the Bay-Bee! You gotta see the Bay-Bee!'",
+      "quote": "I'm sorry, I didn't know you had company. I just wanted to return your tape.",
       "characters": [
-        "Jerry",
         "George",
+        "Jerry",
         "Elaine",
-        "Vandelay"
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, my arm feels a lot better. That Wendy really knows her stuff.",
+      "quote": "Well, this you're not gonna believe. I found out why I was testing positive for opium. Poppy seeds!",
       "characters": [
-        "Jane",
+        "Estelle",
         "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "My uh uncle is having an operation. I just wanted to see how he was.",
+      "quote": "Think where man's glory most begins and ends and say my glory was I had such a friend.",
       "characters": [
-        "George",
+        "Mike",
         "Elaine",
-        "Lippman",
-        "Beth"
+        "George",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I know. This was like a record. My previous record was when Joni Hirsch asked me not to tell anybody that we slept together. Kept a lid on that for about 28 seconds.",
+      "quote": "I found a rough spot on the kitchen floor, I thought I'd polish it up with this belt sander I have here.",
       "characters": [
-        "George",
-        "Karen",
-        "Morty",
-        "Newman"
+        "Jerry",
+        "Kramer",
+        "Frank",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     }
   ]
 }

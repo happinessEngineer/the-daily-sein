@@ -1,104 +1,104 @@
 {
-  "gameNumber": 280,
+  "gameNumber": 281,
   "date": "2025-10-10",
   "questions": [
     {
-      "quote": "Oh with all due respect, I went there too, and I work for a team that just won the World Series.",
+      "quote": "All right. I'll tell you what. If it's going to make you feel any better you can see me naked.",
       "characters": [
-        "Simon",
-        "Morty",
         "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, well if you change your mind, we'll wind up as Isabella's probably around seven.",
-      "characters": [
-        "Kramer",
+        "Margaret",
         "Frank",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, Yeah. The sneakers. All the Americans with the sneakers. Always running from something. Ya ya, well Sit, stop running, Ehh. two minutes, I give you latest manuscript!",
-      "characters": [
-        "George",
-        "Testikov",
-        "Jerry",
-        "Darryl"
-      ],
-      "correctAnswer": "Testikov"
-    },
-    {
-      "quote": "Oh, that's terrible. They stole a rye? Why would they steal a rye?",
-      "characters": [
-        "Helen",
-        "Jerry",
-        "George",
         "Kramer"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Oh, gee, I can't talk right now. Why don't you give me your home number and I'll call you later.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Newman",
-        "Woman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "He's moving to Seattle. We wanted to say goodbye, I was just getting out of the shower, and yada yada yada--",
-      "characters": [
-        "Marcy",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Marcy"
-    },
-    {
-      "quote": "You know, I always wanted to drive the big rigs. I used to watch those commercials during the reruns of Gomer Pyle.",
-      "characters": [
-        "Peterman",
-        "Jerry",
-        "Kramer",
-        "Joe"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "…kissed me. We both had tears streaming down our faces. I never saw anyone so beautiful. It was at that moment that I decided to tell her that, I was not a marine biologist.",
+      "quote": "Well, I think you're wrong about that.  [Elaine walks past the window again, glancing in] And ah now if you'll excuse me, I'd really like to get started, please.",
       "characters": [
+        "Patrice",
         "Elaine",
-        "Jerry",
-        "Frank",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "She likes the pop-in. I've told her how I hate the pop-in.  He likes the pop-in, too.",
+      "quote": "All right. That's more like it. Thank you very much.  By the way, my uncle was an alcoholic, so...",
       "characters": [
-        "Frank",
-        "Jerry",
+        "Newman",
         "George",
-        "Morty"
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "A lesser man would have crumbled. They would have gone for the \"dish\" and the sure fire sexual-harassment suit.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "..You know, cats run away all the time. You know, my aunt, she had a cat. Ran away. Showed up three years later.. you never know. They got things in",
+      "quote": "You know what? On my first road test, I hit a dog.  I think it was a golden retriever. No, no, no, it was a - it was a yellow lab.  I'm gonna check my messages.",
       "characters": [
         "Kramer",
-        "Jerry",
         "Elaine",
-        "Mickey"
+        "Jerry",
+        "Emily"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well why don't you get a hold of it and change what you don't like.",
+      "characters": [
+        "Silvio",
+        "Waitress",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, to tell you the truth Elaine. I don't know if I can be with someone who doesn't like The English Patient.",
+      "characters": [
+        "Newman",
+        "Blaine",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Blaine"
+    },
+    {
+      "quote": "Well, I'm not paying the five cents for that stupid recycling thing.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "You know, Jerry, there's this thing that I haven't told you about. See, there was this tractor and, oh boy, this is really difficult.",
+      "characters": [
+        "Sophie",
+        "Mike",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Sophie"
+    },
+    {
+      "quote": "Well you can confine them, you can punish them, you can cram them into the corner, but they're not going away, Jerry.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sid",
+        "Jeannie"
       ],
       "correctAnswer": "Kramer"
     }

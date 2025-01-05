@@ -1,106 +1,106 @@
 {
-  "gameNumber": 630,
+  "gameNumber": 631,
   "date": "2026-09-25",
   "questions": [
     {
-      "quote": "She's not concerned about the security guard. What kind of a person is this? I'm marrying a person who doesn't care that this man has to stand here 8 hours a day when he could easily be sitting.",
+      "quote": "Alright, great, because I got to get down there and pick up my blade. Hey, and I couldn't find that stock room.",
       "characters": [
+        "Elaine",
         "Jerry",
         "George",
-        "Bania",
-        "Craig"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah ha, well, I really wouldn't know about that. I don't watch much TV. I like to read. So what do you do, a lot of that \"did you ever notice?\" this kind of stuff.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Helen",
-        "Roy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What's the matter with you? I just wanted to see how tall she was.",
-      "characters": [
-        "Kramer",
-        "Kurt",
-        "George",
-        "Loretta"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I went too far. I over seasoned it. Men were keeling over all around me. I can still hear the retching, the screaming. I sent sixteen of my own men to the latrines that night. They were just boys.",
+      "quote": "Jerry and George called me from this limo and they said we're all going to the Knicks-Bulls game.",
       "characters": [
-        "Frank",
-        "Morty",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Ah, you know. I'm supposed to meet, eh, someone -- I'll, I'll wait for them outside.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Wyck",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Is it possible they're just having babies to get people to visit them?",
-      "characters": [
+        "Pitt",
         "Elaine",
-        "Jerry",
-        "Ava",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ow! You broke my dental plate!  Doris! He broke my dental plate. You son-of-a-bitch! I'm gonna sue you.",
-      "characters": [
-        "Jack",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "You're just like George. George'd do the same thing. You're just like him. It's amazing!",
-      "characters": [
-        "Elaine",
-        "Jerry",
         "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Uh, you know, I just told them what kind people you are and, uh, yada yada yada, that is it.",
-      "characters": [
-        "Wilhelm",
-        "Hoyt",
-        "George",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"555-3455.\" Well wait a second, don't you see that's 555-FILK.",
+      "quote": "Dad, I wouldn't eat anything you caught in that pond out in front of the condo.",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Kramer"
+        "Danielle",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "On the other hand, does that mean she should never be allowed to date again? You scratch one car and you're forbidden to have social contact for the rest of your life?!",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well,  I gotta meet Newman at the pet store. Helping him pick out a turtle.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Listen, something just came up for Tuesday at the Dayton Civic Center. That's Ohio, Jerry.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Katie"
+      ],
+      "correctAnswer": "Katie"
+    },
+    {
+      "quote": "Well, I kinda snuck up behind him at the urinal and tried to see if he could hear me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Steve"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Listen, George! Listen! He knew what he was doing, this was a signal.",
+      "characters": [
+        "Elaine",
+        "Sid",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey Kramer, those have wholesale value! We could cut our losses.",
+      "characters": [
+        "Newman",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Apparently the glue in the wedding invitations was a....toxic.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1095,
+  "gameNumber": 1096,
   "date": "2028-01-03",
   "questions": [
     {
-      "quote": "Well, he doesn't even do it exactly the same. He--he--he uses a pinch at the end instead of the *swirl*!",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Doctor",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No. But I was the only one at the table that didn't get violently ill.",
-      "characters": [
-        "Kramer",
-        "Lamar",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well this worked out okay. So are you going to see the police woman?",
-      "characters": [
-        "Hoyt",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, it wasn't ready on time. I have to return it after the show.",
+      "quote": "Each crepe has to be hand-rolled by a Mandelbaum. That's what puts the magic in Magic Pan!",
       "characters": [
         "Jerry",
         "Elaine",
-        "Kramer",
-        "Hanke"
+        "Izzy",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Izzy"
     },
     {
-      "quote": "Oh, I really like him but, well, I still haven't told him the tractor story.",
+      "quote": "The courthouse. You gotta go with me to the courthouse. I'm contesting a ticket today.",
       "characters": [
-        "Sophie",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Sophie"
-    },
-    {
-      "quote": "And where does it end? Then everyone's doin' it. It's like the wave at ball games. Air quotes. The phrase, \"Don't go there.\" - Someone's gotta take a stand!",
-      "characters": [
-        "Susan",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, no, no, no no. Listen to me. Most days, the post office sends one truckload of mail to the second domestic regional sorting facility in Sagenaw, Michigan.",
-      "characters": [
+        "Newman",
         "George",
         "Jerry",
-        "Chiles",
-        "Newman"
+        "Bania"
       ],
       "correctAnswer": "Newman"
     },
     {
-      "quote": "Hey, let me ask you something. How long do you have to wait for a guy to come out of a coma before you can ask his ex-girlfriend out?",
+      "quote": "Ha, Yeah right, hang on, I'll ah, I'll get her for you. he, he, he, he. Seriously, what's up?",
       "characters": [
         "Jerry",
-        "Frank",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, have fun at the... family reunion.  So, what do you know about this Jack fellow?",
-      "characters": [
-        "Frank",
-        "Jackie",
-        "Jerry",
+        "Elaine",
+        "Peterman",
         "George"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "\"I don't think so. I think they were getting dressed and not only that; my shirt was out!!!\"",
+      "characters": [
+        "Jerry",
+        "Puddy",
+        "Peterman",
+        "Detective"
+      ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I mean the problem is that the good ones know they're good. And they know they're in such demand they're just not interested in confining themselves to one person.",
+      "quote": "Well, I've uh, I've changed my mind. I think I'm going to build a rollercoaster instead.",
       "characters": [
         "Kramer",
-        "Cynthia",
         "Jerry",
-        "Doctor"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Cynthia"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Mattress, I didn't order a mattress. Who sent this? Hal Kitzmiller?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yes! 860,000. I can't believe it's still standing. No one has beaten me in like 10 years.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Peggy, we've got to talk. What is it about me that you find so offensive?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kevin"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh you may stray, but you'll always return to your dark master, the cocoa bean.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Regis",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I did. He loves Rava. Worse, he loves Ray. And he didn't think you're funny at all.",
+      "characters": [
+        "Abby",
+        "Elaine",
+        "Kramer",
+        "Maryedith"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 897,
+  "gameNumber": 898,
   "date": "2027-06-19",
   "questions": [
     {
-      "quote": "I mean, who has a funeral on a Wednesday? That's what I want to know. I mean, it's the championship, I'm hitting everything.",
+      "quote": "No, no buts. We made up our minds.  We want Kramer. He showed us how much he cares about Steven.",
       "characters": [
+        "Doorman",
+        "Stan",
+        "Helen",
+        "Kramer"
+      ],
+      "correctAnswer": "Stan"
+    },
+    {
+      "quote": "Oh I'm lying. Why would I do it unless I was in mortal danger? I know it's against the law.",
+      "characters": [
+        "Jerry",
+        "Emily",
         "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Have you ever noticed how they always give you the peanuts on the planes?",
+      "quote": "Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid.",
       "characters": [
-        "Laura",
-        "Jerry",
         "Kramer",
+        "Morty",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I'll tell ya, this sidler guy is really chapping my hide.",
+      "characters": [
+        "Sally",
+        "Kramer",
+        "Jerry",
         "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "hey, you know what? I just remembered something. I had a dream about that guy last night. This is amazing.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Peterman",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Anyway, you know why I didn't ask you, I mean I felt so uncomfortable, and you were so annoyed in the cab.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Alright, great, because I got to get down there and pick up my blade. Hey, and I couldn't find that stock room.",
+      "quote": "Uhm, look, I know this'll sound odd, but can I buy them from you?",
       "characters": [
-        "George",
-        "Craig",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "A hundred and fifty dollars? A hundred and fifty dollars for what? For this couch?",
-      "characters": [
+        "Kramer",
         "Elaine",
         "Jerry",
-        "Bob",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh yeah, I'm very sensitive about that. I mean, when someone's birthday comes up, I keep my ears open. So what'd you get her?",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "She's a physical therapist. She doesn't want to have to deal with that outside of the office.",
+      "quote": "Uh, maybe we'll just stand and watch the tv. [knock knock]. I gotta go someone's at my door. Yeah!",
       "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, right!. On Prancer, on Dancer, on Donna, on Ethyl, on Harriet.",
-      "characters": [
-        "Jerry",
-        "Mickey",
-        "Amy",
-        "Elaine"
-      ],
-      "correctAnswer": "Mickey"
-    },
-    {
-      "quote": "I want my vacuum cleaner! I know you can hear me. Look my mother, she's going to come and visit me. She sees that rug, she's going to kill me.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "Bruce"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Now you're being audited because of it. You see That's Karma.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Susan"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "And Newman gave you money too. So, I didn't even meet this guy. You know, we trusted you.",
-      "characters": [
-        "Aaron",
-        "Elaine",
         "Kramer",
         "George"
       ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, are you blind? He's a writer. He said his name was Sal Bass. Bass, Jerry! Instead of salmon, he went with bass! He just substituted one fish for another!",
+      "characters": [
+        "Bruce",
+        "Guy",
+        "Kramer",
+        "Jerry"
+      ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "C'mon up.  You know what? Do me a favor. Don't even do the move anymore. You're gonna give it a bad name.",
+      "characters": [
+        "Tor",
+        "Abby",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

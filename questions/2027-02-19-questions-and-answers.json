@@ -1,104 +1,104 @@
 {
-  "gameNumber": 777,
+  "gameNumber": 778,
   "date": "2027-02-19",
   "questions": [
     {
-      "quote": "We were walking down the block right by your house and I was just about to break up with him then all of a sudden he started to twitch.",
-      "characters": [
-        "Lois",
-        "Jerry",
-        "Elaine",
-        "Mickey"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Alright, what's the difference. What are we gonna do now? He won't take our calls, we can't get into his office...",
+      "quote": "I just thought you would be a little more excited about a friend of mine having a baby.",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Testikov",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No problem.  There's no problem.  She just owes me ten dollars, that's all.",
-      "characters": [
-        "George",
-        "Peggy",
-        "Kruger",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Here's my card. I'm in real estate, so, if you're ever looking for something bigger, something nicer..  ..maybe not right now. Anyway..",
-      "characters": [
-        "Captain",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, I wrote some jokes to the show and they gave me two tickets.",
-      "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Tim"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look, it's a very awkward situation. I don't wanna be presumptuous.",
-      "characters": [
-        "Peterman",
-        "Elaine",
-        "Jack",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know I'm a little hungry. You wouldn't happen to have any of that mango left?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Bruce",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yes, George, come in, come in. George, word up's you've been cracking under the pressure. Can't cope, can't stand the heat. Spit the bit.",
-      "characters": [
-        "Kramer",
-        "Steinbrenner",
-        "Estelle",
-        "Jerry"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "And when is Brother Costanza planning on telling Mother Costanza?",
+      "quote": "Hey, Julio. I was wondering, could you get to that shower today, You think?",
       "characters": [
         "Jerry",
+        "Vivian",
         "Kramer",
-        "Elaine",
-        "Bob"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I mean, you know, I've never been so insulted in my entire life. There's something really wrong with this man. He is a Soup Nazi. What? What is that?",
+      "quote": "And now I think she might really be interested in you. And Dan is",
       "characters": [
+        "Kramer",
         "George",
-        "Babu",
-        "Helen",
+        "Father",
         "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, I've been trying to jam stuff in the box, like you told me, but sometimes it says, like, \"Photographs - Do not bend\".",
+      "characters": [
+        "Jerry",
+        "Ethan",
+        "Voice",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, Mr Lippman.  That is so exciting. I mean, you have no idea how sick I am of running around town looking for socks.",
+      "characters": [
+        "Newman",
+        "Danielle",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh No nonono I'm not a cop ...Heum... I work for the Yankees.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "It's beautiful. She makes all the plans. I'm not from around here so it's okay if I'm stupid, and she knows I'm only in town visiting so there's no messy breakup",
+      "characters": [
+        "George",
+        "Jerry",
+        "Sara",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Now I don't believe this. That guy owes me big time. I got him off sugar! Look, I'm gonna go down there with you right now.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, it starts in five minutes. You were there at the taping, what's the big deal?",
+      "characters": [
+        "George",
+        "Donna",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "It doesn't matter. If anything happens to her, I'm on deck! Scissors mishap, air show disaster, chinese organ thieves...it's a dangerous world.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
       ],
       "correctAnswer": "Elaine"
     }

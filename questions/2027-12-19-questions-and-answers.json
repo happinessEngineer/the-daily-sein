@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1080,
+  "gameNumber": 1081,
   "date": "2027-12-19",
   "questions": [
     {
-      "quote": "Yes! Go in there! Do a little investigative journalism. I need to know!",
+      "quote": "They don't consider it stolen, if you wilfully give the guy the keys.",
       "characters": [
-        "Elaine",
-        "Peterman",
         "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ah, Yeah Yeah, I have a - I have a question, um -- What do you know about inter-abdominal retractors?",
+      "quote": "So. I figure since she likes one hairless animal why not another.",
       "characters": [
-        "Rita",
         "Kramer",
-        "Frank",
-        "Rebecca"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "All right, all right, I?ll wear this. It's bad enough I?ve got to go to the opera I?ve got to sit next to ozzie nelson over here.",
-      "characters": [
-        "Peterman",
+        "Newman",
         "George",
-        "Silvio",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't even know their names! Look, why don't you just take the one that was on the left?",
+      "quote": "George, I have to honest; I could go either way with you...but what the hell, we need someone, huh.",
       "characters": [
-        "Kramer",
-        "Guy",
-        "Jerry",
-        "Salesman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "But, see here. Right. Wrong. Right. Wrong. Right. Right. Wrong--",
-      "characters": [
-        "Bania",
-        "Jerry",
-        "Morty",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I don't know. All of 'em. They're all crooks! Besides, I couldn't get all different candy bars, anyway.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What about me? I mean I just watched a few games with her sitting in the stands.",
-      "characters": [
-        "Elaine",
         "Jerry",
         "Kramer",
-        "George"
+        "George",
+        "Kruger"
+      ],
+      "correctAnswer": "Kruger"
+    },
+    {
+      "quote": "No, no. I was looking at my chart and it said I was difficult. Why would they write that?",
+      "characters": [
+        "Katie",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I don't know, I guess it was on. I don't know my alarm sound; I'm not tuned in to it like it's my son.",
+      "quote": "Aww, right. Three hundred, plus fifty for the repair. Three fifty, that's it!",
       "characters": [
-        "Kramer",
-        "Newman",
+        "Frank",
+        "Gary",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Jerry, her brother just had a book of political cartoons published.",
+      "characters": [
+        "Kate",
+        "Susan",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, you know I'm on the phone with the police! Some guy just gave me a wise answer. Ask that woman.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Bania",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, Dr, Allenwood, uh...I was hoping to compile an - admittedly, rudimentary - scrapbook of her life. Something that Betsy could have, and hold onto.",
+      "quote": "Right. And, and to cover my nervousness I started eating an apple, because I think if they hear you chewing on the other end of the phone, it makes you sound casual.",
       "characters": [
-        "Sid",
-        "Gavin",
+        "Kramer",
+        "Jerry",
         "George",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What time does your flight get in? Six? All right, that gives us six hours. Then I'll meet you at the diplomat's club. I'll be the one without the big red sash. Okay, see you tonight.",
+      "quote": "Listening to you. I listen to this for fifteen minutes and I'm on top of the world. Your misery is my pleasure.",
       "characters": [
         "Jerry",
-        "George",
+        "Kramer",
         "Elaine",
-        "Sid"
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe this! What was wrong with it? What didn't you like about it?",
+      "characters": [
+        "Lloyd",
+        "George",
+        "Jerry",
+        "Tim"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 314,
+  "gameNumber": 315,
   "date": "2025-11-13",
   "questions": [
     {
-      "quote": "Yeah. Go out and have a ball with the guys. I'll be waiting right here for you.",
-      "characters": [
-        "Celia",
-        "George",
-        "Kramer",
-        "Newman"
-      ],
-      "correctAnswer": "Celia"
-    },
-    {
-      "quote": "Yeah when I was 8, I had a deaf cousin who lived with us for about a year.  So I haven't been able to do it in a while.",
+      "quote": "Well, congratulations my friend. You know, I'm sorry I missed the grand re-opening. I was out of town for about a week.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Man",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "There's a friend of ours on drugs and we're going to confront him.",
-      "characters": [
-        "Elaine",
-        "Helen",
+        "Toby",
         "Jerry",
-        "Kramer"
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I think it moved. Oh my god, I think it moved. Yeah, give me the big piece. I'll see you later.",
+      "quote": "That infernal rattling sound that has plagued me these past two days - and I could not find the source. In my office, in the hallway. Even in the men's room! Shame on you, Elaine!",
       "characters": [
+        "Peterman",
+        "Frank",
+        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "I remember that it's a good thing. Someday, I hope to do it again.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Michael",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wonder where Elaine is sitting? I really wanted you to meet her she's supposed to be here tonight with her new boyfriend Tony",
+      "characters": [
+        "Jerry",
+        "Voice",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I just spoke to Duncan. He said if you don't race, he's going to fire me.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Lois"
+      ],
+      "correctAnswer": "Lois"
+    },
+    {
+      "quote": "I did. I'm just curious. It's been almost a week. I want to check it out.  Six points?  It's up six points!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Jack",
+        "Estelle"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hi, we're from the United Volunteers, we've come to pick up the TV.",
+      "characters": [
+        "George",
         "Jerry",
         "Kramer",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well it's a lesson for the kids out there. Anything's possible. Jeromy, I have *hit* the jackpot. The perfect man. Nothing but sex and shopping.",
+      "quote": "I just heard that a postman spotted a rickshaw down in Battery Park.",
       "characters": [
-        "Elaine",
+        "Newman",
         "Jerry",
-        "George",
+        "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Well, you should choose the poem since you knew Susan best at the time of her unfortunate ...accident.",
+      "quote": "Well, now that we have that cleared up.. why don't the three of us have lunch.",
       "characters": [
-        "Wyck",
+        "Peterman",
+        "George",
         "Kramer",
-        "Elaine",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "Wyck"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Really? My father has a ton of old clothes just sitting up in the attic, y-you think they're worth something?",
+      "quote": "[momentarily shocked, as if the answer were self-evident] You're talking.",
       "characters": [
         "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh god, oh god. Okay, let's not panic. Let's just get to the hospital...",
-      "characters": [
-        "Jerry",
-        "Owner",
-        "Jackie",
-        "Ken"
-      ],
-      "correctAnswer": "Ken"
-    },
-    {
-      "quote": "Yeah. Well, actuall today was the first day I worked out since the Central Park Mini-Marathon.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Sandi",
-        "George"
+        "Newman",
+        "Deena",
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right. All right. Let's not get into panic mode! Let's not make a big deal outta this thing or we're never gonna get through this night.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Woman",
-        "Susan"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

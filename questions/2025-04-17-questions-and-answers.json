@@ -1,106 +1,106 @@
 {
-  "gameNumber": 104,
+  "gameNumber": 105,
   "date": "2025-04-17",
   "questions": [
     {
-      "quote": "Elaine, according to your urine analysis, you're menopausal. you have the metabolism of a sixty-eight year old woman.",
+      "quote": "You know uh, Valerie, I uh, couldn't help but notice that I'm on your speed-dial.",
       "characters": [
-        "Stu",
-        "Peterman",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "I'm not stable? I'm like a rock. I take these glasses off, you can't tell the difference between me and a rock. I put these glasses on a rock. You know what jumps into most people's minds? Costanza!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's mine. That's my smell. Jerry you've got to get that model to get me an appointment with CALVIN KLEIN.",
-      "characters": [
         "George",
         "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You know the only reason I'm doing this is because you took Audrey to the hospital.",
-      "characters": [
-        "George",
-        "Jerry",
-        "David",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It was unbelievable. You're right the jokes kept bouncing off her like superman.",
-      "characters": [
-        "Jerry",
-        "Simon",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, she puts ten dollars in every card for my birthday, that's why I save them.",
-      "characters": [
-        "Jerry",
-        "Estelle",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, sleepy here is quite a weasel, maybe he can bat for you.",
-      "characters": [
-        "Jerry",
-        "Kevin",
-        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Why don't you call Steve D'Jiff, he works in the marketing department at Calvin Klein. In fact he's a good friend of John Mollika and Richie also.",
+      "quote": "Anyway, thanks a lot for letting us stay here, Steve, I really owe you one.",
       "characters": [
+        "Jerry",
         "Kramer",
-        "Clerk",
-        "Lois",
-        "Jerry"
+        "Elaine",
+        "Peterman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "This is the most amazing story I've ever heard--why did he want you to take off the baseball cap? That is so insane!",
+      "quote": "Look at this guy, he's like a cat burglar. He thinks if he goes through real slow the machine won't detect him.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bookman",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "He is filing a chapter eleven. Why, what's going on, why is he filing a chapter eleven?",
       "characters": [
         "Elaine",
         "George",
-        "Attendant",
+        "Rabbi",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Because important things go in a case. You got a skull for your brain, a plastic sleeve for your comb, and a wallet for your money.",
+      "quote": "Objection, Your Honor! This is completely inappropriate! My clients' medical condition is not on trial here! I refer you to the Disability Act of 1990.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Chiles",
+        "Kramer"
+      ],
+      "correctAnswer": "Chiles"
+    },
+    {
+      "quote": "hmm where is Jerry sitting? he's supposed to be here tonight with his new girlfriend I'm dying to see what she looks like",
       "characters": [
         "Elaine",
         "Kramer",
         "Jerry",
         "George"
       ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "They're reorganizing the staff, and I'm on thin ice with this guy as it is.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "No, no. No, no, no.  We're staying on me. We haven't solved anything yet.",
+      "characters": [
+        "Jerry",
+        "Dana",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "That condom killed me. Why do they have to make the wrappers on those things so hard to open?",
+      "characters": [
+        "Lippman",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Cleaver, I once had cleaver as a kid. I was able to lift a car.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Sid",
+        "Enzo"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

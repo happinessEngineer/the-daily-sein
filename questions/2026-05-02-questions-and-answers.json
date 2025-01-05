@@ -1,106 +1,106 @@
 {
-  "gameNumber": 484,
+  "gameNumber": 485,
   "date": "2026-05-02",
   "questions": [
     {
-      "quote": "Well, I'm the boyfriend. Otherwise, what's the point of being the boyfriend? This is where you have to be when you're the boyfriend.",
+      "quote": "Yeah. They should make a movie about all the Hindenburg flights that made it.",
       "characters": [
         "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "\"These pretzels are making me thirsty\"? That was one line! You got fired!",
-      "characters": [
-        "Elaine",
-        "Marcy",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "When you're dead, you're dead. That's it. You're not goin' anywhere...",
-      "characters": [
         "Elaine",
         "Jerry",
-        "George",
-        "Woman"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "She works for PBS, I met her when I agreed to do that pledge drive.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Elaine",
-        "Jerry"
+        "Susan"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, I didn't really think about what I was gonna do with all..",
+      "quote": "Yeah, A big salad. Very good. Actually it was too big. Ha ha ha Wht?",
       "characters": [
-        "Laura",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So.ehmmmm. so, do you have any ideas when the Nicole Millers are coming in?",
-      "characters": [
-        "Jerry",
+        "George",
         "Elaine",
-        "Kramer",
-        "George"
+        "Gina",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "He's a cube. Anyway, he got married six months ago. He told me ever since he's been wearing a wedding band, women have been coming on to him everywhere he goes.",
+      "quote": "Alright, look. Jerry, you know the whole story, you should settle this.",
       "characters": [
-        "George",
-        "Susan",
+        "Kramer",
         "Jerry",
-        "Elaine"
+        "George",
+        "Guy"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, yeah, that's right, well, you fell asleep one day on the sofa and I took them off your stinkin' feet. They looked so good to me, I just had to have them!",
+      "quote": "Well, actually, it's kind of a funny story because she has this amazing toy collection and last night I finally got to play with them.",
       "characters": [
+        "Cindy",
         "Jerry",
-        "Woman",
-        "Kramer",
-        "Vivian"
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I will get you for this. This is my business, this is my life. No one ruins this for me. No one!  Here's my card.",
+      "quote": "And so, for all these reasons, we are officially broken up.  Thank you,  and good night.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "Jerry",
-        "Mohel"
-      ],
-      "correctAnswer": "Mohel"
-    },
-    {
-      "quote": "Santa speaks the language of all children. A notchie watchie dotchie do.",
-      "characters": [
-        "Lloyd",
-        "Jerry",
-        "Toby",
+        "George",
+        "Melissa",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Rava was standing right next to me. I never told her where I got the statue.",
+      "characters": [
+        "Bob",
+        "Hanke",
+        "Kramer",
+        "Ray"
+      ],
+      "correctAnswer": "Ray"
+    },
+    {
+      "quote": "Listen, it's really been a pleasure taking care of your dog for a week, but if you don't mind...",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, Beth, Arnie, it's Elaine. Um, thought you guys might wanna have lunch. Gimme a call. Bye.",
+      "characters": [
+        "Elaine",
+        "Rudy",
+        "Jerry",
+        "Woman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Anna. I don't recall seeing you around the office. Do you work in the mail room?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Anna",
+        "Elaine"
+      ],
+      "correctAnswer": "Anna"
+    },
+    {
+      "quote": "Well, Mrs Hamilton, it's certainly nice that you and Valerie patched things up, so we could all get together like this. Where is Valerie?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Jodi"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

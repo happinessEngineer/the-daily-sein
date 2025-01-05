@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1025,
+  "gameNumber": 1026,
   "date": "2027-10-25",
   "questions": [
     {
-      "quote": "horning on my rock climbing trip. It's just supposed to be me and Tony",
+      "quote": "It's just a Latin phrase George, it does not mean anything. Now, what is this test?",
       "characters": [
         "George",
         "Elaine",
-        "Jerry",
-        "Matthew"
+        "Joel",
+        "Susan"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I bent over backwards for that woman! Is it that thing I said about her sister?",
+      "quote": "Yeah, looks like you're getting a little spare tire there, tiger.",
       "characters": [
-        "George",
-        "Jerry",
-        "Carol",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "How would you like it if I just pulled your heart out of your chest right now, and shoved it down your throat?",
-      "characters": [
-        "Tom",
-        "Jerry",
+        "Morty",
         "Kramer",
-        "Frank"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Tom"
+      "correctAnswer": "Morty"
     },
     {
-      "quote": "I didn't tell you to have a hot dog. Who told you to have a hot dog?",
+      "quote": "Would it kill him to check up on us? No - drops off the meals and that's it. I realize we're prisoners, but we're still entitled to catsup.",
       "characters": [
-        "George",
+        "Peterman",
+        "Estelle",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, it's false advertising, see? And the thing is, I think she likes people thinkin' she's Chinese. She suggests Chinese food. She always introduces herself as \"Donna Chang\"...",
+      "characters": [
         "Jerry",
-        "Carol"
+        "Helen",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah but what if I am? I'm the last... male Kramer! We're facing extinction!",
+      "quote": "Ok, we got your...got your strawberries, your chocolate sauce, your pastrami on rye with mustard, your honey...",
       "characters": [
-        "Jerry",
-        "Vanessa",
+        "Newman",
         "George",
-        "Kramer"
+        "Receptionist",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, if you got a loser. But Little Jerry was born to cockfight!",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, well...a little rough finding something good in your price-range.  But you, my friend, may be in luck.",
+      "quote": "The *bank*? This is *found* money. I want to *parlay* it. I wanna make a big score!",
       "characters": [
-        "George",
-        "Jackie",
-        "Jerry",
-        "Elaine"
+        "Barry",
+        "Elaine",
+        "Newman",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I mean, people - they're not interested in things like this. They don't want to hear about it. They really don't.",
+      "quote": "I can't believe you're really going out with a woman named Lois.",
       "characters": [
-        "Frank",
-        "Jerry",
-        "Kramer",
-        "Raymond"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No argument. Unless, she's one of these multiple sneezers, and he's holding his 'God bless you' in abeyance, until she completes the series.",
-      "characters": [
-        "Susan",
-        "Kramer",
-        "Jerry",
-        "Officer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So, even though you're not really going out with this guy, he's cheating on you?",
-      "characters": [
-        "Jackie",
-        "Conrad",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I turned my house upside-down looking for this! It's all I have left of her.",
-      "characters": [
-        "Peterman",
+        "Doctor",
+        "Ellen",
         "George",
-        "Marty",
+        "Kelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "No. No. No. No. No. I don't really have a phone. In fact, I - I really don't have an apartment. I kinda sleep around.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kelly",
         "Elaine"
       ],
-      "correctAnswer": "Marty"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Yeah. We've been coming here everyday. This is so fucking good.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

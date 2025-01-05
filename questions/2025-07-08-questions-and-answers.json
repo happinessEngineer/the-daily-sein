@@ -1,106 +1,106 @@
 {
-  "gameNumber": 186,
+  "gameNumber": 187,
   "date": "2025-07-08",
   "questions": [
     {
-      "quote": "I mean, how is that easier? I mean, then you would owe me twelve fifty instead of me owing you seven fifty.",
+      "quote": "I can't stand these guys. You give your number to them and then they don't call. Why do they do that?",
       "characters": [
+        "Peterman",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah, oh, I do too. This guy could be a little bonkos. Really. Anyway, if you will, would you please welcome: Kramer!",
+      "characters": [
+        "Regis",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "And it's their anniversary Friday night. I could send them for a hansom cab ride. Y -- you think they'd like that?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, nothin' much, . . . talkin'. . . . Oh, oh, oh, did I have an unbelievable idea today!",
+      "characters": [
+        "George",
+        "Helen",
         "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I could care less. I hope it is on our record. I'm just sorry they didn't lock me up.",
+      "characters": [
         "Elaine",
         "Peterman",
+        "Levitan",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, you're not kiddin'. Who'd 've figured Susan would break up with him? They had a good thing going.",
+      "quote": "Well, I don't know... h- how long have you been shaving your head for?",
       "characters": [
-        "Kramer",
-        "Bruce",
+        "Jerry",
         "George",
-        "Jerry"
+        "Elaine",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "\"Well apparently I do something 'cause I'm sitting at the head table with Mr. Mel Tormé",
+      "quote": "Oh sure, it just doesn't have any of the thrills of the Cougar.",
       "characters": [
-        "Kramer",
+        "Salesman",
+        "Jerry",
+        "Lloyd",
+        "George"
+      ],
+      "correctAnswer": "Salesman"
+    },
+    {
+      "quote": "I didn't take the subway all the way to New York to sit at a table like that!",
+      "characters": [
+        "Jackie",
         "Frank",
-        "Doctor",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I know what the problem is - I like her too much. That's why I can't make a move.",
-      "characters": [
-        "Susan",
         "George",
-        "Elaine",
-        "Jerry"
+        "Kramer"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "You wouldn't believe it if I told you. In fact, uh, I'm glad you're here. You know, maybe I've been a little rough on ya, huh?",
+      "quote": "Hey, uh, Milos, I don't mind rolling over here, but could you lighten up on the 'not a man' stuff?",
       "characters": [
         "Jerry",
-        "George",
         "Elaine",
-        "Levitan"
-      ],
-      "correctAnswer": "Levitan"
-    },
-    {
-      "quote": "Nope, the cop says it's my word against his. There's nothing they can do.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "George",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I know... I was at the car wash this morning and the guy told me in his 38 years in the business, he's never smelled anything like it.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Have you noticed, people don't use straws as much as they used to for some reason.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Rula",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You've still got pretty good coverage. Once the enemy advances beyond this perimeter -  - then you won't be Kurt anymore.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Estelle"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "That's funny. Hey, listen, what are you doin' Saturday night?",
+      "quote": "Course you know there is always the possibility, that she called an audible.",
       "characters": [
         "Elaine",
-        "Peterman",
         "George",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     }
   ]
 }

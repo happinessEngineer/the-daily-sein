@@ -1,106 +1,106 @@
 {
-  "gameNumber": 220,
+  "gameNumber": 221,
   "date": "2025-08-11",
   "questions": [
     {
-      "quote": "C'mon, you can come up with five thousand dollars.  Jerry, you don't have five thousand dollars you can led her? Come on.",
+      "quote": "Wait a second. Maybe there is someway we can tempt him and find out...",
       "characters": [
-        "Elaine",
-        "Jerry",
+        "Seth",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "It's been a terrible situation down there the past couple of days. He's really been making things uncomfortable for me. There's always a big pile of dirty towels in front of my locker ...",
-      "characters": [
-        "Elaine",
-        "George",
         "Jerry",
-        "Kruger"
+        "Babu"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, they want me to come up with an idea. I mean, I don't have any ideas.",
+      "quote": "Jerry, I saw the doll you were talking about - not funny! This doll's much funnier. Look, it has a little bowtie, and a cute little hat.. I think it's a riot!",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Gino",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I told you Mendy's had the best pea soup. The best Jerry, the best. Are you enjoying it?",
-      "characters": [
-        "Bania",
-        "Kramer",
-        "Maura",
-        "Jerry"
-      ],
-      "correctAnswer": "Bania"
-    },
-    {
-      "quote": "I feel like a family. In fact, yesterday was Grace's birthday. She's such a sweet woman so, we had a little party, with cake and champagne. I made a toast.",
-      "characters": [
-        "George",
-        "Ray",
-        "Carol",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey, you got a bad peach? That's an act of God. He makes the peaches. I don't make the peaches, I sell the peaches. You have a problem? You talk to him.",
-      "characters": [
-        "Joe",
-        "George",
+        "Sally",
+        "Leo",
         "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Joe"
+      "correctAnswer": "Sally"
     },
     {
-      "quote": "I am telling you, this woman is strange. She never wants to leave the apartment. It's almost like she doesn't wanna be seen with me.",
+      "quote": "rock climbing? hehe.. where do you come off going rock climbing.. rock climbing? you need a boost to climb into your bed",
       "characters": [
-        "Jerry",
-        "Elaine",
         "George",
+        "Elaine",
+        "Jerry",
         "Kramer"
       ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, . . . about how you wish it was YOU who was getting married instead of him? Feelings of resentment, hostility?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Helen",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That's him! That's the man who gave me the pills in the drug store! He's no pharmacist.",
+      "characters": [
+        "Pitt",
+        "Jerry",
+        "George",
+        "Owner"
+      ],
+      "correctAnswer": "Pitt"
+    },
+    {
+      "quote": "Alright, alright. I'll make the necessary adjustments, alright.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Joe",
+        "George"
+      ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Uhm...I'd like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",
+      "quote": "Yes. You know the uh flood, and the uh lepers, and the commandments and all that.",
       "characters": [
+        "Gina",
         "George",
-        "Elaine",
         "Jerry",
-        "Rudy"
+        "Jimmy"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I told her how toilet paper hasn't changed in my lifetime, and probably wouldn't change in the next fifty thousand years and she was fascinated, fascinated!",
+      "quote": "Oh, you know these jewellers, they're enigmas. They're mysteries, wrapped in a riddle.",
       "characters": [
+        "Rava",
+        "Shelly",
         "Jerry",
-        "Doris",
-        "Kramer",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, Jerry Jerry Jerry Jerry Jerry, listen, if, if you are feeling uncomfortable about this at all, at all. Do not feel like you have to take it.",
+      "quote": "Do you think you could transport some stumps for me? I'll make it worth your while.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Elaine",
-        "George"
+        "George",
+        "Kramer",
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I know what you thought. They don't have homes, they don't have jobs, what do they need the top of a muffin for? They're lucky to get the stumps.",
+      "characters": [
+        "Milos",
+        "Rebecca",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Rebecca"
     }
   ]
 }

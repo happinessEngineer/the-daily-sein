@@ -1,106 +1,106 @@
 {
-  "gameNumber": 388,
+  "gameNumber": 389,
   "date": "2026-01-26",
   "questions": [
     {
-      "quote": "Alright, alright. Fine George! Don't chip in! But some day, we're gonna be driving along, we're gonna look out the window, and see her crawling along 5th avenue! Is that what you want?",
+      "quote": "Please, if he's found guilty, please be kind to him. He's a good boy.",
       "characters": [
-        "Kramer",
-        "Elaine",
+        "Estelle",
+        "Jerry",
         "George",
-        "Jerry"
+        "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Estelle"
     },
     {
-      "quote": "Then what do you call it? People don't just bump into each other and have sex. This isn't cinemax.",
-      "characters": [
-        "Harold",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hold it. I really want to be clear about this. Are you talking about the woman in the meeting? Is that the woman you're talking about?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, we could do that...why not, why not.  I'm just, I'm really glad you're here.",
+      "quote": "It strikes me a lot of guys are doing that kind of humor now.",
       "characters": [
         "Jerry",
         "Elaine",
-        "Levitan",
+        "Nina",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Look, they have it in blue...for my baby bluey. Are you my baby bluey?",
-      "characters": [
-        "Susan",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Jerry, you really have to take better care of yourself. We bought you some session with a personal trainer.",
-      "characters": [
-        "Helen",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "Yeah, I just got off the phone with him, you know we had a great conversation.",
-      "characters": [
-        "Jerry",
-        "Milos",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Oh, that is so terrible. That is so terrible, Jake. I mean, how can people be so stupid? Just sickening.",
-      "characters": [
-        "Kramer",
-        "Newman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I wanna put a picture of me and my boss Mr. Morgan up at the office.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Marcy",
-        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So anyway, I stood up to shake her hand, then suddenly I lost my balance and I fell right into her.",
+      "quote": "But the reservation keeps the car here. That's why you have the reservation.",
+      "characters": [
+        "Frank",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Maybe it's not even stupidity. Maybe it's just a blatant disregard for basic human decency. Yeah this how dictator's start. Do you think Mussolini would circle the block six times looking for a spot?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Poppie, I was just curious...where do you stand on the abortion issue?",
+      "characters": [
+        "George",
+        "Rava",
+        "Donna",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Erika is gonna meet me here, now we're gonna find out the truth",
+      "characters": [
+        "Kramer",
+        "George",
+        "Father",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I caught him urinating in the shower. I'm thinking about turning him in, too.",
+      "characters": [
+        "Greg",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Greg"
+    },
+    {
+      "quote": "Oh, you missed it, buddy - lot of femininas - some major femininas",
       "characters": [
         "Jerry",
-        "Russell",
-        "Todd",
-        "Elaine"
+        "Elaine",
+        "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Uh, let me ask you a question. How come you asked Mr. and Mrs. Seinfeld to go to the museum with you?",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Betsy",
+        "David"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's an incredible deal. I don't know why you don't come with me.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

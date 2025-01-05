@@ -1,106 +1,106 @@
 {
-  "gameNumber": 748,
+  "gameNumber": 749,
   "date": "2027-01-21",
   "questions": [
     {
-      "quote": "Like what? I'm bald? What is it specifically? Is, is there an odor I'm not aware of?",
+      "quote": "Will you stop worrying? Jackie's going to get us off. He never loses. How about when he asked that cop if a black man had ever been to his house. Did you see the look on his face?",
       "characters": [
         "George",
-        "Father",
+        "Kramer",
+        "Russell",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know what I'm going to do? I'm going to run around the stadium and close all the windows. That's where I'm going, pal. And I'll tell you something else. I'm very nervous.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Steinbrenner"
+    },
+    {
+      "quote": "I don't know, 120, 130…Then they sent some guys to sandblast for 6 hours. Tomorrow they are putting in asbestos.",
+      "characters": [
+        "George",
+        "Rick",
         "Jerry",
-        "Kramer"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Do you see the irony here? You're rejecting somebody because they're bald.",
+      "quote": "I believe I referred to her personality as a potential science exhibit.",
       "characters": [
         "Elaine",
-        "George",
+        "Kramer",
         "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh yeah, all the time, all the time...although, recently I've been thinking about this friend of mine.",
-      "characters": [
-        "Elaine",
-        "Alton",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Kramer's got more muscle, higher protein content. It's better for you.",
-      "characters": [
-        "Michael",
-        "Jerry",
-        "Judge",
-        "Kruger"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh no, I'll tell you what you did Caligula; you combined food and sex in to one disgusting uncontrollable urge.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Silvio",
         "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I close down today and when I open again it'll be all Pakistani restaurant. Thank you, thank you so much, you're very special person, very special.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Babu",
-        "Kramer"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "\"They took a pitching machine, a batting cage ,the in-field tarp and all of Mr Steinbrenner's vitamins.. Now , we have reasons to believe it's an inside job.\"",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Wilhelm"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "That was Elaine , she changed her mind. She's not coming over.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Diane",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Wait a second wait a minute, You jealous of him or you jealous of me?",
-      "characters": [
-        "Morty",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Come on Jerry. You know something TELL ME! TELL ME!, Oh, chocolates . . . Margaret?",
+      "quote": "I don't understand. How can you have a cigar store, without an Indian? It's unseemly.",
       "characters": [
-        "Margaret",
+        "Elaine",
         "Jerry",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "Margaret"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry told me so much about you, I feel like I know you intimately",
+      "characters": [
+        "Jane",
+        "Tim",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jane"
+    },
+    {
+      "quote": "Hey! What are you doing? It's after six o'clock! You can't give me a ticket! Hey, you're not gonna get away with this. I'll fight this. I got witnesses.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Well, let's see? I seem to recall a conversation with Mrs. Winston in 1F.",
+      "characters": [
+        "Rabbi",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Rabbi"
+    },
+    {
+      "quote": "I'm not going to give him $300 now for a suit with moisturizer cream all over it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's their secret sign! See, Van Buren, he was teh eighth President..  They thought I was a former Van B. Boy!",
+      "characters": [
+        "Kramer",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

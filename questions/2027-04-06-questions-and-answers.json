@@ -1,99 +1,29 @@
 {
-  "gameNumber": 823,
+  "gameNumber": 824,
   "date": "2027-04-06",
   "questions": [
     {
-      "quote": ". Well So fine then ..then I don't want it and then that's why I'm returning it",
-      "characters": [
-        "Kramer",
-        "Rabbi",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright, that's it. The fight's already started. I'm going upstairs, who's coming? Elaine?",
+      "quote": "No No, Don't ruin it for me, I haven't seen it yet! Ah-C'mon, what d'you say?",
       "characters": [
         "Kramer",
         "Jerry",
         "Elaine",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I want the one that I earned.  I'll get it. I'll get it!  H&H, and Elaine.",
+      "quote": "Oh no no no, if you must know, I would rather be with her than go to the game.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Eddie",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Kosher meal? I don't want a kosher meal. I don't even know what a kosher meal is.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "...when you're done George, and bring it directly to me. Mr Steinbrenner is very interested in this.",
-      "characters": [
-        "Wilhelm",
-        "Newman",
-        "Mary",
-        "Kramer"
-      ],
-      "correctAnswer": "Wilhelm"
-    },
-    {
-      "quote": "No! It's not a good thing! It's a bad thing! Do you know what this is like? To have no control over a relationship? And - and you feel sick to your stomach all the time? Do you know what that's like?",
-      "characters": [
-        "Jerry",
-        "Elaine",
         "Kramer",
-        "Mike"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I don't want Morgan's job. He's got a lot of work to do. Hey, Elaine, your friend never woke up Mr. Morgan.",
-      "characters": [
-        "Elaine",
         "George",
-        "Jerry",
-        "Valerie"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Don't you drag me into this! This is between you and her, and her.",
-      "characters": [
-        "Janet",
-        "Elaine",
-        "Jerry",
-        "Peterman"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "My mom's down in Florida. She's got uh one of those condos. Hot down there in the summer. You ever been down there?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Tomarrow?! Are you crazy? No, now, now! Let's go!  You get dressed! Get dressed!",
+      "quote": "Hey, wake up. It's 8:30 you were supposed to walk me up at 7:15.",
       "characters": [
         "Elaine",
         "Kramer",
@@ -101,6 +31,76 @@
         "Jerry"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Uh, Jerry, uh, I was wandering, would it be possible – and if it's not, fine – for me to stay here tomorrow night too?",
+      "characters": [
+        "Laura",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Laura"
+    },
+    {
+      "quote": "Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "That's the idea. That's what's clever about it, that they're not talking about the pants.",
+      "characters": [
+        "Donna",
+        "Sidra",
+        "Stan",
+        "Jackie"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "Don't worry, Jerry, I can manage these bags; really I'm fine.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, uh, this power. I'm dangerous Jerry, I'm very very dangerous.",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I bet I can get in once I mention I'm from ...The New Yorker.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "..Well, as I was saying, I would play myself, and, as a comedian, living in New York, I have a friend, a neighbor, and an ex-girlfriend, which is all true.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

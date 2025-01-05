@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1030,
+  "gameNumber": 1031,
   "date": "2027-10-30",
   "questions": [
     {
-      "quote": "Aah, hey.  If this works out, forget about it. Vacations together, movies together, dinner together. It..it's almost as good as if I didn't get married.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Vanessa",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Please! Please!! I take it all back, everything! I take it all back, every word! I love you! I love *you*! I can't live without you, I,ll, I'll do anything!",
+      "quote": "Oh, thanks a lot, two weeks late. Now that costs me thirty-five dollars to see Havana.",
       "characters": [
         "Elaine",
         "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ah. It's a lovely little bureau and breakfast you're running. Well, I'm off to the bank.",
-      "characters": [
-        "Kramer",
         "George",
-        "Jerry",
-        "Ray"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I remember you donated to some volcano thing on our first date.",
-      "characters": [
-        "Carol",
-        "Jerry",
-        "Frank",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, you're the big look expert. I wanna see how smart you are.",
-      "characters": [
-        "George",
-        "Carrie",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know what'cha had to tell her that for. You put me in a very difficult position, Marine Biologist! I'm very uncomfortable with this whole thing.",
+      "quote": "Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.",
       "characters": [
-        "Jerry",
         "George",
-        "Morty",
-        "Elaine"
+        "Kramer",
+        "Gennice",
+        "Waitress"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Attention Steinbrenner and front-office morons! Your triumphs mean nothing. You all stink. You can sit on it, and rotate! This is George Costanza. I fear no reprisal. Extension five-one-seven-oh.",
+      "quote": "I'll tell you, if I was running for office I would ask for the death penalty for double-parkers. If this is allowed to go on this is not a society. THIS IS ANARCHY!",
       "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Young guy, he's got a new book coming out, and it's about, and this is the best part -",
+      "characters": [
+        "Bonnie",
+        "Jerry",
+        "Kramer",
+        "Regis"
+      ],
+      "correctAnswer": "Regis"
+    },
+    {
+      "quote": "Kramer what am I going to do did you hear that that guy's gonna put a kibosh on me he's crazy he's out of his mind....",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "George",
-        "Voice",
-        "Frank",
+        "Steinbrenner"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, well, I set their alarm. But they did have a lot of sake in that hot-tub.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, that's not offensive.  It's abnormal, but it's not offensive.",
+      "characters": [
+        "Jerry",
+        "Darryl",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, the dogs did that but it wasn't their fault, somebody stuffed some strange meat in the pocket.",
+      "quote": "It's very familiar. I can't put my finger on it. It's very familiar.",
       "characters": [
-        "Elaine",
-        "James",
-        "Katya",
-        "George"
-      ],
-      "correctAnswer": "James"
-    },
-    {
-      "quote": "You're through, Soup Nazi. Pack it up. No more soup for you. Next!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Pitt"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Look at you, you're still thinking about it. I'll never feel comfortable.",
-      "characters": [
-        "Marcy",
         "Kramer",
+        "Elaine",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh. Probably they think you're too good for them. You know, because of the car.",
+      "characters": [
+        "Evelyn",
+        "Jerry",
+        "George",
+        "Jackie"
+      ],
+      "correctAnswer": "Evelyn"
+    },
+    {
+      "quote": "Ok. Good. And Kramer, you're in charge of taping off the loading zone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Secretary"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

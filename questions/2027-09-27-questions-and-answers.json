@@ -1,104 +1,104 @@
 {
-  "gameNumber": 997,
+  "gameNumber": 998,
   "date": "2027-09-27",
   "questions": [
     {
-      "quote": "Oh, you're getting together with some of your jackass friends, and you want me to take notes?",
+      "quote": "Don't worry, he'll be here. Look, we only got about two hours. We just need to come up with one good story so we can get through this meeting.  There's your food.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Helen",
+        "Bookman",
+        "George",
         "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, why a cape? Who wears a cape? Where do you even get a cape?",
-      "characters": [
-        "George",
-        "Kramer",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Okay, I'll tell you what. How about on Friday I take you out for a *big* meal because *you* are getting *too* thin...",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "It was weird because George and I get along so great in so many situations but this is the first time we ever really went one-on-one.",
-      "characters": [
-        "George",
-        "Attendant",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Maybe Al Netchie was right, maybe I shouldn't have gotten involved with you.",
-      "characters": [
-        "Rula",
-        "Daphne",
-        "Jerry",
-        "Stan"
-      ],
-      "correctAnswer": "Daphne"
-    },
-    {
-      "quote": "You wanna hang out here, at phase two of the Pines of Mar Gables?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Maybe we should stomp you like you stomp the flag! What do you think of that?",
-      "characters": [
-        "Jerry",
-        "Bob",
-        "Jimmy",
-        "Lloyd"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "Really.........I have to say...You were really good doing that porno thing....you're talented.",
+      "quote": "I'll tell you what, if pig-man shows up, we'll squeeze him in. I'll see you later.",
       "characters": [
         "George",
-        "Jerry",
+        "Elaine",
         "Kramer",
-        "Manager"
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Hey! Monkeys! Knock it off. My best friend is trying to get married up here!",
+      "quote": "That's the second time you said \"personal favor\". Why do you keep saying that?",
+      "characters": [
+        "Morty",
+        "Kramer",
+        "George",
+        "Salesman"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Mary Contardi. No? Doesn't ring a bell, Jerry? We had a date, three years ago. You took me to one of your shows.",
+      "characters": [
+        "Mary",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Mary"
+    },
+    {
+      "quote": "It's fine. Anyway, it's been really nice dating you for a while. And uh good luck!",
+      "characters": [
+        "Jerry",
+        "Steinbrenner",
+        "Man",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, you're as pretty as any of them, you just need a nose job.",
       "characters": [
         "George",
-        "Man",
+        "Kramer",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Is this a waste of time? What should we be doing? Can't you have coffee with people?",
+      "characters": [
         "Elaine",
+        "Morty",
+        "Bob",
         "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "My God this is fantastic! Tell me, were you guys just blown away or what?",
+      "quote": "You see? We were made for each other.  It's amazing. If I reach out and touch her breast right not, she'd scream and throw me out of the car. But at this time tomorrow, I could touch it all I want.",
       "characters": [
         "Jerry",
         "Kramer",
-        "Elaine",
+        "Leo",
         "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I got a bottle of scotch my uncle gave me. It's Hennigans. It's been here for two years. I've been using it as a paint thinner.",
+      "characters": [
+        "George",
+        "Estelle",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh-m, uh I'm so sorry Roy, but actually, we are going to the, Poconos on Friday, right honey?",
+      "characters": [
+        "Helen",
+        "Jerry",
+        "Elaine",
+        "Karen"
       ],
       "correctAnswer": "Elaine"
     }

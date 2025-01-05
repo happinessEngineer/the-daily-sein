@@ -1,106 +1,106 @@
 {
-  "gameNumber": 664,
+  "gameNumber": 665,
   "date": "2026-10-29",
   "questions": [
     {
-      "quote": "You know why? Because people like to say \"salsa.\" \"Excuse me, do you have salsa?\" \"We need more salsa.\" \"Where is the salsa? No salsa?\"",
+      "quote": "You know what my feelings are about this. I don't even pay taxes.",
       "characters": [
-        "George",
-        "Jerry",
+        "Puddy",
         "Kramer",
-        "Dan"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "What could possess anyone to throw a party?  I mean, to have a bunch of strangers treat your house like a hotel room.",
+      "quote": "Yeah. uh..I was in here the other day and I went up to that teller and he didn't say hello.",
+      "characters": [
+        "Steinbrenner",
+        "Elaine",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh!! Let me ask you a question. Was the movie part of the bet?",
       "characters": [
         "Jerry",
-        "Jake",
-        "Detective",
+        "Kramer",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "When I see someone enjoying themselves like that, it reminds me why I got into this business in the first place.",
+      "quote": "Yeah well, the budget changed, you know. I mean, it might be a good investment.",
       "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Salesman"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "Kramer, how is that important? Honestly, do you really think he's gonna ask you that?",
-      "characters": [
-        "Elaine",
-        "James",
-        "George",
-        "Jeannie"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What is this 'saving movies' thing? Something's playing, you go.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "This is America! I don't have to wear anything I don't want to wear!",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I've read your book, Professor, and I was quite intrigued by it.",
-      "characters": [
-        "Landlord",
-        "Abby",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Landlord"
-    },
-    {
-      "quote": "You had sex with the cleaning woman on your desk? Who are you, how did you do that?",
-      "characters": [
-        "Elaine",
-        "Bonnie",
+        "Frank",
+        "Newman",
         "George",
         "Jerry"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "What d'you mean it doesn't work? You get enough bottles together...",
+      "characters": [
+        "Jerry",
+        "George",
+        "Morty",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "So, anyone sweaty comes into your house has to be offered a drink?",
+      "characters": [
+        "Elaine",
+        "Stan",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, they've got a cure for cancer. See, it's all big business. Oh hey, Jerry just walked in. Hi, George.  Yeah yeah yeah yeah take my number. 555-8643. Okay, here he is.",
+      "quote": "No believe me, I'm always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",
+      "characters": [
+        "Morgan",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hey, he just got me thirty percent off on an air conditioner.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Anyway, you were lucky that I was there. You lost a lot of blood.",
       "characters": [
         "Kramer",
         "Jerry",
-        "Mel",
-        "Newman"
+        "George",
+        "Sally"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I got down in my knees and went, \"Go ahead, Mickey. Hit me. I'm begging you, Mickey, please hit me. C'mon, hit me. I love you, Mickey, I love you!\"",
+      "quote": "I'm going to miss 60 Minutes. You know, I hate to miss 60 Minutes. It's part of my Sunday weekend wind-down.",
       "characters": [
-        "George",
         "Jerry",
         "Kramer",
-        "Morty"
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

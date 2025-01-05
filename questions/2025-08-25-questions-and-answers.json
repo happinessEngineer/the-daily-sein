@@ -1,106 +1,106 @@
 {
-  "gameNumber": 234,
+  "gameNumber": 235,
   "date": "2025-08-25",
   "questions": [
     {
-      "quote": "Jerry, buddy, I got to tell you something. That voice is played.",
+      "quote": "I'll take it? Who told you to take it? Did I tell you to take it?",
       "characters": [
-        "Elaine",
+        "George",
+        "Kramer",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Jackie"
+    },
+    {
+      "quote": "What about ponies? What kind of abnormal animal is that? And those kids who had their own ponies...",
+      "characters": [
+        "George",
+        "Marla",
         "Jerry",
-        "Puddy",
-        "Kramer"
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Or is it because I've built a stronghold around Greenland?  I've driven you out of Western Europe and I've left you teetering on the brink of complete annihilation.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Woman"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Alright I happen to know what they did last night, they had dinner with Kramer.",
+      "quote": "You know, in the 48 years we've been here, I don't think we've ever called an electrician.",
+      "characters": [
+        "Pop",
+        "Peterman",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Pop"
+    },
+    {
+      "quote": "Oh no. Tonight will be the first chance I've had to talk to her.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Todd"
+    },
+    {
+      "quote": "I use Planet. It's bio-degradable and doesn't pollute the oceans.",
       "characters": [
         "Jerry",
-        "Bonnie",
+        "Elaine",
         "George",
-        "Kramer"
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "They wish. I hate the big broker-houses. Hate them with a passion. Big broker-houses killed my father.",
+      "characters": [
+        "Rachel",
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, Franklin Delano Romanowski.  I go to his birthday part, and just before he blew out his candles, he gives me this look..",
+      "quote": "A crazy clown is after you? Oh that?s rich. Now clear the entrance so people with tickets can get through.",
       "characters": [
-        "Estelle",
-        "Jerry",
-        "Ken",
-        "Kramer"
+        "Rachel",
+        "Jackie",
+        "Deena",
+        "Usher"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Usher"
     },
     {
-      "quote": "Look I gotta be honest with you there's nothing here too spectacular.",
+      "quote": "Elaine, I once told a woman that I coined the phrase, \"Pardon my French.\"",
       "characters": [
-        "Morgan",
-        "Jerry",
         "George",
-        "Rudy"
-      ],
-      "correctAnswer": "Rudy"
-    },
-    {
-      "quote": "Hey, guess what? Remember that woman you saw me with the other day? You know, she used to be an Olympic gymnast?",
-      "characters": [
-        "Kramer",
-        "Valerie",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well, once you were dead, we couldn't just sit on our hands.  We had to make a move...",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Steinbrenner",
-        "George"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs.",
-      "characters": [
         "Kramer",
-        "Clerk",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, I was just at my stepmom's house, and I saw that you were on her speed-dial.",
-      "characters": [
-        "Valerie",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Valerie"
-    },
-    {
-      "quote": "This is a crude mock-up of the conference room. 1/14th scale.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Newman",
-        "George"
+        "Lippman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Now we'll open the peritoneal cavity, exposing the body's internal organs. Nurse-- retractor.",
+      "quote": "Yeah yeah yeah yeah, go. Go about your business, I'll just wander around.",
       "characters": [
-        "Elaine",
         "Jerry",
         "Kramer",
-        "Doctor"
+        "Peterman",
+        "George"
       ],
-      "correctAnswer": "Doctor"
+      "correctAnswer": "George"
     }
   ]
 }

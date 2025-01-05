@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1045,
+  "gameNumber": 1046,
   "date": "2027-11-14",
   "questions": [
     {
-      "quote": "She's so wild. Can I borrow her for a few hours tomorrow afternoon?",
+      "quote": "Uhg. Well you hold it. Wait, uh, Damn It! I can't move it. God, I've never seen a zipper so stubborn. DAMN IT! I almost had it.",
       "characters": [
-        "Jackie",
-        "Julie",
-        "Elaine",
+        "Susan",
+        "Dana",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Dana"
     },
     {
-      "quote": "Jerry, that is such small potatoes. I think that I may have single-handedly put the kibosh on the big water merger.",
+      "quote": "Elaine, what percentage of people would you say are good looking?",
+      "characters": [
+        "Helen",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know chicken salad is not the opposite of tuna, salmon is the opposite of tuna, 'cuz salmon swim against the current,  and the tuna swim with it.",
       "characters": [
         "Elaine",
-        "Valerie",
         "Jerry",
-        "Evelyn"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Why? Maybe she liked me. I, I mean she was looking right at me. You know, I think she was impressed. You know, we had good eye contact the whole meeting.",
-      "characters": [
         "Kramer",
-        "Laura",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Don't worry, he'll be here. Look, we only got about two hours. We just need to come up with one good story so we can get through this meeting.  There's your food.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Morty",
         "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, they're not funny at all. No, I have no funny friends. I'm the funny one. El Clowno.",
+      "quote": "Exactly!  You know how they get animals to reproduce in captivity? They just put them in the same cage.",
       "characters": [
+        "Vivian",
         "George",
-        "Celia",
-        "Kramer",
-        "Craig"
+        "Elaine",
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Last week. When I, you know, gave you the phone. He's really into my pizza place idea!",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Izzy",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well if you're thinking of getting a place there don't bother. There's really nothing available.",
-      "characters": [
-        "Maestro",
-        "Kramer",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Maestro"
-    },
-    {
-      "quote": "Right. I don't have it on me. Allison, this is Susan. Susan, Allison.",
-      "characters": [
-        "George",
-        "Mickey",
-        "Dan",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "My Botticelli shoes. You've been talking about my Botticelli shoes.",
+      "quote": "Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-",
       "characters": [
         "Jerry",
-        "Elaine",
+        "Frank",
+        "Conrad",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know how hot it gets there? Like 150 degrees. Your skin is gonna be simmering with boils.",
+      "characters": [
+        "Testikov",
+        "Jerry",
         "George",
-        "Celia"
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, I wrote some jokes to the show and they gave me two tickets.",
+      "characters": [
+        "Elaine",
+        "Wyck",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You know, things were going so good for me, you know, I got the job promotion, we were talking about moving in together -",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "Babu"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Could you hold on for a second? I've got something on the stove.",
+      "quote": "Y-You didn't do anything. It's not you, it's me. It's- this is very difficult.",
       "characters": [
-        "Gina",
-        "Elaine",
         "Kramer",
+        "Ed",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Five thousand dollars? She doesn't have five thousand dollars!",
+      "characters": [
+        "George",
+        "Levitan",
+        "Elaine",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     }
   ]
 }

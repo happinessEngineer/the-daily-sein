@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1083,
+  "gameNumber": 1084,
   "date": "2027-12-22",
   "questions": [
     {
-      "quote": "You know that coat was Gore-Tex. It's worth a hell of a lot more than that, cheap Chardonnay.",
+      "quote": "Hey, have fun at the... family reunion.  So, what do you know about this Jack fellow?",
       "characters": [
         "Kramer",
-        "Jerry",
-        "George",
-        "Jane"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No. No. No. No. No. Don't worry. It's perfectly safe. I researched it. He'll get a little woozy. He might keel over.",
-      "characters": [
-        "Julie",
-        "George",
-        "Kramer",
-        "Tim"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "MOOPS? LET ME SEE THAT. THAT'S NOT MOOPS YOU JERK, IT'S MOORS. IT'S A MISPRINT.",
-      "characters": [
-        "Rabbi",
-        "Donald",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Donald"
-    },
-    {
-      "quote": "Your damn right you screwed up. Where the hell did you get that damm balm anyway?",
-      "characters": [
-        "Jackie",
         "Newman",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "How do you figure?  'Cause you're the one who left the door open.",
-      "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Joel"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Ohh, what a sweet gesture. And autographed poster of my favorite tenor, with.. those two other guys. Oh, Elaine, this is magnifico!",
+      "quote": "Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.",
       "characters": [
-        "George",
-        "Kramer",
+        "Detective",
         "Jerry",
-        "Maestro"
+        "Elaine",
+        "Helen"
       ],
-      "correctAnswer": "Maestro"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, they're more than an underwear to me Mr. Farkus. Two cups in the front, two loops in the back. How do they do it?",
+      "quote": "Because, the owner contributes a lot of money to those fanatical, anti-abortion groups.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "All right, ... now, you come on over. I'll have my cereal and I'll take your picture.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "She's so wild. Can I borrow her for a few hours tomorrow afternoon?",
+      "characters": [
+        "Elaine",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "So Clare sure looked real funny covered in oil like that…  Hello-o-o-o I got beamed with a giant ball of oil…",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Diane",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Elaine, where could he be? It's not like George to just disappear.",
       "characters": [
         "George",
+        "Wilhelm",
         "Kramer",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "No, I was a fantastic beard. I held hands, I called him honey.",
+      "characters": [
         "Jerry",
-        "Newman"
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Great.  Oh, by the way, did you get a chance to read the script?",
+      "characters": [
+        "Julie",
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, when you mail me a new one I'll send you back this one.",
+      "quote": "Beautiful lineswoman. Alright listen uh I'm going to go to the concession stand and get some real sunblock. You want anything? Jerry?  Jerry?",
       "characters": [
+        "Elaine",
         "Jerry",
-        "Waitress",
-        "Morty",
-        "Elaine"
-      ],
-      "correctAnswer": "Waitress"
-    },
-    {
-      "quote": "You know I don't get you Seinfeld. You want something one day. The next day you don't like it. Come on man, make a decision.",
-      "characters": [
-        "Conrad",
-        "George",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Conrad"
-    },
-    {
-      "quote": "Honesty, hard-work, these are the values that I was raised on. The most important thing Joey, is to be able to look yourself in the mirror before you go to sleep at night.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Frank",
-        "Kate"
+        "George"
       ],
       "correctAnswer": "George"
     }

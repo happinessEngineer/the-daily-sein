@@ -1,106 +1,106 @@
 {
-  "gameNumber": 345,
+  "gameNumber": 346,
   "date": "2025-12-14",
   "questions": [
     {
-      "quote": "All right. As you walk in the place move immediately to your right.",
+      "quote": "Well, I, as your president, have to find the best price, and right now, I for one, do not think it's cost-feasible.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Jerry, you should care. Cantaloupe like this should be taken out of circulation.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Conrad"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So I am walkin' along, minding my own business when all off the sudden this thing comes flying out of nowhere and clonks me right on the head.",
+      "characters": [
+        "John",
+        "Corinne",
+        "Helen",
+        "Elaine"
+      ],
+      "correctAnswer": "Corinne"
+    },
+    {
+      "quote": "Jerry, I can't. It's like saying to Pavorotti, \"Teach me to sing like you.\"",
       "characters": [
         "George",
         "Frank",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, and.. do you think it would be alright if I called Susan Davis?",
+      "characters": [
+        "Elaine",
         "Jerry",
-        "Diane"
+        "Kramer",
+        "Frank"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh yeah, yeah, great.  And get some of those blue corn chips.",
+      "quote": "Milos, I can assure you, I had no intention of telling anyone about your unbelievably bad tennis playing.",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Announcer"
+        "Secretary",
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, this guy Jean-Paul, Jean-Paul... I met him when I was working at Pendant, editing a book on running...",
+      "quote": "Yeah. No. Listen, George, I am quite certain I'm walking out of there with a bowl of soup.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Clare",
-        "Jerry"
+        "Jerry",
+        "Landlord",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I knew this was going to happen. I just made a delicious casserole, but now it won't keep because I have no Tupperware.",
+      "quote": "\"Euh.. Fine , good , yeah! Just been occupying myself with some of your....hem reading material.\"",
       "characters": [
         "Kramer",
-        "Gary",
-        "Jimmy",
+        "Jerry",
+        "George",
+        "Jack"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, Uncle Leo. I remember him. I'm sorry, our policy is we prosecute all shoplifters.",
+      "characters": [
+        "Manager",
+        "Stan",
+        "Newman",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Manager"
     },
     {
-      "quote": "Jerry, it's me, George, don't worry, I'll return it tomorrow, no problem.",
+      "quote": "Hey listen, if I give you money would you go out and get me some fruit?",
       "characters": [
+        "Kramer",
         "George",
         "Jerry",
-        "Nana",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Spit it out? I had dogs chasing me for that mutton. I was almost mauled because of that mutton.",
-      "characters": [
-        "Elaine",
-        "Helen",
-        "Kramer",
         "Morty"
       ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, sure. I was showing a condo on 48th street. Besides, you think I wanna miss this?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Katie",
-        "Peterman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Boy, I'm surprised.  I would think Kramer would have a knack for moving pieces of a person's spine around.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah. And since you go buy there everyday. I was hoping that we could help each other out.",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, well, maybe I'll mention it to Russell tomorrow night.",
-      "characters": [
-        "Elaine",
-        "David",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kramer"
     }
   ]
 }

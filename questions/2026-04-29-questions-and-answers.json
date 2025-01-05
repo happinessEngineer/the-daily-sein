@@ -1,106 +1,106 @@
 {
-  "gameNumber": 481,
+  "gameNumber": 482,
   "date": "2026-04-29",
   "questions": [
     {
-      "quote": "Okay. I'm gonna check my machine first.  Picking someone up at the airport, jury duty, waiting for cable guy...",
+      "quote": "Ah, but he called me up and he asked for yours and Elaine's addresses, I'm sure that means I'm invited.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "George",
-        "Helen"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, the cameras was, vrooom, there. The announcers, they made a couple of cracks about you.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Sid",
-        "Peggy"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, that's okay.  We'll make this next right, and swing around to get back to the dealership.",
-      "characters": [
-        "Elaine",
-        "Rick",
-        "George",
+        "Dana",
+        "Doctor",
         "Jerry"
-      ],
-      "correctAnswer": "Rick"
-    },
-    {
-      "quote": "So, yeah, that's funny. Hey, you wanna hear something weird? Mr. Pitt eats his Snickers bars with a knife and fork.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Man"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You should be the one criticizing me. I, I'm lucky to even know someone like you.",
-      "characters": [
-        "George",
-        "Steinbrenner",
-        "Jerry",
-        "Fdr"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Of course Zach and I have been dating. What'd you think, I was the office skank?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "What ever happened to \"Why, that's a lovely dress you have on. May I have this dance?\"!!",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Why do I always pay? What am I made of money? You bunch of deadbeats.",
-      "characters": [
-        "Morty",
-        "Jerry",
-        "George",
-        "Brett"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No. No it's not. You don't know this guy. It woulda been so sweet.",
+      "quote": "I was all primed for the first row; I was gonna put my feet up on the dugout!",
       "characters": [
         "George",
-        "Bonnie",
-        "Ned",
-        "Cindy"
+        "Jerry",
+        "Elaine",
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Stop it, George! Get out! Get out! I never want to see you again!",
+      "quote": "Alright, people, I'd like to begin with a hearty hail and well-met good fellow, to Bob Grossberg, who's joining us from Business Affairs.",
       "characters": [
-        "Jerry",
-        "George",
+        "Daphne",
+        "Peterman",
         "Elaine",
-        "Betsy"
+        "George"
       ],
-      "correctAnswer": "Betsy"
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Baah! There it is! You just said it! That's what I want! Now say it again, and tell it to me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Mickey",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Whew! I got whooped. You should have seen the rage in their little eyes. And those tiny little fists of fury. Oh.  What is that?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Karen",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You've got to start seeing someone else. Get out of this relationship.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Stu",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hello? Oh, yeah, okay fine. Uh, he'll be right down.  Car's here to pick you up and take you to the meeting.",
+      "characters": [
+        "George",
+        "Susan",
+        "Shelly",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "W-well it was ten dollars cheaper in the afternoon than the morning, I figured what the hell's the difference.",
+      "characters": [
+        "Owner",
+        "Jack",
+        "Lena",
+        "Brett"
+      ],
+      "correctAnswer": "Jack"
+    },
+    {
+      "quote": "Afford it you will, Mr Newman. Or this court will see that your car is impounded...",
+      "characters": [
+        "Kramer",
+        "Judge",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Judge"
+    },
+    {
+      "quote": "What you saw in that van was a natural expression of a man's love for his lady.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jack",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

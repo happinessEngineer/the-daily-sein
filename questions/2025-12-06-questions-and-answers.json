@@ -1,104 +1,104 @@
 {
-  "gameNumber": 337,
+  "gameNumber": 338,
   "date": "2025-12-06",
   "questions": [
     {
-      "quote": "That he did. Now, you got that pencil with the bite marks on it? We get a trained eye to match 'em up, and we'll see whether or not you're driving Jon Voight's car!",
+      "quote": "You know, I was wondering - if you're not doing anything later, maybe you'd like to get together..?",
       "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
+        "Kramer",
+        "Newman",
+        "Woman",
+        "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Woman"
     },
     {
-      "quote": "Oh, it's a lot of just fancy-shmancy stuff. You know what it's like? It's like a big budget movie with a story that goes *nowhere*.",
+      "quote": "Oh fine, I don't like to be around people who are just so irresponsible.",
       "characters": [
-        "Elaine",
-        "George",
-        "Wendy",
-        "Jerry"
+        "Silvio",
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, nothing really, as long as we get the physical therapist to go along with our story.",
+      "quote": "Oh, yeah. My friend Elaine and him are goin' out. They're pretty hot and heavy.",
       "characters": [
-        "Saleswoman",
-        "George",
-        "Roy",
-        "Jerry"
-      ],
-      "correctAnswer": "Roy"
-    },
-    {
-      "quote": "Neither did you, that's how he got caught. We sent in four notes from two doctors.",
-      "characters": [
-        "George",
         "Jerry",
-        "Tony",
-        "Elaine"
+        "George",
+        "Morgan",
+        "Jimmy"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Do you think she gets to take any of those little bars of soap home?",
+      "quote": "You might want to try it...makes the movie more enjoyable, that's all.",
       "characters": [
-        "George",
-        "Kramer",
-        "Wyck",
-        "Jerry"
+        "Keith",
+        "Kevin",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "I don't want soup. I can make my own soup. \" 5 cups chopped Porcine mushrooms, half a cup of olive oil, 3 pounds celery.\"",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
     },
     {
       "quote": "Yeah.  Oh, there's the manager. Good. I think I'm gonna talk to her about that guy, you know, we cannot have people like that in here.",
       "characters": [
         "Elaine",
+        "George",
         "Greg",
-        "Helen",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Greg"
     },
     {
-      "quote": "Wow. Well then my mentor suggested that I move into equities, best move I ever made.",
+      "quote": "You broke up with her just because she cut her hair! how short?",
       "characters": [
         "Kramer",
         "Elaine",
         "Jerry",
-        "Woman"
+        "Jane"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "He is just in his own world when he hears that song. It's like, I'm sitting there in the car, and he's.. out riding fences.",
+      "quote": "Russell, you are the president of NBC. You can have any woman you want.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
+        "Tv",
+        "Fred",
+        "Elaine",
+        "Donald"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yea. I rented the move Edward Scissorhands. That Johnny Depp, he make me cry.",
+      "quote": "I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now.",
       "characters": [
-        "Enzo",
+        "Helen",
         "Elaine",
-        "George",
-        "Jerry"
+        "Jerry",
+        "George"
       ],
-      "correctAnswer": "Enzo"
+      "correctAnswer": "Helen"
     },
     {
-      "quote": "Well we were standing uh, inn the waiting area there, and you know how Devola is. He's all, ...",
+      "quote": "Louise! That's what's doin' it. You're no longer pre-occupied with sex, so your mind is able to focus.",
       "characters": [
-        "Jerry",
         "George",
-        "Willie",
-        "Mickey"
+        "Kramer",
+        "Morty",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

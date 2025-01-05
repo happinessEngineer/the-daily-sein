@@ -1,104 +1,104 @@
 {
-  "gameNumber": 438,
+  "gameNumber": 439,
   "date": "2026-03-17",
   "questions": [
     {
-      "quote": "You should have lived in the twenties and thirties, you know men wore hats all the time then.",
+      "quote": "I don't know. But I'm sure it had, . . . parents. Call her up. She won't mind if you come.",
       "characters": [
+        "Melissa",
+        "Kramer",
         "Elaine",
-        "Jerry",
-        "George",
-        "Morty"
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, listen, Jerry. One of your friends came by and he was very upset that I had your wheels.",
+      "quote": "Yeah, yeah. That- that's, uh, okay, So, uh, I'd like to buy a couple of boxes of those from you, yeah?",
       "characters": [
-        "Stu",
+        "Driver",
+        "George",
         "Kramer",
-        "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Are you kidding? They were merciless! What do you expect when your name rhymes with a part of the female anatomy?",
-      "characters": [
-        "Woman",
-        "Kramer",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Woman"
-    },
-    {
-      "quote": "Hello? Yes. Uh-huh. Ya. Oh, really? Okay, thank you very much. Bye-bye.  Well, the yogurt verdict is in.  Fat!",
+      "quote": "Yeah well, maybe if he didn't lick his fingers before he reached in the bag we would've eaten some. Serves him right.",
       "characters": [
         "Jerry",
-        "Steinbrenner",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "George",
+        "Jack"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Fleas? Bwa ha ha ha ha .That's preposterous. How can I , give you fleas. Now if you don't mind...",
+      "quote": "So when you get a rash all over your face in January do you think Coleman's will be there with a medical plan?",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "Meryl",
-        "Newman"
+        "Levitan",
+        "George",
+        "Bania",
+        "Ned"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Ned"
     },
     {
-      "quote": "I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",
+      "quote": "I am not gonna taste your peach. I ate some one's pecan last night, I'm not gonna eat your peach.",
       "characters": [
-        "George",
         "Jerry",
-        "Elaine",
-        "Bonnie"
+        "Rabbi",
+        "George",
+        "Sara"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Y'know, I'm better with the mothers than I am with the daughters.",
+      "characters": [
+        "Manager",
+        "Helen",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "All right. Now you listen, and you listen good. I know who you are. You're the scofflaw.",
+      "quote": "Aw, hoh, oh Deena, thank God.  Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here.",
       "characters": [
+        "Jackie",
         "Kramer",
-        "George",
-        "Elaine",
-        "Mickey"
+        "Frank",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, I've been in the slash many times. This is nothing. You'll get used to it. Just,  put it out of your mind.",
+      "quote": "And now he's gone. I'm sure he's looking for the car. Five minutes, that's all. I just want to find him.",
       "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, someone's been cashing the checks and you're overdrawn.",
-      "characters": [
-        "Voice",
         "Elaine",
         "Jerry",
-        "Kramer"
+        "Kramer",
+        "Guy"
       ],
-      "correctAnswer": "Voice"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know, if Richie Brandes did this, I'd be suspicious, you know. He's always got some ulterior motive.",
+      "quote": "You know, this is very nice, but I really could take a cab. Really.",
       "characters": [
-        "Ade",
         "George",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Woman",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Where are you gonna get this mickey? I can't believe I'm saying \"mickey\"!",
+      "characters": [
+        "Jerry",
+        "George",
+        "Tim",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     }

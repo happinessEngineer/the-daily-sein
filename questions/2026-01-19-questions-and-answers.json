@@ -1,106 +1,106 @@
 {
-  "gameNumber": 381,
+  "gameNumber": 382,
   "date": "2026-01-19",
   "questions": [
     {
-      "quote": "I don't understand lunch, I don't know anything about lunch. Listen. Just because I got the guy fired doesn't mean I turned him into a bum - does it?",
+      "quote": "Well I'll tell you what I think. I think she saw you with that piece off and was devastated. You blew it boy. You really blew it. And you had to ruin it for him. Didn't you?",
       "characters": [
-        "Peterman",
+        "Cindy",
         "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Um, all right, um, uh, I'll call 'ya. I'll call you and we'll talk on the phone. A telephone communiqué. Every thing is fine ok, uh, fine, .. [exits]",
-      "characters": [
-        "George",
-        "Morty",
-        "Phil",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No come on, let me, let me. I smashed your car, it cost you over two thousand dollars,",
-      "characters": [
-        "Kramer",
-        "Jack",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Elaine, all right, who looks better in this shirt? Me or Mickey?",
-      "characters": [
-        "Frank",
-        "Jerry",
-        "Elaine",
+        "Keith",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "But Mr. Steinbrenner, how can I be expected to perform my job properly, knowing that my uh, subordinate is making more money than I am? With all due respect sir, it's outta whack.",
+      "quote": "Look Mister Costanza, it's too late now anyway. I already made a deal with another writing team.",
       "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Izzy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Your movin'? That means I'm movin'.  Geeeeee  isn't that incredible!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I know who it was too. It was the guy who interviewed me. He was very threatened by me. Why else wouldn't he hire me? I could sell latex like that .",
-      "characters": [
-        "Jerry",
-        "Phil",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yea, ya..ya know I feel terrible about Joey but it's jus..it's a great business opportunity. I-I don't even know how long I'm gonna be away for.",
-      "characters": [
-        "Susan",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's an inter-office envelope. It get passed around all over the office.",
-      "characters": [
-        "Kramer",
-        "George",
+        "Russell",
+        "Voice",
         "Jerry",
         "Elaine"
       ],
+      "correctAnswer": "Russell"
+    },
+    {
+      "quote": "Nah, the only one I could ask is Elaine, and I can't ask her.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Heather",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Uh, excuse me, uh, um, Jason. I don't want to get into a big thing here, but... I'm not sure if, technically, what you just said was actually an apology.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, see that's not a reason you can't. You just don't want to.",
+      "quote": "Now I know what I am supposed to do. It's so simple. Tell the truth That's all. Just tell the truth",
       "characters": [
-        "Lloyd",
+        "Kramer",
         "Jerry",
         "Elaine",
-        "Bob"
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Is he wretchedly poor? Does he wear one of those barrels with the straps?",
+      "characters": [
+        "George",
+        "Steve",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because if there's any doubt at all I...I feel we should cultivate it.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Rabbi",
+        "Karen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "'I will expect all funds in form of cashier checks no later than the 18th'.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Darryl"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ohh.. right. Cause if we're dating, what everyone saw was just a beautiful moment between two lovers.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Joel",
+        "George"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Why wouldn't they like us?  Again with the pepper? What do you gotta use all the pepper for?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Frank"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1018,
+  "gameNumber": 1019,
   "date": "2027-10-18",
   "questions": [
     {
-      "quote": "Well, that interests me very much Mr. Farkus.Very much indeed, sir.",
+      "quote": "I don't know. We got into this whole thing about how podiatrists aren't real doctors.",
       "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yes, well, of course, but, even so, you may wanna talk to a lawyer.",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
-        "Tony"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because he'll know I told you. Besides, he's giving me a parking spot around the corner for practically nothing.",
-      "characters": [
         "George",
-        "Jerry",
-        "Newman",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No no no, don't interrupt the cycle. The machine is working, it, it knows what it's doing. Just let it finish.",
-      "characters": [
-        "George",
-        "Estelle",
-        "Elaine",
+        "Brody",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Say, I happened to catch you coming out of Schindler's List the other night.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Estelle",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, man... \"If the engine begins to overheat, turn off air conditioner\". Never, I can't do that.",
-      "characters": [
-        "Elaine",
-        "Helena",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Then afterwards maybe we could all go out together. Y'know she'll see me with my friends, she'll observe me as I really am, as myself. Maybe I can get some hand that way.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Jerry",
-        "Salesman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Let me tell you this: there is no way cousin Jeffrey is dating Amy. He looks like a horse!",
-      "characters": [
-        "Leslie",
-        "Kimbrough",
-        "Elaine",
-        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "When you're talking about a movie like \"Beaches\", moving from the chair to the couch , . . . that's quite a voyage.",
+      "quote": "Oh no no no. He's deeply in love, and I was just about to break up with her when she told me.",
       "characters": [
-        "Elaine",
-        "Kramer",
+        "Ray",
         "Jerry",
+        "Elaine",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I was the last one on the end. George was next to me. And Mr. Bevilacqua, the gym . . .",
+      "quote": "Well, if she's available now, I'm not gonna let her slip through my fingers this time. Nooope.",
       "characters": [
-        "Nina",
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, Jerry. You know who the grand marshal is of this thing? None other than Miss Chita Rivera.",
+      "characters": [
+        "George",
+        "Rabbi",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Urgh.. these are so cheap.  And don't forget tommorrow we're going shopping for some rings, so don't make any plans...and this time we're not skimping.",
+      "characters": [
+        "Jerry",
+        "Susan",
+        "George",
+        "Brett"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Oh, excuse me.    What have you been doing, I've been smacking myself senseless.  People think I'm a mental patient.",
+      "characters": [
+        "Elaine",
+        "Attendant",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'll tell you what's insane: the price that I could get you on a new desktop computer.",
+      "characters": [
         "Jerry",
         "George",
-        "Kate"
+        "Naomi",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Leslie, sometimes the road less travelled is less travelled for a reason.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Why do they call it Ovaltine? The mug is round. The jar is round. They should call it round tine. That's gold, Jerry! Gold!",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "Tonight I want you to sleep on this. Toughens the vertebrae.  What in holy hell? Sausages? Is this your diet?",
+      "characters": [
+        "Izzy",
+        "Doctor",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Izzy"
     }
   ]
 }

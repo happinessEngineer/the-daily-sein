@@ -1,106 +1,106 @@
 {
-  "gameNumber": 92,
+  "gameNumber": 93,
   "date": "2025-04-05",
   "questions": [
     {
-      "quote": "Well you should hear the message from my nut. Where's George and Kramer, I want to get inside already, I don't like standing out here, I feel very vulnerable.",
+      "quote": "I've read your book, Professor, and I was quite intrigued by it.",
       "characters": [
-        "Jerry",
+        "Kramer",
         "George",
-        "Glenn",
-        "Elaine"
+        "Jerry",
+        "Landlord"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Landlord"
     },
     {
-      "quote": "Hey, so I talked to Lisi and she has got a big surprise for you. She's planning a weekend trip to Pennsylvania Dutch country.",
+      "quote": "And she slaves to earn every penny. So that someday, I might be able to walk up to a woman and say, \"Yes, I'm bald, but I'm still a good person.\"",
       "characters": [
-        "Elaine",
+        "Kramer",
+        "George",
+        "Newman",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come up - Ah, there he is, the man himself, George Louis Costanza. Here I am about to go to the electric chair and my oldest friend is dating the governor",
+      "characters": [
+        "Helen",
         "Kramer",
         "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well I was draughting behind a semi. I didn't wanna lose him. The infrastructure, Jerry, it's crumbling.",
+      "quote": "I asked some friends of mine this week, and all of them liked the commercial.",
       "characters": [
-        "Morty",
+        "George",
+        "Jerry",
+        "Elaine",
+        "Donna"
+      ],
+      "correctAnswer": "Donna"
+    },
+    {
+      "quote": "Everything she thinks. you think. Everything you think she thinks. No I can't take it. I can't take it Jerry. It's too much. It's too much.",
+      "characters": [
         "Elaine",
         "Jerry",
+        "George",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I'm performing in this club on the east Side. You should come in.",
+      "quote": "Yeah you've had like a religious awakening. You're like a bald-again.",
       "characters": [
-        "George",
+        "Jerry",
         "Kramer",
-        "Elaine",
-        "Jerry"
+        "Lamar",
+        "Peterman"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Come on, Sue Ellen. You don't wear a bra, you're tall... we hate each other!",
+      "quote": "Five seconds. Jerry, I was five seconds away from breaking up with him. Five seconds. The next words out of my mouth were, 'Owen, it's over.'",
       "characters": [
+        "Newman",
+        "George",
         "Jerry",
-        "Elaine",
-        "Laura",
-        "George"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah. Hey, let ask you something. Is it just me, or - or do you find it unbearable to be around Jerry and that girl?",
+      "quote": "Hah, Jerry, I am so sorry. they tell me there is no way they can do it.  Is there anything else I can do for you? Anything at all. I refund your money.",
       "characters": [
+        "Marla",
         "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
+        "Jerry",
+        "Milos"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Milos"
     },
     {
-      "quote": "It was pretty ugly from the get go. he's not listening, He's hostile, he's talking back.",
-      "characters": [
-        "Stan",
-        "George",
-        "Morty",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So you're saying, I go in to NBC, and tell them I got this idea for a show about nothing.",
-      "characters": [
-        "Susan",
-        "George",
-        "Emily",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You see those tears streaming down you don't know what to do. It was like she was on fire and I was trying to put her out.",
+      "quote": "Well, Play Now is through playing. They turned the heat way up in my office. They tried to sweat me out.",
       "characters": [
         "Jerry",
-        "George",
-        "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You gotta look at this. I pulled it in perfectly equidistant from the car in front of me and the car behind me.",
-      "characters": [
+        "Worker",
         "Elaine",
-        "Jerry",
-        "Raymond",
         "George"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Ah, ``Rochelle, Rochelle''... \"A young girl's strange, erotic journey from Milan to Minsk\"...",
+      "characters": [
+        "Clerk",
+        "George",
+        "Elaine",
+        "Doctor"
+      ],
+      "correctAnswer": "Clerk"
     }
   ]
 }

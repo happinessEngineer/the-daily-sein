@@ -1,104 +1,104 @@
 {
-  "gameNumber": 989,
+  "gameNumber": 990,
   "date": "2027-09-19",
   "questions": [
     {
-      "quote": "Okay.  Yeah, okay. Great! That would be, that'd be great. So, next Wednesday.",
+      "quote": "Hm, That's interesting. You know someone mentioned to me you were not very happy with your toys, growing up.",
       "characters": [
+        "Monica",
         "George",
-        "Joel",
         "Jerry",
-        "Poppie"
-      ],
-      "correctAnswer": "Joel"
-    },
-    {
-      "quote": "Oh sure, the guy I told to pour the Gatorade that killed Marty Benson?",
-      "characters": [
-        "Hoyt",
-        "George",
-        "Kramer",
-        "Jerry"
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Marisa Tomei! I, just spoke to Marisa Tomei!  And I wasn't even that nervous.",
+      "quote": "Hey, Jerry! Listen, I need you to come downstairs, help me get my stuff outta the car.",
       "characters": [
-        "Stu",
-        "Elaine",
-        "Wilhelm",
+        "Kramer",
+        "Emily",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Jerry I'm so glad we switched apartments. It was a perfect solution.",
+      "characters": [
+        "Todd",
+        "Jerry",
+        "Kramer",
         "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Don't sell yourself short. You made all the flight arrangements, hotels, busses.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, no no [Elaine enters, flossing teeth] Elaine what's the name of that friend of yours ... that's a therapist ... the woman.",
+      "characters": [
+        "Jerry",
+        "George",
+        "Elaine",
+        "Susan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, they tend to give those jobs to ex-ballplayers and people that are, you know, in broadcasting.",
+      "characters": [
+        "Carol",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She'll be fine. I gotta go to the hospital to see her tonight.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Jack",
+        "Susan"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "That is one place on my wardrobe I do not need sharp interlocking metal teeth. It's like a mink trap down there.  What are you doing today?",
+      "quote": "Well, those aren't for New Year's. Those are my everyday balloons.",
       "characters": [
-        "Morty",
-        "Jerry",
+        "Betsy",
+        "David",
         "Kramer",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Yeah, I know. Uh, by the way, could you do me a favor and tell Mitchell Tanenbaum that I will be unable to attend this Saturday.",
+      "quote": "Why did I buy it, because in the mirror, at Barney's, I looked fabulous. This woman was just walking by said I looked like Demi  Moore in Indecent Proposal.",
       "characters": [
         "Elaine",
-        "Izzy",
-        "George",
-        "Jerry"
+        "Jerry",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yours were hilarious, we were both cracking up. I just love jokes like that.",
+      "quote": "Which part? The renovating the restaurant you don't own part or spending the two hundred million you don't have part?",
       "characters": [
-        "Elaine",
-        "Enzo",
+        "Jerry",
         "Kramer",
-        "Carol"
-      ],
-      "correctAnswer": "Carol"
-    },
-    {
-      "quote": "Well, this guy Leonard Christian's gonna be there tomorrow night.",
-      "characters": [
-        "Woman",
-        "Jerry",
-        "Elaine",
-        "Bob"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And it was around this point that she mentioned the boyfriend?",
-      "characters": [
-        "Jerry",
-        "Michael",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "We're making a trade. I'm giving him my motorcycle helmet - he's giving me his radar detector.",
-      "characters": [
-        "George",
-        "Newman",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Hey Elaine What about the crest.? What d'you think of the crest here.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "Celia",
-        "Vivian"
+        "Sally",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     }

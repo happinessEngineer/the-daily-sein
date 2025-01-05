@@ -1,106 +1,106 @@
 {
-  "gameNumber": 860,
+  "gameNumber": 861,
   "date": "2027-05-13",
   "questions": [
     {
-      "quote": "I'm sorry Leo's moving back here. I'm not ready to go back to Florida.",
+      "quote": "\"This holiday season a donation has been made in your name to the Children's Alliance.\"?",
       "characters": [
-        "Elaine",
-        "Bania",
-        "Kramer",
-        "Morty"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Well, we've tried to arrange a situation where we'll be able to do this once in a while and still be friends.",
-      "characters": [
-        "Kramer",
-        "Elaine",
+        "Eva",
         "Jerry",
-        "Jackie"
+        "Elaine",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, well, you got that straight!  Hey, Elaine, try the beef - because that's realy au jus sauce, huh.  Real au jus sauce!",
-      "characters": [
-        "George",
-        "Abby",
-        "Kramer",
-        "Jack"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "He's become the laughing stock! You know The Times has already stated it could cost him the election.  Name tags!",
+      "quote": "No, no. Well, I mean, you know, he's more like an intern, you know, at best.",
       "characters": [
         "Elaine",
         "Kramer",
-        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, so I talked to Lisi and she has got a big surprise for you. She's planning a weekend trip to Pennsylvania Dutch country.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "What, do you break it in with her, then you try it out on me?",
-      "characters": [
-        "George",
-        "Jackie",
-        "Jerry",
-        "Alec"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I'm so sorry. I got stuck out of town. I missed our whole time together.",
-      "characters": [
-        "George",
-        "Ade",
-        "Susan",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "So listen, I'm going to crab a bite to eat at Sardi's. You wanna go?",
+      "quote": "You're doomed. You're gonna have to have all your sex at women's apartments. It'll be like a permanent road trip. Forget about the home bed advantage.",
       "characters": [
         "Kramer",
+        "Eddie",
         "Jerry",
-        "George",
-        "Elaine"
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I know, George is pretty pleased about it. It's like she signed a letter of intent.",
+      "quote": "Look at that. They got lobster on the menu. Who would order a lobster here. I mean, do they bring a lobster in everyday hoping *todays* the day.",
       "characters": [
+        "George",
+        "Elaine",
         "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Chicken, how could she look up to a person who voluntarily spends time with Bania?",
+      "characters": [
+        "George",
+        "Kramer",
         "Joel",
-        "Elaine",
-        "Kramer"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Elaine, come on, take a walk with me down to the Laundromat. I gotta pay this guy the money..",
+      "quote": "Well, you should choose the poem since you knew Susan best at the time of her unfortunate ...accident.",
       "characters": [
-        "Jerry",
-        "Sally",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh yeah. The second button is the key button. It literally makes or breaks the shirt. Look at it, it's too high, it's in no-man's land.",
-      "characters": [
-        "Jerry",
+        "Jackie",
         "George",
-        "Kramer",
-        "Carl"
+        "Wyck"
+      ],
+      "correctAnswer": "Wyck"
+    },
+    {
+      "quote": "Well, then, you've just got to fire her! Don't even think about it - there's no two ways about it.",
+      "characters": [
+        "Eva",
+        "Jerry",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I think maybe you're flattering yourself. That mannquein is wearing a twelve hundred dollar Gaultier dress.",
+      "characters": [
+        "Saleswoman",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Saleswoman"
+    },
+    {
+      "quote": "- Nnnhhahahahahahahahahahahahahaha . Oh, you know what? I think Naked Gun is on. Oh I've seen it. I laughed through that whole thing. You wanna watch?",
+      "characters": [
+        "Naomi",
+        "Jerry",
+        "Newman",
+        "Stan"
+      ],
+      "correctAnswer": "Naomi"
     }
   ]
 }

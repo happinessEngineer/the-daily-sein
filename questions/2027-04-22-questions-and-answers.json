@@ -1,106 +1,106 @@
 {
-  "gameNumber": 839,
+  "gameNumber": 840,
   "date": "2027-04-22",
   "questions": [
     {
-      "quote": "It's a story about love , deception ,greed , lust and.... unbridled enthusiasm .",
+      "quote": "Oh with all due respect, I went there too, and I work for a team that just won the World Series.",
       "characters": [
-        "Kimbrough",
-        "Tim",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "But, I live here! I ran out to buy some birdseed, and-and I forgot my key.",
-      "characters": [
-        "Phil",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Phil"
-    },
-    {
-      "quote": "[trying to act as if he doesn't care one way or the other, but we know better] Either way.",
-      "characters": [
-        "Elaine",
-        "Woman",
-        "Jack",
+        "Farkus",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah. They said they haven't seen anybody go after balls with such gusto.",
+      "quote": "Out.  Wow. I spend so much time trying to get their clothes off, I never thought of taking mine off.  Alright, Hey come on, get out of here, Dophne gonna be here any minute.",
       "characters": [
-        "Kramer",
-        "Elaine",
         "George",
+        "Rabbi",
+        "Kramer",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh I'm happy right here. Isn't this place amazing? Planes flying in from all corners of the world, and they know the minute they're arriving.",
+      "quote": "I am gonna make good use of this! I'm watching every superbowl here, every big fight....",
       "characters": [
         "Kramer",
-        "Milos",
-        "Melissa",
-        "Bruce"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I tell ya, there's some people, they just wear a ribbon and they think they're doin' something? Not me. I talk the talk, and I walk the walk, baby.  I'll be right back.",
-      "characters": [
-        "Naomi",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry got her phone number off of an AIDS walk list? Oh, that's awful!",
-      "characters": [
-        "Susan",
         "George",
         "Elaine",
-        "Man"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "We've never gotten so many complaints. Every two minutes, \"Where is the top of this muffin? Who ate the rest of this?\"",
-      "characters": [
-        "Rebecca",
-        "Morty",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Rebecca"
-    },
-    {
-      "quote": "Hey, George. Jerry. Listen, I just got sober, so I've been going through the Twelve Steps.",
-      "characters": [
-        "Pam",
-        "Lois",
-        "Jerry",
-        "Hanke"
-      ],
-      "correctAnswer": "Hanke"
-    },
-    {
-      "quote": "Could use a good laugh. You know what kind of pressure that is? Come on, come with me.",
-      "characters": [
-        "Kramer",
-        "Mike",
-        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. Specifically 9:30 shows. Seen any good 9:30 shows at the Paragon, Willie?",
+      "characters": [
+        "Jerry",
+        "Doctor",
+        "Lloyd",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm calling the shots around here so there won't be anymore ACCIDENTS!",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I had the directions on the seat right next to me, they flew out the window.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Ed"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, have you noticed George is acting a little strange lately?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "If you hadn't mentioned anything, I would have been fine. I became obsessed with him.",
+      "characters": [
+        "Man",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You're right, how did I miss that?  Maybe because it's a crock of shit.",
+      "characters": [
+        "Jerry",
+        "Peterman",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "What ever they had. Miranda thinks I'm a butcher but i-i-it's not my fault is it? Don't we have a deal with the pigeons?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Allison",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

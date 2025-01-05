@@ -1,106 +1,106 @@
 {
-  "gameNumber": 376,
+  "gameNumber": 377,
   "date": "2026-01-14",
   "questions": [
     {
-      "quote": "I said you know what I do  when I want to relax? The Jumble. Hey uh do you make a book of Jumbles?",
+      "quote": "You know what you oughta do. You should go to her office and heckle her.",
       "characters": [
-        "Katya",
-        "Elaine",
-        "Driver",
-        "Newman"
-      ],
-      "correctAnswer": "Driver"
-    },
-    {
-      "quote": "Nicole Millers, We're not expecting any Nicole Millers, in fact we have too many as it is.",
-      "characters": [
-        "Bob",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Bob"
-    },
-    {
-      "quote": "Wait. Elaine will settle this. What's the\"M\"stand for in Richard M. Nixon?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Helen",
-        "Nikki"
-      ],
-      "correctAnswer": "Nikki"
-    },
-    {
-      "quote": "So tell me. What's the problem with your little flaky friend? She doesn't return calls?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Newman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's another loop hole. That's two dates without asking you out.",
-      "characters": [
-        "Elaine",
         "Kramer",
         "George",
+        "Elaine",
         "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Y'know, just because you two are homosexuals, so what? I mean you should just come out of the closet and be openly gay already.",
-      "characters": [
-        "Elaine",
-        "Ellen",
-        "Kramer",
-        "Judge"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh no no no no - we have to be in California next week. We're starting a TV show.",
-      "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "No, no, I don't want it back.  Are you gonna watch the Knick game tonight?",
+      "quote": "I'm taking the car. I gotta run some errands. You want to go?",
       "characters": [
-        "Kramer",
-        "George",
-        "Lippman",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, I'm sorry. I'm just a little curious. I mean why did you stop seeing him.",
-      "characters": [
-        "Todd",
-        "Elaine",
         "Jerry",
+        "George",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Obviously I'd rather sit than stand, if that's what your asking.",
+      "quote": "Never mind who I am. I know who I am. Do you know who you are?  Why is it every time you park a car in this block, everything gets disrupted and disjointed?",
+      "characters": [
+        "George",
+        "Gavin",
+        "Jerry",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "Jerry, this is Joanne, and this is Stan. They're in my short story class with Roxanne and me.",
+      "characters": [
+        "Elaine",
+        "Stu",
+        "Abby",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, when I heard you weren't coming I made up and excuse and got the hell out of there.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "Tv"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I gotta find a way to work this out, I love that apartment.  It's so cozy, I'm ensconced in velvet.  You know, if it were socially acceptable--",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Saturday?.. Well, I have a show in Buffalo on Saturday. They're not gonna bust up my apartment, or anything, are they?",
       "characters": [
         "Jerry",
         "Elaine",
-        "Guard",
-        "Newman"
+        "Sally",
+        "Puddy"
       ],
-      "correctAnswer": "Guard"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I saw her last week, she looked healthy and peaceful, but...she knew...",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yeah yeah, we're cracking along pretty good! We're almost up to 80 degrees!",
+      "characters": [
+        "Estelle",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm not stopping you from eating. Go ahead and eat. Get anything you want.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

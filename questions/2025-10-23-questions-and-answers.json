@@ -1,106 +1,106 @@
 {
-  "gameNumber": 293,
+  "gameNumber": 294,
   "date": "2025-10-23",
   "questions": [
     {
-      "quote": "It's like I'm Neil Armstrong. I turn around for a sip of Tang and you jump out first.",
+      "quote": "So, he made an appointment for me to see Dinkins' doctor. He's just trying to humiliate me.",
       "characters": [
-        "George",
-        "Jerry",
         "Kramer",
+        "Jerry",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Listen, sweetheart, let me tell you a little something about guts.  This is guts.",
+      "quote": "Y'know, the funny thing is, somehow I find her more appealing now... It's like if I knew she was a lesbian when we went out, I never would've broken up with her.",
       "characters": [
         "George",
         "Kramer",
-        "Morty",
+        "Susan",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I uh, I uh, I arranged for the appropriate accommodations. And then, Knick tickets, floor seats.",
+      "quote": "It was unbelievable. Six weeks of traveling through Mexico all on Peterman's peso.",
       "characters": [
-        "Jerry",
-        "George",
-        "Carol",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Is that right? I just threw away a lifetime of guilt-free sex, and floor seats for ever sporting event in Madison Square Garden. So please, a little respect. For I am Costanza: Lord of the Idiots!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Helen",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "No, I didn't make these bagels.  Yeah, they're day-olds. The homeless won't even touch them.  Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test.",
-      "characters": [
-        "Kramer",
-        "Jerry",
         "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I don't understand things were going so great. What happened? Something must have happened.",
-      "characters": [
-        "George",
-        "Newman",
-        "Judge",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, heh. You know, a friend of mine has a watch just like that. I'd love to replace it for him as a gift.",
-      "characters": [
-        "Jerry",
+        "Detective",
         "Kramer",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "The Samaritans were an ancient tribe - very helpful to people.",
-      "characters": [
-        "Steinbrenner",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "20 years practicing law I've never experienced anything like this.",
-      "characters": [
-        "Jerry",
-        "Jackie",
-        "George",
-        "Jack"
-      ],
-      "correctAnswer": "Jackie"
-    },
-    {
-      "quote": "No, no. Listen, Rabbi, I'd like to ask you a question. Why, why did you tell my friend Jerry what I talked to you about?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hi, Jerry it's Naomi.  Ah, listen, if its not too late I, changed my mind, I'd like to go to the cabin.",
+      "characters": [
+        "Naomi",
+        "Kramer",
+        "Woman",
+        "Jerry"
+      ],
+      "correctAnswer": "Naomi"
+    },
+    {
+      "quote": "Okay, Latvius was the son of which apostle? And I'll need that in the form of a question.",
+      "characters": [
+        "Jerry",
+        "Guard",
+        "Newman",
+        "Carol"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "..Felt like it. I tell you, this doll is pretty spooky.  It's freakin' me out man. And now I got to go back out there and pick up this doormat.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Patty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, come on, Jerry! Come on, this is stupid! It's six o'clock! It's all over, just pick up the phone and thank him!",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So, I'm going out tonight with Robert and the boss and his wife.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Bob",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, no, I want to. I, I very much want to. I, I desire to. I, I pine to.",
+      "characters": [
+        "Elaine",
+        "Helen",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. I did some shopping. Some new clothes shopping.  Can I borrow your menu?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Gary",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

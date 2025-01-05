@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1034,
+  "gameNumber": 1035,
   "date": "2027-11-03",
   "questions": [
     {
-      "quote": "They won't do anything; in fact, you'll be giving them a story to tell for the rest of their lives.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Nina"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Your father wanted a Mercedes, but I won't ride in a German car.",
+      "quote": "No matter what I do, I cannot weasel out of raising this kid.",
       "characters": [
         "George",
-        "Newman",
-        "Kramer",
-        "Estelle"
-      ],
-      "correctAnswer": "Estelle"
-    },
-    {
-      "quote": "Why couldn't you squeeze one of those stupid rubber balls to get your stress out? Why did you have to destroy *twenty-five* computers?",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Two minutes. Believe me, I know his two minutes. By his conception of time, his life will last over two thousand years.",
-      "characters": [
-        "Jerry",
         "Kramer",
         "Elaine",
-        "George"
+        "Newman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yes, The New Yorker, I've met with their cartoon editor and I got him to admit that that cartoon ...MADE NO SENSE....",
+      "quote": "Shouldn't he say \"Bad bye\"? Isn't that the, opposite of \"Good bye\"?",
       "characters": [
-        "Ray",
         "George",
+        "Gennice",
         "Jerry",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "So you want to take a ride with me out to Jersey? I'm gonna try to sell the van to a lot.",
+      "quote": "It's my day off, but I take care of you anyway because you're my favorite customer. You've been with me for so long. You're so loyal.",
       "characters": [
-        "George",
+        "Jerry",
+        "Jackie",
+        "Kramer",
+        "Enzo"
+      ],
+      "correctAnswer": "Enzo"
+    },
+    {
+      "quote": "Kramer, you make me get a ticket for this friend of yours and then the guy forces me to bootleg the movie at gun point!",
+      "characters": [
         "Jerry",
         "Elaine",
-        "Kramer"
+        "Helen",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "My house? You gotta be on the lease to press to buzzer. Yeah?",
+      "quote": "The guy's got a fat fetish. Spector never dates a woman under two hundred-fifty pounds.",
       "characters": [
         "Kramer",
-        "Darryl",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Let's go, people, let's go! It's Prognosis Negative time, wa ha ha ha!!!",
-      "characters": [
-        "Puddy",
-        "Jerry",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know, Newmie. Um, I know how you feel about me, and I have to tell you, I'm quite flattered.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I was under the impression that I could take anything I wanted from your fridge, and you could take whatever you want from mine.",
-      "characters": [
-        "Toby",
-        "Elaine",
         "George",
-        "Kramer"
+        "Ethan"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I'm going out with one of the Miss America contestants, you wanna go?",
+      "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll make time, because Abby, I was once like you; wide-eyed, naive, I didn't know the first thing about a subject as fundamental as risk management.",
+      "characters": [
+        "George",
+        "Morty",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey. Oh, Elaine. I'm glad you're here. Stay right there. I'm gonna be right back.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, I'm his nephew, all right? Don't worry about it. Go ahead. Check it out.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "So you went from the mailroom to the director of corporate development in two days?",
+      "characters": [
+        "Woman",
+        "Hal",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Woman"
     }
   ]
 }

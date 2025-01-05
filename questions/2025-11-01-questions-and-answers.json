@@ -1,106 +1,106 @@
 {
-  "gameNumber": 302,
+  "gameNumber": 303,
   "date": "2025-11-01",
   "questions": [
     {
-      "quote": "You know...I'm not sure. I'll tell you what. I'll come back later with someone and see what they think.",
+      "quote": "Elaine, often times in life there are problems, and just as often there are solutions.",
       "characters": [
-        "George",
-        "Kramer",
         "Jerry",
-        "Janet"
+        "Wendy",
+        "David",
+        "Rabbi"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Rabbi"
     },
     {
-      "quote": "Y'know the average life span for an American male is like, 72. You're really... kinda pushin' the envelope there.",
+      "quote": "Let me just say this. It is inhumane to make a man stand on his feet, in one spot for eight hours a day. Why shouldn't he have a chair?",
       "characters": [
         "George",
-        "Kramer",
         "Jerry",
-        "Salesman"
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I wasn't aware that, uh, Mike, this is George Constanza. He's starting here today.",
+      "quote": "Yeeah, but David and Beth are going to need their grieving time.",
       "characters": [
-        "Secretary",
+        "George",
+        "Elaine",
+        "Frank",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "During that period when my folks were separated he went a little crazy.",
+      "characters": [
         "Jerry",
         "Kramer",
-        "Laura"
-      ],
-      "correctAnswer": "Secretary"
-    },
-    {
-      "quote": "Why don't get we together New Years day and watch some football.",
-      "characters": [
-        "Elaine",
-        "Estelle",
         "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "If you're having second thoughts, if you didn't want it, don't worry about it because uh, you know, I, I...I could take it, you know.",
-      "characters": [
-        "Newman",
-        "George",
-        "Elaine",
-        "Jerry"
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh yeah. Elaine was a fun project. I enjoyed working with her.",
+      "quote": "You know, selling bras exclusively to women, we're really only utilising fifty percent of the market.",
       "characters": [
-        "Kramer",
-        "George",
         "Elaine",
-        "Earl"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "No, no, no, I don't want to carry it around all night. I'll pick it up later.",
-      "characters": [
-        "Doctor",
-        "George",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well maybe I will take it up with Consumer Affairs. Ladies and Gentlemen you're in for an additional treat. We're going to extend the tour at no extra charge.",
-      "characters": [
-        "Wilhelm",
         "Jerry",
-        "Elaine",
+        "George",
+        "Farkus"
+      ],
+      "correctAnswer": "Farkus"
+    },
+    {
+      "quote": "That's true. But, you know, I can't help but think that uh...",
+      "characters": [
+        "George",
+        "Driver",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Lloyd Braun can do anything he puts his mind to. He's fine, Jerry.  And you should say hello to him, Elaine.",
+      "quote": "Could be years before I get back to Coney Island. I can't go to rides alone.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Kramer",
+        "Morgan"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No. But I was the only one at the table that didn't get violently ill.",
       "characters": [
         "Kramer",
-        "George",
-        "Marcy",
-        "Elaine"
+        "Cop",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh, Jer, well you know, I was cookin' and I, I uh, I came in to get this spatula...and I left the door open, 'cause I was gonna bring the spatula right back!",
+      "characters": [
+        "Jerry",
+        "Marla",
+        "Kramer",
+        "Puddy"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well I feel like I'm talking fast but it's very hard to tell.",
+      "quote": "A hundred and fifty dollars? A hundred and fifty dollars for what? For this couch?",
       "characters": [
-        "Levitan",
-        "Morty",
-        "Kramer",
-        "Jerry"
+        "Wyck",
+        "Jerry",
+        "George",
+        "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     }
   ]
 }

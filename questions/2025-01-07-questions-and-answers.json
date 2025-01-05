@@ -1,106 +1,106 @@
 {
-  "gameNumber": 4,
+  "gameNumber": 5,
   "date": "2025-01-07",
   "questions": [
     {
-      "quote": "…And then Julianna asked me if I wanted to join her here in the office.",
-      "characters": [
-        "Ralph",
-        "George",
-        "Jerry",
-        "Raymond"
-      ],
-      "correctAnswer": "Raymond"
-    },
-    {
-      "quote": "Sorry I'm late, but look what I found in the Yankee Hall of Pride display case.",
+      "quote": "Alright, I'll tell you what. Next time I talk to him, maybe I'll bring it up. I'll feel him out.",
       "characters": [
         "Kramer",
-        "Elaine",
-        "George",
-        "Lamar"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, you have a policy!  The delicate genius has a policy! George heads for the door.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jackie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Where are you meeting these women? When they get off the bus at the port authority?",
-      "characters": [
-        "Elaine",
-        "Newman",
-        "George",
+        "Wilhelm",
+        "Bob",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well at least you and I are talking about how there's nothing to talk about.",
+      "quote": "Yeah, I'm sure it's all here.  You know I was just admiring your coffee table, out there in the hall.",
       "characters": [
         "Kramer",
+        "Jerry",
         "Newman",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Geez, these are delicious. Where did you learn to make eggs like this?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Doctor"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, uh, the cigars..  I'm, uh, suckin' 'em down. I'm puffing my brains out, yeah.",
-      "characters": [
-        "Fdr",
-        "George",
-        "Elaine",
-        "Jack"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I was shaving. And I noticed an asymmetry in my chest hair and I was trying to even it out. Next thing I knew,  Gone.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Ellen",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I think that's the statue from my house. That looks like the statue from my house!",
-      "characters": [
-        "Elaine",
-        "Jimmy",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, you're in a restaurant. You've got a very big meeting coming up...",
-      "characters": [
-        "George",
-        "Jerry",
-        "Ray",
-        "Kramer"
+        "Marcy"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Remy, this is George. Would you mind if he watched Breakfast At Tiffany's with us?",
+      "characters": [
+        "Jerry",
+        "Joe",
+        "Elaine",
+        "Ricky"
+      ],
+      "correctAnswer": "Joe"
+    },
+    {
+      "quote": "The next morning, I woke up, and it was going like this.  I can control it if I really concentrate. But otherwise,  oh.",
+      "characters": [
+        "Clerk",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uromycitisis! I wonder if they're having any trouble controlling themselves during this trial? Perhaps these two hooligans would like to have a pee party right here in the courtroom!",
+      "characters": [
+        "Steinbrenner",
+        "Kramer",
+        "Hoyt",
+        "Jerry"
+      ],
+      "correctAnswer": "Hoyt"
+    },
+    {
+      "quote": "Well as a woman, it makes no sense. But, I mean, let's say I was you. And I decided I was gonna change my name for no real reasons whatsoever-- Deon Rifkin. Wow! That is so cool.",
+      "characters": [
+        "Kramer",
+        "Mohel",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I just found a guy who's willing to pay ten thousand dollars for the apartment.",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey George, what d'you like better? The bro, or the mansiere?",
+      "characters": [
+        "Jerry",
+        "Duncan",
+        "Enzo",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "This is a fantastic place! I always thought it was a meat packing plant!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Bu George, you don't know what you're saying. You're under their control.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

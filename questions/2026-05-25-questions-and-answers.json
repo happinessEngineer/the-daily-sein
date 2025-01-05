@@ -1,106 +1,106 @@
 {
-  "gameNumber": 507,
+  "gameNumber": 508,
   "date": "2026-05-25",
   "questions": [
     {
-      "quote": "I know I don't want it! I don't need you to tell me what I don't want, you stupid hipster dufus!",
+      "quote": "Why didn't you want me to bring my equipment or wear my uniform?",
       "characters": [
-        "Jerry",
-        "Kramer",
+        "Carl",
         "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Carl"
+    },
+    {
+      "quote": "Well, I didn't know that it was a manuscript that I had to read...",
+      "characters": [
+        "Rabbi",
+        "George",
+        "Lanette",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Yeah, Jimmy why don't you wait outside, you know, play with something.",
+      "quote": "It was a good idea. Susan liked it. Now, if he hadn't vomitted all over her, we'd be writing it right now.",
       "characters": [
         "Jerry",
-        "Elaine",
         "George",
-        "Newman"
+        "Kramer",
+        "Conrad"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "So you're just hiring new people now? That's your job, to hire people?",
+      "quote": "Let me tell you who did, uh, buy it...um we pitched this story to Russell Dalrymple, the president of NBC, and he ate it up with a spoon.",
       "characters": [
-        "Kruger",
-        "Izzy",
+        "Naomi",
         "Jerry",
-        "Helen"
+        "Regis",
+        "George"
       ],
-      "correctAnswer": "Kruger"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Mr Peterman, that can't have been the only time that you faced mortal danger.",
+      "quote": "I'm sorry, Elaine. I always knew that after I became a doctor, I would dump whoever I was with and find someone better. That's the dream of becoming a doctor.",
       "characters": [
-        "Elaine",
-        "Alec",
+        "Ethan",
         "George",
+        "Jerry",
+        "Ben"
+      ],
+      "correctAnswer": "Ben"
+    },
+    {
+      "quote": "Remember that guy who took my jacket. The one I found at my mother's house.",
+      "characters": [
+        "Morty",
+        "George",
+        "Kramer",
         "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Son of Sam. The worst mass murderer the post office ever produced.",
+      "characters": [
+        "Newman",
+        "Peterman",
+        "Morty",
+        "Kramer"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Look it, I'm dating a doctor and I like it. Let's just move on.",
+      "characters": [
+        "Karen",
+        "Elaine",
+        "Kramer",
+        "Darryl"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I'm tucking! Hello? Hello? They hung up on me. They don't know where Kramer is anyway.",
+      "quote": "Look Ramon, about the other day. I'm sorry if I offended you. I get a little crabby on the subway.",
       "characters": [
         "Jerry",
+        "Elaine",
         "George",
-        "Peggy",
-        "Kramer"
+        "Wilhelm"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "That's my cabana shirt, you stole my shirt you son of a bitch!  George you let your friends go up in my attic and steal my clothes?  Gimme that back",
-      "characters": [
-        "Nikki",
-        "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "It just didn't work out. What can I do? I wanted to love her. I tried to love her. I couldn't.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "You know Keith, what I've always wondered, with all these ball clubs flying around all season don't you think there would be a plane crash? ...",
-      "characters": [
-        "George",
-        "Elaine",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Awright, lemme just say this. Ten thousand dollars, alright, and now I'm going below what you wanted to pay. You have your dinner, have your veal, or whatever it is. Enjoy...",
-      "characters": [
-        "George",
-        "Karen",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well anyway, the, uh... the stone is up, I paid my respects, guess that's it.",
+      "quote": "You are kidding. That is amazing.  I just took a car service from work and to get the driver to not talk to me, I pretended I was going deaf.",
       "characters": [
         "Kramer",
-        "George",
-        "Jerry",
-        "Elaine"
+        "Elaine",
+        "Gary",
+        "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     }
   ]
 }

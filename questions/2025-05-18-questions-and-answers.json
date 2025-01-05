@@ -1,106 +1,106 @@
 {
-  "gameNumber": 135,
+  "gameNumber": 136,
   "date": "2025-05-18",
   "questions": [
     {
-      "quote": "Well all right, beautiful, so you stop in. Ya, ya visit the bubble boy for twenty minutes and then we can go.",
+      "quote": "It's just that my boss is very demanding and he needed the pencil right away.",
       "characters": [
-        "Darryl",
-        "Russell",
+        "Elaine",
         "Jerry",
+        "Mickey",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, yeah, right. I wish I had something on my mind.  So how about that Kramer, huh?",
+      "characters": [
+        "Maryedith",
+        "Jerry",
+        "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Are you kidding me? [Elaine walks past the window glancing in] This is the best tool we have today of measuring a persons' intelligence.",
+      "quote": "If it's all the same to you, I think I'm just gonna go to bed.",
       "characters": [
         "George",
-        "Dwayne",
-        "Morty",
+        "Milos",
+        "Frank",
+        "Christie"
+      ],
+      "correctAnswer": "Christie"
+    },
+    {
+      "quote": "I don't even know them. What is she, your second cousin? I mean, I've met them three times in my life.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Keith"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, we're discharging the squirrel. We think he'll be better off at home.",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "George",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "I'm not giving you the satisfaction. I'm gonna watch it again...",
+      "characters": [
+        "Newman",
+        "Todd",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well Jerry, it might take a while for me to pay you back. Maybe a few years. How do you feel about that?",
+      "characters": [
+        "Nina",
+        "Elaine",
+        "Jack",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm ten minutes slow again! That's it for this piece of junk! I've had it.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Puddy",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I'm not going for this, Kramer should go! It was all his idea!",
+      "quote": "Two bedrooms? Why do I need two bedrooms? I got enough trouble maintaining activity in one.  I saw that.",
       "characters": [
-        "Jerry",
-        "George",
-        "Tim",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Who told you to put the cheese on? Did I tell you to put the cheese on? I didn't tell you to put the cheese on.",
-      "characters": [
-        "Wilhelm",
-        "Chiles",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Chiles"
-    },
-    {
-      "quote": "Are you telling me there's not one condo available in all of Del Boca Vista?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Well, I think we need more special days at the stadium, you know? Like, uh...Joe Pepitone Day. Or, uh...Jon Voight Day.",
-      "characters": [
+        "Frank",
         "Kramer",
-        "Wilhelm",
         "Jerry",
-        "George"
+        "Elaine"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "See, the great thing about robbing a fat guy is it's an easy getaway. You know? They can't really chase ya!",
+      "quote": "Rene, can you come here a second? Let me ask you something: Ummm, have you ever... you know... faked it?",
       "characters": [
         "Elaine",
+        "Doctor",
         "Kramer",
-        "George",
-        "Katie"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, come on! You've dated women with nosejobs, what's the difference?",
-      "characters": [
-        "George",
-        "Sid",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know, you see Don Matingly signed this envelope then he sent it to room 318, where it was received and signed for by manager Buck Showalter.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Russell"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What did they put on this tuna? Tastes like a dill, I think it's a dill.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 719,
+  "gameNumber": 720,
   "date": "2026-12-23",
   "questions": [
     {
-      "quote": "Well, if they make squeeze mustard, doesn't it stand to reason that they make squeeze ketchup?",
+      "quote": "I was the last one on the end. George was next to me. And Mr. Bevilacqua, the gym . . .",
       "characters": [
-        "Doctor",
+        "Jerry",
         "George",
-        "Peterman",
-        "Jerry"
+        "Gary",
+        "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Okay, Okay. Who do you think you're talking to? What are ya'… you trying to make a joke, because it's not funny. I can tell you that.",
+      "quote": "All right, here, you call him right now. See if he's sniffing right now.",
       "characters": [
-        "Kramer",
-        "George",
-        "Izzy",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Hey hey Kurt, slow down! I can't just marry you, whim-bam-boom! I mean, I need some \"fiance-time,\" I need some \"make-my-girlfriends-jealous\" time...",
-      "characters": [
-        "Elaine",
+        "Carol",
         "Jerry",
         "George",
-        "Donna"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You wanna live here? You respect the rules of our house.  You're grounded!",
+      "quote": "What kind of plastic do you think it is? What do you think like that dry cleaning plastic?",
       "characters": [
+        "Elaine",
+        "John",
         "George",
-        "Elaine",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Very good. My name is Babu Bhatt, I will be your waiter. A steaming hot folded face cloth for your pleasure.",
-      "characters": [
-        "Babu",
-        "Silvio",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Babu"
-    },
-    {
-      "quote": "Remember me? I said I 'd come back with someone and I did. Surprised?.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Karen",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Three days. Well, maybe you caught her on the cusp of a new wash cycle. You know, she did laundry the day after she met you, everything got clean and she started all over again.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "George",
-        "Elaine"
+        "Newman"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What am I supposed to do? I don't want to do it. I like dogs. I'm not sure this is a dog.",
+      "quote": "Okay listen to me. I talked to Gino, he's going to fix the haircut.",
       "characters": [
+        "George",
         "Jerry",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "*Fusilli* Jerry! It's made from Fusilli pasta. See the microphone?",
-      "characters": [
-        "Jerry",
-        "Guard",
-        "Kramer",
-        "Susan"
+        "Frank",
+        "Kramer"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So she breaks up with him. Somehow picks up the pieces of her life. Miraculously meets... A New Guy! Ya bust that up! An' then, just as they're reconciling, you announce to the world: He's Boring.",
+      "quote": "Oh, by the way, I checked at the soup kitchen - they do have cream soups.",
       "characters": [
+        "Jerry",
+        "George",
+        "Kramer",
+        "Lena"
+      ],
+      "correctAnswer": "Lena"
+    },
+    {
+      "quote": "That's no tragedy! How many people do you lose on a normal cruse? 30? 40?! Kramer, can I take a look at that book?",
+      "characters": [
+        "Tv",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Uh,..we'll go to 3rd Avenue. So, can you come with us for lunch to the soup place?",
+      "characters": [
+        "Noreen",
         "George",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No no, no, I want that table. I want that table! Oh, come on, did you see that? What was that? He took the money, he didn't give us a table.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
+        "Hanke"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No, it's like BO and cologne, they combine forces into some kind of strange mutant funk.",
+      "characters": [
+        "Elaine",
+        "Darren",
         "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lifts?! Look Kramer you don't understand, this kind of thing is just not done.",
+      "characters": [
+        "Michael",
+        "Kramer",
+        "Susan",
+        "Mickey"
+      ],
+      "correctAnswer": "Mickey"
     }
   ]
 }

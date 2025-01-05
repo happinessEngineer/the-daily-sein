@@ -1,106 +1,106 @@
 {
-  "gameNumber": 918,
+  "gameNumber": 919,
   "date": "2027-07-10",
   "questions": [
     {
-      "quote": "You know what? I think I'm gonna do that! She came down to where I work, I'll go down to where she works!",
+      "quote": "So anyway his boss has a box at the Met and he invited us to see Swan Lake, which is fine, but he's afraid that his boss can't handle his orientation, so I'm going along as his date.",
       "characters": [
-        "Elaine",
-        "George",
-        "Helena",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Of course. So, I'm looking at it. I look up, I see she's looking at it. Our eyes lock. It was a horrible moment. I just..",
-      "characters": [
-        "George",
-        "Kramer",
+        "Peterman",
         "Jerry",
-        "Rita"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "She's full. So, Big Daddy. I'm just curious. How much did you clear on your little transaction there, all told?",
-      "characters": [
-        "Jerry",
-        "Debby",
         "George",
-        "Duncan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ah. You know, there's gotta be an easier way to open ketchups. They should make it in a tube.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Jimmy"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh, so what are you gonna do? You gonna wait for the cable companies to resolve their dispute? They're gonna be in court for years.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What do you think, junior? You think these hands have been soakin' in Ivory liquid?",
-      "characters": [
-        "Susan",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Ahh, Mr Haarwood. Well, you certainly know how to dress for a premiere.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Karen",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I don't know why you even bother with this ping pong guy, I'll tell you that.",
-      "characters": [
-        "George",
-        "Elaine",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh beautiful! Look at that, the dream space right in front of Jerry's building. Huh? Dreams can come true, what did I tell you?",
-      "characters": [
-        "George",
-        "Jerry",
-        "Holly",
         "Elaine"
       ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No! But maybe you wish it was you who was getting married, not him.",
+      "characters": [
+        "Testikov",
+        "Jerry",
+        "Elaine",
+        "Peterman"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "…OK, I'm tellin' you right now - if your kiddin' around I'm not gonna be able to be your friend anymore. I'm serious about that. You got that.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Man"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, it's not that I don't like you, but, well to be perfectly honest, I'm just having some trouble getting past the face painting.",
+      "quote": "Dwayne, my friend and I would like to exchange frames. Could you put his lenses in my frames and mine in his?",
       "characters": [
+        "George",
         "Elaine",
-        "Guard",
-        "Morty",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah. Go out and have a ball with the guys. I'll be waiting right here for you.",
+      "characters": [
+        "Celia",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Celia"
+    },
+    {
+      "quote": "What's he doing? Is he out of his mind? Do you see him? I don't even think I see him anymore. Where is he?",
+      "characters": [
+        "Kramer",
+        "Evelyn",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Damn that George, I told him I don't want this stuff around here anymore...",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Ah to take some of the pressure off of me. So, Jerry ah, what's going on with you? I understand there's a young lady in your life. mmm.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You should be thanking me for liberating you from your world of loneliness and isolation. Now, you're part of a family.",
+      "characters": [
+        "Jerry",
+        "Wilhelm",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No it's true. This woman saved my life. I was crossing the street .I was almost hit by a car...and then we talked and.......the whole thing just seemed like a dream.",
+      "characters": [
+        "Gary",
+        "George",
+        "Toby",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 491,
+  "gameNumber": 492,
   "date": "2026-05-09",
   "questions": [
     {
-      "quote": "Ohh, because he said that he had to talk with you earlier about some problem that you were having.",
+      "quote": "That you had ice cream all over your face. They were talking about how funny you looked.",
       "characters": [
-        "George",
-        "Jerry",
-        "Buckles",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "\"Arrrrrrgh!! .. It's George.. Oh! Sports wholesaler. yeah. yeah. .. thanks for calling back. No , no , no still got the shoes, still got the shoes. Lots of them. This is.. beautiful athletic gear.\"",
-      "characters": [
-        "Alec",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry, Jerry. Did you taste these peas?  These peas are great!",
-      "characters": [
-        "George",
-        "Elaine",
-        "Poppie",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "All right...we're going with adult contempo...  now... the failsafe. The wake-up guy...",
-      "characters": [
-        "Mickey",
+        "Woman",
         "Jerry",
         "George",
         "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, yeah go ahead yeah, put the banner up doesn't matter to me.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "George",
-        "Fdr"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well I was dropping of the calzone money for the week.... Um shouldn't you be at work by now?",
+      "quote": "She put them in her pocketbook. I guess she took them with her.",
       "characters": [
-        "Kramer",
-        "Marla",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "If you're in some situation where some fast cash will save your life, I'll give you the code.",
-      "characters": [
-        "Stu",
-        "Bob",
-        "Aaron",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Excuse me, didn't those people just come in? I believe we were ahead of them.",
-      "characters": [
+        "George",
+        "Wilhelm",
         "Jerry",
-        "Rachel",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Umm, I'm not actually going straight to home, I have to first stop at the eh...circus, you know with all the...clowns.",
+      "characters": [
+        "Darren",
+        "Sid",
+        "Frank",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, nothing, I just stopped by to chat, you know, shoot the breeze.",
+      "characters": [
         "Elaine",
+        "George",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Now, I'm aware that my own physical dimensions are perhaps a little short of perfection.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I made a conscious effort not to look. There's certain information I just don't want to have.",
+      "characters": [
+        "Morty",
+        "George",
+        "Jerry",
         "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He just went in. You know, I think he was wearing my Hounds-Tooth jacket.",
+      "quote": "I'd accuse you of cheating, but I don't know where you'd hide the tiles.",
       "characters": [
-        "Gino",
-        "Newman",
         "Kramer",
-        "Jerry"
+        "George",
+        "Jerry",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "...I was just telling Mary how I'm not gonna be doing the kiss hello thing anymore.  I'm sorry. I just can't do it. It's nothing personal, it's just I'm not really able to do it and uh, I'm sorry.",
+      "quote": "Yeah. Dandruff, kasha, mothballs, cheap carpeting. It's pot pourri, really.",
       "characters": [
-        "Brett",
+        "Frank",
+        "Jerry",
+        "Poppie",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "In your laundry the whole time? I told you not to mix in our guys. What did we figure the damage on that machine would be?",
+      "characters": [
+        "George",
+        "Jerry",
+        "Cop",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry I didn't get any sleep you kept kicking me in the face.",
+      "characters": [
         "Jerry",
         "George",
-        "Elaine"
+        "Elaine",
+        "Announcer"
       ],
       "correctAnswer": "Jerry"
     }

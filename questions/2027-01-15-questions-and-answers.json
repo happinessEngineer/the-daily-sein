@@ -1,104 +1,104 @@
 {
-  "gameNumber": 742,
+  "gameNumber": 743,
   "date": "2027-01-15",
   "questions": [
     {
-      "quote": "Yeah, and you were engaged for like a minute, I was engaged for a year.",
+      "quote": "Well I think Able worked hard all summer harvesting his crops, while Cain just played in the field. Then when Winter came, Able had all the nuts; Cain had no nuts, so he killed him.",
       "characters": [
-        "Morty",
-        "Elaine",
         "Jerry",
-        "George"
+        "Kramer",
+        "Morty",
+        "Ellen"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "She had to be impressed by that conversation, had to! It was a great performance. I am unbelievable on the phone. On the date they should just have two phones on the table at the restaurant, done.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Holly"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Saturday night with your parents. Unless I'm your sister this is a date.",
+      "quote": "He is the new president of NBC. He wants to sit down with us and talk about \"Jerry.\"",
       "characters": [
-        "Bania",
+        "Jerry",
+        "Maestro",
+        "Nikki",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, we gave him a few bucks, and... now he goes in the alley across the street.",
+      "characters": [
+        "Jerry",
+        "Elaine",
         "George",
-        "Jerry",
-        "Elaine"
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "George, I met this woman. She is not traveling to any other dimensions.",
+      "quote": "It's all the way in the back. Can't get it out for a couple of days.",
       "characters": [
-        "Jerry",
-        "Beth",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "Landis",
+        "Attendant",
+        "Earl"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Attendant"
     },
     {
-      "quote": "I dunno. I was just talking to the man and he walked out on me!",
+      "quote": "Don't give me cliches. I have a right to know. What did I do wrong?",
+      "characters": [
+        "Patrice",
+        "Jerry",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Patrice"
+    },
+    {
+      "quote": "Hey, grown-up.  Oh my god, there she is. Go ahead, go ahead.  Let's go, let's go. All right what are they saying?",
       "characters": [
         "Newman",
-        "Jerry",
-        "Elaine",
-        "George"
+        "Kruger",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I'll hold on. Hey George, did you see a piece of paper I had on the nightstand here, like crumpled up, like a napkin?",
+      "quote": "Even if you're not gonna soap up, at least pretend for my benefit. Turn the water on, do something.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "Karen",
-        "George"
+        "Elaine",
+        "George",
+        "Susan"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah! And he is so boring! But now, whenever he answers the phone: I just hang up.",
+      "quote": "Woah, ahhh. Hehe Ha ha ha. That was close. Confide in her, open up to her. You know women like that.",
       "characters": [
-        "Bookman",
+        "Elaine",
+        "Morty",
         "George",
-        "Jerry",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Chocolate chip mint? Oh well, actually Jerry I prefer chocolate chip. What is it about the chocolate and the mint that makes it go so well together?",
+      "quote": "Oh yeah, I'm very sensitive about that. I mean, when someone's birthday comes up, I keep my ears open. So what'd you get her?",
       "characters": [
         "Kramer",
-        "George",
         "Elaine",
+        "Morty",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "NBC is letting me use their private jet? And I can go anywhere I want? That's fantastic! Thanks. Great. Okay, bye.",
-      "characters": [
-        "Jerry",
-        "Elaine",
-        "George",
-        "Betsy"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jill's father is in the hospital and you call to ask about him on a cell phone?",
-      "characters": [
-        "George",
-        "Silvio",
-        "Frank",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey, C'mon! Let's go! I thought we were going to take a steam!",
-      "characters": [
-        "Elaine",
-        "Jackie",
-        "Kramer",
-        "George"
       ],
       "correctAnswer": "Kramer"
     }

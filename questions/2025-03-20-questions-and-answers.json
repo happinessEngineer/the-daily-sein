@@ -1,39 +1,79 @@
 {
-  "gameNumber": 76,
+  "gameNumber": 77,
   "date": "2025-03-20",
   "questions": [
     {
-      "quote": "Nope, we got a whole new format. Edgy, youthful, plus ... we got Jim Fowler!",
+      "quote": "What do you think? They gave me a new car for thirty minutes of 'So, who's from out of town?'",
       "characters": [
         "Jerry",
+        "Man",
         "George",
-        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, no, uh, he's got my Calamine lotion and uh, I told him not to return it. If he needs it he should keep it. He's got uh, he's got a thing on his ankle.",
+      "quote": "Remember Mrs. Hudwalker? The ninety-four-year-old woman who lived above me?",
       "characters": [
-        "Jack",
-        "Frank",
+        "Christie",
+        "Jerry",
         "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Wait, wait a minute...they don't have them anymore. I just found out, they just took them off the market.",
+      "characters": [
+        "Elaine",
+        "Lloyd",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Papers? Oh, Jerry, You're the Jerome with the tax problem. You know after that day with George I got so cuckoo I threw out all your papers. So I'd love to help you but I'll need the copies.",
+      "quote": "It's the Mohel! the Mohel is here! Thank God, the Mohel is here.",
       "characters": [
-        "Kramer",
-        "Jerry",
         "Newman",
-        "Patrice"
+        "George",
+        "Jerry",
+        "All"
       ],
-      "correctAnswer": "Patrice"
+      "correctAnswer": "All"
     },
     {
-      "quote": "Dad, you know what it takes to compete with Microsoft and IBM?",
+      "quote": "But I can't find any vacation clothes. They were in the attic.",
+      "characters": [
+        "Wendy",
+        "Jerry",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Uh, excuse me.  Excuse me.  This--This is not right. May I?  You see, you're going: \"They fooled *me* Jerry!\"  You wanna hit 'fooled' more: \"They *fooled* me Jerry!\". You see the difference?",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Kruger"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I tell you, I really don't think so-called relationship humor is what this show is all about.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Clare",
+        "Captain"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "please please I don't want to die up here. please, stop moving that's all I'm asking.. Kramer!!",
       "characters": [
         "Kramer",
         "Elaine",
@@ -43,62 +83,22 @@
       "correctAnswer": "George"
     },
     {
-      "quote": "Is there ever a good time to have your parents stay with you?",
+      "quote": "It's not good, okay. It's not good. You look  stupid.  I'm sorry.",
       "characters": [
         "Jerry",
-        "Carol",
-        "Susan",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I know, I know Jerry.. but it's The Plazaaa... I've never stayed there .It'll be like a little vacation",
-      "characters": [
-        "Keith",
-        "Kramer",
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Okay, George, I am on the other line. I promise you, I'll get you her number.",
-      "characters": [
-        "George",
-        "Newman",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I'm just saying there's a chance she may not have been enamored with your thoughts and feelings on manure.",
-      "characters": [
-        "John",
-        "Kramer",
-        "George",
-        "Jerry"
+        "Debby",
+        "Kramer"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know Elaine, It is not my way to intrude on the personal lives of close fiends....",
+      "quote": "Well Elaine, when you're shopping on Madison Avenue, you don't want to skip on the, swank.",
       "characters": [
-        "Elaine",
         "Kramer",
+        "Testikov",
         "Jerry",
         "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Jerry, are you aware that adult diapers are a six hundred million dollar a year industry?",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Elaine",
-        "Sid"
       ],
       "correctAnswer": "Kramer"
     }

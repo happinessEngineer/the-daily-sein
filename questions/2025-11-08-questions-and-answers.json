@@ -1,106 +1,106 @@
 {
-  "gameNumber": 309,
+  "gameNumber": 310,
   "date": "2025-11-08",
   "questions": [
     {
-      "quote": "Yeah, we had this big fight at lunch it looks like tonight I will be sleeping on the couch.",
+      "quote": "Dad, the hinges are all rusted here. That's why the wind keeps blowing the door off.",
       "characters": [
-        "Morgan",
-        "Doctor",
+        "Detective",
+        "Elaine",
         "Jerry",
         "George"
       ],
-      "correctAnswer": "Morgan"
+      "correctAnswer": "George"
     },
     {
-      "quote": "There is no normal, whatever jerry wants. He wants me here late, I'm here late, he wants me here early, I'm here early, he . . .",
+      "quote": "Look, all you gotta to do, is get Amy and Jeffrey together somewhere, that's it.",
+      "characters": [
+        "Newman",
+        "Glenn",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well, it's about time. We thought you were gonna wind up on the street.  What is it you're doing, exactly?",
+      "characters": [
+        "Shelly",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Shelly"
+    },
+    {
+      "quote": "He just thinks that anything that dissolves in milk is funny.",
       "characters": [
         "Jerry",
+        "George",
         "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, that one. She's been a member of the board longer than anybody. She's very tough to deal with.",
+      "characters": [
+        "Morty",
+        "Tony",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "No. That's why I can never be president.. It always irked me. That's why, even at an early age, I had no interest in politics. I refuse to vote.  They don't want me, I don't want them!",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "Frank"
+      ],
+      "correctAnswer": "Frank"
+    },
+    {
+      "quote": "Yeah, Cupid's Rifle -- 8:30, Sony Lincoln Square. Yeah, no, no, no, no problem, yeah.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "No, and I prefer \"Conrad\". So I heard what happened to the desk.",
+      "characters": [
         "Conrad",
-        "George"
+        "Kramer",
+        "Chiles",
+        "Jerry"
       ],
       "correctAnswer": "Conrad"
     },
     {
-      "quote": "We'll see about that.  Kramer, I'm comin' up! We got a cockfight to win!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Manny"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "In your situation the only sex you're going to have better than make-up sex is if you're dent to prison and you have a conjugal visit.",
+      "quote": "Well, did you, or did you not, see the defendant, wearing the bra?",
       "characters": [
         "Jerry",
-        "George",
-        "Kramer",
-        "Shelly"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, no, not just me, the whole organization. Especially Mr. Morgan.",
-      "characters": [
-        "Morty",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "One little wink. She'll freak out, tell my parents. They'll be all over me. Who is this guy?",
-      "characters": [
-        "Kramer",
-        "Estelle",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Jerry,  Jerry. You don't have to stay on the couch on my account. The two of you could stay in there together.",
-      "characters": [
-        "Helen",
-        "George",
-        "Doorman",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "I guarantee you that Moses was a picker. You wander throughh the desert for forty years with that dry air. ... You telling me you're not going to have occasion to clean house a little bit.",
-      "characters": [
-        "George",
-        "Toby",
-        "Christie",
-        "Steve"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I could have had some ice cream. I think that might have calmed down the nachos.",
-      "characters": [
         "Karen",
-        "Estelle",
-        "Jerry",
-        "George"
+        "Jackie",
+        "Conrad"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jackie"
     },
     {
-      "quote": "Sister, right. Do you know when Father Curtis has office hours?",
+      "quote": "Well, if you've got needs and abilities that's a pretty good combination.",
       "characters": [
-        "Kramer",
+        "Nana",
+        "Elaine",
         "Jerry",
-        "Frank",
-        "Elaine"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     }
   ]
 }

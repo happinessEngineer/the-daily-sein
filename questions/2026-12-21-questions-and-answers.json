@@ -1,103 +1,103 @@
 {
-  "gameNumber": 717,
+  "gameNumber": 718,
   "date": "2026-12-21",
   "questions": [
     {
-      "quote": "Wait a minute, I know you. You're the guy from the Calvin Klein underwear ads.",
+      "quote": "Y'know what it is? It's \"Clara Nightingale Syndrome.\"  He falls ill; she falls in love.",
       "characters": [
-        "Jerry",
-        "Stu",
-        "Wendy",
-        "Elaine"
-      ],
-      "correctAnswer": "Stu"
-    },
-    {
-      "quote": "Yeah, so did I. You know what? I bet it was the engagement. I've shown I can go all the way.",
-      "characters": [
-        "Elaine",
-        "Jerry",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I think these women would be pretty good looking if they weren't wearing glasses.",
-      "characters": [
-        "Tim",
-        "Anna",
-        "Robin",
+        "George",
+        "Steven",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "You know, I think I'm getting a little depressed about George's wedding.",
+      "quote": "\"Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you",
       "characters": [
+        "Jimmy",
         "Newman",
-        "Silvio",
-        "Russell",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "\"Well he said that humm.. you know.that it helps his pathients relax a little bit..and he's got a new polithy: Adults only.\"",
-      "characters": [
-        "Karen",
-        "Abby",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, Elaine Benes! Well, it's great to have you!  Boy, is it possible that you're even more beautiful than the last time I saw you?",
-      "characters": [
-        "Kramer",
-        "Izzy",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "What the hell he's supposed to be on medication I don't understand he told me he's getting medication what happened to his medication!?",
-      "characters": [
-        "Jerry",
-        "Guy",
-        "Kramer",
+        "Testikov",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Jimmy"
     },
     {
-      "quote": "No, she said it was fine. There's something very strange about this girl.",
+      "quote": "Hey. Hey Elaine, what do you say if neither of us is married in ten years, we get hitched?",
+      "characters": [
+        "Kramer",
+        "Jake",
+        "Frank",
+        "Worker"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I hope Carlitto feels better. Ben really wishes he could've helped.",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Hey, baby. I set the trends. Who do you think started this whole Café Latte?",
       "characters": [
         "Elaine",
-        "Russell",
-        "Kramer",
-        "Jerry"
+        "Steinbrenner",
+        "Jerry",
+        "Donald"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You couldn't pay me enough to go to the beach on a weekend. I mean it's hard enough...",
+      "quote": "He went crazy from one note. He couldn't get it out of his head. I think it was an A. He kept repeating it over and over again. He had to be institutionalized.",
       "characters": [
-        "Kramer",
-        "Lois",
+        "Elaine",
         "George",
+        "Bonnie",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yesss! Alright, so it's you, it's me, and it's Jerry, huh.  Yeah, now things are starting to snowball, huh. I'll tell Newman I don't need him. So, I'll uh, see you two in the twenty-first century.",
+      "quote": "Ya and also I'm afraid that people in that state are finally going to tell me what they really think of me. You know they got nothing to lose what do they care?",
       "characters": [
-        "Marcy",
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had to use the bathroom, so I asked this guy to watch the door for a few minutes.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
+        "Doorman"
+      ],
+      "correctAnswer": "Doorman"
+    },
+    {
+      "quote": "It doesn't matter. You'll fix it later. Tell me about your girlfriend.",
+      "characters": [
+        "George",
         "Jerry",
         "Kramer",
+        "Dana"
+      ],
+      "correctAnswer": "Dana"
+    },
+    {
+      "quote": "Jerry, you don't understand, that?s the way they talk in Italy, they sing to one another. Kramer starts to sing in bad Italian.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Morty",
         "George"
       ],
       "correctAnswer": "Kramer"

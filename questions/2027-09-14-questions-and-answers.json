@@ -1,106 +1,106 @@
 {
-  "gameNumber": 984,
+  "gameNumber": 985,
   "date": "2027-09-14",
   "questions": [
     {
-      "quote": "I wish I was taller, that's, that's, that's nice. that's real.",
+      "quote": "She tolerated the strawberries and the chocolate sauce, but eh, it's not a meal, you know? Food and sex, those are my two passions. It's only natural to combine them.",
       "characters": [
         "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, splendid. Welcome to the Institute for the Preservation of Motion Picture Costumes and Wardrobe.",
+      "characters": [
+        "Newman",
         "Elaine",
         "Jerry",
+        "Haarwood"
+      ],
+      "correctAnswer": "Haarwood"
+    },
+    {
+      "quote": "So you're telling me, because you're getting free parking, I gotta pretend this guy had cancer when he didn't?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "George",
+        "Frank"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, Carrie, you and Susan are cousins. So your baby daughter is gonna be Susan's second cousin, right? So what does that make me?",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "What? You're going to go out with my cousin Holly. You've never met her.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Deena",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Yeah, like I'm going to risk my job with the New York Yankees to make a few extra bucks.",
+      "quote": "You would think that at the end of the week when they hand out the checks, throw in a few soaps.",
       "characters": [
         "George",
-        "Lloyd",
+        "Jerry",
+        "Elaine",
+        "Milos"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Can you believe it? It's happening! It's finally happening! I'm free!!",
+      "characters": [
+        "George",
+        "Julianna",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh, come on! I thought you're a pro! That's part of the show.",
+      "quote": "Good. Thank God. Good riddance. [pause] Oh listen, before you go, would you mind changing my diaper? HAA!!",
       "characters": [
-        "Toby",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Toby"
-    },
-    {
-      "quote": "You know they changed the name from Hundred-Thousand-Dollar bar to Hundred-Grand?",
-      "characters": [
-        "Jerry",
-        "Woman",
+        "Sid",
         "George",
-        "Carol"
+        "Elaine",
+        "Donald"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Sid"
     },
     {
-      "quote": "Are there terrorists on the plane? A hotel fire. Is that it? Malaria? Yellow fever? Lupus? Is it Lupus?",
+      "quote": "Oh, there's action. There's plenty of action. That damned alien autopsy is stealing all the headlines.",
       "characters": [
+        "Newman",
+        "Sheila",
         "Kramer",
-        "Estelle",
+        "Jodi"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yes, you are right. It's all about, me, me, me. Please, look at me! I am so pretty! Love me! Want me!",
+      "characters": [
+        "Danielle",
+        "Jerry",
         "Elaine",
-        "George"
+        "Silvio"
+      ],
+      "correctAnswer": "Silvio"
+    },
+    {
+      "quote": "Oh, you might want to stick around Jerry. Mr. Thomassoulo picked the wrong man to hire because he was fake handicapped.",
+      "characters": [
+        "George",
+        "Man",
+        "Elaine",
+        "Kramer"
       ],
       "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, hey listen, I can't. It's gonna be taking us out of our way.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Wooo, you know what you just did? You let a burglar in the building.",
-      "characters": [
-        "Jerry",
-        "Enzo",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "yeah... she says she doesn't wanna see me again. Told me to drop dead!",
-      "characters": [
-        "Wilhelm",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I always thought there was something funny about this letter! She copied it right out of Chapter 2! She a thief, a bunko-artist!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Jack"
-      ],
-      "correctAnswer": "Jerry"
     }
   ]
 }

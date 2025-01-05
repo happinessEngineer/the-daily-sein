@@ -1,106 +1,106 @@
 {
-  "gameNumber": 773,
+  "gameNumber": 774,
   "date": "2027-02-15",
   "questions": [
     {
-      "quote": "No, no, you can't do that, they're round, it makes an 'eight' and, yeah, well alright.",
+      "quote": "Uh, let me get a coat. I think I'll uh try a sport jacket and scarf thing, you know, like an unemployed actor.  Ahh, haven't worn this one in a long time.",
       "characters": [
-        "Landis",
-        "Jerry",
+        "Frank",
         "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I mean, we're not stupid, right? We know when something's funny!",
+      "characters": [
+        "Newman",
+        "George",
+        "Elaine",
         "Puddy"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah.. And, um, when I told him my idea about the beach cologne, you know, he - he laughed at me.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Newman",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah, well, uh.. you know uh, you didn't hear from me, but, uh, the Van Buren Boys - they never hassle their own kind.",
+      "quote": "I don't think so, Vic. I've done my homework. '89 Volvo, that's the car for me, it's the one I want.",
       "characters": [
         "George",
-        "Darryl",
-        "Sylvia",
-        "Kramer"
+        "Jerry",
+        "Michael",
+        "Tawni"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, me too. I'll meet you down.  Oh, don't go in, Rachel's getting undressed.",
+      "quote": "Oh, come on, come on. I?ll guarantee 140. What do you have to lose?",
       "characters": [
-        "Morty",
-        "Detective",
         "Elaine",
+        "Jerry",
+        "Newman",
         "Kramer"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.",
+      "quote": "When I started out as a comedian, I sold umbrellas. It was my idea to twirl it, to attract customers.",
       "characters": [
-        "George",
         "Jerry",
-        "Newman",
-        "Tor"
-      ],
-      "correctAnswer": "Tor"
-    },
-    {
-      "quote": "But first, we're talking with, Jerry.  Okay, Jerry, uh, you uh, you drugged a woman in order to play with her toy, collection. How do you feel about that?",
-      "characters": [
-        "Lippman",
-        "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Non-fat yogurt? Oh, my god. They got Giuliani and he doesn't even know it.",
-      "characters": [
-        "Karen",
         "George",
         "Kramer",
-        "Jerry"
+        "Ellen"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't know, but that's New York and we're in Ohio. Those are pretty good odds.",
+      "quote": "I know you want me to keep my big mouth shut and that's exactly what I'm going to do. I'm never gonna talk again.",
+      "characters": [
+        "Kramer",
+        "Poppie",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, look at this one by the bus stop. Jerry, come here. Take a look at this.",
       "characters": [
         "George",
-        "Jerry",
         "Kramer",
-        "Morty"
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Because that's the way I weas raised. You know when I was growing up I had to be in bed every night by nine o'clock. And if I wasn't, well I don't have to tell you what happened.",
+      "quote": "You must have done *something* wrong. You probably screwed up the order. Did you close with the swirl?",
       "characters": [
+        "Jerry",
         "Kramer",
-        "Susan",
-        "Elaine",
-        "Bette"
+        "Puddy",
+        "Tv"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "That's exactly right. The law requires you to help or assist anyone in danger as long as it's reasonable todo so.",
+      "quote": "That's the bra I gave here, she's wearing it as a top!  The woman is walking around in broad daylight with nothing but a bra on, she's a menace to society.",
       "characters": [
-        "Officer",
+        "Kramer",
+        "Newman",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "See, to me, the Hakuna Matata is not nearly as embarrassing as the cup of soup...",
+      "characters": [
         "Elaine",
         "Jerry",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Officer"
+      "correctAnswer": "Jerry"
     }
   ]
 }

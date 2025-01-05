@@ -1,106 +1,106 @@
 {
-  "gameNumber": 750,
+  "gameNumber": 751,
   "date": "2027-01-23",
   "questions": [
     {
-      "quote": "I went to podiatry school because I like feet. I chose to work with feet.",
+      "quote": "Oh, well here.  Take Whatley's label maker, I don't want to see it again.",
       "characters": [
-        "Doctor",
+        "Bania",
+        "Jerry",
+        "George",
+        "Mickey"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I, I couldn't come. I, I had to drive my mother to, to the chiropodist.",
+      "characters": [
+        "Newman",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, Elaine, has nothing but Good things to say about Susie.",
+      "characters": [
+        "Peterman",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Peterman"
+    },
+    {
+      "quote": "Well, yeah, yeah. But they also rolled for his brother...  ...Dennis.",
+      "characters": [
+        "Elaine",
+        "Tony",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Hey, do you think this is funny? ``Why do they call it athlete's foot? You don't have to be an athlete to get it. I mean, my father gets it all the time, and believe me, he's no athlete!''",
+      "characters": [
+        "Buckles",
         "Jerry",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Doctor"
+      "correctAnswer": "Buckles"
     },
     {
-      "quote": "I'll tell you what I'm gonna do - I'm gonna do a hard-target search. Of every drug store, general store, health store and grocery store in a 25-block radius.",
+      "quote": "Well, they're more than an underwear to me Mr. Farkus. Two cups in the front, two loops in the back. How do they do it?",
       "characters": [
-        "Elaine",
-        "Kramer",
         "George",
+        "Elaine",
+        "Gary",
         "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No, it offends me as a comedian. And it'll interest you that he's also telling Catholic jokes.",
+      "quote": "And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya?",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Valerie"
+        "Elaine",
+        "Peterman",
+        "Keith",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "All right, I've got to go down to the unemployment office. Wanna take a walk?",
+      "quote": "Well yeah, I got him because he seemed so one-dimensional, I feel misled.",
       "characters": [
-        "George",
-        "Newman",
         "Woman",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah, would you take this picture away from me. Take it away and get it outta here. Let me just sign this and go.",
-      "characters": [
-        "Gennice",
-        "Mickey",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Kramer, I'm not doin' this anymore. I don't know what I was thinking. It's illegal, it's dangerous...",
-      "characters": [
-        "Jerry",
-        "Kramer",
         "Elaine",
+        "Jerry",
         "George"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Because I saw the look on your face last week when I took the scotch tape!",
-      "characters": [
-        "Jack",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jack"
-    },
-    {
-      "quote": "Ah, \"with what?\" You know what. With the waitresses. How they're all... alike.",
-      "characters": [
-        "Elaine",
-        "Kramer",
-        "Cindy",
-        "Jerry"
-      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "It was built by Mark Fargman. He build a lot of these homes here.",
+      "quote": "Okay. Come on. Give the guy his money. What -- what are you doing?",
       "characters": [
         "George",
+        "Ricky",
         "Elaine",
-        "Ben",
-        "Jerry"
+        "Kramer"
       ],
-      "correctAnswer": "Ben"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "I use Planet. It's bio-degradable and doesn't pollute the oceans.",
+      "quote": "Yeah... Hum..Jim , a man here says came in the other day , you didn't say hello?",
       "characters": [
-        "Darryl",
-        "Jerry",
-        "Susan",
-        "Lena"
+        "Manager",
+        "Alec",
+        "George",
+        "John"
       ],
-      "correctAnswer": "Lena"
+      "correctAnswer": "Manager"
     }
   ]
 }

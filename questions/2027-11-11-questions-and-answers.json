@@ -1,104 +1,104 @@
 {
-  "gameNumber": 1042,
+  "gameNumber": 1043,
   "date": "2027-11-11",
   "questions": [
     {
-      "quote": "Well, thank you very much. I'm telling you, one more day stinkbreath!",
+      "quote": "This, that we've come all this way, we have made all this progress, but you know we've lost the little things, the niceties.",
       "characters": [
-        "George",
-        "Elaine",
         "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Well yeah, I got him because he seemed so one-dimensional, I feel misled.",
-      "characters": [
-        "Elaine",
+        "Susan",
         "Jerry",
-        "George",
-        "Harold"
+        "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, come on Jerry. You gotta see the operation. They're gonna cut him open -- His guts'll be all over the place...",
+      "quote": "No breaks. I fell reborn, I'm like a Phoenix rising from Arizona.",
       "characters": [
-        "Jerry",
-        "Elaine",
+        "Frank",
+        "Julianna",
         "Kramer",
-        "Waitress"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Yeah.  I just hope Tim Whatley's electric bills don't suddenly get lost in the mail, or it could be lights out for him.",
-      "characters": [
-        "George",
-        "Fdr",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "Well, it's false advertising, see? And the thing is, I think she likes people thinkin' she's Chinese. She suggests Chinese food. She always introduces herself as \"Donna Chang\"...",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Gavin"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I can feel his blood inside of me. Borrowing things from my blood.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Audrey",
         "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "I saw Joe DiMaggio in Dinky Doughnuts again, but this time, I went in.  Oh! Uh, where's the bathroom?",
+      "quote": "No.  You dip the way you want to dip... I'll dip the way I want to dip.",
       "characters": [
-        "Daphne",
+        "Elaine",
+        "George",
         "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "You think you can pose me however you want? That's my ass in your window!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Russell",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Everybody likes pesto. You walk into a restaurant, that's all you hear - pesto, pesto, pesto.",
-      "characters": [
-        "George",
-        "Ray",
-        "Peterman",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "You defile one book, steal another, ask for your money back - and to you that's even?",
+      "quote": "Well, it's less than twenty-four hours, so I guess I have to!",
+      "characters": [
+        "Frank",
+        "Elaine",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Not the point. The wedding is in one week. I got this  today.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Bruce",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Ooh, everything was going so well. She hadn't seen any flaws in me. Now she sees a side.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Because he'll know I told you. Besides, he's giving me a parking spot around the corner for practically nothing.",
       "characters": [
         "Jerry",
         "George",
-        "Kramer",
-        "Elaine"
+        "Elaine",
+        "Leo"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The thing about that painting.. is with the colors and um..  Oh yeah, plugola.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Helen",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look, I'm not going in your building. I really don't have to talk to you. Goodbye.",
+      "characters": [
+        "Jerry",
+        "Morty",
+        "Poppie",
+        "Toby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "No, wait a minute, wait a minute, that?s not fair, what about George, Susan and Elaine, what do you need me for?",
+      "characters": [
+        "Wilhelm",
+        "Tor",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "Jerry"
     }

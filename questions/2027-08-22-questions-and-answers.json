@@ -1,106 +1,106 @@
 {
-  "gameNumber": 961,
+  "gameNumber": 962,
   "date": "2027-08-22",
   "questions": [
     {
-      "quote": "You should've just had dinner with your uncle tonight and gotten in over with. It's just a movie.",
+      "quote": "Boy, if I could meet a hostess, we could open up our own place.",
       "characters": [
-        "Elaine",
-        "Kramer",
         "Jerry",
+        "Peterman",
+        "Puddy",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "So, Bradley. I guess this is the last place you expected to find yourself.",
+      "characters": [
+        "Steinbrenner",
+        "Mickey",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Mickey"
     },
     {
-      "quote": "Oh, you're not gonna cop a girl's phone number off an AIDS charity list!",
+      "quote": "You don't understand. This is Fragile Frankie Merman. When we were in camp, if you upset him, he'd run out to the woods, dig a hole, and sit in it.",
       "characters": [
-        "George",
         "Jerry",
-        "Frank",
-        "Elaine"
+        "Kramer",
+        "Susan",
+        "Newman"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "I don't understand it. You were having such a great time, the sex, the shopping.",
+      "quote": "That's what Willie Loman told Biff before his interview, in 'Death of a salesman'.",
       "characters": [
         "George",
         "Kramer",
-        "Frank",
+        "Jackie",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You've got to start seeing someone else. Get out of this relationship.",
+      "quote": "Not. It's all been endowed to the foundation, even this townhouse.",
       "characters": [
+        "Carl",
         "George",
-        "Susan",
-        "Elaine",
-        "Ricky"
+        "Jerry",
+        "Wyck"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Wyck"
     },
     {
-      "quote": "No, my face feels so good, I'm gonna use it all over my body.",
+      "quote": "Well, you can wear a hat all the time now. Who's stopping you?",
       "characters": [
-        "Jerry",
-        "Elaine",
         "Frank",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, then I'm not going to the game either. Okay? I'll give him both tickets.",
-      "characters": [
-        "Kramer",
         "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "And now, there's this intense animosity whenever we pass. I mean, it's like we really hate each other. It's based on nothing.",
-      "characters": [
         "Elaine",
-        "Jerry",
-        "Newman",
-        "Holly"
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "[pause] Would I like to come up? I would love to come up. I, I'm fighting not to. Fighting! Unfortunately I uh have to get an early start tomorrow. Gotta' get up and hit that pavement",
+      "quote": "Yeah! But get this. Viking has a deal with the Plaza Hotel, they got a two bedroom suite, there, for out-of-town clients...So guess what I did?",
       "characters": [
         "Jerry",
-        "Morty",
-        "George",
-        "Elaine"
+        "Elaine",
+        "Enzo",
+        "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "I know what this is about Father. I didn't do anything. I just spoke to her innocently for just a few minutes. It's just that, that I have this power.",
+      "quote": "Hey you know, my arm really hurts.  I wonder if its gonna affect my golf swing.",
       "characters": [
-        "Rick",
         "Jerry",
         "George",
-        "Kramer"
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I went through all those bottles and all those cans, for what? What a waste. And I'm really gonna catch hell for those missing mailbags.",
+      "quote": "\"Yeah!!! What is that? I mean isn't that sick. I mean , I'd be embarrassed to have that in my apartment.\"",
+      "characters": [
+        "Kramer",
+        "George",
+        "Bania",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yeah. You know what I just realized? Suddenly, George has become much more normal than you.",
       "characters": [
         "Elaine",
-        "Jerry",
-        "Susan",
-        "Newman"
+        "Mike",
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Elaine"
     }
   ]
 }

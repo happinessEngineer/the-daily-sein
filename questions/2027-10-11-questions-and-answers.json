@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1011,
+  "gameNumber": 1012,
   "date": "2027-10-11",
   "questions": [
     {
-      "quote": "The little extra moan you threw in there. Laying it on a bit thick, don't you think?",
+      "quote": "Well, sometimes you can't help these people 'til they hit rock bottom.",
       "characters": [
         "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
+        "Toby",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "What are you talking about, that's seventy-five bucks! I'm not working, I can't afford that.",
+      "quote": "All right, all right, I didn't want to tell you this. You wanna know why she called you?",
       "characters": [
-        "Holly",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "It's my day off, but I take care of you anyway because you're my favorite customer. You've been with me for so long. You're so loyal.",
-      "characters": [
-        "Enzo",
+        "Melissa",
         "Jerry",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Enzo"
-    },
-    {
-      "quote": "uh.. mañana? huh mañana might.. huh mañana might be a problem, I'm supposed to have huh a boil lanced mañana. Huh you know I think they charge me if I cancel with only one mañana's notice",
-      "characters": [
-        "Salesman",
-        "Alton",
-        "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, he's almost fully recovered. He told me he was just using me for sex.",
+      "quote": "Yeah, yeah. You know what? There are a lot of players named Deon these days. What a cool name, Deon. If I were gonna change my name, I'd go with Deon.",
       "characters": [
+        "Kramer",
+        "Marcy",
         "Jerry",
-        "George",
-        "Pam",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "I guess you're right. It's just walking around putting it into boxes..",
+      "quote": "You know Keith, what I've always wondered, with all these ball clubs flying around all season don't you think there would be a plane crash? ...",
       "characters": [
         "Jerry",
-        "Kramer",
-        "George",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "A-and don't settle for 145, you can do better, you're a genius. Heheheh",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Gary"
+        "Peterman",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis here at PBS. Our lines are open, so please call the number you see on your screen.",
+      "quote": "Jerry, Newman and I are engaged in a epic struggle for world domination.  It's winner take all.  People cannot be trusted.",
       "characters": [
+        "Rava",
+        "George",
         "Kramer",
-        "Jerry",
-        "George",
-        "Beth"
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "All the comedians were happy. He was one of these club owners nobodu liked anyway. But Richie was never the same.",
+      "quote": "Oh no! >click click< Kramer, this phone's a piece of junk, goodbye!",
       "characters": [
+        "Marla",
         "Jerry",
-        "George",
-        "Anna",
-        "Morty"
+        "Kramer",
+        "Attendant"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I kinda like this opera crowd, I feel tough... Anybody else got a problem?",
+      "quote": "Because you said this would be better. Remember? A vacation from ourselves. That's what you said.",
       "characters": [
         "Elaine",
         "George",
-        "Morty",
+        "Attendant",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Well, I sell insurance, but Beth used to be Don Mattingly's doctor.",
+      "characters": [
+        "Helen",
+        "David",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "David"
+    },
+    {
+      "quote": "You know, I went swimming and I can't get this water out of my ear.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Bonnie",
+        "Helen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Fine, okay. It's just, I've never seen a beautiful lady reading 'the Guide' so far away from a TV. You must really like television.",
+      "characters": [
+        "Ricky",
+        "George",
+        "Elaine",
+        "Attendant"
+      ],
+      "correctAnswer": "Ricky"
     }
   ]
 }

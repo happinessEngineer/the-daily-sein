@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1002,
+  "gameNumber": 1003,
   "date": "2027-10-02",
   "questions": [
     {
-      "quote": "Yeah, that's right. Well, what's going on over there with you and, uh, Vegetable Lasagna?",
+      "quote": "I couldn't have dinner with him. 'Plan 9 from Outer Space', one night only, the big screen. My hands are tied!",
       "characters": [
-        "George",
-        "Elaine",
-        "Betsy",
-        "Puddy"
-      ],
-      "correctAnswer": "Puddy"
-    },
-    {
-      "quote": "I bet this is from that kick from that crazy Joe Davola. You better see a doctor and get some X-rays.",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "George",
-        "Kramer"
+        "Jackie",
+        "Elaine",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Look at the big baby!  Hehaha.  Hey, big baby, are you wetting yourself? Maybe it is time for you to be changed.  Hahah.",
+      "quote": "It's the new cover of the J. Peterman Catalog. It is Elaine's choice. Let's congratulate her.",
       "characters": [
+        "George",
+        "Frank",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can't make a health inquiry on a cell phone. It's like saying \"I don't want to take up any of my important time in my home so I'll just get it out of the way on the street.\"",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Plus I'm wearing short sleeves, I don't want to expose my tattoos.  She's unbelievable!",
+      "characters": [
+        "Elaine",
+        "Helen",
         "Susan",
-        "Kelly",
-        "Milos",
         "Jerry"
       ],
-      "correctAnswer": "Milos"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well I I ..put a lot of thought into this and I think I would like you to sign a prenuptual agreement.",
+      "quote": "You can't have more than a one-foot differential in your heights. Otherwise, you could really hurt your neck.",
       "characters": [
-        "George",
+        "Sid",
         "Jerry",
-        "Morgan",
-        "Frankie"
+        "Keith",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What was that line again? Something about finding your way in a shadow?",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Your head. I can't see out the back.  Little more..  ..Little more.  Thank you.",
+      "quote": "ya....Yes!....Yes! it's back I can taste again.  Hey! What's the date today?",
       "characters": [
         "Kramer",
-        "Jerry",
-        "Newman",
-        "Driver"
-      ],
-      "correctAnswer": "Driver"
-    },
-    {
-      "quote": "They're not getting a baby so you're taking them out to lunch?",
-      "characters": [
+        "Elaine",
         "Tony",
-        "Jerry",
-        "George",
-        "Elaine"
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "We're just talking. Is this not the greatest marketing ploy ever? If you feel good, you're supposed to take one!",
+      "quote": "That's where the Seinfeld's are moving. They got a great deal. Yep. You know what they got in Florida? Jai-Alai! You bet on the games, you clean up.",
       "characters": [
-        "Kramer",
-        "George",
         "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Listen, it's really been a pleasure taking care of your dog for a week, but if you don't mind...",
-      "characters": [
-        "Rabbi",
-        "Tim",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "'Just listen to the music of the traffic, in the city. Linger on the sidewalk, where the neon lights are pretty.' Where the neon lights are pretty. The Broadway area?",
-      "characters": [
-        "George",
         "Elaine",
-        "Ron",
-        "Jerry"
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Ya, that's the.. last thing you want to see. Well, next to last.",
+      "quote": "Well how could you just play your message in front of anybody?",
       "characters": [
         "George",
+        "Jerry",
         "Kramer",
-        "Elaine",
-        "Jerry"
+        "Lippman"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "We had a deal. Are you reneging out of the deal? Are you reneging? That's a renege.",
+      "characters": [
+        "Elaine",
+        "Frankie",
+        "Newman",
+        "Pitt"
+      ],
+      "correctAnswer": "Newman"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 340,
+  "gameNumber": 341,
   "date": "2025-12-09",
   "questions": [
     {
-      "quote": "George, why would I, a Juilliard trained dermatologist, send him to another doctor?",
+      "quote": "For a mental patient. Wait a minute, the phone, we'll call the police.",
       "characters": [
-        "Woman",
-        "Jerry",
+        "Newman",
+        "Elaine",
         "George",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No, not for me. A little too delightful. Well, George and Jane should be almost there by now.",
-      "characters": [
-        "Jerry",
-        "Wilhelm",
-        "Stationer",
-        "Peterman"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I mean, why does he do that? Doesn't he know what a huge turnoff that is?",
+      "quote": "Well you think I should say something? Should I say something? Should I apologize? Was I being anti-virgin?",
       "characters": [
         "Kramer",
-        "Jerry",
+        "Elaine",
         "George",
-        "Elaine"
+        "Jerry"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "tes, it's very difficult. Few men have the constitution for it. That's why breakups take two or three tries. You gotta build up your immunity.",
+      "quote": "Hey, Seinfeld. I'd appreciate it if you'd stop using obscenities around my son, huh?",
       "characters": [
         "Jerry",
+        "Jake",
         "Elaine",
-        "Russell",
-        "Kramer"
+        "Owner"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Owner"
     },
     {
-      "quote": "Yeah. Why not Susan. I should be friends with Susan.  Of course! Susan! Oh! OK, I'll see you guys. Huh.",
+      "quote": "George, come in. I'm just going over our annual report...boy did we take it on the chin last year.",
       "characters": [
+        "Kruger",
+        "Elaine",
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "Morty"
+        "Jackie"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Kruger"
     },
     {
-      "quote": "I think you're all a little touched in the head.  You're so worried about your health.. You're young men.",
+      "quote": "For that rent, she'd take a bath in the toilet tank if she had to.",
       "characters": [
-        "Puddy",
-        "Estelle",
-        "James",
+        "Jerry",
+        "Katya",
+        "Kramer",
         "George"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "George"
     },
     {
-      "quote": "No. I guess I just wasn't ready for the responsibilities of a pretend marriage.",
+      "quote": "Master of Evil Jerry Seinfeld has broke off all contacts with me.",
       "characters": [
-        "Morty",
-        "Jerry",
-        "Steve",
-        "Elaine"
+        "Bania",
+        "Elaine",
+        "Sally",
+        "George"
+      ],
+      "correctAnswer": "Sally"
+    },
+    {
+      "quote": "You know, I don't have to be up in the morning, and I know a great breakfast place, right around the corner.",
+      "characters": [
+        "Danielle",
+        "George",
+        "Enzo",
+        "Tim"
+      ],
+      "correctAnswer": "Danielle"
+    },
+    {
+      "quote": "Kramer there is no way you're giving this tape to Brody and telling him I shot it.",
+      "characters": [
+        "Newman",
+        "Mickey",
+        "Elaine",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yes, well isn't that just easy for you to say. What the hell do you think I'm going to do with myself?",
+      "quote": "You can stop kowtowing to Morgan. Congratulations, you got his job.",
       "characters": [
-        "Conrad",
-        "Babs",
-        "Wyck",
-        "Elaine"
-      ],
-      "correctAnswer": "Babs"
-    },
-    {
-      "quote": "You know, the guys, that uh, they sell the tickets for the sold-out events.",
-      "characters": [
+        "Steinbrenner",
         "Jerry",
         "George",
-        "Frank",
-        "Kramer"
+        "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Steinbrenner"
     },
     {
-      "quote": "Who are you to talk about her like that? She'll call him when she's good and ready. You don't even know her.",
+      "quote": "So? So, his secret's out. Don't you see? I could give these to every restaurant in town. I could have 'em published! I could - I could drop fliers from a plane above the city.",
       "characters": [
-        "George",
-        "Jerry",
-        "Conrad",
-        "Elaine"
+        "Elaine",
+        "Kramer",
+        "Aaron",
+        "George"
       ],
       "correctAnswer": "Elaine"
     }

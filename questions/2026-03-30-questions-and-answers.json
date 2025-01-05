@@ -1,89 +1,99 @@
 {
-  "gameNumber": 451,
+  "gameNumber": 452,
   "date": "2026-03-30",
   "questions": [
     {
-      "quote": "Yeah, yeah. She's punctual... and uh she's been late, sometimes.",
+      "quote": "Oh oh oh, all right, fine, Jerry, you win. Take it, just take it!",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Could you ask her, just ask her. If she says no, case closed.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Donna",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aah, top of the fridge. Hey George, I'm taking that waitress to the Tony's.",
       "characters": [
         "Elaine",
+        "Lena",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Lopper. You know, Lisi, maybe we should give this a little more time. See how it looks in the light of day.",
+      "characters": [
+        "Elaine",
+        "Estelle",
+        "Nikki",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe this. My next door neighbour had the idea for this exact perfume last year. He even met with an executive at CALVIN KLEIN. I can't believe they stole his idea.",
+      "characters": [
         "Sally",
+        "Elaine",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Because you kissed me. You kissed me, you stupid idiot! Rita called Russell and he fired me over the phone.",
+      "quote": "I couldn't help but notice that you have quite a library in there.",
       "characters": [
-        "Kramer",
         "Jerry",
-        "George",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "Difficult job. You want those keys, we're gonna have to dig this up.",
-      "characters": [
-        "Ralph",
-        "Sid",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Ralph"
-    },
-    {
-      "quote": "rush? you want a rush? drop a ball on your toe my friend, talk about a rush, you'll be throbbing, you'll see visions",
-      "characters": [
-        "George",
-        "Hanke",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I feel terrible, I can't be responsible for breaking up a marriage. Oh no",
-      "characters": [
-        "Steinbrenner",
-        "Lippman",
-        "Rabbi",
+        "Estelle",
+        "Elaine",
         "George"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Estelle"
     },
     {
-      "quote": "Really? What's it like? Is it nicer than mine? Where does he have the couch?",
+      "quote": "That he may be. But he's outta my life, starting in the year two-thousand. For me, the next millennium must be, Jerry-free!",
       "characters": [
+        "Newman",
         "Jerry",
-        "Kramer",
         "Elaine",
-        "Frank"
+        "Leo"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "And Elaine - I wouldn't mind seeing something happening between you two.",
+      "quote": "Ay ay ay! The next one of you that opens up your mouth, says something, you're gonna have to deal with me. You know, I bet I know what this is about. It's about a woman, isn't it?",
       "characters": [
-        "Kimbrough",
         "Elaine",
-        "Jerry",
-        "George"
+        "Estelle",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Kimbrough"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "No believe me, I'm always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",
+      "quote": "No, Jerry. New Year's Eve nineteen ninety-nine. The millennium. I told you about that.",
       "characters": [
+        "George",
         "Jerry",
-        "Morty",
-        "Sara",
-        "Elaine"
+        "Newman",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "Well, they told me that I got more blood, so I guess I owe you again.",
+      "quote": "Oh, it's an invitation to a house warming from Martin and Gina.",
       "characters": [
         "George",
         "Elaine",
@@ -91,16 +101,6 @@
         "Jerry"
       ],
       "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Do you realize this is the last meal I am going to have for three days?",
-      "characters": [
-        "Jerry",
-        "Eva",
-        "Elaine",
-        "Donna"
-      ],
-      "correctAnswer": "Elaine"
     }
   ]
 }

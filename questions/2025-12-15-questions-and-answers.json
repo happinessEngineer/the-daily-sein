@@ -1,106 +1,106 @@
 {
-  "gameNumber": 346,
+  "gameNumber": 347,
   "date": "2025-12-15",
   "questions": [
     {
-      "quote": "Hey, believe me, you were better off not knowing. It's not easy to deal with someone in a situation like this. I was so nice to him I almost made myself sick.",
+      "quote": "Oh, very refreshing.  Sex is like joining a private club. I'll be the same me tomorrow, but suddenly, the no trespassing sign will be gone.",
       "characters": [
-        "Jerry",
-        "John",
+        "Kramer",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Hey! So what's the deal with brunch, I mean that if it's a combination of breakfast and lunch. How comes there's no lupper or no linner.",
-      "characters": [
-        "Kramer",
-        "Morty",
-        "Jerry",
-        "Jeannie"
-      ],
-      "correctAnswer": "Jeannie"
-    },
-    {
-      "quote": "Oh no, not more checks. They're coming faster than I can sign 'em.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Tor",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Ah, listen ah, I don't mean to bother you but ah, silly me, I- I think I may have left my hat in your apartment. So ah, I thought I'd just come by later and pick it up.",
-      "characters": [
-        "Kramer",
-        "Donna",
         "Jerry",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well, I'm sorry, Jerry, we all don't have checks rolling in like you do.",
+      "quote": "Her assistant caught me. And now I'm probably not going to get a job. He's going to tell Landis that I was sneakin around her office.",
       "characters": [
         "George",
+        "Pitt",
         "Kramer",
-        "Jerry",
         "Elaine"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, actually, Jerry, we wanted to talk to you about something.",
+      "quote": "You were right Kramer, this slicer is absolutely amazing...yeah, yeah...no no no I'll bring it by tonight...ok bye.",
       "characters": [
-        "Elaine",
-        "Joyce",
-        "Helen",
-        "Jerry"
-      ],
-      "correctAnswer": "Helen"
-    },
-    {
-      "quote": "I dunno, some designer. Anyway, Brett is so generous, and sensitive. Last night he was moved just listening to a song.",
-      "characters": [
-        "Holly",
-        "Jackie",
+        "Kramer",
+        "Jerry",
         "George",
         "Elaine"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "You don't understand, someone's after us, a crazy clown is trying to kill us.",
+      "quote": "What if he's in an iron lung or something? What are you gonna do?  \"How you feeling, Mr. Wilkinson?\"  \"By the way, what's happening with Sendrax?\"",
       "characters": [
-        "Julianna",
         "Jerry",
+        "Katya",
+        "Elaine",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm not stable? I'm like a rock. I take these glasses off, you can't tell the difference between me and a rock. I put these glasses on a rock. You know what jumps into most people's minds? Costanza!",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "First Leo breaks up, then he goes back. What the hell's going on?",
+      "characters": [
+        "Frank",
         "Kramer",
+        "Peterman",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, let me just stop by the cash machine and I'll meet you over at the coffee shop.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
         "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "It's my money. What should I do? Throw it out the window? I know a guy who took his vacation on his change.",
+      "quote": "All right, well I've got to go take this test. I can't believe I'm doing this.",
       "characters": [
-        "George",
-        "Kramer",
-        "Vivian",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I just got the most bizarre message from you father, Steinbrenner is at you house, they think you're dead!",
-      "characters": [
-        "Elaine",
         "Jerry",
-        "Izzy",
-        "Newman"
+        "Frank",
+        "George",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Hello. Oh, hi. Yeah I guess we could do that. At what time? All right. I'll see you there. O.K., bye.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I always talk about your hands - how they're so soft and milky white..",
+      "characters": [
+        "George",
+        "Jerry",
+        "Elaine",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 258,
+  "gameNumber": 259,
   "date": "2025-09-18",
   "questions": [
     {
-      "quote": "You're a salesman now - and the high-five is… it's very \"grease monkey.\"",
+      "quote": "I guess we like to think we've progressed beyond a knife fight for a citrus drink.",
       "characters": [
-        "Jerry",
-        "George",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oh, yeah yeah, I have to. I'm your fiancé, Peter Von Nostrand.",
-      "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I could have danced all night  I could have danced all night and still have",
-      "characters": [
-        "Morty",
-        "Woman",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "Yes I know. I just-- I can't get you out of my mind. Ever since that-- that day in the restaurant when we met...",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Russell"
-      ],
-      "correctAnswer": "Russell"
-    },
-    {
-      "quote": "I'll tell ya it was a grind having to fill 10 hours a day. I'm not sure I was ready to have my own talk show set.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "Joyce",
-        "Ruby"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Vandelay. Wait a second. Mr. Pennypacker, if you're here, and Mr. Vandelay is also here, then who's watching the factory?",
-      "characters": [
-        "Kramer",
         "Elaine",
-        "George",
-        "Jerry"
+        "Jerry",
+        "Kramer",
+        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well if she can't tell \"six\" from \"sex\" then how is she going to lip read from across the room?",
+      "quote": "It was a Three Stooges short, \"Sappy Pappy.\" I played Mr. Sugarman's secretary, remember?",
       "characters": [
-        "George",
-        "Jerry",
         "Kramer",
-        "Steinbrenner"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "What're you doing? What're you, telling secrets? What're you laughing at?",
-      "characters": [
-        "Harold",
-        "Detective",
-        "George",
+        "Elaine",
+        "Helena",
         "Jerry"
       ],
+      "correctAnswer": "Helena"
+    },
+    {
+      "quote": "What, are you crazy? They hated it. They were just humouring you.",
+      "characters": [
+        "Ellen",
+        "Teller",
+        "George",
+        "Susan"
+      ],
+      "correctAnswer": "Susan"
+    },
+    {
+      "quote": "Anyway so Fred and I are going to do some volunteer work for that Church on Amsterdam.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I'm looking for a new suit. I can't find anything I like. That's a nice suit.",
+      "characters": [
+        "George",
+        "Bania",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Bania"
+    },
+    {
+      "quote": "I have an idea. Leave the winter clothing in the apartment, and I'll watch it for you and I'll live there and I'll make sure that nothing happens to it.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Kramer",
+        "Estelle"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "And therein lies the tragedy. For I believe, sadly for you, that there is but one woman meant for each of us. One perfect angel for whom we are put on this earth.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey, I don't like what's goin' on around here. I want all you bums outta here.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Elaine",
+        "Sid"
+      ],
+      "correctAnswer": "Sid"
+    },
+    {
+      "quote": "The second time I sent the noodles back, I tought she made a face...",
+      "characters": [
+        "Noreen",
+        "Ron",
+        "Elaine",
+        "George"
+      ],
       "correctAnswer": "George"
     },
     {
-      "quote": "I don't know. Just start scratching. Tell him you have the crabs. He was in the military. He'll understand that.",
+      "quote": "Alright, let's just examine the situation for a second.  Who, in this situation, would be more likely to make a mistake?  Me, who had access to my wallet, knew exactly what was in there?  Or you--",
       "characters": [
         "Steinbrenner",
         "George",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Um, yes this is my friend Jerry. Um, he accompanied me, ya know , single women in a big city can be dangerous, so…",
-      "characters": [
-        "George",
-        "Jerry",
         "Elaine",
         "Kramer"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "George"
     }
   ]
 }

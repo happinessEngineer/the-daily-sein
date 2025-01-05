@@ -1,99 +1,49 @@
 {
-  "gameNumber": 1144,
+  "gameNumber": 1145,
   "date": "2028-02-21",
   "questions": [
     {
-      "quote": "Elaine. You don't remember our conversation? I talked about how my uncle worked in the book depository building with Lee Harvey Oswald?",
+      "quote": "Alright, we'll talk about this a little later. Are you an actor?",
       "characters": [
-        "Rebecca",
-        "George",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, it still is. I shave my head for my swim team. I just liked the way it looked, so I kept it.",
-      "characters": [
-        "Kurt",
-        "Julianna",
-        "Jerry",
-        "Lloyd"
-      ],
-      "correctAnswer": "Kurt"
-    },
-    {
-      "quote": "Ha Haaaaaaa... Jerry how do you like that.You see I get myself in a dizzy, I'm all worked up and for what?",
-      "characters": [
+        "Nurse",
         "Kramer",
         "George",
-        "Ade",
         "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "So, I was wondering, would it be okay if I turned your room into a billiard parlor?",
-      "characters": [
-        "Frank",
-        "Elaine",
-        "George",
-        "Jerry"
-      ],
-      "correctAnswer": "Frank"
-    },
-    {
-      "quote": "Under the circumstances, I don't really feel that we should be in business together.",
-      "characters": [
-        "Russell",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Russell"
-    },
-    {
-      "quote": "Jerry. I don't know if you've noticed, but lately, I've been drifting, aimlessly?",
-      "characters": [
-        "George",
-        "Newman",
-        "Kramer",
-        "Deena"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, well then I better get going otherwise George will make me buy him lunch to make up for that big salad he bought me yesterday.",
+      "quote": "It was a 'thank you' card from Kristin because I'm doing the PBS drive. I mean, how long am I supposed to keep it?",
       "characters": [
-        "Elaine",
-        "Stan",
-        "George",
-        "Mike"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "That guy Elaine's dating seems really familiar to me. I think he may have been a comedian I worked with one time. Wait a minute, what is this?",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Salesman",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Yeah, get this, he tells me there are no houses any where in Tuscany to rent.",
-      "characters": [
-        "George",
         "Kramer",
+        "George",
         "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "I know, I know. Listen, your stuff has to be done by now, why don't you just see if it's dry?",
+      "quote": "Santa speaks the language of all children. A notchie watchie dotchie do.",
+      "characters": [
+        "Kramer",
+        "Steinbrenner",
+        "Jackie",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oh, yeah. Yeah. I used to come here all the time with my fiancée, back when it was a meat-packing plant. Ha. Here's her picture.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Stan"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Fine. Excellent. Could you do me a favor? Could you not tuck the blankets in? 'Cause I can't sleep all tucked in.",
       "characters": [
         "George",
         "Elaine",
@@ -101,6 +51,56 @@
         "Kramer"
       ],
       "correctAnswer": "George"
+    },
+    {
+      "quote": "Aww, that's sweet, but actually I, I think I'd prefer it if you left.",
+      "characters": [
+        "Emily",
+        "Elaine",
+        "Jerry",
+        "Peterman"
+      ],
+      "correctAnswer": "Emily"
+    },
+    {
+      "quote": "You! This is all your fault! You told me I could run the company!",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well somebody had to. You know, just because a person's a smoker, that doesn't mean he's not a human being.",
+      "characters": [
+        "Ray",
+        "George",
+        "Ramon",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if this tenant board is so impressed with suffering, maybe you should tell them the \"Astonishing Tales of Costanza\".",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your palace shall sparkle like the stars in heaven upon your save arrival, Sire.",
+      "characters": [
+        "Ray",
+        "Michael",
+        "Jerry",
+        "Susan"
+      ],
+      "correctAnswer": "Ray"
     }
   ]
 }

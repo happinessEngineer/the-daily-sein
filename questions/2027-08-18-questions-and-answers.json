@@ -1,106 +1,106 @@
 {
-  "gameNumber": 957,
+  "gameNumber": 958,
   "date": "2027-08-18",
   "questions": [
     {
-      "quote": "Jocylin Landis from Doubleday. I interviewed you for a position a couple of months ago.",
+      "quote": "Nougat? Please. I think I've reached the point in my life where I can tell the difference between nougat and cookie. So let's not just say things that we both know are obvious fabrications.",
       "characters": [
-        "Estelle",
-        "Bob",
-        "Landis",
-        "George"
+        "George",
+        "Detective",
+        "Elaine",
+        "Jerry"
       ],
-      "correctAnswer": "Landis"
+      "correctAnswer": "George"
     },
     {
-      "quote": "How you gonna drive when looking through a periscope? Besides it's not a submarine and there's no room for a periscope in a car.",
+      "quote": "So we could put the bottles in a U-haul. You know, go lean and mean?",
       "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Alright, I'm waiting. I-I want to see the pig-man. Show me the pig- man.",
+      "characters": [
+        "Kramer",
         "Jerry",
         "George",
-        "Kramer",
-        "Worker"
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh, I'm goin' baby. I'm goin.'  It's Jerry's fault. He took out all my good lines. He's such a control freak!",
+      "quote": "Every night I sleep in a really hot room, I don't want to kill myself.",
       "characters": [
-        "Father",
-        "Jerry",
-        "Helen",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I was just going to wander the streets. Don't wanna tag along with you or anything.",
-      "characters": [
-        "George",
-        "Susan",
-        "Jerry",
-        "Hoyt"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Alright, FDR. This wish is for all the marbles. You win, you get your wish - I drop dead. I win, I don't drop dead, and I get one-hundred percent anti-drop-dead protection -- Forever.",
-      "characters": [
+        "Newman",
         "Kramer",
-        "Jerry",
-        "Steven",
-        "Kevin"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Hey, look at George. He's givin' it to T-bone. He's jumpin' up and down like some kind of monkey. Hey, what was the name of that monkey that could read sign language?",
-      "characters": [
         "George",
-        "Jerry",
-        "Kruger",
-        "Morty"
-      ],
-      "correctAnswer": "Kruger"
-    },
-    {
-      "quote": "So, listen to this. But don't tell anyone - Jerry Seinfeld? He got a woman's number off an AIDS walk list.",
-      "characters": [
-        "Steinbrenner",
-        "George",
-        "Susan",
         "Elaine"
       ],
-      "correctAnswer": "Susan"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Maybe cheapness is a sense. You know it is better without this big wallet. It's more comfortable.",
+      "quote": "She's full. So, Big Daddy. I'm just curious. How much did you clear on your little transaction there, all told?",
       "characters": [
-        "Morty",
-        "George",
+        "Jerry",
         "Elaine",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I can't believe you all made me leave before the end of the game.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Woman",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Wa, uh, thank you sir, you know I am not quite sure I'm right for it.",
+      "quote": "What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!",
       "characters": [
-        "Elaine",
         "Jerry",
-        "Kramer",
-        "George"
+        "Pitt",
+        "George",
+        "Sally"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "He's the *loser*. She's the victor. To the victor belong the spoils.",
+      "quote": "Locking your keys in your car is the best career move you ever made.",
       "characters": [
-        "Jackie",
-        "Kramer",
         "Jerry",
+        "George",
+        "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I don't know … he's got some valuable antiques, He's worried they'll break something.",
+      "characters": [
+        "Phil",
+        "George",
+        "Herb",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm trying. I can't get a grip. My hand's had kind of a bad week.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

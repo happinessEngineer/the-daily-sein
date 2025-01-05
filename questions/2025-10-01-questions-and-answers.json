@@ -1,106 +1,106 @@
 {
-  "gameNumber": 271,
+  "gameNumber": 272,
   "date": "2025-10-01",
   "questions": [
     {
-      "quote": "Wait, you can't make a call like that on your way out. You can't rush that conversation.",
+      "quote": "They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.",
       "characters": [
-        "Steinbrenner",
-        "Puddy",
-        "George",
+        "Peterman",
+        "Kramer",
+        "Tony",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "No, it's not the money. It's my hand. It's crippled from writing and writing.",
+      "quote": "Hi Beth  Um anyway Jerry told me that uh.. it might have been my comment in the Coffee Shop that broke you up.",
       "characters": [
-        "George",
-        "Leslie",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I used to love to sleep with my dolls when I was a little girl..",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Susan"
-      ],
-      "correctAnswer": "Susan"
-    },
-    {
-      "quote": "It's.. .. you! It's really you! Oh, I'm such a huge fan of yours. Would you mind signing this poster for me?",
-      "characters": [
-        "Elaine",
-        "Gary",
-        "Kramer",
-        "Doorman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "No I haven't spoken to her all day-uh, yeah right, um, as a matter of fact, um, she was here, and she uh, left a note, but I wasn't here, but I have the note, uh, right here.",
-      "characters": [
-        "Kramer",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Anyway there's at least four of them, and they're all huge. And one is bigger than the next. It's like a Russ Meyer movie.",
-      "characters": [
-        "Kramer",
-        "Hallie",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Well, I was just curious why you didn't use an exclamation point?",
-      "characters": [
-        "Elaine",
         "Morty",
+        "Doctor",
         "Jerry",
         "George"
       ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright, I gotta go home and open up with the house for the carpet cleaners. You know they're doing my whole place for twenty-five dollars.",
+      "characters": [
+        "Frank",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "He never finished the sentence. He got a call, that was the end of the interview.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I'm sorry, I don't see the big deal about being a matador. The bull charges, you move the cape, what's so hard?",
+      "characters": [
+        "Kramer",
+        "Frank",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You have no idea how your life is gonna improve as a result of this. Food tastes better. The air seems fresher. You'll have more energy and self confidence than you ever dreamed of.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Oh, he'll be right up. He's just getting some beer. And I'm not expecting ... any change.",
+      "characters": [
+        "George",
+        "Elaine",
+        "Mohel",
+        "Conrad"
+      ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well, I'm sure things'll pick up for you soon. Elaine, maybe we should get going.",
+      "quote": "Okay, uh, I'll tell you what. I could go as high as uh...  I don't know, maybe...twenty dollars?",
       "characters": [
+        "George",
+        "Carl",
         "Kramer",
-        "Brett",
-        "Frank",
         "Elaine"
       ],
-      "correctAnswer": "Brett"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "You know what you could do? I haven't eaten lunch or dinner. I can't eat this hospital food. Maybe you could run down to the deli and get me a sandwich..",
+      "quote": "These are the balloons? Big deal, all I see is Woody Woodpecker.",
       "characters": [
-        "Estelle",
+        "Craig",
         "Jerry",
-        "Kramer",
-        "Driver"
+        "Peterman",
+        "George"
       ],
-      "correctAnswer": "Estelle"
+      "correctAnswer": "George"
     },
     {
-      "quote": "That's it. Now, gimme your wallet. Got it in here, huh, fat boy!",
+      "quote": "So you're a victim. Now your face is shallow, unattractive, disgusting.",
       "characters": [
-        "Kramer",
-        "Frank",
         "Elaine",
+        "Jackie",
+        "George",
         "Jerry"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jackie"
     }
   ]
 }

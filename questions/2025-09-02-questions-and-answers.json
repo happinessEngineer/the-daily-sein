@@ -1,106 +1,106 @@
 {
-  "gameNumber": 242,
+  "gameNumber": 243,
   "date": "2025-09-02",
   "questions": [
     {
-      "quote": "How could she say that on TV?.. And how did she get a cable special . I 've never gotten a cable special.....well that's it I'm not giving her any more material. We are incommunicado.  ...Exactly.",
+      "quote": "Yeah, when the season starts. Right now, I sit around pretending that I'm busy.",
       "characters": [
-        "Tor",
+        "Mike",
         "George",
-        "Tim",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know. She was so beautiful, it was like a pure reflex. The words just came out of my mouth.",
-      "characters": [
-        "George",
-        "Jerry",
         "Kramer",
         "Elaine"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Oh, so you just assume that the homeless will eat them, they'll eat anything?",
-      "characters": [
-        "Rebecca",
-        "Jack",
-        "George",
-        "Landlord"
-      ],
-      "correctAnswer": "Rebecca"
-    },
-    {
-      "quote": "Let me get this gum out of my hair and then I'll be ready for bed.",
+      "quote": "Yeah, it kind a motivates me to work on the road. So uh, make yourself at home.  So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",
       "characters": [
         "George",
-        "Janet",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Janet"
-    },
-    {
-      "quote": "\"No ,Elaine and I we're just discussing whether I could admit a man is attractive.\"",
-      "characters": [
-        "Newman",
-        "Steinbrenner",
-        "Kramer",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No No, Don't ruin it for me, I haven't seen it yet! Ah-C'mon, what d'you say?",
-      "characters": [
         "Elaine",
-        "Jerry",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Na, you're way way way off.. Well, yeah that's the right number but this is an apartment",
+      "characters": [
         "George",
-        "Kramer"
+        "Jerry",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "It got a little dirty, so they wanted to clean it before they gave it back to you.",
+      "quote": "George, Bye!  Hello? You are not going to believe the date I just had.",
       "characters": [
-        "Hallie",
+        "Stan",
+        "Keith",
+        "Heather",
+        "Elaine"
+      ],
+      "correctAnswer": "Heather"
+    },
+    {
+      "quote": "You just said, 'nice to meet you', but actually we've met before.",
+      "characters": [
         "George",
-        "Newman",
-        "Jerry"
-      ],
-      "correctAnswer": "Hallie"
-    },
-    {
-      "quote": "\"Don't you know the difference between seltzer and salsa?? You have the seltezer after the salsa!\"",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, I'm sure you have. They're out on the ocean and, yada yada yada, and she says, \"Those aren't buoys.\"  Father...",
-      "characters": [
-        "Silvio",
         "Kramer",
         "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Oh, you lying little snot. And he's a cheater. Aren't ya' you little twerp?",
+      "characters": [
+        "George",
+        "Debby",
+        "Morty",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Who goes around feeling people's material? What can be gained by feeling a person's material? It's insanity!",
+      "characters": [
+        "Estelle",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Well, sleepy here is quite a weasel, maybe he can bat for you.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Well, take it. I'm sure as Hell not going to give it to my family.",
+      "quote": "Hey, you got any extra furniture down there? I need some more stuff to fill that extra bedroom with the walk-in closet.",
       "characters": [
-        "George",
-        "Elaine",
+        "Rick",
         "Jerry",
-        "Sid"
+        "Kramer",
+        "George"
       ],
-      "correctAnswer": "Sid"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well it?s very flattering. How did you get these tickets, I heard they're impossible to get.",
+      "characters": [
+        "Frank",
+        "Regis",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

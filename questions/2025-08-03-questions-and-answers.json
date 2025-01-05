@@ -1,106 +1,106 @@
 {
-  "gameNumber": 212,
+  "gameNumber": 213,
   "date": "2025-08-03",
   "questions": [
     {
-      "quote": "Well, I'm just a little nervous. OK, I gotta relax. Phew. Wish me luck, huh?",
+      "quote": "Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate.",
       "characters": [
-        "Kramer",
-        "Stan",
         "Jerry",
-        "Herb"
+        "Puddy",
+        "Kramer",
+        "Elaine"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, Mr. Kramer, I gotta thank you. I - I learned a lot. Things are gonna be different for me now.",
+      "quote": "Well you black out lane-lines one and three, and a four-lane highway becomes a two-lane comfort cruise.  So, you got any black paint?",
       "characters": [
-        "George",
-        "Rick",
-        "Jerry",
-        "Elaine"
-      ],
-      "correctAnswer": "Rick"
-    },
-    {
-      "quote": "Hey, Elaine, have you noticed your boyfriend has developed an annoying little habit?",
-      "characters": [
-        "Jerry",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "That's not necessary.  You know, maybe it's not that bad an idea.",
-      "characters": [
-        "Jerry",
         "Elaine",
         "Kramer",
-        "Frank"
+        "George",
+        "Phil"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, just that you cared enough to call means so much, Jerry.",
+      "quote": "Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.",
       "characters": [
+        "Farkus",
+        "Elaine",
         "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Half a bag? What am I, a hooker? Anyway, they look kind of cheap.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Lena",
-        "Estelle"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Oo, I better call that woman at Doubleday and see when I can pick up Mr. Pitt's racquet.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Kramer, I can't help you. You're gonna have to get them some place else.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Michael"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah. Specifically 9:30 shows. Seen any good 9:30 shows at the Paragon, Willie?",
-      "characters": [
-        "George",
-        "Newman",
-        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": ".. I coulda been a kosher butcher like my brother. The money's good. There's a union, with benefits. And, cows have no families. You make a mistake with a cow, you move on with your life... Anyway.",
+      "quote": "Son's of bitches! Good luck finding them... him... whatever. I'd like to stick around and get my hands on him myself, but I gotta take off.",
       "characters": [
+        "Mike",
         "Jerry",
         "George",
-        "Mohel",
         "Kramer"
       ],
-      "correctAnswer": "Mohel"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I came home one night, and I tripped over one of Jerry's toys.  So I took out my belt just to threaten him, and I got a glimpse of myself in the mirror.",
+      "characters": [
+        "Kramer",
+        "Lloyd",
+        "Morty",
+        "Elaine"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "So , you have fleas. Maybe you keep your house in a state of disrepair. Maybe you live in squalor.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Jerry",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "See, look at this.  Rachel, my T-shirt shrunk. It used to be much bigger, and now it shrunk. You see, that's what water does. It shrinks things.",
+      "characters": [
+        "George",
+        "Newman",
+        "Elaine",
+        "Kelly"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I can't eat this without catsup. Would it kill her to check up on us? Would that be a terrible thing? \"How's everything? Do you need anything? What can I do for you?\"",
+      "characters": [
+        "Man",
+        "Tawni",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "The last couple a days he's been acting very strange. I think he's avoiding me.",
+      "characters": [
+        "Ronnie",
+        "Elaine",
+        "Kramer",
+        "Karen"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "You know, if you really want to test him out, why don't you try the old Jerry Lewis trick?",
+      "characters": [
+        "Cheryl",
+        "George",
+        "Puddy",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

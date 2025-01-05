@@ -1,103 +1,103 @@
 {
-  "gameNumber": 229,
+  "gameNumber": 230,
   "date": "2025-08-20",
   "questions": [
     {
-      "quote": "Who's got the tickets? GEORGE I do.  I thought you knew this mall. You said you'd been here before!",
+      "quote": "So, the longer you know someone, the shorter you wait for 'em.",
       "characters": [
-        "Jerry",
-        "Newman",
+        "Elaine",
         "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Damn you Seinfeld. You useless pustule. Um, somebody's got something on the griddle. maybe it's Kramer.",
+      "characters": [
+        "Newman",
+        "Michael",
+        "Jerry",
         "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Newman"
     },
     {
-      "quote": "Oh come on, George, please put it in a garage. I don't want to spend an hour looking for a space.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Chiles"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Jerry, I'd give you the watch. It's not the money, I happen to like it.",
+      "quote": "We just tease some one 'til they develop an eating disorder. guy who ruined his life.",
       "characters": [
         "Jerry",
-        "Kramer",
         "Elaine",
-        "Leo"
-      ],
-      "correctAnswer": "Leo"
-    },
-    {
-      "quote": "Ok, fine. I'll go back... You know, our goal should be a society *without* *classes*! [She goes through the curtain to, ick, *coach*] Do you realise that the people up here are getting *cookies*!",
-      "characters": [
-        "Elaine",
-        "George",
-        "Newman",
-        "Frank"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Listen, listen I'm gonna go call work to see if I can get my deadline extended. I can't...come up with anything for this thing.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "Kramer",
+        "Tor",
         "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "So, thanks again for those tickets. But next week, I'm going to take you. How about next Tuesday night?  And why don't you come along?",
+      "quote": "Oh, I'm great! Just great. Really great! Oh, hey - did you hear about Bob Rosen?",
       "characters": [
-        "Joel",
-        "Brett",
+        "Toby",
         "Kramer",
-        "Farkus"
+        "Jerry",
+        "Frank"
       ],
-      "correctAnswer": "Joel"
+      "correctAnswer": "Toby"
     },
     {
-      "quote": "What physical characteristic would you say is common to all of them?",
+      "quote": "Box of raisinettes eating another box of raisinettes? It's perverse.",
       "characters": [
-        "George",
         "Jerry",
-        "Susan",
-        "Kramer"
+        "Izzy",
+        "Kramer",
+        "Aaron"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "He's older, completely covered in filth, no whistle, but I think it's him.",
-      "characters": [
-        "George",
-        "Susan",
-        "Kramer",
-        "Harold"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Eh, they're trying to pick out a new couch - you don't want to know.  Give me your wallet, or I'll spill your guts right here on the street!",
+      "quote": "Yeah, right… I'm gonna get my car repaired at a dealership. Huh! Why don't I just flush my money down the toilet?",
       "characters": [
         "Kramer",
+        "Elaine",
         "George",
-        "Bania",
         "Jerry"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well we gotta make a plan before they come back, what are we gonna do?",
+      "quote": "Well, you know, frankly, I don't think she was too concerned about my jacket.",
       "characters": [
+        "Jerry",
         "Elaine",
         "Newman",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Look, Elaine, I've been thinking about this. This has got to be a massive conspiracy. Who knows how deep it goes. Hey, look, wait a second,  Kramer, turn that up.",
+      "characters": [
+        "Elaine",
+        "Alton",
         "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Yes, indeed.  The calendar says winter, but he gods of spring are out.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Elaine",
+        "Audrey"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "It's a letter from the Immigration Bureau, it's Babu's Visa renewal application form. They must have put it in my mailbox by mistake.",
+      "characters": [
+        "Kramer",
+        "George",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Jerry"

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 30,
+  "gameNumber": 31,
   "date": "2025-02-02",
   "questions": [
     {
-      "quote": "Uh, excuse me.  Excuse me.  This--This is not right. May I?  You see, you're going: \"They fooled *me* Jerry!\"  You wanna hit 'fooled' more: \"They *fooled* me Jerry!\". You see the difference?",
+      "quote": "Oh well, they're both chubby weathermen. I get Dom Deluise and Paul Prudhoe mixed up too. Could I have this?",
       "characters": [
-        "George",
-        "Jerry",
-        "Kramer",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Don't you understand? It's not about him. To have a line as perfect as 'jerk store' and to never use it. I, I couldn't live with myself.",
-      "characters": [
-        "Kramer",
-        "George",
-        "Jerry",
-        "Morty"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I felt bad about the spying, so you know, ,I got them tickets to the show.",
-      "characters": [
-        "Hanke",
-        "George",
-        "Frank",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "That's uh, KL5-8383. Are you calling them soon because, they keep very strange hours.",
-      "characters": [
-        "Russell",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "...and then the ball hits him in the head and he falls right over the railing!",
-      "characters": [
+        "Gavin",
         "Jerry",
         "Elaine",
-        "Kramer",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "You have to realise this has not been custom-fitted to his scalp.",
+      "quote": "I went down to the magazine, I pleaded with him to come and see me again, finally he agreed to come down tonight, and he's going to write another article.",
       "characters": [
-        "Salesman",
-        "Steinbrenner",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "Well, it's my business now. Look, I stuck up for you. Man, if he catches you, we're both out.",
-      "characters": [
+        "Jerry",
         "Kramer",
-        "Frank",
-        "Sid",
+        "Elaine",
+        "Lena"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'm sorry. I thought it was a legitimate charity. I didn't know you'd get audited",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "George",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "I know. The only way to fix it now, is to get a whole new photo of Kruger.",
+      "quote": "I'm not talking about upside down.  I'm talking about waking him up!",
       "characters": [
         "Jerry",
-        "Elaine",
+        "Kramer",
         "George",
-        "Rudy"
+        "Sid"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "They made me buy it.. A hundred bucks this thing cost me.  How dare they?! I got news for you, if it wasn't for the toilet, there would be no books.",
+      "quote": "But Iiii never heard her Cries for Help.  An' nowww.. Susie is gone.",
       "characters": [
-        "George",
-        "Kramer",
-        "Betsy",
+        "Peterman",
+        "Elaine",
+        "Manny",
         "Jerry"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "Maybe I should just go anytime I get the urge like you...wherever I am. There's too much urinary freedom in this society. I'm proud to hold it in. It builds character.",
+      "quote": "Well, I just got out of a 27-minute shower. I made some good cuts, and I didn't lose anything I needed. Yeah, I think what I kept is even stronger now.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Elaine, I know he'll appreciate this. Granted, it's not as nice as Kramer's cabinet, but it's start.",
+      "characters": [
+        "George",
+        "Jack",
+        "Brett",
+        "Announcer"
+      ],
+      "correctAnswer": "Brett"
+    },
+    {
+      "quote": "I'm wearin' a little hat, I'm jumpin' through fire.. They're puttin' their little alien heads in my mouth..",
       "characters": [
         "Elaine",
         "Jerry",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ohh yes, yes. Yes Jerry they were all over me. It was like Rocky 1, Hm. Diane came up to me, threw her arms around me…",
+      "characters": [
+        "Roy",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "This is a pretty bad deal for Kramer. You know a radar detector is worth much more than that helmet. I think you're cheating him.",
+      "characters": [
+        "George",
+        "Nikki",
         "Kramer",
-        "Manny"
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     }

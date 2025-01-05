@@ -1,106 +1,106 @@
 {
-  "gameNumber": 332,
+  "gameNumber": 333,
   "date": "2025-12-01",
   "questions": [
     {
-      "quote": "I think I understand this. Jay Peterman is real. His biography is not. Now, you Kramer are real.",
+      "quote": "Yeah, well, if you're getting him anything for his birthday, I'm alarge.",
       "characters": [
         "George",
-        "Jack",
         "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "...and then when I saw the photo I remembered where I'd seen him; the boom box incident.",
-      "characters": [
-        "Elaine",
-        "George",
-        "Sally",
-        "Susan"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Your friend and I are going to make a lot of money. Of course, I already have a lot of money. Poppie does very well...very well.",
-      "characters": [
-        "Poppie",
-        "Jerry",
-        "Elaine",
-        "Melissa"
-      ],
-      "correctAnswer": "Poppie"
-    },
-    {
-      "quote": "This is George Costanza, I'm calling for my test results. Negative? Oh, my God. WHY! WHY! WHY? What? What? Negative is good? Oh, yes of course! How stupid of me. Thank you. Thank you very much.",
-      "characters": [
-        "Jerry",
-        "Susan",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "you better be careful on those rocks tomorrow buddy. And you're not getting any sandwiches either",
-      "characters": [
-        "George",
-        "Jerry",
         "Kramer",
-        "Mickey"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because the woman who got hit in the head with it found my name, called me up, and we met!",
-      "characters": [
-        "Father",
-        "Kramer",
-        "Gennice",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "How about our little Elaine huh? Attended the finest finishing schools on the Eastern seaboard. Equestrian competitions. Debutante balls. Look at her now. Interviewing Mohels.",
+      "quote": "When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.",
       "characters": [
-        "Sid",
+        "Farkus",
         "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "Hey, I gotta stop off at the bookstore to pick up my parents one of those French-English dictionaries.",
+      "characters": [
+        "Jerry",
+        "Kramer",
         "George",
-        "Kramer"
+        "Steve"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You know, you're going along, you think everything's all right and all of a sudden you get that tap. . You know it's like pfffff , all right that's enough, you're through.",
+      "quote": "Wait a minute, Rinitze? Don't they have somme really cool suits in there?",
       "characters": [
-        "Jack",
-        "Kramer",
         "George",
-        "Jerry"
+        "Conrad",
+        "Frank",
+        "Elaine"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Dwayne, my friend and I would like to exchange frames. Could you put his lenses in my frames and mine in his?",
+      "quote": "Is there ever a good time to have your parents stay with you?",
       "characters": [
-        "Elaine",
+        "Kramer",
         "Jerry",
-        "Peterman",
+        "Darren",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Well I was kind of, hehehe, short on material and I, um, I put them in the book anyway.",
+      "quote": "Alright, OK. Let's stop fooling around. Let's just slip him some money.",
       "characters": [
-        "Morty",
         "Elaine",
-        "Susan",
-        "George"
+        "George",
+        "Jerry",
+        "Kramer"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "No no no. She changed her hairstyle,  it's terrible. No, we're done.",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "That's good stuff, and you can never have too much ice. Alright, I'll tell you what I'll do. You can co-host the party with me, under one condition. No Jerry. Jerry is not invited.",
+      "characters": [
+        "Jerry",
+        "Helena",
+        "George",
+        "Newman"
+      ],
+      "correctAnswer": "Newman"
+    },
+    {
+      "quote": "I mean we can put a man on the moon but we're still basically very stupid. The guy who's car this is? He could be one of the guys that built the rocket. You see what I'm saying?",
+      "characters": [
+        "George",
+        "Sid",
+        "Elaine",
+        "Izzy"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Come on, Go in, go in!  [watching Dream Cafe with binoculars again]",
+      "characters": [
+        "Evelyn",
+        "Jerry",
+        "Elaine",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

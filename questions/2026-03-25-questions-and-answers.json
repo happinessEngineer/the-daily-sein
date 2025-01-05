@@ -1,61 +1,51 @@
 {
-  "gameNumber": 446,
+  "gameNumber": 447,
   "date": "2026-03-25",
   "questions": [
     {
-      "quote": "Um, can I show this to my buddy Stubbs . He runs a sports memorabilia store. He pays top dollar for pro autographs.",
+      "quote": "To find the theater nearest you, please enter your five digit zip-code, now.",
       "characters": [
-        "Kramer",
-        "George",
         "Newman",
-        "Milos"
+        "Elaine",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "You know, it's amazing Peterman hasn't fired that dolt. She practically ran the company into the gro-ound.",
+      "quote": "Dustin Hoffman in Star Wars!?! Short Jewish guy against Darth Vader. I don't think so.",
       "characters": [
-        "Katie",
+        "George",
         "Kramer",
-        "Peggy",
+        "Morty",
         "Jerry"
       ],
-      "correctAnswer": "Peggy"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "The uh, the letter of, authenticity's in the side pocket there.",
+      "quote": "I'm sorry I don't have a square to spare, now if you don't mind",
       "characters": [
-        "Rick",
         "Elaine",
         "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Exactly. You're not a psycho. You've been very helpful. Thank you very much. Allow me to leave the tip.  Well, I think we proven who the psycho is.",
-      "characters": [
-        "Jerry",
-        "Puddy",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Alright. I just hope I can get it to the Friars Club before the show.",
-      "characters": [
-        "Nina",
-        "Kramer",
-        "George",
+        "Jane",
         "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Jane"
     },
     {
-      "quote": "Mr. Pitt, why would you want to hold onto the ropes on the Woody Woodpecker balloon?",
+      "quote": "She was a guest of my father's. She should've taken the cap off.",
       "characters": [
-        "George",
+        "Jerry",
+        "Nina",
+        "Kramer",
+        "Deena"
+      ],
+      "correctAnswer": "Nina"
+    },
+    {
+      "quote": "Yeah. I gotta be honest with you Kramer. You might be more than just a coupla tweaks away from a healthy relationship.",
+      "characters": [
+        "Lippman",
         "Jerry",
         "Elaine",
         "Kramer"
@@ -63,44 +53,54 @@
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "The point is, however it got done, it's done. So, any luck with the car?",
+      "quote": "I just like to have and few drinks and just let the guy do whatever he wants. Would you close your eyes for a second? I wanna tell you a secret about my bra.",
       "characters": [
-        "Farkus",
         "Kramer",
-        "Beth",
+        "Jerry",
+        "George",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, it's fantastic. I love the people over there. They- they treat me so great. You know they think I'm handicapped, they gave me this incredible office, a great view.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Estelle",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Aww, right. Three hundred, plus fifty for the repair. Three fifty, that's it!",
+      "quote": "What would you say if I told you I never impregnated a woman?",
       "characters": [
         "Kramer",
+        "Bania",
         "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "You know you're infringing on my right to celebrate new holidays..",
-      "characters": [
-        "Naomi",
-        "Jerry",
-        "Elaine",
-        "Kramer"
+        "Tawni"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Oh, this is the one Vincent told me about. The Pain And The Yearning.  'An old woman experiences pain and yearning.' A hundred and ninety-two minutes?",
+      "quote": "Yeah, see that's why I hate it. So, come on, you going to go?",
       "characters": [
-        "George",
-        "Kramer",
-        "Jerry",
-        "Elaine"
+        "Elaine",
+        "Man",
+        "Dan",
+        "Jerry"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Now what does the little man inside you say? See you gotta listen to the little man.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jackie",
+        "Newman"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

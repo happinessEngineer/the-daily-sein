@@ -1,106 +1,106 @@
 {
-  "gameNumber": 572,
+  "gameNumber": 573,
   "date": "2026-07-29",
   "questions": [
     {
-      "quote": "It'll be twenty minutes. I told ya, Puddy's getting me an insider deal.",
+      "quote": "And that Morty, I'll tell ya that guy is full of life.  He was convinced Monet was near sighted. I kept telling him",
       "characters": [
-        "Jerry",
+        "Hallie",
+        "Ned",
+        "Aaron",
+        "George"
+      ],
+      "correctAnswer": "Aaron"
+    },
+    {
+      "quote": "Yes I did. Yes I did. ... Maureen this water is still too cold.",
+      "characters": [
         "George",
-        "Elaine",
-        "Susan"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Oh, no.  I explained the whole thing to him, he was fine with it.",
-      "characters": [
-        "Abby",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Okay, uh, I'll tell you what. I could go as high as uh...  I don't know, maybe...twenty dollars?",
-      "characters": [
-        "Marcy",
-        "Elaine",
-        "Jerry",
-        "Newman"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "I think they want to make it up to us cause they let this thing sit on their shelf for five years.",
-      "characters": [
-        "Elaine",
         "Kramer",
-        "Jerry",
-        "Lois"
+        "Lippman",
+        "Jerry"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Lippman"
     },
     {
-      "quote": "Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' em.",
+      "quote": "You know, this business is going to be big. I just wanted- okay.",
       "characters": [
-        "Jerry",
         "Kramer",
         "Elaine",
-        "Bania"
+        "Morty",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "So, I've got ice cream all over my face. There were no napkins there. Whoever it was that's responsible for stocking that concession stand cost me a relationship.",
-      "characters": [
-        "Darren",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I've been wanting to get one of these things! Are you sure that...",
+      "quote": "I still have trouble looking at those disgusting old bedroom slippers she slogs around in.",
       "characters": [
         "Jerry",
-        "Elaine",
-        "Wilhelm",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Please! Get help! There's a crazy big-headed woman beating up some guy! Tell the police \"The Old Mill Restaurant\". Hurry!",
-      "characters": [
-        "Woman",
+        "George",
         "Kramer",
-        "Elaine",
-        "Jerry"
+        "Puddy"
       ],
-      "correctAnswer": "Woman"
+      "correctAnswer": "Puddy"
     },
     {
-      "quote": "Don't you see what's happening here? It's attached itself to me! It's alive!",
+      "quote": "Boy, I don't know about your friend, Jerry. He says some pretty stupid things sometimes.",
+      "characters": [
+        "George",
+        "Maryedith",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Maryedith"
+    },
+    {
+      "quote": "You're right; it is strange. In fact, let's cross to the other side of the street. Cover me.",
       "characters": [
         "Jerry",
-        "George",
-        "Father",
-        "Karen"
+        "Joe",
+        "Elaine",
+        "Sally"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "You are kidding. That is amazing.  I just took a car service from work and to get the driver to not talk to me, I pretended I was going deaf.",
+      "quote": "I'll tell ya it was a grind having to fill 10 hours a day. I'm not sure I was ready to have my own talk show set.",
       "characters": [
-        "Elaine",
         "George",
+        "Kramer",
+        "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Oo, I better call that woman at Doubleday and see when I can pick up Mr. Pitt's racquet.",
+      "characters": [
+        "Lloyd",
+        "Elaine",
         "Jerry",
-        "Newman"
+        "Joe"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Well, I was just watching them film yesterday and some guy just asked me.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Frank"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "I once saw this thing on T.V. with people who are terminally ill. And they all believed the secret of life is just to live every moment.",
+      "characters": [
+        "Jerry",
+        "Frank",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "Kramer"
     }
   ]
 }

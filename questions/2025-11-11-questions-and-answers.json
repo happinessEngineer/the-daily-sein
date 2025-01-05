@@ -1,106 +1,106 @@
 {
-  "gameNumber": 312,
+  "gameNumber": 313,
   "date": "2025-11-11",
   "questions": [
     {
-      "quote": "What, are you kidding? It's a golden opportunity to advance the relationship. She's crying, you put your arm around her and console her...you're the consolation guy!",
-      "characters": [
-        "Jerry",
-        "George",
-        "Helena",
-        "Elaine"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No, I don't think you're being helpful! I think you're being disruptive, and you make it very difficult for your friend here to improve his life!",
-      "characters": [
-        "Jerry",
-        "Diane",
-        "Salesman",
-        "Kramer"
-      ],
-      "correctAnswer": "Salesman"
-    },
-    {
-      "quote": "\"Elaine , I really don't...............pay much attention to men`s faces.\"",
-      "characters": [
-        "Stu",
-        "Jerry",
-        "Kramer",
-        "Frank"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "No we didn't. You take these things too literally. It's like saying, you're hungry enough to eat a horse.",
-      "characters": [
-        "Jack",
-        "George",
-        "Marlene",
-        "Elaine"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Nine hundred. Do I hear a thousand? Ladies, he is a Harvard graduate.",
+      "quote": "No, it's okay now, that, that girl is not comin'. Uh, I misread the whole thing.",
       "characters": [
         "Morty",
-        "Jerry",
+        "George",
+        "Darren",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "What about your old car? They couldn't get Kramer's blood out of it?",
+      "characters": [
         "Elaine",
+        "Jerry",
+        "George",
+        "Helen"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Oh, I don't know. I couldn't hear anything. You, you talked the whole movie.",
+      "characters": [
+        "Newman",
+        "Jerry",
+        "Susan",
         "George"
       ],
-      "correctAnswer": "Elaine"
+      "correctAnswer": "Susan"
     },
     {
-      "quote": "Oh, by the way, your stationery store guy called and he's got your pencil.",
+      "quote": "Aah!  The nerve of that guy! Taking back that pen. Well that's it for them.",
       "characters": [
-        "Peterman",
-        "Kramer",
+        "Russell",
+        "Elaine",
+        "Jerry",
+        "Morty"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Yeah, I put a six hour tape in. That should cover the experiment, the arrest, and most of your trial. Alright, I'll see ya.",
+      "characters": [
+        "Elaine",
         "George",
+        "Kramer",
         "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "So now, the father is screaming at me, he's demanding that I pay for the boom box. Finally, I gave them a fake address and got the hell out of there.",
+      "quote": "I guess your mother was right. You never could compete with Lloyd Braun!",
       "characters": [
         "Elaine",
         "Kramer",
-        "George",
-        "Jerry"
+        "Frank",
+        "Man"
       ],
-      "correctAnswer": "George"
+      "correctAnswer": "Frank"
     },
     {
-      "quote": "We gotta get something. I don't want to go to that meeting on an empty stomach. Let's get some Chinese. You wanna order it?",
+      "quote": "No body said you're fat. He's a loving character, like the Kool-ade guy.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Abby"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "That is one place on my wardrobe I do not need sharp interlocking metal teeth. It's like a mink trap down there.  What are you doing today?",
       "characters": [
         "Jerry",
-        "Elaine",
-        "George",
-        "Mike"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "How can you do that to your friend? He's got a wife, kids, and a lot of other stuff. Oh, yyyeeah.",
-      "characters": [
-        "Puddy",
-        "Herb",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "So she's flipping around the TV, and she gets to the naked station.",
-      "characters": [
-        "Elaine",
-        "Guy",
-        "George",
-        "Jerry"
+        "Kramer",
+        "Morty",
+        "Elaine"
       ],
       "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "Your father wanted a Mercedes, but I won't ride in a German car.",
+      "characters": [
+        "Jerry",
+        "Estelle",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "Hey oo, I just remembered uh my parents really wanna have you guys over for dinner before you leave town. What about tonight?",
+      "characters": [
+        "Kramer",
+        "Jerry",
+        "Wilhelm",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

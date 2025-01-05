@@ -1,106 +1,106 @@
 {
-  "gameNumber": 1055,
+  "gameNumber": 1056,
   "date": "2027-11-24",
   "questions": [
     {
-      "quote": "Uhm, George felt that I was too adamant in my stand that Art should focus on the exporting and forget about the importing.",
+      "quote": "It's not my fault! I wasn't going to do anything until you got her all juiced up with your story about having the affair with the matador!",
       "characters": [
-        "Lou",
         "Kramer",
-        "Elaine",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "So now you're going to tell me what I'm thinking. Well, go ahead, 'cause I'd really like to know.",
-      "characters": [
-        "Lisi",
-        "Elaine",
         "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Lisi"
-    },
-    {
-      "quote": "Hu, oh. No he thought I was hiding something from him about Morgan.",
-      "characters": [
         "George",
-        "Jerry",
-        "Cheryl",
-        "Allison"
+        "Ron"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Ma, you can't look up words in the dictionary!  Dad, she's cheating!",
+      "quote": "Well, we don't have any in stock right now but I would be happy to order it for you. Just give me your phone number and when it comes in I'll give you a call. You're name is?",
+      "characters": [
+        "Stationer",
+        "Kramer",
+        "Maestro",
+        "Jack"
+      ],
+      "correctAnswer": "Stationer"
+    },
+    {
+      "quote": "I know. This was the only woman I never lied to. Well that's not entirely true.",
+      "characters": [
+        "Newman",
+        "George",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, then you're free tonight. You know what, I heard about this great place called La Caridad.",
+      "characters": [
+        "Elaine",
+        "Donna",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "It's one stupid thing after another. So let me ask you, when you come to one of these places, what do you bring your pocketbook?",
       "characters": [
         "Jerry",
-        "Peterman",
-        "George",
-        "Kramer"
+        "Bob",
+        "Melissa",
+        "Susan"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hu humm? i suppose we could go to Lincoln Center and I'd be wearing sneakers and jeans and that would be fine too.",
+      "quote": "Hey, believe me, you were better off not knowing. It's not easy to deal with someone in a situation like this. I was so nice to him I almost made myself sick.",
       "characters": [
-        "Bania",
-        "Jerry",
-        "George",
-        "Elaine"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Yeah, and I got you a cord of wood, so you won't have to burn 'em.",
-      "characters": [
-        "Elaine",
-        "Jerry",
-        "George",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "You know what happens with these? The rollers, they get flat spots on 'em.",
-      "characters": [
-        "Ron",
-        "George",
-        "Elaine",
-        "Kramer"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Jerry it's funny, Paula and I actually met because of Elaine.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Elaine",
-        "Rebecca"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Oh come on. That's genetics. That's not going to happen to me.",
-      "characters": [
-        "Jerry",
         "Kramer",
+        "Jerry",
         "Elaine",
         "Morty"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Hey. Hey Elaine, what do you say if neither of us is married in ten years, we get hitched?",
+      "quote": "The name's George Constanza. I'm starting work here today. I was wondering if you could tell me where my office is.",
       "characters": [
-        "Jackie",
-        "Jerry",
+        "Elaine",
         "George",
-        "Kramer"
+        "Jerry",
+        "Rick"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well, I uh, maxed out my credit cards, and I don't have enough cash for a hotel room. So...",
+      "characters": [
+        "Puddy",
+        "Elaine",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You can see the Cayman Islands in there? Is something going to happen to me? What?",
+      "characters": [
+        "Jerry",
+        "Kramer",
+        "Sid",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Well you came in the other day with all that whale stuff, the squeaking and the squealing and…",
+      "characters": [
+        "Russell",
+        "Jerry",
+        "Kramer",
+        "George"
+      ],
+      "correctAnswer": "Jerry"
     }
   ]
 }

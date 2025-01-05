@@ -1,106 +1,106 @@
 {
-  "gameNumber": 596,
+  "gameNumber": 597,
   "date": "2026-08-22",
   "questions": [
     {
-      "quote": "It's all George's fault. All that talk about impotence. It got to me. And that orgasm stuff: orgasm this and orgasm that. It's a lot of pressure!",
+      "quote": "Yeah, I grabbed it on the way out, I don't want my mother reading it.",
       "characters": [
-        "Kevin",
         "George",
         "Elaine",
-        "Jerry"
+        "Milos",
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "Yeah, I gotta see a dentist, this is killin' me. Well, I'll take a chance. We'll go together.",
-      "characters": [
-        "Jane",
-        "George",
-        "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "They've got everything there, Jerry. I underlined the best parts.",
+      "quote": "Oh yeah. He'd hold national security meetings in there. He planned the Hanoi bombing after a bad Thai meal.",
       "characters": [
         "George",
         "Jerry",
-        "Elaine",
+        "Julianna",
         "Kramer"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Where are you living? Are you here? Are you on this planet? It's impossible. It can't be done.",
+      "quote": "I lived with him for forty years, I never saw him trying on my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!",
       "characters": [
-        "Woman",
-        "Kevin",
+        "Elaine",
+        "Jerry",
+        "Rabbi",
+        "Estelle"
+      ],
+      "correctAnswer": "Estelle"
+    },
+    {
+      "quote": "My censor quit two years ago. He checked into a clinic. Emotionally exhausted.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Morty",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Hey, if you two are meant to be together...I'm sure the cops'll pick her up on something.",
+      "characters": [
+        "Elaine",
+        "Kramer",
+        "Jerry",
+        "Ade"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I'll pay you for your time....I just ..I just need some information . How much do you want? ten....fifteen? You have change for twenty?",
+      "characters": [
+        "Elaine",
+        "Jerry",
         "Kramer",
         "George"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Boy, you can really talk some trash.  I guess that's better than eating it.",
+      "quote": "Well, I can see that. What do you have to do that for? Who cares about your pants size?",
       "characters": [
-        "Jerry",
-        "Puddy",
-        "Wyck",
-        "George"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Federal Express? Of course. That's the oldest trick in the book. You know it might not be a burglar it could be a murderer.",
-      "characters": [
-        "Kramer",
         "Jerry",
         "George",
-        "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Because I'm going to be playing golf at the Westchester country club. Mmh.",
-      "characters": [
-        "Jerry",
-        "Kramer",
-        "Peterman",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I bought a bottle of BBQ sauce in Memphis. I think the stewardess broke it when she tried to jam it into the overhead compartment because of this",
-      "characters": [
-        "Katya",
-        "Jerry",
         "Elaine",
-        "George"
+        "Kramer"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "George"
     },
     {
-      "quote": "I would like to propose a toast....Wait a second.. George! George Costanza come in here.",
+      "quote": "Ah, I'll just take the fire escape to get in and out of the building.",
       "characters": [
-        "Jane",
-        "Jerry",
-        "George",
-        "Morty"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "All right, which one is Julie?  Hey, you ladies look lovely tonight.",
-      "characters": [
-        "Hanke",
         "Kramer",
-        "Jackie",
-        "George"
+        "George",
+        "Jerry",
+        "Gary"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "I wonder what happened to my fiancé.  I know he's here somewhere. Ellen?  Have you seen my fiancé?",
+      "characters": [
+        "Woman",
+        "George",
+        "Jerry",
+        "Babu"
+      ],
+      "correctAnswer": "Woman"
+    },
+    {
+      "quote": "Alright, this one is about 8 years old. Not a scratch on it, it was owned by some lady who only used it to go from the bathroom to the kitchen and to feed her cat.",
+      "characters": [
+        "Kramer",
+        "Salesman",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Salesman"
     }
   ]
 }

@@ -1,106 +1,106 @@
 {
-  "gameNumber": 360,
+  "gameNumber": 361,
   "date": "2025-12-29",
   "questions": [
     {
-      "quote": "Yeah.  What's goin' on? What? Really? Oh my god....did he give you a reason?...Oh boy. Okay. Alright. Thanks.  Dalrymple just cancelled the pilot.",
+      "quote": "So, then, you know, the light was clearly green, I started walking, he skidded and he went right into my hip.",
       "characters": [
-        "Kramer",
-        "Elaine",
-        "George",
-        "Jerry"
+        "Jerry",
+        "Milos",
+        "Jake",
+        "George"
       ],
-      "correctAnswer": "Jerry"
+      "correctAnswer": "Jake"
     },
     {
-      "quote": "South America?!  What kind of snow blower you get us mixed up with?",
+      "quote": "I-I guess it can't hurt him... People eat *pounds* of those things.",
+      "characters": [
+        "Conrad",
+        "Kramer",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Ma, I know this may be hard for you to understand but I am sure there are many people who do not like me.",
       "characters": [
         "Jerry",
         "Elaine",
         "Newman",
-        "Naomi"
+        "George"
       ],
-      "correctAnswer": "Newman"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "Oh ya, I think they are starting to loosen up a bit.  Oh hi Mrs. Anvino.",
+      "quote": "What're you talking about? You had a cheque bounce at the bodega.",
+      "characters": [
+        "Gary",
+        "Jerry",
+        "Morty",
+        "Maestro"
+      ],
+      "correctAnswer": "Morty"
+    },
+    {
+      "quote": "Oh, I need some water. Ice it up nice and hard ... and when you throw it - Pop! Oh look,  there's my friend, FDR. I'm gonna nail him in the back of the head. It's gonna be great!",
       "characters": [
         "Kramer",
-        "Jerry",
+        "Tony",
         "Elaine",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Alright, alright, I'll call Heather, you'll get your hat back, I will get a second date. Ha ha ha. Now watch the magic.",
+      "characters": [
+        "Rabbi",
+        "Jackie",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Alright. I'll get that money for you in five minutes. And, don't eat any more.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "Jerry",
         "George"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Tomorrow I'm going straight down to this Rudy and get my clothes.",
+      "quote": "Yeah, Yeah. Well, now that we understand each other -- I'll be taking my business elsewhere. And I want my mother's fur coat back too.",
       "characters": [
-        "Donna",
         "Jerry",
-        "Frank",
-        "George"
+        "George",
+        "Kramer",
+        "Sheila"
       ],
-      "correctAnswer": "Frank"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "One more thing, Benes, regarding sexual activity: Strictly prohibited, but if you absolutely must, do us all a big favour. Do it in the tub.",
+      "quote": "Oh, that's terrible. They stole a rye? Why would they steal a rye?",
       "characters": [
-        "Kramer",
         "George",
+        "Helen",
+        "Kramer",
+        "Todd"
+      ],
+      "correctAnswer": "Helen"
+    },
+    {
+      "quote": "...They'll saw through bone.  Uuuuuuuing yutyutyutyutn naannnaaa [makes saw noises while gesturing over Roy's chest] You'll see what's *inside* bone...",
+      "characters": [
         "Elaine",
-        "Jerry"
-      ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "Diabolical. He thought of everything. He was setting me up from day one!",
-      "characters": [
-        "George",
         "Kramer",
-        "Melissa",
-        "Jerry"
+        "Frank",
+        "Michael"
       ],
-      "correctAnswer": "Jerry"
-    },
-    {
-      "quote": "I don't know. A little thing called Step Nine? Instead of an apology, he was beboppin' and scattin' all over me.",
-      "characters": [
-        "George",
-        "Jerry",
-        "Morty",
-        "Kramer"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I feel like a huge weight's been lifted off my shoulders. I... I... I feel happy! Kramer, I don't know how to thank you!",
-      "characters": [
-        "George",
-        "Jerry",
-        "Donna",
-        "Bookman"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.",
-      "characters": [
-        "Newman",
-        "George",
-        "Detective",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "We have plenty of time, too. This jury could be out for days.",
-      "characters": [
-        "Chiles",
-        "Newman",
-        "Jerry",
-        "Vandelay"
-      ],
-      "correctAnswer": "Chiles"
+      "correctAnswer": "Kramer"
     }
   ]
 }

@@ -1,104 +1,104 @@
 {
-  "gameNumber": 367,
+  "gameNumber": 368,
   "date": "2026-01-05",
   "questions": [
     {
-      "quote": "Yeah. A friend of mine, he's a magician. He's going away on vacation. He asked me to take care of his doves.",
+      "quote": "Don't worry.  Kramer! Kramer!... It's Jerry!... Jerry!... From next door!... Never mind where I am!... Yes, Jerry Seinfeld!...",
       "characters": [
-        "George",
         "Kramer",
+        "Lloyd",
         "Jerry",
         "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Well, I think that statement alone reflects your burgeoning intelligence.  Hey, what about this one?",
-      "characters": [
-        "Jerry",
-        "Guy",
-        "Elaine",
-        "George"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Jerry, I'm telling you, this phone sex thing is hilarious, like this woman Erika, here look . You gotta call her, the voice she uses..",
+      "quote": "Listen, you go over to the ticket counter, I'm going to go stop in the gift shop and pick up a copy of Time magazine. There's supposed to ba blurb about Jerry in it and I think he mentioned my name!",
       "characters": [
-        "Elaine",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "Because I don't, never have, anything I read was already open.",
-      "characters": [
-        "Peterman",
-        "Jerry",
         "George",
-        "Newman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "And uh, anyway I was just reading your final edit and um, there seems to be an inordinate number of exclamation points.",
-      "characters": [
-        "Lippman",
-        "Helena",
-        "Kramer",
-        "Enzo"
-      ],
-      "correctAnswer": "Lippman"
-    },
-    {
-      "quote": "Well, that's the most important thing.  Hey how ya doing Fulton! Octane, Butane, Nitrane!  How's he doing?",
-      "characters": [
-        "Phil",
-        "Kramer",
-        "Mickey",
-        "George"
-      ],
-      "correctAnswer": "Phil"
-    },
-    {
-      "quote": "What about drugs? You doing some of that crack cocaine? You on the pipe?",
-      "characters": [
-        "Jerry",
-        "Leo",
-        "Steinbrenner",
-        "Elaine"
-      ],
-      "correctAnswer": "Steinbrenner"
-    },
-    {
-      "quote": "Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight.",
-      "characters": [
-        "Jerry",
         "Elaine",
-        "Peterman",
-        "George"
+        "Joel",
+        "Jerry"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah, he's good. He takes good pictures. He's got equipment over there.",
+      "characters": [
+        "Kramer",
+        "Elaine",
+        "George",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Nah, he was tired. He had some feet in his face. My cousin Holly is completely insane. She keeps calling and accusing me of stealing her napkins.",
+      "quote": "Did you ever notice how happy people are when they finally get a table? They think they're so special because they've been chosen. It's enough to make you sick.",
       "characters": [
-        "Kramer",
+        "Elaine",
         "George",
-        "Jerry",
-        "Elaine"
+        "Newman",
+        "Marcy"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "Oh, no no no. You don't wanna do that. No no. Nobody wears it like that.",
+      "quote": "Oh. Okay, here it is, I got it. She lost her thumbs in a tractor accident and they grafted her big toes on. They do it every day.",
       "characters": [
+        "Elaine",
+        "Peterman",
+        "George",
+        "Kramer"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Y-You boo me?! You hiss?! You didn't stop blathering throughout the whole set!",
+      "characters": [
+        "George",
+        "Elaine",
+        "Jerry",
+        "Kramer"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "George, this is beautiful. Why didn't you tell me you were going to have it mounted like this?",
+      "characters": [
+        "Wilhelm",
         "Kramer",
-        "Newman",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "Wilhelm"
+    },
+    {
+      "quote": "One more thing Mister Costanza, we just need to know what time you'll be picking him up tomorrow.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Babu",
+        "Doctor"
+      ],
+      "correctAnswer": "Doctor"
+    },
+    {
+      "quote": "He was screaming about it all night. How it's too sweet and it falls apart when you eat it.",
+      "characters": [
+        "Elaine",
+        "Gina",
         "Jerry",
         "George"
+      ],
+      "correctAnswer": "Gina"
+    },
+    {
+      "quote": "Oh, no no no. You don't wanna do that. No no. Nobody wears it like that.",
+      "characters": [
+        "Betsy",
+        "George",
+        "Kramer",
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     }

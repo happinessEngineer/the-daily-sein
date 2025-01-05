@@ -1,106 +1,106 @@
 {
-  "gameNumber": 687,
+  "gameNumber": 688,
   "date": "2026-11-21",
   "questions": [
     {
-      "quote": "Well, maybe, he was talking to me. Was you talking to him? Because you was obviously talking to one of us. So what is it? Who?! Who was you talking to?!",
+      "quote": "Yeah, I'm a very good boy. I'm flying down there and surprising him.",
       "characters": [
         "Elaine",
-        "Kramer",
-        "Morty",
-        "Bob"
+        "Jerry",
+        "George",
+        "Kramer"
       ],
-      "correctAnswer": "Bob"
+      "correctAnswer": "Jerry"
     },
     {
-      "quote": "He's proposing a plan where everyone in the city should wear name tags.",
+      "quote": "Six months ago you were eating four of those for breakfast and chasing it with a ring ding. And two butter fingers on the train. Sounds familiar?",
       "characters": [
+        "Jerry",
+        "Kramer",
+        "Wendy",
+        "Elaine"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Well I've never met your sister but obviously these are not hard-and-fast rules.  Darling, the tea is getting a little cold sweetheart.",
+      "characters": [
+        "Jerry",
+        "Ron",
         "Elaine",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "You're not gonna see 'em. I got a case of party poppers I'm gonna keep in front of 'em.",
+      "characters": [
         "George",
         "Kramer",
+        "Steinbrenner",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Alright, that's enough out of you, there's still three more games left in this series, my friend, and it's far from being over. Very far from being over.  Watch out!",
+      "quote": "Elaine! You found the clubs. That's wonderful news. Where are they?",
       "characters": [
-        "George",
+        "Peterman",
         "Elaine",
-        "Kramer",
-        "Stan"
+        "Maestro",
+        "George"
       ],
-      "correctAnswer": "Kramer"
+      "correctAnswer": "Peterman"
     },
     {
-      "quote": "What are you talking? Jeffrey works for the parks department!",
+      "quote": "Look it, look it, Ryan. These people are gettin' a baby. Period. Now we can do this the easy way, or we can do this the fun way.",
       "characters": [
-        "Morty",
+        "Elaine",
+        "George",
         "Jerry",
-        "Michael",
-        "Kramer"
+        "Lippman"
       ],
-      "correctAnswer": "Morty"
+      "correctAnswer": "Elaine"
     },
     {
-      "quote": "Well it's not my fault. Seinfeld can't drive. How hard is it to follow somebody?",
+      "quote": "All right. All right. Give me a tsate. Mmm! Oh God, I gotta sit down. What happened? Where's my armoire?",
       "characters": [
-        "Susan",
+        "Nina",
+        "Elaine",
+        "Testikov",
+        "Sid"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Look Jerry, the show isn't about the circus, it's about watching freaks.",
+      "characters": [
         "Kramer",
+        "George",
         "Stu",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Because I'm not Latvian Orthodox. Her parents won't let her get involved with anyone who isn't Latvian Orthodox.",
-      "characters": [
-        "George",
-        "Attendant",
-        "Jerry",
-        "Frank"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Well I, I'm in a bit of a quandary. I've misplaced my spectacles.",
-      "characters": [
-        "Jerry",
-        "Haarwood",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "Haarwood"
-    },
-    {
-      "quote": "Oh yeah. In fact I like the picture so much I cropped out the nipple and am using as my health club ID.",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "Nah, no, no, no. No doctors for me. A bunch of lackeys and yes-men all towing the company line..  Plus, the botched my vasectimy.",
-      "characters": [
-        "Jerry",
-        "Jack",
-        "Kramer",
-        "George"
+        "Jerry"
       ],
       "correctAnswer": "Kramer"
     },
     {
-      "quote": "Jerry, I tell you; if this woman dies, it is going to be a major inconvenience.",
+      "quote": "Hey Kramer, by the way, I saw that guy at the health club...that is not Salman Rushdie.",
       "characters": [
-        "Cynthia",
         "Elaine",
         "Jerry",
-        "Heather"
+        "Mickey",
+        "George"
       ],
       "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I told them I have a place in the Hamptons. What did you say?",
+      "characters": [
+        "Elaine",
+        "Rita",
+        "Jerry",
+        "George"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

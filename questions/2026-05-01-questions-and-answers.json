@@ -1,106 +1,106 @@
 {
-  "gameNumber": 483,
+  "gameNumber": 484,
   "date": "2026-05-01",
   "questions": [
     {
-      "quote": "Wel-Well, I just don't appreciate these little courtesy responses, like I'm selling you aluminum siding.",
+      "quote": "Jerry, I felt like a straight man in some horrible sketch. He was riffing! Riffing! On my pain!",
       "characters": [
-        "Elaine",
-        "Jerry",
-        "Estelle",
-        "Kramer"
-      ],
-      "correctAnswer": "Elaine"
-    },
-    {
-      "quote": "\"Master of the House/Quick to catch your eye/Never wants a passerby to pass him by...\"",
-      "characters": [
-        "Estelle",
-        "Elaine",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "They took my belt, Jerry. I got nothing to hold my pants up.  Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project.",
-      "characters": [
-        "Newman",
-        "Jerry",
-        "Kramer",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Ah, c'mon! I'm telling you, I can coach for the NFL. It's not that hard",
-      "characters": [
-        "Jack",
+        "Mickey",
         "George",
-        "Jerry",
-        "Katie"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "I can't have a cup of coffee with a person?! I'm not allowed to have coffee?!",
-      "characters": [
-        "George",
-        "Julie",
-        "Jerry",
+        "Elaine",
         "Kramer"
       ],
       "correctAnswer": "George"
     },
     {
-      "quote": "Oh I can't. They revoked my membership. Newman too. You know, we can't go anywhere near there.",
+      "quote": "I mean, who has a funeral on a Wednesday? That's what I want to know. I mean, it's the championship, I'm hitting everything.",
       "characters": [
-        "Helen",
-        "Elaine",
-        "Jerry",
-        "George"
+        "George",
+        "Kramer",
+        "Donald",
+        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "George, there's no time! Tell him your code! Shout out your code, man!!",
+      "quote": "I really admire actors, you know. It's just such an incredible skill.",
       "characters": [
-        "Jerry",
-        "George",
-        "Peterman",
-        "Elaine"
-      ],
-      "correctAnswer": "Peterman"
-    },
-    {
-      "quote": "Then Hank Bauer, you know, he's chasing me around, he trips over third base and knocks over Clete Boyer.",
-      "characters": [
-        "George",
         "Kramer",
-        "Todd",
-        "Mary"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "The thing about that painting.. is with the colors and um..  Oh yeah, plugola.",
-      "characters": [
         "Elaine",
-        "George",
-        "Jerry",
-        "Kramer"
+        "Rita",
+        "George"
       ],
       "correctAnswer": "Elaine"
     },
     {
-      "quote": "We don't have any feta. How about cottage cheese and Egg Beaters?",
+      "quote": "Excuse me, uh, I don't mean to cause any trouble here, but George, if you take it, can I take your place?",
       "characters": [
-        "Helen",
+        "Elaine",
+        "Jerry",
+        "George",
+        "Morty"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "I love this place. You know, Carl and I come here all the time.",
+      "characters": [
+        "Elaine",
+        "Jerry",
+        "Newman",
+        "George"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Robin, listen to me. The most amazing thing has happened. Kramer has opened my eyes. I think I've changed.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Mickey"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Yeah I gotta get Testikov on tape. If this woman ends up in the \"New England Journal Of Medicine\" I'm not gonna pay for it.",
+      "characters": [
+        "Estelle",
+        "George",
+        "Kramer",
+        "Elaine"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Jerry, do you know what they do to dogs at the pound? They keep them there for a week and then if nobody claims them, they kill them.",
+      "characters": [
         "George",
         "Jerry",
-        "Kramer"
+        "Elaine",
+        "Kevin"
       ],
-      "correctAnswer": "Helen"
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Frankly I am shocked that you would ask such a question  of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.",
+      "characters": [
+        "Clerk",
+        "Kramer",
+        "George",
+        "Jerry"
+      ],
+      "correctAnswer": "Jerry"
+    },
+    {
+      "quote": "You got bit by a strange dog and you didn't get a rabies shot?",
+      "characters": [
+        "Kramer",
+        "George",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
     }
   ]
 }

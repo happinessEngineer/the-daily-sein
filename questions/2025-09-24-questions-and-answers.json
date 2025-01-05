@@ -1,106 +1,106 @@
 {
-  "gameNumber": 264,
+  "gameNumber": 265,
   "date": "2025-09-24",
   "questions": [
     {
-      "quote": "Hey! What are you doing? It's after six o'clock! You can't give me a ticket! Hey, you're not gonna get away with this. I'll fight this. I got witnesses.",
+      "quote": "Earl Hafler, nice to meet you. I'm headed to Houston, where you headed?",
       "characters": [
-        "Newman",
-        "Elaine",
-        "Jerry",
-        "Kramer"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "I'm just waiting for a lift back to the island, he won't be ready until eleven, so I figured I'd give you a break.  I thought I'd see what it was like to hang out with someone in show business.",
-      "characters": [
-        "Jerry",
-        "Russell",
-        "Steve",
-        "Chiles"
-      ],
-      "correctAnswer": "Steve"
-    },
-    {
-      "quote": "What keeps the water in there? I mean, why doesn't it disappear?",
-      "characters": [
-        "Jerry",
-        "Newman",
-        "Elaine",
-        "Doorman"
-      ],
-      "correctAnswer": "Newman"
-    },
-    {
-      "quote": "\"Master of the house/Doling out the charm/Ready with a handshake and an open...\"",
-      "characters": [
-        "Kramer",
-        "Elaine",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "Okay listen to me. I talked to Gino, he's going to fix the haircut.",
-      "characters": [
-        "Frank",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "HaAhhh! The Velcro. I can't stand Velcro. It's that t-e-a-r-I-n-g sound. I used to be in raincoats. I refused to put that in any of my lines.",
-      "characters": [
-        "Morty",
-        "Kramer",
-        "Jerry",
-        "George"
-      ],
-      "correctAnswer": "Morty"
-    },
-    {
-      "quote": "You know, after I have sex with Emily, uh, I don't want her in the bed any more.",
-      "characters": [
-        "Kramer",
         "George",
+        "Earl",
+        "Elaine",
+        "Frank"
+      ],
+      "correctAnswer": "Earl"
+    },
+    {
+      "quote": "--but, you see, let me just talk to you for a second, see, what I did is inadvertently sent an insurance--",
+      "characters": [
+        "Newman",
+        "Morty",
         "Jerry",
         "Elaine"
-      ],
-      "correctAnswer": "Kramer"
-    },
-    {
-      "quote": "I really don't think we're supposed to be talkin' about this.",
-      "characters": [
-        "George",
-        "Christie",
-        "Steinbrenner",
-        "Jerry"
-      ],
-      "correctAnswer": "George"
-    },
-    {
-      "quote": "He's back. And I knew he would be someday.  Man that's some tart cider!",
-      "characters": [
-        "Frank",
-        "Steinbrenner",
-        "Kramer",
-        "Jerry"
       ],
       "correctAnswer": "Jerry"
     },
     {
-      "quote": "Yeah, well, I can't have this hanging over my head. It's bad mojo.",
+      "quote": "You are gonna love this car. Even if you don't like Jon Voight.",
       "characters": [
         "George",
+        "Jerry",
         "Kramer",
-        "Estelle",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I had some trouble at my place, so I need a little company at night to sleep.",
+      "characters": [
+        "Kramer",
+        "Tor",
+        "Elaine",
         "Jerry"
       ],
       "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "Yup. It's really just a question of what kind. Thinking about a bar stool.",
+      "characters": [
+        "George",
+        "Kramer",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "Aah, yeah, yeah. Won't you head on in, we'll be in in a second. Be right with you.",
+      "characters": [
+        "George",
+        "Mickey",
+        "Jerry",
+        "Elaine"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "I guess. She must've rolled over on a tick during the love-in.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Elaine"
+    },
+    {
+      "quote": "Three days. Well, maybe you caught her on the cusp of a new wash cycle. You know, she did laundry the day after she met you, everything got clean and she started all over again.",
+      "characters": [
+        "Jerry",
+        "Elaine",
+        "George",
+        "Bania"
+      ],
+      "correctAnswer": "George"
+    },
+    {
+      "quote": "My fault? Your Nana is missing because she's been passing those bum checks all over town and she finally pissed off the wrong people.",
+      "characters": [
+        "Sally",
+        "George",
+        "Kramer",
+        "Jerry"
+      ],
+      "correctAnswer": "Kramer"
+    },
+    {
+      "quote": "So then, I got a call this morning. You know, I was, uh, chosen to go on the space shuttle. We're goin' to Mars.",
+      "characters": [
+        "Elaine",
+        "George",
+        "Kramer",
+        "Tawni"
+      ],
+      "correctAnswer": "Elaine"
     }
   ]
 }
