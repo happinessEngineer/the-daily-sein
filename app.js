@@ -62,9 +62,8 @@ function App() {
         return (
             <div data-name="upload-container" className="container mx-auto max-w-2xl px-4 py-8 text-center">
                 <h1 data-name="game-title" className="logo text-3xl font-bold mb-8">
-                    The Daily Sein #{gameNumber}
+                    The Daily Sein
                 </h1>
-                <p data-name="no-questions" className="mb-4">No questions available for today.</p>
             </div>
         );
     }
@@ -87,7 +86,7 @@ function App() {
     return (
         <div data-name="game-container" className="container mx-auto max-w-2xl px-4 py-8">
             <h1 data-name="game-title" className="logo text-3xl font-bold text-center mb-8">
-                The Daily Sein #{gameNumber}
+                The Daily Sein {gameNumber ? `#${gameNumber}` : ''}
             </h1>
             
             <QuestionDisplay 
