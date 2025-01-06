@@ -1,6 +1,6 @@
 async function fetchTriviaQuestions() {
     try {
-        const date = new Date().toLocaleString('en-US', { timeZone: 'America/New_York' });
+        const date = new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles' });
         const [m, d, y] = date.split(',')[0].split('/');
         const formattedDate = `${y.trim()}-${m.padStart(2, '0')}-${d.padStart(2, '0')}`;
 
