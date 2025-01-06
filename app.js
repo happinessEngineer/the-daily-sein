@@ -89,7 +89,7 @@ function App() {
                 totalQuestions={questions.length}
             />
 
-            <div data-name="answers-container" className="grid gap-3">
+            <div data-name="answers-container" className="answers-container grid gap-3">
                 {currentQuestionData.characters.map((character) => (
                     <AnswerButton
                         key={character}
