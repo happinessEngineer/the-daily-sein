@@ -3,7 +3,7 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
     
     if (showResult) {
         if (isCorrect) {
-            buttonClass += "bg-green-500";
+            buttonClass += isSelected ? "bg-green-500 correct-answer burst-effect" : "bg-green-500";
         } else if (isSelected && !isCorrect) {
             buttonClass += "bg-gray-700 outline outline-2 outline-red-500";
         } else {
@@ -13,6 +13,8 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
         buttonClass += "bg-blue-500";
     }
 
+    const buttonText = (showResult && isCorrect && isSelected) ? "Giddy up!" : character;
+
     return (
         <button 
             data-name="answer-button"
@@ -20,7 +22,7 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
             onClick={onClick}
             disabled={showResult}
         >
-            <span className="flex-1 text-center">{character}</span>
+            <span className="flex-1 text-center">{buttonText}</span>
             {character.toLowerCase() === 'jerry' && 
                 <img src="character-images/jerry.webp" alt="Jerry" className="h-full w-auto absolute right-2" />
             }
