@@ -6,15 +6,19 @@ function App() {
     const [results, setResults] = React.useState([]);
     const [gameComplete, setGameComplete] = React.useState(false);
     const [selectedAnswer, setSelectedAnswer] = React.useState(null);
+    const [product, setProduct] = React.useState(null);
 
     React.useEffect(() => {
         try {
-            const loadQuestions = async () => {
+            const loadGameData = async () => {
                 const [gameNumber, questions] = await fetchTriviaQuestions();
+                const product = await fetchProduct();
+
                 setQuestions(questions);
                 setGameNumber(gameNumber);
+                setProduct(product);
             };
-            loadQuestions();
+            loadGameData();
         } catch (error) {
             reportError(error);
         }
@@ -70,6 +74,7 @@ function App() {
                     totalQuestions={questions.length}
                     results={results}
                     gameNumber={gameNumber}
+                    product={product}
                 />
             </div>
         );

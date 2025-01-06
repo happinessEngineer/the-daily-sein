@@ -1,11 +1,11 @@
-function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
+function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) {
     const [shareText, setShareText] = React.useState('Share');
     const [showFullResults, setShowFullResults] = React.useState(false);
 
     React.useEffect(() => {
         const fullResultsTimer = setTimeout(() => {
             setShowFullResults(true);
-        }, 1500);
+        }, 3000);
     }, []);
 
     const generateShareText = () => {
@@ -35,24 +35,25 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
     const getScoreImage = () => {
         return `./gifs/${score}.gif`;
     };
-
+        
     return (
         <div data-name="result-display" className="text-center p-8">
             <div>
                 <h1 data-name="game-title" className="logo text-3xl font-bold mb-8">
                     The Daily Sein #{gameNumber}
                 </h1>
-                <div 
-                    data-name="score-gif" 
-                    className="max-w-sm mx-auto mb-8"
-                >
-                    <img
-                        src={getScoreImage()}
-                        alt="Score reaction"
-                        className="w-full rounded-lg shadow-lg"
-                    />
-                </div>
-                
+                {!showFullResults && (
+                    <div 
+                        data-name="score-gif" 
+                        className="max-w-sm mx-auto mb-8"
+                    >
+                        <img
+                            src={getScoreImage()}
+                            alt="Score reaction"
+                            className="w-full rounded-lg shadow-lg"
+                        />
+                    </div>
+                )}
                 {showFullResults && (
                     <>
                         <h2 data-name="final-score" className="text-3xl font-bold mb-6">
@@ -76,6 +77,30 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
                         >
                             {shareText}
                         </button>
+                        {product && (
+                            <div className="mb-8">
+                                <h3 className="text-2xl font-bold mb-4">Product of the Day</h3>
+                                <a 
+                                    href={product.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    <img 
+                                        src={`../product-images/${product.image}`}
+                                        alt="Product"
+                                        className="product-image mx-auto mb-4 rounded-lg shadow-lg"
+                                    />
+                                </a>
+                                <a 
+                                    href={product.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="inline-block bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-lg transition-colors"
+                                >
+                                    Buy it
+                                </a>
+                            </div>
+                        )}
                         <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>
                     </>
                 )}
