@@ -7,6 +7,10 @@ function App() {
     const [gameComplete, setGameComplete] = React.useState(false);
     const [selectedAnswer, setSelectedAnswer] = React.useState(null);
     const [product, setProduct] = React.useState(null);
+    const [useFixedAnswers, setUseFixedAnswers] = React.useState(true);
+    const [shouldFixAnswers, setShouldFixAnswers] = React.useState(true);
+    const questionRef = React.useRef(null);
+    const answersRef = React.useRef(null);
 
     React.useEffect(() => {
         try {
@@ -23,6 +27,23 @@ function App() {
             reportError(error);
         }
     }, []);
+
+    React.useEffect(() => {
+        const checkOverlap = () => {
+            if (questionRef.current && answersRef.current) {
+                const questionRect = questionRef.current.getBoundingClientRect();
+                const answersRect = answersRef.current.getBoundingClientRect();
+                const questionBottom = questionRect.top + questionRect.height;
+                const answersHeight = answersRect.height;
+                const viewportHeight = window.innerHeight;
+                setShouldFixAnswers(questionBottom + 40 + answersHeight < viewportHeight);
+            }
+        };
+
+        checkOverlap();
+        window.addEventListener('resize', checkOverlap);
+        return () => window.removeEventListener('resize', checkOverlap);
+    }, [questions, currentQuestion]);
 
     const handleAnswer = (selectedCharacter) => {
         try {
@@ -47,15 +68,6 @@ function App() {
         }
     };
 
-    const handleUploadSuccess = (newQuestions) => {
-        setQuestions(newQuestions);
-        setCurrentQuestion(0);
-        setShowResult(false);
-        setResults([]);
-        setGameComplete(false);
-        setSelectedAnswer(null);
-    };
-
     if (questions.length === 0) {
         return (
             <div data-name="upload-container" className="container mx-auto max-w-2xl px-4 py-8 text-center">
@@ -67,6 +79,15 @@ function App() {
     }
 
     if (gameComplete) {
+        const today = new Date();
+        const dateKey = today.toISOString().split('T')[0]; // Format: yyyy-mm-dd
+        const gameResults = {
+            score: results.filter(Boolean).length,
+            totalQuestions: questions.length,
+            results: results
+        };
+        localStorage.setItem(dateKey, JSON.stringify(gameResults));
+
         return (
             <div data-name="game-complete" className="container mx-auto max-w-2xl px-4 py-8">
                 <ResultDisplay 
@@ -88,13 +109,19 @@ function App() {
                 The Daily Sein {gameNumber ? `#${gameNumber}` : ''}
             </h1>
             
-            <QuestionDisplay 
-                question={currentQuestionData}
-                currentQuestion={currentQuestion}
-                totalQuestions={questions.length}
-            />
+            <div ref={questionRef}>
+                <QuestionDisplay 
+                    question={currentQuestionData}
+                    currentQuestion={currentQuestion}
+                    totalQuestions={questions.length}
+                />
+            </div>
 
-            <div data-name="answers-container" className="answers-container grid gap-3">
+            <div 
+                ref={answersRef}
+                data-name="answers-container" 
+                className={`answers-container grid gap-3 ${shouldFixAnswers ? 'answers-container-fixed' : ''}`}
+            >
                 {currentQuestionData.characters.map((character) => (
                     <AnswerButton
                         key={character}

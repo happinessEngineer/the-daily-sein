@@ -13,7 +13,15 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
         buttonClass += "bg-blue-500";
     }
 
-    const buttonText = (showResult && isCorrect && isSelected) ? "Giddy up!" : character;
+    const successPhrases = [
+        "I'm busting!", "Serenity Now", "Get out!", "We're in business, baby!",
+        "Oh, that's gold, baby!", "Another Festivus miracle!", "You got that straight!",
+        "Oh, you better believe it!", "It's all happening!", "Real Boss!", "Ho ho!",
+        "Beautiful!", "Oh, this is huge!", "Yeah, that's right.", "Top of the Muffin to you!"
+    ];
+    const buttonText = (showResult && isCorrect && isSelected) 
+        ? successPhrases[Math.floor(Math.random() * successPhrases.length)]
+        : character;
 
     return (
         <button 
