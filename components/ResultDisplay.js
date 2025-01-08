@@ -1,5 +1,5 @@
 function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
-    const [shareText, setShareText] = React.useState('Share');
+    const [shareText, setShareText] = React.useState('Share Your Score');
     const [showFullResults, setShowFullResults] = React.useState(false);
 
     React.useEffect(() => {
@@ -10,7 +10,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
 
     const generateShareText = () => {
         const boxes = results.map(result => result ? '🟩' : '⬛').join('');
-        return `The Daily Sein #${gameNumber}\n${score}/${totalQuestions}\n\n${boxes}`;
+        return `The Daily Sein #${gameNumber}\n${score}/${totalQuestions}\n\n${boxes}\n\nhttps://happinessengineer.github.io/the-daily-sein/`;
     };
 
     const handleShare = async () => {
@@ -24,11 +24,11 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
             } else {
                 await navigator.clipboard.writeText(text);
                 setShareText('Copied!');
-                setTimeout(() => setShareText('Share'), 2000);
+                setTimeout(() => setShareText('Share Your Score'), 2000);
             }
         } catch (error) {
             reportError(error);
-            setShareText('Share');
+            setShareText('Share Your Score');
         }
     };
 
@@ -69,13 +69,21 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber }) {
                                 />
                             ))}
                         </div>
-                        <button
-                            data-name="share-button"
-                            onClick={handleShare}
-                            className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors mb-8"
-                        >
-                            {shareText}
-                        </button>
+                        <div className="play-with-friends-container mb-8">
+                            <p className="play-with-friends">Play with friends!</p>
+                            <ul className="list-disc text-left text-gray-600 mb-8">
+                                <li>Post your score on social media</li>
+                                <li>Create a group chat with your Seinfeld-loving friends</li>
+                                <li>Create a Slack channel to play against your coworkers</li>
+                            </ul>
+                            <button
+                                data-name="share-button"
+                                onClick={handleShare}
+                                className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors"
+                            >
+                                {shareText}
+                            </button>
+                        </div>
                         <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>
                     </>
                 )}
