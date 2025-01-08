@@ -1,3 +1,8 @@
+.container {
+    min-height: 100vh;
+    position: relative;
+}
+
 .logo {
     text-transform: uppercase;
     background: rgb(247, 201, 52);
@@ -11,7 +16,7 @@
     min-height: 200px;
 }
 
-.answers-container {
+.answers-container-fixed {
     position: absolute;
     width: calc(100% - 30px);
     bottom: 20px;
