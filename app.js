@@ -64,15 +64,6 @@ function App() {
         }
     };
 
-    const handleUploadSuccess = (newQuestions) => {
-        setQuestions(newQuestions);
-        setCurrentQuestion(0);
-        setShowResult(false);
-        setResults([]);
-        setGameComplete(false);
-        setSelectedAnswer(null);
-    };
-
     if (questions.length === 0) {
         return (
             <div data-name="upload-container" className="container mx-auto max-w-2xl px-4 py-8 text-center">
@@ -84,6 +75,15 @@ function App() {
     }
 
     if (gameComplete) {
+        const today = new Date();
+        const dateKey = today.toISOString().split('T')[0]; // Format: yyyy-mm-dd
+        const gameResults = {
+            score: results.filter(Boolean).length,
+            totalQuestions: questions.length,
+            results: results
+        };
+        localStorage.setItem(dateKey, JSON.stringify(gameResults));
+
         return (
             <div data-name="game-complete" className="container mx-auto max-w-2xl px-4 py-8">
                 <ResultDisplay 
