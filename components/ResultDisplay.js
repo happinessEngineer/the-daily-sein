@@ -96,7 +96,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                                     rel="noopener noreferrer"
                                 >
                                     <img 
-                                        src={`../product-images/${product.image}`}
+                                        src={`product-images/${product.image}`}
                                         alt="Product"
                                         className="product-image mx-auto mb-4 rounded-lg shadow-lg"
                                     />
