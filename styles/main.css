@@ -113,3 +113,9 @@
     margin-bottom: 4px;
     color: black;
 }
+
+.daily-find-container {
+    background: rgb(244, 244, 246);
+    padding: 16px;
+    border-radius: 20px;
+}

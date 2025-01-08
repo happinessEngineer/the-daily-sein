@@ -59,7 +59,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                         <h2 data-name="final-score" className="text-3xl font-bold mb-6">
                             Your Score: {score}/{totalQuestions}
                         </h2>
-                        <div data-name="result-boxes" className="flex justify-center flex-wrap gap-1 mb-8">
+                        <div data-name="result-boxes" className="flex justify-center flex-wrap gap-1 mb-12">
                             {results.map((result, index) => (
                                 <div
                                     key={index}
@@ -71,7 +71,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                             ))}
                         </div>
 
-                        <div className="play-with-friends-container mb-8">
+                        <div className="play-with-friends-container mb-16">
                             <p className="play-with-friends">Play with friends!</p>
                             <ul className="list-disc text-left text-gray-600 mb-8">
                                 <li>Post your score on social media</li>
@@ -88,7 +88,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                         </div>
 
                         {product && (
-                            <div className="mb-8">
+                            <div className="daily-find-container mb-16">
                                 <h3 className="text-2xl font-bold mb-4">The Daily Find</h3>
                                 <a 
                                     href={product.url}
