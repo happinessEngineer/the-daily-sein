@@ -17,11 +17,14 @@
 }
 
 .answers-container-fixed {
-    position: absolute;
-    width: calc(100% - 30px);
+    position: fixed;
+    max-width: calc(100% - 30px);
+    width: 640px;
     bottom: 20px;
-    left: 15px;
+    left: 50%;
+    transform: translateX(-50%);
 }
+
 .answer-button {
     transition: all 0.3s ease;
 }
