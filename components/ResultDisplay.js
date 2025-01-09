@@ -10,7 +10,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
 
     const generateShareText = () => {
         const boxes = results.map(result => result ? '🟩' : '⬛').join('');
-        return `The Daily Sein #${gameNumber}\n${score}/${totalQuestions}\n\n${boxes}\n\nhttps://happinessengineer.github.io/the-daily-sein/`;
+        return `The Daily Sein #${gameNumber}\n${score}/${totalQuestions}\n\n${boxes}\n\nhttps://dailysein.com`;
     };
 
     const handleShare = async () => {
