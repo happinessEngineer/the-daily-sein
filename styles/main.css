@@ -115,6 +115,7 @@
     font-weight: bold;
     margin-bottom: 4px;
     color: black;
+    list-style: none;
 }
 
 .daily-find-container {

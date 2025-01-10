@@ -74,9 +74,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                         <div className="play-with-friends-container mb-16">
                             <p className="play-with-friends">Play with friends!</p>
                             <ul className="list-disc text-left text-gray-600 mb-8">
-                                <li>Post your score on social media</li>
-                                <li>Create a group chat with your Seinfeld-loving friends</li>
-                                <li>Create a Slack channel to play against your coworkers</li>
+                                <li>Post your score on social media, Slack, or any other messaging app</li>
                             </ul>
                             <button
                                 data-name="share-button"
@@ -107,11 +105,32 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                                     rel="noopener noreferrer"
                                     className="inline-block bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-lg transition-colors"
                                 >
-                                    Buy it
+                                    Get it
                                 </a>
                             </div>
                         )}
                         <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>
+                        <div className="mb-8">
+                            <button
+                                onClick={() => document.getElementById('install-dialog').showModal()}
+                                className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors"
+                            >
+                                Add to Home Screen
+                            </button>
+                            
+                            <dialog 
+                                id="install-dialog" 
+                                className="p-6 rounded-lg shadow-xl backdrop:bg-black backdrop:bg-opacity-50"
+                            >
+                                <p className="mb-4">Tap the <b>Share</b> button in your browser, then click <b>Add to Home Screen</b></p>
+                                <button 
+                                    onClick={() => document.getElementById('install-dialog').close()}
+                                    className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition-colors"
+                                >
+                                    Close
+                                </button>
+                            </dialog>
+                        </div>
                     </>
                 )}
             </div>
