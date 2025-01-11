@@ -11,7 +11,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
     React.useEffect(() => {
         const fullResultsTimer = setTimeout(() => {
             setShowFullResults(true);
-        }, 3000);
+        }, 2000);
 
         // Calculate stats from localStorage
         const calculateStats = () => {
@@ -128,7 +128,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                 )}
                 {showFullResults && (
                     <>
-                        <div className="stats-container grid grid-cols-4 gap-4 mb-12 bg-gray-200 p-6 rounded-lg">
+                        <div className="stats-container grid grid-cols-4 gap-4 mb-12 bg-gray-300 p-4 rounded-lg">
                             <div className="stat-item">
                                 <div className="text-2xl font-bold">{stats.played}</div>
                                 <div className="text-sm text-gray-600">Games Played</div>
@@ -150,7 +150,7 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                         <h2 data-name="final-score" className="text-3xl font-bold mb-6">
                             Your Score: {score}/{totalQuestions}
                         </h2>
-                        <div data-name="result-boxes" className="flex justify-center flex-wrap gap-1 mb-12">
+                        <div data-name="result-boxes" className="flex justify-center flex-wrap gap-1 mb-8">
                             {results.map((result, index) => (
                                 <div
                                     key={index}
@@ -162,22 +162,16 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                             ))}
                         </div>
 
-                        <div className="play-with-friends-container mb-16">
-                            <p className="play-with-friends">Play with friends!</p>
-                            <ul className="list-disc text-left text-gray-600 mb-8">
-                                <li>Post your score on social media, Slack, or any other messaging app</li>
-                            </ul>
-                            <button
-                                data-name="share-button"
-                                onClick={handleShare}
-                                className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors"
-                            >
-                                {shareText}
-                            </button>
-                        </div>
+                        <button
+                            data-name="share-button"
+                            onClick={handleShare}
+                            className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors mb-20"
+                        >
+                            {shareText}
+                        </button>
 
                         {product && (
-                            <div className="daily-find-container mb-16">
+                            <div className="daily-find-container mb-16 bg-gray-200 p-4 rounded-lg">
                                 <h3 className="text-2xl font-bold mb-4">The Daily Find</h3>
                                 <a 
                                     href={product.url}
