@@ -1,31 +1,40 @@
 function App() {
     const [questions, setQuestions] = React.useState([]);
-    const [gameNumber, setGameNumber] = React.useState(0);
+    const [gameNumber, setGameNumber] = React.useState(null);
     const [currentQuestion, setCurrentQuestion] = React.useState(0);
     const [showResult, setShowResult] = React.useState(false);
     const [results, setResults] = React.useState([]);
     const [gameComplete, setGameComplete] = React.useState(false);
     const [selectedAnswer, setSelectedAnswer] = React.useState(null);
     const [product, setProduct] = React.useState(null);
-    const [useFixedAnswers, setUseFixedAnswers] = React.useState(true);
     const [shouldFixAnswers, setShouldFixAnswers] = React.useState(true);
     const questionRef = React.useRef(null);
     const answersRef = React.useRef(null);
 
     React.useEffect(() => {
-        try {
-            const loadGameData = async () => {
-                const [gameNumber, questions] = await fetchTriviaQuestions();
-                const product = await fetchProduct();
+        const loadGame = async () => {
+            const [number, questionData] = await fetchTriviaQuestions();
+            const product = await fetchProduct();
+            setProduct(product);
 
-                setQuestions(questions);
-                setGameNumber(gameNumber);
-                setProduct(product);
-            };
-            loadGameData();
-        } catch (error) {
-            reportError(error);
-        }
+            if (questionData && questionData.length > 0) {
+                setGameNumber(number);
+                setQuestions(questionData);
+                
+                // Load saved progress from localStorage
+                const savedProgress = localStorage.getItem(`dailySein_${number}`);
+                if (savedProgress) {
+                    const progress = JSON.parse(savedProgress);
+                    setCurrentQuestion(progress.currentQuestion);
+                    setResults(progress.results);
+                    setGameComplete(progress.gameComplete);
+                } else {
+                    // Initialize empty results array for new game
+                    setResults(new Array(questionData.length).fill(null));
+                }
+            }
+        };
+        loadGame();
     }, []);
 
     React.useEffect(() => {
@@ -56,18 +65,27 @@ function App() {
         newResults[currentQuestion] = isCorrect;
         setResults(newResults);
         
-        // First, reset states
+        // Save progress to localStorage
+        const progress = {
+            currentQuestion: currentQuestion,
+            results: newResults,
+            gameComplete: currentQuestion === questions.length - 1
+        };
+        localStorage.setItem(`dailySein_${gameNumber}`, JSON.stringify(progress));
+        
         setTimeout(() => {
-            setShowResult(false);
-            setSelectedAnswer(null);
-            // Add a tiny delay before showing next question
             if (currentQuestion < questions.length - 1) {
+                setShowResult(false);
+                setSelectedAnswer(null);
                 setTimeout(() => {
                     setCurrentQuestion(currentQuestion + 1);
+                    // Update saved progress with new question
+                    progress.currentQuestion = currentQuestion + 1;
+                    localStorage.setItem(`dailySein_${gameNumber}`, JSON.stringify(progress));
                 }, 50);
             } else {
                 setGameComplete(true);
-            }
+            }        
         }, 2000);
     };
 
