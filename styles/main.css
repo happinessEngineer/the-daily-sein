@@ -9,7 +9,8 @@
     border: 5px solid rgb(201, 9, 33);
     border-radius: 50%;
     padding: 10px;
-    rotate: -2deg;    
+    rotate: -7deg;    
+    font-family: 'Afacad Flux', sans-serif;
 }
 
 .question-container {

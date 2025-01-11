@@ -1,11 +1,83 @@
 function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) {
     const [shareText, setShareText] = React.useState('Share Your Score');
     const [showFullResults, setShowFullResults] = React.useState(false);
+    const [stats, setStats] = React.useState({
+        played: 0,
+        avgScore: 0,
+        currentStreak: 0,
+        maxStreak: 0
+    });
 
     React.useEffect(() => {
         const fullResultsTimer = setTimeout(() => {
             setShowFullResults(true);
         }, 3000);
+
+        // Calculate stats from localStorage
+        const calculateStats = () => {
+            let played = 0;
+            let totalScore = 0;
+            let currentStreak = 0;
+            let maxStreak = 0;
+            let streakCount = 0;
+
+            // Get all localStorage keys and sort them by date
+            const dateKeys = [];
+            for (let i = 0; i < localStorage.length; i++) {
+                const key = localStorage.key(i);
+                if (key.match(/^\d{4}-\d{2}-\d{2}$/)) {
+                    dateKeys.push(key);
+                }
+            }
+            dateKeys.sort(); // Sort in ascending order
+
+            // Get today's date in YYYY-MM-DD format
+            const today = new Date().toISOString().split('T')[0];
+            
+            // Calculate stats
+            for (let i = 0; i < dateKeys.length; i++) {
+                const key = dateKeys[i];
+                const gameData = JSON.parse(localStorage.getItem(key));
+                played++;
+                totalScore += (gameData.score / gameData.totalQuestions) * 100;
+
+                // For streak calculation
+                if (i === 0) {
+                    streakCount = 1;
+                } else if (isConsecutiveDate(dateKeys[i-1], key)) {
+                    streakCount++;
+                } else {
+                    streakCount = 1;
+                }
+
+                // Update max streak
+                maxStreak = Math.max(maxStreak, streakCount);
+                
+                // If this is today's date or the most recent date, update current streak
+                if (key === today || i === dateKeys.length - 1) {
+                    currentStreak = streakCount;
+                }
+            }
+
+            // Helper function to check if two dates are consecutive
+            function isConsecutiveDate(date1, date2) {
+                console.log(date1, date2);
+                const d1 = new Date(date1);
+                const d2 = new Date(date2);
+                const diffTime = Math.abs(d1 - d2);
+                const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                return diffDays === 1;
+            }
+
+            setStats({
+                played,
+                avgScore: played ? Math.round(totalScore / played) / 10 : 0,
+                currentStreak,
+                maxStreak
+            });
+        };
+
+        calculateStats();
     }, []);
 
     const generateShareText = () => {
@@ -56,6 +128,25 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                 )}
                 {showFullResults && (
                     <>
+                        <div className="stats-container grid grid-cols-4 gap-4 mb-12 bg-gray-200 p-6 rounded-lg">
+                            <div className="stat-item">
+                                <div className="text-2xl font-bold">{stats.played}</div>
+                                <div className="text-sm text-gray-600">Games Played</div>
+                            </div>
+                            <div className="stat-item">
+                                <div className="text-2xl font-bold">{stats.avgScore}</div>
+                                <div className="text-sm text-gray-600">Avg Score</div>
+                            </div>
+                            <div className="stat-item">
+                                <div className="text-2xl font-bold">{stats.currentStreak}</div>
+                                <div className="text-sm text-gray-600">Current Streak</div>
+                            </div>
+                            <div className="stat-item">
+                                <div className="text-2xl font-bold">{stats.maxStreak}</div>
+                                <div className="text-sm text-gray-600">Max Streak</div>
+                            </div>
+                        </div>
+
                         <h2 data-name="final-score" className="text-3xl font-bold mb-6">
                             Your Score: {score}/{totalQuestions}
                         </h2>
