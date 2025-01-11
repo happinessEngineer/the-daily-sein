@@ -25,6 +25,7 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
 
     return (
         <button 
+            key={character}
             data-name="answer-button"
             className={buttonClass}
             onClick={onClick}

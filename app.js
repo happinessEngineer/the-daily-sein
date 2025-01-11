@@ -45,27 +45,30 @@ function App() {
         return () => window.removeEventListener('resize', checkOverlap);
     }, [questions, currentQuestion]);
 
-    const handleAnswer = (selectedCharacter) => {
-        try {
-            const currentQuestionData = questions[currentQuestion];
-            const isCorrect = selectedCharacter === currentQuestionData.correctAnswer;
-            
-            setSelectedAnswer(selectedCharacter);
-            setResults([...results, isCorrect]);
-            setShowResult(true);
-
-            setTimeout(() => {
-                if (currentQuestion < questions.length - 1) {
+    const handleAnswer = async (answer) => {
+        if (showResult) return;
+        
+        setSelectedAnswer(answer);
+        setShowResult(true);
+        
+        const isCorrect = answer === questions[currentQuestion].correctAnswer;
+        const newResults = [...results];
+        newResults[currentQuestion] = isCorrect;
+        setResults(newResults);
+        
+        // First, reset states
+        setTimeout(() => {
+            setShowResult(false);
+            setSelectedAnswer(null);
+            // Add a tiny delay before showing next question
+            if (currentQuestion < questions.length - 1) {
+                setTimeout(() => {
                     setCurrentQuestion(currentQuestion + 1);
-                    setShowResult(false);
-                    setSelectedAnswer(null);
-                } else {
-                    setGameComplete(true);
-                }
-            }, 2000);
-        } catch (error) {
-            reportError(error);
-        }
+                }, 50);
+            } else {
+                setGameComplete(true);
+            }
+        }, 2000);
     };
 
     if (questions.length === 0) {
@@ -122,9 +125,9 @@ function App() {
                 data-name="answers-container" 
                 className={`answers-container grid gap-3 ${shouldFixAnswers ? 'answers-container-fixed' : ''}`}
             >
-                {currentQuestionData.characters.map((character) => (
+                {currentQuestionData.characters.map((character, index) => (
                     <AnswerButton
-                        key={character}
+                        key={`${currentQuestion}-${character}`}
                         character={character}
                         isCorrect={character === currentQuestionData.correctAnswer}
                         isSelected={character === selectedAnswer}
