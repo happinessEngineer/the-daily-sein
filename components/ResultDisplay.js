@@ -197,6 +197,11 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product, is
                                 </a>
                             </div>
                         )}
+                        <img 
+                            src={`images/manana.jpg`}
+                            alt="What are you doing mañana"
+                            className="mx-auto mb-4 rounded-lg shadow-lg"
+                        />                        
                         <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>
                         <div className="mb-8">
                             <button
