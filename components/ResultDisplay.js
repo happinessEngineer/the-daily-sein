@@ -1,4 +1,4 @@
-function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) {
+function ResultDisplay({ score, totalQuestions, results, gameNumber, product, isPreviouslyCompleted }) {
     const [shareText, setShareText] = React.useState('Share Your Score');
     const [showFullResults, setShowFullResults] = React.useState(false);
     const [stats, setStats] = React.useState({
@@ -61,7 +61,6 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
 
             // Helper function to check if two dates are consecutive
             function isConsecutiveDate(date1, date2) {
-                console.log(date1, date2);
                 const d1 = new Date(date1);
                 const d2 = new Date(date2);
                 const diffTime = Math.abs(d1 - d2);
@@ -69,12 +68,16 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product }) 
                 return diffDays === 1;
             }
 
-            setStats({
+            const stats = {
                 played,
                 avgScore: played ? Math.round(totalScore / played) / 10 : 0,
                 currentStreak,
                 maxStreak
-            });
+            };
+            setStats(stats);
+            if (!isPreviouslyCompleted) {
+                sa_event('completed_game', stats);
+            }
         };
 
         calculateStats();

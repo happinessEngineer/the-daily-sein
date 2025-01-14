@@ -17,7 +17,8 @@ function AnswerButton({ character, isCorrect, isSelected, onClick, showResult })
         "I'm busting!", "Serenity Now", "Get out!", "We're in business, baby!",
         "Oh, that's gold, baby!", "Another Festivus miracle!", "You got that straight!",
         "Oh, you better believe it!", "It's all happening!", "Real Boss!", "Ho ho!",
-        "Beautiful!", "Oh, this is huge!", "Yeah, that's right.", "Top of the Muffin to you!"
+        "Beautiful!", "Oh, this is huge!", "Yeah, that's right.", "Top of the Muffin to you!",
+        "Mandelbaum! Mandelbaum! Mandelbaum!",
     ];
     const buttonText = (showResult && isCorrect && isSelected) 
         ? successPhrases[Math.floor(Math.random() * successPhrases.length)]

@@ -1,4 +1,6 @@
 function App() {
+    const version = 'v1.3';
+    const [hasLoadedGame, setHasLoadedGame] = React.useState(false);
     const [questions, setQuestions] = React.useState([]);
     const [gameNumber, setGameNumber] = React.useState(null);
     const [currentQuestion, setCurrentQuestion] = React.useState(0);
@@ -8,6 +10,7 @@ function App() {
     const [selectedAnswer, setSelectedAnswer] = React.useState(null);
     const [product, setProduct] = React.useState(null);
     const [shouldFixAnswers, setShouldFixAnswers] = React.useState(true);
+    const [isPreviouslyCompleted, setIsPreviouslyCompleted] = React.useState(false);
     const questionRef = React.useRef(null);
     const answersRef = React.useRef(null);
 
@@ -28,11 +31,13 @@ function App() {
                     setCurrentQuestion(progress.currentQuestion);
                     setResults(progress.results);
                     setGameComplete(progress.gameComplete);
+                    setIsPreviouslyCompleted(true);
                 } else {
                     // Initialize empty results array for new game
                     setResults(new Array(questionData.length).fill(null));
                 }
             }
+            setHasLoadedGame(true);
         };
         loadGame();
     }, []);
@@ -109,17 +114,21 @@ function App() {
         };
         localStorage.setItem(dateKey, JSON.stringify(gameResults));
 
-        return (
-            <div data-name="game-complete" className="container mx-auto max-w-2xl px-4 py-8">
-                <ResultDisplay 
-                    score={results.filter(Boolean).length}
-                    totalQuestions={questions.length}
-                    results={results}
-                    gameNumber={gameNumber}
-                    product={product}
-                />
-            </div>
-        );
+        return hasLoadedGame ? (
+            <>
+                <div data-name="game-complete" className="container mx-auto max-w-2xl px-4 py-8">
+                    <ResultDisplay 
+                        score={results.filter(Boolean).length}
+                        totalQuestions={questions.length}
+                        results={results}
+                        gameNumber={gameNumber}
+                        product={product}
+                        isPreviouslyCompleted={isPreviouslyCompleted}
+                    />
+                </div>
+                <div className="fixed bottom-2 left-2 text-gray-300 text-xs">{version}</div>
+            </>
+        ) : null;
     }
 
     const currentQuestionData = questions[currentQuestion];
@@ -154,6 +163,7 @@ function App() {
                     />
                 ))}
             </div>
+            <div className="fixed bottom-1 left-1 text-gray-300 text-xs">{version}</div>
         </div>
     );
 }
