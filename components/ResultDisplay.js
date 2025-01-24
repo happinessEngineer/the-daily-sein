@@ -9,9 +9,9 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product, is
     });
 
     React.useEffect(() => {
-        const fullResultsTimer = setTimeout(() => {
+        // const fullResultsTimer = setTimeout(() => {
             setShowFullResults(true);
-        }, 2000);
+        // }, 2000);
 
         // Calculate stats from localStorage
         const calculateStats = () => {
@@ -117,43 +117,38 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product, is
                 <h1 data-name="game-title" className="logo text-3xl font-bold mb-8">
                     The Daily Sein #{gameNumber}
                 </h1>
-                {!showFullResults && (
-                    <div 
-                        data-name="score-gif" 
-                        className="max-w-sm mx-auto mb-8"
-                    >
-                        <img
-                            src={getScoreImage()}
-                            alt="Score reaction"
-                            className="w-full rounded-lg shadow-lg"
-                        />
+                <div className="stats-container grid grid-cols-4 gap-4 mb-8 bg-gray-300 p-4 rounded-lg">
+                    <div className="stat-item">
+                        <div className="text-2xl font-bold">{stats.played}</div>
+                        <div className="text-sm text-gray-600">Games Played</div>
                     </div>
-                )}
-                {showFullResults && (
-                    <>
-                        <div className="stats-container grid grid-cols-4 gap-4 mb-12 bg-gray-300 p-4 rounded-lg">
-                            <div className="stat-item">
-                                <div className="text-2xl font-bold">{stats.played}</div>
-                                <div className="text-sm text-gray-600">Games Played</div>
-                            </div>
-                            <div className="stat-item">
-                                <div className="text-2xl font-bold">{stats.avgScore}</div>
-                                <div className="text-sm text-gray-600">Avg Score</div>
-                            </div>
-                            <div className="stat-item">
-                                <div className="text-2xl font-bold">{stats.currentStreak}</div>
-                                <div className="text-sm text-gray-600">Current Streak</div>
-                            </div>
-                            <div className="stat-item">
-                                <div className="text-2xl font-bold">{stats.maxStreak}</div>
-                                <div className="text-sm text-gray-600">Max Streak</div>
-                            </div>
-                        </div>
-
-                        <h2 data-name="final-score" className="text-3xl font-bold mb-6">
+                    <div className="stat-item">
+                        <div className="text-2xl font-bold">{stats.avgScore}</div>
+                        <div className="text-sm text-gray-600">Avg Score</div>
+                    </div>
+                    <div className="stat-item">
+                        <div className="text-2xl font-bold">{stats.currentStreak}</div>
+                        <div className="text-sm text-gray-600">Current Streak</div>
+                    </div>
+                    <div className="stat-item">
+                        <div className="text-2xl font-bold">{stats.maxStreak}</div>
+                        <div className="text-sm text-gray-600">Max Streak</div>
+                    </div>
+                </div>                
+                <div 
+                    data-name="score-gif" 
+                    className="max-w-sm mx-auto mb-4 relative"
+                >
+                    <img
+                        src={getScoreImage()}
+                        alt="Score reaction"
+                        className="w-full rounded-lg shadow-lg"
+                    />
+                    <div className="absolute bottom-0 left-0 right-0">
+                        <h2 data-name="final-score" className="text-xl font-bold text-white text-center p-2" style={{ textShadow: '2px 2px 0px black' }}>
                             Your Score: {score}/{totalQuestions}
                         </h2>
-                        <div data-name="result-boxes" className="flex justify-center flex-wrap gap-1 mb-8">
+                        <div data-name="result-boxes" className="flex justify-center flex-wrap gap-1 mb-2">
                             {results.map((result, index) => (
                                 <div
                                     key={index}
@@ -164,15 +159,18 @@ function ResultDisplay({ score, totalQuestions, results, gameNumber, product, is
                                 />
                             ))}
                         </div>
+                    </div>
+                </div>
+                <button
+                    data-name="share-button"
+                    onClick={handleShare}
+                    className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors mb-16"
+                >
+                    {shareText}
+                </button>
 
-                        <button
-                            data-name="share-button"
-                            onClick={handleShare}
-                            className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors mb-20"
-                        >
-                            {shareText}
-                        </button>
-
+                {showFullResults && (
+                    <>
                         {product && (
                             <div className="daily-find-container mb-16 bg-gray-200 p-4 rounded-lg">
                                 <h3 className="text-2xl font-bold mb-4">The Daily Find</h3>

@@ -96,7 +96,7 @@ function App() {
 
     if (questions.length === 0) {
         return (
-            <div data-name="upload-container" className="container mx-auto max-w-2xl px-4 py-8 text-center">
+            <div data-name="upload-container" className="container mx-auto max-w-2xl p-4 text-center">
                 <h1 data-name="game-title" className="logo text-3xl font-bold mb-8">
                     The Daily Sein
                 </h1>
@@ -116,7 +116,7 @@ function App() {
 
         return hasLoadedGame ? (
             <>
-                <div data-name="game-complete" className="container mx-auto max-w-2xl px-4 py-8">
+                <div data-name="game-complete" className="container mx-auto max-w-2xl p-4">
                     <ResultDisplay 
                         score={results.filter(Boolean).length}
                         totalQuestions={questions.length}
@@ -134,7 +134,7 @@ function App() {
     const currentQuestionData = questions[currentQuestion];
 
     return (
-        <div data-name="game-container" className="container mx-auto max-w-2xl px-4 py-8">
+        <div data-name="game-container" className="container mx-auto max-w-2xl px-4 py-4">
             <h1 data-name="game-title" className="logo text-3xl font-bold text-center mb-8">
                 The Daily Sein {gameNumber ? `#${gameNumber}` : ''}
             </h1>
