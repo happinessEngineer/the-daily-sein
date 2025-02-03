@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Test your Seinfeld knowledge with daily trivia questions featuring memorable quotes from the show">
@@ -14,16 +14,6 @@
     <meta name="twitter:description" content="Test your Seinfeld knowledge with daily trivia questions featuring memorable quotes from the show">
     <meta name="twitter:image" content="icons/android-icon-192x192.png">
     <title>The Daily Sein</title>
-    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        const cssLink = document.createElement('link');
-        cssLink.rel = 'stylesheet';
-        cssLink.href = 'styles/main.css?v=' + new Date().getTime();
-        document.head.appendChild(cssLink);
-      </script>
     <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
@@ -44,17 +34,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap" rel="stylesheet">
-</head>
-<body>
+  </head>
+  <body>
     <div id="root"></div>
-    <script type="text/babel" src="components/QuestionDisplay.js"></script>
-    <script type="text/babel" src="components/AnswerButton.js"></script>
-    <script type="text/babel" src="components/ResultDisplay.js?v=1"></script>
-    <script type="text/babel" src="components/FileUpload.js"></script>
-    <script type="text/babel" src="utils/triviaData.js"></script>
-    <script type="text/babel" src="app.js"></script>
-<!-- 100% privacy-first analytics -->
-<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<script async src="https://scripts.simpleanalyticscdn.com/auto-events.js"></script>
-</body>
+    <script type="module" src="/src/main.jsx"></script>
+    <!-- 100% privacy-first analytics -->
+    <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <script async src="https://scripts.simpleanalyticscdn.com/auto-events.js"></script>
+  </body>
 </html>
