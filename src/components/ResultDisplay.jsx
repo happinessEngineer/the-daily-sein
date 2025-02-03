@@ -170,8 +170,8 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
     // };
 
     const getScoreImage = () => {
-        const gifsForScore = gifs["9"];
-        // const gifsForScore = gifs[score];
+        // const gifsForScore = gifs["9"]; // for testing
+        const gifsForScore = gifs[score];
         const randomIndex = Math.floor(Math.random() * gifsForScore.length);
         const gifDetails = gifsForScore[randomIndex];                
         return `${import.meta.env.BASE_URL}gifs/${gifDetails.name}.gif`;
