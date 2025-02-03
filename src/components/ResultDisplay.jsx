@@ -134,7 +134,7 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
 
     const generateShareText = () => {
         const boxes = results.map(result => result ? '🟩' : '⬛').join('');
-        return `${score}/${totalQuestions}\n${boxes}`;
+        return `DailySein.com #${gameNumber}\n\n${score}/${totalQuestions}\n${boxes}`;
         // return `DailySein.com #${gameNumber} ${score}/${totalQuestions}  ${boxes}`;
     };
 
@@ -145,7 +145,6 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
             if (navigator.share) {
                 await navigator.share({
                     text: text,
-                    title: `DailySein.com #${gameNumber}`,
                 });
             } else {
                 await navigator.clipboard.writeText(text);
