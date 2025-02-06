@@ -1,3 +1,5 @@
+// NEEDS FIXING
+
 async function fetchProducts() {
     try {
         const response = await fetch(`./src/products-of-the-day.json`);

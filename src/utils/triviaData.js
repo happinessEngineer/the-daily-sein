@@ -1,3 +1,5 @@
+import config from '../../config';
+
 export function getFormattedDate(dateParam = null) {
     if (dateParam) {
         return dateParam;
@@ -16,7 +18,7 @@ export async function fetchTriviaQuestions() {
         const dateParam = urlParams.get('date');
         const formattedDate = getFormattedDate(dateParam);
 
-        const response = await fetch(`./questions/${formattedDate}-questions-and-answers.json`);
+        const response = await fetch(`./${config.baseDir}/questions/${formattedDate}-questions-and-answers.json`);
         const data = await response.json();
         return [data.gameNumber, data.questions];
     } catch (error) {
@@ -31,7 +33,7 @@ export async function fetchProduct() {
         const dateParam = urlParams.get('date');
         const formattedDate = getFormattedDate(dateParam);
 
-        const response = await fetch(`./products-of-the-day.json`);
+        const response = await fetch(`./${config.baseDir}/products-of-the-day.json`);
         const data = await response.json();
         return data[formattedDate];
     } catch (error) {

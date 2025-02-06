@@ -1,3 +1,5 @@
+import config from '../../config';
+
 export function AnswerButton({ character, isCorrect, isSelected, onClick, showResult }) {
     let buttonClass = "answer-button w-full p-4 text-white rounded-lg box-border flex items-center relative ";
     
@@ -13,16 +15,11 @@ export function AnswerButton({ character, isCorrect, isSelected, onClick, showRe
         buttonClass += "bg-blue-500";
     }
 
-    const successPhrases = [
-        "I'm busting!", "Serenity Now", "Get out!", "We're in business, baby!",
-        "Oh, that's gold, baby!", "Another Festivus miracle!", "You got that straight!",
-        "Oh, you better believe it!", "It's all happening!", "Real Boss!", "Ho ho!",
-        "Beautiful!", "Oh, this is huge!", "Yeah, that's right.", "Top of the Muffin to you!",
-        "Mandelbaum! Mandelbaum! Mandelbaum!", "You're SO good looking!", "Saddle up and ride!",
-    ];
     const buttonText = (showResult && isCorrect && isSelected) 
-        ? successPhrases[Math.floor(Math.random() * successPhrases.length)]
+        ? config.successPhrases[Math.floor(Math.random() * config.successPhrases.length)]
         : character;
+
+    const image = config.characterImages[character.toLowerCase()];
 
     return (
         <button 
@@ -33,17 +30,8 @@ export function AnswerButton({ character, isCorrect, isSelected, onClick, showRe
             disabled={showResult}
         >
             <span className="flex-1 text-center">{buttonText}</span>
-            {character.toLowerCase() === 'jerry' && 
-                <img src={`${import.meta.env.BASE_URL}character-images/jerry.webp`} alt="Jerry" className="h-full w-auto absolute right-2" />
-            }
-            {character.toLowerCase() === 'george' && 
-                <img src={`${import.meta.env.BASE_URL}character-images/george.webp`} alt="George" className="h-full w-auto absolute right-2" />
-            }
-            {character.toLowerCase() === 'elaine' && 
-                <img src={`${import.meta.env.BASE_URL}character-images/elaine.webp`} alt="Elaine" className="h-full w-auto absolute right-2" />
-            }
-            {character.toLowerCase() === 'kramer' && 
-                <img src={`${import.meta.env.BASE_URL}character-images/kramer.webp`} alt="Kramer" className="h-full w-auto absolute right-2" />
+            {image !== undefined && 
+                <img src={`${import.meta.env.BASE_URL}${config.baseDir}/character-images/${image.filename}`} alt={image.name} className="h-full w-auto absolute right-2" />
             }
         </button>
     );

@@ -4,6 +4,7 @@ import { QuestionDisplay } from './components/QuestionDisplay.jsx';
 import { AnswerButton } from './components/AnswerButton.jsx';
 import { ResultDisplay } from './components/ResultDisplay.jsx';
 import { getFormattedDate } from './utils/triviaData';
+import config from '../config';
 
 function App() {
     const version = 'v1.3';
@@ -32,7 +33,7 @@ function App() {
                 setQuestions(questionData);
                 
                 // Load saved progress from localStorage
-                const savedProgress = localStorage.getItem(`dailySein_${number}`);
+                const savedProgress = localStorage.getItem(`${config.localStoragePrefix}_${number}`);
                 if (savedProgress) {
                     const progress = JSON.parse(savedProgress);
                     setCurrentQuestion(progress.currentQuestion);
@@ -83,7 +84,7 @@ function App() {
             results: newResults,
             gameComplete: currentQuestion === questions.length - 1
         };
-        localStorage.setItem(`dailySein_${gameNumber}`, JSON.stringify(progress));
+        localStorage.setItem(`${config.localStoragePrefix}_${gameNumber}`, JSON.stringify(progress));
         
         setTimeout(() => {
             if (currentQuestion < questions.length - 1) {
@@ -93,7 +94,7 @@ function App() {
                     setCurrentQuestion(currentQuestion + 1);
                     // Update saved progress with new question
                     progress.currentQuestion = currentQuestion + 1;
-                    localStorage.setItem(`dailySein_${gameNumber}`, JSON.stringify(progress));
+                    localStorage.setItem(`${config.localStoragePrefix}_${gameNumber}`, JSON.stringify(progress));
                 }, 50);
             } else {
                 setGameComplete(true);

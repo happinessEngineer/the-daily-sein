@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
-import gifs from '../gif-config';
+import config from '../../config';
 // import createGif from '../utils/createGif.js';
 
 export function ResultDisplay({ score, totalQuestions, results, gameNumber, product, isPreviouslyCompleted }) {
     const [shareText, setShareText] = useState('Share Your Score');
     const [shareFile, setShareFile] = useState();
-    const [image, setImage] = useState();
+    const [scoreImage, setScoreImage] = useState();
     const [stats, setStats] = useState({
         played: 0,
         avgScore: 0,
@@ -83,6 +83,7 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
         };
 
         calculateStats();
+        setScoreImage(getScoreImage());
     }, []);
 
     // useEffect(() => {
@@ -134,7 +135,7 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
 
     const generateShareText = () => {
         const boxes = results.map(result => result ? '🟩' : '⬛').join('');
-        return `DailySein.com #${gameNumber}\n\n${score}/${totalQuestions}\n${boxes}`;
+        return `${config.shareText} #${gameNumber}\n\n${score}/${totalQuestions}\n${boxes}`;
         // return `DailySein.com #${gameNumber} ${score}/${totalQuestions}  ${boxes}`;
     };
 
@@ -170,10 +171,10 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
 
     const getScoreImage = () => {
         // const gifsForScore = gifs["9"]; // for testing
-        const gifsForScore = gifs[score];
+        const gifsForScore = config.gifs[score];
         const randomIndex = Math.floor(Math.random() * gifsForScore.length);
         const gifDetails = gifsForScore[randomIndex];                
-        return `${import.meta.env.BASE_URL}gifs/${gifDetails.name}.gif`;
+        return `${import.meta.env.BASE_URL}${config.baseDir}/gifs/${gifDetails.name}.gif`;
     };
 
     return (
@@ -202,7 +203,7 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
                     className="max-w-sm mx-auto mb-4 relative"
                 >
                     <img
-                        src={getScoreImage()}
+                        src={scoreImage}
                         alt="Score reaction"
                         className="w-full rounded-lg shadow-lg min-h-[150px] bg-gray-200"
                     />
@@ -232,7 +233,7 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
                     {isLoading ? 'Generating shareable GIF' : shareText}
                 </button>
                 <>
-                    {product && (
+                    {product !== undefined && (
                         <div className="daily-find-container mb-16 bg-gray-200 p-4 rounded-lg">
                             <h3 className="text-2xl font-bold mb-4">The Daily Find</h3>
                             <a 
@@ -241,7 +242,7 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
                                 rel="noopener noreferrer"
                             >
                                 <img 
-                                    src={`${import.meta.env.BASE_URL}product-images/${product.image}`}
+                                    src={`${import.meta.env.BASE_URL}${config.baseDir}/product-images/${product.image}`}
                                     alt="Product"
                                     className="product-image mx-auto mb-4 rounded-lg shadow-lg"
                                 />
@@ -257,8 +258,8 @@ export function ResultDisplay({ score, totalQuestions, results, gameNumber, prod
                         </div>
                     )}
                     <img 
-                        src={`${import.meta.env.BASE_URL}images/manana.jpg`}
-                        alt="What are you doing mañana"
+                        src={`${import.meta.env.BASE_URL}${config.baseDir}/images/${config.comeBackImage.filename}`}
+                        alt={config.comeBackImage.altText}
                         className="mx-auto mb-4 rounded-lg shadow-lg"
                     />                        
                     <p className="text-gray-600 mb-8">Come back tomorrow for a new set of questions!</p>

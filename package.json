@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "dev:sein": "npm run prebuild:sein && vite --host",
-    "dev:friends": "npm run prebuild:friends && vite --host",
-    "prebuild": "node scripts/replace-env.js",
-    "prebuild:sein": "REACT_APP_SITE=sein node scripts/replace-env.js",
-    "prebuild:friends": "REACT_APP_SITE=friends node scripts/replace-env.js",
+    "dev:sein": "npm run prebuild:sein && VITE_SITE=sein vite --host",
+    "dev:friends": "npm run prebuild:friends && VITE_SITE=friends vite --host",
+    "prebuild": "node scripts/prebuild.js",
+    "prebuild:sein": "VITE_SITE=sein node scripts/prebuild.js",
+    "prebuild:friends": "VITE_SITE=friends node scripts/prebuild.js",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
