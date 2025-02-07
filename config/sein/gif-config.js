@@ -97,6 +97,9 @@ const gifs = {
     },
     {
       "name": "10b"
+    },
+    {
+      "name": "10c"
     }
   ]
 };

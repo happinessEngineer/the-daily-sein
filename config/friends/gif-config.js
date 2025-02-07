@@ -2,97 +2,95 @@ const gifs = {
   "0": [
     {
       "name": "0"
+    },
+    {
+      "name": "0a"
     }
   ],
   "1": [
     {
       "name": "1"
+    },
+    {
+      "name": "1a"
     }
   ],
   "2": [
     {
       "name": "2"
+    },
+    {
+      "name": "2a"
     }
   ],
   "3": [
     {
       "name": "3"
+    },
+    {
+      "name": "3a"
     }
   ],
   "4": [
     {
       "name": "4"
+    },
+    {
+      "name": "4a"
     }
   ],
   "5": [
     {
       "name": "5"
+    },
+    {
+      "name": "5a"
+    },
+    {
+      "name": "5b"
     }
   ],
   "6": [
     {
       "name": "6"
+    },
+    {
+      "name": "6a"
     }
   ],
   "7": [
     {
       "name": "7"
+    },
+    {
+      "name": "7a"
+    },
+    {
+      "name": "7b"
     }
   ],
   "8": [
     {
       "name": "8"
+    },
+    {
+      "name": "8a"
     }
   ],
   "9": [
     {
       "name": "9"
+    },
+    {
+      "name": "9a"
     }
   ],
   "10": [
     {
       "name": "10"
-    }
-  ],
-  "NaN": [
-    {
-      "name": "Episode 1 Friends Tv Show GIF by Friends"
     },
     {
-      "name": "Excited Season 4 GIF by Friends (1)"
-    },
-    {
-      "name": "Excited Season 4 GIF by Friends (2)"
-    },
-    {
-      "name": "Excited Season 9 GIF by Friends"
-    },
-    {
-      "name": "Season 2 Thinking GIF by Friends"
-    },
-    {
-      "name": "Season 5 Friends Tv Show GIF by Friends"
-    },
-    {
-      "name": "Season 5 Happy Dance GIF by Friends"
-    },
-    {
-      "name": "Season 5 Omg GIF by Friends"
-    },
-    {
-      "name": "Season 9 Episode 6 GIF by Friends"
-    },
-    {
-      "name": "excited episode 12 GIF"
-    },
-    {
-      "name": "mood GIF"
-    },
-    {
-      "name": "season 1 thumbs up GIF"
-    },
-    {
-      "name": "season 7 friends GIF"
+      "name": "10a"
     }
   ]
 };

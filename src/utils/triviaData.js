@@ -37,6 +37,6 @@ export async function fetchProduct() {
         const data = await response.json();
         return data[formattedDate];
     } catch (error) {
-        return [];
+        return undefined;
     }
 }

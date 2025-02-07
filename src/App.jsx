@@ -108,7 +108,7 @@ function App() {
 
     const renderHeader = () => (
         <h1 data-name="game-title" className="logo text-3xl font-bold text-center mt-4 mb-8">
-          The Daily Sein {gameNumber ? `#${gameNumber}` : ''}
+          <span className="site-title">{config.siteTitle}</span> {gameNumber ? `#${gameNumber}` : ''}
         </h1>
     );
 

@@ -2,6 +2,7 @@ import gifs from './gif-config.js';
 
 const config = {
     baseDir: 'sein',
+    siteTitle: 'The Daily Sein',
     localStoragePrefix: 'dailySein',
     successPhrases: [
         "I'm busting!", "Serenity Now", "Get out!", "We're in business, baby!",

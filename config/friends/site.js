@@ -2,32 +2,43 @@ import gifs from './gif-config.js';
 
 const config = {
     baseDir: 'friends',
+    siteTitle: 'The Daily Friends',
     localStoragePrefix: 'dailyFriends',
     successPhrases: [
-        "TEST",
+        "Pivot!", "How you doin’?", "I KNOW!", "Could I BE any more excited?", "Unagi",
+        "Stop the Madness!", "That is brand new information!", "Oh. My. God.", "I knew it!",
+        "Yeah, baby!",
         ],
     characterImages: {
-        jerry: {
-            filename: 'jerry.webp',
-            name: 'Jerry',
+        phoebe: {
+            filename: 'phoebe.png',
+            name: 'Phoebe',
         },
-        elaine: {
-            filename: 'elaine.webp',
-            name: 'Elaine',
+        chandler: {
+            filename: 'chandler.png',
+            name: 'Chandler',
         },
-        kramer: {
-            filename: 'kramer.webp',
-            name: 'Kramer',
+        rachel: {
+            filename: 'rachel.png',
+            name: 'Rachel',
         },
-        george: {
-            filename: 'george.webp',
-            name: 'George',
+        ross: {
+            filename: 'ross.png',
+            name: 'Ross',
+        },
+        monica: {
+            filename: 'monica.png',
+            name: 'Monica',
+        },
+        joey: {
+            filename: 'joey.png',
+            name: 'Joey',
         },
     },
     shareText: 'TheDailyFriends.com',
     comeBackImage: {
-        filename: 'manana.jpg',
-        altText: 'What are you doing mañana',
+        filename: 'tomorrow.gif',
+        altText: "I'll see you tomorrow",
     },
     gifs,
 };

@@ -5,16 +5,6 @@
   position: relative;
 }
 
-.logo {
-  text-transform: uppercase;
-  background: rgb(247, 201, 52);
-  border: 5px solid rgb(201, 9, 33);
-  border-radius: 50%;
-  padding: 10px;
-  rotate: -7deg;    
-  font-family: 'Afacad Flux', sans-serif;
-}
-
 .question-container {
   min-height: 200px;
 }
@@ -99,7 +89,8 @@
   list-style: none;
 }
 
-@keyframes boing {5  0%, 100% { transform: translateY(0); }
+@keyframes boing {
+  0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-10px); }
 }
 
