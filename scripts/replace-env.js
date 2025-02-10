@@ -6,6 +6,7 @@ function replaceEnvs() {
 
     // Get config file path from ENV, default to `config.json`
     const configPath = path.resolve(__dirname, `../config/${process.env.VITE_SITE}/prebuild.json`);
+    console.log('dirname', __dirname);
 
     // Load config file dynamically
     if (!fs.existsSync(configPath)) {
