@@ -8,7 +8,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -22,9 +21,13 @@ jobs:
         run: npm install
 
       - name: Run prebuild script
+        env:
+          VITE_SITE: ${{ vars.VITE_SITE }}
         run: npm run prebuild
 
       - name: Build the project
+        env:
+          SITE_BASE: ${{ vars.SITE_BASE }}
         run: npm run build
 
       - name: Deploy to GitHub Pages
