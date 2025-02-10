@@ -7,7 +7,6 @@ import { getFormattedDate } from './utils/triviaData';
 import config from '../config';
 
 function App() {
-    const version = 'v1.3';
     const [hasLoadedGame, setHasLoadedGame] = useState(false);
     const [questions, setQuestions] = useState([]);
     const [gameNumber, setGameNumber] = useState(null);
@@ -135,7 +134,6 @@ function App() {
                       isPreviouslyCompleted={isPreviouslyCompleted}
                   />
                 </div>
-                <div className="fixed bottom-2 left-2 text-gray-300 text-xs">{version}</div>
             </>
         ) : null;
     }
@@ -169,7 +167,6 @@ function App() {
                     />
                 ))}
             </div>
-            <div className="fixed bottom-1 left-1 text-gray-300 text-xs">{version}</div>
         </div>
     );
 }
