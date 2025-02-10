@@ -20,11 +20,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # - name: Run prebuild script
-      #   env:
-          
-      #   run: npm run prebuild
-
       - name: Build the project
         env:
           SITE_BASE: ${{ secrets.SITE_BASE }}
