@@ -22,12 +22,12 @@ jobs:
 
       - name: Run prebuild script
         env:
-          VITE_SITE: ${{ vars.VITE_SITE }}
+          VITE_SITE: ${{ github.environment.VITE_SITE }}
         run: npm run prebuild
 
       - name: Build the project
         env:
-          SITE_BASE: ${{ vars.SITE_BASE }}
+          SITE_BASE: ${{ github.environment.SITE_BASE }}
         run: npm run build
 
       - name: Deploy to GitHub Pages
