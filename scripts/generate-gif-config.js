@@ -45,7 +45,6 @@ function generateGifConfig() {
             }
         }
 
-        // Write the config.js file in the src directory
         const configContent = `const gifs = ${JSON.stringify(gifConfig, null, 2)};\n\nexport default gifs;`;
         fs.writeFileSync(path.join(path.dirname(new URL(import.meta.url).pathname), `../config/${config.baseDir}/gif-config.js`), configContent);
         console.log('gifs.js has been created in the config directory.');

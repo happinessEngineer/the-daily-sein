@@ -20,14 +20,15 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run prebuild script
-        env:
-          VITE_SITE: ${{ secrets.VITE_SITE }}
-        run: npm run prebuild
+      # - name: Run prebuild script
+      #   env:
+          
+      #   run: npm run prebuild
 
       - name: Build the project
         env:
           SITE_BASE: ${{ secrets.SITE_BASE }}
+          VITE_SITE: ${{ secrets.VITE_SITE }}
         run: npm run build
 
       - name: Deploy to GitHub Pages
